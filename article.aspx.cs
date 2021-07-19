@@ -251,13 +251,20 @@ public partial class _Article : BasePage
                                     where t.ID > item.ID && t.CreatedBy == item.CreatedBy && t.Category == item.Category
                                         && (t.Status == (byte)PostStatusType.Publish)
                                     select t).FirstOrDefault();
-
+                if (PPM.NextByWriter != null)
+                {
+                    PPM.RecommendationList.Add(new Article(PPM.NextByWriter));
+                }
 
                 // get the previous article by this writer in the same category
                 PPM.PrevByWriter = (from t in dc.Posts
                                     where t.ID < item.ID && t.CreatedBy == item.CreatedBy && t.Category == item.Category
                                         && (t.Status == (byte)PostStatusType.Publish)
                                     select t).FirstOrDefault();
+                if (PPM.PrevByWriter != null)
+                {
+                    PPM.RecommendationList.Add(new Article(PPM.PrevByWriter));
+                }
                 //- 3 latest stories by other writers in same category
                 var Latest3SameCatOtherWrites = (from t in dc.Posts
                  where t.CreatedBy != item.CreatedBy && t.Category == item.Category

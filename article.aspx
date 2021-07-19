@@ -70,7 +70,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="Server">
     <div class="row-fluid">
-        <div class="span12">
+        <div class="span12" style="text-align:center;">
             <h1>
                 <%: PPM.Item.Title%>
             </h1>
@@ -137,72 +137,41 @@
             </script>
         </div>
     </div>
-    <div class="row-fluid">
-        <div class="span12" style="text-align:center;">
-            <h6>
-                <span class="sectionheading">Recommendations</span>
-            </h6>
-            <%if (PPM.NextByWriter != null)
+    <%if (PPM.RecommendationList.Count > 0)
+        { %>
+    <div class="row-fluid" style="text-align:center;">
+        <h6>
+            <span class="sectionheading">Recommendations</span>
+        </h6>
+        <ul class="thumbnails">
+            <%for (int i = 1; i <= PPM.RecommendationList.Count; i++)
+                {
+                    Article p = PPM.RecommendationList[i-1];
+            %>
+            <li class="span4" style="max-height:375px; overflow-y:hidden;">
+                <div class="thumbnail" >
+                    <%if (!string.IsNullOrEmpty(p.OGImage))
+                        { %>
+                    <a href="//www.rockying.com/a/<%= p.URL %>">
+                        <span class="articleimage" style="display: block; background-image: url(<%= p.OGImage %>)"></span></a>
+                    <%} %>
+                    <div class="caption">
+                        <h3><a href="//www.rockying.com/a/<%= p.URL %>" style="">
+                            <%: p.Title %>
+                        </a></h3>
+                        <p><%:p.OGDescription %> </p>
+                    </div>
+                </div>
+            </li>
+            <% if ( i % 3 == 0)
                 { %>
-            <div class="adjusting-block span4">
-                <%if (!string.IsNullOrEmpty(PPM.NextByWriter.OGImage))
-                    { %>
-                <a href="//www.rockying.com/a/<%: PPM.NextByWriter.URL %>">
-                    <span style="display: block; width: 100%; max-height: 250px; overflow: hidden;">
-                        <img src="<%: Utility.TrimStartHTTP(PPM.NextByWriter.OGImage) %>" alt="" />
-                    </span>
-                </a>
-                <%} %>
-                <h5 class="refertitle">
-                    <a href="//www.rockying.com/a/<%: PPM.NextByWriter.URL %>">
-                        <%: PPM.NextByWriter.Title %>
-                    </a>
-                </h5>
-                <div style="text-align: center; margin-bottom: 5px;"><%:PPM.NextByWriter.Category1.Name %> Story By <%: PPM.NextByWriter.WriterName %></div>
-                <p style="text-align: justify;"><%: PPM.NextByWriter.OGDescription %></p>
-            </div>
-            <%} %>
-
-            <%if (PPM.PrevByWriter != null)
-                { %>
-            <div class="adjusting-block">
-                <%if (!string.IsNullOrEmpty(PPM.PrevByWriter.OGImage))
-                    { %>
-                <a href="//www.rockying.com/a/<%= PPM.PrevByWriter.URL %>">
-                    <span style="display: block; width: 100%; max-height: 250px; overflow: hidden;">
-                        <img src="<%= Utility.TrimStartHTTP(PPM.PrevByWriter.OGImage) %>" alt="" />
-                    </span>
-                </a>
-                <%} %>
-                <h5 class="refertitle"><a href="//www.rockying.com/a/<%= PPM.PrevByWriter.URL %>">
-                    <%: PPM.PrevByWriter.Title %>
-                </a></h5>
-                <div style="text-align: center; margin-bottom: 5px;"><%:PPM.PrevByWriter.Category1.Name %> Story By <%: PPM.PrevByWriter.WriterName %></div>
-                <p style="text-align: justify;"><%: PPM.PrevByWriter.OGDescription %></p>
-            </div>
-            <%} %>
-            <%if (PPM.RecommendationList.Count > 0)
-                { %>
-            <%foreach (Article p in PPM.RecommendationList)
-                { %>
-            <div class="adjusting-block">
-                <a href="//www.rockying.com/a/<%= p.URL %>">
-                    <span style="display: block; width: 100%; max-height: 250px; overflow: hidden;">
-
-                        <img src="<%= Utility.TrimStartHTTP(p.OGImage) %>" alt="" />
-                    </span>
-                </a>
-
-                <h5 class="refertitle"><a href="//www.rockying.com/a/<%= p.URL %>">
-                    <%: p.Title %>
-                </a></h5>
-                <div style="text-align: center; margin-bottom: 5px;">Story By <%: p.WriterName %></div>
-                <p style="text-align: justify;"><%: p.OGDescription %></p>
-            </div>
+        </ul>
+        <ul class="thumbnails">
             <%} %>
             <%} %>
-        </div>
+        </ul>
     </div>
+    <%} %>
     <% if (CurrentUser != null)
         {
             if (CurrentUser.UserType == (byte)MemberTypeType.Admin || CurrentUser.ID == PPM.Item.CreatedBy)
