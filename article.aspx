@@ -70,7 +70,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="Server">
     <div class="row-fluid">
-        <div class="span9">
+        <div class="span12">
             <h1>
                 <%: PPM.Item.Title%>
             </h1>
@@ -136,18 +136,15 @@
                 }());
             </script>
         </div>
-        <div class="span3">
-            <h6>
-                <span class="sectionheading">Connect With Us</span>
-            </h6>
-            <!-- Go to www.addthis.com/dashboard to customize your tools -->
-            <div class="addthis_inline_follow_toolbox"></div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="text-align:center;">
             <h6>
                 <span class="sectionheading">Recommendations</span>
             </h6>
             <%if (PPM.NextByWriter != null)
                 { %>
-            <div class="adjusting-block">
+            <div class="adjusting-block span4">
                 <%if (!string.IsNullOrEmpty(PPM.NextByWriter.OGImage))
                     { %>
                 <a href="//www.rockying.com/a/<%: PPM.NextByWriter.URL %>">
@@ -156,21 +153,18 @@
                     </span>
                 </a>
                 <%} %>
-
                 <h5 class="refertitle">
                     <a href="//www.rockying.com/a/<%: PPM.NextByWriter.URL %>">
                         <%: PPM.NextByWriter.Title %>
                     </a>
                 </h5>
-                <div style="text-align: center; margin-bottom:5px;"><%:PPM.NextByWriter.Category1.Name %> Story By <%: PPM.NextByWriter.WriterName %></div>
+                <div style="text-align: center; margin-bottom: 5px;"><%:PPM.NextByWriter.Category1.Name %> Story By <%: PPM.NextByWriter.WriterName %></div>
                 <p style="text-align: justify;"><%: PPM.NextByWriter.OGDescription %></p>
             </div>
-            <br />
             <%} %>
 
             <%if (PPM.PrevByWriter != null)
                 { %>
-
             <div class="adjusting-block">
                 <%if (!string.IsNullOrEmpty(PPM.PrevByWriter.OGImage))
                     { %>
@@ -183,10 +177,9 @@
                 <h5 class="refertitle"><a href="//www.rockying.com/a/<%= PPM.PrevByWriter.URL %>">
                     <%: PPM.PrevByWriter.Title %>
                 </a></h5>
-                <div style="text-align: center; margin-bottom:5px;"><%:PPM.PrevByWriter.Category1.Name %> Story By <%: PPM.PrevByWriter.WriterName %></div>
+                <div style="text-align: center; margin-bottom: 5px;"><%:PPM.PrevByWriter.Category1.Name %> Story By <%: PPM.PrevByWriter.WriterName %></div>
                 <p style="text-align: justify;"><%: PPM.PrevByWriter.OGDescription %></p>
             </div>
-            <br />
             <%} %>
             <%if (PPM.RecommendationList.Count > 0)
                 { %>
@@ -194,16 +187,16 @@
                 { %>
             <div class="adjusting-block">
                 <a href="//www.rockying.com/a/<%= p.URL %>">
-                    <div style="width: 100%; max-height: 250px; overflow: hidden;">
+                    <span style="display: block; width: 100%; max-height: 250px; overflow: hidden;">
 
                         <img src="<%= Utility.TrimStartHTTP(p.OGImage) %>" alt="" />
-                    </div>
+                    </span>
                 </a>
 
                 <h5 class="refertitle"><a href="//www.rockying.com/a/<%= p.URL %>">
                     <%: p.Title %>
                 </a></h5>
-                <div style="text-align: center; margin-bottom:5px;">Story By <%: p.WriterName %></div>
+                <div style="text-align: center; margin-bottom: 5px;">Story By <%: p.WriterName %></div>
                 <p style="text-align: justify;"><%: p.OGDescription %></p>
             </div>
             <%} %>

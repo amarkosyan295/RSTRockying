@@ -66,7 +66,7 @@ namespace Rockying
     partial void DeleteCategory(Rockying.Models.Category instance);
     #endregion
 		
-		public RockyingDataClassesDataContext(string connection = "Data Source=162.222.225.88;Initial Catalog=rockyclf_rockying; User ID=rstrockying; Password='ktA^t890';") : 
+		public RockyingDataClassesDataContext(string connection) : 
 				base(connection, mappingSource)
 		{
 			OnCreated();

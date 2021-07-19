@@ -18,7 +18,7 @@ body {
         font-size: 1.25rem;
         line-height: 30px;
         text-align: justify;
-        letter-spacing:1px;
+        letter-spacing: 1px;
     }
 
     #article li, #article h1, #article h2, #article h3, #article h4, #article h5, #article h6 {
@@ -93,6 +93,11 @@ h1, h2, h3, h4, h5, h6 {
     color: #000;
     text-align: center;
 }
+
+    .refertitle a {
+        color: #000;
+        font-size: 1rem;
+    }
 
 .sectionheading {
     font-family: 'Merriweather', serif, Georgia;
@@ -178,11 +183,11 @@ footer {
 
 .adjusting-block {
     max-width: 93%;
-    width: 200px;
-    padding: 5px;
+    width: 31%;
+    /*padding: 5px;
     margin: 5px;
     border: 1px solid #D4D4D4;
-    border-radius: 5px;
+    border-radius: 5px;*/
     display: inline-block;
     min-height: 100px;
     vertical-align: top;
@@ -230,15 +235,15 @@ div[id="article"] > p:nth-child(1)::first-letter {
     width: 100%;
     display: block;
     background-color: #E3313A;
-    color:#fff;
-    text-align:center;
-    display:none;
-    font-size:1.45em;
+    color: #fff;
+    text-align: center;
+    display: none;
+    font-size: 1.45em;
 }
 
-    #bottomribbon h4, #bottomribbon h5, #bottomribbon h6{
-        padding:5px;
-        margin:0px;
+    #bottomribbon h4, #bottomribbon h5, #bottomribbon h6 {
+        padding: 5px;
+        margin: 0px;
     }
 
     #bottomribbon a {
@@ -257,7 +262,7 @@ div[id="article"] > p:nth-child(1)::first-letter {
             margin-right: 10px;
             text-shadow: none;
             opacity: 1;
-            text-decoration:none;
+            text-decoration: none;
         }
 
 #article > ul.left > li, #article > ol.left > li {
@@ -281,7 +286,7 @@ div[id="article"] > p:nth-child(1)::first-letter {
 /*Custom thumnail list*/
 .thumbnails .thumbnail {
     border: none;
-    text-align:center;
+    text-align: center;
 }
 
     .thumbnails .thumbnail .articleimage {
