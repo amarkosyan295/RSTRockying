@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>cUaHslDcAwvzfm</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>rqc70</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>WMCjFo</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;rqc70&lt;/p&gt;</Description>
+  <Text>Very Good Site http://rockettube.fun/ rocket tube  We need to reinstitute the American Tariff that Alexander Hamilton first created, and continued thoughout the entire trajectory of America to the leading manufacturing, commercial and scientific position in the world.</Text>
+  <WriterName>11OG2</WriterName>
+  <WriterEmail>scott5e@aol.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>cuahsldcawvzfm</URL>
+</Article>

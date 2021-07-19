@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Most Healthy New Year Resolution to Make</Title>
+  <OGImage>http://www.rockying.com/art/health/New-Year-Health-Resolutions/Happiness.jpg</OGImage>
+  <OGDescription>The year is at an end. It means time for resolutions! Time to think about what we promise ourselves this year, things we plan to change for a better us. So why not promise yourself and your body someone healthy this year...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Healthy Living, New Year Resolutions, Health Resolutions.</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/health/New-Year-Health-Resolutions/Happiness.jpg' alt='' /&gt;&lt;p&gt;The year is at an end. It means time for resolutions! Time to think about what we promise ourselves this year, things we plan to change for a better us. So why not promise yourself and your body someone healthy this year...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+The year is at an end. It means time for resolutions! Time to think about what we promise ourselves this year, things we plan to change for a better us. So why not promise yourself and your body someone healthy this year. Here are some suggestions for a healthy, more wonderfully active New Year!
+&lt;/p&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

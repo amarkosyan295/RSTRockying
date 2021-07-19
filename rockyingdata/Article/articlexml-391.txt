@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>The Best Hindi Pop Album Songs of All Time</Title>
+  <OGImage>http://www.rockying.com/art/bollywood/Best-Brother/hare-rama-hare-krishna.jpg</OGImage>
+  <OGDescription>guguguiugiugi</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>15</Category>
+  <Tag>Hindi,</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Best-Brother/hare-rama-hare-krishna.jpg' alt='' /&gt;&lt;p&gt;guguguiugiugi&lt;/p&gt;</Description>
+  <Text>1. Mae Ri (Euphoria)
+2. Kabhi Ana Tu Meri Gali (Euphoria)
+3. Dhoom Pichuk Dhoom (Euphoria)
+4. Ab na Ja (Euphoria)
+5. Tera Chehra (Tera Chehra)
+6.  Mujhe Mil Jo Jae Thoda Paisa (Agosh)
+7.  Dooba-Dooba (Silk-Route)
+8.  Tauba-Tauba
+9.    Teri Deewani
+10.  Saiyaan
+11.  Tere Ishq Mein (Ishqa - Ishqa) 
+12.  Kabhi Nahin
+13.  Lift Karade
+14.  Pari Hoon Main (Dhuan: Suneeta Rao) [https://www.youtube.com/watch?v=wzB32ZScPS0]
+15.  Shaam Se Ankh Me Nami
+16.  O sanam mohabbat ki Kasam (Sunoh: Lucky Ali)
+17.  Kabhi to Nazar Milao
+18.  BHeegi-Bheegi Raton Me
+19.  Gori Teri Ankhein
+20.  Dekha Hai Aise BHi 
+21.  Tere Mere Saath jo Hota hAi
+22.  Piya BAsanti
+23.  Leja Leja Re
+24.  Aur Aahista
+25. Chandni Raatein
+26.  Aankhon Me tEra hi Chehra
+27.  Jab Saamne tum aa jate ho
+28.  Deewana tera
+29.  Is qadar pyaar hai
+30.  Ab mujhe rat din
+31. Tera milna
+32. Kya surat hai.
+33. Wo chali
+34.</Text>
+  <WriterName>Preeti Singh</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>the-best-hindi-pop-album-songs-of-all-time</URL>
+</Article>

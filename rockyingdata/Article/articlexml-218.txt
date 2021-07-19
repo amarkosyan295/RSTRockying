@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>The Way Of The Vegetarian</Title>
+  <MetaTitle>The Way Of The Vegetarian</MetaTitle>
+  <OGImage>//www.rockying.com/art/health/Vegetarianism/The-way-of-the-vegetarian.jpg</OGImage>
+  <OGDescription>Salad or chicken? Is it really that hard to decide? Actually, no! If you think the world would be a lesser place without all things non-vegetarian, read on...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Salad, Chicken, Being Vegetarian, Veg vs Non-veg</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/health/Vegetarianism/The-way-of-the-vegetarian.jpg' alt='' /&gt;&lt;p&gt;Salad or chicken? Is it really that hard to decide? Actually, no! If you think the world would be a lesser place without all things non-vegetarian, read on...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    Salad or chicken? Is it really that hard to decide? Actually, no! If you think the
+    world would be a lesser place without all things non-vegetarian, read on...&lt;/p&gt;
+&lt;img src="//rockying.com/art/health/Vegetarianism/Vegetarian-vs-non-vegetarian.jpg"
+    alt="" /&gt;
+&lt;p&gt;
+    We could give ourselves a hundred reasons—why being a vegetarian is not only planet-friendly
+    but is also the healthier, safer and the only sustainable option for a generation
+    waking up to clogged arteries and early heart attacks—but we'll settle for just
+    a few, and we'll keep it simple and short!&lt;/p&gt;
+&lt;p&gt;
+    Seventy percent of the planet is covered with water. Eighty percent of our body
+    is made up of water. What do you think a large percentage of our diet should contain?
+    Simple—foods that are naturally rich in water! And there are only 3 kinds on the
+    planet: fruits, vegetables, and sprouts. We need to make certain that 70% of our
+    diet is made up of such foods.&lt;/p&gt;
+&lt;p&gt;
+    Let’s look at nature. If we look for the biggest and most powerful animals, we will
+    find that they are herbivores! Gorillas, elephants, rhinoceroses, and so on eat
+    only water-rich foods. If that's not enough, try disputing these research findings:
+    Herbivores live longer than carnivores! Strongest bones on the planet belong to
+    the vegetarians!&lt;/p&gt;
+&lt;p&gt;
+    Do we think looks matter? Just conjure up the image of a vulture. Wondering why
+    it looks the way it does? Doesn't eat water-rich foods! If we eat something that's
+    dried and dead, guess what we're going to look like? :) We're only half-kidding
+    here! Human body, they say, is the temple of the living soul. If that's true then
+    we better watch our offerings!
+&lt;/p&gt;
+&lt;p&gt;
+    Still in two minds? Fine—do we like meat? “Love it”, you say. But do you know it
+    contains high levels of uric acid? “Does it?” “Okay, but what's the big deal?” Nothing
+    really—just that it's one of the body's waste products and if not quickly and completely
+    removed from the bloodstream, its excess can lead to gout or bladder stones, not
+    to mention that it’s high levels are also found in those suffering from leukemia!&lt;/p&gt;
+&lt;p&gt;
+    “All right, but it tastes so good?” Sure, it does. But do we know what gives it
+    that to-die-for taste? The same acid from that now-dead animal we're consuming,
+    who would have excreted it if still alive! Gross, isn’t it? Well…welcome to carnivoreville!
+&lt;/p&gt;
+&lt;p&gt;
+    Have a look at the following video to know how animals are treated before slaughtering...&lt;/p&gt;
+&lt;iframe width="640" height="480" src="http://www.youtube-nocookie.com/embed/HeempD8cJDE?rel=0"
+    frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;
+    We could go on (to list, among other things, that meat is teeming with colon germs)
+    but we promised to keep it short. Point is—we have the choice to give up eating
+    off the flesh and skin of other living beings and be healthier and happier than
+    we are by treading the—water-rich and nutritious—way of the vegetarian!&lt;/p&gt;
+&lt;p&gt;
+    And for the record—do we know what’s common between Pythagoras, Socrates, Plato,
+    Aristotle, Leonardo da Vinci, Issac Newton, Voltaire, Henry David Thoreau, Thomas
+    Edison, George Bernard Shaw, Mahatma Gandhi, and for that matter, Brad Pitt?!&lt;/p&gt;
+&lt;h5&gt;
+    They were/are all vegetarians! A cool enough set of dudes—to emulate—we think…&lt;/h5&gt;</Text>
+  <WriterName>Parikshit Bhardwaj</WriterName>
+  <WriterEmail>p@email.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>218</URL>
+</Article>

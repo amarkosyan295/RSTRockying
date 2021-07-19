@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>The Modern Indian Inventors</Title>
+  <OGImage>http://www.rudrasofttech.com/rockying/art/Initiative/Modern-Inventors/Dr-Kalam-Home-page.jpg</OGImage>
+  <OGDescription>Life gave them lemons. And they turned them into as perfect lemonades. They are the ones that felt the necessity to invent. They took the initiative to not only mend their own torn shoes but also the society’s.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>14</Category>
+  <Tag>Inventors, Indian Inventors, A.P.J. Abdul Kalam (India Bobbles), Ajay Bhatt, Vinod Dham, Udhhab Bharali, Susant Pattnaik</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rudrasofttech.com/rockying/art/Initiative/Modern-Inventors/Dr-Kalam-Home-page.jpg' alt='' /&gt;&lt;p&gt;Life gave them lemons. And they turned them into as perfect lemonades. They are the ones that felt the necessity to invent. They took the initiative to not only mend their own torn shoes but also the society’s.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    Life gave them lemons. And they turned them into as perfect lemonades. They are
+    the ones that felt the necessity to invent. They took the initiative to not only
+    mend their own torn shoes but also the society’s. They changed the world and the
+    way it lived. They, are the Indian Inventors. Rockying celebrates some of the less
+    known and the most renowned inventors and innovators of modern times. Unfurled here
+    is history in the making...&lt;/p&gt;
+&lt;h3&gt;
+    UDDHAB BHARALI&lt;/h3&gt;
+&lt;img src="http://www.rudrasofttech.com/rockying/art/Initiative/Modern-Inventors/Udhhab-Collage.jpg"
+    alt="UDDHAB BHARALI" style="max-width: 95%" /&gt;
+&lt;p&gt;
+    An incredible rural innovator from Assam, Udhhab is a mechanical engineer through
+    distance education, who could not afford a full time engineering course living in
+    his village.
+&lt;/p&gt;
+&lt;h5&gt;
+    INVENTIONS&lt;/h5&gt;
+&lt;p&gt;
+    A light weight (2-2.5 kgs) &lt;b&gt;Benchtop Pomegrenate De-seeder&lt;/b&gt; that costs Rs.
+    2000-2400. Udhhab tells his innovation is very low cost operated and requires very
+    less power to run. He also qualified for the NASA Exceptional Technology Achievement
+    Medal for his design of this pomegranate de-seeder.&lt;/p&gt;
+&lt;p&gt;
+    In his earlier days of poverty he developed a &lt;b&gt;Low Cost Polythene Making Machine&lt;/b&gt;
+    to support his family’s finance.&lt;/p&gt;
+&lt;p&gt;
+    He also developed a &lt;b&gt;Mini CTC Tea plant&lt;/b&gt; that can be set-up with very low cost
+    and is a revolutionary innovation for poor farmers who would be free to set up one
+    of their own.&lt;/p&gt;
+&lt;p&gt;
+    Much similar to his pomegranate de-seeder he also made an &lt;b&gt;Areca nut Peeler&lt;/b&gt;
+    and many such innovations&lt;/p&gt;
+&lt;h5&gt;
+    ACHIEVEMENTS&lt;/h5&gt;
+&lt;p&gt;
+    39 universal patents to his name.&lt;/p&gt;
+&lt;p&gt;
+    Innovated 98 engineering devices.&lt;/p&gt;
+&lt;h5&gt;
+    AWARDS&lt;/h5&gt;
+&lt;p&gt;
+    Has qualified for the NASA (National Aeronautics and Space Administration) Exceptional
+    Technology Achievement Medal.&lt;/p&gt;
+&lt;p&gt;
+    Nominated for World Technology Award.&lt;/p&gt;
+&lt;h5&gt;
+    Mission&lt;/h5&gt;
+&lt;p&gt;
+    This genius inventor does not want to get into entrepreneurship and says he would
+    stick to research and development of many such low-cost innovations to bring about
+    change for farmers, small business owners, etc.&lt;/p&gt;
+&lt;h5&gt;
+    HIS MANTRA: One cannot perform innovative activities part time. An innovator lives
+    with innovation.&lt;/h5&gt;
+&lt;hr /&gt;
+&lt;h3&gt;
+    AJAY BHATT&lt;/h3&gt;
+&lt;p&gt;
+    Portrayed and famed in a 2009 Intel ad (&lt;a href="http://www.youtube.com/watch?v=q-8GVi2Fdi4"
+        target="_blank"&gt;check ad here&lt;/a&gt;), the real Ajay Bhatt says “His dream came
+    true with getting the opportunity to shape the future of the PC”. Working as the
+    Chief Platform Architect at Intel, Ajay Bhatt is the co-inventor of several technologies
+    such as &lt;b&gt;USB (Universal Serial Bus)&lt;/b&gt;, AGP (Accelerated Graphic Port), PCI Express,
+    etc.&lt;/p&gt;
+&lt;img src="http://www.rudrasofttech.com/rockying/art/Initiative/Modern-Inventors/Ajay-bhatt-Collage.jpg"
+    alt="AJAY BHATT" style="max-width: 95%" /&gt;
+&lt;h5&gt;
+    The Idea&lt;/h5&gt;
+&lt;p&gt;
+    Once criticized for its vagueness, the idea of a Universal Serial Bus (yes! our
+    very own solution of all storage and data transfer problems) was conceived by Ajay
+    and it took years before he actually got a chance to be able to develop and be known
+    for it. While telling his story Ajay says he kept doing his day job and worked part
+    time on his idea of the USB.&lt;/p&gt;
+&lt;h5&gt;
+    Vision/ Mission&lt;/h5&gt;
+&lt;p&gt;
+    This never-say-die Intel fellow just believes in one thing and that is: “Never take
+    no for an answer. Be persistent, if you have a vision stick to it.”&lt;/p&gt;
+&lt;p&gt;
+    Presently working on Intel’s Light Peak technology, (that is assumed to eradicate
+    USB forever) Bhatt also talks about wireless charging and blue-tooth wireless charging
+    for mobiles and laptops arriving in the near future. A WIRELESS WORLD OF TECHNOLOGY
+    AWAITING US!&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;
+    SUSANT PATTNAIK&lt;/h3&gt;
+&lt;p&gt;
+    A young (just 18) inventor from Bhubaneshwar, Orissa has made innumerous innovations
+    to help disabled people survive the world better. This child prodigy, from designing
+    a laser security system to protect homes, to an accident proof technology for vehicles
+    to the Super sensor technology for the disabled, has proved to the world that sensitivity
+    is no age-phenomenon. A desire for good can lead to incredible innovation to make
+    the world a better place.&lt;/p&gt;
+&lt;img src="http://www.rudrasofttech.com/rockying/art/Initiative/Modern-Inventors/Sushant-Collage.jpg"
+    alt="SUSANT PATTNAIK" style="max-width: 95%" /&gt;
+&lt;p&gt;
+    Susant has founded the &lt;strong&gt;Scientific Innovation Foundation (SIF)&lt;/strong&gt; to
+    promote, generate, document and conceptualize all the innovate ideas present in
+    every nook and corner of the World.
+&lt;/p&gt;
+&lt;h5&gt;
+    Recognition&lt;/h5&gt;
+&lt;p&gt;
+    1. Susant’s Breathing sensor Technology has been recognized by the National Aeronautics
+    and Space Administration (NASA), National Space Society (NSS), International Space
+    Development Conference (ISDC), Massachusetts Institute of Technology (MIT) Technology
+    Review, Intel, Innovation and Knowledge (INK), Kishore Vaiyanik Protsahan Yojana
+    (KVPY), National Children Science Congress (NCSC) and many others. NIT has also
+    filed a patent for this innovation, in his name. Not only that, NIF, Techpedia and
+    the Armaan Foundation is developing the apparatus into a fresh product and will
+    then help commercialize it.&lt;/p&gt;
+&lt;p&gt;
+    2. Susant received awards and recognition from NIF and Dr. APJ Abdul Kalam at the
+    Indian Institute of Management (IIIM) in Ahmadabad, for his accident proof technology
+    which, if implemented in vehicles all around the world, would drastically reduce
+    the number of road accidents.&lt;/p&gt;
+&lt;p&gt;
+    3. In 2011, he was also given a chance to visit the NASA Space Camp to interact
+    with NASA scientists and was allowed to explore their space science equipment.&lt;/p&gt;
+&lt;h5&gt;
+    Inventions&lt;/h5&gt;
+&lt;p&gt;
+    His most successful invention is based on his observation that the only similarities
+    between normal and disabled humans are their power of using the brains and that
+    of breathing. The thought of giving power and control to the disabled lead him to
+    develop his &lt;strong&gt;Breathing Sensor Apparatus&lt;/strong&gt;. This device helps completely
+    disabled persons to do all kinds of work as a normal human being, just by breathing/sniffing
+    commands while sitting on a wheel chair.
+&lt;/p&gt;
+&lt;p&gt;
+    Appreciated by former President of India, Dr. A.P.J. Abdul Kalam via NIF at IIM
+    Ahmadabad in 2009, Susant has also invented a &lt;strong&gt;Low Cost Voice Operated Electrical
+        &amp; Electronics Device&lt;/strong&gt;. This device lets you operate all your house hold
+    electrical and electronic devices by just saying its name and the exact time of
+    activation.
+&lt;/p&gt;
+&lt;p&gt;
+    His latest is his &lt;strong&gt;Super Sensor Technology&lt;/strong&gt; that enables any person
+    to use computers and laptops through a slight head or hand movement. This device
+    needs no touching and absolutely no demand of keyboard and mouse. Useful for both
+    normal and disabled people, this device is a complete tech shift!
+&lt;/p&gt;
+&lt;h6&gt;
+    Mantra: Try and Try until you succeed. Nothing Is Impossible.&lt;/h6&gt;
+&lt;p&gt;
+    To invent something complicated is easy but to invent something simple is quite
+    difficult.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;
+    VINOD DHAM&lt;/h3&gt;
+&lt;img src="http://www.rudrasofttech.com/rockying/art/Initiative/Modern-Inventors/Vinod-Dham-Collage.jpg"
+    alt="VINOD DHAM" style="max-width: 95%" /&gt;
+&lt;p&gt;
+    Vinod Dham, born and brought up in Pune, India, who did his Bachelor’s course from
+    The Delhi College Of Engineering in 1971 says, “ I’m totally an accidental engineer.
+    My interest was Physics and that it lead me to do my master’s degree in ‘Solid-State
+    Physics’ in The USA.” A self-confessed “corrupted-youngster” who got distracted
+    and withdrew from studies and began doing a job with NCR soon after finishing his
+    Master’s Program from The Cincinnati University, Vinod first joined Intel in 1979.
+    Fighting a tough competition the market then offered, this Intel fellow moved on
+    to bring out the Pentium Microprocessor to the world. And as they say rest is his
+    history. Presently, Dham, 62, is the chairman, president and chief executive officer
+    of Silicon Spice, a communications technology development firm.
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;strong&gt;Recognition&lt;/strong&gt; Dham, all around the world, is known as the “Father
+    of Pentium” microprocessors. He is also known as the co-inventor of the flash memory
+    technology. Flash as we know is memory storage in a little chip, popularly called
+    the SD (Secure Digital) card used in USB drives, digital cameras and many other
+    storage devices.
+&lt;/p&gt;
+&lt;blockquote&gt;
+"If you are in the Silicon Valley and have not done a start-up yet, there is something
+    seriously wrong with you."
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+&lt;h3&gt;
+    &lt;a href="http://www.indiabobbles.com/dr-abdul-kalaam-bobblehead" target="_blank" title="Dr-Kalaam-India-Bobbles-Bobble-Head"&gt;A.P.J. ABDUL KALAM&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;
+    Avul Pakir Jainulabdeen Abdul Kalam, born and raised in Rameshvaram in Tamil Nadu
+    served as 11th President of India (2002-2007). Ask him, he says “I have orbited
+    around the sun 80 times”. (Yes! He is 80 years old.)&lt;/p&gt;
+&lt;img src="http://www.rudrasofttech.com/rockying/art/Initiative/Modern-Inventors/kalam-Collage.jpg"
+    alt="A.P.J. ABDUL KALAM" style="max-width: 95%; width:700px;" /&gt;
+&lt;h5&gt;
+    Recognition&lt;/h5&gt;
+&lt;p&gt;
+    Recipient of India’s highest civilian honor, the Bharat Ratna (2007), for his immense
+    contribution to the scientific research and modernisation of defence technology
+    in India, Dr. Kalam was honored with the Padma Bhushan in 1981 and the Padma Vibhushan
+    in 1990, for his role as a scientific advisor to the government.&lt;/p&gt;
+&lt;p&gt;
+    He has also received the Degree of Doctor of Engineering (Honoris Causa) from President
+    of the Republic of Singapore and Chancellor of NTU, Mr S R Nathan, in an award ceremony
+    held on 26 August 2008.&lt;/p&gt;
+&lt;h5&gt;
+    Contribution&lt;/h5&gt;
+&lt;p&gt;
+    Popularly called “The Missile Man of India”, Kalam worked as an aerospace engineer
+    with Defence Research and Development Organisation (DRDO) and Indian Space Research
+    Organisation (ISRO). Amongst his innumerous contributions to the nation, his work
+    on the development of ballistic missile and launch vehicle technology fetched him
+    the title.&lt;/p&gt;
+&lt;p&gt;
+    After the widespread applaud for the ‘Kalam-Raju stent' (a low cost coronary stent),Kalam
+    and well known cardiologist Dr. B. Soma Raju of Care Foundation have designed an
+    indigenous tablet PC for healthcare workers at primary health centers in rural areas.
+    Check this video &lt;a href="http://www.youtube.com/watch?v=lklWBuiwRzk" target="_blank"&gt;
+        link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+    He carried out pivotal roles in developing the missiles Agni and Prithvi and the
+    Polar SLV and SLV-III projects.&lt;/p&gt;
+&lt;p&gt;
+    This scientist, right from building a small helicopter for the Indian Army, to directing
+    Project Devil and Project Valiant, to undertaking a sortie in a fighter aircraft,
+    to looking at an &lt;a href="http://www.abdulkalam.com" target="_blank"&gt;evolved India as
+        his mission&lt;/a&gt;, has dedicated his entire life to the nation.&lt;/p&gt;
+&lt;p&gt;
+    Mission: He aims at transforming India into a developed nation by 2020.&lt;/p&gt;
+&lt;h6&gt;Don't miss our second article &lt;a href="http://www.rockying.com/a/259"&gt;Modern Indian Inventors Part II&lt;/a&gt; in the series. Discover another five Indians that made a difference to lives, not only theirs but also ours, forever!&lt;/h6&gt;</Text>
+  <WriterName>Preeti Singh</WriterName>
+  <WriterEmail>vratika@rudrasofttech.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+</Article>

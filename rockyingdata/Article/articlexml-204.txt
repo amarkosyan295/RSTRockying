@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Art With The Nails?</Title>
+  <OGImage>http://www.rudrasofttech.com/rockying/art/Bizzare/Nail-Art/image005.jpg</OGImage>
+  <OGDescription>Stunning beautiful portraiture using Iron nails.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>21</Category>
+  <Tag>Art</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src="http://www.rudrasofttech.com/rockying/art/Bizzare/Nail-Art/image005.jpg" alt="" /&gt;
+&lt;p&gt;Stunning beautiful portraiture using Iron nails.&lt;/p&gt;</Description>
+  <Text>&lt;div class="carousel"&gt;
+                            &lt;a class="carousel-control left previousslide" href="Javascript:return false;"&gt;&amp;lsaquo;&lt;/a&gt;
+                            &lt;a class="carousel-control right nextslide" href="Javascript:return false;"&gt;&amp;rsaquo;&lt;/a&gt;&lt;div class="slideshow"&gt;
+    &lt;div class="slide thumbnail"&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/Bizzare/Nail-Art/image003.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide thumbnail"&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/Bizzare/Nail-Art/image004.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide thumbnail"&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/Bizzare/Nail-Art/image005.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide thumbnail"&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/Bizzare/Nail-Art/image006.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide thumbnail"&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/Bizzare/Nail-Art/image007.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide thumbnail"&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/Bizzare/Nail-Art/image008.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide thumbnail"&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/Bizzare/Nail-Art/image009.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide thumbnail"&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/Bizzare/Nail-Art/image010.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide thumbnail"&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/Bizzare/Nail-Art/image011.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</Text>
+  <SlideShowOn>true</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Preeti</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

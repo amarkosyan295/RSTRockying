@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Mysterious crime</Title>
+  <MetaTitle>Mysterious crime</MetaTitle>
+  <OGImage />
+  <OGDescription>Mr. Claudi was deceived by his business partners and demanded to reimburse a large amount of money. His wife tried to find the money by doing whatever Karl wants. As a result, she killed her husband not knowing the incident.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>31</Category>
+  <Tag>Inflation,  poverty, bankruptcy, mafia.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='' alt='' /&gt;&lt;p&gt;Mr. Claudi was deceived by his business partners and demanded to reimburse a large amount of money. His wife tried to find the money by doing whatever Karl wants. As a result, she killed her husband not knowing the incident.&lt;/p&gt;</Description>
+  <Text>It is midnight. The birds in the dark are moaning silently. The graveyard is usually felt terribly at this time with various horrible sounds and grounds. Mrs. Claudi unexpectedly heard a troublesome voice at the back of his leg. It was like one of the corpses was dragging her by her leg. She struggled to move forward in a fit of rage, but the corpses seemed to take their action to drag very hard. She woke up scared suddenly and looked at her daughter worrying. Oh, she was as pure as the air, she was also willing to give her whole life for this soft and attractive sleep. What if her daughter stays alone? How could she live on for her future life? In the orphanage? No, she won't give her cute darling to anyone. Yet she has to find the right way to get rid of this problem.
+Mr. and Mrs. Claudi lived merrily until the bankruptcy of the company where Mr. Claudi had been working for 7years. Since then everyone got disappointed, worried to reimburse all the coverage for the government. Or else her husband would be imprisoned for 16 years. Also, their daughter would be given to the orphanage where she wouldn't be shown to her parents anymore. The parents were hopeless to do, there were only 2 weeks for the completion of the contract. Mr. Claudi sighed as soon as he saw the letter of warning. He went into his room, looking at his charming daughter sleeping enjoying.'Oh my God, how will be the next fate of my poor girl?' he was tortured.
+Mrs. Claudi was also distressed, finding different ways to help her husband. Is it possible to borrow some amount? Nope, this is a large amount to give, no-one can afford to do so. The cafe she is working at doesn't pay so much. Even though she works hard from dusk till dawn, hardly do they manage their households and family budget.
+Today she got up sadly yet made breakfast, got dressed quickly, and hurried to work. She works as a waitress, sometimes faces sharp discrimination and different squinting eyes; at these times she tries to flee away from these 'frightening' people. As she is so charming and beautiful, it is possible to face multiple serious problems, as a result, she might have to leave her work. She tolerates gaining enough money for inflation.
+Mr. Claudi realized that he was deceived by his partners, how did they dare? They used 'fake' instructions to inflate him to control the head office. Why didn't he take the manager's words into account beforehand? The reason was just simple: he adored and believed in his friends. This was the fault he had been making for many years. If so, they had been doing betrayal from his back for years!
+Karl realized that the manager would tell his partner about the illegal documents. Mr. Claudi would get to know and give the facts to the headmaster. Nope, never! The manager was found dead, but the question is did he manage to tell everything or not? Whatever happens, he should find Claudi. He ordered his fellows to search him everywhere. Then he wanted to have dinner in a nearby cafe.
+They were reserved a large table with whiskey and jazz. He ordered to open the whiskey and have a rest with other fellows. After drinking some, he suddenly saw a beautiful woman cleaning the dishes hurrying. He became strongly interested in her and asked his guys to compile complete info about her. He was unanimously shocked when he heard that she was the wife of his old partner-Claudi! He thought it a disgusting idea and laughed loudly. Then ordered the fellows to bring her to his place.
+Mrs. Claudi was so scared when she saw 2 fellows coming to her. They told her that she would be given the sufficient money she desires if she did what the boss says. She was somehow fainted and accepted the proposal. She was brought to a dark shabby room where Karl,2 guys, and a prisoner who was covered with a huge tin. Karl. laughed loudly and promised to give whatever amount to her if she shot the prisoner. She was shocked what to do, yet thought about his husband and the fate of her little daughter. She closed her eyes and finally shot the man. After shooting, her hands began shivering and trembling and lose confidence suddenly.
+Observing the incident with joy and humor, Karl can't help laughing continually. No-one could understand the meaning of this tremendous laugh, the woman was about to ask for money. Then the boss ordered the fellows to open the tin. She became watchful and fainted as soon as she saw that the dead person was his husband!</Text>
+  <WriterName>Gulrukh</WriterName>
+  <WriterEmail>missteacherguli@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>mysterious-crime</URL>
+</Article>

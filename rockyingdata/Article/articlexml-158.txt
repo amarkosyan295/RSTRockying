@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>158</ID>
+  <Title>Movies That Roar And Bark; Hollywood's Favorite Animal Films.</Title>
+  <MetaTitle>Hollywood's Favorite Animal based Movies &amp; Films</MetaTitle>
+  <OGImage>//www.rockying.com/art/HOllywood/Animal-Movies/Dunston-Checks-In.jpg</OGImage>
+  <OGDescription>One thing humans love more than themselves (Maybe!) is animals. we provides you the hollywood's favorite Animal based Movies &amp; Films.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>12</Category>
+  <Tag>Animal Movies, Hollywood Movies, Animals, Canine-Human Movies</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/HOllywood/Animal-Movies/Dunston-Checks-In.jpg' alt='' /&gt;&lt;p&gt;One thing humans love more than themselves (Maybe!) is animals. we provides you the hollywood's favorite Animal based Movies &amp; Films.&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px;  height:40px;
+            font-size: 50px; font-weight: 100; color: #000; border: none; text-align: center; margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px;height:40px;
+            font-size: 50px; font-weight: 100; color: #000;border: none; text-align: center;margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="slideshow" style="text-align: center;"&gt;
+        &lt;div class="slide"&gt;
+            &lt;p style="font-size:16px;"&gt;
+                One thing humans love more than themselves (Maybe!) is animals. From man's best
+                friend to maybe a living nightmare; animals have influenced human life in many ways.
+                So it is obvious that they form an integral part of some of the biggest on screen
+                movies. Here's highlighting some of the movies that run on the animal human connection.&lt;/p&gt;
+            &lt;h4&gt;
+                &lt;a href="http://www.youtube.com/watch?v=XBJD-lxh078" target="_blank"&gt;101 DALMATIANS&lt;/a&gt;&lt;/h4&gt;
+            &lt;img src="http://rockying.com/art/HOllywood/Animal-Movies/101-Dalmatians.jpg"
+                title="101 Dalmatians" alt="" style="width: 500px;" /&gt;
+            &lt;p&gt;
+                Probably the most popular movie to have us all fall in love with dogs - or Dalmatians
+                in specific. Glenn Close as Cruell DeVille, a designer who is obsessed with designing
+                fur coats out of real Dalmatians is extremely villainous. The highlight of the story
+                is the escape of the 101 dalmatians from the evil estate called the De Vil Mansion.
+                The sequel, 102 Dalmatians was just as adorable!&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;h4&gt;
+                &lt;a href="http://www.youtube.com/watch?v=0UMMGNxg1Lg" target="_blank"&gt;MARLEY AND ME&lt;/a&gt;&lt;/h4&gt;
+            &lt;img src="http://rockying.com/art/HOllywood/Animal-Movies/marley-and-me-2.jpg"
+                title="Marley And Me" alt="" style="width: 600px;" /&gt;&lt;p&gt;
+                    Based on the memoir of the same name by John Grogan, Marley and Me transcends the
+                    life of a couple and their dog and vice versa. It covers the story of the titular
+                    dog Marley as he is adopted by a newly expectant couple, played by Owen Wilson and
+                    Jennifer Aniston. They name him Marley as a tribute to Bob Marley. And as man’s
+                    best friend, Marley stands by everything - depression, Jenny’s miscarriage, children
+                    and moving to a new house.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h4&gt;
+                &lt;a href="http://www.youtube.com/watch?v=QOX1jaUEVRE" target="_blank"&gt;MIGHTY JOE YOUNG&lt;/a&gt;&lt;/h4&gt;
+            &lt;img src="http://rockying.com/art/HOllywood/Animal-Movies/Mighty-Joe-Young.jpg"
+                title="Mighty Joe Young" alt="" style="width: 600px;" /&gt;&lt;p&gt;
+                    A woman's struggle to save her gorillas from the poachers. Charlize Theron plays
+                    Jill, a woman who has witnessed the death of her mother and that of her gorilla,
+                    Joe's Mother. He is bought to America for safety reasons; but he escapes and creates
+                    havoc in Hollywood. The story then traces his survival through it all.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h4&gt;
+                &lt;a href="http://www.youtube.com/watch?v=ozMmf9Yi7TM" target="_blank"&gt;DR. DOLITTLE&lt;/a&gt;&lt;/h4&gt;
+            &lt;img src="http://rockying.com/art/HOllywood/Animal-Movies/Dr_Dolittle_.jpg"
+                title="Dr. Dolittle" alt="" style="width: 600px;" /&gt;&lt;p&gt;
+                    A doctor who understand what animals are saying and the animals find out. A complete
+                    laugh riot with the amazingly hilarious Eddie Murphy as Dr. Dolittle who can not
+                    only talk to them but used the power to treat animals better.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h4&gt;
+                &lt;a href="http://www.youtube.com/watch?v=zPJ6DBYcFbE" target="_blank"&gt;STUART LITTLE&lt;/a&gt;&lt;/h4&gt;
+            &lt;img src="http://rockying.com/art/HOllywood/Animal-Movies/stuart_little.jpg"
+                title="Stuart Little" alt="" style="width: 600px;" /&gt;&lt;p&gt;
+                    The Little family adopts an adorably naughty but extremely charming young mouse
+                    and name him Stuart. But will Stuart be able to gain the love and affection as the
+                    first pet of the house is a cat! Gradually, with loads of misadventures, Stuart
+                    and Snowbell, the cat make amends as to the best of family intentions.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h4&gt;
+                &lt;a href="http://www.youtube.com/watch?v=JVSidsXdLdI"&gt;DUNSTON CHECKS IN&lt;/a&gt;&lt;/h4&gt;
+            &lt;img src="http://rockying.com/art/HOllywood/Animal-Movies/Dunston-Checks-In.jpg"
+                title="Dunston Checks In" alt="" style="width: 600px;" /&gt;&lt;p&gt;
+                    A jewel thief arrives at a luxury hotel with a trained orangutan. The orangutan
+                    is trained to steal but little does the thief know that the innocent animal is seeking
+                    escape from poor animal treatment and unjust means. The setting of a luxury hotel
+                    and the befriending of the orangutan with a little boy saves the day.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h4&gt;
+                &lt;a href="http://www.youtube.com/watch?v=HtJP_ueJ82Q"&gt;LARGER THAN LIFE&lt;/a&gt;&lt;/h4&gt;
+            &lt;img src="http://rockying.com/art/HOllywood/Animal-Movies/Larger-Than-Life.jpg"
+                title="Larger Than Life" alt="" style="width: 600px;" /&gt;&lt;p&gt;
+                    A motivational speaker gets the surprise of his life when his father, a circus clown,
+                    leaves him an elephant in his will. Jack sees this is an opportunity to pay off
+                    his debts by selling the animal. However, traveling with the 8000 pound elephants
+                    forms the bulk of the movie.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h4&gt;
+                &lt;a href="http://www.youtube.com/watch?v=8YsCQbAsptk&amp;amp;feature=related" target="_blank"&gt;
+                    HACHIKO A DOG'S STORY&lt;/a&gt;&lt;/h4&gt;
+            &lt;img src="http://rockying.com/art/HOllywood/Animal-Movies/Hachiko.jpg"
+                title="Hachiko Dog Story" alt="" style="width: 600px;" /&gt;&lt;p&gt;
+                    A true story inspired by a professor's life as he takes a dog into his life. The
+                    dog waited for his professor everyday at the station when the master returned from
+                    work. But one day, the professor dies of cerebral hemorrhage and never returns to
+                    the station. However, the dog kept waiting. Everyday until his own death nine years
+                    later.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h4&gt;
+                &lt;a href="http://www.youtube.com/watch?v=bqDf22JiTyw" target="_blank"&gt;TURNER AND HOOCH&lt;/a&gt;&lt;/h4&gt;
+            &lt;img src="http://rockying.com/art/HOllywood/Animal-Movies/Turner-and-Hooch.jpg"
+                title="Turner and Hooch" alt="" style="width: 600px;" /&gt;&lt;p&gt;
+                    A dog is the only witness to a crime scene and after the death of his master is
+                    taken in by his masters friend, a detective. Now the detective needs the help of
+                    the dog to solve the case, little does he know how his life will be turned upside
+                    down by the dog.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h4&gt;
+                &lt;a href="http://www.youtube.com/watch?v=9jrdBatcz1c" target="_blank"&gt;BLACK BEAUTY (1994)&lt;/a&gt;&lt;/h4&gt;
+            &lt;img src="http://rockying.com/art/HOllywood/Animal-Movies/Black-Beauty-1994.jpg"
+                title="Black Beauty" alt="" style="width: 600px;" /&gt;&lt;p&gt;
+                    Based on Anna Sewell’s best selling novel, Black Beauty remains a classic. Narrated
+                    as Black Beauty’s look on his life, the movie carries the voice of Alan Cumming
+                    as the voice of Black Beauty. There have been five adaptations of the best selling
+                    book.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h4&gt;
+                &lt;a href="http://www.youtube.com/watch?v=ncG6epwTlEE" target="_blank"&gt;THE GHOST AND THE
+                    DARKNESS&lt;/a&gt;&lt;/h4&gt;
+            &lt;img src="http://rockying.com/art/HOllywood/Animal-Movies/The-Ghost-and-the-darkness.jpg"
+                title="The Ghost and The Darkness" alt="" style="width: 600px;" /&gt;&lt;p&gt;
+                    Based on the 1898 true story of two lions on a killing rampage. The lions are being
+                    hunted by an engineer and a hunter who notice the people disappearing due to the
+                    man eating lions. Now it is up to them to save the people of the village from the
+                    man eating lions.&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>158</URL>
+</Article>

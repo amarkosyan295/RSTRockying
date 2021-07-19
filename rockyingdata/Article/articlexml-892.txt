@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Dream victim</Title>
+  <MetaTitle>Dream victim</MetaTitle>
+  <OGImage />
+  <OGDescription>A young boy always felt lonely because of his family's indifference.His friends usually made fun of His only dream was to swim like fish,he considers as if he would have a better future living in the sea.Finally he reached to the sea.However..</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>29</Category>
+  <Tag>Short story,hopeless boy ,a poor boy,indifferent family,depression.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='' alt='' /&gt;&lt;p&gt;A young boy always felt lonely because of his family's indifference.His friends usually made fun of His only dream was to swim like fish,he considers as if he would have a better future living in the sea.Finally he reached to the sea.However..&lt;/p&gt;</Description>
+  <Text>Kevin is not a happy kid. He is a 4-year-old boy living with her mother and elder sister, Lily. His parents divorced when Mrs. Hopkins saw her husband betraying her. Although three of them live together, rarely do they communicate with each other. Mrs. Hopkins works full-time and returns home a bit late. Let alone Lily, a 15-year-old teen. You can easily find her in the bars, nightclubs and cinema halls. No-one has enough time to speak with Kevin. He feels so lonely and wants to run away. He regards himself as an unsuccessful, unhappy boy in the world.
+     At the nursery, he desires to be like his friends-Mike, Sam, David. They all have everything they want: a kind family, consistent relationships.
+     9 a.m.The nursery nurse is talking about dreams. Mrs. Walter-a wonderful dark-haired woman of 35-said: "My dears, trust your dreams. If you're desperately craving for achieving your dreams, try to attain them always. For example, I wanted to work at one of the most honorable kindergartens that required much experience and a Bachelor's degree. I endeavored to achieve my biggest dreams to work here. I studied, practiced and now I'm here with you! Once your dreams are gained, then let the next one. Always live with your dreams ".
+    These ideas were inspirational for Kevin, a little hopeless boy. He has a dream! He wants to swim like a fish! He thinks that his troubles and dilemmas will lose as he swims deeper and further. Unfortunately, he has never been to the sea before. His mother promised to take him there, yet suddenly her work changed to full-time. She is afraid of losing her job, million dollars.
+   "Kevin, what is your dream?"Mrs. Walter suddenly broke his silence. Kevin wasn't sure to tell about it but dared: "I want to swim like a fish! "
+  "Oh, this is a perfect dream, guys, isn't it?. I think you should firstly learn "how to swim"rules, my dear".
+Suddenly Mike began laughing: "How can he swim? He is so afraid of water! He can't manage!"Other kids laughed at him also. Mrs. Walter tried to make them silent.
+   These affected the soft heart of a poor boy, he left the room crying. He quickly ran away without looking back. He went on running although it was getting dark. Finally, he saw the sea! Wow! "How endless it looks! Maybe fishes living there seem happy because they don't have troubles! They all live all together, spend time and swim together! Their friends are not rude and bad! looking over and down he thought.
+   The colleagues are about to leave the office, but they preferred to have a coffee before going home. One of them was reading the latest news from her phone and suddenly shouted: " Oh, did you hear? A 4-year-old kid was found dead in a small lake! "Oh, poor, others joined, where was his mother, why leaves him alone?"
+   Mrs. Hopkins also agreed and added:" Oh, dear, you don't know. There are a lot of careless mothers in the world. How did she dare?" suddenly put her coffee and thought a moment. Then, as if something happened, added: "May God bless his mother! " and left office.
+  She ran stupidly to arrive home. She was somehow scared but suddenly became conscious when one of the police officers went from her house and asked: I'm sorry, Mrs, but you should go with us to help determine if the dead boy is yours or not"...</Text>
+  <WriterName>Gulrukh</WriterName>
+  <WriterEmail>missteacherguli@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>dream-victim</URL>
+</Article>

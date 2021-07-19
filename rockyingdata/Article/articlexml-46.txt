@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>46</ID>
+  <Title>Sleep Your Way to Fitness!</Title>
+  <MetaTitle>Sleep Your Way to Fitness!</MetaTitle>
+  <OGImage>//rockying.com/art/sleep.jpg</OGImage>
+  <OGDescription>No! This is no joke. You can actually cut down on a few kilos just by sleeping.  If it still sounds like a dream, read on...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Sleep, Health, Fitness, Weight loss</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/sleep.jpg' alt='' /&gt;&lt;p&gt;No! This is no joke. You can actually cut down on a few kilos just by sleeping.  If it still sounds like a dream, read on...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;img style="width: 250px; float: left;" title="Health n Sleep" alt="" src="//rockying.com/art/Sleep-weight-2.jpg"&gt;No! This is no joke. You can actually cut down on a few kilos just by sleeping. If it still sounds like a dream, here's what sleep does: &lt;br&gt;&amp;nbsp;&lt;br&gt;•&amp;nbsp; &lt;span style="font-weight: bold;"&gt;&lt;/span&gt;&lt;b&gt;Averts Late Night Munching&lt;/b&gt;: When we all become like those nocturnal creatures and stay up till late, it is normal for us to grab that packet of munchies. It is normal for our digestive system to feel hungry every four hours. Hence, we end up eating more despite having a full-fledged dinner!&lt;/p&gt;&lt;p&gt;&lt;br&gt;• &lt;b&gt;Regulates Hormonal Activity:&lt;/b&gt; Sleeping puts our hormonal activity in place and brings in a synchronization with each other. Proper sleep regulates the workings of ghrelin and leptin that determines our hunger. That is why improper sleep can make you more cranky and hungry at odd hours. Result? You gain weight!&lt;/p&gt;&lt;p&gt;&lt;br&gt;•&amp;nbsp; &lt;b&gt;Brings Down Weight Gain&lt;/b&gt; (Try at home): According to researches conducted internationally by scientists, people who get proper sleep or a little more than that at times, lose weight two times more than they do when they are awake and working. You can actually try this at home for a month and monitor your weight accordingly to see the results for yourself.&lt;/p&gt;&lt;p&gt;&lt;br&gt;•&amp;nbsp; &lt;b&gt;Increases Metabolism Rate:&lt;/b&gt; As a matter of fact, while sleeping you lose 1.7 gram per minute while &lt;img style="float: right;" title="Sleep" alt="" src="//rockying.com/art/sleep.jpg"&gt;you usually lose 0.6-0.7 grams per minute while lying in bed awake! So, there is a definite increase in the metabolism rate when you are asleep. &lt;/p&gt;&lt;p&gt;This also happens due to the drop in the body temperature while we are sleeping which explains the increase in the calorific discharge. Interesting, ain’t it?&lt;/p&gt;&lt;h4&gt;So, if you have been facing problems with your weight, it is time you snore away to glory!&lt;/h4&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>46</URL>
+</Article>

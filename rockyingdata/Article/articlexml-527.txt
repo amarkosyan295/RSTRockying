@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>thubVwSwrSh</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>yaXrdI</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>14</Category>
+  <Tag>42ldnr</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;yaXrdI&lt;/p&gt;</Description>
+  <Text>Cool site goodluck :) http://ghettotube.in.net/ gettotube  Yes Dog, because if you go back to &amp;#39;05, &amp;#39;06 and &amp;#39;07, when dems WERE in the minority, and repubs DID threaten to change the rules with all the dems filibusters, etc. ... go watch the youtubes with Kerry, Clinton, Obama, Reid, etc., all screaming how unfair and undemocratic it would be to do it. And the repubs didn&amp;#39;t do it .... ultimately explaining that it was the &amp;quot;right thing&amp;quot; in the long run to keep the rules or else we&amp;#39;d have anarchy each time the majority changed. So, yes, we do seriously think they would not change the rules because they have already demonstrated they won&amp;#39;t. Go learn you history ... it doesn&amp;#39;t begin with present-day thoughts.</Text>
+  <WriterName>aGecz</WriterName>
+  <WriterEmail>linwoodhuf@usa.net</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>thubvwswrsh</URL>
+</Article>

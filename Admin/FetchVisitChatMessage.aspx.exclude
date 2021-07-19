@@ -1,0 +1,2 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="FetchVisitChatMessage.aspx.cs" Inherits="Admin_FetchVisitChatMessage" %>
+

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>113</ID>
+  <Title>The Hawaiian Islands</Title>
+  <MetaTitle>The Hawaiian Islands</MetaTitle>
+  <OGImage>//www.rockying.com/art/Travel/Hawaii/hawaii_big_island.jpg</OGImage>
+  <OGDescription>After taking you through the seductive Maui with a storyteller we take you to Hawaii in general. Maui was one of the largest islands of Hawaii and here's talking to Diana about Hawaii in all!</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Travel destinations Hawaii, Hawaii, Interview</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Travel/Hawaii/hawaii_big_island.jpg' alt='' /&gt;&lt;p&gt;After taking you through the seductive Maui with a storyteller we take you to Hawaii in general. Maui was one of the largest islands of Hawaii and here's talking to Diana about Hawaii in all!&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    &lt;img src="//rockying.com/art/Travel/Hawaii/The_Hawaiin_Islands.jpg"
+        title="The Hawaiian Islands" alt="" style="width: 400px; float: right;"&gt;&lt;/p&gt;
+&lt;p&gt;
+    &lt;b&gt;A&lt;/b&gt;fter taking you through the seductive &lt;a href="http://www.rockying.com/a/47"&gt;
+        Maui&lt;/a&gt; with a storyteller we take you to Hawaii in general.&amp;nbsp;&lt;a href="http://www.rockying.com/a/47"&gt;Maui&lt;/a&gt;
+    was one of the largest islands of Hawaii and here's talking to &lt;a href="http://www.browsingrome.com"&gt;
+        Diana&lt;/a&gt;, the Rome-blogger, about Hawaii in all!
+    &lt;br&gt;
+    &lt;br&gt;
+    &lt;b&gt;Q. Tell us a little bit about yourself.&lt;/b&gt;&lt;br&gt;
+    &lt;br&gt;
+    &lt;i&gt;A.&lt;/i&gt; At present, I reside in Rome but have lived in North America as well as
+    in Asia. The experience of living in 3 different continents has allowed to me to
+    not only experience the world as a travel enthusiast but as a global citizen. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+    &lt;br&gt;
+    &lt;b&gt;Q. What is your favorite travel destination or one place you have been to and loved
+        the experience? &lt;/b&gt;
+    &lt;br&gt;
+    &lt;br&gt;
+    &lt;i&gt;A.&lt;/i&gt; It’s tough to choose one favorite travel destination and while Rome is
+    a close second, the destination that is dearest to my heart is Hawaii.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+    &lt;img src="//rockying.com/art/Travel/Hawaii/Diamond.Head.Hawaii.jpg"
+        title="The Diamond Head" alt="" style="width: 500px;"&gt;&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+    &lt;b&gt;Q.&lt;/b&gt;&lt;b&gt; What did you love about this particular place?&amp;nbsp; &lt;/b&gt;&lt;b&gt;Why did you
+        choose this place as your holiday destination?&lt;/b&gt;&lt;br&gt;
+    &lt;br&gt;
+    &lt;i&gt;A.&lt;/i&gt; I love the atmosphere and while many have heard about the “&lt;i&gt;Aloha Spirit&lt;/i&gt;”
+    words simply cannot give you a feel of what it is about. It’s not only the friendliness
+    of the Hawaiian people but it’s their way of living and treating others with respect.
+    &lt;br&gt;
+    &lt;br&gt;
+    &lt;b&gt;Q. Tell us a little bit about the places you visited there&lt;/b&gt;&lt;b&gt; and the &lt;/b&gt;
+    &lt;b&gt;activities you indulged in. What was your favorite spot and what did you love about it? How was the experience? &lt;/b&gt;
+    &lt;br&gt;
+    &lt;br&gt;
+    &lt;i&gt;A.&lt;/i&gt; When in Hawaii, it’s all about outdoor fun. I enjoy the beaches and with generally good weather throughout the year, it’s no surprise that most people are outdoors exploring the natural beauty that Hawaii is known for. As for myself, I
+    always enjoy the climb to the top of &lt;b&gt;Diamond Head&lt;/b&gt; where you will be rewarded with a stunning view.
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;img src="//rockying.com/art/Travel/Hawaii/Canyon-Kauai.jpg" title="Canyon Kauai"
+        alt="" style="width: 500px;"&gt;&amp;nbsp;&amp;nbsp;
+    &lt;br&gt;
+    &lt;br&gt;
+    &lt;b&gt;Q. Best time to visit? Considerations of some religious&lt;/b&gt;&lt;b&gt; gathering, the weather,
+        some local traditional time of the year which should not be missed. Any special
+        time of the year to be considered?&lt;/b&gt;&lt;br&gt;
+    &lt;br&gt;
+    &lt;i&gt;A.&lt;/i&gt; In general, the weather is good all year round but there is a rainy season
+    which is from November to March. However, I am often there during that period and
+    although there are rainy days, they don’t interfere too much with our plans. Although
+    rare, keep in mind hurricane season is from June to November.&amp;nbsp; The last hurricane
+    was in 1992.
+    &lt;br&gt;
+    &lt;br&gt;
+    &lt;b&gt;Q. Is Hawaii affordable or a luxury?&lt;/b&gt;&lt;br&gt;
+    &lt;br&gt;
+    &lt;i&gt;A.&lt;/i&gt; The cost of living in Hawaii is higher than that of mainland US and therefore,
+    things, in general, tend to be more expensive. Nevertheless, you can still have a
+    memorable vacation without going broke. Beaches for example are free so bring your own beach mat or chairs as well as a packed lunch.
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;img src="//rockying.com/art/Travel/Hawaii/hawaii_big_island.jpg"
+        title="The Big Island" alt="" style="width: 500px;"&gt;&lt;br&gt;
+    &lt;br&gt;
+    &lt;b&gt;Q. What makes Hawaii so special?&lt;/b&gt;&lt;br&gt;
+    &lt;br&gt;
+    &lt;i&gt;A.&lt;/i&gt; There are 7 main islands that make up the Hawaiian islands and each one
+    is unique. While you get to see the spectacular &lt;b&gt;canyons in Kauai&lt;/b&gt;, you will
+    be fascinated by the &lt;b&gt;active volcanoes on the Big Island of Hawaii&lt;/b&gt;. There
+    are many surprises that await you on each island.&lt;br&gt;
+&lt;/p&gt;
+&lt;h5&gt;
+    What are you waiting for, go embrace the ‘Aloha spirit' people!!!&lt;/h5&gt;
+&lt;p&gt;
+    &lt;br&gt;
+&lt;/p&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>113</URL>
+</Article>

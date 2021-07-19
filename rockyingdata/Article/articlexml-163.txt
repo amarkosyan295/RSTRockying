@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>163</ID>
+  <Title>Jugaad? Or a Common Man’s Innovation?</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Initiative/Mansukhbhai-Mitticool-initiative/Mansukhbhai-Prajapati-of-Mitti-Cool.jpg</OGImage>
+  <OGDescription>Mansukh Prajapati was not looking for some competitive advantage with Mitticool but was trying to respond to the turbulent times in Gujarat.He is a potter by profession and his experimentation with durable goods and clay has given birth to the Mitticool refrigerator that runs without electricity...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>14</Category>
+  <Tag>Mitticool, Mansukh Prajapati</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;p&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Initiative/Mansukhbhai-Mitticool-initiative/Mansukhbhai-mitti-cool-founder.jpg" title="Mansukh Bhai Mitti Cool founder" alt="" style="height: 400px; float: left;"&gt;Was it a jugaad based out of dire need for resources? Or was it making 
+the best use of an opportunity? All we know is that exploiting that 
+little opportune moment is worth an innovation and Prajapati has been 
+dedicated to this philosophy since 1988. &lt;br&gt;&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Initiative/Mansukhbhai-Mitticool-initiative/Mansukhbhai-mitti-cool-founder.jpg" title="Mansukh Bhai Mitti Cool founder" alt="" style="height: 400px; float: left;"&gt;An ordinary day. An extraordinary creation. Mansukh Prajapati was not looking for some competitive advantage with Mitticool but was trying to respond to the turbulent times in Gujarat. He is a potter by profession and his experimentation with durable goods and clay has given birth to the Mitticool refrigerator that runs without electricity.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;This &lt;b&gt;clay fridge&lt;/b&gt; has an in-built function wherein the water seeps through the &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/Mansukhbhai-Mitticool-initiative/09slde7.jpg" title="Mitticool Clay Refrigerator" alt="" style="height: 300px; float: right; width: 225px;"&gt;walls cooling the lower food chamber through the evaporation mechanism. Zero electricity consumption, no wires and plug-ins, 100% biodegradable and does not discharge any waste- this invention did not take him any qualification or a degree. Prajapati is not an MBA and he did not even finish his high school.&lt;/p&gt;
+&lt;p&gt;It was 2001 and flood had left an entire village of Gujarat devastated. Prajapati’s idea hit the complete version after several months of trial and ideating. He perfectly priced it at Rs 2000 which is affordable keeping in mind the daily income of villagers and people across India who do not have access to electricity. Pottery moulded into an entire industrial process? True. Prajapati now trains village women in building this unique piece of creation with a lot of dedication. At present, Mansukh Prajapati manufactures clay pots, clay non-stick frying pans and water filters for as cheap as Rs 100.&amp;nbsp;&lt;/p&gt;&lt;p&gt;It is amazing to see how a person living below poverty line created a job market for hundreds of people in his own village. Less investment and more production, the Mitticool refrigerator is already a hit in Gujarat villages. All he hopes for is a little growth like any other urban entrepreneur would wish for.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Was it a jugaad based out of dire need for resources? Or was it making the best use of an opportunity? All we know is that exploiting that little opportune moment is worth an innovation and Prajapati has been dedicated to this philosophy since 1988.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Now a proud father, Prajapati boasts of his son being in the engineering industry and learning ceramic engineering. Apart from this, he has won a National Award for providing the best optimal solution to a critical situation and taking it forward to success and growth. &lt;br&gt;&lt;/p&gt;
+
+&lt;h4&gt;HIS BUSINESS…&lt;img src="http://rudrasofttech.com/rockying/art/Initiative/Mansukhbhai-Mitticool-initiative/mitticool_utensils.jpg" title="Mitticool Utensils" alt="" style="width: 400px; float: right;"&gt;&lt;/h4&gt;&lt;p&gt;His first invention was building a clay-mixing machine that would help mix clay much faster than doing it painstakingly with legs. Taking this forward, in 1995, he built a water filter under his brand Mitticool and since then it was fresh inspiration for him. Everyday. A businessman from Nairobi searched him out and placed an order for 500 units. Prajapati earned a whooping Rs 5 lakh out of that and paid of his startup loan of Rs 30, 000.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Big management institutions such as IIM Ahmedabad and Gujarat Grassroots Innovation Network helped him in viral branding and product packaging. Today, this man seems to have no regrets in not having joined his father’s profession of working as a construction worker.&amp;nbsp;&lt;/p&gt;&lt;h4&gt;Let us salute this man who turned the soil into something so unthinkably useful.&lt;/h4&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

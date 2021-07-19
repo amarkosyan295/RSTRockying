@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Best Brother in Bollywood</Title>
+  <MetaTitle>Best Brother in Bollywood</MetaTitle>
+  <OGImage>//www.rockying.com/art/Bollywood-Brother-Sister/Satte-pe-satta.jpg</OGImage>
+  <OGDescription>Known for their protectiveness towards their siblings, their ability to a toughie outside and a softie at heart and their ability to make sure that their siblings have the best of everything; brothers have always played a significant role in cinema.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Bollywood</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Bollywood-Brother-Sister/Satte-pe-satta.jpg' alt='' /&gt;&lt;p&gt;Known for their protectiveness towards their siblings, their ability to a toughie outside and a softie at heart and their ability to make sure that their siblings have the best of everything; brothers have always played a significant role in cinema.&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px;  height:40px;
+            font-size: 50px; font-weight: 100; color: #000; border: none; text-align: center; margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px;height:40px;
+            font-size: 50px; font-weight: 100; color: #000;border: none; text-align: center;margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+&lt;div class="slideshow" style="text-align: center;"&gt;
+    &lt;div class="slide" style="height: 300px;"&gt;
+        &lt;h3&gt;
+            Rakshabandhan Special&lt;/h3&gt;
+        &lt;p&gt;
+            The Rakshabandhan just went by recently. We at &lt;a href="//www.facebook.com/rockyingmag"&gt;
+                Rockying&lt;/a&gt; couldn’t help but notice how Bollywood manages to tug the heart
+            when it comes to portraying brothers in Indian cinema. Siblings will fight, will
+            argue but at the end of the day, their love for each other prevails. Known for their
+            protectiveness towards their siblings, their ability to be a toughie outside and
+            a softie at heart and their ability to make sure that their siblings have the best
+            of everything; brothers have always played a significant role in the desi world
+            of cinema.
+        &lt;/p&gt;
+        &lt;h4&gt;
+            So, here’s looking at some of the best Bhaiyya’s of Bollywood and how they managed
+            to make an impact within our hearts!&lt;/h4&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;img src="//www.rockying.com/art/Bollywood-Brother-Sister/Satte-pe-satta.jpg"
+                        alt="Satte Pe Satta" style="max-width: 600px" /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        SATTE PE SATTA (1982)&lt;/h4&gt;&lt;br&gt;
+                    &lt;p&gt;
+                        Movie with the biggest brother count! Seven brothers living cordially under one roof.
+                        It reaches out to the story of their adjusting to a woman in the house when their
+                        eldest brother gets married, falling in love and helping each other out. But the
+                        biggest triumph is when they get together to bring their kidnapped brother back
+                        safely. A laugh riot that manages to be just as heart warming.&lt;/p&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;img src="//www.rockying.com/art/Bollywood-Brother-Sister/Om-Jai-Jagdish.jpg"
+                        alt="Om Jai Jagdish" style="max-width: 600px" /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        OM JAI JAGDISH (2002)&lt;/h4&gt;&lt;br&gt;
+                    &lt;p&gt;
+                        This one comes with the sensitivity one can expect from Bollywood. Starting with
+                        how three brothers live a happy life under one roof and how they slowly get divided
+                        on opinions because of a new comer to the house. The family breaks apart but the
+                        brothers can’t seem to forget the bond they shared. Then follows a struggle to salvage
+                        their family home and to prove that the bond between brothers can never be torn
+                        apart!&lt;/p&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;img src="//www.rockying.com/art/Bollywood-Brother-Sister/Hum-Saath-Saath-Hain-Still.jpg"
+                        alt="Hum Saath Saath Hain" style="max-width: 600px" /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        HUM SAATH SAATH HAIN (1999)&lt;/h4&gt;&lt;br&gt;
+                    &lt;p&gt;
+                        The bond between step brothers in this movie just shows that it doesn't matter where
+                        you come from, once you are a brother, it overcomes all barriers. Monish Behl playing
+                        the eldest brother to his younger brothers portrayed by Salman and Saif and a sister
+                        played by Neelam. When Neelam’s relationship with her brother in law is strained,
+                        the brothers help her set up her new home. Also, a misunderstanding that breaks
+                        the family apart doesn’t manage to make the brothers stay apart.&lt;/p&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;img src="//www.rockying.com/art/Bollywood-Brother-Sister/my-brother-nikhil.jpg"
+                        alt="My Brother Nikhil" style="max-width: 600px" /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        My Brother Nikhil (2005)&lt;/h4&gt;&lt;br&gt;
+                    &lt;p&gt;
+                        The most touching movie of its time. Juhi Chawla plays the elder sister to famous
+                        swimmer and younger brother Sanjay Suri. Once the younger brother is diagnosed with
+                        being HIV + he is shunned by everyone - his swimming team, his friends, his parents.
+                        The only person standing by him is his sister Anamika (Juhi Chawla). This one manages
+                        to make you stand up and take notice and it scores extra points for the portrayal
+                        of the beautiful relationship between the siblings.&lt;/p&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;img src="//www.rockying.com/art/Bollywood-Brother-Sister/naam-Duo.jpg"
+                        alt="Naam" style="max-width: 600px" /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        NAAM (1986)&lt;/h4&gt;&lt;br&gt;
+                    &lt;p&gt;
+                        Two brothers are cheated on the false pretext of a job abroad. However, one of them
+                        gets trapped into working for a fraudulent smuggler. The song “Tu Kal Chala Jayega..”
+                        is an epic sketch of what binds siblings.&lt;/p&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;img src="//www.rockying.com/art/Bollywood-Brother-Sister/pyar_kiya_toh_darna_kya.jpg"
+                        alt="Pyar Kiya Toh Darna Kya" style="max-width: 600px" /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        PYAAR KIYA TO DARNA KYA (1998)&lt;/h4&gt;&lt;br&gt;
+                    &lt;p&gt;
+                        When siblings lose their parents, the brother portrayed by Arbaaz dons the fatherly
+                        figure role and become his sister's guardian. The sister however, falls in love
+                        with a hunk from college. What follows is a laugh riot by the hero to convince and
+                        impress the brother that he is going to be good enough for his sister. But, it is
+                        hard pleasing that brother - especially given the fact that the brother will go
+                        any length to protect his sister’s good will!&lt;/p&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;img src="//www.rockying.com/art/Bollywood-Brother-Sister/amar-akbar-anthony.jpg"
+                        alt="Amar Akbar Anthony" style="max-width: 600px" /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        AMAR AKBAR ANTHONY (1977)&lt;/h4&gt;&lt;br&gt;
+                    &lt;p&gt;
+                        Three brothers separated at birth and separated by religion. However, once they
+                        come together, they overcome all these barriers to get back together and put the
+                        villain behind bars. A hilarious yet heart wrenching movie that manages to have
+                        the teardrops rolling!&lt;/p&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;img src="//www.rockying.com/art/Bollywood-Brother-Sister/deewar-1975.jpg"
+                        alt="Deewar Movie 1975" style="max-width: 600px" /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        DEEWAAR (1975)&lt;/h4&gt;&lt;br&gt;
+                    &lt;p&gt;
+                        A tragic story of two brothers growing up in impoverished conditions yet going in
+                        opposite directions. One becomes an honest police inspector (Shashi Kapoor) and
+                        the other  (Amitabh Bachchan) turns to crime. Shashi tries convincing his brother,
+                        even arguing it out as he hopes to mend ways and bring Amitabh to justice. However,
+                        there is no turning back from the bad world of the underworld and this leads to
+                        a tragic end. However, the intensity and dramatic scenes between the two brothers
+                        is worth a watch.&lt;/p&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;img src="//www.rockying.com/art/Bollywood-Brother-Sister/mere-brother-ki-dulhan.jpg"
+                        alt="Mere Brother Ki Dulhan" style="max-width: 600px" /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        MERE BROTHER KI DULHAN (2011)&lt;/h4&gt;&lt;br&gt;
+                    &lt;p&gt;
+                        This began with confusion; falling in love with your brother’s fiance! But then,
+                        the younger brother takes on the role of being more mature in making his elder brother
+                        find his true love and also his own. A good watch to understand the fun camaraderie
+                        shared by the on screen brothers.&lt;/p&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;img src="//www.rockying.com/art/Bollywood-Brother-Sister/hare-rama-hare-krishna.jpg"
+                        alt="Hare Rama Hare Krishna" style="max-width: 600px" /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        HARE RAMA HARE KRISHNA (1971)&lt;/h4&gt;&lt;br&gt;
+                    &lt;p&gt;
+                        Probably the first movie that brings out the brother - sister bound beautifully.
+                        Dev Anand plays the big brother who is separated from his younger sister (played
+                        by Zeenat Aman) as a result of broken marriage. Years later, he ventures out to
+                        bring his sister back, only to find out that he has to fight the drug induced world
+                        of his younger wrongly westernized sister to save her. A beautiful movie that manages
+                        to tug your heartstrings.&lt;/p&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;img src="//www.rockying.com/art/Bollywood-Brother-Sister/Jane-tu-ya-jane-na.jpg"
+                        alt="Jaane Tu Ya Jane Na" style="max-width: 600px" /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        JAANE TU..YA JAANE NA (2008)&lt;/h4&gt;&lt;br&gt;
+                    &lt;p&gt;
+                        Though the movie is remembered for the debut of Imran Khan; one thing that most
+                        people missed is the brother and sister bond shared between characters played by
+                        Genelia D’souza and Prateik Babbar. Like any brother, Babbar hates his sisters love
+                        interest because he feels his sister being “stolen away”. Playing the younger,
+                        insecure brother role by aplomb, Babbar managed to win hearts.&lt;/p&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;img src="//www.rockying.com/art/Bollywood-Brother-Sister/Josh.jpg"
+                        alt="Josh" style="max-width: 600px" /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        JOSH (2000)&lt;/h4&gt;&lt;br&gt;
+                    &lt;p&gt;
+                        Two of Bollywood’s biggest actors - Shah Rukh Khan and Aishwarya Rai played the
+                        adorable fraternal twins in this 2000 superhit movie. Shah Rukh played the protective
+                        big brother role who is watchful of his younger sister’s every move. He interferes
+                        with her love, gets bossy but it is all acceptable as he does it thinking about
+                        the “best interest” for his sister. Not before, he gets a taste of his own medicine
+                        when he falls in love! Set in Goa, the film casts an unusual impression of the actors (as siblings). &lt;/p&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>188</URL>
+</Article>

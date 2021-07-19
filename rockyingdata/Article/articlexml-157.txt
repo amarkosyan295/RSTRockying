@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>157</ID>
+  <Title>Ten Foods For A Beautiful You !</Title>
+  <MetaTitle>Ten Foods For A Beautiful You !</MetaTitle>
+  <OGImage>//rockying.com/art/health/Foods-for-a-beautiful-you/vitamin-c.jpg</OGImage>
+  <OGDescription>Rockying looks into food that not only helps in keeping the mind and the body healthy, but keeps you glowing and pretty!</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Healthy Eating, Milk, Water, Skin-Glow, Beauty</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/health/Foods-for-a-beautiful-you/vitamin-c.jpg' alt='' /&gt;&lt;p&gt;Rockying looks into food that not only helps in keeping the mind and the body healthy, but keeps you glowing and pretty!&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    Its not clear whether many of us live to eat or eat to live. But one thing that
+    is absolutely clear is that food is the source of all our energy. It is the fuel
+    for the body. So, what’s more surprising is that how we tend to overlook the good
+    food - food that can actually help us in keeping ourselves just as pretty and healthy
+    as always.&lt;/p&gt;
+&lt;p&gt;
+    &lt;a href="http://www.facebook.com/RockyingMag"&gt;Rockying&lt;/a&gt; looks into food that
+    not only helps in keeping the mind and the body healthy, but keeps you glowing and
+    pretty!
+&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            MILK&lt;/h4&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/health/Foods-for-a-beautiful-you/Milk.jpg"
+                title="Milk" alt="" style="max-height: 284px;" class="pull-left" /&gt;
+            We have heard our moms shouting and screaming and maybe even bribing us to drink
+            that glass of milk. Here’s why mommy was right. Packed with Vitamin D and calcium,
+            your healthy smile and strong bones have all being wanting milk for a long time.
+            So, if you need to save yourself from brittle bones and broken tooth and keep the
+            shining smile just as shiny; go drink a glass of milk right now!
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            DARK CHOCOLATE&lt;/h4&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/health/Foods-for-a-beautiful-you/Dark_Chocolate.jpg"
+                title="Dark Chocolate" alt="" style="max-width: 300px;" class="pull-left" /&gt;From
+            something “really boring” to something absolutely interesting - dark chocolate.
+            Dark chocolate has been scientifically proven to increase endorphin levels which
+            further leads to feeling of happiness. And happiness make your skin glow!
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            CABBAGE&lt;/h4&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/health/Foods-for-a-beautiful-you/Foods.For.a.beautiful.U.jpg"
+                title="Cabbage" alt="" style="max-width: 300px;" class="pull-left" /&gt;One cup
+            of chopped cabbage has just 22 calories. And it is loaded with nutrients one of
+            which helps in producing cancer fighting enzymes thus reducing your risk of cancer.
+            Just sprinkle some over your sandwiches and burgers for the satisfying yet healthy
+            crunch.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            CURD&lt;/h4&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/health/Foods-for-a-beautiful-you/curd.jpg"
+                title="Curd" alt="" style="max-width: 300px;" class="pull-left" /&gt;Probably a
+            staple in an Indian household; curd is probably packed with more calcium than milk
+            itself. A million and one ways to enjoy your cup of yogurt which not only help you
+            in building strong bones but also keeps the skin hydrated. A must for summers!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            TOMATOES&lt;/h4&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/health/Foods-for-a-beautiful-you/Tomatoes.jpg"
+                title="Tomatoes" alt="" style="max-width: 300px;" class="pull-left" /&gt;
+            Something to keep you young and to keep the wrinkles at bay. Tomatoes contain lycopene
+            that help in reducing cell damage and redness of skin. In order for the anti wrinkle
+            properties to work, make sure your tomatoes come with something fat. Or mix some
+            extra-virgin olive oil in your tomato preparations to ease in lycopene absorption.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            WALNUTS&lt;/h4&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/health/Foods-for-a-beautiful-you/walnuts.jpg"
+                title="Walnuts" alt="" style="max-width: 300px;" class="pull-left" /&gt;Not only
+            are they a healthy snack option, they help in giving you strong nails. The vitamin
+            B (Biotin) in walnuts is a good beauty enhancer that also helps in reducing signs
+            of aging.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            FISH&lt;/h4&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/health/Foods-for-a-beautiful-you/Fish.jpg"
+                title="Fish" alt="" style="max-width: 300px;" class="pull-left" /&gt;One of the
+            richest source of Omega 3 fatty acids, seafood has been highly acclaimed among health
+            experts. The omega 3 is good for complexion, for reducing inflammations, keeping
+            dryness at bay and for improving circulation. Good circulation is necessary for
+            healthy, glowing skin.&lt;br&gt;
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            VITAMIN C
+        &lt;/h4&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/health/Foods-for-a-beautiful-you/vitamin-c.jpg"
+                title="Vitamin C" alt="" style="max-width: 300px;" class="pull-left" /&gt;Yes,
+            technically not a “food” but considering that it is the main ingredient in many
+            beauty creams, we had to look into what makes it so special. Vitamin C helps in
+            keeping the skin smooth and taut. Just make sure you are eating &lt;b&gt;veggies, berries,
+                oranges, limes, guavas&lt;/b&gt; to keep the vitamin C content in check.&lt;b&gt; Citrus fruits&lt;/b&gt;
+            in general do just the trick.
+            &lt;br&gt;
+            &lt;br&gt;
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            GREEN TEA&lt;/h4&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/health/Foods-for-a-beautiful-you/green_tea.jpg"
+                title="Green Tea" alt="" style="max-width: 300px;" class="pull-left" /&gt;Probably
+            the healthiest tea around; with practically no calories (don’t add sugar!) not only
+            does green tea help keep the weight in check, it a good body cleanser and is a boost
+            in washing away the toxins.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            WATER&lt;/h4&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/health/Foods-for-a-beautiful-you/water-mermaid.jpg"
+                title="Water" alt="" style="max-width: 300px;" class="pull-left" /&gt;No healthy
+            food list is complete without water being mentioned. The one thing that will sustain
+            you throughout and besides being the best cleanser, is the way to keep yourself
+            hydrated and your mind and body alert. Make sure you drink at least 2 litres of
+            water a day to keep everything working properly. Water is the fuel and the grease
+            to your engines!
+        &lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5&gt;
+    Make these foods an integral part of your life and see it 'glow' literally. Also
+    let us know your secrets of&amp;nbsp; a healthy-glowing skin in the box below.
+&lt;/h5&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>157</URL>
+</Article>

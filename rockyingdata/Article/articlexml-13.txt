@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>13</ID>
+  <Title>Rajni Does it Again !!! Hits the Internet with No Net Connection.</Title>
+  <MetaTitle>Rajni Does it Again !!! Hits the Internet with No Net Connection.</MetaTitle>
+  <OGImage>//www.rockying.com/art/Rajinikanth.jpg</OGImage>
+  <OGDescription>As Star Rajnikanth turns 61, Desimartini.com launches a micro site to honor this legendary actor.  Yet another site? But wait and hold your breath, this site does not require an internet connection...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>10</Category>
+  <Tag>Rajnikanth, Internet, South Indian Star, Website</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Rajinikanth.jpg' alt='' /&gt;&lt;p&gt;As Star Rajnikanth turns 61, Desimartini.com launches a micro site to honor this legendary actor.  Yet another site? But wait and hold your breath, this site does not require an internet connection...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Rajinikanth.jpg" title="Rajnikanth...Mind It" alt="" style="float: left;"&gt;Rajini, the epitome of acting and a style icon has taken the film industry by storm for over two decades through his mannerisms, punches and stunts. With the latest Enthiran becoming an instant and massive hit, he has crossed the boundaries of states and country and is a universal icon now. As he turns 61, desimartini.com have launched a micro site to honour this legendary actor. &lt;br&gt;&lt;/p&gt;&lt;p&gt;Yet another site? But wait and hold your breath, this site does not require an internet connection. &lt;br&gt;&lt;/p&gt;&lt;p&gt;Yes you heard it right. How?&lt;/p&gt;&lt;p&gt; Well there’s nothing Rajni can’t do. The micro site http://www.desimartini.com/allaboutrajni.htm allows millions of fans to browse through the site and get to know more about this master entertainer. &lt;br&gt;The link provides a complete package of stunts, interesting scenes from his films, photo gallery, life history of Rajinikanth and all that you could ask for as a Rajini fan.&amp;nbsp; What’s fascinating in this micro site is that as you get into the link a message opens out "This was unexpected. To keep browsing, switch off your internet". Yes you will have to disconnect your internet to continue browsing. Unbelievable but true as anything related to Rajini has to be different just like his movies. &lt;br&gt;Rajni started off his career in a negative role but managed to get noticed even in those. He had his own panache. The crowd roared with applause as he flicked a cigarette and grasped it between his lips. The theatres ran full house for most of his films for he is a total entertainer liked by people of all ages. His fans go crazy for his snappy single liners and dollops of lessons for life in his movies. You get a complete package as you watch a Rajni movie and never come out of the theatres disappointed. So here’s another platform to let you watch every bit of your favourite south Indian actor and that too without an internet connection. &lt;br&gt;Well, we are still left investigating as to how the site works without the net. &lt;br&gt;&lt;/p&gt;&lt;p&gt;In case we fail its nothing but the “RAJINI EFFECT” that does it...Mind It !!!&lt;br&gt;&lt;br&gt;&lt;/p&gt;</Text>
+  <WriterName>Bhaskar Jha</WriterName>
+  <WriterEmail>bhaskar@mediaguru.in</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>13</URL>
+</Article>

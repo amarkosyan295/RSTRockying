@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>India's Spoofy Entertainment; The Most Hilarious Hindi Song-Parodies floating Around the Internet</Title>
+  <OGImage>http://www.rockying.com/art/internet/Spoofy-Entertainment/Prem-Uncle-Phir-Ayo.png</OGImage>
+  <OGDescription>A spoof is nothing but a parody sometimes done for comedy and sometimes (mostly, these days) for sarcasm. And if you are aware of the genre, you know how...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>10</Category>
+  <Tag>Internet, Parody Songs, Music, Youtube, Web-series, Spoof, TVF, Salil Jamdar, AIB, Shuddh Desi Gaane.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/internet/Spoofy-Entertainment/Prem-Uncle-Phir-Ayo.png' alt='' /&gt;&lt;p&gt;A spoof is nothing but a parody sometimes done for comedy and sometimes (mostly, these days) for sarcasm. And if you are aware of the genre, you know how...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+A spoof is nothing but a parody sometimes done for comedy and sometimes (mostly, these days) for sarcasm. And if you are aware of the genre, you know how hilarious it is. Right? You get to watch the funniest versions of the most popular songs, movies, even sitcoms. Becoming one of the most popular and sought-after genre for independent film-makers, it would be a shame to not talk about them here. In this edition of spoofy entertainment, we're covering songs best spoofed by none other than the internet. So, let's get down to watching all of the spoofy musical drama produced by web film-makers in India. This is going to be so much fun. Le'go! 
+&lt;/p&gt;
+&lt;h4&gt;Click on the images to watch the videos right here!&lt;/h4&gt;
+
+&lt;hr&gt;
+&lt;h3&gt;1. &lt;i&gt;Ae Mere Pyaare Mutton&lt;/i&gt;&lt;/h3&gt;
+&lt;hr&gt;
+&lt;a href="https://www.youtube.com/embed/AxekgQNcpEk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen" class="youtube"&gt;&lt;img src="http://www.rockying.com/art/internet/Spoofy-Entertainment/Ae-mere-pyaare-mutton.png" alt="Click to Watch Ae Mere Pyaare Watan Spoof" title="Click to Watch Ae Mere Pyaare Watan Spoof"&gt;&lt;/a&gt;
+&lt;p&gt;
+&lt;b&gt;Creator&lt;/b&gt;: Arunabh Kumar
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Channel&lt;/b&gt;: The Viral Fever
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Original Song&lt;/b&gt;: Ae Mere Pyaare Watan (Kabuliwala)
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;2. &lt;i&gt; Popat Banega India&lt;/i&gt;&lt;/h3&gt;
+&lt;hr&gt;
+&lt;a href="https://www.youtube.com/embed/sDZwzM1S6wU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen" class="youtube"&gt;&lt;img src="http://www.rockying.com/art/internet/Spoofy-Entertainment/Gerua-Parody.png" alt="Gerua Parody Song" title="Click to Watch Gerua Parody Song"&gt;&lt;/a&gt;
+&lt;p&gt;
+&lt;b&gt;Creator&lt;/b&gt;: Salil Jamdar and Arbaaz Shroff
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Channel&lt;/b&gt;: Shuddh Desi Gaane
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Original Song&lt;/b&gt;: Gerua (Dilwale)
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;3. Random 60s song &lt;/h3&gt; 
+&lt;hr&gt;
+&lt;a href="https://www.youtube.com/embed/MkCTgn_fJuI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen" class="youtube"&gt;&lt;img src="http://www.rockying.com/art/internet/Spoofy-Entertainment/Random-60s-Song-TVF1.png" alt="Click to Watch Khoya-Khoya Chand Parody" title="Click to Watch Khoya-Khoya Chand Parody"&gt;&lt;/a&gt;
+&lt;p&gt;
+&lt;b&gt;Creator&lt;/b&gt;: Arunabh Kumar
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Channel&lt;/b&gt;: The Viral Fever
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Original Song&lt;/b&gt;: Khoya-Khoya Chaand (Kala Bazar)
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;4. &lt;i&gt; Salil ka Banana &lt;/i&gt;&lt;/h3&gt;
+&lt;hr&gt;
+&lt;a href="https://www.youtube.com/embed/ozntx2v9LIw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen" class="youtube"&gt;&lt;img src="http://www.rockying.com/art/internet/Spoofy-Entertainment/Salil-ka-Banana.png" alt="Click to Watch Sheila Ki Jawani Spoof" title="Click to Watch Sheila Ki Jawani Spoof "&gt;&lt;/a&gt;
+&lt;p&gt;
+&lt;b&gt;Creator&lt;/b&gt;: Salil Jamdar
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Channel&lt;/b&gt;: Salil Jamdar and Co.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Original Song&lt;/b&gt;: Sheila Ki Jawani (Tees Mar Khan)
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;5. &lt;i&gt;Gaana Wala Song &lt;/i&gt;&lt;/h3&gt;
+&lt;hr&gt;
+&lt;a href="https://www.youtube.com/embed/enaSFL5eii8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen" class="youtube"&gt;&lt;img src="http://www.rockying.com/art/internet/Spoofy-Entertainment/Gana-Wala-Song-Qtiyapa.png" alt="Click to watch Ishq Wala Love Song Parody" title="Click to watch Ishq Wala Love Song Parody"&gt;&lt;/a&gt;
+&lt;p&gt;
+&lt;b&gt;Creator&lt;/b&gt;: Arunabh Kumar
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Channel&lt;/b&gt;: The Viral Fever
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Original Song&lt;/b&gt;: Ishq Wala Love (Student of the Year)
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;6. &lt;i&gt;90s ki Filmon ne Sikhaya Sanam&lt;/i&gt;&lt;/h3&gt;
+&lt;hr&gt;
+&lt;a href="https://www.youtube.com/embed/Nw7SppZZ-jM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen" class="youtube"&gt;&lt;img src="http://www.rockying.com/art/internet/Spoofy-Entertainment/DDLJ-Parody.png" alt="Click to Watch DDLJ Song Parody" title="Click to Watch DDLJ Song Parody" &gt;&lt;/a&gt;
+&lt;p&gt;
+&lt;b&gt;Creators&lt;/b&gt;: Salil Jamdar and Chirag Arora
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Channel&lt;/b&gt;: Shudh Desi Gaane
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Original Song&lt;/b&gt;: Tujhe Dekha to Ye Jana Sanam (DDLJ)
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;7. &lt;i&gt;Every Bollywood Party Song Ever&lt;/i&gt;&lt;/h3&gt;
+&lt;hr&gt;
+&lt;a href="https://www.youtube.com/embed/r3nhttUMhrI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen" class="youtube"&gt;&lt;img src="http://www.rockying.com/art/internet/Spoofy-Entertainment/Every-Bollywood-Party-Song.png" alt="Click to Watch Every Bollywood Party Song Ever" title="Click to Watch Every Bollywood Party Song Ever"&gt;&lt;/a&gt;
+&lt;p&gt;
+&lt;b&gt;Creators&lt;/b&gt;: Vasan Bala and Tanmay Bhatt
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Channel&lt;/b&gt;: AIB
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Original Song&lt;/b&gt;: Party All Night (Boss)
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;8.  &lt;i&gt;Mujhe Khud me Sab Dikhta Hai &lt;/i&gt;&lt;/h3&gt;
+&lt;hr&gt;
+&lt;a href="https://www.youtube.com/embed/yOVuhAFLu7Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen" class="youtube"&gt;&lt;img src="http://www.rockying.com/art/internet/Spoofy-Entertainment/Mujhe-Khud-me-Sab-Dikhta-Hai-Parody.png" alt="Click to Watch Rab ne Bana di Jodi Parody" title="Click to Watch Rab ne Bana di Jodi Parody"&gt;&lt;/a&gt;
+&lt;p&gt;
+&lt;b&gt;Creators&lt;/b&gt;: Salil Jamdar and Arbaaz Shroff
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Channel&lt;/b&gt;: Shudh Desi Gaane
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Original Song&lt;/b&gt;: Tujhme Rab Dikhta Hai (Rab ne Bana do Jodi)
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;9. &lt;i&gt;100 Million Chheena &lt;/i&gt;(The Nirav Modi Song) &lt;/h3&gt;
+&lt;hr&gt;
+&lt;a href="https://www.youtube.com/embed/OEBnlThDTRM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen" class="youtube"&gt;&lt;img src="http://www.rockying.com/art/internet/Spoofy-Entertainment/The-Nirav-Modi-Song.png" alt="Click to Watch The Nirav Modi Song" title="Click to Watch The Nirav Modi Song"&gt;&lt;/a&gt;
+&lt;p&gt;
+&lt;b&gt;Creators&lt;/b&gt;: Salil Jamdar and Arbaaz Shroff
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Channel&lt;/b&gt;: Salil Jamdar and Co.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Original Song&lt;/b&gt;: Ek Pal Ka Jeena (Kaho Na Pyaar Hai)
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;10. &lt;i&gt;Main Hoon God Father Tera&lt;/i&gt;&lt;/h3&gt;
+&lt;hr&gt;
+&lt;a href="https://www.youtube.com/embed/mxflxhXfmuU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen" class="youtube"&gt;&lt;img src="http://www.rockying.com/art/internet/Spoofy-Entertainment/Coz-Main-Hun-Godfather-Tera.png" alt="Click to Watch Main Hoon Hero Tera Song Parody" title="Click to Watch Main Hoon Hero Tera Song Parody"&gt;&lt;/a&gt;
+&lt;p&gt;
+&lt;b&gt;Creators&lt;/b&gt;: Salil Jamdar and Arbaaz Shroff
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Channel&lt;/b&gt;: Shudh Desi Gaane
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Original Song&lt;/b&gt;: Main Hoon Hero Tera (Hero)
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;11. &lt;i&gt;Coz I have Vagina Re&lt;/i&gt;&lt;/h3&gt;
+&lt;hr&gt;
+&lt;a href="https://www.youtube.com/embed/a9ggjCbv5ck" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen" class="youtube"&gt;&lt;img src="http://www.rockying.com/art/internet/Spoofy-Entertainment/Coz-I-have-Vagina-Re-AIB.png" alt=Click to Watch Chittiyan Kalaiyaan Song Parody&gt;&lt;/a&gt;
+&lt;p&gt;
+&lt;b&gt;Creators&lt;/b&gt;: Puneet Chadha and Tanmay Bhatt
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Channel&lt;/b&gt;: AIB
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Original Song&lt;/b&gt;: Chittiyan Kalaiyaan Ve (Roy)
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;12. &lt;i&gt;Main Tera Jabra Fan Hua Karta Tha&lt;/i&gt;&lt;/h3&gt;
+&lt;hr&gt;
+&lt;a href="https://www.youtube.com/embed/9lCPYWQPHG8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen" class="youtube"&gt;&lt;img src="http://www.rockying.com/art/internet/Spoofy-Entertainment/Jabra-Fan-Anthem-Parody.png" alt="Click to Watch Jabra Fan Parody" title="Click to Watch Jabra Fan Parody Now"&gt;&lt;/a&gt;
+&lt;p&gt;
+&lt;b&gt;Creators&lt;/b&gt;: Arbaaz Shroff and Salil Jamdar
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Channel&lt;/b&gt;: Shudh Desi Gaane
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Original Song&lt;/b&gt;: Jabra Fan (Fan)
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;13. &lt;i&gt;Tumhare Adhure Screenplays &lt;/i&gt;&lt;/h3&gt;
+&lt;hr&gt;
+&lt;a href="https://www.youtube.com/embed/70MAaMmGcog" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen" class="youtube"&gt;&lt;img src="http://www.rockying.com/art/internet/Spoofy-Entertainment/Hamari-Adhuri-Kahani-Parody.png" alt="Click to Watch Hamari Adhuri Kahani Song Parody" title="Click to Watch Hamari Adhuri Kahani Song Parody"&gt;&lt;/a&gt;
+&lt;p&gt;
+&lt;b&gt;Creator&lt;/b&gt;: Salil Jamdar
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Channel&lt;/b&gt;: Shuddh Desi Gaane
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Original Song&lt;/b&gt;: Hamari Adhuri Kahaani (Hamari Adhuri Kahani )
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;14. &lt;i&gt;Prem Uncle Phir Aayo&lt;/i&gt;&lt;/h3&gt;
+&lt;hr&gt;
+&lt;a href="https://www.youtube.com/embed/F8zAX-n_jxU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen" class="youtube"&gt;&lt;img src="http://www.rockying.com/art/internet/Spoofy-Entertainment/Prem-Uncle-Phir-Ayo.png" alt="Prem Ratan Dhan Payo Spoof" title="Click to Watch Prem Ratan Dhan Payo Spoof"&gt;&lt;/a&gt;
+&lt;p&gt;
+&lt;b&gt;Creator&lt;/b&gt;: Salil Jamdar
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Channel&lt;/b&gt;: Shuddh Desi Gaane
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Original Song&lt;/b&gt;: Prem Ratan Dhan Payo (Prem Ratan Dhan Payo)
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;15. &lt;i&gt;The Star Kid Song &lt;/i&gt;&lt;/h3&gt; 
+&lt;hr&gt;
+&lt;a href="https://www.youtube.com/embed/C1uR4vC0Z5g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen" class="youtube"&gt;&lt;img src="http://www.rockying.com/art/internet/Spoofy-Entertainment/The-Star-Kid-Song-Salil-Jamdar.png" alt="Click to Watch Zingaat Parody" title="Click to Watch Zingaat Parody"&gt;&lt;/a&gt;
+&lt;p&gt;
+&lt;b&gt;Creators&lt;/b&gt;: Salil Jamdar and Arbaaz Shroff
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Channel&lt;/b&gt;: Salil Jamdar and Co.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Original Song&lt;/b&gt;: Zingaat (Dhadak)
+&lt;hr&gt;
+&lt;p&gt;
+Did you watch all the songs right here? The images are in fact, videos (I know, magic!). Let us know what you think of the "spoof" genre, taking over the web these days, in the comments below!
+&lt;/p&gt;</Text>
+  <WriterName>Rockying</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>the-most-hilarious-hindi-song-parodies-floating-around-the-internet</URL>
+</Article>

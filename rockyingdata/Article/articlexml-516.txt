@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>zgMJWDoWXoxI</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>DWpJ2</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>16</Category>
+  <Tag>wacKW</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;DWpJ2&lt;/p&gt;</Description>
+  <Text>Please call back later http://keezmovies.in.net/ keezmov  Remini, 43, joined the church at age 7 and served for one year in its elite &amp;amp;#8220;Sea Org&amp;amp;#8221; religious order.&amp;#160; She was also friends with some of Scientology&amp;amp;#8217;s most high-profile members, including Tom Cruise.</Text>
+  <WriterName>HzrbP</WriterName>
+  <WriterEmail>craigshg@aol.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>zgmjwdowxoxi</URL>
+</Article>

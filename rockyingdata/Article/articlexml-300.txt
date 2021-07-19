@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Staying Ahead of the YOGAme</Title>
+  <OGImage>http://www.rockying.com/art/health/Yoga-me/yoga-extreme-sport.jpg</OGImage>
+  <OGDescription>The Millennials will fret and fume even as they lug around their ...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Yoga, Pranayam, Asanas, Health, Fitness,</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/health/Yoga-me/yoga-extreme-sport.jpg' alt='' /&gt;&lt;p&gt;The Millennials will fret and fume even as they lug around their ...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+&lt;img src="http://www.rockying.com/art/health/Yoga-me/yoga-extreme-sport.jpg" alt="Yoga Cartoon" title="Yoga Extreme Sport?" class="pull-right"&gt;
+The Millennials will fret and fume even as they lug around their snazzy and jazzy smart-glasses, watches and phones and then one fine day, enlightenment strikes and they realize that it was all phony. 
+&lt;/p&gt;
+&lt;p&gt;
+Do you spend every single moment of your day hunched right over your computer, or with a phone in the crook of your neck? Do you long for some peace of mind and some stress release? That’s when yoga comes into play. Very few people consider yoga to be beyond &lt;i&gt;asanas&lt;/i&gt;. But the truth of the matter is that yoga is a one way to uniting mind, body and breath. 
+&lt;/p&gt;
+&lt;h2&gt;Give it a Shot&lt;/h2&gt;
+&lt;p&gt;
+Typically, a yoga class will span 90 minutes. In his duration, the entire world will revolve around you and your &lt;i&gt;‘asanas’&lt;/i&gt; and for those surfboard rigid bodies out there- there will be lot’ o work to do. If you are a rookie you are bound to feel bewildered at first and a gamut of feelings will send you reeling. But me, I &lt;i&gt;speaketh&lt;/i&gt; from experience- yoga will set you free. 
+&lt;/p&gt;
+&lt;h2&gt;Trick the Crick&lt;/h2&gt;
+&lt;p&gt;
+Even as you inhale and exhale from every possible crevice and you sweat and feel every muscle you never even knew was there, you will wonder whether you are having a stroke. But believe me, the feeling of pushing yourself beyond those physical limits is freedom beyond compare. And if you persist, all those myths you harboured will come crashing like a pack of dominoes. 
+&lt;/p&gt;
+&lt;h2&gt;Overall Health&lt;/h2&gt;
+&lt;p&gt;
+It’s a great way of chucking those stress-busting bottle and pills. A few concerted minutes of yoga every single day will rid you of worry and will bolster your mental and physical health. The &lt;i&gt;pranayama&lt;/i&gt; and meditation postures in yoga are extremely effective in relieving stress. Studies have proved that stress is the root cause of most modern-day ailments. The way I look at it is that yoga is the salve for all those ailments. It will detox your system and you won’t have to head to the salon ever again. 
+&lt;/p&gt;
+&lt;h2&gt;Iron Out or Run Out of Steam &lt;/h2&gt;
+&lt;p&gt;
+Yoga will iron out those layers of lard and unless you decide to pile on a tub-full of choco-licious creamy ice cream every day, there’s no way your weighing scale will do the groan-drone ever again.  All that subconscious stretching and sweating does the trick and the combination is a potent one. There are some distinct benefits to practicing yoga:
+&lt;/p&gt;
+&lt;p&gt;
+&lt;ol&gt;
+&lt;li&gt;It will strengthen your body&lt;/li&gt;
+&lt;li&gt;Increase flexibility&lt;/li&gt;
+&lt;li&gt;Gift you glowing skin&lt;/li&gt;
+&lt;li&gt;Relieve stress&lt;/li&gt;
+&lt;li&gt;It will calm you&lt;/li&gt;
+&lt;li&gt;Give you inner peace&lt;/li&gt;
+&lt;li&gt;All-round fitness&lt;/li&gt;
+&lt;li&gt;Improves immunity&lt;/li&gt;
+&lt;li&gt;Enhances energy&lt;/li&gt;
+&lt;li&gt;Improves posture&lt;/li&gt;
+&lt;li&gt;Brings more awareness into your life&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/p&gt;
+&lt;h4&gt;In the end, just keep your goals simple- tell yourself that the only peaks of fitness you want to be able to reach are to climb 2 flights of stairs without panting like a steam engine. It’s a yogahmazing feeling!!!!! &lt;/h4&gt;</Text>
+  <WriterName>Rockying</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+</Article>

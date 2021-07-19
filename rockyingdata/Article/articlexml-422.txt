@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Baby’s Growth and Development Milestones: 0-6 months</Title>
+  <MetaTitle>Your Baby's Growth and Development Milestones: 0-6 months</MetaTitle>
+  <OGImage>http://www.rockying.com/art/Life/Parenting/Baby-Milestones/Baby-to-Toddler-Milestones.JPG</OGImage>
+  <OGDescription>It is such a special feeling to see your child grow and blossom. Every day, your baby learns something new...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>26</Category>
+  <Tag>Parenting, Baby, Infant, Development, Toddler, Milestones.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Life/Parenting/Baby-Milestones/Baby-to-Toddler-Milestones.JPG' alt='' /&gt;&lt;p&gt;It is such a special feeling to see your child grow and blossom. Every day, your baby learns something new...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+It is such a special feeling to see your child grow and blossom. Every day, your baby learns something new. Whether you’re an experienced parent or a first-time mom, you always watch out for baby’s development signs.
+&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/Life/Parenting/Baby-Milestones/Babyology.JPG"&gt;
+Source: &lt;b&gt;Babyology&lt;/b&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;p&gt;
+Knowing the milestones can ease your mind and keep the baby’s progress under check. But please note that every baby is different and you should not compare him with others. Each baby advances at her unique pace. If you notice any red flags, it is essential to consult the pediatrician.
+&lt;/p&gt;
+&lt;p&gt;
+There will be a lot of firsts that would bring a beam of joy on your face. Each milestone is significant and you should observe your baby closely to monitor his progress.
+&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/Life/Parenting/Baby-Milestones/Baby-to-Toddler-Milestones.JPG"&gt;&lt;br&gt;
+ Source: &lt;b&gt;Sweet Pea Therapy&lt;/b&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;p&gt;Below are the development milestones listed month by month:&lt;/p&gt;
+&lt;h2&gt;Month #1&lt;/h2&gt;
+&lt;p&gt;
+A month old infant is quite simple. He would just eat, sleep and poop. The tiny human being is sensitive to the surroundings and as is still adjusting to the strange world. He is developing his hearing and vision. Your mini version now:
+&lt;/p&gt;
+&lt;p&gt;
+&lt;li&gt;Turns head towards light&lt;/li&gt;
+&lt;li&gt;Stares at faces/objects/black and white patterns&lt;/li&gt;
+&lt;li&gt;Responds to sounds&lt;/li&gt;
+&lt;li&gt;Brings his hands within a range of his eyes and mouth&lt;/li&gt;
+&lt;li&gt;Moves his head side to side when lying on his stomach&lt;/li&gt;
+&lt;li&gt;Distinguishes between the smell of formula and breast milk.&lt;/li&gt;
+&lt;/p&gt;
+&lt;h2&gt;MONTH #2&lt;/h2&gt;
+&lt;p&gt;A 2-month old is able to track an object and recognize your voice. The tiny one now:&lt;/p&gt;
+&lt;p&gt;
+&lt;li&gt;Makes cooing sounds&lt;/li&gt;
+&lt;li&gt;Follows faces and objects when brought near the face&lt;/li&gt;
+&lt;li&gt;Tries to hold the head up for a short interval&lt;/li&gt;
+&lt;li&gt;May grin because of gas&lt;/li&gt;
+&lt;/p&gt;
+&lt;h2&gt;Month #3&lt;/h2&gt;
+&lt;p&gt;
+Your little one’s emotional skills will begin to develop now. You would now be able to somewhat differentiate between his different sounds of cries. Your baby now can:
+&lt;/p&gt;
+&lt;p&gt;
+&lt;li&gt;Distinguish you from others&lt;/li&gt;
+&lt;li&gt;Cry differently for different needs like hunger, pain, pee
+and poop.&lt;/li&gt;
+&lt;li&gt;Turn the head towards the direction of the sounds while
+holding it steady.&lt;/li&gt;
+&lt;li&gt;Squeak.&lt;/li&gt;
+&lt;li&gt;Play with others and cry when the playing stops.&lt;/li&gt;
+&lt;li&gt;Smile at you.
+&lt;/p&gt;
+&lt;br&gt;
+&lt;img src="http://www.rockying.com/art/Life/Parenting/Baby-Milestones/Ida-Tales.JPG"&gt;
+&lt;br&gt;Source: &lt;a href="https://www.instagram.com/ida_tales/" target="_blank"&gt;Ida_Tales&lt;/a&gt;
+&lt;h2&gt;Month #4&lt;/h2&gt;
+&lt;p&gt;Now your little one has graduated from a newborn to a baby. And you can embrace yourself to hear the sweetest sound-your baby’s laughter. Your baby can now:
+&lt;/p&gt;
+&lt;p&gt;
+&lt;li&gt;Laugh at silly faces, tickling and peek-a boo.&lt;/li&gt;
+&lt;li&gt;Giggle and laugh easily.&lt;/li&gt;
+&lt;li&gt;Do mini pushups.&lt;/li&gt;
+&lt;li&gt;Hold up the head steadily.&lt;/li&gt;
+&lt;li&gt;Coo in response to your talking.&lt;/li&gt;
+&lt;li&gt;Establish a sleep pattern.&lt;/li&gt;
+&lt;/p&gt;
+&lt;h2&gt;Month #5&lt;/h2&gt;
+&lt;p&gt;
+The baby would try to sit up with some support and acquire new skills. She would love to look at the mirror and can now entertain herself for a short time. Now your tot would:
+&lt;/p&gt;
+&lt;p&gt;
+&lt;li&gt;Roll over from tummy to back&lt;/li&gt;
+&lt;li&gt;Place toys in mouth&lt;/li&gt;
+&lt;li&gt;Put hands in mouth&lt;/li&gt;
+&lt;li&gt;Babble and make sounds&lt;/li&gt;
+&lt;li&gt;Show signs of stranger anxiety&lt;/li&gt;
+&lt;li&gt;Distinguish between bright colors&lt;/li&gt;
+&lt;/p&gt;
+&lt;h2&gt;Month #6&lt;/h2&gt;
+&lt;p&gt;
+Your baby would be ready to make a switch to solids. Babbling, imitating and blowing bubbles will be his favorite past time. Your baby should now be:
+&lt;/p&gt;
+&lt;p&gt;
+&lt;li&gt;Rolling in both directions&lt;/li&gt;
+&lt;li&gt;Bringing toys and objects towards him&lt;/li&gt;
+&lt;li&gt;Sitting with support&lt;/li&gt;
+&lt;li&gt;Mouthing objects&lt;/li&gt;
+&lt;/p&gt;
+&lt;p&gt;
+As a new parent, expecting mom or a caregiver, you can keep this article handy to keep a track of your baby’s progress in the first 6 months, which are full of excitement and rapid changes.
+&lt;/p&gt;
+&lt;p class="well"&gt;
+&lt;img src="http://www.rockying.com/art/Life/Parenting/Baby-Milestones/Akanksha-Bio.jpg" class="pull-left"/&gt;
+&lt;b&gt;About the Author:&lt;/b&gt; “Change is the only constant in life”- This mom totally believes in this adage. With a background of engineering, she decided to shift her focus towards her calling that is teaching. From educating the young minds to taking technology sessions for the teachers, she found her job thoroughly fulfilling. She owns a venture called ”ICurateArt” that satisfies her hunger for creativity. She moved to her dream city of Paris and had the chance to tutor French students too. She welcomed her bundle of joy a year ago and has been documenting her journey since then. Currently, in India, she writes poems, stories and loves to connect with mom bloggers and parents to be, being a compulsive helper. To get a sneak peek of her parenting journey, log on to her &lt;a href="https://www.instagram.com/ida_tales/" target="_blank"&gt;Instagram&lt;/a&gt; account.
+&lt;/p&gt;</Text>
+  <WriterName>Akanksha Bajaj</WriterName>
+  <WriterEmail>akankshabajaj11@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>baby-to-toddler-zero-to-six-months-milestones</URL>
+</Article>

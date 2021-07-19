@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Auld Lang Syne</Title>
+  <OGImage>http://www.rockying.com/art/Festival/auld-lang-syne/AuldLangSyneMusic.jpg</OGImage>
+  <OGDescription>The New Year Song</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>25</Category>
+  <Tag>New Year Song</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Festival/auld-lang-syne/AuldLangSyneMusic.jpg' alt='' /&gt;&lt;p&gt;The New Year Song&lt;/p&gt;</Description>
+  <Text>&lt;iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wPnhaGWBnys?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3&gt;Burns original:&lt;/h3&gt;
+&lt;pre&gt;Should auld acquaintance be forgot,
+ and never brought to mind ?
+ Should auld acquaintance be forgot,
+ and auld lang syne* ?
+CHORUS:For auld lang syne, my jo,
+ for auld lang syne,
+ we’ll tak a cup o’ kindness yet,
+ for auld lang syne.
+And surely ye’ll be your pint-stowp !
+ and surely I’ll be mine !
+ And we’ll tak a cup o’ kindness yet,
+ for auld lang syne.
+CHORUS
+We twa hae run about the braes,
+ and pu’d the gowans fine ;
+ But we’ve wander’d mony a weary fit,
+ sin auld lang syne.
+CHORUS
+We twa hae paidl’d i' the burn,
+ frae morning sun till dine ;
+ But seas between us braid hae roar’d
+ sin auld lang syne.
+CHORUS
+And there’s a hand, my trusty fiere !
+ and gie's a hand o’ thine !
+ And we’ll tak a right gude-willy waught,
+ for auld lang syne.
+CHORUS&lt;/pre&gt;
+&lt;h3&gt;English translation&lt;/h3&gt;
+&lt;pre&gt;
+Should old acquaintance be forgot,
+ and never brought to mind ?
+ Should old acquaintance be forgot,
+ and old lang syne ?
+CHORUS:For auld lang syne, my dear,
+ for auld lang syne,
+ we'll take a cup of kindness yet,
+ for auld lang syne.
+And surely you’ll buy your pint cup !
+ and surely I’ll buy mine !
+ And we'll take a cup o’ kindness yet,
+ for auld lang syne.
+CHORUS
+We two have run about the slopes,
+ and picked the daisies fine ;
+ But we’ve wandered many a weary foot,
+since auld lang syne.
+CHORUS
+We two have paddled in the stream,
+from morning sun till dine† ;
+ But seas between us broad have roared
+since auld lang syne.
+CHORUS
+And there’s a hand my trusty friend !
+ And give us a hand o’ thine !
+ And we’ll take a right good-will draught,
+ for auld lang syne.
+CHORUS
+&lt;/pre&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Vratika Singh</WriterName>
+  <WriterEmail>vratika@rudrasofttech.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

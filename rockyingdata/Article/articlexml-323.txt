@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Watch me Groove; The Ultimate Sangeet Bollywood Playlist</Title>
+  <OGImage>http://www.rockying.com/art/bollywood/Biggest-Damp-Squibs/Drona.jpg</OGImage>
+  <OGDescription>Watch yourself groove on these Bollywood...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>15</Category>
+  <Tag>Bollywood, Dance Songs, Sangeet Songs, Music, Groovy Music.</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Biggest-Damp-Squibs/Drona.jpg' alt='' /&gt;&lt;p&gt;Watch yourself groove on these Bollywood...&lt;/p&gt;</Description>
+  <Text>1. Galla Goodiyan
+2. Gulabo
+3. Break Up Song
+4. Kala Chashma
+5. London Thumakda
+6. Sajna ji Vari Vari
+7. Banno tera Swagger
+8. Saddi Gali
+9. Ainvayi Lut Gaya
+10. Nach Baliye
+11. Kajrare
+12. Aunty ji 
+13. Senorita
+14. Nachde ne sare
+15. Balam Pichkari
+16. Chitiyaan Kalaiyaan
+17. Sweety Yera Drama
+18. Cutie Pie
+19. Dance BAsanti
+20. High heel te nache
+21. Saturday-Saturday
+22. Iski Uski
+23. Punjabi Wedding Song
+24. Navrai Majhi</Text>
+  <WriterName>Rockying</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>hindi-sangeet-songs-that-will-make-your-wedding-planning-more-fun</URL>
+</Article>

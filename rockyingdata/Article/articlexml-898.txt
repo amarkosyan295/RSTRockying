@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Inexperienced traveler</Title>
+  <MetaTitle>Inexperienced traveler</MetaTitle>
+  <OGImage />
+  <OGDescription>A young 8-year-old boy desires to travel all around the world. But his inept character prevented him from his biggest dream. After facing dangerous animals, he got to understand that he needs more experience.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>31</Category>
+  <Tag>A young boy, travel-lover, dangerous forest, wild animals, hyenas.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='' alt='' /&gt;&lt;p&gt;A young 8-year-old boy desires to travel all around the world. But his inept character prevented him from his biggest dream. After facing dangerous animals, he got to understand that he needs more experience.&lt;/p&gt;</Description>
+  <Text>The suburbs of Melbourne. Everyone is having supper together. Andy is eating with his parents. They all live near the forest where scary and wild animals inhabit and disturb the living population from time to time. Parents warn their children not to go out, even in the afternoon. Andy already got exhausted hearing about it. He is a good fan of traveling. He wants to reach everywhere, see many places and take photos of himself. He desires to write his whole life as a diary where all his experience as a traveler was revealed. But his parents are his 'enemies', preventing him from his future dreams. At the early age of 8, his biggest dream can't come true. How can he tolerate this simple life? An ordinary lifestyle, everyone should obey their rules of not traveling anywhere, just staying at home and dying peacefully! Even his school isn't as attractive as he wishes.
+'I am not scared of any animal, neither from bears nor from snakes. My bravery is my biggest wealth to discover anything' he thought.
+Mrs. Walker has been waiting for Andy for 2 hours. But he hasn't come yet. He had to be on time today as he had fewer lessons. But what happened to him suddenly?
+Andy didn't want to return home, he was so disgusted by the way he was living. He made up his mind to travel all over the world. The first step towards a better life he will be an experienced traveler! He will lead his fantastic life himself, his mother will take pride in his son. But the first step should be to pass from dangerous forest-myriads of snakes, bears, lions! He remembers the time when his mother told a story of a little boy-  he was about to pass the forest but suddenly he realized that a big snake was wrapped around his leg. The young boy fell to the ground in great fear and died! A bit scary for Andy, if he were him, he would kill the snake immediately. There was not any sign of hesitation for a young boy, that's why he began to enter the forest. The forest was extremely thick and dark, the voices of various dead birds could be heard, the howls of wolves could reign.    He seemed a little frightened, but then he regained his composure:  he still had a long way to go. He kept on walking fast, his bravery seemed to be increasing by the way he ran. But suddenly he was faced with a bunch of hyenas. They were looking at him as if they glad been waiting for their prey to come with his leg. He was shocked and ran away not looking back. The hyenas were good at chasing him, but he did his best to flee away. When they couldn't reach him, the angry hyenas turned back. An only tree saved him, if not, he wouldn't escape from them. From then on he was scared and didn't know what to do. It was getting dark, he was unsure what to do Jeff's: to leave back or continuing the way. He stumbled until midnight and decided to sleep on the tree. He couldn't sleep because of fear, from far came the howls of wolves again, but suddenly he saw a lion biting a fat deer, tearing off its horns, and sharing its meat with his kids. How a scary scene! He thought as if the lion would see him also and tears his body into pieces like a dead deer. His heart was almost burst with fear, he found himself in the dark place, but pressed himself to keep from screaming. He didn't even know how the dawn came. After some time, he made up his mind to return home. He thought that he was too young for such dangerous adventures.
+After returning home, was ashamed to make his mother worried and disenchanted. After having a great for some days, he promised himself to learn the way for a better journey. But only after some years...</Text>
+  <WriterName>Gulrukh</WriterName>
+  <WriterEmail>missteacherguli@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>inexperienced-traveler</URL>
+</Article>

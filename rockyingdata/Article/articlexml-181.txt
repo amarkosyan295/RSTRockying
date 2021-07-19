@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>181</ID>
+  <Title>Pixie Hairdo This Monsoon!</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Lifestyle/Fashion/Pixie-Haircuts/Emma-Watson.jpg</OGImage>
+  <OGDescription>'Pixie' never went out of style and continues to be a fashion trend till date. Here’s taking you on a photographic journey highlighting some of the best pixie haircuts sported by celebs from the west and at home...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>16</Category>
+  <Tag>Fashion, Pixie Hair Cut, Bollywood Actresses, Hollywood Actresses, Celebrities, Lifestyle</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://rudrasofttech.com/rockying/art/Lifestyle/Fashion/Pixie-Haircuts/Emma-Watson.jpg' alt='' /&gt;&lt;p&gt;'Pixie' never went out of style and continues to be a fashion trend till date. Here’s taking you on a photographic journey highlighting some of the best pixie haircuts sported by celebs from the west and at home...&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px;  height:40px;
+            font-size: 50px; font-weight: 100; color: #000; border: none; text-align: center; margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px;height:40px;
+            font-size: 50px; font-weight: 100; color: #000;border: none; text-align: center;margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+&lt;div class="slideshow"&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span12"&gt;
+                &lt;h5&gt;
+                    Monsoons are here and going for the shorter hair cuts seems to keep the ‘humid’
+                    away and make washing so much more easier. Not only have many celebrities chucked
+                    their long wavy tresses to go short and pixie; but some of them have also stuck
+                    to the look for ever.&lt;b&gt; 'Pixie'&lt;/b&gt; never went out of style and continues to be
+                    a fashion trend till date. Here’s taking you on a photographic journey highlighting
+                    some of the best pixie haircuts sported by celebs from the west and at home.&lt;/h5&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span6"&gt;
+                &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Pixie-Haircuts/Michelle-Williams.jpg"
+                    title="Michelle Williams" alt="" style="width: 100%;" /&gt;&lt;/div&gt;
+            &lt;div class="span6"&gt;
+                &lt;p&gt;
+                    When &lt;b&gt;Michelle Williams&lt;/b&gt; cut her long blonde tresses for the pixie cut, she
+                    made it uber popular. Though many people have criticized it, she says she keeps
+                    it as a memorial to Heath Ledger, her ex who passed away a few years ago. It seems
+                    that the late actor loved the pixie haircut on her.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span6"&gt;
+                &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Pixie-Haircuts/Mandira.jpg"
+                    title="Mandira Bedi" alt="" style="width: 100%;" /&gt;&lt;/div&gt;
+            &lt;div class="span6"&gt;
+                &lt;p&gt;
+                    The I.P.L. brought many surprises,one of them was &lt;b&gt;Mandira Bedi’s&lt;/b&gt; super short
+                    hair. She went pixie during the monsoon and says she loved the ease which short
+                    hair brought along. Low maintenance and always on the go, pixie keeps it simple
+                    for woman on the move.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span6"&gt;
+                &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Pixie-Haircuts/Charlize-Theron.jpg"
+                    title="Charlize Theron" alt="" style="width: 100%;" /&gt;&lt;/div&gt;
+            &lt;div class="span6"&gt;
+                &lt;p&gt;
+                    &lt;b&gt;Charlize Theron&lt;/b&gt; went for super short hair and was spotted with this look
+                    for her upcoming role in Mad Max: Fury Road. There isn’t anything that looks bad
+                    on this super stylish actor!&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span6"&gt;
+                &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Pixie-Haircuts/Gul-Panag-Short-Hair.jpg"
+                    title="Gul Panag" alt="" style="width: 100%;" /&gt;&lt;/div&gt;
+            &lt;div class="span6"&gt;
+                &lt;p&gt;
+                    The super active and strong &lt;b&gt;Gul Panag&lt;/b&gt; simply rocks the short hair like no
+                    one does!&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span6"&gt;
+                &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Pixie-Haircuts/Halle-Berry.jpg"
+                    title="Halle Berry" alt="" style="width: 100%;" /&gt;&lt;/div&gt;
+            &lt;div class="span6"&gt;
+                &lt;p&gt;
+                    One woman who makes pixie her trademark is &lt;b&gt;Halle Berry&lt;/b&gt;. The super glam, super
+                    talented actress does experiment with longer hair, but she usually comes back to
+                    the pixie which make her look super cute and glamorous all in all.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span6"&gt;
+                &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Pixie-Haircuts/lara.pixie.jpg"
+                    title="Lara Dutta" alt="" style="width: 100%;" /&gt;&lt;/div&gt;
+            &lt;div class="span6"&gt;
+                &lt;p&gt;
+                    Our latest &lt;b&gt;Miss Universe&lt;/b&gt; &lt;b&gt;(Lara Dutta&lt;/b&gt;), sported the short look and
+                    it suited her well. She managed to keep the style quotient just as high!&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span6"&gt;
+                &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Pixie-Haircuts/natalie-portman.jpg"
+                    title="Natalie Portman" alt="" style="width: 100%;" /&gt;&lt;/div&gt;
+            &lt;div class="span6"&gt;
+                &lt;p&gt;
+                    Oscar winner &lt;b&gt;Natalie Portman&lt;/b&gt; shaved off her hair for her 2006 movie V for
+                    Vendetta. But then, she sported the short look for some time and we must say, she
+                    makes it look chic and pretty!&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span6"&gt;
+                &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Pixie-Haircuts/preity-zinta-in-lakshya.jpg"
+                    title="Preity Zinta" alt="" style="width: 100%;" /&gt;&lt;/div&gt;
+            &lt;div class="span6"&gt;
+                &lt;p&gt;
+                    &lt;b&gt;Preity Zinta&lt;/b&gt; stunned the audience with her pixie hairdo in the second half
+                    of the film Lakshya. Farhan Akhtar's wife Adhuna did the styling for her and yes
+                    she looked super chick playing the reporter at Kargil war front.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span6"&gt;
+                &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Pixie-Haircuts/sienna-miller.jpg"
+                    title="Sienna Miller" alt="" style="width: 100%;" /&gt;&lt;/div&gt;
+            &lt;div class="span6"&gt;
+                &lt;p&gt;
+                    The ultra glam &lt;b&gt;Sienna Miller&lt;/b&gt; managed to look just as wonderful in short hair.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span6"&gt;
+                &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Pixie-Haircuts/Urmila-Matondkar.jpg"
+                    title="Urmila Matondkar" alt="" style="width: 100%;" /&gt;&lt;/div&gt;
+            &lt;div class="span6"&gt;
+                &lt;p&gt;
+                    The ever so hot &lt;b&gt;Urmila Matondkar&lt;/b&gt;, known for her experimental roles, did it
+                    just perfect with her coiffure in Pyar Tune Kya kiya, Bhoot and Ek Haseena thi.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span6"&gt;
+                &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Pixie-Haircuts/keira-knightley.jpg"
+                    title="Keira Knightley" alt="" style="width: 100%;" /&gt;&lt;/div&gt;
+            &lt;div class="span6"&gt;
+                &lt;p&gt;
+                    One pretty actress who got it a little wrong was &lt;b&gt;Kiera Knightley&lt;/b&gt;. Though
+                    she manages to be super beautiful in her long hair; her short cut didn’t do justice
+                    to her pretty face.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span6"&gt;
+                &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Pixie-Haircuts/tabu-hu-tu-tu.jpg"
+                    title="Tabu" alt="" style="width: 100%;" /&gt;&lt;/div&gt;
+            &lt;div class="span6"&gt;
+                &lt;p&gt;
+                    This one actress of India (&lt;b&gt;Tabu&lt;/b&gt;) is known for her maturity in the 'different'
+                    characters she has played. But this pixie look of hers in &lt;i&gt;Hu tu tu &lt;/i&gt;was way
+                    too different and shocking.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span6"&gt;
+                &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Pixie-Haircuts/carey-mulligan.jpg"
+                    title="Carey Mulligan" alt="" style="width: 100%;" /&gt;&lt;/div&gt;
+            &lt;div class="span6"&gt;
+                &lt;p&gt;
+                    One leading lady (&lt;b&gt;Carey Mulligan&lt;/b&gt;)who should stick to pixie cuts like forever!
+                    Her long, unmanaged hair didn’t do any justice to the lovely features. On the other
+                    hand, her pixie cut transformed her into the super chic Oscar nominated lady we
+                    all know her best for!&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span6"&gt;
+                &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Pixie-Haircuts/Raveena-pixie.jpg"
+                    title="Raveena Tandon" alt="" style="width: 100%;" /&gt;&lt;/div&gt;
+            &lt;div class="span6"&gt;
+                &lt;p&gt;
+                    From working in typical bollywood masalas like Mohra and Ankhiyon Se Goli Maare
+                    (to name a few) to critically acclaimed Daman and Aks, &lt;b&gt;Raveena Tandon&lt;/b&gt; has
+                    done it all. She has tried all possible looks too.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span6"&gt;
+                &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Pixie-Haircuts/ginnifer-goodwin.jpg"
+                    title="Ginnifer Goodwin" alt="" style="width: 100%;" /&gt;&lt;/div&gt;
+            &lt;div class="span6"&gt;
+                &lt;p&gt;
+                    &lt;b&gt;Ginnefer Goodwin&lt;/b&gt; didn’t really get it right. Though known for her asymmetrical
+                    style, something went terribly wrong with her short hair.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span6"&gt;
+                &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Pixie-Haircuts/Lisa-ray.jpg"
+                    title="Lisa Ray" alt="" style="width: 100%;" /&gt;&lt;/div&gt;
+            &lt;div class="span6"&gt;
+                &lt;p&gt;
+                    Not everyone does it for style. &lt;b&gt;Lisa Ray&lt;/b&gt; had to get rid of her hair for her
+                    cancer treatment; but her short hair avatar not only showed her as a brave cancer
+                    survivor but also just as chic.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span6"&gt;
+                &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Pixie-Haircuts/Emma-Watson.jpg"
+                    title="Emma Watson" alt="" style="width: 100%;" /&gt;&lt;/div&gt;
+            &lt;div class="span6"&gt;
+                &lt;p&gt;
+                    The adorable &lt;b&gt;Emma Watson&lt;/b&gt; decided to shrug off those lovely long tresses after
+                    she was done with Harry Potter. It was her way of breaking out of Hermione!&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span6"&gt;
+                &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Pixie-Haircuts/Bipasha-Basu.jpg"
+                    title="Bipasha Basu" alt="" style="width: 100%;" /&gt;&lt;/div&gt;
+            &lt;div class="span6"&gt;
+                &lt;p&gt;
+                    When Bong bombshell &lt;b&gt;Bipasha Basu&lt;/b&gt; cut her super lovely hair, everyone was
+                    left agape. But like every avatar of hers, she carried it with much dignity and
+                    sophistication, true to Bipasha style.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span6"&gt;
+                &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Pixie-Haircuts/anne-hathaway.jpg"
+                    title="Anne Hathaway" alt="" style="width: 100%;" /&gt;&lt;/div&gt;
+            &lt;div class="span6"&gt;
+                &lt;p&gt;
+                    &lt;b&gt;Anne Hathaway&lt;/b&gt; plays the major role in Les Miserable and for this she goes
+                    off and chops her long locks! She says it was a quite “painful” seeing her lovely
+                    tresses being cut off, but she looks just as pretty!&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</Text>
+  <SlideShowOn>true</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

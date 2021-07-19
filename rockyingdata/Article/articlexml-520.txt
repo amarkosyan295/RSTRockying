@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>hyUSvBTqdvT</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>ER0Eyw</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>A12xx</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;ER0Eyw&lt;/p&gt;</Description>
+  <Text>US dollars http://xnxx.photography/ xnxx videos  Nearly 300 people died this weekend, and more than 1,000 people reportedly died last Wednesday when security forces moved in to clear a mass sit-in filled with Morsi supporters in Cairo&amp;#39;s Nasr City. It was the single deadliest day in the country&amp;#39;s modern history.</Text>
+  <WriterName>FxtPA</WriterName>
+  <WriterEmail>larrymsj@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>hyusvbtqdvt</URL>
+</Article>

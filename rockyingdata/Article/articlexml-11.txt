@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>11</ID>
+  <Title>India Through the Eyes of Oprah Winfrey</Title>
+  <MetaTitle>India Through the Eyes of Oprah Winfrey</MetaTitle>
+  <OGImage>http://www.rockying.com/art/Oprah.jpg</OGImage>
+  <OGDescription>“Being at the Mumbai Airport is like a video game. We don’t know which way to look!”, said the most loved woman...</OGDescription>
+  <DateCreated>2012-01-25T13:58:10.993</DateCreated>
+  <DateModified>2012-01-29T22:23:53.46</DateModified>
+  <CreatedBy>2</CreatedBy>
+  <ModifiedBy>2</ModifiedBy>
+  <ModifiedByName />
+  <Category>25</Category>
+  <Tag>India, Oprah Winfrey, Republic Day, Jaipur Literature Festival,</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Oprah.jpg' alt='' /&gt;&lt;p&gt;“Being at the Mumbai Airport is like a video game. We don’t know which way to look!”, said the most loved woman...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;img src="http://www.rockying.com/art/Oprah.jpg" title="Oprah Winfrey in India" alt="" style="width: 255px; float: left;"&gt;&amp;nbsp; “Being at the Mumbai Airport is like a video game. We don’t know which way to look!”, said the most loved woman globally Oprah as she kick-started her talk show with Barkha Dutt in Jaipur Literature Festival 2012. Surely it cracked up the audience but it always leaves a question mark on where India as a nation stands today.&lt;br&gt;&amp;nbsp; As the Jaipur Literature Festival unites Asia and Europe much more prominently, Oprah’s interview does ring a bell in the common man’s mind.&amp;nbsp; If one puts bits and pieces of Oprah’s conversation, words such as “chaos”, “poor” and “India is a paradox” puts every mind to think. India as a nation has progressed from an under-developed country to a developing country but the dark humor runs parallel.&lt;br&gt;&amp;nbsp;This all happens when the West looks at the East and the twain shall never meet. However, sitting and watching Oprah talk about her experience in India is inspirational. Her humor keeps the audience laughing, yet her seriousness about issues such as race, sexual exploitation against women and upliftment of the poor dampens every cheek. If not patriotism, her words brought in so much of focus. &lt;br&gt;&amp;nbsp;It really does hit you when she genuinely and forcefully says, “Do what you do the best that none other can”. In this process, we become what we believe we can be in the future.&lt;br&gt;She did not talk big as other intellectuals present in the Festival did. She touched hearts with simplicity and precision. That was the power of Oprah. There was nothing that was not known to us. Several self-help books available in the market preach the same thing differently but what made it so inspirational? Her story. And the lessons she learnt from it and her zest to walk with the world together. She created an identity that India is yet to adapt to. Despite the highs, India still touches many lows. &lt;br&gt;&amp;nbsp;Oprah spotted some of the strong points of India that we as Indians had failed to notice. She said, “People just don’t talk religion in India, they live it”. This is something that binds us together. Our religion that is so diverse links every mankind to the soul. A land where family traditions are followed like no other, this is the reality that Oprah re-introduces to us. As we all are hoping against hope to see the Nation march towards development, Oprah helps us reconnect with patriotism in a unique manner. As she rightly points out that there is a method to our (Indians) madness, it is time we clear the mist of corruption and self-centered approach and reconnect and engage with our motherland much more deeply.&lt;br&gt;&lt;br&gt;&lt;/p&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>97</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>india-through-the-eyes-of-oprah-winfrey</URL>
+</Article>

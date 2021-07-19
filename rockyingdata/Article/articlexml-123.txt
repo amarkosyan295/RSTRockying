@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>123</ID>
+  <Title>Romancing Keralite Food</Title>
+  <MetaTitle>Romancing Keralite Food</MetaTitle>
+  <OGImage>//rockying.com/art/Food/Kerala%20Food/Passion.fruits.jpg</OGImage>
+  <OGDescription>Rockying presents to you an exclusive food journey that this state of spices offers. Our Food Notebook marks Kerala as the best spot for mad hoggers who are crazy about South Indian food. Curiosity awaits our exclusive photographic journey that brings out the best of Kerala. Time for some visual foo</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>13</Category>
+  <Tag>Keralite Food, South Indian Dishes,</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/Food/Kerala%20Food/Passion.fruits.jpg' alt='' /&gt;&lt;p&gt;Rockying presents to you an exclusive food journey that this state of spices offers. Our Food Notebook marks Kerala as the best spot for mad hoggers who are crazy about South Indian food. Curiosity awaits our exclusive photographic journey that brings out the best of Kerala. Time for some visual foo&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    &lt;a href="http://www.facebook.com/RockyingMag"&gt;&lt;b&gt;R&lt;/b&gt;ockying&lt;/a&gt; presents to you
+    an exclusive food journey that this state of spices offers.Our Food Notebook marks
+    Kerala as the best spot for mad hoggers who are crazy about South Indian food. Curiosity
+    awaits our exclusive photographic journey that brings out the best of Kerala. Time
+    for some visual food spa, folks!&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;b&gt;IDLI AND COCONUT CHUTNEY&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;
+    &lt;img src="//rockying.com/art/Food/Kerala%20Food/Idli.and.Coconut.Chutney.png"
+        title="Idli and Coconut Chutney" alt="" style="width: 600px;"&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    Delve into the softness of freshly steamed idlis and creamy coconut chutney and
+    realize the dual existence of mankind- one on your food plate and one as a quintessential
+    human. Kerala offers this delicacy in every nook and corner and it promises to change
+    every Indian into a South Indian food fan.&lt;br&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;b&gt;DOSA AND SAMBHAR&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;
+    &lt;img src="//rockying.com/art/Food/Kerala%20Food/Dosa.Sambhar.png"
+        title="Dosa Sambhar" alt="" style="width: 600px;"&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    Slurrrrp is the word for this and nothing more. People in South India treat Sambhar
+    as their beer and it won’t be wrong to say that they binge drink on it. Dosa is
+    the most amazing thing on earth created by South Indians and Rockying’s Food Notebook
+    lists this as one of the healthiest diets around the world.
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;b&gt;TEA LEAVES&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;
+    &lt;img src="//rockying.com/art/Food/Kerala%20Food/Tea.leaves.jpg"
+        title="Kerala Tea Leaves" alt="" style="width: 600px;"&gt;&lt;b&gt;Photo Credit&lt;/b&gt;:
+    Photo used with permission of Shreya Lall. Copyright in this image is owned by the
+    original photographer. Reprint rights available with permission and acknowledgement.&lt;/p&gt;
+&lt;p&gt;
+    &lt;a href="http://www.facebook.com/RockyingMag"&gt;Rockying&lt;/a&gt; is simbly&lt;i&gt; &lt;/i&gt;not
+    rambling when it says that Kerala’s '&lt;i&gt;chai ki patti&lt;/i&gt;' is to die for. Having
+    tea is a ceremony and people in India spend time actually doing it. Kerala is dotted
+    with hundreds of tea shops that sell vada and chai. Suit your taste from liquor
+    teas to green teas to many exotic brands. This is Kerala’s delightful brew. If you
+    are tired of sipping it up, you will surely not get tired of visiting sprawling
+    plantations.
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;b&gt;A tip&lt;/b&gt;: do not forget to mention the kattan of your cuppa. &lt;i&gt;Kattan&lt;/i&gt; signifies
+    the strength of the tea that is, strong, medium or light. Nirvana.
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;b&gt;KERALA POROTTA&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;
+    &lt;img src="//rockying.com/art/Food/Kerala%20Food/The-Porotta.png"
+        title="The Kerala Porotta" alt="" style="width: 600px;"&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    White gajras and Kerala Porottas, these two are the most commonly found things in
+    Kerala. It is not our plain tawa roti, not a naan, and nor it is our North Indian
+    oil-dripping parantha! Porotta is extremely soft and prepared in pure ghee. Health
+    freaks can choose to prepare it in olive oil. Keralites have it with vegetable curries,
+    mutton gravies or simply have it with tea. Additional ingredients are egg and milk
+    that makes Porotta get the highest YUM-quotient in the city of temples.&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;b&gt;PASSION FRUITS&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;
+    &lt;img src="//rockying.com/art/Food/Kerala%20Food/Passion.fruits.jpg"
+        title="Passion Fruits in Kerala" alt="" style="width: 600px;"&gt;&lt;b&gt;Photo Credit&lt;/b&gt;:
+    Photo used with permission of Shreya Lall. Copyright in this image is owned by the
+    original photographer. Reprint rights available with permission and acknowledgement.&lt;/p&gt;
+&lt;p&gt;
+    Well. You must have used that lip balm of yours or a body butter that boasts of
+    having been made of passion fruits and the like. Here it goes. Passion fruits are
+    as cheap as Rs 5 to Rs 10 in Kerala and can be found in excess!!! Go gorge. Unlimited.
+    Rub it on your skin, eat it up or simply auction it out- Kerala offers the best
+    of fruits in excess and can exhibit your fruit obsession at its best.&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;b&gt;COCONUTS AND COCONUT MEAT&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;
+    &lt;img src="//rockying.com/art/Food/Kerala%20Food/Coconut%20meat_II.JPG"
+        title="Coconuts" alt="" style="height: 500px;"&gt;&lt;br&gt;
+&lt;/p&gt;
+Many experts say that healthy food should be made more available and affordable
+and &lt;a href="http://www.facebook.com/RockyingMag"&gt;Rockying&lt;/a&gt; says for that Kerala
+should be a destination MUST. A little bit here, a little bit there… beaches have
+it, houses own it, it grows in the wild, it is cultivated in huge farms- if you
+do not have coconut water and its sweet meat, the experience truly remains incomplete.
+Just imagine: the Kovalam beach, the setting sun and a coconut in hand. Scribble
+this on your list of must-haves, please!&lt;br&gt;
+&lt;h5&gt;
+    Kerala is the only state where you can turn into a professional hogger and yet not
+    feel too acidic. Pumping heart beats? Mind it, Kerala can indeed give you a cardiac
+    arrest. For good!&lt;/h5&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>123</URL>
+</Article>

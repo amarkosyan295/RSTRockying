@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Most Sensitive Love Stories Bollywood Ever Produced!</Title>
+  <OGImage>http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/Socha-Na-tha.jpg</OGImage>
+  <OGDescription>Love, romance and passion have forever been synonymous with Bollywood. We love our love stories so much that every movie, whether an action flick or a slick thriller, produced in the Bollywood factories needs to have a huge...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Valentine's, Love Stories, Love in Bollywood, Prem Rog, Barfi, Jaane tu Ya Jaane Na, Mughl-e-Azam, Kati Patang, Dil se, Veer Zara, Mili, Hum Tum, Socha Na tha, Bombay, Choti Si Baat.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/Socha-Na-tha.jpg' alt='' /&gt;&lt;p&gt;Love, romance and passion have forever been synonymous with Bollywood. We love our love stories so much that every movie, whether an action flick or a slick thriller, produced in the Bollywood factories needs to have a huge...&lt;/p&gt;</Description>
+  <Text>&lt;h6&gt;
+    It's Valentine's! And we talk 'Love' today.&lt;img alt="Big grin" width="40" height="51"
+        src="http://www.sherv.net/cm/emo/happy/big-grin-smiley-emoticon.gif"&gt;
+&lt;/h6&gt;
+&lt;p&gt;
+    Love, romance and passion have forever been synonymous with Bollywood. We love our
+    love stories so much that every movie, whether an action flick or a slick thriller,
+    produced in the Bollywood factories needs to have a huge helping of the old mushy
+    feeling .Though there have been love stories of every color and form but memories
+    of a few always remain etched in a soft, sensitive corner of our hearts till date.
+    And from that very special corner of our hearts we bring you this list of sensitive
+    love stories from the silver screen that not only left us spellbound but will also
+    be cherished forever.
+&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+            JAANE TU YA JANE NA (Imran-Genelia)
+        &lt;/h4&gt;
+&lt;hr&gt;
+        &lt;img src="http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/Jaane-Tu-Ya-jane-Na.JPG"
+            alt="Jaane Tu Ya Jane Na" align="middle" /&gt;
+        &lt;p&gt;
+            The comical love story between two college-going friends left many of us laughing,
+            giggling and crying at the same time.The simple yet touching love story gave us
+            two lovable friends who never knew they loved each other during college and discovered
+            their feelings for each other only after they leave college and start looking for
+            their dream partners. A very different take from run of the mill love stories, JTYJN
+            showcased the search for partners by the lead couple and how that makes them realize
+            the truth and brings them closer. Little gems like Naseeruddin Shah’s funky portrait
+            and the hilarious “RanjorkeRathore” ensured that the movie was an instant hit with
+            the younger generation. The music composed by A.R. Rehman became popular and“Pappu”
+            who“Can’t Dance Sala” can still make you shake a leg at a party!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+            MUGHAL-E-AZAM (Dilip Kumar-Madhubala)
+        &lt;/h4&gt;
+&lt;hr&gt;
+        &lt;img src="http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/mughal-e-azam.jpg"
+            alt="Mughal-e-azam" /&gt;
+        &lt;p&gt;
+            “Pyar kiya to darna kya..." became the theme song for lovers who revolted against
+            families and society for love back in the 50s and forever after. This epic period
+            film starring Dilip Kumar and Madhubala is one of the best love stories ever produced
+            in Bollywood. The movie depicted the doomed love story of the affluent Prince Salim
+            and his courtesan Anarkali. The wrath of Emperor Akbar, the revolt of the young
+            prince and the heart tugging, sorry end to their tale made the movie an all-time
+            classic. Dilip Kumar caressing a stunningly beautiful Madhubala with a feather remains
+            one of the most romantic scenes ever filmed in India. The film's colour version
+            was released in November 2004 and found a whole new generation of new, devoted fans
+            to the classic tale of Salim-Anarkali.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+            MILI (Amitabh-Jaya)&lt;/h4&gt;
+&lt;hr&gt;
+        &lt;img src="http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/Mili.jpg"
+            alt="Mili" /&gt;
+        &lt;p&gt;
+            Hrishikesh Mukherjee’s Mili remained one of the best movies made by mastero of the
+            romance of everyday life. The movie is about the sensitive and beautiful love story
+            between an effervescent Mili, played by Jaya Bachchan and a serious Shekhar, played
+            by a brooding Amitabh Bachchan.The film shows how a recluse like Shekhar finds love
+            in Mili and later discovers that Mili doesn’t have much time to live. It is Mili’s
+            vivacity and positive outlook in spite of a rare disease that has left her with
+            only a little time on earth that makes Shekhar (and all of us in the audience) fall
+            in love with her fresh face, pig tailed beauty.
+        &lt;/p&gt;
+&lt;datasource name="boxaddatasource" /&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+            VEER ZARA (Shahrukh-Preity)&lt;/h4&gt;
+&lt;hr&gt;
+        &lt;img src="http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/veer-zaara.jpg"
+            alt="Veer Zara" /&gt;
+        &lt;p&gt;
+            The grandmaster of Bollywood love stories, Yash Chopra, took us beyond borders in
+            this story about Veer, an Indian Air Force pilot, who falls in love with Zaara who
+            belongs to Pakistan. The couple could never be united because of the opposition
+            from Zaara’s politically strong family. It is after 22 long years, that a Pakistani
+            lawyer played by Rani Mukherjee, tries to free Veer who has been languishing in
+            a Pakistani jail and hears the heart wrenching story of Veer-Zaara. Shahrukh and
+            Preity won audiences and critics alike with their sensitive portrayal.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+            HUM TUM (Saif-Rani)&lt;/h4&gt;
+&lt;hr&gt;
+        &lt;img src="http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/hum-tum.jpg"
+            alt="Hum Tum" /&gt;
+        &lt;p&gt;
+            Hum Tum gave us a love story that we had seen so often in lives- the inexplicable
+            love between two people who differ in almost every aspect of life and could not
+            stand each other each other for a second when they first meet. Moreover this story
+            of the unlikely couple of Rhea(Rani) and Karan(Saif) shows us their life over years
+            when they are separated by time and distance. A tale spanning continents and decades,
+            the love story tells us how this most unlikely of pairs find their soulmates in
+            each other. Director Kunal Kohli has never bested his efforts in this movie where
+            every little aspect of the movie, from Saif’s boyish charms to the tragic death
+            of Rani’s husband (a cameo by Abishek Bachchan) has been etched with a master’s
+            touch.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+            SOCHA NA THA (Abhay-Ayesha)
+        &lt;/h4&gt;
+&lt;hr&gt;
+        &lt;img src="http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/Socha-Na-tha.jpg"
+            alt="Scha Na Tha" /&gt;
+        &lt;p&gt;
+            This was the debut movie of director Imtiaz Ali, who is well on his way to become
+            the Yash Chopra of our times, and displayed his knack for sensitive and subtle story
+            telling. Abhay Deol and Ayesha Takia shined in this tale of broken arranged marriages
+            and complicated relationships. Abhay’s transformation mirrors almost every other
+            love-struck Romeo today. Infatuation versus love is something that most of us are
+            still not clear about and Socha Na Tha gives a picture of it brilliantly in Abhay’s
+            character.The story of the couple, who meet through their parents, refuse an arranged
+            marriage, go back to their long time partners only to finally realize that they
+            have, despite all odds, fallen in love with each other. Sounds improbable? Believe
+            in the power of Bollywood when it comes to romance and watch this flick which just
+            might be the best love story you have ever seen!
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+            DIL SE (Shahrukh-Manisha)&lt;/h4&gt;
+&lt;hr&gt;
+        &lt;img src="http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/Dil-Se-Still.jpg"
+            alt="Dil Se" /&gt;
+        &lt;p&gt;
+            Love story of a deranged terrorist and a chain smoking AIR journalist doesn’t sound
+            very “sensitive” at first. But it is Mani Ratnam we are talking of and he pulled
+            off the story perfectly in this doomed tale of love, politics and pure passion.
+            With the amazing music by A.R. Rahman and some train top “chaiyya-chaiyya” by a
+            smoking hot MalaikaArora, Dil Se also gave us some very sensitive potrayls of human
+            frailties and passion. Manisha was at the peak of her acting career and Shah Rukh
+            was, well Shah Rukh! Forget the politics in the movie and watch it for the very
+            unlikely, very likeable love story.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+            BOMBAY (Arvind-Manisha)&lt;/h4&gt;
+&lt;hr&gt;
+        &lt;img src="http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/Bombay.jpg"
+            alt="Bombay" /&gt;
+        &lt;p&gt;
+            Love has no religion. And all religions are basically loved. Mani Ratnam again gave
+            us a classic story of the love between a Hindu boy and Muslim girl served with a
+            twist. The two lovers from different religion fight against the society to reclaim
+            their love and the real story of the movie only starts when they are married with
+            two kids. Arvind Swamy’s brilliant role as an anguished father caught in the midst
+            of the brutal Bombay riots touched every heart in the country. Rahman again gave
+            us his best and Hariharan’s rendition of “Tu Hi Re” still gives us goose bumps.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+            CHHOTI SI BAAT (Amol-Vidya)&lt;/h4&gt;
+&lt;hr&gt;
+        &lt;img src="http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/choti-si-baat.jpg"
+            alt="Chhoti Si Baat" /&gt;
+        &lt;p&gt;
+            A simple recipe of the love story of ordinary office going, local bus travelling,
+            middle class people was garnished with generous helpings of quirky characters and
+            clever storytelling and thus this amazing, simple and utterly loveable movie was
+            born. Director Basu Chatterjee’s classic love story of the “aamaadmi” played by
+            Amol Palekar and his hilarious attempts to woo his lady through the help of an unlikely
+            love guru by the name of Colonel Julius Nagendranath Wilfred Singh (played brilliantly
+            by Ashok Kumar) is an immensely likeable movie. Watch it if you haven’t seen it
+            already. We bet that you will come back humming “Janeman” and thanking us for the
+            tip!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+            KATI PATANG (Rajesh-Asha)&lt;/h4&gt;
+&lt;hr&gt;
+        &lt;img src="http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/kati-patang.jpg"
+            alt="Kati Patang" /&gt;
+        &lt;p&gt;
+            Kati Patang is a tale of a girl Madhavi (Asha Parekh) with a broken heart and how
+            she finds love in Kamal Sinha (Rajesh Khanna). But the later is unaware of her true
+            identity. The movie revolves around the unusual circumstances in which she meets
+            Kamal and both fall in love. She is torn between her heart and mind and starts avoiding
+            Kamal fearing his resentment and hatred. The intense chemistry between the two and
+            turmoil in their relationship makes this movie emotionally and romantically the
+            best of our times.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+            BARFI (Ranbir-Priyanka)&lt;/h4&gt;
+&lt;hr&gt;
+        &lt;img src="http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/Barfi_Still.jpg"
+            alt="Barfi" /&gt;
+        &lt;p&gt;
+            Bollywood doesn’t do love stories of deaf-mute and autistic people. Thankfully someone
+            forgot to tell that to director Anurag Basu who made a movie where ever scene is
+            to be loved and cherished by grateful audiences for long after. This year’s surprise
+            hit romantic comedy gave us a love story that made us feel warm in the heart and
+            fall in love with the characters and the beautiful locales of Darjeeling and old
+            Calcutta where their astonishing tale is played out. Ranbir and Priyanka gave the
+            best performances of their lives in the movie and the lovable crook “Barfi” jumped
+            straight to the list of best Hindi movies ever made.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+            PREM ROG (Rishi-Padmini)&lt;/h4&gt;
+&lt;hr&gt;
+        &lt;img src="http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/prem-rog.jpg"
+            alt="Prem Rog" /&gt;
+        &lt;p&gt;
+            This sensitive and arousing tale is about Manorama (Padmini Kolhapure), the chirpy
+            only daughter of Chhote Raja Thakur and Devdhar (Rishi Kapoor), a poor orphan in
+            the same village, who bids his childhood love a good bye and leaves for town as
+            she leaves her paternal home awaiting a happy married life. But fate had thought
+            otherwise. She is widowed within two days of marriage, alone and helpless she is
+            also raped by her brother-in-law (Raza Muraad). Dev returns from town only to see
+            Manorama in this pitiable state. He admits his feelings before every one and breaks
+            all barriers to rescue her beloved from the cruel fangs of society. What awaits
+            him is a bloody war between the right and the wrong.
+        &lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="font-weight:bold;"&gt;
+    So that was our dose of a lil Bollywood mush for you. All left to be done is to snuggle
+        up next to your loved one with a large tub of popcorn watching one of these movies
+        this Valentine's Day. And when that heady, sweet rush called romance takes over,
+        do tell us at &lt;a href="http://www.facebook.com/RockyingMag" target="_blank"&gt;Rockying&lt;/a&gt;
+        how it went !
+    &lt;img alt="Smiley winks" width="40" height="40" src="http://www.sherv.net/cm/emoticons/flirt/smiley-winks-emoticon.gif"&gt;
+&lt;/p&gt;</Text>
+  <WriterName>Annie Biswas</WriterName>
+  <WriterEmail>media.sonali@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>247</URL>
+</Article>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>India Bobbles Mahatma Gandhi Bobble head</Title>
+  <OGImage>http://www.rockying.com/art/India-Bobbles/Gandhi-Bobble-Banner.jpg</OGImage>
+  <OGDescription>Limited Edition Mahatma Gandhi Dandi Yatra Bobble head Collectible</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>26</Category>
+  <Tag>India Bobbles, Limited Edition, Mahatma Gandhi Bobble Head, Bobble head India, Mahatma Gandhi, Historical Memorabilia.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/India-Bobbles/Gandhi-Bobble-Banner.jpg' alt='' /&gt;&lt;p&gt;Limited Edition Mahatma Gandhi Dandi Yatra Bobble head Collectible&lt;/p&gt;</Description>
+  <Text>&lt;a href="http://www.rockying.com/store/bobblehead/mahatma-gandhi-bobble-head"&gt;&lt;img src="http://www.rockying.com/art/India-Bobbles/Gandhi-Bobble-Banner.jpg" alt="India Bobbles Mahatma Gandhi Bobble head" title="Limited Edition Mahatma Gandhi Bobble head Collectible"&gt;&lt;/a&gt;
+&lt;h3&gt;Showcasing, Limited Edition History Memorabilia- &lt;a href="http://www.indiabobbles.com/" target="_blank"&gt;&lt;b&gt;India Bobbles&lt;/b&gt;&lt;/a&gt;, Mahatma Gandhi Collectible Bobble Head Figurine. Exclusively available on &lt;b&gt;Rockying&lt;/b&gt;. &lt;a href="http://www.rockying.com/store/bobblehead/mahatma-gandhi-bobble-head"&gt;BUY NOW!&lt;/a&gt; &lt;/h3&gt;</Text>
+  <WriterName>IB Team</WriterName>
+  <WriterEmail>preeti@indiabobbles.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>WideBlogTemplate</TemplateName>
+</Article>

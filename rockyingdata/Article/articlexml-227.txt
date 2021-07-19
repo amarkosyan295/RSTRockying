@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Breast Cancer Awareness: Time To Go Pink!</Title>
+  <OGImage>http://www.rockying.com/art/health/Breast-Cancer-Awareness/Breast-Awareness-Go-Pink.jpg</OGImage>
+  <OGDescription>October is known for many things - for global hand-washing day, for Mahatma Gandhi’s birthday, but what it will be now known for is probably being the Pink Month!</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>20</Category>
+  <Tag>Breast Cancer, Breast Cancer Awareness, Pinktober, Breast Cancer Month October, Go Pink.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/health/Breast-Cancer-Awareness/Breast-Awareness-Go-Pink.jpg' alt='' /&gt;&lt;p&gt;October is known for many things - for global hand-washing day, for Mahatma Gandhi’s birthday, but what it will be now known for is probably being the Pink Month!&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    October is known for many things - for global handwashing day, for Mahatma Gandhi’s
+    birthday, but what it will be now known for is probably being the Pink Month!
+&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/health/Breast-Cancer-Awareness/Breast-Awareness-Go-Pink.jpg"
+    alt="" /&gt;
+&lt;p&gt;
+    Pink Month is associated with the Breast Cancer Awareness Month. A whole month dedicated
+    to awareness related to a form of cancer that is rapidly growing due to ignorance
+    and delay in diagnosis. Though many detected cases in the US have high chances of
+    treatment due to early diagnosis, treatment plans and awareness among patients;
+    the scenario in India is not the same. Most of the cancer cases go undetected and
+    those that are, run into problems due to extreme lack of awareness.
+&lt;/p&gt;
+&lt;h4&gt;
+    A LITTLE IN NUMBER&lt;/h4&gt;
+&lt;p&gt;
+    Here’s a little number proof to show you why we need to taking breast cancer awareness
+    seriously in our country.&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Breast Cancer is the most common form of cancer in India and is the second most
+        common form of cancer in rural areas.&lt;/li&gt;
+    &lt;li&gt;It accounts from around 25 to 30 % of cancer in females in cities like Mumbai, Delhi,
+        Bengaluru, Bhopal, Kolkata, Chennai, Ahmedabad.&lt;/li&gt;
+    &lt;li&gt;Compared to data collected over the past 30 years, breast cancer has seen a steady
+        rise in the population between the age group 25 to 40 years of age.&lt;/li&gt;
+    &lt;li&gt;Even after detection, the overall cancer survival rate in India is not more than
+        60 % which is disturbing because countries, like the US are seeing a close to 90%
+        survival rate.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;
+    SO WHAT IS BREAST CANCER?&lt;/h4&gt;
+&lt;p&gt;
+    As the name suggests, cancer or malignant tumor that starts in the tissues of the
+    breast is known as breast cancer. There are two kinds - one that originates in the
+    tubes that carry milk from the breast to the nipple and the other kind is the one
+    that starts in the parts of the breasts called lobules which produce milk.&lt;/p&gt;
+&lt;h4&gt;
+    WHAT SHOULD I BE DOING?&lt;/h4&gt;
+&lt;img src="http://www.rockying.com/art/health/Breast-Cancer-Awareness/Go-Pink.jpg"
+    alt="" /&gt;
+&lt;p&gt;
+    Here are some facts, mixed with information to make sure you are more aware about
+    what should be done:&lt;/p&gt;
+&lt;ul class="unstyled"&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            SCREENING : Finding out if there is any problem or not&lt;/h4&gt;
+        &lt;p&gt;
+            Since early detection is a major problem and issue in India, the first thing you
+            should be doing is to go get yourself screened. Not many of us know the symptoms
+            and the consequences so the smart thing to do is get yourself evaluated - you don’t
+            have to be waiting for the symptoms to occur. Go for a cancer screening just to
+            find out if there is anything to worry about or not. Remember, cancer goes through
+            a series of stages - the earlier the stage, the better the chances of treatment;
+            the earlier the detection, the better the chances of knowing what to do further.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            SELF BREAST EXAMINATION&lt;/h4&gt;
+        &lt;p&gt;
+            As implied, it is the process of looking at, touching and feeling your breasts for
+            any problems. It is recommended that women over 20 do a monthly self examination.
+            Women in their 20s and 30s are advised to have a clinical exam (Mammography) done
+            by a physician at least once every three years and women over 40 should get a clinical
+            exam done every year. The process is painless, easy to do and is effective in knowing
+            any abnormalities as soon as they occur. &lt;a href="http://women.webmd.com/healthtool-self-breast-exam"
+                target="_blank"&gt;Here&lt;/a&gt; is an article to show you how it is done.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            KNOW YOUR FAMILY HISTORY&lt;/h4&gt;
+        &lt;p&gt;
+            There is a hereditary element in breast cancer - so knowing your family medical
+            history is always the best thing to do. If there have been cases, then the screening
+            is better done as soon as you are in your 20s. Get in touch with your doctor and
+            consult on what screening is best for you.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            NOTICE BREAST CHANGES&lt;/h4&gt;
+        &lt;p&gt;
+            There are some particular symptoms you should look out for - change in breast shape,
+            pulling in nipples or other parts of the breast, nipple discharge that starts suddenly,
+            swelling, warmth, darkness of breast, lump or hard know in the breast of in the
+            underarm area, itch, sore or rash on nipple. Respond to symptoms by getting yourself
+            checked. It might not be cancer, but it is always better to stay careful.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            HEALTHY LIFESTYLE&lt;/h4&gt;
+        &lt;p&gt;
+            One thing that never goes out of fashion - keeping your weight under check. Eating
+            nutritious food, having a well balanced diet, regular exercise and limiting alcohol
+            intake are things one needs to keep in mind. Also, women should be limiting use
+            of postmenopausal hormones.&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;
+    The first step towards a better healthier lifestyle is awareness and breast cancer
+    still runs into a lot of awareness issues in our country. Be aware, get yourself
+    and encourage your family and friends to go for their screening too. It only takes
+    a short time and it helps you take the first step towards beating cancer!&lt;/p&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>VsTRBiOvCNx</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>7YSt1w</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>20</Category>
+  <Tag>KJvQDQ</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;7YSt1w&lt;/p&gt;</Description>
+  <Text>FKpqUt buy cheap cialis http://pills2sale.com/</Text>
+  <WriterName>zLdDj</WriterName>
+  <WriterEmail>dobsonsmithio34ga1@yahoo.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>vstrbiovcnx</URL>
+</Article>

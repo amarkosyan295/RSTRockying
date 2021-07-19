@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Cult Classics of Bollywood- V</Title>
+  <OGImage>http://www.rockying.com/art/bollywood/Cult-Classics-6/Maine Pyar Kiya.jpg</OGImage>
+  <OGDescription>Dhoti-clad villagers were bygones and the emergence of the young man and the possibilities of love enveloped Bollywood like a plague...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Cult Classics, Bollywood Movies, Bollywood Classics, 90s of Bollywood, Maine Pyar Kiya, Roja, Hum Apke Hain Kaun, Dilwale Dulhaniya Le Jaenge, Pardes, India Bobbles.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Cult-Classics-6/Maine Pyar Kiya.jpg' alt='' /&gt;&lt;p&gt;Dhoti-clad villagers were bygones and the emergence of the young man and the possibilities of love enveloped Bollywood like a plague...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    Mushy love and Hindi Cinema are indiscrete spouses. Contrary to the action and dilemma in our last
+    edition of &lt;a href="http://www.rockying.com/a/215" target="_blank"&gt;‘Cult Classics’&lt;/a&gt;, ladies and gentlemen, we give you- love in the 90s.  
+&lt;/p&gt;
+&lt;p&gt;
+    Dhoti-clad villagers were bygones and the emergence of the young man and the possibilities of love enveloped Bollywood like a plague. The audiences saw &lt;i&gt;Maine Pyar Kiya&lt;/i&gt;, the spectacle of festivities and nemesis of friendship, love and heart break &lt;i&gt;Hum Aapke Hain Kaun..!, Dilwaale Dulhaniya Le Jayenge and Pardes&lt;/i&gt;. Well the list is not exhaustive but the films revealed a fundamental conservative attitude along with a welcoming change within how familial relations were perceived. We give you a refined list of films that kaleidoscope the 20s in all its glory! Read on.
+&lt;/p&gt;
+&lt;h3&gt;
+    MAINE PYAR KIYA (1989)&lt;/h3&gt;
+&lt;p&gt;
+    &lt;strong&gt;Director:&lt;/strong&gt; Sooraj R. Barjatya
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;strong&gt;Story:&lt;/strong&gt; Sooraj R. Barjatya
+&lt;/p&gt;
+
+&lt;img src="http://www.rockying.com/art/bollywood/Cult-Classics-6/Maine Pyar Kiya.jpg"
+    alt= "Maine Pyar Kiya" title="Maine Par Kiya" /&gt;
+&lt;p&gt;
+Released at the brink of 1980s (29th December 1989), this was the dawn of an era we still do not forget. Innocence personified, Salman and Bagyashree's first lead performance breathe new life into Hindi cinema. The film still has an incredible aura that revolutionized cassette players and cassettes for a song-oriented Indian audience. Maine Pyar Kiya is more than a classic for us.&lt;i&gt; "Dosti ki hai nibhani to padegi" Kyun?&lt;/i&gt;
+&lt;/p&gt;
+&lt;h3&gt;
+    ROJA (1992)&lt;/h3&gt;
+&lt;p&gt;
+    &lt;strong&gt;Director:&lt;/strong&gt; Mani Ratnam&lt;/p&gt;
+&lt;p&gt;
+    &lt;strong&gt;Story:&lt;/strong&gt; Mani Ratnam and Sujatha Rangarajan&lt;/p&gt;
+
+&lt;img src="http://www.rockying.com/art/bollywood/Cult-Classics-6/Roja.jpg"
+    alt="Roja" /&gt;
+&lt;p&gt;
+The plot is intense and revolves around love for the motherland. Rehman ties this political love story with beautiful songs that have pierced the hearts of Indians and people settled in faraway lands. Through communal tension and terrorism, this film weaves the story of Roja and Rishi into an intricate concept of belonging that the Indian audience was yet to see in the earlier films. This film has been dubbed into multiple languages as well. No wonder, TIME has listed 10 best songs of Indian cinema out of which 6 are from this movie itself! Close twin &lt;a href="http://www.rockying.com/a/247" target="_blank"&gt;Bombay&lt;/a&gt; (also a Mani Ratnam and Rehman product) is an &lt;a href="http://www.rockying.com/a/247" target="_blank"&gt;&lt;u&gt;invoking love story&lt;/a&gt;&lt;/u&gt; that released in the 90s as well. 
+&lt;/p&gt;
+&lt;h3&gt;
+    HUM APKE HAIN KAUN (1994)&lt;/h3&gt;
+&lt;p&gt;
+    &lt;strong&gt;Director:&lt;/strong&gt;Sooraj R. Barjatya&lt;/p&gt;
+&lt;p&gt;
+    &lt;strong&gt;Story:&lt;/strong&gt;Sooraj R. Barjatya&lt;/p&gt;
+
+&lt;img src="http://www.rockying.com/art/bollywood/Cult-Classics-6/Hum-Apke-Hain-Kaun.jpg" alt="Hum Apke hain Kaun" /&gt;
+&lt;p&gt;
+This is a true saga that shows the tender branching out of love within a family. The portrayal of life is that of a long celebration that only death seems to stop. Marriage, kids, festivals and love amid all of that. The famous dog Tuffy is the melting point of the movie as well! Madhuri Dixit’s matka-jhatkas and her famous backless blue blouse are still unforgettable. These were the changing times of movie-appareling, the niche times when cinema was slowly venturing into a later phase of &lt;i&gt;“Choli ke peeche kya hai.&lt;/i&gt;”
+&lt;/p&gt;
+
+&lt;h3&gt;
+    DILWALE DULHANIYA LE JAENGE (1995)&lt;/h3&gt;
+&lt;p&gt;
+    &lt;strong&gt;Director:&lt;/strong&gt; Aditya Chopra&lt;/p&gt;
+&lt;p&gt;
+    &lt;strong&gt;Story:&lt;/strong&gt; Aditya Chopra&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Cult-Classics-6/Dilwale-Dulhania-Le-Jayenge.jpg"  alt="DDLJ" /&gt;
+&lt;p&gt;
+DDLJ perfectly seemed to have captured the popular romantic imagination that was flowing in the undercurrents of the Indian society. A total “saccharine” movie, this film can be consumed over a hundredth time without any apprehension. Yash Raj synonymized this film with a kind of patriotism which an NRI (Shahrukh Khan and AnupamKher) would never let go off under any circumstances. The hero won’t marry Kajol unofficially and the staunch Indian father (AmrishPuri) is still the fear factor of many Indian households. This film tickles, makes us cry, shows us sublime emotions and we know that this phase of Indian cinema is not coming back soon!
+ &lt;/p&gt;
+&lt;h3&gt;
+    PARDES (1997)&lt;/h3&gt;
+&lt;p&gt;
+    &lt;strong&gt;Director:&lt;/strong&gt; Subhash Ghai&lt;/p&gt;
+&lt;p&gt;
+    &lt;strong&gt;Story:&lt;/strong&gt; Subhash Ghai&lt;/p&gt;
+
+&lt;img src="http://www.rockying.com/art/bollywood/Cult-Classics-6/Pardes.jpg"
+    alt="Pardes" /&gt;
+&lt;p&gt;
+Any NRI, any Indian or a child first exposed to cinema will be struck by the ubiquitous quality of this film. A total patriotic film portrayed through a love triangle woven intricately by Sharukh, Mahima and Apurva Agnihotri, Pardes has made many weekends worthwhile. Glued to the television, we always wonder why Shahrukh is so compromising about his new-found love?The central idea of this movie seems to be proclaiming that true love means living responsibly that Rajeev (Apurva Agnihotri) lacks. This film has it all: intrigue, patriotism, captivating romance. Did we catch you humming “Do dil mil rahe hain...”  ?
+&lt;/p&gt;
+&lt;p&gt;The common element in all these movies is that they are so &lt;a href="http://www.rockying.com/a/274" target="_blank"&gt;patriotic&lt;/a&gt;. Love for family, love for country so typical to India. It's just shot in our blood. Don't ya feel?
+&lt;/p&gt;
+&lt;p&gt;
+As the weeks go by, we promise you more glimpses from our golden past and help you revive that cinematic journey with humor, intensity and perspectives! 
+&lt;p&gt;
+&lt;/p&gt;
+&lt;h3&gt;
+    Tell us about your biggest favorite from the 90s!&lt;/h3&gt;</Text>
+  <WriterName>Preeti Singh</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+</Article>

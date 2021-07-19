@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>139</ID>
+  <Title>Namaste India Part III: Kerala</Title>
+  <MetaTitle>Namaste India Part III: Kerala</MetaTitle>
+  <OGImage>//www.rockying.com/art/Travel/Namaste%20India/Kerala/7.jpg</OGImage>
+  <OGDescription>After delving into the capital we move on to the beautiful, the exotic Kerala. Slide on, its fresh breeze all around.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Kerala, Travel India, Kovalam</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Travel/Namaste%20India/Kerala/7.jpg' alt='' /&gt;&lt;p&gt;After delving into the capital we move on to the beautiful, the exotic Kerala. Slide on, its fresh breeze all around.&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;button id="prevslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+        font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+        padding: 0px; background-color: transparent;'&gt;
+        &amp;lsaquo;
+    &lt;/button&gt;
+    &lt;button id="nextslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+        font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+        padding: 0px; background-color: transparent;'&gt;
+        &amp;rsaquo;
+    &lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="slideshow"&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            After delving into the capital we move on to the beautiful, the exotic Kerala. Slide
+            on, its fresh breeze all around.&lt;/h4&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Kerala/1.008.jpg" title="Light House Beach In Kovalam"
+            alt="" style="width: 700px;"&gt;&lt;h5&gt;
+                Light House Beach in Kovalam
+            &lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Kerala/2.001.jpg" title="Small Cottages Along the Lakeside"
+            alt="" style="width: 700px;"&gt;&lt;h4&gt;
+                Small cottages along the lakeside
+            &lt;/h4&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Kerala/3.000.jpg" title="Bethlaham Church"
+            alt="" style="width: 700px;"&gt;&lt;h4&gt;
+                Bethlaham Church in the middle of Vembanad lake
+            &lt;/h4&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Kerala/4.000.jpg" title="Kuamarakom Bird Sanctuary"
+            alt="" style="width: 700px;"&gt;&lt;h4&gt;
+                An exotic bird at the Kuamarakom bird sanctuary
+            &lt;/h4&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Kerala/5.jpg" title="Weapons of Martial Art"
+            alt="" style="width: 700px;"&gt;&lt;h4&gt;
+                Weapons of martial art form Kalari
+            &lt;/h4&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Kerala/6.000.jpg" title="Munnar Tea Garden"
+            alt="" style="width: 700px;"&gt;&lt;h4&gt;
+                Munnar tea garden
+            &lt;/h4&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Kerala/7.jpg" title="Kathakali Dancers"
+            alt="" style="width: 700px;"&gt;&lt;h4&gt;
+                Kathakali-The most expressive dance style
+            &lt;/h4&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Kerala/8.jpg" title="Nettipattam"
+            alt="" style="height: 700px;"&gt;&lt;h4&gt;
+                Nettipattam-decorative headdress worn by elephants&lt;/h4&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Kerala/9.jpg" title="Poovar Beach"
+            alt="" style="width: 700px;"&gt;&lt;h4&gt;
+                Poovar Beach near Kovalam&lt;/h4&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Kerala/10.jpg" title="Poovar Beach"
+            alt="" style="width: 700px;"&gt;&lt;h4&gt;
+                Poovar Beach Sangam point near river meeting the Arabian Sea&lt;/h4&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Kerala/11.000.jpg" title="Kathakali Dancer putting the make-up"
+            alt="" style="height: 700px;"&gt;&lt;h4&gt;
+                Kathakali dancers wearing the intricate makeup&lt;/h4&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Kerala/12.jpg" title="Sunset"
+            alt="" style="width: 700px;"&gt;&lt;h4&gt;
+                Sunset&lt;/h4&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Kerala/13.jpg" title="Beach Side"
+            alt="" style="height: 700px;"&gt;&lt;h4&gt;
+                Beach side&lt;/h4&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Kerala/DSC02208.jpg" title="A House Boat"
+            alt="" style="width: 700px;"&gt;&lt;h4&gt;
+                Kettuvallam is a house boat widely used in the state&lt;/h4&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Kerala/15.jpg" title="Vembanad Lake"
+            alt="" style="width: 700px;"&gt;&lt;h4&gt;
+                Vembanad lake-It is the longest lake in India and the largest lake in Kerala&lt;/h4&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Kerala/16.jpg" title="A House Boat"
+            alt="" style="width: 700px;"&gt;&lt;h4&gt;
+                House boat in the Vembanad Lake. The lake is approximately 14 km wide at its widest
+                point
+            &lt;/h4&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <WriterName>Sonali Chowdhury</WriterName>
+  <WriterEmail>media.sonali@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>139</URL>
+</Article>

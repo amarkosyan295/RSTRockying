@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>The Awesomest Tips for a Summer Adventure in Australia</Title>
+  <OGImage>http://www.rockying.com/art/Travel/Summer-adventure-in-Australia/Scuba-Diving-Great-Barrier-Reef.jpg</OGImage>
+  <OGDescription>The spectacular view of the Sydney Opera House and the breath-taking beauty of the Sydney Harbor, an inlet of the Tasman Sea (part of the South Pacific...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Australia, Travel, Adventure, Water Skiing, Surfing, Beaches, Fun</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Travel/Summer-adventure-in-Australia/Scuba-Diving-Great-Barrier-Reef.jpg' alt='' /&gt;&lt;p&gt;The spectacular view of the Sydney Opera House and the breath-taking beauty of the Sydney Harbor, an inlet of the Tasman Sea (part of the South Pacific...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;Australia! The Land Down Under! Positioned in the southern hemisphere, this hoarder of blue waters has so much to offer. From coral reefs to the rainforests to scorched red deserts to the magnificent beaches, it’s a dream destination for any traveler. Whether you want to go on a road trip or camping or hiking in the outback, or you just want to lounge on the beach, the place has all to please you. Summers are long in Australia. So, if you are planning a trip for a summer adventure in Australia, get your backpack, some tank tops, shorts and flip-flops and get set go! Is that all enough? Yes! Or perhaps, not! Confused? Have a look at these handy tips to kick-off your easy-breezy summer trip to the &lt;b&gt;Ozz&lt;/b&gt;.
+&lt;/p&gt;
+&lt;h3&gt;But First, Create Itinerary:&lt;/h3&gt;
+&lt;p&gt;
+The first thing to do when in Australia is creating a list of places and things you want to try. Having everything handy will help you enjoy the most. So, create an itinerary and make your experience smooth. Here’s how you can start: If you plan to visit Australia’s wildlife, spare at least 10 days to enjoy to the fullest. If not, plan at least a 10-day trip to witness the country’s most famous places. Spend 2-3 days on the coasts, perfect for family and couples. Australia has myriad beaches you can try out for water skiing or even just relaxing and soaking! Explore self-drive journeys, plan road trips, and visit the lush greens, theme parks, and spas. Wow! Pumped-up already? Let's go! 
+&lt;/p&gt;
+
+&lt;h3&gt;Aaah! Water Surfing! &lt;/h3&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Summer-adventure-in-Australia/Water-Skiing-in-Australia.jpg" alt="Water Skiing in Australia" title=""&gt;
+
+&lt;p&gt;Surfing is always on the top of the bucket list of travelers! It’s thrilling, enticing and the best thing to do on a sunny beach. Just get your surfboard and get along the waves. Get your &lt;a href="https://www.waterskiersconnection.com.au/" alt="ski tubes" title="ski tubes Australia" target="_blank"&gt;ski tubes&lt;/a&gt; to surf on water and get going! You can try the Cabarita beach of New South Wales, the Noosa Heads, Queensland, or the Bondi Beach of New South Wales.
+&lt;/p&gt;
+&lt;p&gt;
+Note: If you don’t know the tricks, don’t try it on your own! Hire a professional to teach you how to do it. 
+&lt;/p&gt;
+&lt;h3&gt;
+Eat at the Locales
+&lt;/h3&gt;
+&lt;p&gt;
+For a foodie, Australia has no shortage of delicious gobbling material. Be it tempting meat or the most popular chocolate biscuits; the country has so many pleasant delicacies for the taste buds. Try something new or look for the dishes you love, whatever you pick, the place surely has gastronomic experiences to please every pallet. In Sydney? How about eating from the most popular farmer market or trying something seasonal. Non-vegetarian? How about steamed pork buns from Chef Kylie Kwong? Australia hosts seafood festivals, food and wine fiestas and many other food events, so make sure you get a chance to check them out. 
+&lt;/p&gt;
+&lt;h3&gt;Scuba Dive! &lt;/h3&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Summer-adventure-in-Australia/Scuba-Diving-Great-Barrier-Reef.jpg" alt="Scuba Diving in the Great Barrier Reef" title="A Scuba diver deep in the Great Barrier Reef"&gt;
+&lt;p&gt;
+Scuba Diving is amazing, especially, when you are diving at the Great Barrier Reef. Colorful corals, sparkling fish, and the tempting underwater creatures; scuba diving is undoubtedly a fascinating experience one can get hands-on in Australia. It’s the most natural, magical and alive habitat you would ever be in.  
+&lt;/p&gt;
+&lt;h3&gt;Wine Tasting.&lt;/h3&gt;
+&lt;p&gt;
+Australia is one of the most popular go-to destinations for wine lovers. With over 130 grape varieties planted across 60 wine regions, the country is sure to impress the wine connoisseur in you. You can drink Biodynamic wine in Margaret River, or try flavors in Victoria High country, or perhaps be drinking at bars inside the various architectural sites.
+&lt;/p&gt;
+&lt;h3&gt;Pay a Surprise Visit to Secret Islands&lt;/h3&gt;
+&lt;p&gt;
+You probably have heard of the Great Barrier Reef but have you ever been to the hidden offshore locations in the country? Shhh! Australia has many secret hoards for the island lover in you: the Flinders Island, Cocos Island, Norflox Island, Rottnest Island and so many more. Visit and find out for yourself.
+&lt;/p&gt;
+&lt;h3&gt;Explore the Cradle Mountain-Lake St. National Park&lt;/h3&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Summer-adventure-in-Australia/Mountain-Lake.jpg" alt="" title""&gt;
+&lt;p&gt;
+Behold, nature lovers: the scenic beauty, sparkling lakes, alpine health land, dense forests, glacier-carved wilderness, just so many exciting things you can expect from the Cradle Mountain.
+&lt;/p&gt;
+&lt;h3&gt;A Road Trip to Great Ocean Road&lt;/h3&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Summer-adventure-in-Australia/Roads.jpg" &gt;
+&lt;p&gt;
+If you are on the south-east coast of Australia, the country has a long stretch of national heritage as well as eye-popping places. Just grab your travel buddies and some snacks, jump into your vehicle and hit the roads.
+&lt;/p&gt;
+&lt;h3&gt;Walk down the Sidney Harbour Bridge:&lt;/h3&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Summer-adventure-in-Australia/Sydney-Harbour-Bridge.jpg" alt="Sydney Harbor Bridge"&gt;
+&lt;p&gt;
+The spectacular view of the Sydney Opera House, the breath-taking beauty of the Port Jackson, an inlet of the Tasman Sea (part of the South Pacific Ocean), are only a few of the many treats this magnanimous bridge has to offer.  Walk down the landmark with your loved one and experience something you never have before!
+&lt;/p&gt;
+
+&lt;h3&gt;Sail at Whitsundays:&lt;/h3&gt;
+&lt;p&gt;
+You perhaps have never witnessed nature's beauty like this. Get the boat and go to any place (noisy or quite), enjoy the delicious food, relax under the stars and enjoy everything on a white sandy heaven: Whitsunday!
+&lt;/p&gt;
+&lt;p&gt;
+Whether you have been to the country or have plans to be there for the first time, Australia will greet you with experiences you have never had before. Explore the country keeping in mind our summer adventure tips and you are sorted. Well, at least, for the first time around. 
+&lt;/p&gt;</Text>
+  <WriterName>Guest Blogger Team [Guest Post]</WriterName>
+  <WriterEmail>guestbloggerteam@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>awesome-tips-for-a-summer-adventure-in-australia</URL>
+</Article>

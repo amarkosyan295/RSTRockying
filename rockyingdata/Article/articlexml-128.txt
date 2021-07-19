@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>128</ID>
+  <Title>Dr. Bollywood !</Title>
+  <MetaTitle>Dr. Bollywood !</MetaTitle>
+  <OGImage>//www.rockying.com/art/bollywood/Disability%20Films/karthik-calling-karthik.jpg</OGImage>
+  <OGDescription>We are here to present you some of the recent superhit Bollywood films that successfully highlighted the disease and faintly suggested remedies in the form of human understanding, miracles or simple treatments.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Bollywood, Disability Films, Films on Disease</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/bollywood/Disability%20Films/karthik-calling-karthik.jpg' alt='' /&gt;&lt;p&gt;We are here to present you some of the recent superhit Bollywood films that successfully highlighted the disease and faintly suggested remedies in the form of human understanding, miracles or simple treatments.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    In the recent years, the camera has unearthed another angle to depict pain, personal
+    psyche and drama. &lt;a href="//www.facebook.com/RockyingMag"&gt;Rockying&lt;/a&gt; funnily
+    calls this genre as Dr. Bollywood. Cinema has covered several terminal diseases
+    in recent years which has made the scope of acting broader and have also made the
+    audience aware of the nuances behind such ailments. We are here to present some
+    of the superhit Bollywood films that successfully highlighted the disease and faintly
+    suggested remedies in the form of human understanding, miracles or simple treatments.
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4&gt;KARTHIK CALLING KARTHIK (2010)&lt;/h4&gt;
+&lt;hr&gt;
+    &lt;img src="//rockying.com/art/bollywood/Disability%20Films/karthik-calling-karthik.jpg"
+        title="Farhan Akhtar in Karthik Calling Karthik" alt="" style="width: 600px;"&gt;
+    &lt;p&gt;
+        This film is dark, funny, and mysterious and has a nightmarish quality about it.
+        &lt;i&gt;Karthik&lt;/i&gt; records his own voice in telephone recorders and believes in the
+        fact that someone calls him at a particular time in the night. People who suffer
+        from &lt;a href="http://en.wikipedia.org/wiki/Schizophrenia"&gt;schizophrenia&lt;/a&gt; believe
+        in a reality of their own that is equally true as ours. Medical has a proper line
+        of treatment and films such as &lt;b&gt;Karthik Calling Karthik&lt;/b&gt; and &lt;b&gt;15 Park Avenue
+        &lt;/b&gt;highlight such troubled thinking that people face. Such films come with a purpose-
+        to not alienate such people and to believe in the fact that mental illness is not
+        something unusual. Medical history has not found any cure for the brain so these
+        films call for a necessary rethinking on our part.
+    &lt;/p&gt;
+&lt;hr&gt;
+&lt;h4&gt;MY NAME IS KHAN (2010)&lt;/h4&gt;
+&lt;hr&gt;
+    &lt;img src="//rockying.com/art/bollywood/Disability%20Films/My-name-is-khan.jpg"
+        title="Shahrukh Khan in My Name Is Khan" alt="" style="width: 600px;"&gt;
+&lt;p&gt;
+    Viewing any disease and placing it within cinema’s emotional response is a
+    matter of art. Rockying says that is crucial for Dr Bollywood’s sustenance. Unlike
+    typical films based on the motif of love, Shahrukh juxtaposes two ideas perfectly
+    with this film: disease and love. Kajol is a divorcee yet she falls in love with
+    a person suffering from &lt;a href="http://en.wikipedia.org/wiki/Asperger_syndrome"&gt;Asperger’s
+        syndrome&lt;/a&gt;. Why? The guy has a clean heart and a lot less complicated mind.
+    Such films do show that their world is a lot saner than ours. And we label them
+    as mad and pitiable?
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4&gt;GUZAARISH (2010)&lt;/h4&gt;
+&lt;hr&gt;
+    &lt;img src="//rockying.com/art/bollywood/Disability%20Films/Hrithik_Guzaarish.jpg"
+        title="Hrithik Roshan in Guzaarish" alt="" style="width: 600px;"&gt;
+&lt;p&gt;
+    Our industry guru Bhansali’s critically acclaimed film Guzaarish is a film where
+    the hero is tied to a wheelchair for the rest of his life. Problem? He is too young
+    to be helpless. Being a successful magician, Hrithitk’s acting has indeed reflected
+    on the painstaking life &lt;a href="http://en.wikipedia.org/wiki/Paraplegia"&gt;paraplegic&lt;/a&gt;
+    patients lead. The inner turmoil of being physically decapitated and living a furniture-like
+    life is a piercing thought. An unproductive life with a disadvantage of internal
+    conflict- this film is symbolic of a dark, twisted existence and behooves the audience
+    to sit back and think.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4&gt;PAA (2009)&lt;/h4&gt;
+&lt;hr&gt;
+    &lt;img src="//rockying.com/art/bollywood/Disability%20Films/paa-movie-photo.jpg"
+        title="Amitabh Bachchan In Paa" alt="" style="width: 600px;"&gt;
+&lt;p&gt;
+    One of the critically acclaimed finest cinemas depicting &lt;a href="http://en.wikipedia.org/wiki/Progeria"&gt;
+        progeria&lt;/a&gt;, this film has highlighted the perils of the disease. The 65 year
+    old Big Bachchan acted as a 12 year old depicting a physical growth that made him
+    look five times younger than his tender mind. Dr Bollywood rates this film a full
+    5-star for its portrayal of the disease and its rare medical occurrence. Auro is
+    still a happy child but is all set to battle with death in the tender age of 13.
+    A healthy mind defeated by a weak body this film is a perfect elaboration on a human’s
+    journey from the womb to the tomb.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4&gt;MY BROTHER NIKHIL (2005)&lt;/h4&gt;
+&lt;hr&gt;
+    &lt;img src="//rockying.com/art/bollywood/Disability%20Films/my-brother-nikhil.jpg"
+        title="My Brother Nikhil Stars" alt="" style="width: 600px;"&gt;
+&lt;p&gt;
+    A film depicting the perils of &lt;a href="http://en.wikipedia.org/wiki/AIDS"&gt;AIDS&lt;/a&gt;
+    is set in the time when people were hardly aware of this disease. The film begins
+    with a disclaimer that “the film is based on true historical fact, and the standard
+    disclaimer about fictitious content was just a compromise with the Indian government
+    to gain permission to make the film”.&amp;nbsp; Nikhil, a state champion in swimming
+    and a loving son of their parents is thrown out from home and disqualified from
+    his sport right after he is diagnosed &lt;a href="http://en.wikipedia.org/wiki/HIV-positive_people"&gt;
+        HIV positive&lt;/a&gt;. With just two friends by his side, his tumultuous death becomes
+    doubly painful for the audience due to realize the lack of empathy and medical knowledge
+    that makes feel the futility of such a hard-hearted existence. Society should and
+    must accommodate diseases like HIV and AIDS because it is a by-product of human
+    conditions and misgivings. &lt;a href="http://www.facebook.com/RockyingMag"&gt;Rockying&lt;/a&gt;
+    recommends this as one of the best educating films on HIV awareness!
+&lt;/p&gt;
+&lt;div class="rstquestion well"&gt;
+&lt;h5&gt;&lt;span style="color: Red;"&gt;&lt;b&gt;FUN QUIZ&lt;/b&gt;&lt;/span&gt;&lt;/h5&gt;
+       &lt;p&gt;
+           What disease does Amitabh Bachchan suffer from, in the film Paa?  
+       &lt;/p&gt;
+       &lt;ul&gt;
+           &lt;li&gt;Dyslexia&lt;/li&gt;
+           &lt;li data-anwser="correct"&gt;Progeria&lt;/li&gt;
+           &lt;li&gt;Asperger’s Syndrome.&lt;/li&gt;
+          &lt;li&gt;AIDS&lt;/li&gt;
+       &lt;/ul&gt;
+   &lt;/div&gt;
+&lt;p&gt;
+    Dr Bollywood is all about over-sized egos, untimely troubles and diseases that affect
+    the normal course of living. Do you have a story to share? We are all ears.
+&lt;/p&gt;
+&lt;p class="well"&gt;
+&lt;img src="http://www.rockying.com/art/Writers/Aditi.jpg" class="pull-left"/&gt;
+&lt;b&gt;About the Author:&lt;/b&gt; An explorer guided by deep sense of intellectual inquiry is something that defines Aditi as a whole. Currently employed with the Branding division of The Mahindra Group, she spans an unconventional career path of 5.7 years. She is well acquainted with the publishing industry, online publishing industry, branding, communication and so forth. She has also helped numerous websites develop search-friendly content.
+&lt;/p&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>128</URL>
+</Article>

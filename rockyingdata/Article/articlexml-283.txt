@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Breaking Bad Burfi Style</Title>
+  <OGImage>http://img.youtube.com/vi/RRgUluVGclE/0.jpg</OGImage>
+  <OGDescription>Breaking bad burfi style</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>27</Category>
+  <Tag>Breaking Bad, Burfi</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://img.youtube.com/vi/RRgUluVGclE/0.jpg' alt='' /&gt;&lt;p&gt;Breaking bad burfi style&lt;/p&gt;</Description>
+  <Text>&lt;iframe width="853" height="480" src="//www.youtube.com/embed/RRgUluVGclE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</Text>
+  <WriterName>Raj Kiran Singh</WriterName>
+  <WriterEmail>rajkiran.singh@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>WideBlogTemplate</TemplateName>
+</Article>

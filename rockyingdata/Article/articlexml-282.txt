@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Happily Ever After- From your 'Valentine'</Title>
+  <OGImage>http://www.rockying.com/art/Life/Valentines/Heart-Bubble.jpg</OGImage>
+  <OGDescription>Bubbling, snuggling, cuddling all, here comes the Valentine Day. Wake up guys! Hurry up ye girls! The time to declare what you are...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>26</Category>
+  <Tag>Valentines, 14 February, Teenage Love, St. Valentine.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Life/Valentines/Heart-Bubble.jpg' alt='' /&gt;&lt;p&gt;Bubbling, snuggling, cuddling all, here comes the Valentine Day. Wake up guys! Hurry up ye girls! The time to declare what you are...&lt;/p&gt;</Description>
+  <Text>&lt;img src="http://www.rockying.com/art/Life/Valentines/Heart-Bubble.jpg" title="Fragile Teenage Love" alt="Heart Bubble" class="pull-left"/&gt;
+&lt;p&gt;
+Bubbling, snuggling, cuddling all, here comes the Valentine Day. Wake up guys! Hurry up ye girls! The time to declare what you are dying to say is at hand. Roll out your true self on this day of celebration of love. Let cupid loose his dart to pierce just your lover’s heart. There are no rules to follow. Don’t look for logic. Love has no logic. Teens need no logic except the pitter-patter of their hearts when they see the object of their love. Cupid’s arrows seem to pierce a teenaged heart the strongest. It’s all the logic to love. 
+&lt;/p&gt;
+&lt;h4&gt;No Logic to Love: It Happens!&lt;/h4&gt;
+&lt;p&gt;
+Are you worried about prudes? Well, don’t. These moustache Petes hate love. These dinosaurs will not be able to recognize a lover past their hookah shafts and hoses. They will say- stop. They will prescribe caution. They will impel the young ones with obligations. Do not listen to the voices of the professional sages. Its time you begin to hear the tiny voice inside you. If it tells you to break free- run.  If it pushes you to run- leave the set order behind. Do not look back.
+&lt;/p&gt;
+&lt;p&gt;
+Don’t mind the fetters of traditions. Valentine is the patron saint of love and the embodiment of what love stands for. It means the capacity to die for your belief. If you believe that the day of St. Valentine needs to be celebrated with abandon, do it. Remember the life of Valentine the priest.
+&lt;/p&gt; 
+&lt;h4&gt;What, errr Who is 'Valentine'?&lt;/h4&gt;
+&lt;p&gt;
+Valentine lived when Claude was the king of Rome. He thought the young men in his kingdom shirked draft for the love of their families, wives and children. So the king prohibited marriage to boost conscription. Valentine didn’t like the dictat. No one will like such a draconian decree. 
+&lt;/p&gt;
+&lt;p&gt;
+So Valentine continued to get young men and women married in secret. As it always happens some bridegroom or bride must have tippled more than they could bear and his secret was out. He was caught, cast in prison and sentenced to death.   
+&lt;/p&gt;
+&lt;p&gt;
+Here entered Cupid-the cuddly cherub of love. The warden’s blind daughter fell in love with Valentine. They exchanged gifts and all the promises love induces. When valentine was being carried for his execution, he wrote a letter to the girl and signed the paper ‘from your Valentine.’  
+&lt;/p&gt;
+&lt;p&gt;
+Later, the church declared him a saint. The day of his death, Feb 14, came to be celebrated as the Valentine’s Day. It is the day when lovers express themselves. They exchange cards. Offer gifts. Stand in wait to chance meet the love of their life. It has surely taken a commercial shape but the idea of love and sacrifice remains the same.
+&lt;/p&gt;
+&lt;h4&gt;Rising or absolutely falling in Love...Over and Over?&lt;/h4&gt;
+&lt;p&gt;
+There is one last thought. If you are simply drifting from one rose flower to another, the celebration will need some introspection. Is it love or just a curiosity? Is it the spark that will make you walk on fire or is it merely a sweep from one perch to another. If you feel you are still not sure, think before you carry your torch into the tunnel of love to seek your Valentine. The time to commit might still be in future. Let it come. Give space to more of the world with you for a few more years. Have a career. The day will come when you will be able to recognize the face of your true love like a mother knows her child. That will be the time to celebrate the Valentine’s Day with abandon.
+&lt;/p&gt;</Text>
+  <WriterName>Ramesh Gautam</WriterName>
+  <WriterEmail>gautamramesh4@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+</Article>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Kolkata</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>https://www.remosoftware.com/</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>https://www.remosoftware.com/</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;https://www.remosoftware.com/&lt;/p&gt;</Description>
+  <Text>Kolkata (formerly Calcutta) is the capital of India&amp;#39;s West Bengal state. Founded as an East India Company trading post, it was India&amp;#39;s capital under the British Raj from 1773вЂ“1911. Today itвЂ™s known for its grand colonial architecture, art galleries and cultural festivals. ItвЂ™s also home to Mother House, headquarters of the Missionaries of Charity, founded by Mother Teresa, whose tomb is on site. 
+ 
+&amp;lt;a href=https://itigic.com/de/remo-repair-outlook-repair-outlook-pst-files/&amp;gt; Kolkata &amp;lt;/a&amp;gt;</Text>
+  <WriterName>https://www.remosoftware.com/</WriterName>
+  <WriterEmail>trolly.zhoppa.103@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>kolkata</URL>
+</Article>

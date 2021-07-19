@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>174</ID>
+  <Title>Travelling To Kerala; Travelling To God's Own Country!</Title>
+  <MetaTitle>Travelling To Kerala; Travelling To God's Own Country!</MetaTitle>
+  <OGImage>//www.rockying.com/art/Travel/Kerala-India/Backwaters-Kerala.jpeg</OGImage>
+  <OGDescription>Barbara Klein, lives and works in Basel, Switzerland and loves to share her life of food and recipes, travels, writing and photography.She shares with us her visit to South India. mainly Kerala and Kanyakumari...As told to Hajra Khatoon.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Kerala, Trivandrum, Somatheeram, Vivekanand Rock,Kanyakumari</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Travel/Kerala-India/Backwaters-Kerala.jpeg' alt='' /&gt;&lt;p&gt;Barbara Klein, lives and works in Basel, Switzerland and loves to share her life of food and recipes, travels, writing and photography.She shares with us her visit to South India. mainly Kerala and Kanyakumari...As told to Hajra Khatoon.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    &lt;a href="http://very.late-bloomers.net/"&gt;Barbara Klein&lt;/a&gt;, lives and works in Basel,
+    Switzerland and loves to share her life of food and recipes, travels, writing and
+    photography. The following is an interview in her own words as told to &lt;a href="http://www.rockying.com/a/139"&gt;
+        Rockying&lt;/a&gt;. Lets dive into her introspective voyage to India:&lt;br&gt;
+    &lt;br&gt;
+    I have always been fascinated with India, its people and history and when my friend
+    and I decided on a four weeks &lt;a href="http://en.wikipedia.org/wiki/Ayurveda"&gt;Ayurvedan
+        therapy&lt;/a&gt; it was clear from the start: only India would be the perfect place
+    for our venture. After long planning we found the ideal resort in &lt;a href="http://www.keralatourism.org/"&gt;
+        Kerala&lt;/a&gt; and were very happy to have chosen &lt;a href="http://somatheeram.in/"&gt;Somatheeram&lt;/a&gt;
+    for its tradition and spectacular settings.&lt;/p&gt;
+&lt;p&gt;
+    The resort is close to &lt;a href="http://en.wikipedia.org/wiki/Trivandrum"&gt;Trivandrum
+        (now thiruvananthapuram)&lt;/a&gt;, an hour’s drive to the south. Overwhelming first
+    impressions of the vivid colors of blossoming trees and shrubs, traffic noise, flavors,
+    especially after a practically sleepless night on the plane.&lt;br&gt;
+    &lt;br&gt;
+    &lt;b&gt;Coming into the resort is like the entrance to paradise&lt;/b&gt;: all noise of modern
+    civilization is blotted out and we hear the sound of breaking waves, birds and smell
+    the wonderful scents of thousands of flowers.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+    &lt;img src="//rockying.com/art/Travel/Kerala-India/Somatheeram.Palace.jpg"
+        title="Somatheeram Beach Resort" alt="" style="width: 600px;"&gt;&lt;br&gt;
+    &amp;nbsp;&lt;br&gt;
+    My home for the next three weeks was &lt;b&gt;a lovely cottage&lt;/b&gt; directly above the
+    beach, 120 steps away from the main buildings.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+    &lt;img src="//rockying.com/art/Travel/Kerala-India/somatheeram-ayurvedic-resort.jpg"
+        title="A Cottage in The Somatheeram Resort" alt="" style="width: 600px;"&gt;&lt;br&gt;
+    &lt;br&gt;
+    After the first of my daily consultations with the doctors on the premises I am
+    told my&lt;b&gt; &lt;a href="http://en.wikipedia.org/wiki/Dosha"&gt;dosha&lt;/a&gt;&lt;/b&gt; (fundamental
+    bodily humors that constitute the body) type: &lt;b&gt;Pitta&lt;/b&gt;, the most common of the
+    three types, this is very important for the therapy we will follow the next three
+    weeks: apart from the daily treatments of massages we will adhere to a strict diet,
+    abstain from drinking alcohol, fizzy beverages, coffee and only eat vegetarian dishes.
+    I have also decided to refrain from smoking. It is advised to stay out of the sun
+    and swimming in the pool or in the sea is not recommended.&lt;/p&gt;
+&lt;p&gt;
+    &lt;a href="http://www.rockying.com/a/139"&gt;
+        &lt;img src="//rockying.com/art/Travel/Kerala-India/Backwaters-Kerala.jpeg"
+            title="BackWaters Kerala Beach Resort" alt="" style="width: 600px;"&gt;&lt;/a&gt;&lt;br&gt;
+    &lt;br&gt;
+    I am advised to take some Ayurvedic medication (including ghee) to help the detox.
+    Not too pleasant but who says medicine should be sweet?&lt;br&gt;
+    &lt;br&gt;
+    &lt;b&gt;The first days were difficult&lt;/b&gt;: constant headaches, hardly any sleep, feeling
+    hot and sweating a lot. My body certainly tells me how much I have abused it before.&lt;b&gt;&lt;br&gt;
+    &lt;/b&gt;
+&lt;/p&gt;
+&lt;h4&gt;
+    &lt;b&gt;SUNRISE AT 6 AM.&lt;/b&gt;&lt;/h4&gt;
+&lt;p&gt;
+    &lt;img src="//rockying.com/art/Travel/Kerala-India/067.JPG" title="SunRise at Somatheeram"
+        alt="" style="width: 600px;"&gt;&lt;/p&gt;
+&lt;p&gt;
+    Photo By: &lt;a href="http://very.late-bloomers.net/"&gt;Barbara Klein&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+    Slowly we get used to our new daily rhythm, we start the day before sunset with
+    a leisurely walk along the beach watching the sunrise, followed by a cup of curipathi
+    (probably this is cheating, but we do not really want to know what’s in it) in front
+    of my lovely cottage.
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    Breakfast and then treatments, general massage with hot oil, rejuvenation massage,
+    and all the other treatments according to our treatment sheet such as: Nasyam, Dhanyamly
+    Dhara, Virechana, Pizhichil Sarvangadhara etc., lunch, the daily doctor’s visit,
+    some more treatments, Yoga, Chakra meditation, dinner. Early to bed.&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+    &lt;img src="//rockying.com/art/Travel/Kerala-India/keralakrishnendu_ayurveda_treatment.jpg"
+        title="Ayurveda Treatment at Somatheeram" alt="" style="width: 600px;"&gt;&lt;/p&gt;
+&lt;p&gt;
+    Ayurvedan Therapy at Somatheeram (That's not me in the picture though)&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    I enjoy our Ayurvedan food, you help yourself from a huge buffet. And between us:
+    this helps me to cheat with my Pitta diet as I 'steal' snippets from Vata and Kapha
+    dishes!&lt;/p&gt;
+&lt;p&gt;
+    We love to eat dinner outside, sometimes there is a very welcome slight breeze of
+    fresh air.&lt;br&gt;
+    &lt;br&gt;
+    We have little free time between treatments and meals but we sometimes venture outside
+    and go to the local shops. I am a very popular customer (I have this gap between
+    my front teeth!) and a hard bargainer but I end up with far too many things from
+    tailor-made clothes, jewellery, saffron and other spices, spoons made of buffalo
+    horn to tons of textile materials from &lt;a href="http://www.parthastvm.com/"&gt;Parthas&lt;/a&gt;,
+    a colorful dreamland for shopaholics in Trivandrum. I buy a Churidar (stretchy fitted
+    trousers) that is not only beautiful and comfortable but ideal to be worn in this
+    heat.&lt;/p&gt;
+&lt;p&gt;
+    The days weave into weeks, one highlight is our trip down South to &lt;a href="http://en.wikipedia.org/wiki/Kanyakumari"&gt;
+        Kanyakumari in Tamil Nadu&lt;/a&gt;, visiting temples on the way and taking a boat
+    out to the rock memorial.&lt;/p&gt;
+&lt;p&gt;
+    &lt;img src="//rockying.com/art/Travel/Kerala-India/vivekananda-rock-.jpg"
+        title="Vivekananda Rock Memorial KanyaKumari" alt="" style="width: 600px;"&gt;&lt;br&gt;
+    It is time to leave and fly back to Switzerland, heavy suitcases (we have more than
+    20 kilos overweight) filled with our Indian treasures and lots of lovely memories
+    in our hearts.&lt;b&gt; I will be back!&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+    So that was Barbara, with her revelation of experiences, good and bad. Kerala is
+    unwinding indeed. We suggest you undertake our &lt;a href="http://www.rockying.com/a/139"&gt;
+        exclusive photographic journey &lt;/a&gt;to the place and accomplish mission Kerala!&lt;br&gt;
+    &lt;br&gt;
+&lt;/p&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>174</URL>
+</Article>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Sanju 2017</Title>
+  <OGImage />
+  <OGDescription>Sanju is a biopic of the controversial life of actor Sanjay Dutt: his film career, jail sentence and personal life.Sanju (Hindi pronunciation: [sŋdʒuː]) is a 2018 Indian biographical film directed by Rajkumar Hirani and written by Hirani and Abhijat</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>sanju</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;Sanju is a biopic of the controversial life of actor Sanjay Dutt: his film career, jail sentence and personal life.Sanju (Hindi pronunciation: [sŋdʒuː]) is a 2018 Indian biographical film directed by Rajkumar Hirani and written by Hirani and Abhijat&lt;/p&gt;</Description>
+  <Text>Hi 
+I am a long time reader and i am writing to you becaues i&amp;#39;d love to contribute a guest post to site.
+I have been brainstroming some topics that I think your readers
+would get a ton of value from :
+
+-Idea #1( hdmovieart.com )
+
+I will make sure the piece overflows with infromation that can not be found anywhere else.
+To give you an idea of the quality I will bring to your site, here&amp;#39;s
+Brief Description of your Invaluable Resource URL :http://hdmovieart.com/category/home/
+All the Best
+Your NAME.......Faraz Ahmad</Text>
+  <WriterName>faizi</WriterName>
+  <WriterEmail>fa31720@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>http//hdmovieartcom/ssanju</URL>
+</Article>

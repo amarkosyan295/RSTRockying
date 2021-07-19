@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Galee Terror</Title>
+  <MetaTitle>Galee Terror</MetaTitle>
+  <OGImage>//www.rockying.com/art/public/thriller/tunnel-syndrome.jpg</OGImage>
+  <OGDescription>Arya’s life will forever change after a haunting experience, but what will she do when the the choices are kill or pain?</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>31</Category>
+  <Tag>Nightclub, terror, blood,</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/public/thriller/tunnel-syndrome.jpg' alt='' /&gt;&lt;p&gt;Arya’s life will forever change after a haunting experience, but what will she do when the the choices are kill or pain?&lt;/p&gt;</Description>
+  <Text>Chapter 1: Arya
+I am unfamiliar with this area of town. The cold air bites at my exposed skin, as I stumble around in my heels. Leaving the event early and alone was probably not the best idea, considering that I am now drunk, freezing and lost. The chilling weather brings my mind to the illusion that I was smoking, due to my erratic breathing. 
+
+My thoughts continue to spiral, as I find myself looking down a dim alleyway that automatically makes me feel uneasy. Without giving my brain any time to register the movements, my feet are limping down the harrowing passageway. Each step is as slow and cautious as the other. I continue this motion mainly to distract myself from the pounding sensation in my head, but also to deflect every nerve ending telling me to turn back. The darkness continues to push back further into the alley, causing the terror that has grown within me to engulf my thoughts. 
+
+The hairs on the nape of my neck stand up, as I hear a light hum. All breath has been sucked out of me and I begin to take small steps backwards. The sinister black that surrounds me, has now left me completely inmobile. What followed from the deafening  silence was a wicked cackle. This was so full of hatred, so full of pure evil that it made me nauseous. The shadows and echoes from this narrow, desolate torment play on my senses; warping peculiar, yet deadly shapes and sounds. 
+
+“Hello?” my voice fills the area, shakier than I expected. Goosebumps creep up my arms as I await a response. My body abruptly slams into the floor, as a gasp falls from my dry lips. I try to get up, however I find my body completely paralyzed to this spot. A menacing aura holds me in a tight grip, as I continue to hopelessly fight. Every muscle, every bone, every cell screams at me to escape, but I just remain frozen to the ground. I can’t yell; even words have deserted me. 
+
+A terrible pain strikes my side. My entire life flashes before my eyes; my laughs, my tears, my friends, my family, I see them all. Another  excruciating pain hits my body, like a ton of bricks. My eyes flutter, before closing. The pounding of my heart drowns out my screams, as everything goes black.
+
+Chapter 2: Ramesh 
+The girls run over screaming, with yet another round of shots in their hands. My stomach churns at the thought of consuming more alcohol. Despite this, I swallow the familiar sweet taste down in one, allowing the bubbles to massage my throat. This authentic place of fusion drinks and vibrant colours, has me pushing through a writhing mass of sweating bodies to find my friends. I bring myself to a halt and gaze wonderingly at the swaying, gyrate bodies on the dance floor. 
+
+
+Chapter 3: Arya
+After my shocking awakening, twenty minutes passes with me trying to regain my breath. My once injured body was completely free of assault. Snapshot memories from the night fall into my head all muddled. I feel as though I have to put together a puzzle, without gathering up all of the pieces. Single words flood my already muddled mind: ghoulish, haunting, odd, scared, threatening. No longer feeling the bitter cold, or feeling the horrific ache that was once felt in my feet, which confuses my thoughts even more. My head is beating at a million miles per hour as I find myself outside of a nightclub. 
+
+Two huge gorilla-like guardians crowd the entrance as I move towards the euphoric state inside. Neither of them question me when I wander inside. Feeling disorientated with the beaming lights and perspiring bodies, I find a calmer corner and place myself on an antique choir stool. With my head still spinning, and confusion poisoning any logical reason I come up with, I order a glass of water. The cold liquid refreshes both my mind and body. All of the diverse styles that I see before me, become a compelling combination of the mesmerizing arts.
+
+Chapter 4: Ramesh
+Hopelessly looking around, I notice a rather beautiful woman seated on a bar stool in the corner. Sitting like a goddess, she catches my eye and gives me an alluring smile. I begin to wonder over to this perfectly crafted woman, before realising that the bar stool she was once sat in is completely empty. My hopes are corrupted as many questions race through my mind; where did she go? Will I ever see her again? How did she leave without me seeing her? Was she even real?
+
+Chapter 5: Arya
+Gazing around my foreign surroundings, I see him. We both seem disconnected to the crowds of people, looking like waves on a vast ocean. He begins walking in the opposite direction to me, but his movements deceive him and he turns to me. Without thinking I push through the silent dance of the mosh pit, and towards the exit. Still unable to understand anything, I accidentally knock into a woman outside and immediately apologise. However, she acts as though my existence isn’t standing in front of her. Why can some people see me, whilst others can’t?
+
+Chapter 6: Ramesh
+Confusion washes over my face as I search for the mysterious, yet stunning woman. The blaring music continues to echo in my ears, as my eyes scan for the exit. My feet move before my head can keep up, and I hit the outside bitter air with immediate regret. 
+
+I can still hear the loud rhythm of music as I cross the street. The darkness contrasts the animated lights blaring down in the club, causing my eyes to take a few minutes to readjust. I look around trying to regain my bearings, when I see the curiously beautiful woman. She rushes unexpectedly into a dark alley. Immediately panicking, I decide to wander over to the dimly lit area. Just by looking at this strange setting, causes a shiver to run down my spine. 
+
+Chapter 7: Arya
+This place is dark, deserted and dripping with unseen dangers, yet I strangely feel a sense of familiarity here. It was like an unwanted aura brought me here on purpose. 
+
+A sudden breeze hits me and deluges my thoughts. My eyes flutter closed and memories swamp my mind. I remember everything. From the unimaginable pain and fright that I felt whilst being hurt repeatedly, to the horror of being alone. I knew that I wasn’t alone, I knew there was something there, lurking in the shadows. Like a predator hiding in the midst, ready to pounce and kill its prey, and in this case the killer got what it wanted. 
+
+Carefully placed on the cobblestones is a liquid. I position my body closer to the floor, only to be struck with the realisation that the strange liquid is blood. I jump back in shock, before realising that painted in bold, revolting letters onto the bricks is the sentence, ‘Kill to be free.’ I repeat this strange phrase over and over in my head. 
+
+Walking further into the endless corridor of despair, I try to make sense of the recent events. Something comes into visibility, and as I edge closer I notice a human hand. The torn flesh is freshly soaked in blood. I try to turn away as I feel slightly ill, but an object catches my eye. Not just any object, but the heel that I distinctly remember causing my feet an immense amount of pain. The corpse becomes clearer, and my vision blurs with tears, I feel faint and a ringing in my ears drowns out any other noise. The body lying before me is a direct reflection of myself. From the way the dress fits me, to the specific hairstyle I remember attempting, there is no denying that this doppelganger is me. 
+
+Piecing together these inexplicable events, I realise that the sinister letters painted in my suffering, is a direct message of what I must do to escape this misery. I have to kill, in order for a soul to replace me. 
+
+
+
+
+Chapter 8: Ramesh 
+Eerie shadows rose from the ground and moved onto the walls, as I stumbled further towards the desolate alley. Curiosity has led me this far, however the woman has also induced me to follow her. This could be a trap? I need to turn back! My mind screams at me, but I feel frozen in time. My muscles are in a firm position, unable to move, when I hear it. The softest of cries echoes around the unlit alley, my heart aches as I continue to hear the whimpers.  
+
+Chapter 9: Arya
+The tears won’t stop pouring down my face, for I now know what I must do. The idea of killing an innocent soul for my freedom is an unthinkable act. One I refuse to commit. Dismissal will mean that my suffering will continue for as long as I refuse. Trapped, the idea looms over me like a dark shadow. The idea of spending an eternity, maybe longer, in this cynical place causes the tears to stream down my hot skin faster. 
+
+The sound of rough boots hitting the dirty street pulls me away from my thoughts. I look up to see the man from the club. Panic strikes me and is clearly spread across on my face, as he immediately apologises for scaring me. 
+
+Chapter 10: Ramesh
+I gaze wonderingly around at this foriegn place, as the horrific stench threatens my senses. The narrow alley devoids any happiness, with rubbish scattered all around my boots and the painfully flagrant sewage water flowing on either side of me. Taking my mind off of the unpleasant setting, is a figure cruelly loitering in the shadows. 
+As I slowly edge closer I see the charming woman in all her beauty. Despite how dimly lit this alley is, the captivating enchantress shown before me is undeniably exquisite. I notice the tears descending from her face and begin to walk towards her, in the hopes of offering some comfort. The way her body flinched as I moved towards her clearly indicated the panic I just caused. “Sorry, I didn’t mean to scare you,” I stutter as she looks at me with a blank expression. 
+
+Chapter 11: Arya
+An immoral voice in my head repeats those dreaded words. I look up to the wall to find that the bloody words have now disappeared, along with my body. My head twists and turns as I debate my next move. He is too pure, too innocent. My lips form the words, and they fall from my mouth in a scream, “RUN! PLEASE JUST GO!” The colour quickly drains from his face as his feet slip on the filthy road. Without hesitation he runs further and further, until I am once again standing solitary in this sorrowful darkness. Endless misery is engraved within every brick and in the deteriorating road.
+
+My suffering, my tears, my blood. I refuse to allow this elemental sin to continue, I refuse to kill any innocent man, woman or child who was just like me; alone, confused and fearful. 
+
+The days and weeks have moulded into one long torture cycle, each day I consume more pain. The agony crushes every nerve in my body, but I still do not give in to temptation. 
+
+Chapter 12: Ramesh
+It has been five years, and I can still recall the pure terror that I felt that night in the alley. The mysterious woman, who has never been seen since that night, still lingers in my mind with her pure beauty. No one uses the alley except for the brave and foolish, yet I watched as this young boy looked in there just like I once did. Whatever horrors lie in the depths of that alleyway, no living soul will ever know, apart from me and my enchantress.</Text>
+  <WriterName>Amelia</WriterName>
+  <WriterEmail>ajdec04@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>galee-terror</URL>
+</Article>

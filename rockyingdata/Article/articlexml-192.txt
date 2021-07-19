@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Most Spicy Foods In The World !</Title>
+  <MetaTitle>Most Spicy Foods In The World !</MetaTitle>
+  <OGImage>//rockying.com/art/Food/most-spicy-food-in-the-world/jerk-chicken-carribean-home-page.jpg</OGImage>
+  <OGDescription>Suicide chicken wings from America</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>13</Category>
+  <Tag>Food, Spicy, Indian Food, Chilli</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/Food/most-spicy-food-in-the-world/jerk-chicken-carribean-home-page.jpg' alt='' /&gt;&lt;p&gt;Suicide chicken wings from America&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;button id="prevslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+        font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+        padding: 0px; background-color: transparent;'&gt;
+        &amp;lsaquo;
+    &lt;/button&gt;
+    &lt;button id="nextslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+        font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+        padding: 0px; background-color: transparent;'&gt;
+        &amp;rsaquo;
+    &lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="slideshow"&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;div class="thumbnail"&gt;
+                        &lt;img src="//rockying.com/art/Food/most-spicy-food-in-the-world/10-tom-yum.jpg"
+                            alt="Tom Yum Spice Soup" /&gt;
+                    &lt;/div&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h3&gt;
+                        10# Tom Yum Spice Soup&lt;/h3&gt;
+                    &lt;p&gt;
+                        Ingredients:
+                    &lt;/p&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt;1 pound medium-size shrimp (prawns)&lt;/li&gt;
+                        &lt;li&gt;10 mushrooms&lt;/li&gt;
+                        &lt;li&gt;1 stalk of lemon grass, lightly pounded and cut into 2 inches long&lt;/li&gt;
+                        &lt;li&gt;3 lime leaves&lt;/li&gt;
+                        &lt;li&gt;1 teaspoon of salt&lt;/li&gt;
+                        &lt;li&gt;2 tablespoons of nam pla (Fish Sauce, or "Nam Pla" in Thai)&lt;/li&gt;
+                        &lt;li&gt;3 tablespoons of lime juice&lt;/li&gt;
+                        &lt;li&gt;6 prik ki nu ( Thai chili) ,pounded lightly&lt;/li&gt;
+                        &lt;li&gt;4 cups of water&lt;/li&gt;
+                        &lt;li&gt;½ cup of roughly cut cilantro leaves (Coriander)&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;p&gt;
+                        Process:&lt;/p&gt;
+                    &lt;ol&gt;
+                        &lt;li&gt;Remove the shrimp shell but leave the tails (for look).&lt;/li&gt;
+                        &lt;li&gt;Then cut open the back of each shrimp to remove the veins.&lt;/li&gt;
+                        &lt;li&gt;Clean the mushrooms with water and dry them well before wedging each into quarters.&lt;/li&gt;
+                        &lt;li&gt;Bring water to boil, then add lemon grass, lime leaves, and shrimps.&lt;/li&gt;
+                        &lt;li&gt;When the shrimps turn pink, add mushrooms and salts.&lt;/li&gt;
+                        &lt;li&gt;Remove the pot from heat after boil. Add fish sauce, lime juice, and hot peppers
+                            to taste.&lt;/li&gt;
+                    &lt;/ol&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;div class="thumbnail"&gt;
+                        &lt;img src="//rockying.com/art/Food/most-spicy-food-in-the-world/9-shrimp-creole-america.jpg"
+                            alt="Shrimp Creole" /&gt;&lt;/div&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h3&gt;
+                        9# America's Shrimp Creole&lt;/h3&gt;
+                    &lt;p&gt;
+                        Ingredients:&lt;/p&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt;1 teaspoon paprika&lt;/li&gt;
+                        &lt;li&gt;1 teaspoon pepper&lt;/li&gt;
+                        &lt;li&gt;1/2 teaspoon salt&lt;/li&gt;
+                        &lt;li&gt;1/2 teaspoon garlic powder&lt;/li&gt;
+                        &lt;li&gt;1/4 teaspoon oregano&lt;/li&gt;
+                        &lt;li&gt;1/4 teaspoon onion powder&lt;/li&gt;
+                        &lt;li&gt;1 pinch cayenne pepper&lt;/li&gt;
+                        &lt;li&gt;1 pinch thyme&lt;/li&gt;
+                        &lt;li&gt;28 uncooked large shrimp&lt;/li&gt;
+                        &lt;li&gt;7 tablespoons chilled butter, cut into 1/2 inch pieces&lt;/li&gt;
+                        &lt;li&gt;3 tablespoons Worcestershire sauce&lt;/li&gt;
+                        &lt;li&gt;3 tablespoons fresh lemon juice&lt;/li&gt;
+                        &lt;li&gt;2 teaspoons chopped garlic&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;p&gt;
+                        Process:&lt;/p&gt;
+                    &lt;ol&gt;
+                        &lt;li&gt;Combine first 8 ingredients in a large bowl.&lt;/li&gt;
+                        &lt;li&gt;Add shrimp and toss to coat.&lt;/li&gt;
+                        &lt;li&gt;Melt 3 T.of the butter in a large skillet over medium heat.&lt;/li&gt;
+                        &lt;li&gt;Add Worcestershire, lemon juice and garlic and saute about 2 minutes.&lt;/li&gt;
+                        &lt;li&gt;Add shrimp and saute until opaque.&lt;/li&gt;
+                        &lt;li&gt;Add remaining butter slowly until melted.&lt;/li&gt;
+                        &lt;li&gt;Transfer shrimp to serving plate and pour sauce over&lt;/li&gt;
+                    &lt;/ol&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;div class="thumbnail"&gt;
+                        &lt;img src="//rockying.com/art/Food/most-spicy-food-in-the-world/8-papa-a-la-huancaina-peru.jpg"
+                            alt="PAPA A LA HUANCAINA" /&gt;&lt;/div&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h3&gt;
+                        8# Peru's PAPA A LA HUANCAINA&lt;/h3&gt;
+                    &lt;p&gt;
+                        Ingredients:&lt;/p&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt;8 yellow or while potatoes&lt;/li&gt;
+                        &lt;li&gt;Huancaína sauce (spicy Cheese Sauce)&lt;/li&gt;
+                        &lt;li&gt;Lettuce leaves&lt;/li&gt;
+                        &lt;li&gt;2 hard-boiled eggs&lt;/li&gt;
+                        &lt;li&gt;8 large black olives, halved&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;p&gt;
+                        Process:&lt;/p&gt;
+                    &lt;ol&gt;
+                        &lt;li&gt;Heat a large pot of salted water to boiling and add the potatoes.&lt;/li&gt;
+                        &lt;li&gt;Boil potatoes until tender when pierced with a fork.&lt;/li&gt;
+                        &lt;li&gt;Drain water from potatoes and let cool.&lt;/li&gt;
+                        &lt;li&gt;Slice potatoes and arrange on top of the lettuce leaves.&lt;/li&gt;
+                        &lt;li&gt;Pour huancaína sauce over potatoes, and garnish with slices of hard-boiled egg and
+                            black olive halves.&lt;/li&gt;
+                    &lt;/ol&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;div class="thumbnail"&gt;
+            &lt;h3&gt;
+                7# Radish with pepper sichuan, China&lt;/h3&gt;
+            &lt;img src="//rockying.com/art/Food/most-spicy-food-in-the-world/7-Radish-with-pepper-Sichuan-China.jpg"
+                alt="Radish with pepper sichuan" /&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;div class="thumbnail"&gt;
+            &lt;h3&gt;
+                6# Bibimbap with kimchi, Korea&lt;/h3&gt;
+            &lt;img src="//rockying.com/art/Food/most-spicy-food-in-the-world/6-Bibimbap-with-kimchi-Korea.jpg"
+                alt="Bibimbap with kimchi" /&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;div class="thumbnail"&gt;
+                        &lt;img src="//rockying.com/art/Food/most-spicy-food-in-the-world/5.suicide-chicken-wings-america.jpg"
+                            alt="Suicide Chicken Wings" /&gt;&lt;/div&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h3&gt;
+                        5# Suicide chicken wings, America&lt;/h3&gt;
+                    &lt;p&gt;
+                        Ingredients&lt;/p&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt;2 1/2 cups Frank's red hot sauce&lt;/li&gt;
+                        &lt;li&gt;2 tablespoons garlic powder&lt;/li&gt;
+                        &lt;li&gt;2 chicken bouillon cubes (or powder)&lt;/li&gt;
+                        &lt;li&gt;1 teaspoon pepper&lt;/li&gt;
+                        &lt;li&gt;1/2 teaspoon white pepper&lt;/li&gt;
+                        &lt;li&gt;2 tablespoons Tabasco sauce&lt;/li&gt;
+                        &lt;li&gt;5 ounces barbecue sauce (any brand you like)&lt;/li&gt;
+                        &lt;li&gt;5 ounces honey garlic barbecue sauce&lt;/li&gt;
+                        &lt;li&gt;2 tablespoons cayenne pepper&lt;/li&gt;
+                        &lt;li&gt;1 teaspoon chili powder&lt;/li&gt;
+                        &lt;li&gt;1/4 cup butter&lt;/li&gt;
+                        &lt;li&gt;4 tablespoons brown sugar&lt;/li&gt;
+                        &lt;li&gt;5 lbs chicken wings (tips removed &amp; split in half.)&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;p&gt;
+                        Process:&lt;/p&gt;
+                    &lt;ol&gt;
+                        &lt;li&gt;Mix all sauce ingrediens in saucepan and heat to melt butter.&lt;/li&gt;
+                        &lt;li&gt;Deep fry wings in small batches and mix with sauce.&lt;/li&gt;
+                    &lt;/ol&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;div class="thumbnail"&gt;
+                        &lt;img src="//rockying.com/art/Food/most-spicy-food-in-the-world/4-jerk-chicken-carribean.jpg"
+                            alt="Chicken Jerk" /&gt;&lt;/div&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h3&gt;
+                        4# Chicken Jerk, Caribbean
+                    &lt;/h3&gt;
+                    &lt;p&gt;
+                        Ingredients&lt;/p&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt;1 1/2 lbs. of chicken pieces&lt;/li&gt;
+                        &lt;li&gt;5 chopped green onions&lt;/li&gt;
+                        &lt;li&gt;1 chopped onion&lt;/li&gt;
+                        &lt;li&gt;2tbsp. of brown sugar&lt;/li&gt;
+                        &lt;li&gt;1/2 tsp. of ground cloves&lt;/li&gt;
+                        &lt;li&gt;1/2 tsp. of ground allspice&lt;/li&gt;
+                        &lt;li&gt;1/2 tsp. of ground nutmeg&lt;/li&gt;
+                        &lt;li&gt;1 tbsp. of chopped chandon beni/cilantro&lt;/li&gt;
+                        &lt;li&gt;1 tbsp. of chopped thyme&lt;/li&gt;
+                        &lt;li&gt;1/4 cup of cooking oil&lt;/li&gt;
+                        &lt;li&gt;1/2 cup of distilled white vinegar&lt;/li&gt;
+                        &lt;li&gt;1/2 cup of soy sauce&lt;/li&gt;
+                        &lt;li&gt;1 minced jalapeno pepper &lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;p&gt;
+                        Process&lt;/p&gt;
+                    &lt;ol&gt;
+                        &lt;li&gt;Blend a combination of all onions, jalapeno, soy sauce, vinegar, oil, allspice,
+                            thyme, nutmeg, cloves, chadon beni/cilantro and brown sugar for 15 – 30 seconds.&lt;/li&gt;
+                        &lt;li&gt;Coat chicken pieces thoroughly in mixture and seal tightly in bowl overnight to
+                            soak.&lt;/li&gt;
+                        &lt;li&gt;Preheat grill to high heat or oven to 350 degrees F.&lt;/li&gt;
+                        &lt;li&gt;Lightly oil grill and cook chicken 5-10 minutes each until liquid is absorbed/Place
+                            in grease glass dish and place in oven for 15-20 minutes and turn chicken. &lt;/li&gt;
+                    &lt;/ol&gt;
+                    &lt;p&gt;
+                        Monitor chicken when baking in oven to ensure chicken does not get too dry. Adjust
+                        baking time is necessary.&lt;/p&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;div class="thumbnail"&gt;
+                        &lt;img src="//rockying.com/art/Food/most-spicy-food-in-the-world/3-WOT-ethopia.jpg"
+                            alt="WOT" /&gt;&lt;/div&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h3&gt;
+                        3# WOT, Ethiopia
+                    &lt;/h3&gt;
+                    &lt;p&gt;
+                        Ingredients&lt;/p&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt;1 whole chicken, skinned and cut into serving peices ( or 6 legs and 6 thighs)&lt;/li&gt;
+                        &lt;li&gt;8 pounds of onions, chopped FINE&lt;/li&gt;
+                        &lt;li&gt;1 pound of mashed garlic&lt;/li&gt;
+                        &lt;li&gt;1/4 pound mashed ginger&lt;/li&gt;
+                        &lt;li&gt;2 ladles full of Ethiopian chili powder (bere bere)&lt;/li&gt;
+                        &lt;li&gt;1 to 1 and a half lbs butter (M. says Ethiopians like to see it swimming on top)&lt;/li&gt;
+                        &lt;li&gt;Salt and pepper to taste&lt;/li&gt;
+                        &lt;li&gt;Nutmeg or cumin optional.&lt;/li&gt;
+                        &lt;li&gt;1 hard-boiled egg per person.&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;p&gt;
+                        Process&lt;/p&gt;
+                    &lt;ol&gt;
+                        &lt;li&gt;Cook onion over low heat, not in any fat, for a long time, stirring constantly over
+                            very low heat until all the water is evaporated. Continue stirring until onions
+                            are slightly brown. THEN add the butter; cook about 15-20 minutes still over low
+                            heat. Add 1 tbsp hot water from time to time (texture should be kind of pasty).&lt;/li&gt;
+                        &lt;li&gt;Add bere bere. If it looks too dry, add hot water and stir. Cook it about 30-45
+                            minutes - keep stirring frequently. Keep adding hot water if necessary. Be careful
+                            not to let it brown, because chili powder will become bitter. Add garlic and ginger
+                            and simmer 15 moreminutes. Add water as needed.&lt;/li&gt;
+                        &lt;li&gt;Meanwhile, with your other set of free hands, wash chicken peices well, and let
+                            stand in salted in lemoned water. Then squeeze each peice really hard to get out
+                            as much water as possible.&lt;/li&gt;
+                        &lt;li&gt;Then, make little slits in the meat so the sauce will penetrate. Cook the meat in
+                            the sauce until meat tis tender, about 30 minutes. Stir from time to time. All this
+                            has been uncovered, by the way. Add spices to taste just before removing from stove.
+                            Add 1 hard-boiled egg per person, which have been slit (the eggs, not the people),
+                            and cook just long enough to heat through. Serve with lots of bread (injera).
+                        &lt;/li&gt;
+                    &lt;/ol&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;div class="thumbnail"&gt;
+                        &lt;img src="//rockying.com/art/Food/most-spicy-food-in-the-world/2-vindaloo-india.jpg"
+                            alt="Vindaloo" /&gt;&lt;/div&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h3&gt;
+                        2# Vindaloo, India&lt;/h3&gt;
+                    &lt;p&gt;
+                        Ingredients&lt;/p&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt;2 (3 1/2-ounce) bags boil-in-bag brown rice&lt;/li&gt;
+                        &lt;li&gt;2 teaspoons peanut oil (or canola oil)&lt;/li&gt;
+                        &lt;li&gt;1 large sweet onion (Maui or Vidalia make good choices) or white onion is fine too&lt;/li&gt;
+                        &lt;li&gt;2 chicken breasts, but into 1 inch strips&lt;/li&gt;
+                        &lt;li&gt;1 1/4 teaspoons garam masala&lt;/li&gt;
+                        &lt;li&gt;1/4 teaspoon salt&lt;/li&gt;
+                        &lt;li&gt;1 teaspoon mustard seeds&lt;/li&gt;
+                        &lt;li&gt;1 inch of fresh ginger&lt;/li&gt;
+                        &lt;li&gt;1/2 teaspoon ground red pepper&lt;/li&gt;
+                        &lt;li&gt;5 thai peppers (be sure to get as close to the stem as possible, that’s where the
+                            spice is!)&lt;/li&gt;
+                        &lt;li&gt;1 tablespoon garlic&lt;/li&gt;
+                        &lt;li&gt;1/4 cup chicken broth&lt;/li&gt;
+                        &lt;li&gt;1 (14.5-ounce) can petite diced tomatoes, undrained&lt;/li&gt;
+                        &lt;li&gt;1 (8-ounce) can tomato sauce&lt;/li&gt;
+                        &lt;li&gt;2 tablespoons chopped fresh cilantro&lt;/li&gt;
+                        &lt;li&gt;1 tablespoon red wine vinegar &lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;p&gt;
+                        Process&lt;/p&gt;
+                    &lt;ol&gt;
+                        &lt;li&gt;Prepare rice according to package directions, omitting salt and fat; set aside.&lt;/li&gt;
+                        &lt;li&gt;Heat oil in a large nonstick skillet over medium-high heat. Add onion and to pan;
+                            sauté 2 minutes. Combine chicken and next 5 ingredients (through thai pepper); toss
+                            well; sauté for 5 minutes or until lightly browned. Add garlic.&lt;/li&gt;
+                        &lt;li&gt;Add broth to pan, scraping bottom of pan to loosen browned bits, deglaze with red
+                            table wine. Add tomatoes and tomato sauce; cook 3 minutes, stirring occasionally.
+                            Remove from heat; stir in cilantro and vinegar. Serve over rice.&lt;/li&gt;
+                    &lt;/ol&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;div class="thumbnail"&gt;
+                        &lt;img src="//rockying.com/art/Food/most-spicy-food-in-the-world/1-Sambal_ulek-indonesia.jpg"
+                            alt="Vindaloo" /&gt;&lt;/div&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h3&gt;
+                        1# Sambal Ulek, Indonesia&lt;/h3&gt;
+                    &lt;p&gt;
+                        Ingredients&lt;/p&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt;250g (8 oz) fresh red chilies&lt;/li&gt;
+                        &lt;li&gt;1 tsp salt&lt;/li&gt;
+                        &lt;li&gt;1 tsp soft brown sugar&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;p&gt;
+                        Process&lt;/p&gt;
+                    &lt;ol&gt;
+                        &lt;li&gt;Heat a heavy frying pan and put in the chilies after 2-3 minutes.&lt;/li&gt;
+                        &lt;li&gt;Dry roast over a medium heat for a few minutes.&lt;/li&gt;
+                        &lt;li&gt;Cool, then chop finely and pound to a paste with the salt and sugar.&lt;/li&gt;
+                        &lt;li&gt;The chili seeds may be taken out, or left in if you want a really fiery relish.
+                        &lt;/li&gt;
+                        &lt;li&gt;The sambal will keep for a week or so in a jar in the refrigerator.&lt;/li&gt;
+                    &lt;/ol&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <WriterName>Vratika Singh</WriterName>
+  <WriterEmail>vratika@rudrasofttech.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>most-spicy-foods-in-the-world</URL>
+</Article>

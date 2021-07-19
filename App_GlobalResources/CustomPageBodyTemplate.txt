@@ -1,0 +1,37 @@
+<div class="row-fluid box">
+        <div class="span12">
+            <h1>
+                Page title Here</h1>
+            <p class="smalltxt">
+                Author name, published date and tags here</p>
+        </div>
+    </div>
+<div class="row-fluid box">
+	<div class="span12">
+		<div id="article">
+			<h2>First Subheading</h2>
+			<p> Put paragraph text here. Add any number of paragraphs </p>
+			<p> Put paragraph text here. Add any number of paragraphs </p>
+			<p> Put paragraph text here. Add any number of paragraphs </p>
+			<p> Put paragraph text here. Add any number of paragraphs </p>
+			<p> Put paragraph text here. Add any number of paragraphs </p>
+			<h2>Second Subheading</h2>
+			<p> Put paragraph text here. Add any number of paragraphs </p>
+			<p> Put paragraph text here. Add any number of paragraphs </p>
+			<p> Put paragraph text here. Add any number of paragraphs </p>
+			<p> Put paragraph text here. Add any number of paragraphs </p>
+			<p> Put paragraph text here. Add any number of paragraphs </p>
+			<h2>Third Subheading</h2>
+			<p> Put paragraph text here. Add any number of paragraphs 
+				<ul>
+					<li>List item 1</li>
+					<li>List item 2</li>
+					<li>List item 3</li>
+					<li>List item 4</li>
+					<li>List item 5</li>
+				</ul>
+			</p>
+			
+		</div>
+	</div>
+</div>

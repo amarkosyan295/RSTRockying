@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Quiz 5: The Times of Yash Raj Chopra</Title>
+  <MetaTitle>Quiz 5: The Times of Yash Raj Chopra</MetaTitle>
+  <OGImage>//www.rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Challa-Jab-Tak-Hai-Jaan-Yash-Chopra-Quiz.jpg</OGImage>
+  <OGDescription>Yash Chopra died soon after finishing direction of a movie, though not being able to complete one of his conceived songs. What profession does the protagonist play in the film?</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Quiz, Yash Chopra Films, Yash Chopra died, Yash Raj Chopra, Yash Raj Films, Bollywood Film Quiz</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Challa-Jab-Tak-Hai-Jaan-Yash-Chopra-Quiz.jpg' alt='' /&gt;&lt;p&gt;Yash Chopra died soon after finishing direction of a movie, though not being able to complete one of his conceived songs. What profession does the protagonist play in the film?&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+            font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+            padding: 0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+            font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+            padding: 0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="slideshow"&gt;
+        &lt;div class="slide" style="margin-bottom: 20px;"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span6"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/rare-young-photo-yash-chopra-1.jpg"
+                        alt="Yash Chopra Young Photo" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            “Tu hindu banega na musalman banega, Insan ki aulad hai insaan banega…”. Which Yash
+                            Chopra movie contained this message of communal harmony and brotherhood?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q1" onclick="ValidateAnswer(this);" /&gt;
+                                    Dharmputra
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q1" onclick="ValidateAnswer(this);" /&gt;
+                                    Waqt
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q1" onclick="ValidateAnswer(this);" /&gt;
+                                    Faasle
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" value="correct" name="q1" onclick="ValidateAnswer(this);" /&gt;
+                                    Dhool Ka Phool
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="margin-bottom: 20px;"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span6"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Rajkumar-Waqt-2.jpg"
+                        alt="Rajkumar Waqt Movie" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            “Chinay seth, jinke ghar sheeshe ke hote hain wo dusron ke ghar pathhar nahin phenka
+                            karte.” Who wrote this dialogue from Yash Chopra’s multi-starrer Waqt?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input value="correct" type="radio" name="q2" onclick="ValidateAnswer(this);" /&gt;
+                                    Akhtar Ul Iman
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q2" onclick="ValidateAnswer(this);" /&gt;
+                                    Salim-Javed
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q2" onclick="ValidateAnswer(this);" /&gt;
+                                    Mukhram Sharma
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q2" onclick="ValidateAnswer(this);" /&gt;
+                                    Javed Akhtar
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="margin-bottom: 20px;"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span6"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Shashi-Kapoor-dharmputra-3.jpg"
+                        alt="Shashi Kapoor in Dharmputra" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            A hard-hitting social drama that saw violent demonstrations by viewers due to its
+                            reconstruction of the partition riots, in turn lead to Yash Chopra never making
+                            a political film again. This 1961 National award winning film marked the debut of
+                            Shashi Kapoor as an actor before which he had worked as a child artist only. Can
+                            you recall the film?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q3" onclick="ValidateAnswer(this);" /&gt;
+                                    Dhool Ka Phool
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input value="correct" type="radio" name="q3" onclick="ValidateAnswer(this);" /&gt;
+                                    Dharmputra
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q3" onclick="ValidateAnswer(this);" /&gt;
+                                    Jab Jab Phool Khile
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q3" onclick="ValidateAnswer(this);" /&gt;
+                                    Admi Aur Insaan
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="margin-bottom: 20px;"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span6"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Rajesh-Khanna-Daag-4.jpg"
+                        alt="Rajesh Khanna Daag" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Yash Chopra won the Filmfare Best Director Award for this film adaptation of the
+                            novel ‘The Mayor of Casterbridge’. Name the film.&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q4" onclick="ValidateAnswer(this);" /&gt;
+                                    Waqt
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" value="correct" name="q4" onclick="ValidateAnswer(this);" /&gt;
+                                    Daag: A Poem of Love
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q4" onclick="ValidateAnswer(this);" /&gt;
+                                    Deewar
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q4" onclick="ValidateAnswer(this);" /&gt;
+                                    Trishul
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="margin-bottom: 20px;"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span6"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Yash-chopra-5.jpg"
+                        alt="Yash Chopra" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            The Yash Chopra film noted for having swept the 1976 Filmfare awards, winning 7
+                            of them, was?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q5" onclick="ValidateAnswer(this);" /&gt;
+                                    Dharmputra
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q5" value="correct" onclick="ValidateAnswer(this);" /&gt;
+                                    Deewar
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q5" onclick="ValidateAnswer(this);" /&gt;
+                                    Waqt
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q5" onclick="ValidateAnswer(this);" /&gt;
+                                    Trishul
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="margin-bottom: 20px;"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span6"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Yash-Chopra-Kabhi-Kabhi-Team-6.jpg"
+                        alt="Yash Chopra Kabhi Kabhi" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Who won the Filmfare award for his song “Kabhi-Kabhi mere dil me khayal ata hai…”?
+                            This song also won lyricist Sahir ludhianvi the Filmfare that year.&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q6" onclick="ValidateAnswer(this);" /&gt;
+                                    Kishore Kumar
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input value="correct" type="radio" name="q6" onclick="ValidateAnswer(this);" /&gt;
+                                    Mukesh
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q6" onclick="ValidateAnswer(this);" /&gt;
+                                    Amitabh Bachchan
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q6" onclick="ValidateAnswer(this);" /&gt;
+                                    Nitin Mukesh
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="margin-bottom: 20px;"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span6"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Rang-Barse-Silsila-7.jpg"
+                        alt="Rang Barse Silsila" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Amitabh Bachchan sang “Rang Barse” in Yash Chopra’s Silsila. Who wrote the song?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q7" onclick="ValidateAnswer(this);" /&gt;
+                                    Javed Akhtar
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q7" onclick="ValidateAnswer(this);" /&gt;
+                                    Sahir Ludhianvi
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" value="correct" name="q7" onclick="ValidateAnswer(this);" /&gt;
+                                    Harivansh Rai Bachchan
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q7" onclick="ValidateAnswer(this);" /&gt;
+                                    Gulzar
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="margin-bottom: 20px;"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span6"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Yashji-8.jpg"
+                        alt="Yash Chopra" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            This 1985 film is considered as Chopra’s worst film till date. Have you heard of
+                            it? Name it for us.&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" value="correct" name="q8" onclick="ValidateAnswer(this);" /&gt;
+                                    Faasle
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q8" onclick="ValidateAnswer(this);" /&gt;
+                                    Ittefaq
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q8" onclick="ValidateAnswer(this);" /&gt;
+                                    Mashaal
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q8" onclick="ValidateAnswer(this);" /&gt;
+                                    Vijay
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="margin-bottom: 20px;"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span6"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Yashji-Filmfare-9.jpg"
+                        alt="Yash Chopra FilmFare" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Which of the following movies won Yash Chopra the Filmfare Best Director award in
+                            1973?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q9" onclick="ValidateAnswer(this);" /&gt;
+                                    Deewar
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q9" onclick="ValidateAnswer(this);" /&gt;
+                                    Trishul
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input value="correct" type="radio" name="q9" onclick="ValidateAnswer(this);" /&gt;
+                                    Daag
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q9" onclick="ValidateAnswer(this);" /&gt;
+                                    Ittefaq
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="margin-bottom: 20px;"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span6"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Dilip-Kumar-Yash-Chopra-Mashaal-10.jpg"
+                        alt="Dilip Kumar Yash Chopra Mashaal Movie" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            A righteous journalist (Dilip Kumar) who transforms the life of an astrayed orphan
+                            (Anil Kapoor), himself turns into a criminal leading to a sad death. Also starring
+                            Waheeda Rehman, which film does the plot belong to?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q10" onclick="ValidateAnswer(this);" /&gt;
+                                    Shakti
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q10" onclick="ValidateAnswer(this);" /&gt;
+                                    Trishul
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input value="correct" type="radio" name="q10" onclick="ValidateAnswer(this);" /&gt;
+                                    Mashaal
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q10" onclick="ValidateAnswer(this);" /&gt;
+                                    Karma
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="margin-bottom: 20px;"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span6"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Rishi-Vinod-11.jpg"
+                        alt="Rishi Kapoor Vinod Khanna" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Rishi Kapoor and Vinod Khanna worked last in Amar Akbar Anthony before they got
+                            back together for this Yash Chopra blockbuster. Name it.&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q11" onclick="ValidateAnswer(this);" /&gt;
+                                    Mashaal
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input value="correct" type="radio" name="q11" onclick="ValidateAnswer(this);" /&gt;
+                                    Chandni
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q11" onclick="ValidateAnswer(this);" /&gt;
+                                    Lamhe
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q11" onclick="ValidateAnswer(this);" /&gt;
+                                    Faasle
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="margin-bottom: 20px;"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span6"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/kaala-pathar-12.jpg"
+                        alt="Kaala Pathar Movie" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            This Salim-Javed story was based on the lives of coal mine workers. Leads performed
+                            by Amitabh Bachchan, Shatrughn Sinha and Shashi Kapoor, this film had a huge star
+                            cast. Which Yashraj film are we talking about?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q12" onclick="ValidateAnswer(this);" /&gt;
+                                    Trishul
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input value="correct" type="radio" name="q12" onclick="ValidateAnswer(this);" /&gt;
+                                    Kala Pathhar
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q12" onclick="ValidateAnswer(this);" /&gt;
+                                    Kalia
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q12" onclick="ValidateAnswer(this);" /&gt;
+                                    Shakti
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="margin-bottom: 20px;"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span6"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Sridev-Yashji-Lamhe-13.jpg"
+                        alt="Sridevi Yash Chopra Lamhe Movie" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            The hero falls for the mother and ends up marrying the daughter. A weird story and
+                            said to be Chopra’s personal favorite, this 1991 film won the ‘Best Film’ Filmfare
+                            despite its poor box-office performance in India. Can you name the film?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q13" onclick="ValidateAnswer(this);" /&gt;
+                                    Chandni
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q13" onclick="ValidateAnswer(this);" /&gt;
+                                    DDLJ
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q13" onclick="ValidateAnswer(this);" /&gt;
+                                    Dil to Pagal Hai
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input value="correct" type="radio" name="q13" onclick="ValidateAnswer(this);" /&gt;
+                                    Lamhe
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="margin-bottom: 20px;"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span6"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/darr-Shahrukh-Juhi-14.jpg"
+                        alt="Darr Movie Shahrukh Khan Juhi Chawla" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Darr not only fetched Shahrukh Khan a Filmfare nomination for Best Villain but also
+                            won the National Award for being the Best Popular Entertainer of that year. What
+                            was the nature of the film?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q14" onclick="ValidateAnswer(this);" /&gt;
+                                    Suspense Thriller
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q14" value="correct" onclick="ValidateAnswer(this);" /&gt;
+                                    Romantic Psychological Thriller
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q14" onclick="ValidateAnswer(this);" /&gt;
+                                    Horror
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q14" onclick="ValidateAnswer(this);" /&gt;
+                                    Murder Mystery
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="margin-bottom: 20px;"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span6"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Chandni-15.jpg"
+                        alt="Chandni Movie" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            This Yash Chopra film brought back the musical genre to Bollywood Cinema in 1989.
+                            Music composed by Pt. Shiv Kumar Sharma &amp; Pt. Hariprasad Chaurasia (Shiv-Hari),
+                            this movie also won the National Award for being the most popular wholesome entertainer
+                            that year. Do you know the film?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q15" onclick="ValidateAnswer(this);" /&gt;
+                                    DDLJ
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q15" onclick="ValidateAnswer(this);" /&gt;
+                                    Lamhe
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" value="correct" name="q15" onclick="ValidateAnswer(this);" /&gt;
+                                    Chandni
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q15" onclick="ValidateAnswer(this);" /&gt;
+                                    Dil To Pagal Hai
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="margin-bottom: 20px;"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span6"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/yash-Chopra-16.jpg"
+                        alt="Yash Chopra" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Literally sweeping the 1998 Filmfare Awards, this movie also won three National
+                            Awards. Remembered most for its dance sequences and music, this film revolves around
+                            the lives of a dance theatre group . Its named as?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q16" value="correct" onclick="ValidateAnswer(this);" /&gt;
+                                    Dil To Pagal Hai
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q16" onclick="ValidateAnswer(this);" /&gt;
+                                    Aa Ja Nach Le
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q16" onclick="ValidateAnswer(this);" /&gt;
+                                    Chandni
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q16" onclick="ValidateAnswer(this);" /&gt;
+                                    Dilwale Dulhaniya Le Jaenge
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="margin-bottom: 20px;"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span6"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Veer-Zaara-17.jpg"
+                        alt="Veer Zaara" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            When he made this film, Yash Chopra said he wouldn’t direct anymore. National award
+                            winner for being the Best Popular film of 2004, Veer Zaara’s music was only a revised
+                            version by Sanjeev Kohli. Who was the original composer of its tunes?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q17" onclick="ValidateAnswer(this);" /&gt;
+                                    Shankar Jaikishan
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q17" onclick="ValidateAnswer(this);" /&gt;
+                                    Khayyam
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" value="correct" name="q17" onclick="ValidateAnswer(this);" /&gt;
+                                    Madan Mohan
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q17" onclick="ValidateAnswer(this);" /&gt;
+                                    Rajesh Roshan
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="margin-bottom: 20px;"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span6"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Ittefaq-Rajesh_khanna-Iftekhhar-18.jpg"
+                        alt="Ittefaq Rajesh Khanna Iftekhar" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Remake of the British film ‘Sign post to Murder’, this Yash Chopra film had no songs,
+                            no comedy and lengths a nominal 105 minutes. Ittefaq is the only suspense thriller
+                            directed by him. Who played the female lead in the film?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" value="correct" name="q18" onclick="ValidateAnswer(this);" /&gt;
+                                    Nanda
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q18" onclick="ValidateAnswer(this);" /&gt;
+                                    Rekha
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q18" onclick="ValidateAnswer(this);" /&gt;
+                                    Bindu
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q18" onclick="ValidateAnswer(this);" /&gt;
+                                    Sharmila Tagore
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="margin-bottom: 20px;"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span6"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/padma-bhushan-19.jpg"
+                        alt="Padma Bhushan Yash Chopra" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Yash Raj Films produced more than 50 films out of which 22 were directed by Chopra
+                            himself. Proud recipient of the DadaSaheb Phalke Award (the highest honor in the
+                            Indian film industry), which other civilian honor did Yashji receive for his distinguished
+                            service to Indian Cinema?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q19" onclick="ValidateAnswer(this);" /&gt;
+                                    Bharat Ratna
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q19" onclick="ValidateAnswer(this);" /&gt;
+                                    Padma Vibhushan
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q19" onclick="ValidateAnswer(this);" /&gt;
+                                    Padma Shri
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" value="correct" name="q19" onclick="ValidateAnswer(this);" /&gt;
+                                    Padma Bhushan
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="margin-bottom: 20px;"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span6"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Challa-Jab-Tak-Hai-Jaan-20.jpg"
+                        alt="Challa-Song-Jab-Tak-Hai-Jaan" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Yash Chopra died soon after finishing direction of a movie, though not being able
+                            to complete one of his conceived songs.&lt;br /&gt;
+                            &lt;br /&gt;
+                            What profession does the protagonist play in the film?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q20" onclick="ValidateAnswer(this);" /&gt;
+                                    A Musician
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q20" onclick="ValidateAnswer(this);" /&gt;
+                                    A film-maker
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" value="correct" name="q20" onclick="ValidateAnswer(this);" /&gt;
+                                    An Army Officer
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q20" onclick="ValidateAnswer(this);" /&gt;
+                                    A Writer
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                    &lt;h5&gt;
+                        And can you name the film for us?
+                    &lt;/h5&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;h5&gt;
+        This was our tribute to the legendary producer, director, screen writer Yash Raj
+        Chopra (1932-2012). He died on the 21st of October, leaving behind a web of emotions
+        he had been weaving around the film fraternity all his life.&lt;/h5&gt;
+    &lt;h4&gt;
+        What do you think of the cult director and the mush he brought to Indian Cinema?&lt;/h4&gt;
+&lt;/div&gt;</Text>
+  <WriterName>Preeti Singh</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>223</URL>
+</Article>

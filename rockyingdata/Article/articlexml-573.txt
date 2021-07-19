@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>IGkNufHqeQq</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>LjcPi</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>13</Category>
+  <Tag>ASchcs</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;LjcPi&lt;/p&gt;</Description>
+  <Text>Could you tell me the number for ? http://xtube.in.net/ www.xtube.com  The cost of center-based child care for an infant is greater than median rent payments in 22 states and the District of Columbia, according to Child Care Aware of America&amp;#39;s 2012 report on the cost of child care. And center-based care for two children &amp;amp;ndash; an infant and a 4-year-old &amp;amp;ndash; is more expensive than the annual median rent in all 50 states and the District of Columbia.</Text>
+  <WriterName>8WPhMn</WriterName>
+  <WriterEmail>edmondp37@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>igknufhqeqq</URL>
+</Article>

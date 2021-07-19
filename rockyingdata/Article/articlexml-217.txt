@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Defeat Depression on World Mental Health Day!</Title>
+  <MetaTitle>Defeat Depression on World Mental Health Day!</MetaTitle>
+  <OGImage>//www.rockying.com/art/health/Mental-Health-Day/Mental-Health.JPG</OGImage>
+  <OGDescription>10th October is World Mental Health Day. The day raises awareness and promotes open discussion about mental illnesses and related problems.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>World Mental Health Day, Mental Health, Depression, Brain Exercises.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/health/Mental-Health-Day/Mental-Health.JPG' alt='' /&gt;&lt;p&gt;10th October is World Mental Health Day. The day raises awareness and promotes open discussion about mental illnesses and related problems.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    10th October is World Mental Health Day. The day raises awareness and promotes open
+    discussion about mental illnesses and related problems. We’ve talked about mental
+    health quite a few times - &lt;a href="//rockying.com/a/193"&gt;Brain ageing&lt;/a&gt;,
+    Depression (the theme for this year's Mental Health Day), Truths about &lt;a href="//rockying.com/a/92"&gt;
+        Mental Health&lt;/a&gt; and &lt;a href="//rockying.com/a/84"&gt;Brain Exercises&lt;/a&gt;. But this time we get down to the fundamentals of mental peace.&lt;/p&gt;
+&lt;img src="//rockying.com/art/health/Mental-Health-Day/Mental-Health-Day.jpg"
+    alt="" /&gt;
+&lt;p&gt;
+    WHO claims that India is the depression capital of the world - a statistic that psychiatrists in India don’t agree to. However, in our country, the statistics are disturbing - suicide rates are high, the elderly are clearly depressed and people are falling under a lot of stress.
+&lt;/p&gt;
+&lt;p&gt;
+    So we get down to the basics of depression and its causes, i.e. deterring mental
+    health. Maintaining a good mental health means having a sense of well being, being
+    able to function well in everyday life and feeling confident about yourself and
+    your actions. It means to strike a balance in every aspect of your life.&lt;/p&gt;
+&lt;p&gt;
+    Now it is tough but we touch upon the basics of improving and maintaining your mental
+    health:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            CONNECT, CONNECT, CONNECT&lt;/h5&gt;
+        &lt;p&gt;
+            There is a world outside Facebook, Twitter and the ‘World Wide Web’. Real life connections
+            make much more sense and will help you in many ways. Put a little effort and time
+            into relationships that matter and reach out to people. Not only does it make verbal
+            communication enjoyable, it helps you in building stronger relationships and a support
+            system.&lt;/p&gt;
+        &lt;p&gt;
+            You wouldn’t want that you have 5 people attending your funeral when you actually
+            had 2000 facebook friends, right?&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            Heard and said a thousand times : TAKE CARE OF YOURSELF!
+        &lt;/h5&gt;
+        &lt;p&gt;
+            The most under-rated of the most important things to health care. A lot of us ignore
+            minor pains and aches and wait for it to get the better of us. Go for regular health
+            check ups and make sure you take care of your bodily health which in turn keeps
+            mental problems at bay. Nourish your body and your mind well.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            TAKE A BREAK&lt;/h5&gt;
+        &lt;p&gt;
+            When was the last time you took time away for just yourself? Not just a vacation
+            but kept time away from the daily grind. Break the routine. Do something that you
+            enjoy - read a book, go for a quiet dinner, listen to music. Make sure you have
+            a vacation once in a while to break the monotony and give your mind some rest.&lt;/p&gt;
+        &lt;p&gt;
+            Take a day off in lieu of the mental health day!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            PRIORITIZE&lt;/h5&gt;
+        &lt;p&gt;
+            Figure out what needs to be done now and what can be put off for later. This is
+            what we call &lt;b&gt;creative-procrastination&lt;/b&gt; (Yes! we are human beings and we procrastinate
+            no matter what). Just train yourself to delay the least important tasks while finish
+            the most important ones the first thing. Also, too much of multitasking can make
+            it quite confusing. Not only will it take a toll on your physical well being, it
+            might create a lot of undue stress.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            MONEY MATTERS&lt;/h5&gt;
+        &lt;p&gt;
+            Keep your financial issues at bay. Sort out and keep it clear. Spend only as much
+            as you can afford. Indulge only when you can, not because you want to. Stay away
+            from debts as far as possible. They are good now, but suck in the long term!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+          REACH OUT AND ASK&lt;/h5&gt;
+        &lt;p&gt;
+            You are no Superman. You will have problems. Someone else might be able to help.
+            There is nothing wrong in it. Ask for help when you need it. You will be surprised
+            by the amount of help people have to offer. This is again when the support system
+            comes into picture.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            BE FIT, EXERCISE&lt;/h5&gt;
+        &lt;p&gt;
+            Probably another reason to get up and running! But yes, physical well being is closely
+            related to mental well being. Not only does activity release hormones that help
+            in balancing mood levels but exercise also helps in keeping fit and keeping various
+            illnesses away. Exercise doesn’t necessarily have to be hitting the gym. It could
+            be vacuuming, gardening, taking your dog out for a walk, cycling with your friends,
+            going for a swim. Just be active.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            VOLUNTEER&lt;/h5&gt;
+        &lt;p&gt;
+            There is nothing like helping others in need. Not only does it give you a sense
+            of fulfillment but it gives meaning to your being and living. Reach out, help someone
+            in need, donate your old stuff, donate a book, help your neighbor, just about anything
+            that will make a difference to others’ lives. Remember? “The Self-less Act of Redemption”.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+           BOREDOM AT BAY&lt;/h5&gt;
+        &lt;p&gt;
+            Don’t let monotony settle in. It tires the brain and makes it a devil’s workshop!
+            Keep yourself involved and make sure your “brain” is on &lt;a href="//rockying.com/a/84"&gt;
+                activity mode&lt;/a&gt;. Solve puzzles, work on your vocabulary, learn a language,
+            challenge yourself, try the crosswords.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+          ALCOHOL, CIGARETTES, DRUGS&lt;/h5&gt;
+        &lt;p&gt;
+            The ads say it right. They make it tough for you. Try to keep your alcohol intake
+            to a minimum and &lt;a href="//rockying.com/a/72"&gt;cut down on smoking&lt;/a&gt;
+            as soon as possible.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            SLEEP WELL&lt;/h5&gt;
+        &lt;p&gt;
+            If you haven’t taken your required rest for the day, then go ahead and do it. A
+            sleep recharges your batteries, makes the mind fresh and makes you much more productive.
+            And yes, it helps &lt;a href="//rockying.com/a/46"&gt;reduce weight&lt;/a&gt; too!&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    Here’s to a good mental health for a much more satisfying, meaningful and a healthier
+    lifestyle. It doesn’t require much effort - just a little discipline and a little
+    care and it will go a long run in making life much more easier and fun always!&lt;/p&gt;
+&lt;h5&gt;
+    What are you doing to keep your body and mind healthy?&lt;/h5&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>217</URL>
+</Article>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>bjihpRbVgKI</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>DJDr7n</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>16</Category>
+  <Tag>HcjoN4</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;DJDr7n&lt;/p&gt;</Description>
+  <Text>The National Gallery http://thisav.fun/ this av  At the same time, think about the financial protection your spouse would need if you died. In particular, if you both worked for a living and are each collecting Social Security, what would happen to those payments if you died? Consider getting a life insurance policy for your older years to help replace the Social Security benefits your spouse would lose when you die.</Text>
+  <WriterName>BUYDD</WriterName>
+  <WriterEmail>dillon6w@lycos.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>bjihprbvgki</URL>
+</Article>

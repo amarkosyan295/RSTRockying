@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Internet Makes You Rich??? Five Ways To Pocket The Bucks.</Title>
+  <OGImage>http://www.rockying.com/art/internet/Earn on the internet/shoemoney.jpg</OGImage>
+  <OGDescription>Ready to start your journey from the KEYBOARD? Given here are top five ideas for real beginners and keen minds to make some good money online.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>10</Category>
+  <Tag>Internet, Make money online, Earn Online, Internet Money.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/internet/Earn on the internet/shoemoney.jpg' alt='' /&gt;&lt;p&gt;Ready to start your journey from the KEYBOARD? Given here are top five ideas for real beginners and keen minds to make some good money online.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+Heard of these?- Earn 40, 000. Work from home. Part time&lt;img src="http://www.rockying.com/art/internet/Earn on the internet/shoemoney.jpg" title="Make Money Online" alt="" style="width: 300px; float: right;"&gt;&lt;br&gt;Earn above 20, 000. No fake promises. Full certified job. Contact ************&lt;br&gt;Yes. The ads might make you feel a bit doubtful but yes, an internet connection can get you truckloads of cash if used with a little strategy. If yes, bid sweet farewell to all your worries. Undoubtedly, there are several ways to get a good income through the internet. Among these techniques, you might come across ventures that might scam you up or create tricky situations for you. 
+&lt;/p&gt;
+&lt;p&gt;
+People are not aware of the right strategies and Rockying will open the Pandora’s Box to reveal some special secrets to richness. Ready to start your journey from the KEYBOARD? Given below are top five ideas for real beginners and keen minds and make some good money online.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;1. Affiliate Marketing. Heard of it?&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;
+This is as simple as it can get. Trust us! All you have to do is promote other’s products—digital, physical or simply an idea. This would mean, as the term goes that you would have to “affiliate” yourself with a parent organization and build your income. The main advantage of such a marketing strategy is that the need to create your own product is not necessary at all! Are you smiling at the idea yet? The mantra is: promote, promote, PROMOTE and find ways to do it. The product creator gets to bear all the additional costs, and you don’t have to worry about a twig!&amp;nbsp; Not even a website is needed for starting this affiliate business. 
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;2. Google Ad-sense. Wohoo…!&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;
+This is the second best way for generating money some selfish money and Rockying finds no harm in sticking to this money minting organization for earning some extra bucks.&amp;nbsp; All you have to do is just place ads in your website. Buy yourself some web domain, and then place Google AdSense on it. Every time someone clicks on the flashing ads, you get a dollar. Ting! Now, this is really cool as it has the ability to match the ad, with the theme of your website. If the website is related to gadgets, the ads show will be related to technologies and gadgets. 
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;3. Cost Per Action…A Little Technical Stuff &lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;
+CPA or Cost Per Action is similar to Google Ad-sense. Here you will get paid for referring people to buy something or referring people to a company’s network. A little tricky but this job is quite easy if you have a clever and work with precision. You get customers affiliated with companies through the internet and get commission per reference.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;4. Voila! My own online store!&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;
+You have some gorgeous collectibles, products, apparels, ideas, and event planners or simply anything to sell, it is highly advised to have your own eCommerce or an online store.&amp;nbsp; You can enjoy your profits and also get noticed very very easily.&amp;nbsp; Time for the Bible rule: Please do hire good shipping, good packaging and a purchasing system along with setting up a third party payment system. That is crucial.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;5. E books&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;
+Online business is like having that exotic marmalade for breakfast. Once you know where to buy that jar from, breakfasts start getting scrumptious! Here is the funda. E books have gained some unprecedented popularity. Created and sold by many internet marketers, these can fetch you some bulk money and improve the sales figures in leaps and bounds. If you are a person who has ample of experience in this field, finding a dealer and selling eBooks will be easier.
+&lt;/p&gt;
+&lt;p&gt;
+Now, all you would do is to scream “Show me the money!!!” and we would love to hear the jingling of those pouring coins (not literally! Coz that'd be sad :D )!
+&lt;/p&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>internet-makes-you-rich-five-ways-to-make-money-online</URL>
+</Article>

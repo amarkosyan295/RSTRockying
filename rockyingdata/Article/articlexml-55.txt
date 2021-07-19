@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>55</ID>
+  <Title>Hair Oil Bad For Hair?</Title>
+  <MetaTitle>Hair Oil Bad For Hair?</MetaTitle>
+  <OGImage>//rockying.com/art/Oil%20Bad%20for%20Hair/bad-hair-day.jpg</OGImage>
+  <OGDescription>Does your hair feel dry and frizzy even after you had oiled them the night before and shampooed them the next morning? Think before greasing your hair the next time...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Hair oil, ill-effects of Hair Oil,</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/Oil%20Bad%20for%20Hair/bad-hair-day.jpg' alt='' /&gt;&lt;p&gt;Does your hair feel dry and frizzy even after you had oiled them the night before and shampooed them the next morning? Think before greasing your hair the next time...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    Does&lt;img title="A Bad Hair Day" alt="A Bad Hair Day" src="//rockying.com/art/Hair%20Oil/bad-hair-day.jpg"
+        style="max-height: 200px;" class="pull-left" /&gt;&lt;img title="Oils" alt="Is Oil Good for Hair?" src="//rockying.com/art/Hair%20Oil/oil%20bad%20for%20hair.jpg"
+            style="max-width: 197px;" class="pull-right" /&gt;
+    your hair feel dry and frizzy even after you had oiled them the night before and
+    shampooed them the next morning? Think before greasing your hair the next time.
+    An ancient way of moisturizing your hair, hair oil has been there ever since. Herbal
+    oils, medicated oils, perfumed ones, oils that would make your hair black, oils
+    that would add shine to your hair, oils that stop baldness… is it all actually happening?
+    If we go back in the history, our grandmothers and great grandmothers did have those
+    sturdy long manes. So, how did they do it? Read on to find out why applying oil
+    every time before shampoo remains only a &lt;strong&gt;myth&lt;/strong&gt; now:
+&lt;/p&gt;
+&lt;h4&gt;
+    Favorable Conditions for the Grand Mamas:
+&lt;/h4&gt;
+&lt;ol&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            The weather conditions were different and so was the quality of water. Today the
+            water we use for washing our hair is full of chlorine content that promotes hair
+            loss.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Our great grandmothers never knew of &lt;strong&gt;hair straighteners, hair dryers and other hair
+                mousses&lt;/strong&gt; that we use today to get the look we want to.&lt;img class="pull-right" style="max-height: 186px;"
+                    title="Cars Cause Pollution" alt="car causing pollution" src="//rockying.com/art/Hair%20Oil/Pollution_Cars.jpg" /&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Less temperature fluctuations and&lt;strong&gt; less pollution&lt;/strong&gt; levels. Oily strands are
+            a huge turn off and can make you look like Ugly Betty! People with natural oily
+            scalp should avoid hair oil. Our scalps have a natural reservoir of oil for hair
+            strands every time the scalp goes too dry. This is Sebum that keeps your hair moisturized.
+            On the contrary, hair loses its natural sheen if you keep massaging oil every night
+            on your head vigorously. This can damage your hair in two ways: Make hair strands
+            more brittle and make it more dry the minute you shampoo it off, bringing you back
+            into the same vicious circle.
+        &lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+    Let us get the basics straight first! No oil can prevent dryness. So, what should
+    one actually do? One cannot do without shampoos and old habits of dabbling oil in
+    your hair die hard.
+&lt;/p&gt;
+&lt;h4&gt;
+    What we need Today:&lt;/h4&gt;
+&lt;ol&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;Buy a non-sulphate shampoo&lt;/strong&gt; and use it two times a week.&lt;img class="pull-right"
+                style="max-height: 138px;" title="Hot Towel" alt="Hot Towel Rockying " src="//rockying.com/art/Hair%20Oil/Hot_Towel.jpg" /&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;Conditioning &lt;/strong&gt;your hair is the trick. Deep condition your hair thrice a week
+            and wrap a &lt;strong&gt;hot towel&lt;/strong&gt; around your head for 30—40 minutes. Rinse with cold
+            water and see the smoothness seep into your hair texture in no time!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Conditioning also prevents split ends and hair breakage and adds bounce to hair
+            texture. No oil would do that! Opt for the ones that have &lt;strong&gt;protein&lt;/strong&gt;.
+        &lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4&gt;
+    Natural Substitutes for Hair Oil:
+&lt;/h4&gt;
+&lt;p&gt;
+    &lt;strong&gt;Curd&lt;/strong&gt; and &lt;strong&gt;Fenugreek&lt;/strong&gt; (methi) hair masque&lt;/p&gt;
+&lt;p&gt;
+    &lt;img title="Curd" alt="Curd" src="//rockying.com/art/Hair%20Oil/curd.jpg"
+        height="170" width="227"&gt;&lt;img style="width: 200px;" title="Fenugreek Seeds" alt="Fenugreek Seeds"
+            src="//rockying.com/art/Hair%20Oil/Fenugreek-seeds.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;
+    &lt;strong&gt;Honey&lt;/strong&gt; and &lt;strong&gt;Papaya&lt;/strong&gt; masque&lt;/p&gt;
+&lt;p&gt;
+    &lt;img title="Honey" alt="Honey" src="//rockying.com/art/Hair%20Oil/honeey.jpg"
+        style="max-height: 199px;" /&gt;&lt;img title="Papaya" alt="Papaya" src="//rockying.com/art/Hair%20Oil/papaya.jpg"
+            style="max-height: 199px;" /&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    Hair oil forms a layer on your scalp that does not promote the moisture intake of
+    the skin naturally. This chokes the pores leading to formation of flakes and dandruff.&lt;/p&gt;
+&lt;h5&gt;
+    So, the next time your mom screams at you for not oiling your hair, you need to
+    tell her about the new hair revolution!&lt;/h5&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>55</URL>
+</Article>

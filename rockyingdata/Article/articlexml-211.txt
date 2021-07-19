@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>The Serene, The Wild Himalayan Destination: Binsar (Uttarakhand)</Title>
+  <MetaTitle>The Serene, The Wild Himalayan Destination: Binsar (Uttarakhand)</MetaTitle>
+  <OGImage>//www.rockying.com/art/Travel/Namaste%20India/Binsar/Binsar-Home-Page.jpg</OGImage>
+  <OGDescription>Binsar has been a true case of a road less travelled for not many people know about it.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Binsar, Binsar Wildlife Sanctuary, Uttarakhand, Almora, Hill Stations India, Travel India, Himalayas.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Travel/Namaste%20India/Binsar/Binsar-Home-Page.jpg' alt='' /&gt;&lt;p&gt;Binsar has been a true case of a road less travelled for not many people know about it.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    Binsar has been a true case of a road less traveled for not many people know about
+    it. A breathtaking journey that amazes you with different shades of greenery, the
+    merging peaks of Nanda Devi, Kedarnath and the Shivling Trishul all come together
+    for that perfect view at &lt;a href="http://www.rockying.com/a/210"&gt;Zero Point&lt;/a&gt;(Take
+    on our photographic journey to explore Binsar better, through the eyes!).&lt;a href="//www.rockying.com/a/210"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Binsar/Binsar.JPG"
+            alt="Binsar" class="pull-right" /&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;h4&gt;
+    Where To Stay?&lt;/h4&gt;
+&lt;p&gt;
+    Binsar is still an unexplored place by tourists. Choose a resort (trust us, these
+    resorts are not at all expensive considering the commercial tourist places that
+    India offers), especially in the months of April, May and June, wake up to a golden
+    sunrise and take a short walk on the hilly slopes. Rockying suggests &lt;a href="http://www.clubmahindra.com/AboutResortInfo/binsar_valley_resort"
+        target="_blank"&gt;Club Mahindra Valley Resort&lt;/a&gt; and &lt;a href="http://www.kasaarjungleresort.com/"
+            target="_blank"&gt;Kasaar Jungle Resort&lt;/a&gt; as the best spa resorts in the
+    the city which is located right in the middle of mountains and offer the best intellectual
+    spas you can think of! The next best alternative is booking a luxurious estate for
+    your stay. These are almost like the service apartments of Singapore but with an
+    excellent room service. However, budget hotels like Binsar Eco Camp will not take
+    away from the peace and serenity that this place has to offer. If you want to stay
+    closer to nature still, look out for some well-maintained log huts built in the
+    outskirts of the forest camping areas. Those are high on cozy-factor and easy on
+    your budget!&lt;/p&gt;
+&lt;h5&gt;
+    Now, let us get some of the traveling FUNDAS clear:&lt;/h5&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+
+            &lt;p&gt;
+                Small and remote hill stations like Binsar are NOT commercial in nature. So do not
+                expect shopping malls or multiplexes in the city.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+            &lt;p&gt;
+                Local vendors and shopkeepers do sell local wears and brightly knitted gloves and
+                woolens that any tourist would find it to be a value-for-money purchase. You can
+                lookout for those!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+            &lt;p&gt;
+                Carry a good camera with you. You might just go mad clicking all your way in the
+                city and a good lens does make a hell lot of difference.&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;
+    The MUST Try:&lt;/h4&gt;
+&lt;ol&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            The new-definition bread pakoras in Siddhi Restaurant near the Kainchi Dam can become
+            your staple diet out there. They are so gorgeous, piping hot, and simply amazing.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Club Mahindra has a wide range of interesting activities such as candle making,
+            reading rooms, clay modeling etc. Rockying calls this the finest way of unwinding
+            from daily traffic and chores. Let’s get our hands soiled in some clay, what say?&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Trek, trek and trek. You can approach your hotel reception for booking professional
+            trekkers who can guide you through rough terrains and scaly mountains for that ultimate
+            escapade into the nature. Do it!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Visit the wildlife sanctuary. Animal lovers will love it all the more and people
+            otherwise will find the walk around the sanctuary liberating. You would find some
+            220 species of birds out there!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Standing at Zero Point and watching the sun slowly stir in its orange hues in the
+            the sky is an experience that makes India different from the city grind. The snow-capped
+            peaks against the orange sunrise is a guaranteed poetic experience.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            The Golu Devta Temple is a small but well-known local deity which is situated
+            just 4 km away from Binsar. Coordinate the trip with your resort officials and
+            do visit this temple. If you are not really a religious fanatic, then the architecture
+            might just take your breath away!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Try to figure some time out for a trip to the Japanese Cave that holds the history
+            of the place. This cave was a hideout for the Japanese army. The cave took as many
+            as 3000 lives of Japanese soldiers!&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+&lt;h6&gt;
+    As Rockying (&lt;a href="//www.rockying.com/a/210"&gt;Check our article here&lt;/a&gt;)
+    knows India best, we suggest let this be your best weekend plan including the next
+    few Mondays!&lt;/h6&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>211</URL>
+</Article>

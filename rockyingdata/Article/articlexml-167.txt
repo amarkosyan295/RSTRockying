@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>167</ID>
+  <Title>When Hunger Bites At Midnight!</Title>
+  <MetaTitle>When Hunger Bites At Midnight!</MetaTitle>
+  <OGImage>//rockying.com/art/Food/Midnight-Snacks/Kathi-Roll.jpg</OGImage>
+  <OGDescription>If you are a late sleeper and a late riser (we suggest Early to bed Early to rise though), you are typically one of those who are awake fighting hunger pangs bravely. If you are thinking what can keep you miles away from those unhealthy munches at midnight, this is a must read for you!</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>13</Category>
+  <Tag>Midnight Snacks, Healthy Snacking, Milk, Dates, Nutri Bars, Kathi Roll, Sandwich</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/Food/Midnight-Snacks/Kathi-Roll.jpg' alt='' /&gt;&lt;p&gt;If you are a late sleeper and a late riser (we suggest Early to bed Early to rise though), you are typically one of those who are awake fighting hunger pangs bravely. If you are thinking what can keep you miles away from those unhealthy munches at midnight, this is a must read for you!&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    We all know not all health foods are tasty. If you are a late sleeper and a late
+    riser (we suggest &lt;i&gt;Early to bed Early to rise&lt;/i&gt; though), you are typically one
+    of those who are awake fighting hunger pangs bravely. If you are thinking what can
+    keep you miles away from those unhealthy munches at midnight, this is a must read
+    for you!&lt;/p&gt;
+&lt;ul class="unstyled"&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            I enjoy long walks to the refrigerator!&lt;/h4&gt;
+        &lt;p&gt;
+            Well, the refrigerator might be the most tempting storehouse of food but we suggest
+            you try having a glass of &lt;b&gt;milk&lt;/b&gt; and a handful of &lt;b&gt;nuts&lt;/b&gt;, a &lt;b&gt;banana&lt;/b&gt;
+            or simply some cold water. Try to de-clutter your mind from sinful indulgence in
+            fattening foods.&lt;/p&gt;
+        &lt;img src="//rockying.com/art/Food/Midnight-Snacks/Cashew-Nuts-milk.jpg"
+            title="Milk and Nuts" alt="" /&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;hr /&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            Microwave Pop! Corn.&lt;/h4&gt;
+        &lt;p&gt;
+            This is the sexiest way of munching your way to glory. Pop-corns are high on roughage
+            and totally fat free. You can snack it up without feeling bloated the next morning!&lt;/p&gt;
+        &lt;img src="//rockying.com/art/Food/Midnight-Snacks/popcorn.jpg"
+            title="Pop Corn" alt="" /&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;hr /&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            Midnight Sandwich Love
+        &lt;/h4&gt;
+        &lt;p&gt;
+            If you are looking for a real full meal then brown breads stuffed with yogurt, berries,
+            a slice of ricotta cheese, sprouts and cucumber can create some sure shot midnight
+            magic. Just prepare it once to know how heavenly it tastes like!&lt;/p&gt;
+        &lt;img src="//rockying.com/art/Food/Midnight-Snacks/cucumber-sandwich.jpg"
+            title="Brown Bread Cucumber Sandwich" alt="" style="width:500px;" /&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            Health Bars
+        &lt;/h4&gt;
+        &lt;p&gt;
+            Do keep health bars at home. They are the best substitute for chocolate craving.
+            Nutri bars are available in several flavors so you are free to take your pick and
+            keep that sweet tooth under control. &lt;b&gt;Dates&lt;/b&gt; can be another great alternative.&lt;/p&gt;
+        &lt;img src="//rockying.com/art/Food/Midnight-Snacks/granola_bars_granola_recipe.jpg"
+            title="Granola Bars" alt="" style="width: 500px;" /&gt;
+    &lt;/li&gt;
+    
+    &lt;li&gt;
+        &lt;h4&gt;
+            That Gorgeous Mexican Roll!&lt;/h4&gt;
+        &lt;p&gt;
+            Mexican rolls can be a refreshing midnight snack. Trust us on this. Throw in some
+            jalapenos, minced olives, grated carrots, finely chopped tomatoes, mustard and tomato
+            sauce, onions and cottage cheese and roll it up in your good old tawa roti. You
+            will thank us for this!&lt;/p&gt;
+        &lt;img src="//rockying.com/art/Food/Midnight-Snacks/Kathi-Roll.jpg"
+            title="Raw Kathi Roll" alt="" style="width: 500px;" /&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    &lt;b&gt;Tip&lt;/b&gt;: Avoid high protein consumption during nights at all costs.
+&lt;/p&gt;
+&lt;h4&gt;
+    Now you might just wait for the clock to strike 12, eh??&lt;/h4&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>when-hunger-bites-at-midnight</URL>
+</Article>

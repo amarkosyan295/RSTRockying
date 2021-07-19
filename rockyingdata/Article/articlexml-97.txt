@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>97</ID>
+  <Title>Waves And Barbecue; Its Party Time !!!</Title>
+  <MetaTitle>Waves And Barbecue; Its Party Time !!!</MetaTitle>
+  <OGImage>//rockying.com/art/Food/BEACH%20BBQ/beach-bbq.jpg</OGImage>
+  <OGDescription>Great company, some wine, beach volleyball, the setting sun and some barbecue. What more does one want? Living the barbecue life is back on! Here is what you need to do for that perfect barbecue party that you have been fretting about for long...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>13</Category>
+  <Tag>Beach BBQ, Barbeque Beach Party</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/Food/BEACH%20BBQ/beach-bbq.jpg' alt='' /&gt;&lt;p&gt;Great company, some wine, beach volleyball, the setting sun and some barbecue. What more does one want? Living the barbecue life is back on! Here is what you need to do for that perfect barbecue party that you have been fretting about for long...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    Great&lt;img src="//rockying.com/art/Food/BEACH%20BBQ/BEACH-BBQ-HEADER.jpg"
+        title="Beach Barbecue" alt="" style="width: 500px;" class="pull-left" /&gt;
+    company, some wine, beach volleyball, the setting sun and some barbecue. What more
+    does one want? Living the barbecue life is back on! Here is what you need to do
+    for that perfect barbecue party that you have been fretting about for long. Check
+    it out:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Let us get down to the basics. Search and finalize a beach area that has no trees
+            around. Barbeque is all about liquid oxygen and lots of smoke and you sure do not
+            want a fire catching up while you roast your hams. Also enquire if that beach is
+            a barbecue friendly beach.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Usually a true barbecue experience is when you cook with charcoal. The gas ones
+            available in the market will not give you that smoky and juicy flavor. Many charcoal
+            brands are available in the markets that are pre-soaked in fluids that catch fire
+            on their own. You can also throw in some evenly cut wood chunks for that irresistible
+            fragrance. How about some perfection, eh?
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Before starting to arrange those chicken lumps, one should allow the charcoal lumps
+            to ash-up a bit. So leave it on for 20 minutes before you start cooking your food.
+            How would you understand that the charcoals are ready? When the surface starts to
+            turn grey.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            The trick is to arrange the charcoal into a flat bed and not into a pile-up mountain.
+            The fire won’t be even then!
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            The most cumbersome fact about a BBQ is selecting what to cook. The most workable
+            and tastier options are capsicums, lumps of cottage cheese, chicken, potatoes, eggplants,
+            hams and salamis, mutton and corn. Marinate them the night before in lemon juices,
+            salt, curd, black pepper sauce and crushed mint leaves. This would lock the juices
+            of the food item and give that delectable mouth-watering taste. How about making
+            the uninvited ones in the party a little jealous?
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            If you are a self-trained barbecue chef then, you know the cooking time for each
+            &lt;img src="//rockying.com/art/Food/BEACH%20BBQ/beach-bbq.jpg" title="Evening and Beach Barbecue"
+                alt="" style="width: 400px;" class="pull-right" /&gt;barbecue better. If not, it
+            is better to do some research around that time or ask one of your friends to help
+            you out. Food sets the mood of the party and you sure do not want to look like a
+            fool standing near the barbecue.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Place cuts on chicken lumps before placing it on the grill. This will cook the meat
+            till the inside and have less chances of staying raw from within.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Barbecues can be hot and it is better to keep the beer tap on. Apart from that,
+            keep other options such as fruits, salads and chips. You do not want people to line
+            up in front of you for their next helping.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            If it is your private beach, then put on some music. Hawaiian numbers often set
+            the mood of the party.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Make sure the decoration is minimal and the focus is more on lighting. As the sun
+            would set in, dim lights, barbecue and toes in the sea can create magic even before
+            you realize it.
+        &lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;
+    Raising a toast to better lifestyle and food, let all the beachy bums celebrate
+    a true gourmet life.&lt;/h5&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>waves-and-barbecue-its-party-time</URL>
+</Article>

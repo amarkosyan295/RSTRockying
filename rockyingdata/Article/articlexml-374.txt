@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>ये सरल, घरेलू उपाय अपनाकर चक्कर खाकर गिरने से बचें!</Title>
+  <OGImage>http://www.rockying.com/art/health/Home-made-Remedies/Dhaniya-Dry-Coriander.jpg</OGImage>
+  <OGDescription>Cure Vertigo or Giddiness using Amla and these Rockying home remedies...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>लू, चक्कर आना , Vertigo, Giddiness, Home-Remedies, Ayurveda, Amla.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/health/Home-made-Remedies/Dhaniya-Dry-Coriander.jpg' alt='' /&gt;&lt;p&gt;Cure Vertigo or Giddiness using Amla and these Rockying home remedies...&lt;/p&gt;</Description>
+  <Text>&lt;h2&gt; चक्कर आना (Vertigo or Giddiness), घरेलू उपाय &lt;/h2&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/health/Home-made-Remedies/Giddiness.jpg" alt="Vertigo-or-Giddiness" title="Home-Remedy to Cure Vertigo/Giddiness"&gt;
+&lt;hr&gt;
+&lt;p&gt;
+तापमान बढ़ता जा रहा है और लू के थपेड़े झेलना दिन पे दिन और भी मुश्किल होता जा रहा है। घरों में तो ज़्यादातर AC लगे होने के कारण उतना अंतर पता नहीं चलता पर बाहर  निकलते ही सूरज देवता का क्रोध मानो अंदर से सारी शक्ति ही खींच लेता है। बाहर से शरीर काला पड़ने तो लगता ही है साथ-साथ अंदर से भी जैसे सब ऊर्जा नष्ट होने लगती है। ऐसे में हम में से कई हैं जिन्हे आए दिन चक्कर आने की शिक़ायत रहती है। गर्मी के अलावा कान में कुछ तकलीफ होने या ब्लड प्रेशर से सम्बंधित कारणों से भी सर घूमना या चक्कर आना महसूस किया जा सकता है। साधारण तौर पर तुरंत पानी या ग्लूकोस वगैरह पी लेने से यह ठीक हो जाता है पर इसे जड़ से ख़त्म करने के लिए आज कुछ घरेलू उपाय रॉकीइंग की तरफ से सिर्फ आपके लिए।  
+&lt;p&gt;
+&lt;hr&gt;
+ &lt;img src="http://www.rockying.com/art/health/Home-made-Remedies/Amla.jpg" alt="Amla" title="Amla to Cure Vertigo/Giddiness"&gt;
+&lt;hr&gt;
+&lt;p&gt;
+&lt;b&gt;सूखा आँवला&lt;/b&gt; (गुठली निकालकर ) 6 ग्राम और &lt;b&gt;धनिया&lt;/b&gt; (सूखा दाना ) 6 ग्राम हल्का सा कूटकर मिट्टी के बर्तन में 250 ग्राम पानी में भिगो कर रात को रख दीजिये। सुबह इस मिश्रण को मसलकर छान लीजिये और एक चम्मच चीनी या मिश्री का चूर्ण मिलाकर पी लीजिये । तीन-चार दिनों में सर घूमना और चक्कर आने बंद हो जाएंगे । इस मिश्रण से गर्मी का सर दर्द भी मिटता है। गर्मी या दिमाग की कमज़ोरी के कारण अचानक आँखों के आगे अँधेरा छा जाने की तकलीफ से भी आराम होता है।  
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/health/Home-made-Remedies/Dhaniya-Dry-Coriander.jpg" alt="Dry Coriander" title="Dhaniya to Cure Vertigo/Giddiness" &gt;
+&lt;hr&gt;
+&lt;p&gt;
+&lt;b&gt;नोट:&lt;/b&gt; आठ-दस दिन तक ज़रुरत के अनुसार लीजिये। ज़रूर फायदा पहुंचेगा। आगे भी लेते रहने से नुक्सान नहीं है। आधे सर के दर्द में भी ये उपाय बहुत लाभकारी सिद्ध हुआ है।   
+&lt;/p&gt;
+&lt;style&gt;
+#article p {
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+}
+&lt;/style&gt;</Text>
+  <WriterName>Rockying</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>hindi/cure-vertigo-or-giddiness-using-amla-and-rockying-home-remedies</URL>
+</Article>

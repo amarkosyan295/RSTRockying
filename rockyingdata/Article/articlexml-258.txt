@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>100 Years of Indian Cinema;Part II</Title>
+  <OGImage>http://www.rockying.com/art/bollywood/100-Years-of-Indian-Cinema/Raja_Harishchandra.jpg</OGImage>
+  <OGDescription>3rd May 1913.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>100 Years of Indian Cinema Celebration series, 3rd May 1913, Bollywood @100.</Tag>
+  <Status>Inactive</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/bollywood/100-Years-of-Indian-Cinema/Raja_Harishchandra.jpg' alt='' /&gt;&lt;p&gt;3rd May 1913.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+100 Years back on May 3rd 1913,</Text>
+  <WriterName>Digant Kumar</WriterName>
+  <WriterEmail>digantkumar@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>258</URL>
+</Article>

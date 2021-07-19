@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>30</ID>
+  <Name>more-categories</Name>
+  <Title>More Categories</Title>
+  <DateCreated>2017-01-30T01:36:28.84</DateCreated>
+  <CreatedByName>Raj Kiran</CreatedByName>
+  <CreatedBy>1</CreatedBy>
+  <Status>Publish</Status>
+  <ModifiedByName>Raj Kiran</ModifiedByName>
+  <ModifiedBy>1</ModifiedBy>
+  <Body>&lt;ul class="thumbnails"&gt;
+    &lt;li class="span3"&gt;
+        &lt;a href="//rockying.com/Hollywood/index" class="thumbnail"&gt;
+            &lt;img src="//rockying.com/art/category/icons/hollywood-400-x-120.jpg" alt="hollywood" /&gt;
+        &lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li class="span3"&gt;
+        &lt;a href="//rockying.com/Fashion/index" class="thumbnail"&gt;
+            &lt;img src="//rockying.com/art/category/icons/fashion-400-x-120.jpg" alt="fashion" /&gt;
+        &lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li class="span3"&gt;
+        &lt;a href="//rockying.com/Food/index" class="thumbnail"&gt;
+            &lt;img src="//rockying.com/art/category/icons/food-400-x-120.jpg" alt="food" /&gt;
+        &lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li class="span3"&gt;
+        &lt;a href="//rockying.com/Music/index" class="thumbnail"&gt;
+            &lt;img src="//rockying.com/art/category/icons/music-400-x-120.jpg" alt="music" /&gt;
+        &lt;/a&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class="thumbnails"&gt;
+    &lt;li class="span3"&gt;
+
+        &lt;a href="//rockying.com/Travel/index" class="thumbnail"&gt;
+            &lt;img src="//rockying.com/art/category/icons/travel-400-x-120.jpg" alt="travel" /&gt;
+        &lt;/a&gt;
+
+    &lt;/li&gt;
+    &lt;li class="span3"&gt;
+
+        &lt;a href="//rockying.com/Internet/index" class="thumbnail"&gt;
+            &lt;img src="//rockying.com/art/category/icons/internet-400-x-120.jpg" alt="internet" /&gt;
+        &lt;/a&gt;
+
+    &lt;/li&gt;
+    &lt;li class="span3"&gt;
+
+        &lt;a href="//rockying.com/Health/index" class="thumbnail"&gt;
+            &lt;img src="//rockying.com/art/category/icons/health-400-x-120.jpg" alt="health" /&gt;
+        &lt;/a&gt;
+
+    &lt;/li&gt;
+    &lt;li class="span3"&gt;
+
+        &lt;a href="//rockying.com/Humor/index" class="thumbnail"&gt;
+            &lt;img src="//rockying.com/art/category/icons/humor-400-x-120.jpg" alt="humor" /&gt;
+        &lt;/a&gt;
+
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class="thumbnails"&gt;
+    &lt;li class="span3"&gt;
+
+        &lt;a href="//rockying.com/Bollywood/index" class="thumbnail"&gt;
+            &lt;img src="//rockying.com/art/category/icons/bollywood-400-x-120.jpg" alt="bollywood" /&gt;
+        &lt;/a&gt;
+
+    &lt;/li&gt;
+
+    &lt;li class="span3"&gt;
+
+        &lt;a href="//rockying.com/Awareness/index" class="thumbnail"&gt;
+            &lt;img src="//rockying.com/art/category/icons/awareness-400-x-120.jpg" alt="awareness" /&gt;
+        &lt;/a&gt;
+
+    &lt;/li&gt;
+    &lt;li class="span3"&gt;
+        &lt;a href="//rockying.com/Do-IT-Your-Self/index" class="thumbnail"&gt;
+            &lt;img src="//rockying.com/art/category/icons/diy-400-x-120.jpg" alt="do-it-your-self" /&gt;
+        &lt;/a&gt;
+
+    &lt;/li&gt;
+    &lt;li class="span3"&gt;
+        &lt;a href="//rockying.com/Story/index" class="thumbnail"&gt;
+            &lt;img src="//rockying.com/art/category/icons/story-400-x-120.jpg" alt="story" /&gt;
+        &lt;/a&gt;
+
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class="thumbnails"&gt;
+    &lt;li class="span3"&gt;
+        &lt;a href="//rockying.com/video/index" class="thumbnail"&gt;
+            &lt;img src="//rockying.com/art/category/icons/video-400-x-120.jpg" alt="video" /&gt;
+        &lt;/a&gt;
+
+    &lt;/li&gt;
+    &lt;li class="span3"&gt;
+        &lt;a href="//rockying.com/Bizarre/index" class="thumbnail"&gt;
+            &lt;img src="//rockying.com/art/category/icons/bizaare-400-x-120.jpg" alt="bizarre" /&gt;
+        &lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li class="span3"&gt;
+        &lt;a href="//rockying.com/Festivals/index" class="thumbnail"&gt;
+            &lt;img src="//rockying.com/art/category/icons/festival-400-x-120.jpg" alt="festivals" /&gt;
+        &lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li class="span3"&gt;
+        &lt;a href="//rockying.com/Life/index" class="thumbnail"&gt;
+            &lt;img src="//rockying.com/art/category/icons/life-400-x-120.jpg" alt="life" /&gt;
+        &lt;/a&gt;
+    &lt;/li&gt;
+
+&lt;/ul&gt;</Body>
+  <DateModified>2021-02-13T03:05:13.0216096+00:00</DateModified>
+  <Head />
+  <Sitemap>false</Sitemap>
+  <NoTemplate>false</NoTemplate>
+  <PageMeta />
+</CPage>

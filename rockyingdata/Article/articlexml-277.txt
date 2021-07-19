@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Get Rid of the 'Grays' Naturally!</Title>
+  <OGImage>http://www.rockying.com/art/health/Graying-Hair/Gray.jpg</OGImage>
+  <OGDescription>It is said that the gray in our hair is supposed to be a sign of a life well lived. It is nevertheless the case that with increasing environmental pollution, stress and hurried lifestyles, our...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Gray Hair, Hair Oils, Yoga Pranayam, Ageing, Hair Color, Healthy Diet.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/health/Graying-Hair/Gray.jpg' alt='' /&gt;&lt;p&gt;It is said that the gray in our hair is supposed to be a sign of a life well lived. It is nevertheless the case that with increasing environmental pollution, stress and hurried lifestyles, our...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+It is said that &lt;img src="http://www.rockying.com/art/health/Graying-Hair/Gray.jpg" alt="Gray Hair" class="pull-right" style="margin-left:5px;" /&gt;the gray in our hair is supposed to be a sign of a life well lived. It is nevertheless the case that with increasing environmental pollution, stress and hurried lifestyles, our &lt;a href="http://www.howtoremovethat.com/how-to-get-rid-of-premature-gray-hair.html"&gt;hair turns gray much earlier&lt;/a&gt; than it ought. Although embracing oneself is important, this can be a severe cause of anxiety, leading to a cumulative effect on our stress and diffidence levels. 
+&lt;/p&gt;
+&lt;h4&gt;Causes of Graying&lt;/h4&gt;
+&lt;p&gt;
+It is largely understood that graying hair is closely related to &lt;b&gt;ageing&lt;/b&gt;. Specifically, what happens when our hair turns gray is that our body‘s capacity to produce melanin-in the form of melanocytes-reduces. Since hair color depends on the intensity and depth of these melanocytes, our hair becomes gray or white.&lt;a href="http://www.nydailynews.com/life-style/health/root-gray-hair-found-treatment-works-researchers-article-1.1336338"&gt; Newest researches also note the role of hydrogen peroxide&lt;/a&gt; build-up in hair in causing grays. 
+&lt;/p&gt;
+&lt;p&gt;
+While there are no foolproof methods to achieve a fully colored head of hair, and hair graying is dictated by various factors such as genetics, lifestyle, stress, medical history, etc, there are various things one can do to lessen and control the impact of premature ageing. 
+&lt;/p&gt;
+&lt;p&gt;
+Here are some tips to empower those who find themselves fretting over their grays:
+&lt;/p&gt;
+&lt;h5&gt;Yoga and Pranayam&lt;/h5&gt;
+&lt;p&gt;
+These help in controlling a lot of the factors associated with premature graying, helping reduce stress levels, granting overall health, increasing blood circulation to hair follicles and increasing longevity. Although any kind of exercise helps, yoga and pranayam or other holistic systems have the added advantage of helping you relax and de-stress.
+&lt;/p&gt;
+&lt;h5&gt;Teas and Rinses&lt;/h5&gt;
+&lt;p&gt;
+Various home remedies such as a rosemary and sage rinse, black tea rinse, etc., can be a good stimulant for hair. These rinses are easy to prepare, and can be used before shampooing or as a last rinse. They have the added advantage of leaving your hair feeling softer and smelling beautiful.
+&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/health/Graying-Hair/Natural-Oil.jpg" alt="Home-made-natural-remedies-Of-Graying"/&gt;
+&lt;h5&gt;&lt;a href="http://www.stylecraze.com/articles/homemade-hair-oils-for-gray-hair/"&gt;Homemade Hair Oils&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;
+Ayurveda has many a cure for premature graying, with various oils being used for this problem. One often recommended tip is to heat curry leaves in coconut oil and then to incorporate this cooled oil in your regular grooming cycle. Other than that, oils with &lt;i&gt;bhringaraj, amla&lt;/i&gt; and hibiscus flower are also considered helpful.
+&lt;/p&gt;
+&lt;h5&gt;A Sound Diet&lt;/h5&gt;
+&lt;p&gt;
+It is important to eat a balanced and nutritious diet to prevent all kinds of ageing. Those with graying hair need to pay special attention to their vitamin B, folic acid, iron and copper intake. Additionally, consuming about 20 grams of &lt;i&gt;amla&lt;/i&gt; or gooseberry daily (in any form-pickles, chutneys, juice, powder, candy, etc) is a sure shot way of preventing and reversing those grays. You could also include curry leaves, fresh ginger (mixed with honey), sprouts and greens to your diet.
+&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/health/Graying-Hair/grey-hair-dye.jpg" alt="Gray-Hair" class="pull-right" style="margin-left:5px;" /&gt;
+&lt;h5&gt;Coloring&lt;/h5&gt;
+&lt;p&gt;
+Though not natural, for those with acute graying, permanent dyes are a Godsend. However, the harmful chemical build up harms hair strength in the longer run, and a lot of people can be seen to choose natural dyes like henna and indigo. 
+&lt;/p&gt;
+&lt;p&gt;
+With varying environmental conditions one might feel victimized, very early, to many effects that come with ageing. Shedding and graying of hair are the commonest of them. However, with a lil extra care and thoughtfulness one can retain the charm and blissfulness of the youth one never wishes to part with. 
+&lt;/p&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Bhuvi Gupta</WriterName>
+  <WriterEmail>gupta.bhuvi@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

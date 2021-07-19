@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Body Piercing - Art Or Madness?</Title>
+  <OGImage>http://www.rudrasofttech.com/rockying/art/Bizzare/Body-Piercing/modern_madness_pics_01.jpg</OGImage>
+  <OGDescription>Body Piercing - Art Or Madness?</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>21</Category>
+  <Tag>Art, Madness, Body Piercing</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src="http://www.rudrasofttech.com/rockying/art/Bizzare/Body-Piercing/modern_madness_pics_01.jpg"
+            alt="" /&gt;
+&lt;p&gt;Body Piercing - Art Or Madness?&lt;/p&gt;</Description>
+  <Text>&lt;div class="carousel"&gt;
+                            &lt;a class="carousel-control left previousslide" href="Javascript:return false;"&gt;&amp;lsaquo;&lt;/a&gt;
+                            &lt;a class="carousel-control right nextslide" href="Javascript:return false;"&gt;&amp;rsaquo;&lt;/a&gt;&lt;div class="slideshow"&gt;
+    &lt;div class="slide thumbnail"&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/Bizzare/Body-Piercing/modern_madness_pics_01.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide thumbnail"&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/Bizzare/Body-Piercing/modern_madness_pics_02.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide thumbnail"&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/Bizzare/Body-Piercing/modern_madness_pics_03.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide thumbnail"&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/Bizzare/Body-Piercing/modern_madness_pics_04.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide thumbnail"&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/Bizzare/Body-Piercing/modern_madness_pics_05.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide thumbnail"&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/Bizzare/Body-Piercing/modern_madness_pics_06.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide thumbnail"&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/Bizzare/Body-Piercing/modern_madness_pics_07.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide thumbnail"&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/Bizzare/Body-Piercing/modern_madness_pics_08.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide thumbnail"&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/Bizzare/Body-Piercing/modern_madness_pics_09.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide thumbnail"&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/Bizzare/Body-Piercing/modern_madness_pics_10.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide thumbnail"&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/Bizzare/Body-Piercing/modern_madness_pics_11.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</Text>
+  <SlideShowOn>true</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Raj Kiran Singh</WriterName>
+  <WriterEmail>rajkiran.singh@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

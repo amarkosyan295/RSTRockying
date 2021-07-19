@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Baby’s Growth and Development Milestones: 7-12 Months</Title>
+  <MetaTitle>Your Baby's Growth and Development Milestones: 7-12 Months</MetaTitle>
+  <OGImage>http://www.rockying.com/art/Life/Parenting/Baby-Milestones/Toddler-Playing.jpg</OGImage>
+  <OGDescription>I was thrilled to see my baby trying to stand without support. I still remember her adorable grin. It’s a delight to watch my little one...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>26</Category>
+  <Tag>Parenting, Baby, Infant, Kids, Development, Toddler, Milestones.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Life/Parenting/Baby-Milestones/Toddler-Playing.jpg' alt='' /&gt;&lt;p&gt;I was thrilled to see my baby trying to stand without support. I still remember her adorable grin. It’s a delight to watch my little one...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+There’s a decent chance you’re wondering where the time went by while simultaneously breathing a small sigh of relief that the helpless &lt;a href="http://www.rockying.com/a/baby-to-toddler-zero-to-six-months-milestones" target="_blank"&gt;newborn stage&lt;/a&gt; is over. That was a lot of work! Your baby is now active and engaged with the world.
+&lt;/p&gt;
+&lt;p&gt;
+I was thrilled to see my baby trying to stand without support. I still remember her adorable grin. It’s a delight to watch my little one hug her favorite toy and make it sleep.
+&lt;/p&gt;
+&lt;p&gt;
+Here, I am sharing the developmental milestones you can expect your child to reach each month. Consider that these are general guidelines and all babies develop at different paces. If you have any concerns, speak to your pediatrician.
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Life/Parenting/Baby-Milestones/Baby-Crawling.jpg" alt="Crawling Baby" title="Crawling-Baby Milestones"&gt;&lt;br&gt;
+Source: &lt;b&gt;World of Moms&lt;/b&gt;
+&lt;hr&gt;
+&lt;/p&gt;
+&lt;h2&gt;Month #7&lt;/h2&gt;
+&lt;p&gt;
+Your baby can now have jabbering chats with you. The little one can probably roll to her tummy and back again. Peek-a-boo is her preferred game and she enjoys finding partially hidden objects. Your naughty one can now:&lt;/p&gt;
+&lt;p&gt;
+&lt;li&gt;Sit unsupported, first by leaning on her hands and then
+without leaning&lt;/li&gt;
+&lt;li&gt;Bear her full weight on her feet&lt;/li&gt;
+&lt;li&gt;Have an improved ability to see distant objects and track
+moving ones&lt;/li&gt;
+&lt;li&gt;Respond to her name&lt;/li&gt;
+&lt;li&gt;Talk when others are talking&lt;/li&gt;
+&lt;li&gt;Enjoy social play&lt;/li&gt;
+&lt;li&gt;Be fascinated by mirror images&lt;/li&gt;
+&lt;/p&gt;
+&lt;h2&gt;Month #8&lt;/h2&gt;
+&lt;p&gt;
+Your baby has now become an eager explorer, and it might surprise you how quickly she can get around when she crawls or scoots. You can expect her first words ”mama” or “dada” anytime now. She can now:
+&lt;/p&gt;
+&lt;p&gt;
+&lt;li&gt;Start to get around by rolling, shuffling or crawling&lt;/li&gt;
+&lt;li&gt;Stand with help&lt;/li&gt;
+&lt;li&gt;Uncover hidden toys and observe toys closely&lt;/li&gt;
+&lt;li&gt;Try to feed herself and hold her own bottle&lt;/li&gt;
+&lt;li&gt;Try to chew&lt;/li&gt;
+&lt;li&gt;Begin combining syllables like “mama” or “dada” without
+knowing what she means&lt;/li&gt;
+&lt;li&gt;Understand the word “no” but not necessarily obey it&lt;/li&gt;
+&lt;li&gt;Look for family members when asked&lt;/li&gt;
+&lt;li&gt;Display separation anxiety&lt;/li&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Life/Parenting/Baby-Milestones/Standing-Baby.jpg"  alt="Baby trying to walk" title="Baby trying to walk"&gt;&lt;br&gt;
+Source: &lt;b&gt;Pexels&lt;/b&gt;
+&lt;hr&gt;
+&lt;h2&gt;Month #9&lt;/h2&gt;
+&lt;p&gt;
+She charms herself by putting things in containers and taking them out again. Your baby loves to be just like you by combing her own hair, drinking from a cup and pretending to talk on phone, While she may seem social, she&amp;#39;s perhaps reserved around outsiders. And when you leave her, he may become flustered. Your baby can now:
+&lt;/p&gt;
+&lt;p&gt;
+&lt;li&gt;Crawl&lt;/li&gt;
+&lt;li&gt;Get into a sitting position&lt;/li&gt;
+&lt;li&gt;Sit unsupported for longer periods (10 minutes)&lt;/li&gt;
+&lt;li&gt;Pull to stand from sitting&lt;/li&gt;
+&lt;li&gt;Stand while holding on to furniture&lt;/li&gt;
+&lt;li&gt;Point at objects&lt;/li&gt;
+&lt;li&gt;Watch objects as they fall&lt;/li&gt;
+&lt;li&gt;Hold, bite and chew food&lt;/li&gt;
+&lt;li&gt;String together syllables such as “mamama” and “bababa”&lt;/li&gt;
+&lt;li&gt;Copy sounds and gestures&lt;/li&gt;
+&lt;li&gt;Be afraid of strangers and be clingy with parents&lt;/li&gt;
+&lt;li&gt;Have favorite toys&lt;/li&gt;
+&lt;/p&gt;
+&lt;h2&gt;Month #10&lt;/h2&gt;
+&lt;p&gt;
+Your baby now likes to eat cut fruits and veggies. Make sure you chop them in small pieces to avoid choking. She now enjoys playing games such as peekaboo, singing nursery rhymes, looking for hidden toys, copying sounds and going outdoors. The little one now likes to:
+&lt;/p&gt;
+&lt;li&gt;Sit for as long as she likes&lt;/li&gt;
+&lt;li&gt;Stand with support&lt;/li&gt;
+&lt;li&gt;Hold a bottle and will try to hold a spoon as well&lt;/li&gt;
+&lt;li&gt;Wave “bye” and understand what it means&lt;/li&gt;
+&lt;li&gt;Say “mama” or “dada” and understand the meaning&lt;/li&gt;
+&lt;li&gt;Repeat actions that elicit a reaction&lt;/li&gt;
+&lt;li&gt;Follow pictures in books&lt;/li&gt;
+&lt;hr&gt;
+&lt;img src= "http://www.rockying.com/art/Life/Parenting/Baby-Milestones/Toddler-Playing.jpg" alt="Toddler Playing" title="Toddler Playing with Toys"&gt;&lt;br&gt;
+Source: &lt;b&gt;Net Mums&lt;/b&gt;
+&lt;hr&gt;
+&lt;/p&gt;
+&lt;h2&gt;Month #11&lt;/h2&gt;
+&lt;p&gt;
+Keep talking to your baby. This is a critical time for her language development. Describe your routine, what you&amp;#39;re doing now and what you&amp;#39;re going to do next, and what you see. Describing how you think your baby is feeling helps her learn emotions. Keep reading together and play peekaboo, hide-and-seek, and turn-taking games.
+&lt;/p&gt;
+&lt;p&gt;Babyhood is almost over! By 11 months of age, your child might:&lt;/p&gt;
+&lt;li&gt;Try to stand unsupported for a few seconds&lt;/li&gt;
+&lt;li&gt;Enjoy finding hidden objects and exploring them thoroughly&lt;/li&gt;
+&lt;li&gt;Reach for, grab and even throw objects&lt;/li&gt;
+&lt;li&gt;Place objects in a container&lt;/li&gt;
+&lt;li&gt;Use body language to communicate, such as waving and pointing&lt;/li&gt;
+&lt;li&gt;Be more comfortable around strangers&lt;/li&gt;
+&lt;li&gt;Enjoy music and bounce to it&lt;/li&gt;
+&lt;/p&gt;
+&lt;h2&gt;Month #12&lt;/h2&gt;
+&lt;p&gt;Congratulations! It’s time to celebrate your cutie’s Birthday!! Your baby will enter toddlerhood and can now:&lt;/p&gt;
+&lt;p&gt;
+&lt;li&gt;Stand alone and attempt their first steps alone&lt;/li&gt;
+&lt;li&gt;Walk with only one of their hands being held&lt;/li&gt;
+&lt;li&gt;Sit down from standing&lt;/li&gt;
+&lt;li&gt;Explore objects in many ways, including, shaking, banging, throwing and dropping&lt;/li&gt;
+&lt;li&gt;Start to use objects correctly, such as drinking from a cup or brushing her hair&lt;/li&gt;
+&lt;li&gt;Turn book pages and recognize some pictures&lt;/li&gt;
+&lt;li&gt;Put out an arm or leg to help when getting dressed&lt;/li&gt;
+&lt;li&gt;Follow fast-moving objects with their eyes&lt;/li&gt;
+&lt;li&gt;Find hidden objects easily&lt;/li&gt;
+&lt;li&gt;Say a few words, such as “mama”, dada” and “uh-oh!”&lt;/li&gt;
+&lt;li&gt;Try to imitate words you say&lt;/li&gt;
+&lt;li&gt; Use simple gestures like shaking their head “no” and or waving “bye”&lt;/li&gt;
+&lt;li&gt; Respond to simple verbal requests such as “pick up the toy”&lt;/li&gt;
+&lt;li&gt; Repeat sounds or gestures to capture attention&lt;/li&gt;
+&lt;li&gt;Be fearful in some situations&lt;/li&gt;
+&lt;li&gt; Show affection&lt;/li&gt;
+&lt;li&gt;Show a preference for some people and toys&lt;/li&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Life/Parenting/Baby-Milestones/Toddler-activity.jpg" alt="Toddler Playing" title="Toddler Playing"&gt;&lt;br&gt;
+Source: &lt;b&gt;Parenting&lt;/b&gt;
+&lt;hr&gt;
+&lt;p&gt;
+As exhausting as it all is for you, girl, try re-living your childhood with the little monster while you still can because believe it or not it's going to be over sooner than you think. Enjoy yourself while giving her the freedom to use all her senses to play and discover. Offer her crayons and paper, stacking blocks, empty food containers, and pots and pans to play with. Anything that gets you some 'me' time, right? Also, do tell us which of the above milestones did your little one reach, sooner or later, in the comments below. And in case you missed it, we did a prequel (&lt;a href="http://www.rockying.com/a/baby-to-toddler-zero-to-six-months-milestones" target="_blank"&gt;0-6 months milestones&lt;/a&gt;) too. Ciao and have fun mommy'ing :*
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;p class="well"&gt;
+&lt;img src="http://www.rockying.com/art/Life/Parenting/Baby-Milestones/Akanksha-Bio.jpg" class="pull-left"/&gt;
+&lt;b&gt;About the Author:&lt;/b&gt; “Change is the only constant in life”- This mom totally believes in this adage. With a background of engineering, she decided to shift her focus towards her calling that is teaching. From educating the young minds to taking technology sessions for the teachers, she found her job thoroughly fulfilling. She owns a venture called ”ICurateArt” that satisfies her hunger for creativity. She moved to her dream city of Paris and had the chance to tutor French students too. She welcomed her bundle of joy a year ago and has been documenting her journey since then. Currently, in India, she writes poems, stories and loves to connect with mom bloggers and parents to be, being a compulsive helper. To get a sneak peek of her parenting journey, log on to her &lt;a href="https://www.instagram.com/ida_tales/" target="_blank"&gt;Instagram&lt;/a&gt; account.
+&lt;/p&gt;</Text>
+  <WriterName>Akanksha Bajaj</WriterName>
+  <WriterEmail>akankshabajaj11@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>milestones-from-a-crawler-baby-to-a-walking-1-year-old-kid</URL>
+</Article>

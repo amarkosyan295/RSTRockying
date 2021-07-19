@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Nightmares and Memories</Title>
+  <MetaTitle>Nightmares and Memories</MetaTitle>
+  <OGImage>//www.rockying.com/art/public/thriller/nightmares-and-dreams.jpg</OGImage>
+  <OGDescription>After a family tragedy, Avery gets stuck in her dreams every time she sleeps</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>30</Category>
+  <Tag>nightmare, alternate universe, escape room, death, family</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/public/thriller/nightmares-and-dreams.jpg' alt='' /&gt;&lt;p&gt;After a family tragedy, Avery gets stuck in her dreams every time she sleeps&lt;/p&gt;</Description>
+  <Text>Some people may find running on a treadmill at 2:00 AM in the morning to be odd behavior, and I would agree with them because my whole life is nothing but a series of oddities. Fighting the drowsiness slowly setting in, I push myself to keep running. I can’t stop. If I stop, I will give in and fall asleep.
+
+Now for most people, sleep is the escape they crave after struggling through the day, but for me, there is no escape. The sleep is more terrifying than anything life could ever throw at me. My struggles begin with nightfall and continue till I find a way to get out of whatever world my dreams put me in, and that sometimes it can take up to days. It wasn’t always like this. I had a pretty normal life, till everything changed.
+
+I think I am getting ahead of myself, so let me start from the beginning. Once when I was in twelfth grade, I went to sleep. Nothing unusual about that, it was the usual time I slept every night, except for this time, I didn’t wake up in the morning. When I didn’t wake up in time for school, my parents got worried. They let me be for a while thinking I was still in mourning and was just hiding from everything. You see, my brother had just died of cancer a week ago. 
+
+But when I was completely unresponsive for the better part of the day, they started their active pursuits to wake me up. At one point, they poured a whole bucket of water on my face but to no avail. I was still breathing and well, so they didn’t go to a doctor right away. But when there was no progress by the night time, they called in a physician. He joined efforts with my parents and finally advised them to get some tests done. 
+
+I can understand it must have been a really hard time for them. Their uncountable hospital visits had just ended with the death of their elder child and now, just after a week, they had to go there again. But even though the last thing I wanted was to become another liability for them, I was helpless. When my parents were in full panic mode in the outside world, I was trapped in another one inside my mind. 
+
+That was the first day, or rather night, to the rest of my life. I woke up after three days with a vague memory of being lost in an unknown location. It was eerily like a dream. Since we were informed by the doctors that all the tests were negative and there was nothing wrong with me, the rest of the world moved on to the usual. But I was never the same. My dreams, or better yet, nightmares continued, and my parents just accepted it as an unusual sleeping pattern. I stopped discussing my issues with them as I didn’t want to burden them anymore.
+
+Since I was always exhausted, both mentally and physically, after coming back from these long sleeping hauls, I couldn’t help but keep going back. It took a while for me to realize that the only way to break the streak is to avoid sleep altogether. Needless to say, it didn’t work out very well, but with time, I was successful in reducing it to once a week. My unusual lifestyle meant I couldn’t go to college, so I made a living out of writing down whatever I could remember from my dreams into paper and building stories around it. The genre of these stories ranges from emotional to downright terrifying.
+It had almost been a week since I had last woken up from one of the shorter stints, but I can’t sleep tonight. It is my brother’s two-year death anniversary and my parents need me, thus the treadmill at 2:00 AM. When I am too tired to continue, I decide to give television a try. I have been meaning to catch-up on the recent episodes of Grey’s Anatomy. The best part about that show for someone like me is that the episodes just keep coming. 
+
+I realize it was a mistake to get too comfortable on the couch when everything around me starts to dissolve till there is nothing but darkness. But then suddenly I find myself standing in a dark empty room. It somewhat looks like my room in the house where I was born. My family later sold it to move to the city to get better treatment for Marcus after he was first diagnosed.
+
+After combing through whatever I remembered from countless similar dreams, I now know what I have to do to get out of one of these. I have to find another version of me who is hanging out somewhere in this world and convince her to go back to the conscious world. Both of these tasks are challenges and sometimes take up to the outside world’s calendar days. But here, I don’t really have any sense of time, just a vague idea of the task ahead and reasons to accomplish it. 
+
+I slowly make my way out of the room to the hallway.
+
+“Welcome back, Avery!” a voice whispers down my right ear. I can feel someone breathing down my neck and I get goosebumps all over. On instinct, I turn to find the source of the voice but am greeted by an empty hallway. 
+
+This is just a dream, I remind myself, pushing down the fear that was starting to creep in. I continue my walk downstairs looking for a clue, anything to guide me towards my destination. Once in the living room, I look around the decor. Everything is exactly as I remember from back then. I roam around picking a few things here and there, trying my best to not get lost in the memories. My quest to keep emotions at a bay fails when I notice Marcus’s photo diary lying on the center table and I completely forget about everything else. I walk towards the table, a lone tear already making its way down my cheek.
+
+Wait a second! Mum made this book just a few months before Marcus’s death. Way after we had moved from this place. It shouldn’t have been here. I quickly pick it up and look through it. It starts with his childhood pictures and continues through my birth, all our family trips, hospital visits, and birthday celebrations. As I continue to flip the pages, I realize it is thicker than the actual book that is now stored in my parent’s basement. I skim through all the pictures carefully hoping to find something out of place but it just goes on as it does in the original version, till I reach the page where the original should have ended. 
+
+The next page has pictures of my whole family celebrating what looks like someone’s birthday. The date in the corner of the page confirms my suspicion. It was Marcus’s nineteenth birthday which was two weeks after his death. He looks healthier and happier than ever. 
+
+My head starts spinning trying to figure everything out. I continue turning the pages and the pictures show everything that could have happened in the last two years had Marcus been with us. I have always imagined how different everything would be, and now it is all in front of me.
+
+“Avery?” someone says walking down towards me. 
+
+I quickly turn to find Marcus, in flesh and blood, standing in front of me. The book already forgotten, I run towards him and hug him. 
+
+He laughs but hugs me back. “What is up with you. We were supposed to meet Mum and Dad in the church half an hour ago. Let’s go,” he says stepping back. 
+
+I look at him for a while. He looks older and stronger than I remember him. He frowns at me. “What is wrong with you today,” he says making his way towards the door.
+
+I follow him out walking quickly to keep up with him still surprised by how normal all of this feels. When we are finally walking side by side he says, “I know you don’t want to go, but our parents need you there.” He is still looking straight ahead but something makes me come to a halt. He looks back at me and continues, “C’mon Avery, let’s go to the church just this once. They really want us to come.”
+
+His words bring me back to earth. I suddenly remember what I had to do. I look around us. We are not on the street that should be outside of my childhood home. No, we are now standing near the hospital where we all spent better time of the day every day around Marcus’s death. I look at him again, the tears coming back. He stares at me with confusion written all over his face. 
+
+“You know I can’t stay,” I barely manage to say with my breaking voice.
+
+“But you can! This is perfect, Avery, everything you wanted. We can stay right here,” he starts walking towards me. 
+
+I take a deep breath and make a run for it in the opposite direction. As much as I want to, I couldn’t stop because he was right about one thing - our parents do need me. With tears clouding my vision, I can barely see anything around. But I remember this place like the back of my hand, so I increase my pace till I am standing in the deserted hospital wing. I power walk to the hospital room where everything changed. But to my disappointment, it was empty. 
+
+I look around in confusion. I was sure this is where I needed to be. This is where I was going to find who I am looking for! Still devastated for leaving Marcus on the road and remembering the broken look on his face, I didn’t realize when I started walking. Suddenly, I hear voices coming out from the canteen on the floor. It sounds like a bunch of people laughing. I follow the noise and come to a halt in front of the open door. There, sitting at the corner table was my family talking animatedly with each other. 
+
+I don’t remember what we were talking about, but I distinctly remember this as the last time when my family laughed together. Marcus was back to looking sick and I can clearly see the worry in everyone’s eyes, but we were truly happy that day. 
+
+I stare at the scene for a few more minutes in hopes that I’ll remember this when I wake up. Then, I walk up to the table till I am standing beside the younger and happier Avery. No one notices me at first, but then she makes eye contact with me and freezes. Everyone else continues talking to each other and ignoring us.
+
+“I am not going back!” young Avery shouts.
+
+“We have to. This is not real,” I try to reason with her.
+
+“But it can be. We can just stay here with everyone,” she says, not sounding very confident anymore.
+
+“I know it hurts and you really want this, but this is just a dream. The real world is waiting out there for you. It's time to let this go now,” I say, pointing at my parents who were happily gorging on their food.
+
+She looks at them for a while and then at Marcus, and suddenly everything around me starts dissolving again, and voices of several people talking to each other ring through my ears. I open my eyes and jerk up on my sofa and stare at the same episode of Grey’s Anatomy running on the television.</Text>
+  <WriterName>Tanya Shrivastava</WriterName>
+  <WriterEmail>tanya7shrivastava@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>nightmares-and-memories</URL>
+</Article>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Dubai sightseeing places to explore in Winter</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>Best review for DUbai sightseeing places in Dubai where you can avail much attraction places in Dubai.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>travel, dubai, uae,</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;Best review for DUbai sightseeing places in Dubai where you can avail much attraction places in Dubai.&lt;/p&gt;</Description>
+  <Text>Just because the Winter nights are drawing in, it does not mean to say there are not some excellent Dubai sightseeing places to visit, including within the city areas. You can purchase a Dubai city tour package and see some breathtaking sights, some of which we will be looking in more detail in this article.
+
+Remember, Winter in Dubai does not mean cold weather like other countries. You should be looking at around 26 degrees at least! So with that in mind, you may like to view a beautiful garden in the form of Dubai Miracle Garden. Here you can discover thousands of flower species, all arranged in beautiful designs, including a design based on a giant Micky Mouse! Winter is the perfect time to visit as the flowers will be in full bloom.
+
+Now, as mentioned it will still be warm in Winter. However, it will be of a more bearable temperature than the scorching heats of the Summer. This means there are some &amp;lt;a href=&amp;quot;https://www.arabian-adventures.com/experiences/sightseeing-tours/&amp;quot;&amp;gt;Dubai sightseeing places&amp;lt;/a&amp;gt; to visit that you may be able to enjoy a bit more than during the Summer season where you were constantly needing to shade yourself from the ultra-strong sun rays. Dubai Creek is one such place, you can explore the outdoor gold and spice souks. You also have Business Bay to look out for, one of the more recent attractions to be added.
+
+If you are planning on celebrating Christmas and will be in Dubai around December time then you can take in some wonderful sights with a Christmas flavour attached! If you were planning on seeing the mountains or even the desert, you can see it as part of a festive camping expedition!
+
+If you are not someone who lives in a warm climate this side of the year, you will likely find some novelty in being able to enjoy lounging about on a beach! And taking advantage of this could be good for your body and spirit, giving you a break from the bitterly cold weather back home where you are not able to visit a beach and enjoy some sun! Of course, Dubai is crammed with great beaches and you will be spoilt for choice, but its a great choice to have!
+
+If you are a sporting fan, and in particular a Rugby fan, the Emirates Airline Dubai Rugby Sevens is an annual sporting festival that lasts for three days at the end of November over to the start of December. This is a very big special occasion for Dubai and attracts many folks, who not only arrive to enjoy the Rugby but also take part in activities, including plenty for the kids too, which include workshops, music concerts and other shows.
+
+OK, if you decide that actually, you would like to have some of that colder weather with you when you are in Dubai for your Winter holiday, there is an option for you! Take a trip and have a look at Ski Dubai to witness a more familiar-looking wintery scene! Here it will be around minus one or two degrees Celsius! Whilst taking on the sights, you may even want to try taking on the slopes if you fancy a bit of skiing!</Text>
+  <WriterName>Chris Albert</WriterName>
+  <WriterEmail>christino.albert12@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>dubai-sightseeing-places</URL>
+</Article>

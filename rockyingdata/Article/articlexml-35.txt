@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>35</ID>
+  <Title>Killer Dialogues of Bollywood-I</Title>
+  <MetaTitle>Famous and best Bollywood movies dialogues in Hindi</MetaTitle>
+  <OGImage>http://www.rockying.com/art/rajkumar meenakumari.jpg</OGImage>
+  <OGDescription>Find out the famous and best Bollywood movies dialogues in Hindi. To know more read out the full article.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Bollywood, Dialogues, All time killer Bollywood dialogues, Tumhare Pass Kya hai, India Bobbles, Jo Dar Gaya Wo Mar gaya.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/rajkumar meenakumari.jpg' alt='' /&gt;&lt;p&gt;Find out the famous and best Bollywood movies dialogues in Hindi. To know more read out the full article.&lt;/p&gt;</Description>
+  <Text>&lt;ul class="unstyled"&gt;
+    &lt;li&gt;
+        &lt;img src="http://rockying.com/art/Iftekhar%20Don.jpg" title="Dekha kanoon ko haath me liya to usne tumhe jail me le liya!!!"
+             alt="Kanoon ko Haath me mat liya karo" style="width: 250px; float: left; height: 200px;"&gt;
+
+                 &lt;p&gt;
+            “&lt;i&gt;&lt;b&gt;Kanoon ko haath me mat lo&lt;/b&gt;&lt;/i&gt;” –wonder if any Hero got the chance to
+            catch hold of&amp;nbsp; kanoon ever? Despite all bad the villain had done to him, he
+            would leave him to be taken care by the police...Why? Simple,&amp;nbsp; he knew that
+            "&lt;i&gt;&lt;b&gt;Kanoon ke haath bohot lambe hote hain&lt;/b&gt;&lt;/i&gt;"...lol :)
+        &lt;/p&gt;
+            Yes, our very own bollywood and its ceaseless dialogue saga. &lt;b&gt;Gabbar, Lion or Vishwanath&lt;/b&gt;,
+            we recall them for their immortal speeches. Those that made these characters and
+            sometimes even the respective films.
+        &lt;/p&gt;
+        &lt;p&gt;
+            Here we unfold, the most exciting and ecstatic journey of killer Bollywood dialogues
+            that have not only entertained us over the years but also found space in our everyday
+            lives. Keep a check reader, the last might be Kitne dialogue the?
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Do not miss out on our second in the series “ &lt;a href="http://www.rockying.com/a/52"&gt;
+                Killer Dialogues of Bollywood part-II
+            &lt;/a&gt; ” (Inevitably growing length of the
+            article lead us split it into two)
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li style="clear:both;"&gt;
+        &lt;p&gt;
+            &lt;img src="http://rockying.com/art/devdas-dilip-kumar.jpg" title="Paro stole away my money...Damn that beautiful Thief !!!"
+                 alt="Dilip Kumar, Vyajanti mala in Devdas" style="width: 350px; float: left;"&gt;&amp;nbsp;
+            “ &lt;i&gt;&lt;b&gt;Kaun Kambakht bardaasht karne ko peeta hai&lt;/b&gt;&lt;/i&gt;…” derived from the original
+            Devdas (1955, based on a novel), delivered by Dilip Kumar, this sure does not fade
+            away even after being re-used by Bhansali in his version of Devdas. Shahrukh wasn’t
+            bad either, but Dilip Saab you win the tug-of-war.
+        &lt;/p&gt;
+        &lt;p&gt;
+            &lt;i&gt;(Dialogue by Rajinder Singh Bedi and Bimal Roy)&lt;/i&gt;
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li style="clear:both;"&gt;
+        &lt;p&gt;
+            &lt;img src="http://rockying.com/art/prithviraj_kapoor1.jpg" title="How dare you fool around with my son...Watch out now!!!"
+                 alt="" style="width: 300px; float: left; height: 225px;"&gt;"&lt;i&gt;
+                &lt;b&gt;Agar aisa na &lt;/b&gt;
+            &lt;/i&gt;&lt;i&gt;&lt;b&gt;hua to Salim tujhe marne nahin dega aur hum&lt;/b&gt;&lt;/i&gt;&lt;br&gt;
+            &lt;i&gt;&lt;b&gt;Anarkali tujhe jeene nahin denge&lt;/b&gt;&lt;/i&gt;”
+        &lt;/p&gt;
+&lt;datasource name="boxaddatasource" /&gt;
+    &lt;/li&gt;
+    &lt;li style="clear:both;"&gt;
+        &lt;img src="http://rockying.com/art/Anarkali%201.jpg" title="Look at how hot i look in the colored version...I can die happily now!!!"
+             alt="" style="width: 300px; float: left;"&gt;
+        &lt;p&gt;
+            “&lt;i&gt;&lt;b&gt;Ye qaneez Jalaluddin &lt;/b&gt;&lt;/i&gt;&lt;i&gt;&lt;b&gt;Mohd Akbar ko apna khoon maaf karti hai&lt;/b&gt;&lt;/i&gt;”&lt;br&gt;
+            &lt;br&gt;
+            The Dialogues of &lt;b&gt;Mughal-e-Azam&lt;/b&gt;&lt;i&gt;&lt;b&gt; {&lt;/b&gt;&lt;/i&gt;&lt;b&gt;1960&lt;/b&gt;} convey love and
+            power to their extremes. Both Prithvi Raj Kapoor and Madhubala articulated their
+            best ever in the flick…
+        &lt;/p&gt;
+        &lt;p&gt;
+            &lt;i&gt;
+                (Dialogues by Amanullah Khan, Kamal Amrohi, Wajahat Mirza, Ehsan Rizvi, Filmfare Best Dialogue Award Winner)
+            &lt;/i&gt;
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li style="clear:both;"&gt;
+        &lt;p&gt;
+            &lt;img src="http://rockying.com/art/Rajkumar....jpg" title="Nahin...Aj kal wo basement me kapde badalte hain..."
+                 alt="" style="width: 250px; float: left; height: 265px;"&gt;
+
+            &lt;i&gt;&lt;b&gt;"Jinke ghar sheeshe ke hote hain, Wo doosron ke ghar pathhar nahin pheka&amp;nbsp;Karte&lt;/b&gt;&lt;/i&gt;”. My! This surely means something!!! Another Raj Kumar rendition
+            from the film &lt;b&gt;Waqt {1965}&lt;/b&gt;, this dialogue is one of my personal favorites.63
+            Meaning? Do you want it? (&lt;i&gt;
+                Dialogue by Akhtar-ul-Iman, Filmfare Best Dialogue Award
+                Winner
+            &lt;/i&gt;)
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li style="clear:both;"&gt;
+        &lt;p&gt;
+            &lt;img src="http://rockying.com/art/Rajkumar.jpg" title="Do not play with knives...I have been warning u over the years..."
+                 alt="" style="width: 200px; float: left; height: 225px;"&gt;
+            &lt;i&gt;&lt;b&gt;“Ye bachchon ke khelne ki cheez nahin, haath kat jae to khoon nikal ata hai…&lt;/b&gt;&lt;/i&gt;”
+            Another immortal from &lt;b&gt;Waqt {1965}&lt;/b&gt;, Raj Kumar here, sure reminds us
+            to be careful.&lt;br&gt;
+            &lt;br&gt;
+            &lt;i&gt;(Dialogue by Akhtar-ul-Iman, Filmfare Best Dialogue Award Winner)&lt;/i&gt;
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li style="clear:both;"&gt;
+        &lt;p&gt;
+            &lt;img src="http://rockying.com/art/RajeshKhannaSharmilaTagoreAmarPrem.jpg" title="People love my style...Who is looking at you? Stop weeping now!!!"
+                 alt="" style="width: 300px; float: left; height: 223px;"&gt;
+            “&lt;i&gt;&lt;b&gt;Pushpa I hate tears&lt;/b&gt;&lt;/i&gt;”
+            by none other&amp;nbsp;than Rajesh Khanna himself from the film &lt;b&gt;Amar Prem {1972}&lt;/b&gt;. When he
+            cried&amp;nbsp; at the end, it was certainly that moment of&amp;nbsp; "Amar Prem".
+            &lt;br&gt;
+            &lt;i&gt;(Dialogue by Ramesh Pant, Filmfare Best Dialogue winner)&lt;/i&gt;
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li style="clear:both;"&gt;
+        &lt;p&gt;
+            &lt;img src="http://rockying.com/art/rajkumar%20meenakumari.jpg" title="Jao main tumse baat nai karta...Akele-akele pedicure karwa ke aa gai!!!"
+                 alt="" style="width: 300px; float: left;" /&gt;
+            “&lt;i&gt;&lt;b&gt;Apke paanv dekhe...Inhe zameen pe mat utariyega, maile ho Jaenge”&lt;/b&gt;&lt;/i&gt;&amp;nbsp;
+            is nothing but glorifying what is considered the over-looked part of the Body, the
+            feet. Raj Kumar has certainly immortalized the beauty of Meena Kumari’s through
+            his exceptional dialogue delivery in &lt;b&gt;Pakeezah {1972}&lt;/b&gt;.&lt;br&gt;
+            &amp;nbsp;(Dialogue by Kamaal Amrohi)&amp;nbsp;
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li style="clear:both;"&gt;
+        &lt;p&gt;
+            &lt;img src="http://rockying.com/art/Rajesh%20Khanna%20Anand.jpg" title="Don't try too hard my friend, I Am the Hero of the film !"
+                 alt="" style="width: 300px; float: left; height: 257px;"&gt;
+            "&lt;b&gt;
+                Arey o baabu Moshoy
+                hum to rangmanch ki kathputliyan hain jiski dor us upar wale ke haathon main hai
+            &lt;/b&gt;",
+            the evergreen Rajesh Khanna from the movie &lt;b&gt;ANAND&lt;/b&gt;. Anand may not have got
+            enough time to grab Anand in his life, but certainly tought us how to.&lt;br&gt;
+            &lt;br&gt;
+            (&lt;i&gt;Dialogue by Gulzaar, won him the 1972 Filmfare)&lt;/i&gt;
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li style="clear:both;"&gt;
+        &lt;p&gt;
+            &lt;img src="http://rockying.com/art/Prem%20Chopra.jpg" title="I am and Will always be Prem Chopra...Dum ho to koi dusra naam rakh ke dikhae..."
+                 alt="" style="width: 250px; float: left;" /&gt;“&lt;i&gt;
+                &lt;b&gt;Prem naam hai mera, Prem Chopra" &lt;/b&gt;
+            &lt;/i&gt;Did you know this Prem Chopra favorite line is originally from &lt;b&gt;Bobby {1973}&lt;/b&gt;
+            ? He used it in almost every film of his. Wonder, the writers had no bad names left
+            for him. (Dialogue by K.A. Abbas)
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li style="clear:both;"&gt;
+        &lt;p&gt;
+            &lt;img src="http://rockying.com/art/Amitabh%20Zanjeer.jpg"
+                 title="Agar rishwat dene ke liye paise hain to bolo !!!" alt="" style="width: 300px;
+            float: left; height: 200px;"&gt;
+            "&lt;i&gt;&lt;b&gt;Ye police station hai tumhare baap ka ghar nahi&lt;/b&gt;&lt;/i&gt;”&lt;br&gt;
+            &amp;nbsp;The angry young man (Amitabh Bachchan) in&lt;b&gt; Zanjeer {1973&lt;/b&gt;} Blows up.
+            &lt;br&gt;
+            (Dialogue by Javed Akhtar)
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li style="clear:both;"&gt;
+        &lt;p&gt;
+            &lt;img src="http://rockying.com/art/Amitabh%20Shashi%20Deewar.jpg" title="I can't take it;you look hot in the Police Uniform!"
+                 alt="Shashi Kapoor and Amitabh Bachchan in Deewar" style="width: 300px; float: left; height: 225px;"&gt; 
+&lt;a href="http://www.indiabobbles.com/amitabh-bachchan-bobblehead" target="_blank" title="India-Bobbles-Amitabh-Bachchan-Bobble-Head"&gt;&lt;i&gt;&lt;b&gt;Bhai aj mere paas gaadi hai bangla hai, tumhare pas kya hai?.&lt;/b&gt;&lt;/i&gt;&lt;/a&gt; &lt;i&gt;&lt;b&gt;..Mere pas maa hai&lt;/b&gt;&lt;/i&gt;”
+            The Timeless dialogue, from The &lt;b&gt;1975 Deewar&lt;/b&gt;, between siblings Amitabh Bachchan
+            and&amp;nbsp; Shashi Kapoor forms part of jokes and advertisements, every now and then.&lt;br&gt;
+            &lt;i&gt;(Dialogue by Salim-Javed, Filmfare Best Dialogue Winner)&lt;/i&gt;
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li style="clear:both;"&gt;
+        &lt;p&gt;
+            &lt;img src="http://rockying.com/art/Amitabh%20Temple.jpg" title="Do you really exist? Rishi told you gave back Nirupa roy her vision in Amar Akbar Anthony???"
+                 alt="" style="width: 300px; float: left; height: 225px;"&gt;
+            "&lt;i&gt;&lt;b&gt;Aj Khush to bohot hoge tum&lt;/b&gt;&lt;/i&gt;” by Amitabh Bachchan from Deewar
+            &lt;br&gt;
+            &lt;b&gt;{1975}&lt;/b&gt; is nothing but Vijay’s accusation of God being a Sadist.&lt;br&gt;
+            &lt;br&gt;
+            &lt;i&gt;(Dialogue by Salim-Javed, Filmfare Best Dialogue Winner)&lt;/i&gt;
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li style="clear:both;"&gt;
+        &lt;p&gt;
+            &lt;br&gt;
+            &lt;img src="http://rockying.com/art/Sholay/Gabbar%20Kalia.jpg" title="Both of us look a dirt bag...lets finish and take Sambha along for a bath."
+                 alt="" style="width: 300px; float: left;"&gt;&lt;br&gt;
+            &amp;nbsp;&lt;i&gt;&lt;b&gt;“Are O sambha, Kitne Aadmi the...Ab tera Kya Hoga kalia&lt;/b&gt;&lt;/i&gt;” …Yes,
+            none other than &lt;b&gt;SHOLAY {1975&lt;/b&gt;}, the dialogue mine of bollywood has tons of
+            these to offer. From:&amp;nbsp;
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li style="clear: both; text-align: center"&gt;
+        &lt;a href="http://www.indiabobbles.com/daku-sambhar-singh-bobble-head?ref=rockying"&gt;
+            &lt;img src="http://www.indiabobbles.com/drive/bobblehead-photos-done/gabbar-bust.png" title="Daku Sambhar Singh bobblehead made by India Bobbles"
+                 alt="India Bobbles Daku Sambhar Singh Bobble head"&gt;
+        &lt;/a&gt;
+        &lt;h4&gt;Limited Edition, Daku Sambhar Singh Bobblehead by India Bobbles&lt;/h4&gt;
+        &lt;p&gt;
+            डाकू सुल्ताना से ज्यादा शातिर , मंगल सिंह से ज्यादा खूंखार और गब्बर सिंह से ज्यादा ज़ालिम। पेश-ए-ख़िदमत है चम्बल का बादशाह, डाकुओं का सरताज और इडली-सांभर का आशिक, डाकू सांभर सिंह। उन्यासी-उन्यासी कोस दूर गावों से इन्होने रोज़ २० - २० किलो इडली-सांभर बनवाया है। गाओं के लोग भूंखो मरते हैं और यह इडली-सांभर चबाया करते हैं। इनकी बर्बरता से बच्चे भी नहीं बचे हैं, इन्होने भूँखे बच्चों के हाँथ से इडली-सांभर छीन के खाया है।
+        &lt;/p&gt;
+        &lt;a href="http://www.indiabobbles.com/daku-sambhar-singh-bobble-head?ref=rockying" class="btn btn-primary"&gt;Buy Now&lt;/a&gt;
+        &lt;br /&gt;&lt;br /&gt;
+    &lt;/li&gt;
+    &lt;li style="clear:both;"&gt;
+        &lt;p&gt;
+            &lt;img src="http://rockying.com/art/Sholay/ye%20haath.jpg" title="I love you in the Kurta-Shawl look...Give me your hands now cummon..."
+                 alt="" style="width: 300px; float: left; height: 220px;"&gt;
+            “&lt;i&gt;&lt;b&gt;Ye haath humka de de thakur&lt;/b&gt;&lt;/i&gt;” and &lt;a href="http://www.indiabobbles.com/daku-sambhar-singh-bobble-head" target="_blank" title="India-Bobbles-Gabbar-Singh-Bobble-Head"&gt;&lt;i&gt;&lt;b&gt;"Jo dar gaya samjho mar gaya"&lt;/b&gt;&lt;/i&gt;by our very own Gabbar&lt;/a&gt;,&lt;br&gt;
+            &lt;br&gt;
+            to “&lt;i&gt;&lt;b&gt;Tumhara naam kya hai basanti&lt;/b&gt;&lt;/i&gt; ?” ,to
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li style="clear:both;"&gt;
+        &lt;p&gt;
+            &lt;img src="http://rockying.com/art/Sholay/Adhe%20udhar%20jao.jpg" title="Don't u guys realise? I'm way tougher than Hitler!"
+                 alt="" style="width: 300px; float: left; height: 204px;"&gt;“&lt;i&gt;
+                &lt;b&gt;
+                    Adhe idhar jao, adhe
+                    udhar jao, baaki mere peechhe ao
+                &lt;/b&gt;
+            &lt;/i&gt;” ,to “&lt;i&gt;&lt;b&gt;Mausi ji…&lt;/b&gt;&lt;/i&gt;”,
+            the flick talks to us at every moment. It may not have fetched them the Best Dialogue
+            Filmfare Award for this year, but Salim-Javed have certainly immortalized themselves
+            in the hearts of all cinema lovers for centuries to come.&amp;nbsp;
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li style="clear:both;"&gt;
+        &lt;p&gt;
+            &lt;img src="http://rockying.com/art/Ajit%20kali%20charan.jpg" title="Ain't I too cool a lion? Don't miss my chick shades!!!"
+                 alt="" style="width: 300px; float: left; height: 198px;"&gt;
+            “&lt;i&gt;&lt;b&gt;Saara sheher mujhe lion ke naam se janta hai”&lt;/b&gt;&lt;/i&gt;.This may have been
+            Ajeet’s voice over of the antagonist back then in Kali Charan {1976} but sure has
+            now become fun and funny, Have you not heard the Ajit Lion Jokes?&amp;nbsp;
+            &lt;br&gt;
+            (Dialogue&amp;nbsp; by&amp;nbsp; Javed Akhtar)&amp;nbsp;
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li style="clear:both;"&gt;
+        &lt;p&gt;
+            &lt;img src="http://rockying.com/art/Amitabh%20Don.jpg" title="Bataao main Vijay hun ya Don? Warna Dheeshkyun !!!"
+                 alt="" style="width: 300px; float: left; height: 264px;"&gt;
+            &lt;i&gt;&lt;b&gt;"Don ko pakadna mushkil hi nahin Namumkin hai” ,&lt;/b&gt;&lt;/i&gt;with one remake and
+            a sequel of the same coming in…It certainly seems impossible to get hold of Don
+            now ;)
+            &lt;br /&gt;&lt;i&gt;(Don-1978, Dialogue by Salim-Javed)&lt;/i&gt;
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li style="clear:both;"&gt;
+        &lt;p&gt;
+
+            &lt;img src="http://rockying.com/art/VISHWANATH_SCN-0.jpg" title="Lagta hai koi mujhe double role me pehchan nahin paya..."
+                 alt="" style="width: 300px; float: left; height: 211px;"&gt;
+            "&lt;i&gt;&lt;b&gt;Jali ko aag kehte hain...” Vishwananth {1978}&lt;/b&gt;&lt;/i&gt;(Shatrughn Sinha) could
+            not have a better cult dialogue to his name. Who does not know that? You? &lt;i&gt;
+                &lt;b&gt;
+                    Khaamooooosssssh!!!
+                &lt;/b&gt;
+            &lt;/i&gt;
+            &lt;br&gt;
+
+            (Dialogue by Subhash Ghai ).
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li style="clear:both;"&gt;
+        &lt;p&gt;
+            The list is endless and has a lot more to offer. Watch out for the sequel,&lt;a href="http://www.rockying.com/a/52"&gt;
+                Killer Dialogues of Bollywood Part-II
+            &lt;/a&gt;. And please feel free to add your
+            favorites (till 1970s) to the list. We may have missed a few.
+        &lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="rstquestion"&gt;
+    &lt;h5&gt;&lt;span style="color: Green;"&gt;&lt;b&gt;FUN QUIZ QUESTION:&lt;/b&gt;&lt;/span&gt;&lt;/h5&gt;
+    &lt;p&gt;Who is Vijay (Amitabh Bachchan) addressing in the dialogue, &lt;i&gt;“Aj khush to bohot hoge tum…”&lt;/i&gt;? &lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Shashi Kapoor&lt;/li&gt;
+        &lt;li&gt;Iftekhar&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt;God&lt;/li&gt;
+        &lt;li&gt;Ajeet&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;h5&gt;&lt;span style="color: Green; text-align:center;"&gt;&lt;b&gt;&lt;a href="http://www.rockying.com/a/220"&gt;PLAY THE COMPLETE QUIZ&lt;/a&gt;&lt;/b&gt;&lt;/span&gt;&lt;/h5&gt;
+&lt;/div&gt;
+&lt;p&gt;And did you mouse over the pictures? Try it and discover the hidden pun!&lt;/p&gt;
+&lt;p&gt;Not finished yet! Next in the Series:&lt;a href="http://www.rockying.com/a/52" target="_blank"&gt;&lt;b&gt;KILLER DIALOGUES OF BOLLYWOOD: II&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;</Text>
+  <WriterName>Preeti Singh</WriterName>
+  <WriterEmail>preeti.singh@rudrasofttech.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>35</URL>
+</Article>

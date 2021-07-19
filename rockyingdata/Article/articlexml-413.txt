@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Getting Away: Explore Vietnam’s Out of the World Hiking Getaways</Title>
+  <MetaTitle>Getting Away: Explore Vietnam’s Out of the World Hiking Getaways</MetaTitle>
+  <OGImage>http://www.rockying.com/art/Travel/Vietnam/Vietnam.jpeg</OGImage>
+  <OGDescription>Vietnam is full of hiking getaways that will bring you peace of mind. Majestic highland valleys, terraced rice paddies, dramatic mountain paths and remarkable underneath towering limestone mountain ranges are the...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Vietnam, Travel, Hiking, Mountains, Valleys, Asia, Southeast Asia, Sapa, Ha Giang, Hang En Cave, Cao Bang</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Travel/Vietnam/Vietnam.jpeg' alt='' /&gt;&lt;p&gt;Vietnam is full of hiking getaways that will bring you peace of mind. Majestic highland valleys, terraced rice paddies, dramatic mountain paths and remarkable underneath towering limestone mountain ranges are the...&lt;/p&gt;</Description>
+  <Text>&lt;img src="http://www.rockying.com/art/Travel/Vietnam/Vietnam.jpeg" alt="HIking in Vietnam" title="Hiking Getaways in Vietnam"&gt;
+Image Source: https://www.pexels.com/photo/woman-with-beige-sunhat-1079052/
+&lt;br&gt;&lt;br&gt;
+&lt;p&gt;
+Vietnam is full of hiking getaways that will give you the rush of adventure and the bliss of peace. Majestic highland valleys, terraced rice paddies, dramatic mountain paths and remarkable underneath towering limestone mountain ranges are the common landscapes in the country. More importantly, hiking in the country is a great way to spend some time alone and luxuriate the invaluable treasures of nature. The picturesque hiking spectrum of Vietnam will surely get you away from all the stresses you endured on a daily basis.
+&lt;p&gt;
+Here is a bucket list of excellent hiking getaways in Vietnam, from the less strenuous walks on trails to the most spectacular landscapes, which is exciting for everyone regardless of your hiking experience or physical fitness.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;1. Sapa&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;
+Sapa is commonly known as the home of the dense network of trails and one of the famous
+hiking destinations in Vietnam. There is no individual trail that stands out from the rest since
+every trail is linked to one another; consequently creating a perfect trail that will match each
+person’s hiking skill.
+&lt;/p&gt;
+&lt;p&gt;
+The place is most famous for its terraced rice paddies and wonderful mountain villages. After
+reaching the mountain village, you can witness a spectacular overview of a plunging valley with
+mountains towering above on all sides that emerge on clear days, which, sometimes, is
+subdued by thick mist rolling across the peaks. But, there’s nothing to be sad about it since,
+although it's cloudy, the local hill-tribe people fill the town with colour.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;2. Ha Giang&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;
+The gentle paths and undulating hills around the villages of Ha Giang are the best getaways if
+you are looking for a less strenuous walk as a daunting prospect. There is no need to put on
+your best army boots as you can just easily walk along the narrow tarmac paths through its
+farmland.
+&lt;/p&gt;
+&lt;p&gt;
+Also, the pinnacle of the Ha Giang trek is the ascent to the highest peaks of Dong Van. It is a
+border town with a series of awe-inspiring mountain passes and valleys that can show glorious
+views of cascading rice terraces, which can offer many photo opportunities. A historical
+Chinese-style four double-story wings mansion named Hmong Palace is located around the
+area as well. It built in 1902 by Chinese traders with the consent of French colonial rulers.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;3. Hang En Cave&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;
+Aside from having a rich and unique ecosystem, En Cave is the third largest cave in the world.
+It has a measurement of approximately 2 km through giant limestone blocks in the core zone of
+Phong Nha – Ke Bang National Park in Dong Hoi City, Quang Binh Province. From the city, you
+need to go to Ho Chi Minh road west to km 35, which has 8-km-distance to En Cave. The road
+has many sloping sections, passing through Rao Thuong stream, Doan village, a small version
+of Van Kieu people.
+&lt;/p&gt;
+&lt;p&gt;
+There will be more mesmerizing stalactites of various shapes, Swifts and even fossils that can
+be dated back over 300 million years as you go deeper inside the cave. Apparently, this
+enigmatic beauty was aired on tv shows such as National Geographic, The New York Times,
+Lonely Planet, Dailymail UK, and Good Morning America, as well as on a blockbuster movie
+named “Pan” by Warner Bros. Entertainment last 2015.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;4. Cao Bang&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;
+Cao Bang province in the kingdom of Vietnam is one of the famous hiking and trekking sites in Southeast Asia. It is a northern province characterised by mountain scenery, which shares a 311-km-long borderline with China. In this area, you will surely be amazed by the incredibly scenic Ban Gioc waterfall as well as the historical Coc Bo Cave that is famed for its involvement in Ho Chi Minh’s revolutionary activities in early 1941.
+&lt;/p&gt;
+&lt;p&gt;
+Aside from seeing an abundance of natural farmland, you can also witness a landscape of karst mountains, deep gorges, rice terraces, glorious waterfalls and meandering rivers, which are all pretty otherworldly. You will be also amazed by the rich ethnic culture of Tay, Hmong, Nung and Red Dao people of the province.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;5. Nam Cat Tien National Park&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;
+Nam Cat Tien National Park is Vietnam’s home to abundant wildlife including gibbons, sambar
+deer, wild boar, black-shanked douc and rare flora and fauna. It is approximately 160 kilometers
+northeast of Ho Chi Minh City, which is in the south of Vietnam.
+&lt;/p&gt;
+&lt;p&gt;
+In this park, you will have a chance to see endangered primates in the wild such as preserved
+ancient trees, an impressive number of wild animals including a number of gibbons and their daily
+lives, 79 reptile species and about 400 brightly coloured species of butterflies, and other things.
+Since it is protecting exceptional wildlife, make sure to call in advance to make a reservation as
+this park permits only a limited number of visitors.
+&lt;/p&gt;</Text>
+  <WriterName>Analisse Weathers [Guest Post]</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>getting-away-explore-vietnams-out-of-the-world-hiking-getaways</URL>
+</Article>

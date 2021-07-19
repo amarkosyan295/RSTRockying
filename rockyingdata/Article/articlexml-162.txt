@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>162</ID>
+  <Title>Sun City Jodhpur!</Title>
+  <MetaTitle>Sun City Jodhpur!</MetaTitle>
+  <OGImage>//www.rockying.com/art/Travel/NAMASTE%20INDIA%20JODHPUR/14.JPG</OGImage>
+  <OGDescription>India is a potpourri of travel destinations. Big or small, remote or commercial, hot or cold- it has it all.In continuation with majestic Udaipur, Jodhpur almost becomes a necessary mention to soothe those itchy traveler’s feet.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Jodhpur, Rajasthan, Sun City, Blue City, India</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Travel/NAMASTE%20INDIA%20JODHPUR/14.JPG' alt='' /&gt;&lt;p&gt;India is a potpourri of travel destinations. Big or small, remote or commercial, hot or cold- it has it all.In continuation with majestic Udaipur, Jodhpur almost becomes a necessary mention to soothe those itchy traveler’s feet.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    India is a potpourri of travel destinations. Big or small, remote or commercial,
+    hot or cold- it has it &lt;a href="//www.rockying.com/a/124"&gt;
+        &lt;img src="//rockying.com/art/Travel/NAMASTE%20INDIA%20JODHPUR/14.JPG"
+            title="Sonar Kella Jodhpur" alt="" style="width: 400px; float: right;" class="pull-right" /&gt;&lt;/a&gt;all.
+    In continuation with &lt;a href="//www.rockying.com/a/54"&gt;majestic Udaipur&lt;/a&gt;,
+    Jodhpur almost becomes a necessary mention to soothe those itchy traveler’s feet.
+    A panoramic overview of the city gives a Greece-like feel. The subtle blues and
+    the whites tell a lot about the people living there. Humble food, tasty people (oops!
+    tasty food and humble people) and some great museums such as Sonnar Kella, Meherangarh
+    Fort, Jodhpur Fort and several Jain temples that dot the city sparingly, jokes apart,
+    Jodhpur is a must must visit for a traveler.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+    Photographs always tell us a different story from an angle that the naked eye cannot
+    always travel into. &lt;a href="http://www.facebook.com/RockyingMag"&gt;Rockying&lt;/a&gt; presents
+    to you a library of photographs for your eyes only! Undertake our &lt;a href="http://www.rockying.com/a/124"&gt;
+        exclusive photographic journey&lt;/a&gt; and know more about the city, civilization,
+    class, taste, culture, people and their art!&lt;/p&gt;
+&lt;p&gt;
+    The scorching heat of the city can leave you helpless but the evenings look promising.
+    Luxury hotels such as Rang Banka, Marugarh and Umaid Bhawan Palace set the mood
+    of the evening with delicacies such as laal maas, safed maas and jungli maas along
+    with some Rajasthani folk music.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+    Jodhpur will never treat you like a tourist. A true place for a traveler, it is
+    the perfect destination for mindless musings as the sleepy by lanes in the afternoons
+    mysteriously captures the spirit of the city. One can say, it is a regular city
+    but with a difference. This is how you can get to know the city better:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            The fort outlines the city and gives a very 16th century feel till date. Wear your
+            cottons and carry your umbrella. Local autos ply in the city from practically all
+            places but we suggest that it is good to travel on foot as well.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            The forts are a must visit as &lt;a href="http://www.lonelyplanet.com/india"&gt;Lonely Planet&lt;/a&gt;
+            also rates the Jodhpur Fort as one of the must-visit monuments; you sure would not
+            want to miss it.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            The local jewelers hand craft some of the best silver accessories and charge the
+            customer with low-making charge as well.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Jodhpur is every photographer’s delight. So do not forget to carry your camera.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Ride on a camel’s back. You might just find a double-humped camel as well. So hitch
+            a ride, the Jodhpur way!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            The Marwar Festival should be on your list. So plan your travel in the month of
+            October. It showcases one of the best cultural performances from the local artists,
+            excellent food at low prices and camel race, horse riding and polo attract thousands
+            of viewers across the city.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            You can shop for puppets that are as cheap as Rs 100 a pair and adorn your houses
+            back in the city.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Lastly, remember you need at least 7 days to visit this city. A hurried trip can
+            only leave you wanting for more!&lt;br&gt;
+        &lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    Find out more information about Jodhpur on &lt;a href="http://www.lonelyplanet.com/india/rajasthan/jodhpur"&gt;
+        Lonely Planet&lt;/a&gt;.&lt;br&gt;
+&lt;/p&gt;
+&lt;h6&gt;
+    Did you know? This city does not follow any traffic lights!
+&lt;/h6&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>162</URL>
+</Article>

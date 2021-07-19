@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>tdtEPNSljccag</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>N1O1vK</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>19</Category>
+  <Tag>PPkeLa</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;N1O1vK&lt;/p&gt;</Description>
+  <Text>We need someone with qualifications http://efukt.fun/ efukt  &amp;quot;I remember shouting, &amp;quot;what&amp;#39;s happening, what&amp;#39;s happening&amp;quot;, and I could still see David and the next thing I knew I was out of the door,&amp;quot; she told Kololo&amp;#39;s trial via Skype videolink in June last year.</Text>
+  <WriterName>8aonu</WriterName>
+  <WriterEmail>stuart8w@yahoo.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>tdtepnsljccag</URL>
+</Article>

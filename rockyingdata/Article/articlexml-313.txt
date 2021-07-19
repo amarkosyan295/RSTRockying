@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Calling-out to the Gods through the Bollywood Medium; The Greatest Bhajans of All Time</Title>
+  <OGImage>Allah tero nam Ishwar Tero naam</OGImage>
+  <OGDescription>This new year, get your spiritual game on with this greatest Bollywood...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>15</Category>
+  <Tag>Bollywood, Bhajans, Sufi, Music</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;img src='Allah tero nam Ishwar Tero naam' alt='' /&gt;&lt;p&gt;This new year, get your spiritual game on with this greatest Bollywood...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+
+&lt;/p&gt;
+&lt;hr&gt;
+        &lt;h3&gt;1. O Palanhare (LAGAAN) &lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src=""/&gt;
+ 
+2. Bhagwan Hai Kahan Re Tu (PK)
+3. Shirdi wale (AAA)
+4. Ek Tu hi Bharosa (Pukaar) 
+5. Humko Man ki Shakti Dena [Raag Kedar] (Guddi)
+6. Teri Hai Zameen (Burning Train)
+7. Man tarpat hari darshan ko 
+8. Shree Ganesha Deva (Agneepath 2)
+9. Ae malik tere bande hum (Rag bhairav)
+10. Darshan do ghanshyam nath 
+12. Pal-pal hai bhari (Swades)
+13. Allah tero nam Ishwar Tero naam
+14. Tu pyaar ka saagar hai 
+15. Laga Chunri Me Daag (Dil hi To Hai)
+16. Itni Shakti HUme Dena Data
+17. Ik Onkar (Rang De Basanti)
+18. Sadda Dil Vi Tu (ABCD)
+19. Bada Natkhat HAi Re
+20. Maili Chadar
+21. YAshomati Mayya
+22. Tora Man Darpan Kehlae
+23. Sukh Ke Sab Saathi (Gopi)
+24. Babul Mora
+25. Tumhi ho Mata
+26. Savaro Nandanandan
+27. Shyam Teri Bansi Pukare (Geet Gata Chal)
+28. Bade BAdai Na kare (Ankhiyon ke Jharokhon Se)
+29.</Text>
+  <WriterName>Rockying</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>calling-out-to-the-gods-through-the-bollywood-medium-the-greatest-bhajan-playlist-of-all-time</URL>
+</Article>

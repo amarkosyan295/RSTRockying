@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Responsive Designs Converting Prospects to Clients</Title>
+  <OGImage>http://www.rockying.com/art/internet/Responsive-Design-Infographic.jpg</OGImage>
+  <OGDescription>How Responsive Design Can Increase Conversion...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>10</Category>
+  <Tag>Responsive Website Design, Website Building, Web Designing.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/internet/Responsive-Design-Infographic.jpg' alt='' /&gt;&lt;p&gt;How Responsive Design Can Increase Conversion...&lt;/p&gt;</Description>
+  <Text>&lt;img src="http://www.rockying.com/art/internet/Responsive-Design-Infographic.jpg" alt="Responsive Design Infographic" title="How Responsive Design Converts Prospects into Clients"&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Rockying</WriterName>
+  <WriterEmail>preeti.singh@rudrasofttech.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

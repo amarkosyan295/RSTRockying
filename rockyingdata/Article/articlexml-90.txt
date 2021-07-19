@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>90</ID>
+  <Title>UAE Calling; The Luxuries Of Abu Dhabi</Title>
+  <MetaTitle>UAE Calling; The Luxuries Of Abu Dhabi</MetaTitle>
+  <OGImage>//www.rockying.com/art/Travel/Abu%20Dhabi/emirates_palace_Hotel.jpg</OGImage>
+  <OGDescription>Close to its famous “cousin” Dubai; Abu Dhabi is the capital of United Arab Emirates. Though the city is located mostly on an island; it has been connected to the mainland through a network of bridges and continues to expand...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>United Arab Emirates, Abu Dhabi, Travel Destinations from UAE</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Travel/Abu%20Dhabi/emirates_palace_Hotel.jpg' alt='' /&gt;&lt;p&gt;Close to its famous “cousin” Dubai; Abu Dhabi is the capital of United Arab Emirates. Though the city is located mostly on an island; it has been connected to the mainland through a network of bridges and continues to expand...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    &lt;b&gt;A&lt;/b&gt;fter &lt;a href="http://www.rockying.com/a/56"&gt;Turkey&lt;/a&gt; ; off to another
+    famous Arab City!&lt;img src="//rockying.com/art/Travel/Abu%20Dhabi/united_arab_emirates_uae_map.jpg"
+        title="Abu Dhabi" alt="" style="float: right; height: 300px;"&gt;&lt;br&gt;
+    &lt;br&gt;
+    Having lived in Abu Dhabi for over twenty years now, I couldn’t be anymore in love
+    with the city. So what makes it interesting even after so, so many years! Many things!
+    So let me dissect Abu Dhabi today and let me convince to book your tickets right
+    away!&lt;br&gt;
+    &lt;br&gt;
+    &lt;b&gt;WHERE IS THIS?&lt;/b&gt;&lt;br&gt;
+    &lt;br&gt;
+    Close to its famous “cousin” Dubai; Abu Dhabi is the capital of United Arab Emirates.
+    Though the city is located mostly on an island; it has been connected to the mainland
+    through a network of bridges and continues to expand.
+    &lt;br&gt;
+    &lt;br&gt;
+    &lt;b&gt;WHY YOU SHOULD BE HERE?&lt;/b&gt;&lt;br&gt;
+    &lt;br&gt;
+    Abu Dhabi is famous for too many things. Being one of the largest oil manufacturers
+    in the world; the city is now also known for its huge developments in the tourism
+    sector which makes it one of the favorite with holiday goers.&amp;nbsp; Here are some
+    of the famous attractions of the lovely city:&lt;br&gt;
+    &lt;br&gt;
+    &lt;img src="//rockying.com/art/Travel/Abu%20Dhabi/Sheikh_Zayed_Mosque_Night.jpg"
+        title="Sheikh Zayed Mosque" alt="" style="float: left; height: 250px;"&gt;•&amp;nbsp;&amp;nbsp;
+    &amp;nbsp;&lt;b&gt;Sheikh Zayed Grand Mosque&lt;/b&gt; - Named after the founder of UAE, HH Sheikh
+    Zayed Bin Sultan Al Nahyan, the majestic Mosque is probably a work of art in itself.
+    The mosque has a capacity of about 40,000 worshipers and is looked upon as one of
+    the most magnificent architectural wonders in the world. Coveted as the largest
+    mosque in the country, the Grand Mosque will leave you stunned.&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;img src="//rockying.com/art/Travel/Abu%20Dhabi/YasMarinaisland.jpg"
+        title="Yas Marina Island" alt="" style="float: right; height: 250px;"&gt;&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    •&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;b&gt;Yas Marina Island&lt;/b&gt; - An artificial island holding the
+    Yas Island Circuit, the host for the Formula One Grand Prix since 2009, the Yas
+    Island has become one of the hottest tourist spots. It also contains the &lt;a href="http://www.ferrariworldabudhabi.com/"&gt;
+        Ferrari World&lt;/a&gt;- the world’s largest indoor theme park that tells the story
+    of Ferrari in all its glory. Also it features amusement rides and games. The World’s
+    Fastest Roller Coaster - &lt;a href="http://www.ferrariworldabudhabi.com/en-gb/attractions/formula-rossa.aspx"&gt;
+        Formula Rossa&lt;/a&gt; is also there at the Ferrari world with a speed of 240 km/hr,
+    you can get a feel of what 4.8 Gs is like! Speed buffs, pack your bags!&lt;br&gt;
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    •&amp;nbsp;&lt;img src="//rockying.com/art/Travel/Abu%20Dhabi/emirates_palace_Hotel.jpg"
+        title="The Emirates Palace Hotel" alt="" style="float: left; height: 250px;"&gt;&amp;nbsp;&amp;nbsp;
+    &lt;b&gt;The Emirates Palace Hotel&lt;/b&gt; - one of the most magnificent luxury hotels in
+    the country. Though a little hard on the pocket (this hotel actually offers the
+    one million dollar tailor made suite holiday - the most expensive holiday) the hotel
+    could be visited for tourism reason purely.
+    &lt;br&gt;
+    •&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b&gt;Gardens and Parks &lt;/b&gt;- For those of you in love with the
+    outside and want to enjoy a peaceful lazy vacation , Abu Dhabi has over 2000 well
+    maintained gardens and parks.
+    &lt;br&gt;
+    •&amp;nbsp;&amp;nbsp; &amp;nbsp;The city offers a host of services - desert safaris for exploring
+    the deserts and having a feel of what it is like, helicopter tours for a birds eye
+    view of the city and bus tours running throughout the day. Boat rides on the Marina
+    are a perfect way to end the day.&lt;br&gt;
+    &lt;br&gt;
+    &lt;b&gt;BEST TIME TO VISIT&lt;/b&gt;&lt;br&gt;
+    &lt;br&gt;
+    Abu Dhabi is a hot place; experiencing extremely high temperatures during the summers
+    coupled with high humidity, the best time to visit has to be between November and
+    March. Though the country does experience fogs during this time of the year, most
+    of the days are pleasant otherwise.&lt;br&gt;
+    &lt;br&gt;
+    &lt;b&gt;HARD ON THE POCKET?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+    Abu Dhabi has been regarded as the 67th most expensive city in the world. However,
+    keeping in mind that public transport and air tickets are affordable, the place
+    is worth every penny spent. Also, most of the parks and beaches have free access,
+    the bus rides around the city are cheaply priced and overall offer a wonderful experience.&lt;br&gt;
+    &lt;br&gt;
+    There really are no reasons as not to visiting the city. With its amazing architecture,
+    the variety of cuisines available, the beaches, parks and the luxury sightseeing,
+    Abu Dhabi makes for the perfect holiday spot.&lt;br&gt;
+    &lt;br&gt;
+&lt;/p&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>90</URL>
+</Article>

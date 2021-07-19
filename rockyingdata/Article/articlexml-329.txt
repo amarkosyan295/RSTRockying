@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Salman Khan Is Back As Tiger and Fans are Going Crazy About His Stunts</Title>
+  <OGImage>http://www.rockying.com/art/bollywood/Tiger-Zinda-Hai-Movie-Review/Salman-Khan-in-Tiger-Zinda-Hai.jpg</OGImage>
+  <OGDescription>Tiger Zinda Hai is among those fantasy movies which contain a simple story but highly rely on...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Tiger Zinda hai movie review, Tiger Zinda hai review, Salman Khan, Bollywood Movie Reviews</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Tiger-Zinda-Hai-Movie-Review/Salman-Khan-in-Tiger-Zinda-Hai.jpg' alt='' /&gt;&lt;p&gt;Tiger Zinda Hai is among those fantasy movies which contain a simple story but highly rely on...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+Based on a true story, &lt;i&gt;Tiger Zinda Hai&lt;/i&gt; brought Salman Khan back to his original action habitat. The film is inspired by the real-life incident of the rescue of nurses taken hostage by terrorists in Iraq. Salman Khan plays the role of Indian Raw Agent Tiger who rescues them from the clutches of the terrorists accompanied by ISI Agent Zoya, played by Katrina Kaif. The movie is the sequel to the film Ek Tha Tiger released in 2012. 
+&lt;/p&gt;
+&lt;p&gt;
+Times have proved that Salman Khan has superhuman abilities and can battle anything, anyone at any time. 5 years ago, Ek Tha Tiger has proved that and Now, Tiger Zinda Hai stands as a living proof. The movie which picks up from the previous franchise shows Salman Khan and Katrina as parents living in the Alps. They are called off for a mission in Iraq where a group of nurses is held hostage by the Iraqi terrorists, Tiger to prove his patriotism towards the Indian Nation and Zoya towards Pakistan. 
+ &lt;/p&gt;
+&lt;p&gt;
+The show begins and shifts our entire focus towards Salman Khan who impresses over and over with the massive Action Scenes and One-liners that are filled with Punch and Nationality and Swag and Style. Katrina impressed with her stunts in the prolonged Action scenes when she comes to his aid at the hospital. Actors Paresh Rawal and Sajjad Delafroz delivered a performance that added to the film’s charisma. Another actor who came into limelight besides these two is the bomb diffuser in the film played by Angad Bedi. There is also a sniper who doesn’t contribute anything to the film other than to add the emotion in the end when he waves Indian flag after the victory. 
+&lt;/p&gt;
+&lt;p&gt;
+The film has everything expected of a Spy and Salman Khan’s movie. The Death Defying stunts, the deadly weapons, the notoriously patriotic dialogues, and the Shirtless scenes. Ali Abbas Zafar has managed to pack in everything combined with an exceptional cinematography and background Music.  Although the director in some areas failed to keep the audience glued to the screen, the movie is fast and doesn’t let you notice the difference. 
+&lt;/p&gt;
+&lt;p&gt;
+Tiger Zinda Hai carries a splendid collection of backgrounds most of which are highlighted during different scenes. The film has been shot in Austria, Morocco, Abu Dhabi, and Greece. The films specialty is that it brings down the CIA to work with the Indian and Pakistan Secret Service.  The movie personnel deserves appreciation for this given our history of missing logic in the rush of adrenaline. 
+&lt;/p&gt;
+&lt;br&gt;
+
+&lt;img src="http://www.rockying.com/art/bollywood/Tiger-Zinda-Hai-Movie-Review/Salman-Khan-in-Tiger-Zinda-Hai.jpg" title="Salman in Tiger Zinda Hai" alt="Salman in a still from Tiger Zinda Hai"&gt;
+
+&lt;br&gt;
+&lt;p&gt;
+Overall, the film is purely a commercial entertainer and has reached its expectations with the masses. Elements like lacking a decent plot, though are backdrops for the reviewers, a film packing this amount of action doesn’t necessarily need to rely on a plot. Tiger Zinda Hai is among those which contain a simple story but highly rely on the presentation of it. Since the movie is set in reality and not in fantasy, the presentation could have been better if the direction and writing department had taken every logical scenario into consideration. 
+&lt;/p&gt;
+&lt;p&gt;
+But then again since it is for the average Indian audience and emotion always works better than intelligence. More time has been spent on finding the right patriotic punches and highlighting the superstar than on the fact that no one rides horses in the middle of the streets anymore. 
+&lt;/p&gt;
+&lt;p&gt;
+In its basic sense, keeping aside the fact that it is a Salman Khan film and that it gathered huge collections, Tiger Zinda Hai is a decent film that misses some logic in its execution. Nevertheless, the movie has made some percentage of people apart from the fans happy so, it is a kind of win-win for the director and the actor.
+&lt;/p&gt;</Text>
+  <WriterName>Nikitha [Reader Submission]</WriterName>
+  <WriterEmail>deynikitha@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>tiger-zinda-hai-movie-review</URL>
+</Article>

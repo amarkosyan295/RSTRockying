@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Most Powerful Indian Women Entrepreneurs.</Title>
+  <OGImage>http://www.rudrasofttech.com/rockying/art/internet/top-10-indian-women-entrepreneur/Ekta-Kapoor1.jpg</OGImage>
+  <OGDescription>Balaji Telefilms and their TV serials are watched by most of us every day.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>20</Category>
+  <Tag>Entrepreneurs,Indian Women, Business, Ekta Kapoor, Indira Nooyi</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rudrasofttech.com/rockying/art/internet/top-10-indian-women-entrepreneur/Ekta-Kapoor1.jpg' alt='' /&gt;&lt;p&gt;Balaji Telefilms and their TV serials are watched by most of us every day.&lt;/p&gt;</Description>
+  <Text>&lt;div class="carousel"&gt;
+    &lt;a class="carousel-control left previousslide" href="Javascript:return false;"&gt;&amp;lsaquo;&lt;/a&gt;
+    &lt;a class="carousel-control right nextslide" href="Javascript:return false;"&gt;&amp;rsaquo;&lt;/a&gt;
+    &lt;div class="slideshow" style="padding: 0px 80px 0px 80px;"&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="clearfix"&gt;
+                &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/top-10-indian-women-entrepreneur/indra-nooyi.jpg"
+                    alt="Indra Nooyi" class="pull-left" style="width: 500px;" /&gt;
+                &lt;h3&gt;
+                    Indira Nooyi&lt;/h3&gt;
+                &lt;h4&gt;
+                    Origin: Chennai, Tamil Nadu, India&lt;br /&gt;
+                &lt;/h4&gt;
+                &lt;br /&gt;
+                &lt;p&gt;
+                    Indra Nooyi, an Indian born Tamil American business executive is the current chairman
+                    and CFO of the second largest food and beverage business, PepsiCo. Her real strong
+                    attitude has helped the company garner $30 billion in couple of years. She has a
+                    Master degree in public management from the Yale University and also a Master degree
+                    in Finance and Marketing from IIM, Kolkata. She has also been awarded the prestigious
+                    Padma Bhushan for her outstanding efforts in commerce and for truly being an inspiration
+                    for the nation.
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="clearfix"&gt;
+                &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/top-10-indian-women-entrepreneur/naina-lal-kidwa.jpg"
+                    alt="Naina Lal Kidwa" class="pull-left" style="width: 500px;" /&gt;
+                &lt;h3&gt;
+                    Naina Lal Kidwa&lt;/h3&gt;
+                &lt;h4&gt;
+                    Origin: North India&lt;br /&gt;
+                &lt;/h4&gt;
+                &lt;br /&gt;
+                &lt;p&gt;
+                    Naina is one of the most successful business women in India, she is the current
+                    country head and group general manager, HSBC Group India. She went to the Harvard
+                    and also serves as a Global Advisor at the Harvard business school and also provides
+                    her services as a Non executive director at Nestle SA. Her hard work and dedication
+                    has always been rewarded and respected, she received the Padma Shri award for her
+                    contributions in the segment of Trade and Industry.
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="clearfix"&gt;
+                &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/top-10-indian-women-entrepreneur/kiran-mazumdar-shaw.jpg"
+                    alt="Kiran Mazumdar Shaw" class="pull-left" style="width: 500px;" /&gt;
+                &lt;h3&gt;
+                    Kiran Mazumdar Shaw&lt;/h3&gt;
+                &lt;h4&gt;
+                    Origin: Banglore, Karnataka, India
+                    &lt;br /&gt;
+                &lt;/h4&gt;
+                &lt;br /&gt;
+                &lt;p&gt;
+                    Facing various difficulties and challenges because of her youth, charm, gender and
+                    her untested business model, Kiran always dreamt of achieving big and she made her
+                    dream true. A proud Bangalorean and the Chairperson of Biocon, she built her bio
+                    pharmaceutical company with a well balanced business portfolio and made herself
+                    worth $900 million. She has always inspired the younger generation with the challenge
+                    she took in the field of Biochemical’s. She has received various prestigious awards
+                    for her outstanding efforts that inspires the younger generation and it also makes
+                    the country proud.
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="clearfix"&gt;
+                &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/top-10-indian-women-entrepreneur/indu-jain.jpg"
+                    alt="Indu Jain" class="pull-left" style="width: 500px;" /&gt;
+                &lt;h3&gt;
+                    Indu Jain&lt;/h3&gt;
+                &lt;h4&gt;
+                    Origin: India&lt;br /&gt;
+                &lt;/h4&gt;
+                &lt;br /&gt;
+                &lt;p&gt;
+                    ‘Pen is mightier than sword’ – Indu Jain is the current chairperson of the Bennett,
+                    Coleman &amp; Co. Ltd which owns the most popular newspaper daily- Times of India and
+                    other such large newspapers. She is one of the most powerful and influential women
+                    and a pure humanist and under her supervision The Times Foundation runs Community
+                    Services, Research Foundation and Times Relief Fund for disaster reliefs like floods,
+                    cyclones, earthquakes and epidemics. Indu Jain's championing of women's causes is
+                    also popular and very motivating. She actively supports women's rights and the encouragement
+                    of women entrepreneurship.
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="clearfix"&gt;
+                &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/top-10-indian-women-entrepreneur/simone-tata.jpg"
+                    alt="Simone Tata" class="pull-left" style="width: 500px;" /&gt;
+                &lt;h3&gt;
+                    Simone Tata&lt;/h3&gt;
+                &lt;h4&gt;
+                    Origin: France&lt;br /&gt;
+                &lt;/h4&gt;
+                &lt;br /&gt;
+                &lt;p&gt;
+                    Simone Tata, wife of Naval Homey Jahangir Tata and step mother to Ratan Tata is
+                    one of the most powerful woman Indian business has seen. She has been credited with
+                    the title ‘cosmetics czarina of India’ as she was the Chairperson of Lakme group
+                    and she also heads Trent- the Westside store by the Tata group belongs to Trent.
+                    She has been appreciated all over the globe for her fantastic managerial abilities
+                    and extra ordinary leadership skills.
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="clearfix"&gt;
+                &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/top-10-indian-women-entrepreneur/priya-paul.jpg"
+                    alt="Priya Paul" class="pull-left" style="width: 500px;" /&gt;
+                &lt;h3&gt;
+                    Priya Paul&lt;/h3&gt;
+                &lt;h4&gt;
+                    Origin: India&lt;br /&gt;
+                &lt;/h4&gt;
+                &lt;br /&gt;
+                &lt;p&gt;
+                    With her specialized degree in economics, Priya entered her family business and
+                    worked under her father as a marketing manager at the Park Hotel in Delhi. After
+                    the death of Surrendra Paul, she succeeded him in 1990 as a chairperson and since
+                    then she did not have to look back. Her contributions towards the Hospitality industry
+                    has been immense, Park Hotel had been rated as one of the best 101 hotels worldwide
+                    in 2003 and she hold the prestigious Padma Shri award for her excellence in the
+                    hospitality sector.
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="clearfix"&gt;
+                &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/top-10-indian-women-entrepreneur/ekta-kapoor.jpg"
+                    alt="Ekta Kapoor" class="pull-left" style="width: 500px;" /&gt;
+                &lt;h3&gt;
+                    Ekta Kapoor&lt;/h3&gt;
+                &lt;h4&gt;
+                    Origin: India&lt;br /&gt;
+                &lt;/h4&gt;
+                &lt;br /&gt;
+                &lt;p&gt;
+                    Balaji Telefilms and their TV serials are watched by most of us every day. She sits
+                    as the creative head on the board of Balaji Telefilms and has many 'hits' in bag.
+                    Her most famous tele serials are ‘Kyunki Saas Bhi Kabhi Bahu Thi’, ‘Kahani Ghar
+                    Ghar Ki’ and many others, making her the Queen Bee of the Indian soap opera scene.
+                    She has won the Hall of Fame award at the 6th Indian Tele Awards during 2006 for
+                    her extraordinary contribution to the Indian television industry. She has been highly
+                    admired for her entrepreneurial skills.
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="clearfix"&gt;
+                &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/top-10-indian-women-entrepreneur/Sulajja-firodia-motwani.JPG"
+                    alt="Sulajja Firodia Motwani" class="pull-left" style="width: 500px;" /&gt;
+                &lt;h3&gt;
+                    Sulajja Firodia Motwani&lt;/h3&gt;
+                &lt;h4&gt;
+                    Origin: India&lt;br /&gt;
+                &lt;/h4&gt;
+                &lt;br /&gt;
+                &lt;p&gt;
+                    Sulajja is the joint Managing Director of Kinetic Motors and Managing Director of
+                    Kinetic Finance. She is solely responsible for the transformation from a moped company
+                    to a manufacturer of complete versatility. She has developed and designed the marketing
+                    strategies for Kinetic and helped it grow vastly over these years. She has been
+                    honored “The Face of the Millennium” by India Today for her enthusiastic business
+                    approach and she has also been selected as “The Global Leader of Tomorrow” by the
+                    world economic forum.
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="clearfix"&gt;
+                &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/top-10-indian-women-entrepreneur/mallika_srinivasan.jpg"
+                    alt="Mallika Srinivasan" class="pull-left" style="width: 500px;" /&gt;
+                &lt;h3&gt;
+                    Mallika Srinivasan&lt;/h3&gt;
+                &lt;h4&gt;
+                    Origin: India&lt;br /&gt;
+                &lt;/h4&gt;
+                &lt;br /&gt;
+                &lt;p&gt;
+                    Currently the director of TAFE India has been honored with the title of Businesswoman
+                    of the year during 2006 by the Economic times group. She joined this organization
+                    in 1986 and has accelerated the turnover from 85 crores to 2900 crores within two
+                    decades. Her creative business ideas and managerial skills has made her one of the
+                    best and leading entrepreneurs of India and has also been awarded with various prestigious
+                    awards.
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="clearfix"&gt;
+                &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/top-10-indian-women-entrepreneur/neelam-dhawan.jpg"
+                    alt="Neelam Dhawan" class="pull-left" style="width: 500px;" /&gt;
+                &lt;h3&gt;
+                    Neelam Dhawan&lt;/h3&gt;
+                &lt;h4&gt;
+                    Origin: India&lt;br /&gt;
+                &lt;/h4&gt;
+                &lt;br /&gt;
+                &lt;p&gt;
+                    Neelam leads Microsoft India and has been the best in business. She started her
+                    career in this field and craved to join Asian Paints and Hindustan Lever but she
+                    was rejected as these firms did not want to appoint a woman to their sales and marketing
+                    department. Today, she leads Microsoft India and has completely taken over the marketing
+                    and sales sector. Neelam also has also played a vital role in many other prominent
+                    companies such as IBM, HP and HCL.
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <SlideShowOn>true</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Vratika Singh</WriterName>
+  <WriterEmail>vratika@rudrasofttech.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

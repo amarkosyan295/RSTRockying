@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>44</ID>
+  <Title>I Have Weak Bones… You Got Beer?</Title>
+  <MetaTitle>I Have Weak Bones… You Got Beer?</MetaTitle>
+  <OGImage>//rockying.com/art/Rockying/The-Benefits-of-Consuming-Beer-268x300.jpg</OGImage>
+  <OGDescription>If you have read the title twice, yes you are right.  Now you can think of having a beer or two to cure your weak bones...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Bones, Osteoporosis, Beer, Benefits of Beer</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/Rockying/The-Benefits-of-Consuming-Beer-268x300.jpg' alt='' /&gt;&lt;p&gt;If you have read the title twice, yes you are right.  Now you can think of having a beer or two to cure your weak bones...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    If&lt;img src="//rockying.com/art/Rockying/Picture%201.jpg" title="Beer's To Happiness"
+        alt="" style="max-height: 219px;" class="pull-right" /&gt;
+    you have read the title twice, yes you are right. Now you can think of having a
+    beer or two to cure that nagging &lt;a target="_blank" href="http://http://en.wikipedia.org/wiki/Osteoporosis"&gt;
+        &lt;strong&gt;osteoporosis&lt;/strong&gt;&lt;/a&gt; of yours, according to recent studies. A moderate proportion
+    if taken as dosages can actually work miracles on your bones and keep your connecting
+    tissues in good shape. Here is how:
+&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Beer has dietary silicon that is the mantra for stronger bones. What one should
+            be careful about is that not every beer brand has a malting process that would keep
+            the silicon levels high.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            The trick is to check the color of the beer you are drinking. This might involve
+            a lot of study and take some time. Go for the ones that are pale in color. The more
+            golden the color, you must know that those are the ones to be avoided.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            If you are suffering from arthritis or osteoporosis then, then say a strict no-no
+            to fruit beers! Those are plainly high in calories and&lt;img src="//rockying.com/art/Rockying/Picture%202.jpg"
+                title="Beer Fund" alt="" style="max-width: 208px;" class="pull-left" /&gt;
+            have zero silicon content in them.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Do a basic Google search on the beers that follow the &lt;a target="_blank" href="http://http://en.wikipedia.org/wiki/Malt"&gt;
+                barley malting&lt;/a&gt; process. The beers made from wheat have low silicon content
+            can therefore, is NOT the medicine for your bones!
+        &lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    But does that mean you are going to get drunk every night? No! Two glasses of barley-malted
+    beers can provide up to 30 to 40 mgs of silicon to your bones, even though there
+    is no official recommendation for the number of doses that one can take. So, moderation
+    is the guiding principle for you.
+&lt;/p&gt;
+&lt;h5&gt;
+    So what are you waiting for? Start with a Beer Fund and save up for a glass full
+    of bubbles and say cheers to health!
+&lt;/h5&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>44</URL>
+</Article>

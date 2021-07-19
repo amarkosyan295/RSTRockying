@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>first-my artice</Title>
+  <MetaTitle>first-my artice</MetaTitle>
+  <OGImage>//www.rockying.com/art/173/isabel-glasser-infographic - Copy.jpg</OGImage>
+  <OGDescription>zdsa da asda</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>sdf</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/173/isabel-glasser-infographic - Copy.jpg' alt='' /&gt;&lt;p&gt;zdsa da asda&lt;/p&gt;</Description>
+  <Text>sdff dfsdfsdfsdf sdf</Text>
+  <WriterName>Raj Kiran</WriterName>
+  <WriterEmail>rajkiran.singh@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>first-my-artice</URL>
+</Article>

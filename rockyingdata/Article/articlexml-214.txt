@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Skirts For All Body Types</Title>
+  <MetaTitle>Skirts For All Body Types</MetaTitle>
+  <OGImage>//rockying.com/art/Lifestyle/Fashion/Skirts/Skirts.jpg</OGImage>
+  <OGDescription>From the first straw woven wrap around created in ancient Armenia in 3900 BC to the modern day Sarongs and Fishtails, Skirts have always been the garment of choice for an independent and confident female.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>16</Category>
+  <Tag>Fashion, Skirts, Kinds of Skirts, Pencil Skirt, A-line Skirt, Flip Skirt, Sarong, Fishtail, Peasant Skirt.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/Lifestyle/Fashion/Skirts/Skirts.jpg' alt='' /&gt;&lt;p&gt;From the first straw woven wrap around created in ancient Armenia in 3900 BC to the modern day Sarongs and Fishtails, Skirts have always been the garment of choice for an independent and confident female.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    From the first straw woven wrap around created in ancient Armenia in 3900 BC to
+    the modern day Sarongs and Fishtails, Skirts have always been the garment of choice
+    for an independent and confident female.&lt;/p&gt;
+&lt;p&gt;
+    Stylish, sexy and surprisingly practical skirts are the answer if you have had enough
+    of kurtis and T-shirts with the same old jeans at your work place. Generally perceived
+    as a garment only for the fit and fabulously shaped, skirts in fact offer a great
+    variety of options to fit your body type. &lt;a href="http://www.rockying.com"&gt;Rockying&lt;/a&gt;
+    compiles info on the most popular skirts and some of the best skirt-sporting tips
+    for just all kinds of female shapes and sizes. Read on to find out what suits you
+    best.&lt;/p&gt;
+&lt;h3&gt;
+    PENCIL SKIRT&lt;/h3&gt;
+&lt;img src="//rockying.com/art/Lifestyle/Fashion/Skirts/pencil-collage.jpg"
+    alt="Pencil Skirt" /&gt;
+&lt;p&gt;
+    If you have a perfect slinky body, then make the most of it by sporting a pencil
+    skirt. It is a slim-fitting skirt with a straight, narrow cut. Try to pick up a
+    short top or a t-shirt tucked inside. This would make you look even more stylish.
+&lt;/p&gt;
+&lt;h3&gt;
+    FLIP SKIRT&lt;/h3&gt;
+&lt;img src="//rockying.com/art/Lifestyle/Fashion/Skirts/Flip-skirt-collage.jpg"
+    alt="Flip Skirt" /&gt;
+&lt;p&gt;
+    The flip skirt is generally fitted from waist and then flares around the hemline.
+    Short or long, flips are perfectly designed to make your curves look curvier. Go
+    for light summer shades such as yellow or green and pair it up with a white color
+    top.&lt;/p&gt;
+&lt;h3&gt;
+    FULL CIRCLE / HALF CIRCLE / SARONG&lt;/h3&gt;
+&lt;img src="//rockying.com/art/Lifestyle/Fashion/Skirts/Sarong-Collage.jpg"
+    alt="Sarong Skirt, Fill Circle Skirt, Half Circl Skirt" /&gt;
+&lt;p&gt;
+    &lt;strong&gt;The full circle skirt&lt;/strong&gt; (cut out of a circular piece of cloth) is
+    quite common and suits almost all body shapes.&lt;/p&gt;
+&lt;p&gt;
+    &lt;strong&gt;The half circle skirt&lt;/strong&gt;, as the name suggests is made of a semi-circular
+    cloth. One with polka dots and stripes stays in fashion all the time.&lt;/p&gt;
+&lt;p&gt;
+    &lt;strong&gt;The Sarong&lt;/strong&gt; is basically a wrap-around skirt. White colorful patterns
+    give it a more vibrant look. The perfect beach wear, this wrap-around skirt is a
+    combination of style and comfort.&lt;/p&gt;
+&lt;h3&gt;
+    A-LINE&lt;/h3&gt;
+&lt;img src="//rockying.com/art/Lifestyle/Fashion/Skirts/A-line-collage.jpg"
+    alt="A-Line Skirt" /&gt;
+&lt;p&gt;
+    The skirt is shaped very much like the letter A. This is the simplest skirt and
+    you can sport it both short and long. Even hem less, like the green above can be
+    the best style to wear in your ‘Summer of No Pants’.&lt;/p&gt;
+&lt;p&gt;
+    Women on the heavier side, these are the best kind for you as they perfectly skim
+    your curves and make you look in shape.&lt;/p&gt;
+&lt;h3&gt;
+    FISHTAIL&lt;/h3&gt;
+&lt;img src="//rockying.com/art/Lifestyle/Fashion/Skirts/Fishtail-collage.jpg"
+    alt="Fishtail Skirt" /&gt;
+&lt;p&gt;
+    Fishtail skirts are tightly fitted around the hip and flare out from the knee (sometimes
+    higher) to the ground. These are often longer in the back than in the front.&lt;/p&gt;
+&lt;p&gt;
+    Also known as the mermaid skirt, the style is perfect for those who want to look
+    taller and show off their rear areas.&lt;/p&gt;
+&lt;p&gt;
+    The slightly different (the girl wearing above) free style fish tails, sitting snugly
+    around your thighs and legs, not only highlight your sexy legs but also downplay
+    those extra curves.&lt;/p&gt;
+&lt;h3&gt;
+    PEASANT&lt;/h3&gt;
+&lt;img src="//rockying.com/art/Lifestyle/Fashion/Skirts/Peasant.jpg"
+    alt="PEASANT Skirt" /&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            A classic bohemian-inspired fashion, the Peasant is usually a billowing, wide, layered
+            style skirt.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Balanced with a fitted top this breezy skirt is meant for those who prefer the ‘hippie-style’.
+            These skirts are mostly worn long and fall well below the knees.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            A subtle ruffled look and a distinct tint of femininity is what Peasants are all
+            about.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Fit for all occasions and body types, these give you a great scope of playing with
+            accessories such as jewelry and belts.&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;
+    The Rockying 'Skirt-Sporting' Tips&lt;/h4&gt;
+&lt;ol&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Make sure the top you have chosen goes well with the skirt. Avoid wearing long top
+            with short skirts.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Always try the skirt wearing your shoes to figure out which one suits you the most.&lt;/p&gt;
+        &lt;p&gt;
+            While your tennis sneakers would complement your blue denim skirt, heels would go
+            best with the black-dress skirt and pumps with your black-day-to-night-skirt.&lt;/p&gt;
+    &lt;/li&gt;
+&lt;img src="//rockying.com/art/Lifestyle/Fashion/Skirts/Skirts-Shoes.jpg" alt=""""/&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            If you are short heighted, show your skin off (this visually elongates your whole
+            body figure)! The more you hide your skin, the shorter you tend to look. If you
+            do not like skin-show, choose footwear that blends with your stockings or skin.
+            For example: Black skirt with black stockings and black shoes or skin colored stockings
+            with the same color shoes will make your legs and you look taller.
+        &lt;/p&gt;
+    &lt;/li&gt;
+&lt;li&gt;&lt;h5&gt;
+    The Skirt Essentials&lt;/h5&gt;
+&lt;img src="//rockying.com/art/Lifestyle/Fashion/Skirts/Essentials.jpg" alt=""/&gt;
+        &lt;p&gt;The wardrobe must contain a white summer skirt, a black dress skirt, a dark blue
+    denim skirt and a neutral day-to-night skirt to fight the I-don’t-have-anything-to-wear
+    dilemma. These can be paired with numerous (almost all) colors and styles of tops.
+&lt;/p&gt;
+    &lt;/li&gt;
+&lt;li&gt;&lt;h5&gt;
+    Choose the Right Fit&lt;/h5&gt;
+        &lt;p&gt;Skirts that are too tight or too large feel and look uncomfortable. Too tight will
+    make you look bulky and stumpy (if you carry some extra weight on the hips) while
+    the too loose will eat away your curves and make the outfit look sloppy!
+&lt;/p&gt;
+    &lt;/li&gt;
+&lt;li&gt;&lt;h5&gt;
+    The Perfect Length (Hemline)&lt;/h5&gt;
+        &lt;p&gt;Perfect for every occasion, the most flattering skirt length no matter height or
+    shape, curvy or slim, is right above or at your knees. To know more, have a close
+    look at this:
+&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+&lt;img src="//rockying.com/art/Lifestyle/Fashion/Skirts/know-your-hemline.jpg"
+    alt="Hemline" /&gt;
+&lt;h5&gt;
+    Write in for instant answers on the perfect length, shape and design of skirts for
+    your specific body type. Rockying would be happy to help.&lt;/h5&gt;
+&lt;p class="well"&gt;
+&lt;b&gt;About the Author:&lt;/b&gt; Keeping her eyes closed, with long breaths and a gentle sound many mistake for snoring, actually helps Sonali think better. Or so she says. People question about these daily “thinking sessions”, mostly conducted on a comfortable couch or bed, while she claims that the long overdue best-seller she’s been working on (for quite some time now) will silence all the cynics. Till then she dreams on...
+&lt;/p&gt;</Text>
+  <WriterName>Sonali Chowdhury</WriterName>
+  <WriterEmail>media.sonali@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>skirts-for-all-body-types</URL>
+</Article>

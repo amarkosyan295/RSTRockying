@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>73</ID>
+  <Title>Go South American; Go Trekking Huancayo (Peru)</Title>
+  <MetaTitle>Go South American; Go Trekking Huancayo (Peru)</MetaTitle>
+  <OGImage>//www.rockying.com/art/Peru/Acrobatics_Huancayo.jpg</OGImage>
+  <OGDescription>We talk to the lovely Samantha Bangayan about her favorite place and she sticks to her current place of stay Huancayo. Located in the highlands of Peru, Sam does a walk through of the less known wonder...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Peru, Huancayo, Travel Destinations Peru, Tourist Attraction in South America</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Peru/Acrobatics_Huancayo.jpg' alt='' /&gt;&lt;p&gt;We talk to the lovely Samantha Bangayan about her favorite place and she sticks to her current place of stay Huancayo. Located in the highlands of Peru, Sam does a walk through of the less known wonder...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    &lt;b&gt;A&lt;/b&gt;lready having interviewing people about the &lt;a href="//www.rockying.com/a/47"&gt;
+        island of Maui&lt;/a&gt;, &lt;a href="../../a/56"&gt;
+            &lt;img src="//rockying.com/art/Peru/Map%20Peru.jpg" title="Peru"
+                alt="" style="float: right; width: 300px; height: 220px;"&gt;&lt;/a&gt;going
+    &lt;a href="//www.rockying.com/a/56"&gt;magical in Turkey&lt;/a&gt;, being the &lt;a href="//www.rockying.com/a/54"&gt;
+        royal In Udaipur&lt;/a&gt; and taking you all on a &lt;a href="http://www.rockying.com/a/69"&gt;
+            South African safari&lt;/a&gt;. We thought what better than going South American
+    this time! We talk to the lovely Samantha Bangayan about her favorite place and
+    she sticks to her current place of stay Huancayo. Located in the highlands of &lt;a
+        href="http://en.wikipedia.org/wiki/Peru"&gt;Peru&lt;/a&gt;, Sam does a walk through of
+    the less known wonder.&lt;br&gt;
+    &lt;br&gt;
+    &lt;b&gt;About:&lt;/b&gt;&lt;br&gt;
+    &lt;a target="_blank" title="Samantha Bangayan" href="https://twitter.com/#%21/samanthaluy"&gt;
+        Samantha Bangayan&lt;/a&gt; is a Canadian expat currently living in &lt;a href="http://en.wikipedia.org/wiki/Huancayo"&gt;
+            Huancayo&lt;/a&gt;, Peru. She was born in the Philippines, grew up in Vancouver,
+    and moved to Peru indefinitely in 2010.&lt;br&gt;
+    &lt;br&gt;
+    &lt;b&gt;
+        &lt;img src="//rockying.com/art/Peru/Trimble_Peru_070910.JPG" title=""
+            alt="" style="float: left;" height="232" width="309"&gt;Favorite holiday destination:&lt;/b&gt;&lt;br&gt;
+    &lt;br&gt;
+    Sam lives in the Central Andes and claims to have fallen in love with Huancayo soon
+    after her arrival in 2008.
+    &lt;br&gt;
+    &lt;br&gt;
+    &lt;b&gt;Why she loves what she loves!&lt;/b&gt;&lt;br&gt;
+    &lt;br&gt;
+    Huancayo is isolated in the Mantaro Valley, so even though it’s a growing city with
+    a population of over 500,000, there’s still a strong feeling of culture and tradition.
+    What is extremely attractive to her about Huancayo is the slower and more relaxed
+    pace of life. The first and only mall there was constructed only 3 years ago in
+    2009.&lt;br&gt;
+    &lt;br&gt;
+    &lt;b&gt;What Huancayo is famous for?&lt;/b&gt;&lt;br&gt;
+    &lt;br&gt;
+    Huancayo is famous for its surrounding rural towns where there are generations of
+    artisans. There are specific towns famous for gourds, metalwork, and textiles. The
+    city is also famous for its trekking tours as it’s surrounded by mountains.&lt;img src="//rockying.com/art/Peru/Acrobatics_Huancayo.jpg"
+        title="Acrobatics at Huancayo " alt="" style="float: right; height: 250px;"&gt;&lt;br&gt;
+    &lt;br&gt;
+    Sam's personal favorite spot in Huancayo is the old shooting range where they go
+    to practice &lt;b&gt;acrobatics&lt;/b&gt;. It’s a large piece of land with cushiony grass to
+    soften landings and a backdrop of grazing farm animals. One can easily walk there
+    from downtown Huancayo yet when you get to the shooting range, it feels like you’re
+    in your own world where you can truly relax and/or achieve anything.&lt;br&gt;
+    &lt;br&gt;
+    &lt;b&gt;Best time to visit&lt;/b&gt;&lt;br&gt;
+    &lt;br&gt;
+    It’s best to visit Huancayo from March to August. The rest of the year is thunderstorm
+    season with unpredictable stormy weather, including thunder, lightning, and hail,
+    at any time of the day. If you’re able to, try and make it over in late July when
+    all of Peru partakes in a weeklong Independence Day celebration. In Huancayo, there
+    is also the Andean tradition of Santiago in honor of the Saint Santiago during the
+    month of August. Fiestas of Santiago in rural communities near Huancayo traditionally
+    involve dancing with farm animals, but Santiago can also be celebrated in the city
+    with dancing through the streets accompanied by a band hired for the day.&lt;br&gt;
+    &lt;b&gt;
+        &lt;br&gt;
+        Costs - affordable / luxury?&lt;/b&gt;&lt;br&gt;
+    &lt;br&gt;
+    Living and traveling in Huancayo is very affordable because it’s off the beaten
+    path. Hostels near downtown can be as cheap as $4 per night and a typical meal at
+    a family restaurant will cost less than $2. These meals always include soup, a main
+    dish, a drink, and sometimes dessert too. Buses between Lima and Huancayo range
+    from $8-25 for a one-way ticket.&lt;br&gt;
+    &lt;br&gt;
+    &lt;b&gt;Anything we missed?&lt;/b&gt;&lt;br&gt;
+    &lt;br&gt;
+    Since there aren’t many tourists that visit Huancayo, one will be forced to use
+    and practice Spanish. Huancainos generally speak slowly and enunciate, so it won’t
+    be too difficult to develop language skills there.&lt;br&gt;
+    &lt;br&gt;
+&lt;/p&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>73</URL>
+</Article>

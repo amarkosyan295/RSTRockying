@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Apocalypse Now! (Or 7 ways Hollywood wants us to die)</Title>
+  <MetaTitle>7 Best Hollywood Apocalypse Movies of all time</MetaTitle>
+  <OGImage>http://www.rockying.com/art/HOllywood/Apocalypse-Now/2012-home.jpg</OGImage>
+  <OGDescription>Rockying brings you each the 7 Best Hollywood Apocalypse Movies of all time.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>12</Category>
+  <Tag>Apocalypse 2012, Hollywood Apocalypse Movies, End of the World.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/HOllywood/Apocalypse-Now/2012-home.jpg' alt='' /&gt;&lt;p&gt;Rockying brings you each the 7 Best Hollywood Apocalypse Movies of all time.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    So now that the hysteria surrounding the supposed apocalypse at the end of 2012 is over, we are once again stuck with the question that has plagued action movie buffs for ages: how will the world end? Hollywood loves its apocalyptic stories and has given us more options than we have a stomach for. On &lt;b&gt;International Mother Earth Day&lt;/b&gt; &lt;a href="http://rockying.com/default" target="_blank"/&gt;Rockying&lt;/a&gt; brings you each of the reasons given by cinema and comes up with the best movies that tell how exactly you will die! (DO NOT GET MAMA NATURE FURIOUS)&lt;img alt="Winking" src="http://www.sherv.net/cm/emoticons/facebook/wink.png"&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+           WATERWORLD&lt;/h4&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Apocalypse-Now/Waterworld.jpg" alt="Water World"/&gt;
+        &lt;p&gt;
+            With a world where everything is underwater and soil is costlier than gold, this Kevin Costner starrer took the side of environmentalists and blamed global warming and rising water levels for the end of the world. Ambitiously built on a massive budget the film suffers the ignominy of being the biggest box office flop of all time, making its producers wish that the apocalypse was here sooner.&lt;/p&gt;
+&lt;/li&gt;
+   
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+           ARMAGEDDON &lt;/h4&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Apocalypse-Now/Armageddon.jpg" alt="Armageddon"/&gt;
+        &lt;p&gt;
+           Superstar producer Jerry Bruckhemier’s action hit that told us that rocks falling out of the sky would kill us all. A rouge asteroid racing for the earth makes NASA recruit mining expert Bruce Willis and his team to fly out on space shuttles and blow up the space rock into pieces with nukes. Cliché ridden and yet immensely fun, this movie  kicked off the careers of future biggies like director Michael Bay (Transformers) and writer J J Abrams (Lost, Star Trek). Asteroids also starred in Deep Impact, another apocalyptic movie that is most remembered for giving us the first serious black US President on celluloid.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+            REIGN OF FIRE&lt;/h4&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Apocalypse-Now/Reign-of-Fire.jpg" alt="Reign of Fire"/&gt;
+        &lt;p&gt;
+            Global warming and space rocks be damned, this movie starring Christian Bale (the Batman series) and Matthew McConaughey predicted that the world would end because of, prepare yourself for this- DRAGONS!! Corny as this may sound, the movie is actually a well-made action flick with commendable performances by the leads and great action sequences with sizzling fire breathing monsters! The story remains unique with no other movie ever again picking on dragons as the reason for the world to end.
+&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+           DAY AFTER TOMORROW&lt;/h4&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Apocalypse-Now/The-Day-After-Tomorrow-.jpg" alt="Day After Tomorrow"/&gt;
+        &lt;p&gt;
+           Going against all conventional wisdom about Global Warming, this movie chose to show the world freezing up and dying. Director Roland Emmerich explored his favourite theme- the end of the world with as many CGI effects as possible, along with a father son story and some mean snow wolves. A grim tale, we remember it best for the opening shots where it is snowing in Delhi. Now that summers are here, we are thinking that its not that bad an idea.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+        THE RESIDENT EVIL SERIES&lt;/h4&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Apocalypse-Now/Resident-Evil.jpg" alt="Resident Evil"/&gt;
+&lt;p&gt;
+    Based on the Japanese horror video games, this series starring the luscious Milia Jovovich, informed us that the world was going to die because of zombies created by the evil Umbrella Corporation. The latest instalments in the series show us a grim future with the undead pawing on a handful of survivors in settings as varied as a deserted Las Vegas and a huge container ship. Zombies remain a massive favourite in this genre with several hits (Zombieland, I am Legend) exploring similar themes.
+&lt;/p&gt;
+&lt;/li&gt;
+ &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+        WAR OF THE WORLDS&lt;/h4&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Apocalypse-Now/war-of-the-worlds.jpg" alt="War of the Worlds"/&gt;
+&lt;p&gt;
+    How will the world end? Alien attack, of course! Hollywood’s favorite villains are the reason for the apocalypse in this Steven Spielberg adaption of H.G. Welles’ famous story.  Some very weird aliens star in the movie (some resembling giant spiders and some even a long sentient rubber tube!) along with a perpetually bewildered Tom Cruise in the lead who is out to save his family. And yes, in the end the massive aliens die of common viruses, so Tom could have just sneezed and ended the alien invasion in five minutes flat. Aliens are predictably the most favorite reasons for the end of the world, with more movies (Independence Day, Mars Attacks) dedicated to them than any other.
+&lt;/p&gt;
+&lt;/li&gt;
+ &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+        THE TERMINATOR SERIES&lt;/h4&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Apocalypse-Now/Terminator-008.jpg" alt="Terminator"/&gt;
+&lt;p&gt;
+    Who will kill you? Your computer will, and it will build one hell of a physique while doing that! The monster hit Terminator saga gave us a story where machines rise against men and destroy the world. Arnold Schwarzenegger starred in his iconic role to date and created movie history. We have been mistrustful of those pesky machines ever since with more movies exploring the theme ( Matrix, Nine) with every passing year.
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+        2012&lt;/h4&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Apocalypse-Now/2012.jpg" alt="2012"/&gt;
+&lt;p&gt;
+    Director Roland Emmerich returns to the list with his action packed blockbuster that dealt with the end of the world as the planet just shrugs (presumably, it is tired of us all) and decides to kill off everyone on it. Its marketing campaign is often held responsible for the rumour about ancient Mayans predicting the end of the world last year.  The ending may be a bit too drawn out but heck, its just an apocalyptic Hollywood blockbuster. Sit back and enjoy the effects.
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;p&gt;
+Aliens, zombies, extreme cold, global warming, asteroids, machines, dragons and even a monstrously angry Mama Nature- it seems that the movies are really out to get us all. So what happens when the world is over? Well, for that we have the &lt;a href="http://www.rockying.com/a/260" target="_blank"/&gt;post apocalyptic classics &lt;/a&gt;from Hollywood teaching us how to survive. Fear not, Rockying will bring you the best of that as well. Watch this space for more! 
+&lt;/p&gt;
+&lt;p class="well"&gt;
+&lt;b&gt;About the Author:&lt;/b&gt; Keeping her eyes closed, with long breaths and a gentle sound many mistake for snoring, actually helps Sonali think better. Or so she says. People question about these daily “thinking sessions”, mostly conducted on a comfortable couch or bed, while she claims that the long overdue best-seller she’s been working on (for quite some time now) will silence all the cynics. Till then she dreams on...
+&lt;/p&gt;</Text>
+  <WriterName>Sonali Chowdhury</WriterName>
+  <WriterEmail>media.sonali@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>256</URL>
+</Article>

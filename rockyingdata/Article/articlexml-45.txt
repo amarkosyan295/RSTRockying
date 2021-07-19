@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>45</ID>
+  <Title>Romance; Hollywood Style</Title>
+  <MetaTitle>Best Hollywood Romantic Movies of all Time</MetaTitle>
+  <OGImage>//www.rockying.com/art/titanic-winslet-dicaprio.jpg</OGImage>
+  <OGDescription>Winslet and DiCaprio play eternal lovers in Titanic, read out the best Hollywood and valentine's day special romantic movies of all time that you need watch.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>12</Category>
+  <Tag>Hollywood, Valentine's, Romance, Hollywood Romantic films, Movies</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/titanic-winslet-dicaprio.jpg' alt='' /&gt;&lt;p&gt;Winslet and DiCaprio play eternal lovers in Titanic, read out the best Hollywood and valentine's day special romantic movies of all time that you need watch.&lt;/p&gt;</Description>
+  <Text>&lt;p class="clearfix"&gt;
+    With
+    &lt;img style="width: 400px;" title="Love Actually_Hugh n Martine" class="pull-right"
+        alt="" src="//rockying.com/art/Love-Actually-Hugh-and-Martine.jpg" /&gt;
+    the valentine day just round the corner we thought what better than to jump into
+    the lovely red fever all around. So, dip into those chocolate boxes, jewelry, and
+    romantic take outs and celebrate it like it was meant to be. Yes, for those of you
+    not romantic enough and don’t understand what the hype is, try getting into all
+    of it for the moment. What goes in being all loving for one day?&lt;br /&gt;
+    &lt;br /&gt;
+    So, our pick of five &lt;b&gt;Hollywood movies &lt;/b&gt;those make for great viewing on the
+    big V day. Whether your single or have a partner to enjoy the movies with, it really
+    doesn’t matter. Keep the bigger picture of love in mind, literally!
+&lt;/p&gt;
+&lt;h5&gt;
+    LOVE ACTUALLY
+&lt;/h5&gt;
+&lt;img style="width: 550px;" title="Love Actually" alt="" src="//rockying.com/art/love_actually1811.jpg" /&gt;
+&lt;p&gt;
+    In the cynical world that we live, over eight London couples show us that Love does
+    triumph and it is what we should believe in. Following the lives of the characters
+    starting from five weeks before Christmas, the movies takes us through the turmoils
+    and turns of heart break proposals, marriages and relationships in general. Also,
+    the intertwining of lives keeps one interested till the end. With a huge star cast,
+    it delivers a lot of punch.&lt;br&gt;
+&lt;/p&gt;
+&lt;h5&gt;
+    ETERNAL SUNSHINE OF THE SPOTLESS MIND&lt;/h5&gt;
+&lt;img style="width: 400px;" title="Eternal sunshine of the Spotless mind" alt="" src="//rockying.com/art/eternalsunshineofthespotlessmindpic.jpg" /&gt;
+&lt;p&gt;
+    After their relationship starts degrading, a couple goes through a procedure so
+    as to erase their memories of each other. However, they discover that they fall
+    back in love all over again after losing each other. Though the movie might be confusing
+    at times because of the constant flashbacks; it makes for a great romantic sci-fi!
+    However, if you are looking for mush; you might want to pass on this one. Starring:
+    Kate Winslet and Jim Carrey.&lt;/p&gt;
+&lt;h5&gt;
+    PRIDE AND PREJUDICE&lt;/h5&gt;
+&lt;img style="width: 400px;" title="Pride N Prejudice" alt="" src="//rockying.com/art/Pride-Prejudice.jpg" /&gt;
+&lt;p&gt;
+    Mr. Darcy. That is all the reason one needs to watch the movie for. Two people totally
+    meant for each other finds themselves attracted towards the other but Pride of one
+    and Prejudice of the other doesn’t make it so easy. Starring the Oh-so-beautiful
+    Keira Knightley and Mathhew MacFadyan, this flick is a must watch today.
+&lt;/p&gt;
+&lt;h5&gt;
+    TITANIC&lt;/h5&gt;
+&lt;img style="width: 383px;" title="Titanic" alt="" src="//rockying.com/art/Titanic-Promo-Stills-titanic-5427494-1280-1022.jpg" /&gt;
+&lt;p&gt;
+    If you haven’t heard of this, you have been living under a rock. The super grossing
+    movie talks about the ill-fated ship and the ill-fated love of Jack and Rose. A
+    rich girl meets a happy go lucky poor buy and sparks fly. But destiny has disaster
+    in store and sacrifice and love just go hand in hand.&lt;/p&gt;
+&lt;h5&gt;
+    500 DAYS OF SUMMER&lt;/h5&gt;
+&lt;img style="width: 392px;" title="500 Days Of Summer" alt="" src="//rockying.com/art/500-Days-Of-Summer-Stills-500-days-of-summer.jpg" /&gt;
+&lt;p&gt;
+    Probably one of the most heart-breaking movie ever. The story lives the entire 500
+    day journey of Tom and Summer dating each other and eventually falling apart. Though
+    it goes back and forth it is explanatory and has its shares of laughs too. Surprise,
+    for a heart breaking movie, it does have a happy ending!
+&lt;/p&gt;
+&lt;!--&lt;img style="width: 200px;" title="Titanic" alt="" src="//rockying.com/art/freeze_titanic.jpg" /&gt;--&gt;
+&lt;p&gt;
+    So, go rent them, watch it with your loved one and remember, every day and everyone
+    is lovable. You just need to start believing in love, Valentines or no Valentines!&lt;br&gt;
+&lt;/p&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>45</URL>
+</Article>

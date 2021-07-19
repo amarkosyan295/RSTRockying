@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>15</ID>
+  <Title>Bebo All Set to become the 'Heroine'</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Kareena.jpg</OGImage>
+  <OGDescription>From the de-glamed  Naaz in her debut film Refugee to the ultra sexy Mahi Arora in Madhur Bhandarkar’s Heroine, bollywood’s 100 crore girl Kareena Kapoor has come a long way.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Kareena Kapoor, Madhur Bhandarkar, Heroine, Bebo</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://rudrasofttech.com/rockying/art/Kareena.jpg' alt='' /&gt;&lt;p&gt;From the de-glamed  Naaz in her debut film Refugee to the ultra sexy Mahi Arora in Madhur Bhandarkar’s Heroine, bollywood’s 100 crore girl Kareena Kapoor has come a long way.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;img src="http://rockying.com/art/Kareena.jpg" title="Kareena Kapoor" alt="" style="float: left;"&gt;From&amp;nbsp; the de-glamed&amp;nbsp; Naaz in her debut film Refugee to the ultra sexy Mahi Arora in Madhur Bhandarkar’s Heroine, bollywood’s 100 crore girl Kareena Kapoor has come a long way.&lt;br&gt;With offers and money pouring in, the diva is in the position where many of her counterparts would envy her, not to mention having the rare chance to work with the three Khans of Bollywood. No wonder Kareena has been there and done that!&lt;br&gt;“With great privileges come great responsibilities” ...Yes, it wasn’t&amp;nbsp; a cakewalk for Bebo to make her own mark in the industry. Bearing the Kapoor Tag, Kareena not only had to carry forward the legacy that began from the great Prithvi Raj Kapoor and the Showman himself Raj kapoor, but also was bound to be compared with sis Lolo.&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;br&gt;The girl’s journey has not been a bed of roses. After series of flops like Ashoka, Mujhse Dosti Karoge and 36 China Town, it took her a number attempts&amp;nbsp; for Kareena to start all over again.&lt;br&gt;Now that the Lass has finally established herself in the industry, everyone has their eyes on her next projects since her last ‘100 crore blockbusters have mostly been male dominated portraying her as the love interest of the ‘Bodyguard ‘(Salman Khan) and others and also considering the fact that as of now the only actress who is expected to be capable enough of working in female oriented films is Vidya Balan (The Oh la la ! connection I guess)&lt;br&gt;No, matter what the loud mouths say the 31year old managed to bag the most profitable awards for female actress in Bollywood in the ETC Bollywood Business Awards 2011 which proved her metal as an actress hands down!&lt;br&gt;However, moolah is not the only thing making her glow; it’s her marriage with beau Saif Ali Khan that is also on cards soon after the release of her and Nawab Saif’s movie Agent Vinod. &lt;br&gt;One doesn’t hesitate to say that the blockbusters 3 Idots, Bodygaurd and RaOne had male dominant&amp;nbsp; stories and that Kareena’s role was&amp;nbsp; restricted to being the love interest of the protagonist. This is one of the many reasons that Bebo’s upcoming film Heroine will be a under weather eye to being capable of running a flick on her own.&lt;br&gt;So, All eyes are now set to watch Kareena&amp;nbsp; become no. 1 again and add another Feather in the Hat. &lt;br&gt;&lt;/p&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Yashika Mathur</WriterName>
+  <WriterEmail>yashikamathur05@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

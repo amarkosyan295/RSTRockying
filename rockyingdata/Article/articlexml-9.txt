@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>9</ID>
+  <Title>7 Most Interesting Facts About Republic Day!</Title>
+  <MetaTitle>7 Most Interesting Facts About Republic Day!</MetaTitle>
+  <OGImage>http://www.rockying.com/art/India-is-Great.jpg</OGImage>
+  <OGDescription>7 Most Interesting Facts About Republic Day</OGDescription>
+  <DateCreated>2012-01-25T13:41:59.023</DateCreated>
+  <DateModified>2012-01-29T22:22:49.797</DateModified>
+  <CreatedBy>2</CreatedBy>
+  <ModifiedBy>2</ModifiedBy>
+  <ModifiedByName />
+  <Category>25</Category>
+  <Tag>Republic Day, Interesting, Facts, Funny, India, Republic, India, nation, national, 26th January</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/India-is-Great.jpg' alt='' /&gt;&lt;p&gt;7 Most Interesting Facts About Republic Day&lt;/p&gt;</Description>
+  <Text>&lt;img src="http://www.rockying.com/art/Festival/Republic-Day-2013/republic-day-2012.jpg" title="Happy Republic Day" class="pull-right";/&gt;
+&lt;p&gt;
+	To every Indian, India is like a memoir that is still incomplete. Everybody has their own version of history, politics and social interpretation but tolerance and brotherhood unite us. Every Indian is funnily cynical and yet they would run to kill if someone hurls abuses about their “Khandaan”. These extraordinary moments make India what it is today.
+&lt;/p&gt;
+&lt;p&gt;
+	So, time for the seven most interesting facts. Check them out people:
+&lt;/p&gt;
+&lt;ol class="left"&gt;
+	&lt;li&gt;
+		Republic Day celebrations actually last for three days! The Beating Retreat is held at the end of the third day marking the end of Republic Day.
+	&lt;/li&gt;
+	&lt;br /&gt;
+	&lt;li&gt;
+		There are just two original copies of the Constitution in the country written in Hindi and English. They have been preserved in helium-filled cases in the Parliament of India. This constitution has been calligraphed and not printed. Such photo lithographic copies are in circulation and only 1000 copies have been written till date.
+	&lt;/li&gt;
+	&lt;br /&gt;
+	&lt;li&gt;
+		The President addresses the Republic Day whereas; the Prime Minister addresses the Independence Day.
+	&lt;/li&gt;
+	&lt;br /&gt;
+	&lt;li&gt;
+		Our Constitution is the longest in the world. You definitely cannot read it in a single day.
+	&lt;/li&gt;
+	&lt;br /&gt;
+	&lt;li&gt;
+		Now, writing the constitution was not simple. The Assembly gathered for 166 days that was spread over two years, 11 months and 18 days before the final version was formed. Yes, it was all hand-written and it was on the 26th of January that marked the celebration of Independence in its true sense.
+	&lt;/li&gt;
+	&lt;br /&gt;
+	&lt;li&gt;
+		The Constitution came into a legal circulation at 10:18 AM on the 26th of January, 1950.
+	&lt;/li&gt;
+	&lt;br /&gt;
+	&lt;li&gt;
+		During The Beating Retreat, ‘Abide with Me’ is the song that is played to mark the end of the ceremony.
+	&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+	For most of us it makes a perfect holiday and not many of us contribute to the national cause on this particular day. You might also find some diligent workers working from home to meet their last minute targets! The Constitution of India states the use of personal rights. Where is yours?
+&lt;/p&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>719</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>most-interesting-facts-about-republic-day</URL>
+</Article>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>105</ID>
+  <Title>Unwanted Jobs, Invisible Initiatives !</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Initiative/Unwanted%20JObs/licensed-coolie.jpg</OGImage>
+  <OGDescription>Do what the heart feels like, preaches 3 Idiots. Does it apply to the marginalized sections of society? Do they even have ample choices to think of? Loot and theft were other easier options for some instant cash. So why didn’t they? This is why we pay a small tribute to these unsung heroes of everyd</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>14</Category>
+  <Tag>Initiatives, Society</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;p&gt;&lt;br&gt;&lt;span style="font-size: 12pt; line-height: 115%;"&gt;&lt;/span&gt;&lt;span style="font-size:12.0pt;line-height:115%"&gt;&lt;/span&gt;&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    Do what the heart feels like, preaches &lt;a href="http://en.wikipedia.org/wiki/3_idiots"
+        target="_blank"&gt;3 Idiots&lt;/a&gt;. Does it really apply to the marginalized sections
+    of society? Do they even have ample choices to think of? How often do we forget
+    people who show sparks of initiative that go unnoticed…Did you actually ‘see’ your
+    garbage girl today or know the name of the sweeper who sweeps your locality every
+    morning? Do we think of what impetuses do they have to live a life so microcosmic?
+    They could have chosen to be something else but this is what they choose to do.
+    Loot and theft were other easier options for some instant cash. So why didn’t they?
+    This is why we pay a small tribute to these unsung heroes of everyday life:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            THE SCAVENGERS OF SOCIETY- SWEEPERS/ RAG PICKERS/ HOUSE MAIDS&lt;/h5&gt;
+        &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/Unwanted%20JObs/Scavengers.jpg"
+            title="The Scavengers" alt="" style="width: 700px;" /&gt;
+        &lt;p&gt;
+            We wash our hands right after we give away our day’s bin to the sweepers or the
+            garbage collectors. They are the official scavengers of our society. Do they just
+            do it for money? One can ascribe to the fact that they existed from the Mughal times
+            cleaning dry latrines and other menial jobs. And we all know how dependant we are
+            on them. While foreign countries have better mobile gadgets for roadside cleaning
+            and disposal, for Indian sweepers it is a hand job. It is time we understand their
+            plight. So do not make a fuss when your maid does not turn up for a day or two.
+            They deserve a time-off. &lt;a href="http://www.rockying.com/p/110"&gt;Read more&lt;/a&gt; to
+            see how an honest rag-picker returned belongings of over Rs 8 lakhs to the owner.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            LIVING WITH THE DEAD- MORTICIANS&lt;/h5&gt;
+        &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/Unwanted%20JObs/Cobbler%20%281%29.jpg"
+            title="Morticians and A Cobbler" alt="" style="width: 700px;" /&gt;
+        &lt;p&gt;
+            One of the darkest and gloomiest professions of our times, morticians are people
+            who burn dead bodies in the morgue.&amp;nbsp; Imagine visiting to the morgue and not
+            finding anyone around to help you with the last rites. Scary, isn’t it? They do
+            not need a qualification to get into such jobs, but their jobs are actually recession
+            proof! Until recently, some have started providing personalized services to households.
+            Why do they work? Death is inevitable and so we need them for that final farewell
+            from life. Think!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            A COBBLER'S INCENTIVE&lt;/h5&gt;
+        &lt;p&gt;
+            A rather insignificant guy sitting under the tree and charging not less than Rs
+            5- 10 for a shoe fix or a shoe polish. He works with a lot of attention and does
+            not seem de-motivated at work. Not having a fixed income, did you ever think what
+            keeps them going? They can work only during the day time as for most of them a light
+            source is economically beyond reach. Such a class of people cannot choose a different
+            profession. They inherit the skill from their fathers and are happy enough to realize
+            that at least they are employed.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            SHIP BREAKERS&lt;/h5&gt;
+        &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/Unwanted%20JObs/Coolie.jpg"
+            title="Ship-Breakers, A Coolie and A Rickshaw Puller" alt="" style="width: 700px;
+            height: 153px;" /&gt;
+        &lt;p&gt;
+            Ever heard of them? When a ship loses its life on sea, it is sent to the scrapyard
+            where people scrap and break the body of the ship with their hands. Diffusing toxic
+            wastes into the air, this is one of the most dangerous and controversial jobs that
+            people can work in. The workers out here are desperate for work and are ready to
+            work bare foot in the midst of kilos of rusting metal sheets fearing explosions
+            and fumes. If it is solely because of money then Marx, Engels and we need to think
+            of how humanistic we all are.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            A BURDENED CLASS- COOLIES/ RICKSHAW PULLERS&lt;/h5&gt;
+        &lt;p&gt;
+            “Saab, do sau rupiya lagega.” “Nahi 50 me baat karo”. “Saab bahut bhaari samaan
+            hai”… we can negotiate for hours with a coolie for the correct price he should charge.
+            Despite the coolie unions in India have developed actively, their condition is still
+            pretty much the same. The coolie rights are 7 years behind schedule so they go ahead
+            and charge the customer a higher price. Can you even imagine yourself pulling someone
+            on a rickshaw in as hot as&amp;nbsp; Indian summers? So why do they work? Not many of
+            us like dragging our own luggage on the railway platform and metal trolleys hardly
+            exist. It is time to sense their long silence breeding under the pressure of the
+            daily weights they carry.
+            &lt;br&gt;
+        &lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    I am sure we will not remember the faces for long but they are people doing their
+    jobs, day after day – facing the same grind. We hope the gyre turns some day for
+    a better future.
+&lt;/p&gt;
+&lt;h6&gt;
+    Let us be proactive and sensitize ourselves towards them. Blog, comment and engage
+    in social media for your opinions and reviews on this issue. Voice your views below
+    and we will help spread it further!&lt;/h6&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

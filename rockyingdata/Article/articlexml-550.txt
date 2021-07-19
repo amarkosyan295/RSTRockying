@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>fAqGtaztTsYP</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>HE0Gp</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>18</Category>
+  <Tag>SKVY6F</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;HE0Gp&lt;/p&gt;</Description>
+  <Text>Could you ask her to call me? http://keandra.in.net/ www.keandra.com  * Irving Oil Co could be facing some hefty fines after itwas determined the crude oil involved in the Lac-M&amp;#195;&amp;#169;ganticdisaster had been improperly labeled. The Transportation SafetyBoard said on Wednesday its investigation into the July 6Lac-M&amp;#195;&amp;#169;gantic derailment, in which 47 people died, determined theoil contained in the railcars was mislabeled and more flammablethan previously thought. ()</Text>
+  <WriterName>yUGHC</WriterName>
+  <WriterEmail>erniepei@aol.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>faqgtazttsyp</URL>
+</Article>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>mZEZIDWDCgWHr</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>KzDTC</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>18</Category>
+  <Tag>H1qBZ</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;KzDTC&lt;/p&gt;</Description>
+  <Text>PpOIGh  &amp;lt;a href=&amp;quot;http://huzvowkmshfp.com/&amp;quot;&amp;gt;huzvowkmshfp&amp;lt;/a&amp;gt;, [url=http://rqjdfhkohlco.com/]rqjdfhkohlco[/url], [link=http://yyittetmmpgt.com/]yyittetmmpgt[/link], http://knuwxgaouogg.com/</Text>
+  <WriterName>uxZ0m</WriterName>
+  <WriterEmail>bhccrb@tondbs.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>mzezidwdcgwhr</URL>
+</Article>

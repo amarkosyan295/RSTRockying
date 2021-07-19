@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>122</ID>
+  <Title>Hope n Hollywood Hand in Hand.</Title>
+  <MetaTitle>Love movies, Hope Movies, Hollywood Movies</MetaTitle>
+  <OGImage>//www.rockying.com/art/HOllywood/Hope/the-bucket-list.jpg</OGImage>
+  <OGDescription>we focus so much on the bigger picture that we miss out smaller more significant things. The Hollywood movies that full of Hope and Loves.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>12</Category>
+  <Tag>Hollywood Movies, Hope Movies, Hollywood</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/HOllywood/Hope/the-bucket-list.jpg' alt='' /&gt;&lt;p&gt;we focus so much on the bigger picture that we miss out smaller more significant things. The Hollywood movies that full of Hope and Loves.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+        &lt;b&gt;A&lt;/b&gt;ll of us watch movies for different reasons&amp;nbsp; - for the romance in it,
+        the entertainment, for the sheer drama or just to beat the blues. We at &lt;a href="http://www.facebook.com/RockyingMag"&gt;
+            Rockying&lt;/a&gt; love movies and recommending the best of every kind is almost our
+        mission now.&lt;/p&gt;
+    &lt;p&gt;
+        Going with the flow of just that spirit, we thought of bringing to the forefront
+        some movies that make you end on a happy note. Most movies do actually, but here
+        are some that focus on the power of hope and happiness both rolled into one. Often
+        in life, we focus so much on the bigger picture that we miss out on smaller more significant
+        things. And then, comes along a movie that makes us realize that life is definitely
+        beautiful and there is so much to take from it. &lt;b&gt;Here are some hand-picked movies
+            that not only make you smile but fill you with hope for a better tomorrow:&lt;br&gt;
+        &lt;/b&gt;
+    &lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;
+            &lt;h3&gt;
+                UNDER THE TUSCAN SUN&lt;/h3&gt;
+            &lt;img src="//rockying.com/art/HOllywood/Hope/Tuscany.jpg" title="Under The Tuscan Sun" alt="" style="width: 500px;"&gt;
+            &lt;p&gt;
+                Having just been through a divorce, a writer buys a villa in Tuscany in hopes that
+                it will be the first step to bring about the changes in life that she has always
+                hoped for.
+            &lt;/p&gt;
+            &lt;p&gt;
+                Based on Frances Mayes’ memoir of the same name; it highlights a woman struggle
+                in building a new home, a new life, and in finding love.&lt;/p&gt;
+            &lt;p&gt;
+                But most importantly it brings to notice the fact that she restores her life all
+                through it.
+            &lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;h3&gt;
+                THE BUCKET LIST&lt;/h3&gt;
+            &lt;p&gt;
+                &lt;img src="//rockying.com/art/HOllywood/Hope/the-bucket-list.jpg" title="The Bucket List" alt="" style="width: 500px;"&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;blockquote&gt;&lt;p&gt;Though it
+                begins with the story of two terminally ill patients meeting at the hospital room;
+                it goes on to have them lead their remaining lives just as they would have wanted
+                to all the way along.
+            &lt;/p&gt;&lt;/blockquote&gt;
+            &lt;blockquote&gt;
+                Brilliant performances by Jack Nicholson and Morgan Freeman is just like the icing
+                on the cake. The movie ends with the obvious; but with both the actors living their
+                remaining life to the fullest; enjoying it all along.&lt;/blockquote&gt;
+        &lt;ul&gt;
+        &lt;li&gt;
+            &lt;h3&gt;
+                EAT, PRAY, LOVE&lt;/h3&gt;
+            &lt;p&gt;
+                &lt;img src="//rockying.com/art/HOllywood/Hope/Eat-Pray%20-Love.jpg" title="Eat Pray Love" alt="" style="width: 500px;"&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;blockquote&gt;&lt;p&gt;Based on Elizabeth
+                Gilbert’s memoir of the same name; it highlights her story of self discovery. Post
+                divorce, Elizabeth goes on a journey to three different countries and accounts her
+                experiences that made the better, far more nurtured and a wonderful human inside
+                out.&lt;br&gt;&lt;/p&gt;&lt;p&gt;She indulges in good food in Italy, gets in touch with her spiritual side in India
+                and then to bring it all to a full circle goes to Indonesia where she eventually
+                finds love.&lt;/p&gt;&lt;p&gt;A wonderful rendition of triumph over all that life offers.
+            &lt;/p&gt;&lt;/blockquote&gt;&lt;ul&gt;
+        &lt;li&gt;
+            &lt;h3&gt;
+                THE PURSUIT OF HAPPYNESS&lt;/h3&gt;
+            &lt;p&gt;
+                &lt;img src="//rockying.com/art/HOllywood/Hope/The-Pursuit-of-Happyness.jpg" title="The Pusuit Of Happyness" alt="" style="width: 500px;"&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;blockquote&gt;&lt;p&gt;Yes,
+                happyness is spelt wrong and you will understand why only after you watch the movie.An autobiographical movie based on Chris Gardeners struggle with homelessness. &lt;br&gt;&lt;/p&gt;&lt;p&gt;Will
+                Smith, in one of his best portrayals, shows what Chris Gardener stood for - determination,
+                strength and a rock solid belief that efforts will definitely pay off. It shows
+                how struggle turns into transforming Chris into one of the biggest stock brokers
+                and entrepreneur of recent times.
+            &lt;/p&gt;&lt;/blockquote&gt;&lt;ul&gt;&lt;li&gt;
+            &lt;h3&gt;
+                WHAT’S LOVE GOT TO DO WITH IT&lt;/h3&gt;
+            &lt;p&gt;
+                &lt;img src="//rockying.com/art/HOllywood/Hope/whats-love-got-to-do-with-it.jpg" alt="" title="Whats love got to do with it" style="width: 500px;"&gt;&lt;/p&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;blockquote&gt;&lt;p&gt;Based
+                on Tina Turner’s rise to fame and struggle that follow it; this movie is an epic
+                when it comes to portrayals of musicians. The movie covers areas of Tina Turner’s
+                troubled childhood and her equally troubled marriage. But she beats all odds and
+                her belief makes her the superstar she will always be remembered for.Here are our
+                pick of some of the most touching movies that leave the viewer with hope and determination
+                for a better tomorrow. Not only do these entertain, they linger on with a sense
+                of achievement in the audience.&lt;span style="font-weight: bold;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;h5&gt;Do tell what your favorite “hope” movie is?&lt;/h5&gt;&lt;/blockquote&gt;
+        &lt;br&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>hope-n-hollywood-hand-in-hand</URL>
+</Article>

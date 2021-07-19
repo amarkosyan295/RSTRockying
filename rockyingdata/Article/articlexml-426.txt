@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>DXRZGFnBnkkDFPDR</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>USA</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>25</Category>
+  <Tag>USA</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;USA&lt;/p&gt;</Description>
+  <Text>8JXF4S Thanks for sharing, this is a fantastic blog article.Really thank you! Awesome.</Text>
+  <WriterName>mia pron khalifa</WriterName>
+  <WriterEmail>email@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>dxrzgfnbnkkdfpdr</URL>
+</Article>

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Rockying Bollywood Quiz- I</Title>
+  <MetaTitle>Rockying Bollywood Quiz- I</MetaTitle>
+  <OGImage>//www.rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-1/rang-de-basanti.jpg</OGImage>
+  <OGDescription>Test your self with the most interesting film-quiz accumulation..."Its Bollywood-Gyan at Rockying" time folks!</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Quiz, Bollywood Quiz, Rang De Basanti, Chak De! India.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-1/rang-de-basanti.jpg' alt='' /&gt;&lt;p&gt;Test your self with the most interesting film-quiz accumulation..."Its Bollywood-Gyan at Rockying" time folks!&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;button id="prevslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+        font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+        padding: 0px; background-color: transparent;'&gt;
+        &amp;lsaquo;
+    &lt;/button&gt;
+    &lt;button id="nextslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+        font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+        padding: 0px; background-color: transparent;'&gt;
+        &amp;rsaquo;
+    &lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="slideshow"&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="rstquestion"&gt;
+            &lt;h4&gt;
+                Which south Indian superstar played Bhagat Singh in Rakesh Mehra’s Rang De Basanti?&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li data-anwser="correct"&gt;
+                        Siddharth
+                &lt;/li&gt;
+                &lt;li&gt;
+                        Madhvan
+                &lt;/li&gt;
+                &lt;li&gt;
+                        Kunal Kapoor
+                &lt;/li&gt;
+                &lt;li&gt;
+                        Sharman Joshi
+                &lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="rstquestion"&gt;
+            &lt;h4&gt;
+                What does ‘Karan’ do to his father, discovering that he was one of the culprits
+                behind Ajay’s death, in Rakesh Mehra's Rang De Basanti?&lt;/h4&gt;
+            &lt;ul class="options"&gt;
+                &lt;li&gt;
+                        Leaves him
+                &lt;/li&gt;
+                &lt;li data-anwser="correct"&gt;
+                        Kills Him
+                &lt;/li&gt;
+                &lt;li&gt;
+                        Robs all his money
+                &lt;/li&gt;
+                &lt;li&gt;
+                        Hands him over to the police
+                &lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="rstquestion"&gt;
+            &lt;h4&gt;
+                Which historical character does Atul Kulkarni volunteer to play in the docu-drama
+                being made by ‘Su’ in Rang De Basanti?&lt;/h4&gt;
+            &lt;ul class="options"&gt;
+                &lt;li&gt;
+                        Bhagat Singh
+                &lt;/li&gt;
+                &lt;li data-anwser="correct"&gt;
+                        Ashfaqullah Khan
+                &lt;/li&gt;
+                &lt;li&gt;
+                        Sukhdev
+                &lt;/li&gt;
+                &lt;li&gt;
+                        Ram Prasad Bismil
+                &lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="rstquestion"&gt;
+            &lt;h4&gt;
+                Which famous singer also known as Sujata Bhattacharya sang ‘Tu bin batae…” in the
+                film Rang De Basanti?&lt;/h4&gt;
+            &lt;ul class="options"&gt;
+                &lt;li&gt;
+                        Madhushree
+                &lt;/li&gt;
+                &lt;li&gt;
+                        Bombay Jayashri
+                &lt;/li&gt;
+                &lt;li data-anwser="correct"&gt;
+                        Lata Mangeshkar
+                &lt;/li&gt;
+                &lt;li&gt;
+                        Chinmayee
+                &lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="rstquestion"&gt;
+            &lt;h4&gt;
+                Which of these is a television presenter and entrepreneur and has also sung for
+                A.R. Rehman in films like Guru and Mangal Pandey?&lt;/h4&gt;
+            &lt;ul class="options"&gt;
+                &lt;li&gt;
+                        Madhushree
+                &lt;/li&gt;
+                &lt;li data-anwser="correct"&gt;
+                        Jayashri
+                &lt;/li&gt;
+                &lt;li&gt;
+                        Chinmayi
+                &lt;/li&gt;
+                &lt;li&gt;
+                        Asha Bhosle
+                &lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="rstquestion"&gt;
+            &lt;h4&gt;
+                Which famous T.V. actress played Shahrukh Khan’s mother in Chak De India?&lt;/h4&gt;
+            &lt;ul class="options"&gt;
+                &lt;li&gt;
+                        Neelima Azeem
+                &lt;/li&gt;
+                &lt;li data-anwser="correct"&gt;
+                        Joyoshree Arora
+                &lt;/li&gt;
+                &lt;li&gt;
+                        Himani Pathak
+                &lt;/li&gt;
+                &lt;li&gt;
+                        Archna Puran Singh
+                &lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="rstquestion"&gt;
+            &lt;h4&gt;
+                Which country does the Indian Hockey Team plays the semi-final with, in Shahrukh
+                Khan’s sports movie Chak De India?&lt;/h4&gt;
+            &lt;ul class="options"&gt;
+                &lt;li&gt;
+                        Australia
+                &lt;/li&gt;
+                &lt;li data-anwser="correct"&gt;
+                        Korea
+                &lt;/li&gt;
+                &lt;li&gt;
+                        England
+                &lt;/li&gt;
+                &lt;li&gt;
+                        Argentina
+                &lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="rstquestion"&gt;
+            &lt;h4&gt;
+                Who represented Haryana in the Women’s Hockey Team of the film Chak De India?&lt;/h4&gt;
+            &lt;ul class="options"&gt;
+                &lt;li&gt;
+                        Preeti Sabarwal
+                &lt;/li&gt;
+                &lt;li data-anwser="correct"&gt;
+                        Komal Chautala
+                &lt;/li&gt;
+                &lt;li&gt;
+                        Gunjan Lakhani
+                &lt;/li&gt;
+                &lt;li&gt;
+                        Balbir Kaur
+                &lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="rstquestion"&gt;
+            &lt;h4&gt;
+                Chak De! India fame Shimit Amin has directed another film casting Ranbeer Kapoor
+                in it, name it.&lt;/h4&gt;
+            &lt;ul class="options"&gt;
+                &lt;li&gt;
+                        Wake Up Sid
+                &lt;/li&gt;
+                &lt;li&gt;
+                        Bachna Ae Haseenon
+                &lt;/li&gt;
+                &lt;li&gt;
+                        Ajab Prem ki Gazab Kahani
+                &lt;/li&gt;
+                &lt;li data-anwser="correct"&gt;
+                        Rocket Singh
+                &lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="rstquestion"&gt;
+            &lt;h4&gt;
+                Which match in the world cup Hockey in the film Chak De turned out to be the most
+                violent?&lt;/h4&gt;
+            &lt;ul class="options"&gt;
+                &lt;li&gt;
+                        One with Australia
+                &lt;/li&gt;
+                &lt;li&gt;
+                        One with Koreaa
+                &lt;/li&gt;
+                &lt;li&gt;
+                        One with Germany
+                &lt;/li&gt;
+                &lt;li data-anwser="correct"&gt;
+                        One with Argentina
+                &lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        Are you the biggest bollywood bug? Take the &lt;a href="http://www.rockying.com/a/220"&gt;
+            Rockying Dialogue Quiz&lt;/a&gt;, now!
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <WriterName>Rockying</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>rockying-bollywood-quiz-1</URL>
+</Article>

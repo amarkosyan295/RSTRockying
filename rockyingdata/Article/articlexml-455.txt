@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Everything You Need to Know About Plastic Pollution and How India is Fighting It to Save Mother Earth</Title>
+  <MetaTitle>Plastic Pollution on Earth; Is India Doing anything About It? </MetaTitle>
+  <OGImage>http://www.rockying.com/art/Awareness/Plastic-Pollution/Plastic-Junk-inside-Marine-Life.jpg</OGImage>
+  <OGDescription>The theme of World Environment Day (organized by the United Nations on 5th of June every year) hosted by India in 2018 was #BeatPlasticPollution. The message to protect our Environment was communicated as, “if you can’t reuse it, refuse...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>20</Category>
+  <Tag>Plastic pollution, India, Earth Day, World Environment Day, Carbon Footprint, Recycling Plastic Waste, Plastic Waste Management.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Awareness/Plastic-Pollution/Plastic-Junk-inside-Marine-Life.jpg' alt='' /&gt;&lt;p&gt;The theme of World Environment Day (organized by the United Nations on 5th of June every year) hosted by India in 2018 was #BeatPlasticPollution. The message to protect our Environment was communicated as, “if you can’t reuse it, refuse...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+Plastic pollution is a global phenomenon that has turned into a menace simply because of our careless usage patterns and irresponsible disposal behaviours. Where we are actually
+supposed to be able to differentiate between single-use and reusable plastic bags, we simply utilise them and then dump the plastic waste, carelessly, everywhere we can.
+&lt;/p&gt;
+&lt;p&gt;
+Our plastic waste gets dumped into the oceans, at the parks, near the seashores, and even outside of the garbage cans. Yes, it’s ridiculous that we don’t even care to dump the plastic items—street food wrappers, disposables, chopsticks, knives, spoons, forks, bottles, cups, cutlery, straws, and plates—inside the designated garbage cans. This must change. Every act of responsible plastic management, no matter how small, matters.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Awareness/Plastic-Pollution/plastic-waste.jpg" alt="Discarded Plastic Bottles" title="Discarded Plastic Bottle Waste"&gt;
+&lt;hr&gt;
+&lt;p&gt;
+Plastic pollution involves (single-use or reusable) plastic objects (plastic bottles and straws, plastic bags and toys, packaging plastics, etc.) present in the Earth&amp;#39;s environment, resulting in adversely influencing wildlife, flora, fauna, oceans and seafood, landscapes and humans. When plastic mistakenly gets consumed by animals (terrestrial and aquatic), it enters our food-chain. It’s also known to congest the drainage systems, causing troubles of massive magnitude in our daily lives.
+&lt;/p&gt;
+&lt;p&gt;
+The theme of World Environment Day (organized by the United Nations on 5th of June every year) hosted by India in 2018 was #BeatPlasticPollution. The message to protect our Environment was communicated as “if you can’t reuse it, refuse it.” 
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Awareness/Plastic-Pollution/Cant-Re-use-Refuse.jpg" alt="Can't Re-Use-Refuse" title="Can't Re-Use, Refuse"&gt;
+&lt;hr&gt;
+&lt;p&gt;
+With over 8 million tonnes of plastic finding its place in the oceans worldwide, the magnitude of damage
+can simply be gauged by the resultant consequences of 600 marine species getting affected by marine litter alone
+(per the UN Environment). 
+&lt;/p&gt;
+&lt;p&gt;
+To tackle this worrying reality, in February 2017, the UN Environment launched its &lt;b&gt;CleanSeas&lt;/b&gt; global campaign. This promising initiative is meant to create an ecosystem of governments, the public,
+civil society, and the private sector for combating marine plastic litter. The CleanSeas campaign aims to achieve its objectives by way of implementing a five-year strategy to educate and engage the citizens, ensure government and private sector partnerships, and strengthen the continuation of plastic waste management around the world. 
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Awareness/Plastic-Pollution/Plastic-Waste-in-Oceans.jpg" alt="Plastic Waste in Oceans" title="Plastic Waste in Oceans"&gt;
+&lt;hr&gt;
+&lt;p&gt;
+The &lt;b&gt;CleanSeas&lt;/b&gt; campaign is essentially inspired by the removal of 4.9 million kgs of trash under the beach clean-up initiative implemented by the Versova Residents Volunteers (VRV) along with the efforts of the local residents and fishermen at the Versova beach, Mumbai, India. This led to the launch of a similar initiative for cleaning the archipelago of Indonesia, where the CleanSeas campaign was launched by the UN Environment on the occasion of the Economist World Ocean Summit.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Plastic: A Historical Timeline of the Material&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;
+In its earliest history of origin, the first recorded reference to the usage of natural plastic (horn and tortoiseshell) was by The Worshipful Company of Horners, London, 1284. This Livery Company started supporting the plastics industry in 1943. Other forms of natural plastics include rubber and silk (but these don’t lead to environmental pollution). In the 1820s, the vulcanised rubber Parkesine and cellulose were developed. The material known today as synthetic plastic was first invented by the English metallurgist and inventor, Alexander Parkes, during the Great International Exhibition (1862) in London. 
+&lt;/p&gt;
+&lt;p&gt;
+The cellulose nitrate replaced horn for making combs in 1880. In 1885, the American entrepreneur and founder of Eastman Kodak Company, George Eastman Kodak patented the machine for producing
+cellulose nitrate-based continuous photographic film (thereby promoting the use of plastic film rolls and mainstreaming photography). With the invention of Bakelite in 1907, the material referred to as really synthetic plastic
+(non-biodegradable) resins entered world commerce.
+&lt;/p&gt;
+&lt;p&gt;
+The term “plastic” was coined in 1925 from the Greek word “plastikos.” In 1930, the transparent ‘Scotch tape’ was invented by 3M Company in the U.S. In 1933, polyvinylidene chloride or PVDC was coincidentally discovered by Dow Chemical lab’s Ralph Wiley. Monsanto, in 1945, initiated with its Sqezy (LDPE material) bottle the substitution of glass bottles with plastic containers to store liquid soaps and shampoos. Then the Barbie Doll was exhibited by Mattel at American International Toy Fair in 1959. 
+&lt;/p&gt;
+&lt;p&gt;
+1965 saw the development of Kevlar® by DuPont. Notably, the widespread adoption of various plastic forms in everyday life began to take shape in 1976 as it was in 1973 that the polyethylene terephthalate beverage bottles were introduced. This phenomenon was then followed by the introduction at a commercial level of mobile and portable phones in 1979. Tony Fadell invented (Apple) iPod in 2001.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Tyes of Plastics&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;
+Essentially, the plastic material is classified into 7 categories in order to ease its recycling and disposal (in 1988 the ‘triangular recycling symbols’ for plastics were introduced): These 7 categories per the coding system are as follows: 
+&lt;/p&gt;
+&lt;ol class="left"&gt;
+&lt;li&gt;PET or PETE (polyethylene terephthalate)&lt;/li&gt;
+&lt;li&gt;HDPE (High-density polyethylene plastics)&lt;/li&gt;
+&lt;li&gt; Vinyl or PVC (Polyvinyl Chloride)—the most highly manufactured and used plastic form, the plasticised PVC was invented in 1926 by Waldo Lonsbury Semon and B.F. Goodrich Company (the original PVC was accidentally synthesized by Eugen Baumann in 1872)&lt;/li&gt;
+&lt;li&gt;LDPE (Low-density polyethylene)&lt;/li&gt;
+&lt;li&gt;PP (Polypropylene)&lt;/li&gt;
+&lt;li&gt;PS (Polystyrene)&lt;/li&gt;
+&lt;li&gt;Miscellaneous &lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2&gt;When It All Went Out of Control!&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;
+It was in 1954 that the Extruded Polystyrene or Styrofoam was introduced in making disposable cups and packaging fast food. This event in the history of global plastic pollution is crucial to be mentioned since it marked the beginning of global non-recycled plastic usage.
+&lt;/p&gt;
+&lt;p&gt;
+In 1977, the brown paper bags were replaced by plastic bags at the checkout counters of grocery stores in the U.S. Per the research conducted by trade association PlasticsEurope, world plastic production increased from around 1.5 million tons in 1950 to approximately 275 million tons in 2010.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Is India Doing Her Bit?&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;
+India has a coastline of around 7,500 kms. The commitment of the Government to make India a plastic-free nation by
+2022 has motivated the decision to contribute to the CleanSeas campaign and further the sustainable and green
+development. 
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Awareness/Plastic-Pollution/PLASTIC-WASTE-NEW-DELHI.jpg" title="Plastic Waste New Delhi India" alt="Plastic Waste New Delhi India"&gt;
+&lt;hr&gt;
+&lt;p&gt;
+With the same spirit, the ambitious &amp;#39; Swachh Bharat Mission (SBM)&amp;#39; was also launched, having plastic
+waste management at its core. This promising movement supported also by the participation of various celebrities
+urging to replace plastic materials with more eco-friendly alternatives, was the result of a burgeoning problem of
+enormous ocean garbage scraps that have become a reality around various ocean shores globally. 
+&lt;/p&gt;
+&lt;p&gt;
+It’s the inexpensive nature of plastic bags that have actually led to the massive adoption on a day-to-day basis for carrying
+grocery and fast foods or in the form of water bottles and straws. Also under the SBM campaign, the Gurgaon (India)
+city-based Gem Enviro Management Limited company initiated offering Rs. 1.00 per plastic bottle deposited by the
+people to recycle via reverse vending machines.
+&lt;/p&gt;
+&lt;p&gt;
+Furthering the ambitious SBM, the Ministry of Environment and Forest &amp;amp; Climate Change recently amended the rules
+governing plastic waste management. Now referred to as Plastic Waste Management (Amendment) Rules, 2018, the
+new rules entail adhering to extended producer responsibility (EPR)—requiring the waste produced from some of the
+manufacturers’ products gathered and segregated at the source for recycling by way of a systematically organised
+infrastructure. 
+&lt;/p&gt;
+&lt;p&gt;
+Several other initiatives by the government to tackle the plastic pollution issue in India include: the
+utilisation of industrial processes’ waste materials as alternative fuel or raw material by the cement manufacturers in
+Gujarat; the school level “Beat Plastic Pollution” initiative taken by Sustainable Environment and Ecological
+Development Society (SEEDS), East Delhi; manual removal of plastic materials from the seas and nets in Kerala;
+reusing plastic material in other infrastructural activities—viz. road construction; the government declaring over 100-
+plus national monuments to be no-litter zones.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Awareness/Plastic-Pollution/Waste-Management-by-Segregation.JPG" alt="Waste Segregation" title="Waste Management by Segregation"&gt;
+&lt;hr&gt;
+&lt;h2&gt;What We Can Do About the Menace at Hand &lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;
+The small actions, behavioural and attitudinal alternations that we can inculcate in our consumption-oriented consumerism obsessed culture include the following: 
+&lt;/p&gt;
+&lt;ol class="left"&gt;
+&lt;li&gt;Learn about plastic recycling (don’t irresponsibly dispose to forget about it).&lt;/li&gt;
+&lt;li&gt;Escape using Microbeads (minuscule plastic constituents). &lt;/li&gt;
+&lt;li&gt;Develop a habit to carry a reusable (e.g., a cloth bag) bag to shopping. &lt;/li&gt;
+&lt;li&gt; Educate yourself and others about plastic waste management (burning plastic harms the environment). &lt;/li&gt;
+&lt;li&gt;Act as a responsible civic citizen by organising local plastic pollution awareness programs. &lt;/li&gt;
+&lt;li&gt;Follow government and municipal corporation instructions on plastic handling. &lt;/li&gt;
+&lt;li&gt;Say ‘No’ to straws. &lt;/li&gt;
+&lt;li&gt;Quit chewing gums. &lt;/li&gt;
+&lt;li&gt;Eat whole fruits for real nutrition and avoid buying juice in plastic bottles. &lt;/li&gt;
+&lt;li&gt;Don’t use single-serving cups for fruits, snacks, yogurt, etc. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Awareness/Plastic-Pollution/litterbug.jpg"  alt="Don't Litter" title="Don't Litter"&gt;
+&lt;hr&gt;
+&lt;p class="well"&gt;
+&lt;b&gt;About Ranjan Yadav: &lt;/b&gt; La Excellence. The Superlative Man of Words &amp; Worth. A Learner for Life. This intact copywriter is a realist, uniquely positioned as an AIO writer, editor, researcher, and proofreader. He owns a consolidated experience of over a decade in industry and nonprofits, core content and SEO optimised writing, academic and professional research. He has studied economics, public administration, and policy, at the graduate and postgraduate levels. His writing variety includes Business and Management, Finance and Economy, Health and Emotional Wellness, Trends and Technology (Blockchain), Entertainment, Socioeconomics, &amp; more. His &lt;a href="http://www.rockying.com/a/274"&gt;piece on the portrayal of India's legendary freedom fighters in Hindi Films&lt;/a&gt; is one of the most read articles on the Internet. &lt;a href="https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;tf=1&amp;source=mailto&amp;to=ranjanyadav38@live.com" target="_blank"&gt;Click here and get in touch with him&lt;/a&gt;.
+&lt;/p&gt;</Text>
+  <WriterName>Ranjan Yadav</WriterName>
+  <WriterEmail>yadava.ranjan@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>everything-you-need-to-know-about-plastic-pollution-and-how-india-is-fighting-it-to-save-mother-earth</URL>
+</Article>

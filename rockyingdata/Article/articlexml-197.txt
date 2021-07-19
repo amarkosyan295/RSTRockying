@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Cult Classics Of Bollywood-III</Title>
+  <MetaTitle>Cult Classics Of Bollywood-III</MetaTitle>
+  <OGImage>//www.rockying.com/art/bollywood/Cult-classics-3/pakeezah_collage.jpg</OGImage>
+  <OGDescription>We bring you some pages from the history of Indian cinema. Modern and experimental cinema will always find their roots in classics in terms of plots and direction. With a fresh perspective, here are the five most popular  classics revisited.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Bollywood Movies, Ram Aur Shyam, Jewel Thief, Anand, Pakeezah, Zanjeer</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/bollywood/Cult-classics-3/pakeezah_collage.jpg' alt='' /&gt;&lt;p&gt;We bring you some pages from the history of Indian cinema. Modern and experimental cinema will always find their roots in classics in terms of plots and direction. With a fresh perspective, here are the five most popular  classics revisited.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    Another Friday it is and we bring you some pages from the history of Indian cinema.
+    Modern and experimental cinema will always find their roots in classics in terms
+    of plots and direction. With a fresh perspective, here are the five most popular
+    classics revisited yet again:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            RAM AUR SHYAM (1967)&lt;/h4&gt;
+        &lt;img src="//www.rockying.com/art/bollywood/Cult-classics-3/ram-aur-shyam-collage.jpg"
+            alt="Ram Aur Shyam" /&gt;
+        &lt;p&gt;
+            Released in the late 60s, this film recorded Dilip Kumar’s most memorable performance
+            in a double role. Tapi Chanakya had roped in all the bigwigs of Bollywood for this
+            film and casted Pran, Mumtaz and Waheeda Rehman for this Dumas’ The Corsican Brother’s
+            remake. The plot was fresh and new then- twins switched at birth and growing up
+            into individuals who had different dispositions. Later remakes of this film were
+            Seeta aur Geeta, Chaalbaaz and Kishan Kanhaiyya. Seems the formula worked.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            JEWEL THIEF (1967)&lt;/h4&gt;
+        &lt;img src="//www.rockying.com/art/bollywood/Cult-classics-3/Jewel-thief-collage.jpg"
+            alt="Jewel Thief" /&gt;
+        &lt;p&gt;
+            The case of impersonation by the protagonist , Jewel Thief defines the classic phenomena
+            at its best. Dev Anand’s production house made this crime thriller that still keeps
+            its audience sitting on an edge and going through an occasional nail-biting experience.
+            S. D Burman’s music, Ashok Kumar’s impeccable acting and Vyajayantimala, Tanuja
+            and Helen’s mind-blowing performances, this film is definitely a Bond-film for Bollywood.
+            Tanuja’s innocence at its best fetched her a filmfare nomination too.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            ANAND (1971)&lt;/h4&gt;
+        &lt;img src="//www.rockying.com/art/bollywood/Cult-classics-3/Anand-collage.jpg"
+            alt="Anand" /&gt;
+        &lt;p&gt;
+            Hrishikesh Mukherjee’s Anand brought Rajesh Khanna and Amitabh Bachchan under the
+            same frame. This film, extremely poetic and philosophical, narrates the human conditions
+            and death in a nuanced manner. A dying man changes a doctor’s (Amitabh’s) thinking,
+            has successfully created a cult in Hindi films. The full of life Anand teaches us
+            all to play our parts and leave the rest to the almighty. Remember-“Babu moshay,
+            zindagi aur maut to uparwale ke haath hain jahapana…hum sab to rangmanch ki kathputlyan
+            hain jinki dor upar wale ke haath me hai…”?&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            PAKEEZAH (1972)&lt;/h5&gt;
+        &lt;img src="//www.rockying.com/art/bollywood/Cult-classics-3/pakeezah-collage.jpg"
+            alt="Pakeezah" /&gt;
+        &lt;p&gt;
+            This film smells cult, cult, cult from every angle. A Lucknow tawaif’s character
+            rendered beautifully by Meena Kumari, this film took nearly 14 years for its completion.
+            Many intricate issues such as Kamal Amrohi and Meena Kumari’s marriage, Meena Kumari’s
+            terminal illness that leads to her death weeks after the movie is released and change
+            of characters during the making of the film- this film was a flop right after it
+            was released but it slowly went on to preserve itself as a success in the pages
+            of historical cinema. So many deaths surround this film- the composer Ghulam Mohammed
+            dies during his involvement with Pakeezah and Meena Kumari too was fatally ill
+            and most of her dance sequences are body doubles of dancers. The aura of this classic
+            still haunts us in the present with some path-breaking music. Cinema- life, and blood..did
+            somebody say?&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            ZANJEER (1973)&lt;/h4&gt;
+        &lt;img src="//www.rockying.com/art/bollywood/Cult-classics-3/zanjeer-collage.jpg"
+            alt="Zanjeer" /&gt;
+        &lt;p&gt;
+            Prakash Mehra brought the angry young man to celluloid. Starring Amitabh Bachchan,
+            Jaya Bhaduri, Pran, Bindu, and Ajit- this action super-hit was fantastically different
+            from the usual romantic films back then. The classic avenge of parents’ murder after
+            20 years, this film placed the action in mainstream cinema. A refreshing and welcoming
+            change after Pakeezah, reportedly collected Rs 5 crores back then at the box office.
+            Unbelievable? Believe it! Mona ne loot liya sona!&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    &lt;b&gt;The classic cults will continue as we will discuss the treasures of Hindi cinema
+    and the cults that are in the making. Let every Friday be a reveling in the marvels
+    of cult films. Coming up is the new edition &lt;a href="http://www.rockying.com/a/215"&gt;Cult Classics IV&lt;/a&gt;. Loving the series, are you?&lt;/b&gt;&lt;/p&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>197</URL>
+</Article>

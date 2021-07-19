@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Quiz 2: The Killer Dialogues!</Title>
+  <MetaTitle>Quiz 2: The Killer Dialogues!</MetaTitle>
+  <OGImage>//www.rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/Dialogue-Quiz-Anand.jpg</OGImage>
+  <OGDescription>Who is the Babu Moshai in Rajesh Khanna's famous dialogue "Babu Moshai zindagi lambi nahin badi honi chahiye"? Answer now!</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Quiz, Bollywood Quiz, Dialogues, Bollywood Dialogues, Killer Dialogues Of Bollywood.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/Dialogue-Quiz-Anand.jpg' alt='' /&gt;&lt;p&gt;Who is the Babu Moshai in Rajesh Khanna's famous dialogue "Babu Moshai zindagi lambi nahin badi honi chahiye"? Answer now!&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+There was a certain charm to old dialogues and music; dancing around trees hadn't yet taken over entirely and stories were slow and mostly depended on good writing. Not that we don't get to see good dialogues now, but it was a different era for words. If you have landed here from the &lt;a href="http://www.rockying.com/a/35"&gt;Killer dialogues of Bollywood I&lt;/a&gt;, great! If not, go check it out now and come back to play this fun dialogue quiz from the 70s and earlier. 
+&lt;/p&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;1&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/devdas-dilip-kumar-1.jpg"
+                        alt="Dilip Kumar in Devdas " /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+  &lt;h4&gt; &lt;i&gt;“Kaun Kambakht bardaasht karne ke liye peeta hai…”&lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+   This famous dialogue made alcoholism and forbidden-love fashionable. Which film does it come from?
+&lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Ram Aur Shyam&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt;Devdas (1955)&lt;/li&gt;
+        &lt;li&gt;Devdas (2002)&lt;/li&gt;
+        &lt;li&gt; Madhumati&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;    
+
+             &lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;2&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+                   &lt;img src="http://rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/Anarkali-2.jpg"
+                        alt="Madhubala as Anarkali in Mughal-e-Azam" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+  &lt;h4&gt; &lt;i&gt;“Salim tujhe marne nahin dega and Anarkali hum, tujhe jeene nahin denge…”&lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+  Which famous actor voiced this dialogue in the classic Mughal-e-Azam?
+&lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Dilip Kumar&lt;/li&gt;
+        &lt;li&gt;Shammi Kapoor&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt;Prithvi Raj Kapoor&lt;/li&gt;
+        &lt;li&gt; Ajeet&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;                                     
+                           
+   &lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;3&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+                   &lt;img src="http://rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/Raj-Kumar-Waqt-3.jpg"
+                        alt="Raj Kumar in the movie Waqt" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+  &lt;h4&gt; &lt;i&gt;“_ _ _ _ _ _ wo dusron par pathhar nai phenka karte."&lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+  Fill in the blanks to finish this badass Rajkumar dialogue from the movie Waqt. 
+&lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Jinke ghar kaanch ke hote hain&lt;/li&gt;
+        &lt;li&gt; Jo khud chot khae hote hain&lt;/li&gt;
+        &lt;li&gt;Jo log khud dusron par keechad dalte hain&lt;/li&gt;
+        &lt;li  data-anwser="correct"&gt; Jinke ghar sheeshe ke hote hain&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;  
+
+  &lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;4&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+                   &lt;img src="http://rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/Anand-4.jpg"
+                        alt="Anand Movie" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+  &lt;h4&gt;&lt;i&gt;"Babu Moshai zindagi lambi nahin badi honi chahiye...”&lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+Who is the Babu Moshai in this dialogue from Hrishikesh Mukherjee’s Anand.
+&lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li   data-anwser="correct"&gt;Amitabh Bachchan&lt;/li&gt;
+        &lt;li&gt;Rajesh Khanna&lt;/li&gt;
+        &lt;li&gt;Dara Singh&lt;/li&gt;
+        &lt;li&gt;Johny Walker&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;  
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;5&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/Amitabh-Deewar-5.jpg"
+                        alt="Amitabh Bachchan in Deewar Movie   " /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+  &lt;h4&gt;&lt;i&gt; "Aj khush to bohot hoge tum...?”&lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+Who is ‘Vijay’ (Amitabh Bachchan) from the 1975 Deewar addressing in this monologue?
+&lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li   data-anwser="correct"&gt;God&lt;/li&gt;
+        &lt;li&gt;Shashi Kapoor&lt;/li&gt;
+        &lt;li&gt;Iftekhaar&lt;/li&gt;
+        &lt;li&gt;Ajeet&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;  
+        
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;6&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+                      &lt;img src="http://www.rockying.com/art/bollywood/Killer-Dialogues-Quiz/Amar-Prem-Pushpa...jpg"
+                        alt="Rajesh Khanna in Amar Prem" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+  &lt;h4&gt;&lt;i&gt;"Pushpa, I hate tears..." &lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+Who is the 'Pushpa' addressed in this &lt;i&gt;Amar Prem&lt;/i&gt; dialogue voiced by Rajesh Khanna?
+&lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Asha Parekh&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt;Sharmila Tagore&lt;/li&gt;
+        &lt;li&gt;Babita&lt;/li&gt;
+        &lt;li&gt;Waheeda Rehman&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;    
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;7&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+                   &lt;img src="http://rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/deewar-maa-7.jpg"
+                        alt="Deewar Movie" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+  &lt;h4&gt;&lt;i&gt;" Mere paas Maa hai "&lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+Who played the 'Maa' in the famous 1975 Deewar starring Amitabh and Shashi Kapoor?
+&lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li   data-anwser="correct"&gt;Niroopa Roy&lt;/li&gt;
+        &lt;li&gt;Achla Sachdev&lt;/li&gt;
+        &lt;li&gt;Sulochna Latkar&lt;/li&gt;
+        &lt;li&gt;Lalita Pawar&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;  
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;8&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+                   &lt;img src="http://rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/sachin-sholay-8.jpg"
+                        alt="Sachin in Sholay" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+  &lt;h4&gt;&lt;i&gt;" Itna Sannata Kyun Hai Bhaii..?"&lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+Who voiced this dialogue in this Ramesh Sippy blockbuster of the 70s? 
+&lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Amjad Khan&lt;/li&gt;
+        &lt;li&gt;Sachin &lt;/li&gt;
+        &lt;li&gt;Sanjeev Kumar&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt;A. K. Hangal&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;  
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;9&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+                  &lt;img src="http://rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/shahenshah-9.jpg"
+                        alt="Shahenshah Movie" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+  &lt;h4&gt;&lt;i&gt;" Rishte me to hum tumhare baap hote hain...Naam Hai _________  !"&lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+Fill in the blank to complete this all-time favorite Amitabh catchphrase. 
+&lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Baadshah&lt;/li&gt;
+        &lt;li&gt;Jadugar&lt;/li&gt;
+        &lt;li&gt; Hatim Tai&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt;Shehenshaah&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;  
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;10&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+                   &lt;img src="http://rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/Don-10.jpg"
+                        alt="Don" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+  &lt;h4&gt;&lt;i&gt;"Don ko pakadna mushkil hi nahin, namumkin hai..."&lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+Police from how many countries'  are looking for Don?
+&lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;10&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt;11&lt;/li&gt;
+        &lt;li&gt;22&lt;/li&gt;
+        &lt;li&gt;25&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+                
+                Did you have fun playing the quiz? How much did you score? &lt;br&gt;
+
+ &lt;h4 style="text-align: center;"&gt; &lt;a href="http://www.rockying.com/a/quiz-6-killer-dialogues-of-bollywood-ii" target="_blank"&gt;PLAY THE NEXT QUIZ NOW ! &lt;/a&gt;&lt;/h4&gt;</Text>
+  <WriterName>Preeti Singh</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>220</URL>
+</Article>

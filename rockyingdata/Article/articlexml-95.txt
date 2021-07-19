@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>95</ID>
+  <Title>Eight Steps To Detonating The Spam Bomb ! </Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/internet/Spam/no-spam.jpg</OGImage>
+  <OGDescription>Irritating spam mails have led to several cases of motherboard crashing, virus attacks and vital information leakage. If you have been musing over that spam-free world for long, here is exactly how you can do it... </OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>10</Category>
+  <Tag>Spamming, Tips to prevent Spamming</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;p&gt;&lt;img src="http://rudrasofttech.com/rockying/art/internet/Spam/computer_frustration.jpg" title="Computer Frustration" alt="" style="float: left; height: 150px;"&gt;Irritating spam mails have led to several cases of motherboard crashing,
+ virus attacks and vital information leakage. If you have been musing 
+over that spam-free world for long, here is exactly how you can do it... &lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;img src="http://rudrasofttech.com/rockying/art/internet/Spam/MPj03993500000.jpg" title="Irritating Spams Making Life Hell" alt="" style="float: right; height: 400px; width: 400px;"&gt;&lt;b&gt;I&lt;/b&gt;rritating spam mails have led to several cases of motherboard crashing, virus attacks and vital information leakage. If you have been musing over that spam-free world for long, here is exactly how you can do it! Utopia, is it?&lt;/p&gt;&lt;p&gt;&lt;b&gt;1&lt;/b&gt;. &lt;b&gt;There are no free lunches.&lt;/b&gt; So if you see some random mail offering some millions of money to you, put your alert cap on! If you give out your credit card details, you might get screwed for life. This is the worst peril of Internet and it is better to save a few clicks this time.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;b&gt;2&lt;/b&gt;. &lt;b&gt;Delete your spam mails on a daily basis&lt;/b&gt; or set your account accordingly that will clear it every five days. Also, avoid replying to spams. It can release Trojan in your computer and leave you crying for a long time.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;b&gt;3&lt;/b&gt;. If it is a problem identifying the spam mail, then check the sender first! If you do not know the sender, mark it as spam right away. &lt;b&gt;Remember to never click on the “unsubscribe”&lt;/b&gt; tab anywhere in the mail. These mails play reverse psychology on you. If you unsubscribe, you are spammed all the more.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;b&gt;4&lt;/b&gt;. &lt;b&gt;Avoid registering yourself in random websites &lt;/b&gt;for cheap offers and deals.&lt;img src="http://rudrasofttech.com/rockying/art/internet/Spam/no-spam.jpg" title="No Spam" alt="" style="float: left; width: 300px; height: 296px;"&gt; The spammers have a mailing list and if your mail id is searchable actively on the net, then you are in for double trouble. If at all you are an e-worm, it is best to maintain a separate mail id for all these activities.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;b&gt;5&lt;/b&gt;. Whatever anti-virus you buy, always&lt;b&gt; insist on the total internet security solutions &lt;/b&gt;pack. These have in-built anti spam-ware that lessen the spamming frequency in your mailbox.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;b&gt;6&lt;/b&gt;. The spam attack is the worst side-effect of internet. Remember&lt;b&gt; too &lt;/b&gt;&lt;b&gt;much of curiosity killed the cat!&lt;/b&gt; So, think twice before you call your own doom.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;b&gt;7&lt;/b&gt;. Ensure that your &lt;b&gt;pop-up blocker is on&lt;/b&gt; whenever you are browsing.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;b&gt;8&lt;/b&gt;. If you are planning on a new website and do not want to get arrested by spams, &lt;b&gt;avoid putting your mail address&lt;/b&gt; as xy12@googlemail.com on the website. Instead write it as xy12 at googlemail dot com. This tricks the crawlers and the spiders of the websites into not catching on to your mail id.&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;h4&gt;Let us join hands and rescue our in boxes from the clutches of spam mails. Spam, no more!&lt;/h4&gt;&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+</Article>

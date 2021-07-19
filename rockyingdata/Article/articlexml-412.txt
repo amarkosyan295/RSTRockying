@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Getting Away: Explore Vietnam’s Out of the World Hiking Getaways</Title>
+  <OGImage>http://www.rockying.com/art/Travel/Vietnam/Vietnam.jpeg</OGImage>
+  <OGDescription>Vietnam is full of hiking getaways that will bring you peace of mind. Majestic highland valleys, terraced rice paddies, dramatic mountain paths and remarkable underneath towering limestone mountain ranges are the...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Vietnam, Travel, Hiking, Mountains, Valleys, Asia,</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Travel/Vietnam/Vietnam.jpeg' alt='' /&gt;&lt;p&gt;Vietnam is full of hiking getaways that will bring you peace of mind. Majestic highland valleys, terraced rice paddies, dramatic mountain paths and remarkable underneath towering limestone mountain ranges are the...&lt;/p&gt;</Description>
+  <Text>&lt;img src="http://www.rockying.com/art/Travel/Vietnam/Vietnam.jpeg" alt="HIking in Vietnam" title="Hiking Getaways in Vietnam"&gt;
+&lt;p&gt;
+Vietnam is full of hiking getaways that will bring you peace of mind. Majestic
+highland valleys, terraced rice paddies, dramatic mountain paths and remarkable underneath
+towering limestone mountain ranges are the common landscapes in the country.
+&lt;/p&gt;
+&lt;p&gt;
+More importantly, hiking in the country is a great way to spend some time alone and luxuriate
+the invaluable treasures of nature. The picturesque hiking spectrum of Vietnam will surely
+get you away from all the stresses you endured on a daily basis.
+&lt;p&gt;
+Here is a bucket list of excellent hiking getaways in Vietnam from the less strenuous walks on
+trails to the most spectacular landscapes, which is exciting for everyone regardless of your hiking
+experience or physical fitness.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;1. Sapa&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;
+Sapa is commonly known as the home of the dense network of trails and one of the famous
+hiking destinations in Vietnam. There is no individual trail that stands out from the rest since
+every trail is linked to one another; consequently creating a perfect trail that will match each
+person’s hiking skill.
+&lt;/p&gt;
+&lt;p&gt;
+The place is most famous for its terraced rice paddies and wonderful mountain villages. After
+reaching the mountain village, you can witness a spectacular overview of a plunging valley with
+mountains towering above on all sides that emerge on clear days, which, sometimes, is
+subdued by thick mist rolling across the peaks. But, there’s nothing to be sad about it since,
+although it's cloudy, the local hill-tribe people fill the town with colour.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;2. Ha Giang&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;</Text>
+  <WriterName>Analisse Weathers</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>explore-vietnams-out-of-the-world-hiking-getaways</URL>
+</Article>

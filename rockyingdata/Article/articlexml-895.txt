@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>It's raining!</Title>
+  <MetaTitle>It's raining!</MetaTitle>
+  <OGImage />
+  <OGDescription>A lonely introvert lady living by herself, not having outgoing personality, she finds it hard to live, yet just a drop of rain changes her lifestyle and point of view.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>26</Category>
+  <Tag>A sole woman, raining, changing lifestyle</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='' alt='' /&gt;&lt;p&gt;A lonely introvert lady living by herself, not having outgoing personality, she finds it hard to live, yet just a drop of rain changes her lifestyle and point of view.&lt;/p&gt;</Description>
+  <Text>Ann lives by herself. Every day she gets up, brushes her teeth, has breakfast, and goes to work. Everything is simple and the same: her life, her colleagues, clients, and people near her. She doesn't wait for any extraordinary or unusual event, yet sometimes wants to change her life and move abroad.
+   She once made up her mind to meet with some fellows, but she couldn't hang out with them owing to her introverted and quiet nature. She can't make friends easily, she wants to be her boss. She doesn't want to be with people.
+   But one day...
+   As usual, she got up, washed her face, had breakfast, and went from her house. Everything was going the same but the weather was different from her usual days. Suddenly the sun lost and it started raining! She loves the rain, especially throwing her umbrella and dancing with her whole heart(but till this time she couldn't dare do such fun).
+  Yet now she doesn't want to just keep going. Suddenly, she threw her umbrella and began dancing. She was dancing so merrily as if all her problems had been washing away. Now, something popped up in her mind, and laughed. From now on she won't keep secrets to herself! From now on she tries to make friends and will have a good time together! From now on she travels abroad and learns about cultures. Then looked back again: it is raining again!
+                                                                      (340 words)</Text>
+  <WriterName>Gulrukh</WriterName>
+  <WriterEmail>missteacherguli@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>its-raining</URL>
+</Article>

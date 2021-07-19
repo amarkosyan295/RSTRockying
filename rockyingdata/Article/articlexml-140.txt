@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>140</ID>
+  <Title>World's First Evers.</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Motor_cycle.jpg</OGImage>
+  <OGDescription>World's First Ever Inventions...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>14</Category>
+  <Tag>Inventions, First Evers, World's First</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Motor_cycle.jpg' alt='' /&gt;&lt;p&gt;World's First Ever Inventions...&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px;  height:40px;
+            font-size: 50px; font-weight: 100; color: #000; border: none; text-align: center; margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px;height:40px;
+            font-size: 50px; font-weight: 100; color: #000;border: none; text-align: center;margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="slideshow" style="text-align: center;"&gt;
+        &lt;div class="slide" &gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h4&gt;
+                    World’s First Digital Camera (1975) Created by Kodak's engineer Steve Sasson&lt;/h4&gt;
+                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Digital-Camera.jpg"
+                    title="First Digital Camera" alt="" /&gt;
+                &lt;p&gt;
+                    In December 1975, Kodak engineer Steve Sasson invented something that would, decades
+                    later, revolutionize photography: the world’s first digital camera. It was the size
+                    of a toaster, and captured black and white images at a resolution of 100×100 - or
+                    0.01 megapixels in today’s marketing terminology. The images were stored on cassette
+                    tape, taking 23 seconds to write.
+                &lt;/p&gt;
+                &lt;p&gt;
+                    The camera uses an ADC from Motorola, a bog-standard (for the 1970s) lens from a
+                    Kodak movie camera, and a CCD chip from Fairchild Semiconductor - the same technology
+                    that digital cameras still use today. To playback the images, a special computer
+                    and tape reader setup (pictured below) was built, outputting the grainy images on
+                    a standard TV. It took a further 23 seconds to read each image from tape.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" &gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h4&gt;
+                    World's First Motel (1925): Motel InnWorld’s First Motel
+                &lt;/h4&gt;
+                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Motel.jpg"
+                    title="First Motel" alt=""  /&gt;
+                &lt;p&gt;
+                    Motel Inn in San Luis Obispo, California, is the world’s first motel. It was built
+                    in 1925 by LA architect Arthur Heineman, who coined the term motel meaning "motor
+                    hotel.
+                &lt;/p&gt;
+                &lt;p&gt;
+                    Motel Inn was originally called the Milestone Mo-Tel. Back then, one night stay
+                    was $1.25. Heineman couldn’t afford the trademark registration fee, so his competitors
+                    were able to use the word "motel." The motel is still in operation today.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" &gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h4&gt;
+                    World's First Album Cover (1938): Smash Song Hits by Rodgers and Hart:
+                &lt;/h4&gt;
+                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Album-Cover.jpg"
+                    title="First Album Cover" alt="" /&gt;
+                &lt;p&gt;
+                    Before Alex Steinweiss, then a 23-year-old designer, invented album covers in 1938
+                    for Columbia Records, albums were sold in plain brown wrappers.
+                &lt;/p&gt;
+                &lt;p&gt;
+                    The album "Smash Song Hits by Rodgers and Hart" was the very first album cover in
+                    the world&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" &gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h4&gt;
+                    World's First Novel (1007): Tale of Genji
+                &lt;/h4&gt;
+                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Novel.jpg"
+                    title="First Novel" alt=""  /&gt;
+                &lt;p&gt;
+                    More than a thousand years ago, on 1007, a Japanese court lady put the finishing
+                    touches on what is considered the world's first novel.
+                &lt;/p&gt;
+                &lt;p&gt;
+                    Spanning 75 years, more than 350 characters, and brimming with romantic poems, the
+                    "Tale of Genji" tells the story of an emperor's son, his quest for love, and the
+                    many women he meets along the way.
+                &lt;/p&gt;
+                &lt;p&gt;
+                    It is attributed to the Japanese noblewoman Murasaki Shikibu.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" &gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h4&gt;
+                    World's First Web Server and Web Site (1990): a NeXT computer at CERN
+                &lt;/h4&gt;
+                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Web-Server.jpg"
+                    title="First Web Server" alt=""  /&gt;
+                &lt;p&gt;
+                    Info.cern.ch was the address of the world's first-ever web site and web server,
+                    running on a NeXT computer at CERN.
+                &lt;/p&gt;
+                &lt;p&gt;
+                    The first web page address was http://info.cern.ch/hypertext/WWW/TheProject.html,
+                    made by Tim Berners-Lee.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" &gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h4&gt;
+                    World's First Motorcycle (1885): Daimler's "riding car":
+                &lt;/h4&gt;
+                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Motor_cycle.jpg"
+                    title="First MotorCycle" alt=""  /&gt;
+                &lt;p&gt;
+                    The First Motorcycle was designed and built by the German inventors Gottlieb Daimler
+                    and Wilhelm Maybach in Bad Cannstatt (Stuttgart) in 1885.&lt;/p&gt;
+                &lt;p&gt;
+                    It was essentially a motorized bicycle, although the inventors called their invention
+                    the Reitwagen ("riding car").&lt;/p&gt;
+                &lt;p&gt;
+                    It was also the first petroleum-powered vehicle.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" &gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h4&gt;
+                    World's First X-Ray (1895): Röntgen's wife hand
+                &lt;/h4&gt;
+                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-X-ray.jpg"
+                    title="First X-RAy" alt=""  /&gt;
+                &lt;p&gt;
+                    In 1895 Wilhelm Conrad Röntgen, professor of physics the University of Wurburg in
+                    Germany, was doing experiments with electrical discharges in evacuated glass tubes.
+                &lt;/p&gt;
+                &lt;p&gt;
+                    Late in 1895 Wilhelm Röntgen was alone at night doing his experiments, this time
+                    in the dark and noticed a glow was produced on the wall, which he knew was not caused
+                    by fluorescence or visible light.
+                &lt;/p&gt;
+                &lt;p&gt;
+                    He named these new, unidentified rays 'X' or if you prefer; X-rays. After several
+                    months of playing with his discovery he noticed that objects place in the path of
+                    the rays cast shadows and created images on the wall.
+                &lt;/p&gt;
+                &lt;p&gt;
+                    Soon after he used a photgraphic plate and had his wife, Frau Röntgen, place her
+                    hand in the path of the X-rays, creating the world's first X-ray picture. In 1901
+                    Wilhelm Röntgen was awarded the very first Nobel Prize in Physics for this discovery.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" &gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h4&gt;
+                    World's First Computer Mouse (1964): by Douglas Engelbart
+                &lt;/h4&gt;
+                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Computer-Mouse.jpg"
+                    title="First Computer Mouse" alt=""  /&gt;
+                &lt;p&gt;
+                    The world's first computer mouse was made by Douglas Engelbart in 1964, it consisted
+                    of two gear-wheels positioned perpendicular to each other -- allowing movement on
+                    one axis.
+                &lt;/p&gt;
+                &lt;p&gt;
+                    Ergonomic shape, great button placement -- and it's made of wood.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" &gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h4&gt;
+                    World's First Skyscraper (1885): Home Insurance Building in Chicago
+                &lt;/h4&gt;
+                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Skyscraper.jpg"
+                    title="First Skyscraper" alt="" /&gt;
+                &lt;p&gt;
+                    Considered to be the first skyscraper in the world due to the building's unique
+                    architecture and unique weight bearing frame, the Home Insurance Building was built
+                    in 1885 in Chicago, Illinois and demolished in 1931 to make way for the Field Building
+                    (now the LaSalle National Bank Building).&lt;/p&gt;
+                &lt;p&gt;
+                    It was the first building to use structural steel in its frame, but the majority
+                    of its structure was composed of cast and wrought iron. It was the first tall building
+                    to be supported, both inside and outside, by a fireproof metal frame.
+                &lt;/p&gt;
+                &lt;p&gt;
+                    It had 10 stories and rose to a height of 138 feet (42 m) high.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" &gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h4&gt;
+                    World's First Concept Car (1938): Buick Y-Job
+                &lt;/h4&gt;
+                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Concept-car.jpg"
+                    title="First Concept Car" alt=""  /&gt;
+                &lt;p&gt;
+                    Designed in 1938 by the famous General Motors designer Harley Earl, the Buick Y-Job
+                    is considered by most to be the first concept car.
+                &lt;/p&gt;
+                &lt;p&gt;
+                    The car had power-operated hidden headlamps, "gunsight" hood ornament, wraparound
+                    bumpers, flush door handles, and prefigured styling cues used by Buick until the
+                    1950s.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" &gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h4&gt;
+                    World's First MP3 Player (1998): MPMan 32MB
+                &lt;/h4&gt;
+                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Mp3-player.jpg"
+                    title="First Mp3 Player" alt="" /&gt;
+                &lt;p&gt;
+                    Released in 1998, the Eiger Labs MPMan was the world's first MP3 player, boasting
+                    32MB of internal memory -- expandable to 64MB.
+                &lt;/p&gt;
+                &lt;p&gt;
+                    Available in F10 or F20 models, the latter boasting SmartMedia compatibility, this
+                    player set you back a mere $69 + shipping.&lt;/p&gt;
+                &lt;p&gt;
+                    It measures a slim 91 x 70 x 16.5 mm.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" &gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;p&gt;
+                    World's First Crossword (1913): Arthur Wynne's Invention
+                &lt;/p&gt;
+                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Crossword.jpg"
+                    title="First Crossword" alt=""  /&gt;
+                &lt;p&gt;
+                    In 1913, Arthur Wynne had the job of devising the weekly puzzle page for Fun, the
+                    eight-page comic section of the New York World, a major newspaper of the time.
+                &lt;/p&gt;
+                &lt;p&gt;
+                    When he devised what he called a Word-cross for the Christmas edition, published
+                    on 21 December, he could have no idea that he would be starting a worldwide craze.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" &gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h4&gt;
+                    World's First Microprocessor (1971): Intel 4004
+                &lt;/h4&gt;
+                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Microprocessor.jpg"
+                    title="First Microprocessor" alt=""  /&gt;
+                &lt;p&gt;
+                    In November, 1971, a company called Intel publicly introduced the world's first
+                    single chip microprocessor, the Intel 4004 (U.S. Patent #3,821,715), invented by
+                    Intel engineers Federico Faggin, Ted Hoff, and Stan Mazor.
+                &lt;/p&gt;
+                &lt;p&gt;
+                    After the invention of integrated circuits revolutionized computer design, the only
+                    place to go was down -- in size that is.
+                &lt;/p&gt;
+                &lt;p&gt;
+                    The Intel 4004 chip took the integrated circuit down one step further by placing
+                    all the parts that made a computer think (i.e. central processing unit, memory,
+                    input and output controls) on one small chip.
+                &lt;/p&gt;
+                &lt;p&gt;
+                    Programming intelligence into inanimate objects had now become possible.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" &gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h4&gt;
+                    World's First Magazine (1731): The Gentleman's Magazine
+                &lt;/h4&gt;
+                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Magazine.jpg"
+                    title="First Magazine" alt=""  /&gt;
+                &lt;p&gt;
+                    The Gentleman's Magazine, first published in 1731, in London, is considered to have
+                    been the first magazine.&lt;/p&gt;
+                &lt;p&gt;
+                    Edward Cave, who edited The Gentleman's Magazine under the pen name "Sylvanus Urban",
+                    was the first to use the term "magazine", on the analogy of a military storehouse
+                    of varied materiel, originally derived from the Arabic makazin "storehouses".&lt;/p&gt;
+                &lt;p&gt;
+                    It ceased publication in September, 1907.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" &gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h4&gt;
+                    World's First Photograph (1826): "View from the Window at Le Gras"
+                &lt;/h4&gt;
+                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Photograph.jpg"
+                    title="First Photograph" alt="" /&gt;
+                &lt;p&gt;
+                    Centuries of advances in chemistry and optics, including the invention of the camera
+                    obscura, set the stage for the world’s first photograph.&lt;/p&gt;
+                &lt;p&gt;
+                    In 1826, French scientist Joseph Nicéphore Niépce, took that photograph, titled
+                    View from the Window at Le Gras at his family’s country home.&lt;/p&gt;
+                &lt;p&gt;
+                    Niépce produced his photo—a view of a courtyard and outbuildings seen from the house’s
+                    upstairs window—by exposing a bitumen-coated plate in a camera obscura for several
+                    hours on his windowsill.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <SlideShowOn>true</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Raj Kiran Singh</WriterName>
+  <WriterEmail>rajkiran.singh@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

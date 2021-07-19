@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>71</ID>
+  <Title>When Internet Becomes Your Better Half !</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/internet/cure-email-addiction.jpg</OGImage>
+  <OGDescription>You are that compulsive impulsive being who shares a parasitical existence with the Internet and often find it frustrating while dealing with this...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>10</Category>
+  <Tag>Internet, Side Effects of Social Networking</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;p&gt;&lt;img src="http://rudrasofttech.com/rockying/art/internet/cure-email-addiction.jpg" title="The Internet Addiction" alt="" style="float: left; width: 216px; height: 144px;"&gt;You are that compulsive impulsive being who shares a parasitical 
+existence with the Internet and often find it frustrating while dealing 
+with this.&amp;nbsp;&lt;/p&gt;&lt;p&gt;If you feel you deserve a much-needed divorce from this relationship, then here is how you can do it...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    You
+    &lt;img src="http://rudrasofttech.com/rockying/art/internet/cure-email-addiction.jpg"
+        title="The Internet Addiction" alt="" style="width: 369px;" class="pull-left" /&gt;
+    check your mails every two minutes and think that a fresh send/receive would miraculously
+    send new mails into your account, you are outside shopping and you quickly log on
+    to Facebook to check your wall, you are at a dinner party and sneak some time into
+    downloading that latest wallpaper you saw on Nokia shopping portal—face it; you
+    are virtually married to your mailbox and any hindrance to it might trigger a World
+    War 3!&lt;/p&gt;
+&lt;p&gt;
+    You are that compulsive impulsive being who shares a parasitical existence with
+    the Internet and often find it frustrating while dealing with this. It is rather
+    sad and there is a reason why you can turn into a psychiatric case soon. Internet
+    can be that drug for you that brilliantly manage to numb your appetite and senses
+    to make you more compelled in return.
+&lt;/p&gt;
+&lt;p&gt;
+    If you feel you deserve a much-needed divorce from this relationship, then here
+    is how you can do it:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;p&gt;&lt;b&gt;TIME IT OUT&lt;/b&gt;: If you are working from home or have been on a prolonged leave,
+        time your daily schedule out. Keep a comfortable five to six hours for internet
+        browsing. But post that, ensure that your laptop remains shut.&lt;/p&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;p&gt;&lt;b&gt;YOU CANNOT AVOID &lt;i&gt;WWW&lt;/i&gt;&lt;/b&gt;:&amp;nbsp; Even if you travel to places where you
+        are unlikely to find a net connection, you would surely have your phone with you.
+        What you need to do is to consciously keep a check on your habit. Mails can be important
+        but if you know you do not have something important coming, avoid clicking on the
+        ‘Get Mail’ button!&lt;/p&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;p&gt;&lt;b&gt;THERE IS LIFE BEYOND SOCIAL NETWORKING&lt;/b&gt;: You are dying to tell everyone how
+        your dinner party went or how whacky your slumber party was last night, but hold
+        on to the thought. Updating your locations and ideas become the reason for hacking
+        or even a robbery! A bunch of 300-odd friends come to know where you are and it
+        can lead to leaking of information to some uncouth minds. Apart from that, we generally
+        arrange our passwords on the basis of things that we remember. People, who update
+        status too frequently, successfully give away their passwords, in such a manner.
+        So, time to behave!&lt;/p&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;p&gt;&lt;b&gt;THE CURE LIES WITH YOU&lt;/b&gt;:&amp;nbsp; It is a weak situation, and you must be thinking
+        that you are at the mercy of the virtual goddess. For all you know, it might be
+        too late. The solution lies with you. The minute you feel the urge to check your
+        mail, call your best friend up to talk and divert your mind. More power to you!&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src="http://rudrasofttech.com/rockying/art/internet/email%20addiction.jpg" title="The Inevitable Net World"
+    alt="" style="width: 500px;" /&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;p&gt;&lt;b&gt;FREE TIME&lt;/b&gt;:&amp;nbsp; You might be surfing the net and you realize it has been
+        five hours of you doing so! Take a break. Walk your dog or just go for a stroll
+        outside.&lt;/p&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;p&gt;&lt;b&gt;SOCIALIZE FOR REAL&lt;/b&gt;:&amp;nbsp; The biggest disadvantage of feverishly checking
+        mails is that one tends to forget real life socializing. It is not an uncommon scene
+        that four people sitting in a car are busy with their respective mobile phones and
+        have not been talking to each other for an hour!&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h6&gt;
+    So, if you have been sleeping with your Blackberry next to your pillow and that
+    is the first thing you check once you wake up, you must know it is time to change.
+    There are hazards of staying connected all the time. You sure do not want to turn
+    into a parasite!&lt;/h6&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

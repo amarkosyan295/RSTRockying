@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Best Female Voices to Grace the Hindi Film Industry</Title>
+  <OGImage>lmkdsl;f;</OGImage>
+  <OGDescription>'skfdpkl</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>15</Category>
+  <Tag>Music, Bollywood</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;img src='lmkdsl;f;' alt='' /&gt;&lt;p&gt;'skfdpkl&lt;/p&gt;</Description>
+  <Text>1. Lata Mangeshkar
+2. Asha Bhosle
+3. Alka Yagnik
+4. Kavita Krishnamurthy
+5. Monali Thakur
+6. Shreya Ghoshal
+7. Sunidhi Chauhan
+8. Chitra
+9. Madhushree
+10. Sadhna Sargam</Text>
+  <WriterName>Rockying</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>best-female-voices-to-grace-the-hindi-film-industry</URL>
+</Article>

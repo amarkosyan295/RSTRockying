@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Healthy New Year Resolutions to Make</Title>
+  <OGImage>http://www.rockying.com/art/health/New-Year-Health-Resolutions/Happiness.jpg</OGImage>
+  <OGDescription>The year is at an end. It means time for resolutions! Time to think about what we promise ourselves this year, things we plan to change for a better us. So why not promise yourself and your body someone healthy this year. Read More...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Healthy Living, New Year Resolutions, Health Resolutions.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/health/New-Year-Health-Resolutions/Happiness.jpg' alt='' /&gt;&lt;p&gt;The year is at an end. It means time for resolutions! Time to think about what we promise ourselves this year, things we plan to change for a better us. So why not promise yourself and your body someone healthy this year. Read More...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    The year is at an end. It means time for resolutions! Time to think about what we
+    promise ourselves this year, things we plan to change for a better us. So why not
+    promise yourself and your body someone healthy this year. Here are some suggestions
+    for a healthy, more wonderfully active New Year!&lt;/p&gt;
+&lt;ul class="unstyled"&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            GO GET A CHECK UP&lt;/h3&gt;
+            &lt;img src="http://www.rockying.com/art/health/New-Year-Health-Resolutions/Regular-Check-up.jpg" alt="" /&gt;
+        &lt;p&gt;
+            Start the year by checking if all is okay! A lot of us forget that just like anything
+            else, our body needs to have a regular formal check up. Book an appointment and
+            go get it done right. You never know what is wrong with your body. Going for a check-up
+            might help you detect just that. And if nothing is wrong, then isn’t it a good thing
+            that you found out everything was okay before things went out of hand?&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            GET GOING&lt;/h3&gt;
+            &lt;img src="http://www.rockying.com/art/health/New-Year-Health-Resolutions/Healthy-Living.jpg" alt="" /&gt;
+        &lt;p&gt;
+            No time to go to the gym? Too busy to exercise daily. We have heard all the excuses
+            always. If you still don’t have time, do something fun to keep your body active.
+            Take up dance classes, go swimming, if you can cycle / walk to work, take the stairs
+            instead of the elevator. Just be active. If you take the bus to work, get off a
+            stop before and walk to the office. Park a little away from the mall. Make sure
+            you walk at least 30 minutes a day. 10,000 steps a day keep health troubles away!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            EAT RIGHT&lt;/h3&gt;
+            &lt;img src="http://www.rockying.com/art/health/New-Year-Health-Resolutions/Oily-Food.jpg" alt="" /&gt;
+        &lt;p&gt;
+            Promise yourself that this year will be the time when you finally let go off the
+            daily pakoras, samosas, vadas, puris, kachoris and packets of chips. Not only are
+            they high in fat content due to the oil they are cooked in but they contribute to
+            a lot of health problems - obesity, heart problems, cholesterol issues to name a
+            few. When you are hungry, try grabbing something healthier - fruits, dry fruits,
+            a bowl of nuts, (check out our recommendations of healthy snack options). Make 2013
+            a year where you cut down on things that add to problems and make sure you start
+            including healthy in your meals!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            DRINK MORE&lt;/h3&gt;
+        &lt;img src="http://www.rockying.com/art/health/New-Year-Health-Resolutions/drink-water.jpg"
+            alt="" /&gt;
+        &lt;p&gt;
+            No, it’s not alcohol we are talking about. Its plain ol’ water. Drinking the recommended
+            seven to eight glasses might do wonders - better skin, protection of your organs,
+            alertness, body temperature regulations, better productivity, natural cure for headaches,
+            losing weight are just some of the benefits. There are times when drinking water
+            seems to be more effective. A glass in the morning might help detoxify your body.
+            Water before each meal helps you control your portions and eat less. If you are
+            ill, increase your water intake; it helps in the healing. Make sure that you aren’t
+            drinking lots of water immediately after a workout, it might cause bloating - have
+            it in sips! Keep a track of the amount of water you are having. Water can actually
+            be a lifesaver!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            FLOSS YOUR TEETH&lt;/h3&gt;
+        &lt;img src="http://www.rockying.com/art/health/New-Year-Health-Resolutions/Floss-teeth.jpg"
+            alt="" /&gt;
+        &lt;p&gt;
+            You might have been brushing your teeth three times a day or more but have you been
+            flossing it? A lot of us don’t realize that brushing doesn’t always cleans between
+            teeth and flossing is a good way to get rid of the sticky foodstuff stuck within
+            the tooth. Be sure to floss every day. It take a few minutes and keeps oral problems
+            away. Promise yourself you will make it a habit from now.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            SKIN CARE&lt;/h3&gt;
+            &lt;img src="http://www.rockying.com/art/health/New-Year-Health-Resolutions/Skin-Care.jpg" alt="" /&gt;
+        &lt;p&gt;
+            Think about the last time you wore sunscreen or made sure you went to bed only after
+            moisturizing yourself properly? Most skin cancers begin after the age of 50 but
+            the damage begins at a comparatively early age. Also, the sun can make wrinkles
+            appear sooner. Any skin is prone to dry skin diseases, even oily skin! Take care
+            of your skin, cleanse it and moisturize with the right kind of product. Learn about
+            your skin and find out what products and creams suit it best. Make sure this year
+            is when you work to bring the glow back!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            COLOR ON YOUR PLATE&lt;/h3&gt;
+        &lt;img src="http://www.rockying.com/art/health/New-Year-Health-Resolutions/Color-on-plate.jpg"
+            alt="" /&gt;
+        &lt;p&gt;
+            Make sure you work on WHAT you are eating. Add color to your food - capsicums, brinjals,
+            pomegranate, tomato, broccoli, peach, beans, red grapes, carrots, apples, berries
+            (strawberry, blueberry, cranberry) and also a little dark chocolate . Foods that
+            are rich in colors like yellow, green, red and orange have a higher nutrient density
+            not only for the B-complex vitamins like riboflavin, thiamin, niacin, and ascorbic
+            acid but for the antioxidants that are part of vitamin E, vitamin A and the carotenoids.
+            To put it simply, these antioxidants provide the body with a defense mechanism and
+            might also help you look young!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            BYE BYE SMOKING&lt;/h3&gt;
+            &lt;img src="http://www.rockying.com/art/health/New-Year-Health-Resolutions/Stop-Smoking.jpg" alt="" /&gt;
+        &lt;p&gt;
+            If you on the cigarette, stop it right away. No matter how cool you think it is,
+            it will destroy you, sooner or later. Not only is it one of the leading causes of
+            lung cancer, it causes cardiovascular diseases, high blood pressure, kidney problems,
+            asthma, bad breath and ulcers to name a few. Kick the butt this year! There are
+            many options - nicotine patches, support groups. But make sure your determination
+            makes all the difference.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            GO SLEEP&lt;/h3&gt;
+            &lt;img src="http://www.rockying.com/art/health/New-Year-Health-Resolutions/sleep.jpg" alt="" /&gt;
+        &lt;p&gt;
+            Make sure you are getting your daily dose of sleep. Try incorporating the "early to bed early to rise..." mantra into your routine. Without sleeping right, you won’t be able to do anything right. Lack of sleep might lead to frustration, irritation
+            and increased stress levels. Try getting the right amount of sleep each day. You
+            are allowed to slip on weekends!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            BE NICE TO YOURSELF&lt;/h3&gt;
+            &lt;img src="http://www.rockying.com/art/health/New-Year-Health-Resolutions/i-love-me.jpg" alt="" /&gt;
+        &lt;p&gt;
+            A healthy life starts with a healthy mind. Be nice to yourself, learn to be positive,
+            reduce your stress levels and just be confident in being you! Nothing better to
+            start the year and every day on a positive note. Stop being harsh to yourself and
+            learn to appreciate the smaller things in your life.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            GET IN TOUCH - REAL LIFE!&lt;/h3&gt;
+        &lt;img src="http://www.rockying.com/art/health/New-Year-Health-Resolutions/Get-in-touch-for-real.jpg"
+            alt="" /&gt;
+        &lt;p&gt;
+            No, we aren’t talking about FB messaging and writing on walls! We are talking about
+            actually getting in touch! Make sure you call a person you know at least once a
+            week! Get in touch with old friends - just find out what they are doing. Give your
+            loved ones a surprise visit, or give them an unexpected call and ask about them,
+            send your parents a gift, say hi to your neighbors, do something nice for the people
+            around you - maybe just once a week! Keeping in touch not only boosts your emotional
+            well being but also makes you mentally more healthy!&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    So, make your resolutions working for you this year. Not only will they be healthy,
+    but it might change your life on the whole, for the better. Here’s promising ourselves
+    a healthier, better 2013!&lt;/p&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>38</ID>
+  <Title>WEB + LOG= WE ‘BLOG’</Title>
+  <MetaTitle>WEB + LOG= WE ‘BLOG’</MetaTitle>
+  <OGImage>//www.rockying.com/art/BLog.jpg</OGImage>
+  <OGDescription>Amitabh Bachchan's Blog</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>10</Category>
+  <Tag>Blogging, Web Blog, Blog tips</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/BLog.jpg' alt='' /&gt;&lt;p&gt;Amitabh Bachchan's Blog&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    The
+    &lt;img src="//www.rockying.com/art/BLog.jpg" title="Blog" alt="" class="pull-left"
+        style="width: 285px;" /&gt;
+    word blog comes from the combining of two terms&amp;nbsp; “web” and “log”. With almost
+    everyone from Amitabh Bachchan, Aamir Khan to Mark Zuckerberg having a blog, we
+    thought it would be interesting to dwell on the subject, starting from scratch!
+    Also, with over 165 million blogs (and more) on the go, there is definitely more
+    looking into what the blog craze is all about!&lt;/p&gt;
+&lt;p&gt;
+    So, if you are wondering what, where and why blog, here’s telling you all you need
+    to know!
+&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Blogs go back to about the late 1990’s where people kept a running online diary
+    &lt;/li&gt;
+    &lt;li&gt;The term “weblog” was coined by Jorn Barger on 17 December 1997. The short form
+        blog slowly came into function as Peter Merholz used it jokingly!&lt;/li&gt;
+    &lt;li&gt;Blogs are just about anything. It is just like your online personal directory. It
+        can be about your business, about your pets, photography, a showcase of your travel,
+        about social media, about your college, your school. Basically, it can be about
+        just ANYTHING. People are blogging about blogging itself. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    Blogs have come a long way since just the online web diary. Political parties have
+    started using blogs for outreach and opinion forming. In 2005 the Fortune listed
+    eight bloggers in their list entitled “business people you can’t ignore”.
+    
+&lt;/p&gt;
+&lt;p&gt;
+    Bloggers, or the people who blog have a huge online presence that cannot be ignored.
+    Slowly blogs have evolved in a business model by themselves. Bloggers use the medium
+    not only to write and share their knowledge but also to market themselves. If you
+    are a freelance writer, you could set up blogs discussing about your skills and
+    lessons and you could offer services (in exchange for money, of course).&lt;/p&gt;
+&lt;p&gt;
+    Now, this holds value for other professions as well. Once you get into the blogosphere
+    (a term usually used to refer to the online blogging world) you will be introduced
+    to the amazing variety of professionals you have access to. Professionals range
+    from marketing consultant, freelance writers, social media consultants, web designers,
+    logo designers, jewelry designers, travel coaches, travel consultants, professional
+    photographers, media consultants, professional speakers, online therapists, motivational
+    coach, life coach, PR professionals, technology wizards, yoga gurus; just to name
+    a few. You name it and you have a blog about it right at your fingertips.&lt;/p&gt;
+&lt;p&gt;
+    These people not only offer services online, some actually might be able to provide
+    services in person if you live close by.&lt;br&gt;
+    People are making money through blogs and for many, it is a profession for which
+    they have abandoned their day jobs. One obvious way is to market themselves through
+    their blogs and offer their services; others sell advertising space on their blogs,
+    through affiliate marketing, selling their personal e-books.
+    &lt;br&gt;
+    A blog is always accompanied by an online community. People come by, read your blog,
+    comment on it, share it across the web through social media like Facebook, Twitter,
+    LinkedIn , Google + and other media available. Having a community is always helpful
+    is spreading the word about your blog and is more helpful if you are running or
+    offering a service through your blog.&lt;br&gt;
+    With such a huge presence and an online power to reckon with, there really isn’t
+    looking back into why you shouldn’t be using the Internet to better purposes other
+    than checking your friend’s status every other second!&lt;br&gt;
+    &lt;b&gt;So, go out there. Set up a blog. Show the world what you’ve got and learn from them
+        too! Blog your way to greater heights!
+        &lt;br&gt;
+        Also, stay nearby, we will soon be running a series into the how and whys of a blog.&lt;/b&gt;&lt;br&gt;
+    &lt;br&gt;
+&lt;/p&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>38</URL>
+</Article>

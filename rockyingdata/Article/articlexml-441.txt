@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>There is no Way You are Right about these 12 Most Basic Facts About the World. Are You?</Title>
+  <MetaTitle>Can You Answer these 12 Questions Based on the Most Basic Facts about the World?</MetaTitle>
+  <OGImage>http://www.rockying.com/art/Awareness/Factfulness-Facts-about-the-World/Life-Expectancy-India.jpg</OGImage>
+  <OGDescription>Do you know that the life expectancy of the world today is 70 years? The number for India being 68. The largest driving factor in life expectancy isn't the longevity of a country's oldest citizens but...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>20</Category>
+  <Tag>World, Facts, Factfulness, Hans Rosling, Literacy, Life Expectancy, United Nations, Population, Climate Change, Poverty, Electricity Access, World Income Levels, Endangered Species.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Awareness/Factfulness-Facts-about-the-World/Life-Expectancy-India.jpg' alt='' /&gt;&lt;p&gt;Do you know that the life expectancy of the world today is 70 years? The number for India being 68. The largest driving factor in life expectancy isn't the longevity of a country's oldest citizens but...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+Our addiction to sugar and fat has made obesity one of the biggest health problems in the world today. In the same way, our quick-thinking brains and cravings for drama, are causing misconceptions and an overdramatic worldview...
+&lt;/p&gt;
+&lt;p&gt;
+How can, we, humans be so wrong about so much? How is it even possible that the majority of people score worse than chimpanzees? Worse than random! A series of surveys suggest that people around the world are so wrong about these basic facts, that their answers are even worse than random choices made by Chimpanzees! So, do you think you can do better? Let's find out!
+&lt;/p&gt;
+&lt;div class="rstquestion rkyquestion1"&gt; 
+    &lt;span class="qindex"&gt;1&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/Awareness/Factfulness-Facts-about-the-World/Girl-in-School.jpg" alt="African Girl in School" title="African Girl in School" /&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt;In all the low-income countries across the world today, how many girls finish primary school?&lt;/h4&gt;
+&lt;p&gt;
+Literate women are likely to marry late and, as a result, have fewer children. By simply providing girls with an extra year of schooling, nations can reduce a female’s fertility rate by 5 to 10 percent. Limiting the number of individuals present will ensure improved access to resources and better opportunities for all people, particularly in countries struggling with overpopulation. 
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;1. &lt;b&gt;20 percent&lt;/b&gt;&lt;/li&gt;
+        &lt;li &gt;2. &lt;b&gt;40 percent&lt;/b&gt;&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt;3. &lt;b&gt;60 percent&lt;/b&gt;&lt;/li&gt;
+        &lt;li&gt;4. &lt;b&gt;80 percent&lt;/b&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;2&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/Awareness/Factfulness-Facts-about-the-World/High-and-Low-Income-levels.jpeg" alt="Income Levels" title="Income Levels" /&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt;Where does the majority of the world population live?&lt;/h4&gt;
+&lt;p&gt;
+The World Bank considers countries of regions with a Gross National Income (GNI) per capita between $1,005 and $12,235 as middle-income economies. It used to refer to low-income and middle-income economies as 'developing' economies. In 2016, it chose to drop the term from its vocabulary, citing a lack of specificity in the term. Alternatively, it now refers to countries by their region, income and lending status. 
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;1. &lt;b&gt;Low income countries&lt;/b&gt;&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt;2. &lt;b&gt;Middle income countries &lt;/b&gt;&lt;/li&gt;
+        &lt;li&gt; 3. &lt;b&gt;High Income Countries&lt;/b&gt;&lt;/li&gt;
+        &lt;li&gt;4. &lt;b&gt;I have no idea!&lt;/b&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;3&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/Awareness/Factfulness-Facts-about-the-World/Extreme-Poverty.jpg" alt="Extreme Poverty" title="Extreme Poverty" /&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt;In the last 20 years, the proportion of the world population living in extreme poverty has...&lt;/h4&gt;
+&lt;p&gt;
+Over the past twenty years, the proportion of the global population living in extreme poverty has undergone drastic change. This is absolutely revolutionary!  To the extent, that it can be considered to be the most important change to happen in the world in our lifetime.
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;1. &lt;b&gt;almost doubled.&lt;/b&gt;&lt;/li&gt;
+        &lt;li&gt;2. &lt;b&gt;remained more or less the same.&lt;/b&gt;&lt;/li&gt;
+        &lt;li&gt; 3. &lt;b&gt;increased by 25 percent.&lt;/b&gt;&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt;4. &lt;b&gt;almost halved.&lt;/b&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;4&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/Awareness/Factfulness-Facts-about-the-World/Life-expectancy.jpg" alt="Life Expectancy" title="Life Expectancy" /&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt;What is the life expectancy of the world today? &lt;/h4&gt;
+&lt;p&gt;
+Do you believe that life expectancy, in a particular country, means the average age to which a person lives? Well, the reality is much more complicated. Mathematically, the largest driving factor in life expectancy isn't the longevity of a country's oldest citizens, but the number of people who die young. With that in mind, life expectancy can be viewed as a measure of public health factors like access to childcare services, traffic safety, hospital capacity, the prevalence of smoking and so on. In many cases, the metrics can be affected by broad ecological issues like droughts or wildfires.
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;1. &lt;b&gt;50 years&lt;/b&gt;&lt;/li&gt;
+        &lt;li&gt;2. &lt;b&gt;60 years&lt;/b&gt;&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt; 3. &lt;b&gt;70 years&lt;/b&gt;&lt;/li&gt;
+        &lt;li&gt;4. &lt;b&gt;80 years&lt;/b&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;5&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/Awareness/Factfulness-Facts-about-the-World/Children-India.jpg" alt="Child Population" title="Children India" /&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt;There are 2 billion children in the world today, aged 0 to 15 years old. How many children will there be in the year 2100, according to the United Nations? &lt;/h4&gt;
+&lt;p&gt;
+The number of children under the age of five peaked in 2007 and since then the number has been falling. The number of Indians under 15 years old peaked slightly later (in 2011) and is now also declining. These are landmark moments in world population change.
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;1. &lt;b&gt;4 billion&lt;/b&gt;&lt;/li&gt;
+        &lt;li&gt;2. &lt;b&gt;3 billion&lt;/b&gt;&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt; 3. &lt;b&gt;2 billion&lt;/b&gt;&lt;/li&gt;
+        &lt;li&gt;4. &lt;b&gt;1 billion&lt;/b&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;6&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/Awareness/Factfulness-Facts-about-the-World/World-Population.jpg" alt="World Population Estimation" title="World Population" /&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt;The UN predicts that by 2100 the world population will have increased by another 4 billion people. What is the main reason?&lt;/h4&gt;
+&lt;p&gt;
+There will be a billion more people in the world by 2030, bringing the total global population from 7.3 billion in mid-2015 to 8.5 billion in 2030, 9.7 billion in 2050, and 11.2 billion by 2100, according to new estimates from the UN. Currently, 60 percent of the global population lives in Asia, 16 percent in Africa, 10 percent in Europe, 9 percent in Latin America and the Caribbean, and only 5 percent in North America and Oceania. China and India, together, making up almost 40 percent of the world population.
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;1. &lt;b&gt;There will be more children (age below 15)&lt;/b&gt;&lt;/li&gt;
+        &lt;li&gt;2. &lt;b&gt;There will be more very old people (age 75 and older)&lt;/b&gt;&lt;/li&gt;
+        &lt;li&gt; 3. &lt;b&gt;There will be more middle aged people&lt;/b&gt;&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt;4. &lt;b&gt;There will be more adults (age 15 to 74) &lt;/b&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;7&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/Awareness/Factfulness-Facts-about-the-World/Death-due-to-natural-disasters.jpg" alt="Natural Disaster Deaths" title="Natural Disaster Deaths" /&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt;How did the number of deaths per year from natural disasters change over the last hundred years?&lt;/h4&gt;
+&lt;p&gt;
+In 2017, there were 10,000 deaths caused by natural disasters worldwide. Asia saw the highest number of human losses with 332,000 deaths. Almost half of them were caused in 2008 by Cyclone Nargis, the worst natural disaster to hit Myanmar. U.N. officials warned death tolls would only rise if greenhouse gas emissions are not reduced.
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;1. &lt;b&gt;More than doubled&lt;/b&gt;&lt;/li&gt;
+        &lt;li&gt;2. &lt;b&gt;Remained about the same&lt;/b&gt;&lt;/li&gt;
+        &lt;li&gt; 3. &lt;b&gt;Increased tenfold&lt;/b&gt;&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt;4. &lt;b&gt;Decreased to less than half&lt;/b&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;8&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/Awareness/Factfulness-Facts-about-the-World/Infant-Vaccination.jpg" alt="Infant-Vaccination" title="Infant-Vaccination" /&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt;How many of the world's 1-year old children today have been vaccinated against some disease?&lt;/h4&gt;
+&lt;p&gt;
+In 2017, 85% of infants around the world received three doses of polio vaccine. Targeted for global eradication, polio has been stopped in all countries except for Afghanistan, Pakistan and Nigeria. Hepatitis B vaccine for infants had been introduced nationwide in 187 countries by the end of 2017. Global coverage with 3 doses of hepatitis B vaccine is estimated at 84% and is as high as 93% in the Western Pacific.
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;1. &lt;b&gt;20 percent&lt;/b&gt;&lt;/li&gt;
+        &lt;li&gt;2. &lt;b&gt;40 percent&lt;/b&gt;&lt;/li&gt;
+        &lt;li&gt; 3. &lt;b&gt;60 percent&lt;/b&gt;&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt;4. &lt;b&gt;80 percent&lt;/b&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;9&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/Awareness/Factfulness-Facts-about-the-World/Girl-students-Nigeria.jpg" alt="Woman Education" title="Girl Students in Nigeria" /&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt;Worldwide, 30-year-old men have spent 10 years in school, on average. How many years have women of the same age spent in school?&lt;/h4&gt;
+&lt;p&gt;
+"Experience has shown that when women have the freedom to make their own economic and social choices, the chains of poverty can be broken; families are strengthened; income is used for more productive purposes; the spread of sexually transmitted disease slows; and socially constructive values are more likely to be handed down to the young.” – Madeleine Albright
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li data-anwser="correct"&gt;1. &lt;b&gt;9 years&lt;/b&gt;&lt;/li&gt;
+        &lt;li&gt;2. &lt;b&gt;6 years&lt;/b&gt;&lt;/li&gt;
+        &lt;li&gt; 3. &lt;b&gt;4 years&lt;/b&gt;&lt;/li&gt;
+        &lt;li&gt;4. &lt;b&gt;2 years&lt;/b&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;10&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/Awareness/Factfulness-Facts-about-the-World/Endangered-Rhino.jpg" alt="Black Rhino" title="Black Rhino" /&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt;In 1996, tigers, giant pandas, and black rhinos were listed as endangered. How many of these three species are more critically endangered today? &lt;/h4&gt;
+&lt;p&gt;
+Modern biology has grown to understand that the inhabitants of Earth depend on each other in complex ecosystems on which each species, humans included, are utterly dependent but destruction, modification, or restriction of habitat resulting from human activity such as agriculture, urban development, mining, deforestation, and pollution are considered major causes behind this threat. Human exploitation of a species for commercial, recreational, scientific, educational, or other purposes results in critically diminished population numbers, making them endangered. 
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li &gt;1. &lt;b&gt;All of them&lt;/b&gt;&lt;/li&gt;
+        &lt;li&gt;2. &lt;b&gt;Two of them&lt;/b&gt;&lt;/li&gt;
+        &lt;li&gt; 3. &lt;b&gt;One of them&lt;/b&gt;&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt;4. &lt;b&gt;None of them&lt;/b&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;11&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/Awareness/Factfulness-Facts-about-the-World/Solar-Electricity-Africa.jpg" alt="Solar-Powered-Electricity-in-Africa" title="Solar Panel Installed in an African Village" /&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt;How many people in the world have some access to electricity? &lt;/h4&gt;
+&lt;p&gt;
+According to the World bank, in 1990, 29.7% of the rural population of India had access to electricity which became 77.6% in 2016. While 82.8% of urban India already had electricity in 1990, 98.4% was recorded electrified in 2016. As contrasting as this sounds, African countries like Somalia and South Sudan had no access to electricity in 1990 and got to only 57% and 22%, respectively, in 2016, their American and European counterparts like Costa Rica and Austria, respectively, had a 100% access to electricity even before the nineties. 
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li &gt;1. &lt;b&gt;20 percent&lt;/b&gt;&lt;/li&gt;
+        &lt;li&gt;2. &lt;b&gt;40 percent&lt;/b&gt;&lt;/li&gt;
+        &lt;li&gt; 3. &lt;b&gt;60 percent&lt;/b&gt;&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt;4. &lt;b&gt;80 percent&lt;/b&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;12&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/Awareness/Factfulness-Facts-about-the-World/Global-Warming.jpg" alt="Global Warming" title="Depiction of the Effect of Global Warming" /&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt;Global climate experts believe that, over the next 100 years, the average temperature will... &lt;/h4&gt;
+&lt;p&gt;
+A rise in temperature will cause the ice caps and glaciers to melt, causing an increase in sea levels and flooding coastal cities – where most of the human civilization lives. Hotter oceans will cause severe weather fluctuations such as intense hurricanes and tsunamis, further causing havoc to human life. The absence of our polar caps and glaciers will contribute to further warming since these ice caps help reflect the sun’s heat back into space. Without them, the planet will absorb the sun’s heat more.
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li &gt;1. &lt;b&gt;get colder&lt;/b&gt;&lt;/li&gt;
+        &lt;li&gt;2. &lt;b&gt;begin to reach freezing point&lt;/b&gt;&lt;/li&gt;
+        &lt;li&gt; 3. &lt;b&gt;remain same&lt;/b&gt;&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt;4. &lt;b&gt;get warmer&lt;/b&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+&lt;p&gt;
+So, how did you fare? Did you get most of it right? Or was there a lot of guessing? 
+&lt;/p&gt;
+&lt;p&gt;
+How did you feel when you found out the correct answers? Shocked, relieved or happy?
+&lt;/p&gt;
+&lt;p&gt;
+These days the majority of people feel that things are getting worse. True, if you consider terrorism and global warming but the idea in itself is bogus. The reason you ask? It is our ignorance, our need for drama and the instinct of negativity about the world around us that makes us fail to witness the biggest &lt;i&gt; "secret silent miracle of human progress"&lt;/i&gt;. 
+&lt;/p&gt;
+&lt;p&gt;
+In the year 1800, roughly 85% of humans were below poverty line and now that number is mere 9%. Isn't that reason enough to be happy? (Okay, may be not for the 9%, but the rest of us?) We have escaped hell and every source of human suffering is about to be eradicated. So, while that happens, let's just do our best for the environment and try and live as one just like humanity was supposed to. 
+&lt;/p&gt;
+&lt;p class="well"&gt;
+&lt;b&gt;About the Quiz :&lt;/b&gt; This quiz is part of a survey conducted by the late, renowned writer and statistician, Hans Rosling. It also forms a part of his international bestseller &lt;a href="https://www.gapminder.org/factfulness-book/" target="_blank"&gt;Factfulness.&lt;/a&gt; The book is a revolutionary account of the world's demographic statistics and changes in global trends in the past decades.&lt;br&gt;
+Other Sources: &lt;a href="https://www.gapminder.org/" target="_blank"&gt;Gapminder&lt;/a&gt;, &lt;a href="https://www.statista.com/" target="_blank"&gt;Statistica&lt;/a&gt;, &lt;a href="https://www.infoplease.com/" target="_blank"&gt;Infoplease&lt;/a&gt;, &lt;a href="https://borgenproject.org/" target="_blank"&gt;The Borgen Project&lt;/a&gt;, &lt;a href="https://www.investopedia.com/" target="_blank"&gt;Investopedia&lt;/a&gt;, &lt;a href="https://ourworldindata.org/" target="_blank"&gt;Our World in Data&lt;/a&gt;, &lt;a href="https://www.washingtonpost.com/news/wonk/wp/2015/08/17/5-ways-the-world-will-look-dramatically-different-in-2100/?utm_term=.58123846185b" target="_blank"&gt;The Washington Post&lt;/a&gt;, &lt;a href="http://www.theworldcounts.com/" target="_blank"&gt;The World Counts&lt;/a&gt;, &lt;a href="http://www.worldbank.org/" target=_blank"&gt;The World Bank&lt;/a&gt;, &lt;a href="https://onekindplanet.org/" target="_blank"&gt;One Kind Planet&lt;/a&gt;, &lt;a href="http://www.bagheera.com/" target=_blank"&gt;Bagheera&lt;/a&gt;, &lt;a href="https://www.thoughtco.com/" target="_blank"&gt;Thought Co.&lt;/a&gt;, &lt;a href="https://www.who.int/" target=_blank"&gt;WHO&lt;/a&gt;, &lt;a href="http://time.com/" target=_blank"&gt;Time&lt;/a&gt;.
+&lt;/p&gt;</Text>
+  <WriterName>Team Rockying</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>quiz/find-out-why-you-have-been-totally-wrong-about-the-most-basic-facts-about-the-world</URL>
+</Article>

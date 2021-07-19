@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Wear Designer Sunglasses and Protect Your Eyes in Style</Title>
+  <MetaTitle>How To Protect Your Eyes With Fashionable Sunglasses Available Online</MetaTitle>
+  <OGImage>http://www.rockying.com/art/Lifestyle/Fashion/Designer-Sunglasses-for-Eye-Protection/Ball-shaped-beach-blur.jpeg</OGImage>
+  <OGDescription>Wearing protective sunglasses is mandatory after Lasik surgery to protect your eyes from dust. Read on how to protect your eyes with designer sunglasses...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>16</Category>
+  <Tag>Fashion, Glares, Sunglasses, Designer Sunglasses, Style, Vision, Eyesight, Eye Defects, UV Protection, Eye Fashion.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Lifestyle/Fashion/Designer-Sunglasses-for-Eye-Protection/Ball-shaped-beach-blur.jpeg' alt='' /&gt;&lt;p&gt;Wearing protective sunglasses is mandatory after Lasik surgery to protect your eyes from dust. Read on how to protect your eyes with designer sunglasses...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+Eyes are precious, no proof required for that. They call them the windows to our soul and boy do they need care and protection. Owning a pair of good quality sunglasses is a worthy investment in protecting your eyes from the harsh sun rays and dust. Also, wearing protective sunglasses is mandatory after Lasik surgery to protect your eyes from daily wear and tear. Read on for more on how to care for your eyes with designer sunglasses available nowhere else but online! 
+&lt;hr&gt;
+&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/Lifestyle/Fashion/Designer-Sunglasses-for-Eye-Protection/Ball-shaped-beach-blur.jpeg" alt="Ball-shaped-beach-blur Glasses"&gt;
+Source: Pexels
+&lt;hr&gt;
+&lt;h2&gt;Here’s the Catch:&lt;/h2&gt;
+&lt;p&gt;
+Years of exposure to the sun’s hidden components comes with a risk of retinal injury and other side effects. Protecting the eyes from UV rays is a must. Covering them with a pair of classy glares protects your eyelid, skin, lens, cornea, and other sensitive parts of the eye from damage. Without professional guidance, the eyes might develop partial or complete blindness as a result of prolonged exposure to UV rays. Other factors, hazardous to the eyes include bad eye care. This comes with issues, namely:
+&lt;/p&gt;
+&lt;p&gt;
+&lt;li&gt;Pterygium&lt;/li&gt;
+&lt;li&gt;Eye cancer&lt;/li&gt;
+&lt;li&gt;Photokeratitis&lt;/li&gt;
+&lt;li&gt;Macular degeneration&lt;/li&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;So, How to Protect your Eyes?&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;
+Eye care professionals suggest investing in good quality glasses to shield the eyes from extreme heat, UV radiation, and dust. We live in fortunate times and finding where to get elegant and trendy looking shades is very easy these days. Quality protective glasses improve visual clarity along with protection. 
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Choosing Sunglasses&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;
+When planning to shop for designer glasses, consider those that can erase about 100 percent UV rays with a comfy and chic look. Luckily, there are loads to choose from, for your kind of activity. Regardless of whether you’re taking a desert safari trek in Jaisalmer or hitting the beach in Goa, quality polarized sunglasses will protect your eyes from glare and unwanted foreign objects. This will allow a clear vision without any room for complications.
+&lt;/p&gt;
+&lt;p&gt; 
+Modern fashion trends require wearing up to date and comfortable sunglasses. So, apart from care, sunglasses are the favorite accessory of making a &lt;a href="https://www.elle.com/fashion/a21613074/2018-sunglasses-trends-skinny-statement-sporty-heart-70s/" target=_blank"&gt;fashion statement&lt;/a&gt;. Imagine a bunch of teens that spend their whole day in sharing selfies on social media. However, it’s important to decide the color and degree of darkness for the sunglasses for complete protection from UV rays.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;There’s more...&lt;/h2&gt;
+&lt;p&gt;
+The right sunglasses would have to have the correct color intensity to block harsh UV rays from the sun. Apart from protection from the elements and looking modern AF, sunglasses can help disguise abnormal appearance for people with visual impairment including:
+&lt;/p&gt;
+&lt;p&gt;
+&lt;li&gt;Cataract&lt;/li&gt;
+&lt;li&gt;Blindness&lt;/li&gt;
+&lt;li&gt;Nystagmus&lt;/li&gt;
+&lt;li&gt;Dilated pupils&lt;/li&gt;
+&lt;li&gt;Exophthalmos&lt;/li&gt;
+&lt;li&gt;Bloodshot eyes&lt;/li&gt;
+&lt;li&gt;Monocular vision&lt;/li&gt;
+&lt;/p&gt;
+&lt;p&gt;
+You just have to choose the right kind of glasses that suit your condition and match your facial features. &lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;And Finally...&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;
+Wearing branded glasses from a reliable store is the trick to have a good vision and complete protection from glare. Fortunately, these days, you can buy quality sunglasses online at an affordable price, without any hassle, and delivered to your place. You just have to be sure of choosing a reputable store with quality polarized sunglasses in various styles, designs, colors, and sizes to meet your requirements. Stepping out with your kind of designer sunglasses on will make you look stunning along with a healthier vision.
+&lt;/p&gt;</Text>
+  <WriterName>Ashly William</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>how-to-protect-your-eyes-with-designer-glasses-available-online</URL>
+</Article>

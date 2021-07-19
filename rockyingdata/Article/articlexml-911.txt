@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>10 Tips for a Healthy Lifestyle</Title>
+  <MetaTitle>10 tips for healthy lifestyle</MetaTitle>
+  <OGImage>&lt; img src= "http://www.rockying.com/art/health/Healthy.jpg" alt= "Yoga"&gt;</OGImage>
+  <OGDescription>This article gives an insight about the benefits of living healthy life and the tips associated with it . Those who will follow the basic tips mentioned in the article will definitely improve their physical and mental health.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Healthy lifestyle, balanced diet, exercise, quality sleep, sedentary lifestyle, ill effects of smoking and drinking</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='&lt; img src= "http://www.rockying.com/art/health/Healthy.jpg" alt= "Yoga"&gt;' alt='' /&gt;&lt;p&gt;This article gives an insight about the benefits of living healthy life and the tips associated with it . Those who will follow the basic tips mentioned in the article will definitely improve their physical and mental health.&lt;/p&gt;</Description>
+  <Text>TEN TIPS FOR A HEALTHY LIFESTYLE
+
+A healthy lifestyle is very imperative to stay fit and energetic. There was a time when physical fitness alone was considered important, however, both body and mind are equally important and the basis of having a healthy lifestyle. Several diseases automatically get alleviated if you follow a healthy lifestyle. It is a key to self-happiness, self-motivation, and self-determination. Many celebrities these days follow health tips to reduce aging and stay fit. Here are the top 10 tips for your healthy life:
+
+1. Balanced Diet: 
+
+	A balanced diet is of paramount importance for a healthy life. By definition, it means a diet which contains all the nutrients such as vitamin, minerals, proteins, carbohydrates, and healthy fats in an appropriate ratio.  Moreover, a balanced diet is incomplete without fruits and vegetables which are a rich source of nutrients.  A healthy diet not only prevents us from diseases but also reduces aging.  People who eat unhealthy diets are more prone to diseases. One should eat at least 3 meals a day with minimal consumption of sugar, salt, and oil. 
+
+2. Exercise: 
+
+A healthy life is almost not possible without exercise or any other physical activity such as sports. Exercise does not mean that one has to walk or run rigorously, in fact, small body moments can also help you achieve the goal. You always need to be motivated for doing tasks that involve physical activity such as walking, gardening, gyming, etc. In the beginning, it could be a tedious task but later on, your body will start enjoying it. Exercising reduces the risk of high blood pressure, diabetes, and even heart attack. It also keeps us fit and increases longevity. 
+
+3. Stay Hydrated:
+
+	 The human body is made up of about 60% water and being dehydrated can affect us both physically and mentally.  In other words, we can say that no human body can function properly without an adequate amount of water. The first and foremost benefit of drinking water is that it prevents constipation which may cause problems in our digestive system. If the digestive system does not work properly, the other parts of the body are also affected. Secondly, It prevents the kidney from being damaged. Apart from this, healthy skin, less weight gain, regulation of body temperature are done by water. 
+
+4. Sleep Well&lt;/h2&gt;
+
+	Good quality sleep is as imperative as exercise and a balanced diet because during this time the body repairs all the cells and organs and prepares them to work more efficiently the following day. Sleep deficiency often causes high blood pressure, diabetes, poor functioning of the kidney, and stroke. Depression is a very common problem these days which is generally observed in people who are sleep deprived. The sleeping time is different for kids, teenagers, toddlers, however for adults it is generally 7-8 hours. Try to stay away from electronic gadgets before bedtime.  
+
+5. Watch your Weight:
+
+ 	Keep a track of your weight daily so that you know at early stages whether you are gaining or reducing. Generally, people only bother about their increasing weight and not about the declining weight which is against a healthy lifestyle because being underweight may cause malnutrition and other related diseases. 
+
+6. Say No to Sedentary Lifestyle:
+
+	Technology has turned human beings into couch potatoes. People of all age groups are glued to their smartphones these days. Instead of doing physical activities such as walking, gardening, or sports they love to spend time on video games. This sedentary lifestyle has given rise to many diseases. In India, the urban population is more obese as compared to the rural population because of their sedentary lifestyle and long office hours. 
+
+7. Minimize Screen Time:
+
+	Screen time might just be the new pandemic humans have to deal with before it's too late.  Try to bring it down to less than 2 hours a day. Time spent in front of a screen is time not spent being physically active. So turn off the TV or computer and start participating in sports. 
+
+8. No Smoking/Drinking: 
+
+	Both smoking and drinking are unhealthy habits. Let us discuss smoking first, the nicotine resent in cigarettes causes addiction in human beings. So, once you start this habit just for fun sake it becomes very difficult to quit it. Smoking causes lung cancer,  kidney cancer, heart attack, infertility, and several other diseases. people who don't smoke tend to live longer and healthy. Smoking is harmful to active as well as passive smokers. 
+Alcohol is as bad as smoking and addictive too. It is a diuretic, which means it drains minerals from your body. Binge drinking can cause immediate problems such as vomiting, nausea, and blurred vision. In long run, It affects the functioning of the brain, liver, and other major organs. 
+
+9. Keep Good Company:
+
+	To live healthy and happy, it is very important to be surrounded by happy and positive people. These positive people act as your role model during tough times and guide you properly.   Happiness increases productivity, peace, and harmony in life. If you are surrounded by negative people, your energy will always be down and you will feel anxious and nervous. Depression is also a common issue these days. Sometimes, talking with a loved one can also reduce our stress and anxiety. 
+
+10. Be a Nature lover/ Admire Nature 
+
+	Nature is great medicine for the emotional as well as the physical well-being of humans. Time spend with nature helps in reducing stress, fear, and anxiety. The chirping of birds, the lush green garden relaxes our mind. In addition, people who spend more time with nature are prone to diseases such as blood pressure and diabetes and stay active. 
+
+Following these tips will definitely have a great impact on your physical as well as mental health. During this tough time of the global pandemic, when everyone is talking about immunity and good health, these tips can be of great help to you.</Text>
+  <WriterName>Anu</WriterName>
+  <WriterEmail>anu29_sharma@yahoo.co.in</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>10-tips-for-healthy-lifestyle</URL>
+</Article>

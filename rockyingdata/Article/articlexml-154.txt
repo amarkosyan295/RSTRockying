@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>154</ID>
+  <Title>Concept Olds!</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/1954-Concept-Olds-Rocket-F88/1.jpg</OGImage>
+  <OGDescription>Concept Cars...The oldies???</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>18</Category>
+  <Tag>Concept Cars,1954 Oldsmobile F-88 Concept Information</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/1954-Concept-Olds-Rocket-F88/1.jpg" title="Concept Olds" alt="" style="width: 700px;"&gt;1954 Oldsmobile F-88 Concept information...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;/p&gt;&lt;div class="slideshow"&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;h4&gt;The Oldsmobile F-88 is one of the most historically significant vehicles of its era and considered by many automotive historians to be a great expression of automotive design from the 1950s Golden Age.&lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/1954-Concept-Olds-Rocket-F88/1.jpg" title="Concept Olds" alt="" style="width: 700px;"&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;h4&gt;&lt;span class="boxContent"&gt;Designed during 1952-1953, around the same time as the first Motorama Corvette, the preliminary sketches of the F-88 came from veteran designer Bill Lange.&lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/1954-Concept-Olds-Rocket-F88/2.jpg" title="Concept-Olds-Rocket" alt="" style="width: 700px;"&gt;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/1954-Concept-Olds-Rocket-F88/3.jpg" title="Concept-Olds-Rocket-F88 Wheels" alt="" style="width: 700px;"&gt;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;4
+&lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/1954-Concept-Olds-Rocket-F88/4.jpg" title="Concept-Olds-Rocket Front View" alt="" style="width: 700px;"&gt;&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;5
+&lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/1954-Concept-Olds-Rocket-F88/5.jpg" title="Concept-Olds-Rocket-F88 from the inside" alt="" style="width: 700px;"&gt;&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;6
+&lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/1954-Concept-Olds-Rocket-F88/6.jpg" title="Concept-Olds-Rocket " alt="" style="width: 700px;"&gt;&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;7
+&lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/1954-Concept-Olds-Rocket-F88/7.jpg" title="Concept-Olds-Rocket-F88" alt="" style="width: 700px;"&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;/p&gt;</Text>
+  <SlideShowOn>true</SlideShowOn>
+  <WriterName>Raj Kiran Singh</WriterName>
+  <WriterEmail>rajkiran.singh@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+</Article>

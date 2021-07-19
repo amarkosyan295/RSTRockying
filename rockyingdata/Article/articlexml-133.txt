@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>133</ID>
+  <Title>Namaste India Part II: Delhi</Title>
+  <MetaTitle>Namaste India Part II: Delhi</MetaTitle>
+  <OGImage>//www.rockying.com/art/Travel/Namaste%20India/Delhi/Amar.Jyoti.jpg</OGImage>
+  <OGDescription>Next in the voyage is our very Saddi Dilli...Come explore the capital with us...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Delhi, India, Travel Destination India, Capital Of India</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Travel/Namaste%20India/Delhi/Amar.Jyoti.jpg' alt='' /&gt;&lt;p&gt;Next in the voyage is our very Saddi Dilli...Come explore the capital with us...&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;button id="prevslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+        font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+        padding: 0px; background-color: transparent;'&gt;
+        &amp;lsaquo;
+    &lt;/button&gt;
+    &lt;button id="nextslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+        font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+        padding: 0px; background-color: transparent;'&gt;
+        &amp;rsaquo;
+    &lt;/button&gt;
+&lt;/div&gt;
+    &lt;div
+        class="slideshow" style="text-align: center;"&gt;
+        &lt;div class="slide"&gt;
+            &lt;h4&gt;
+                Next in the voyage is our very own '&lt;i&gt;Saddi Dilli&lt;/i&gt;'...Dig into the capital with
+                &lt;a href="http://www.facebook.com/RockyingMag"&gt;Rockying&lt;/a&gt;.&lt;/h4&gt;
+            &lt;img src="//rockying.com/art/Travel/Namaste%20India/Delhi/3.pillars.of.India.jpg"
+                title="The Three Flags At India Gate" alt="" style="width: 600px;" /&gt;
+            &lt;h4&gt;
+                At The India Gate;
+            &lt;/h4&gt;
+            &lt;h5&gt;
+                No! These are not graffiti flags. These are the three “pillars” of India- army,
+                navy and airforce. They have literally walked us through the yellowed pages of history
+                for decades. Salaam!&lt;/h5&gt;
+            &lt;p&gt;
+                Photo by: &lt;a href="http://www.facebook.com/akansha.bajpai.9"&gt;Akansha Bajpai&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;h4&gt;
+                Amar Jawan Jyoti&lt;/h4&gt;
+            &lt;img src="//rockying.com/art/Travel/Namaste%20India/Delhi/Amar.Jyoti.jpg"
+                title="Amar Jyoti" alt="" style="width: 600px;" /&gt;
+            &lt;h5&gt;
+                Let the mist of endless wars evaporate;&lt;/h5&gt;
+            &lt;p&gt;
+                I will burn for my country even if the night comes to claim your life. Burn, Amar
+                Jyoti Jawan. Let this be the epicenter of ambition, brotherhood and peace!
+            &lt;/p&gt;
+            &lt;p&gt;
+                Photo by: &lt;a href="http://www.facebook.com/akansha.bajpai.9"&gt;Akansha Bajpai&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Travel/Namaste%20India/Delhi/Gaurd.to.the.heritage.jpg"
+                title="Guard to the Heritage" alt="" style="height: 600px;" /&gt;
+            &lt;p&gt;
+                They have faced the horrors of darkness and blood with a smile. As the sunshine
+                falls on his face like a chiaroscuro, they give us a reason to live and prosper.
+                Meet the soldiers of our nation… “Son after son – never to return from the night
+                of torture”. We salute you!
+            &lt;/p&gt;
+            &lt;p&gt;
+                Photo by : &lt;a href="http://www.facebook.com/akansha.bajpai.9"&gt;Akansha Bajpai&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Travel/Namaste%20India/Delhi/quatab.Minar.000.jpg"
+                title="Quatab Minar" alt="" style="width: 600px;" /&gt;
+            &lt;p&gt;
+                A museum of history (A distant view of the Qutub Minar). These ruins have witnessed
+                many civilizations come and go. Sadly, now they are the scribble-ground for young
+                lovers!
+            &lt;/p&gt;
+            &lt;p&gt;
+                Photo by: &lt;a href="http://www.facebook.com/akansha.bajpai.9"&gt;Akansha Bajpai&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Travel/Namaste%20India/Delhi/Indianism.jpg"
+                title="India Gate at Night" alt="" style="width: 600px;" /&gt;
+            &lt;h4&gt;
+                Indianism Embodied! (India Gate at night)&lt;/h4&gt;
+            &lt;p&gt;
+                Photo by: &lt;a href="http://www.facebook.com/ikhtilaaf"&gt;Faisal Sadaquat Hussain Rizvi&lt;/a&gt;
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Travel/Namaste%20India/Delhi/IMG_0323%20%281%29.jpg"
+                title="CNG Buses" alt="" style="width: 600px;" /&gt;&lt;p&gt;
+                    CNG Buses- this is Delhi’s crowning glory. These orange, green and red coloured
+                    buses have changed the face of Delhi since the Commonwealth Games were held in 2010!
+                    You might also find Ho-Ho buses that help you tour the city! &lt;a target="_blank" href="http://www.hohodelhi.com/"&gt;
+                        Findoutmore&lt;/a&gt;.&lt;/p&gt;
+            &lt;p&gt;
+                Photo By: &lt;a href="http://www.facebook.com/devk.mehra"&gt;Dev Mehra&lt;/a&gt;&lt;br&gt;
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Travel/Namaste%20India/Delhi/DSC04862%20%281%29.jpg"
+                title="Jama Masjid" alt="" style="height: 600px;" class="pull-left;" /&gt;&lt;p&gt;
+                    Jama Masjid entrance: A door that is perfectly anachronistic. Standing against the
+                    sands of time, Jama Masjid is dilli ki shaan and echoes the bygone Mughal empire.
+                    This monument is beyond religion and time.
+                &lt;/p&gt;
+            &lt;p&gt;
+                Photo By: &lt;a href="http://www.facebook.com/devk.mehra"&gt;Dev Mehra&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Travel/Namaste%20India/Delhi/DSC04869%20%281%29.jpg"
+                title="Jama Masjid" alt="" style="width: 600px;" /&gt;&lt;p&gt;
+                    Jama Masjid: Grand, authoritative and stupefying architecture- Jama Masjid will
+                    compel every tourist for a visit.&lt;/p&gt;
+            &lt;p&gt;
+                Photo By: &lt;a href="http://www.facebook.com/devk.mehra"&gt;Dev Mehra&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Travel/Namaste%20India/Delhi/DSC04870%20%281%29.jpg"
+                title="Jama Masjid Ceiling" alt="" style="width: 600px;" /&gt;&lt;p&gt;
+                    Jama Masjid’s Ceiling. This is just like what it was thousands of years ago. This
+                    ceiling has heard the silent prayers of many.&lt;/p&gt;
+            &lt;p&gt;
+                Photo By: &lt;a href="http://www.facebook.com/devk.mehra"&gt;Dev Mehra&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Travel/Namaste%20India/Delhi/DSC04875.jpg"
+                title="Isa Khan Niyazi" alt="" style="width: 600px;" /&gt;&lt;p&gt;
+                    Isa Khan Niyazi's mausoleum. A noble in the court of Sher Shah Suri who was known
+                    for fighting the Mughal empire, this tomb is an architectural marvel. Notice the
+                    mehrabs in the mosque that is built along with the tomb!&lt;/p&gt;
+            &lt;p&gt;
+                Photo By: &lt;a href="http://www.facebook.com/devk.mehra"&gt;Dev Mehra&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Travel/Namaste%20India/Delhi/DSC04880.1.jpg"
+                title="Jama Masjid Aerial View" alt="" style="width: 600px;" /&gt;&lt;p&gt;
+                    It is the magic of Jama Masjid that still electrifies the spirit of Delhi. Here
+                    is an aerial view of Jama Masjid!&lt;/p&gt;
+            &lt;p&gt;
+                Photo By: &lt;a href="http://www.facebook.com/devk.mehra"&gt;Dev Mehra&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Travel/Namaste%20India/Delhi/DSCN0860%20%281%29.jpg"
+                title="Colorful Bangles" alt="" style="width: 600px;" /&gt;&lt;h4&gt;
+                    Bangles! Colourful ones. Mix and match it with jeans and dressy tops and “chutney-fy”
+                    your look. You can find tonnes of them in local street shops or farris as the dilliwallahs
+                    call them!&lt;/h4&gt;
+            &lt;p&gt;
+                Photo By: &lt;a href="http://www.facebook.com/devk.mehra"&gt;Dev Mehra&lt;/a&gt;
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Travel/Namaste%20India/Delhi/DSCN0862%20%281%29.jpg"
+                title="Crowded Delhi Market Place" alt="" style="width: 600px;" /&gt;&lt;h4&gt;
+                    The bustling Dilli shahar welcomes you to the ultimate shopper’s paradise! Shop
+                    till you drop, bargain your heart out and feel richer even if you did not shell
+                    out more bucks. Dilli aane ka toh Sarojini jaane ka.&lt;/h4&gt;
+            &lt;p&gt;
+                Photo By: &lt;a href="http://www.facebook.com/devk.mehra"&gt;Dev Mehra&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Travel/Namaste%20India/Delhi/DSCN0865%20%281%29.jpg"
+                title="Wooden Bangles" alt="" style="width: 600px;" /&gt;&lt;h4&gt;
+                    Wooden bangles can complete an earthy ethnic look this summer. Team it up with cotton
+                    handloom saris or printed skirts. This is totally countryside yet it makes you feel
+                    urban and chic!
+                &lt;/h4&gt;
+            &lt;p&gt;
+                Photo By: &lt;a href="http://www.facebook.com/devk.mehra"&gt;Dev Mehra&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Travel/Namaste%20India/Delhi/DSCN1024%20%281%29.jpg"
+                title="Metro Handle" alt="" style="width: 600px;" /&gt;&lt;h4&gt;
+                    This Handle supports an individual from falling on others. If you do not get a seat,
+                    cling on to one of these for a comfortable Metro journey.&lt;/h4&gt;
+            &lt;p&gt;
+                Photo By: &lt;a href="http://www.facebook.com/devk.mehra"&gt;Dev Mehra&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Travel/Namaste%20India/Delhi/DSCN1022%20%281%29.jpg"
+                title="Delhi Metro" alt="" style="width: 600px;" /&gt;&lt;h4&gt;
+                    Ah! “Dilli Metro me photo kheenchna ek dandniya apraadh hai” Still. We had to do
+                    this. We boast of it and we know Delhi Metro is the best thing Delhi could have.
+                    By the way, are these people trying to figure out what station are they in???&lt;/h4&gt;
+            &lt;p&gt;
+                Photo By: &lt;a href="http://www.facebook.com/devk.mehra"&gt;Dev Mehra&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Travel/Namaste%20India/Delhi/IMG_0214%20%281%29.jpg"
+                title="Fruit Vendor" alt="" style="width: 600px;" /&gt;&lt;h4&gt;
+                    Aaaamm!! Squeeze it out, have it as a shake or simply have it chilled.. Mangoes
+                    is what sustains Delhiwallahs in this terrible heat. By the way, did you know mangoes
+                    turn sweeter in Delhi heat?&lt;/h4&gt;
+            &lt;p&gt;
+                Photo By: &lt;a href="http://www.facebook.com/devk.mehra"&gt;Dev Mehra&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Travel/Namaste%20India/Delhi/IMG_0216%20%281%29.jpg"
+                title="Accessories for Girls" alt="" style="width: 600px;" /&gt;&lt;h4&gt;
+                    This is every girl’s must-have. Every girl does turn her head at least once while
+                    walking on the street and stop to check these latest accessories! So, do what the
+                    dilliwallahs do to sink into the city!&lt;/h4&gt;
+            &lt;p&gt;
+                Photo By: &lt;a href="http://www.facebook.com/devk.mehra"&gt;Dev Mehra&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Travel/Namaste%20India/Delhi/DSCN0875%20%281%29.jpg"
+                title="Bangla Sahib from Inside" alt="" style="width: 600px;" /&gt;&lt;h4&gt;
+                    An inside view of Gurdwara Bangla Sahib. The sobriety and the meditative minds add
+                    a unique aura to the place.&lt;/h4&gt;
+            &lt;p&gt;
+                Photo By: &lt;a href="http://www.facebook.com/devk.mehra"&gt;Dev Mehra&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Travel/Namaste%20India/Delhi/IMG_5952%20%281%29.jpg"
+                title="Gurdwara Bangla Sahib" alt="" style="height: 600px;" /&gt;&lt;h4&gt;
+                    Gurdwara Bangla Sahib is a must visit even if you are an atheist. The gurbanis can
+                    melt every heart and tread you towards meditation. This holds the peace of the city
+                    together.&lt;/h4&gt;
+            &lt;p&gt;
+                Photo By: &lt;a href="http://www.facebook.com/devk.mehra"&gt;Dev Mehra&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Travel/Namaste%20India/Delhi/IMG_0261%20%281%29.jpg"
+                title="Ear cleaning in progress" alt="" style="width: 600px;" /&gt;&lt;h4&gt;
+                    Ear cleaning? Believe it. The city does offer endless possibilities of “luxury”
+                    services that can even help you get rid of that extra wax formed in your ear! So,
+                    feeling lazy to bud your ear? You know what to do.&lt;/h4&gt;
+            &lt;p&gt;
+                Photo By: &lt;a href="http://www.facebook.com/devk.mehra"&gt;Dev Mehra&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;</Text>
+  <WriterName>admin</WriterName>
+  <WriterEmail>preeti.singh@rudrasofttech.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>133</URL>
+</Article>

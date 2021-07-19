@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>56</ID>
+  <Title>Turkey; Cappadocia And Its Magical Landscape</Title>
+  <MetaTitle>Turkey; Cappadocia And Its Magical Landscape</MetaTitle>
+  <OGImage>//www.rockying.com/art/Turkey/ihlara-valley.jpg</OGImage>
+  <OGDescription>Magical Landscape, Cappadocia, Turkey</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Turkey, Cappadocia, Tourist destination Turkey, Landscape at Cappadocia</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Turkey/ihlara-valley.jpg' alt='' /&gt;&lt;p&gt;Magical Landscape, Cappadocia, Turkey&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    The third&lt;a href="https://twitter.com/#%21/CilginkizMary"&gt;&lt;img src="http://www.rockying.com/art/Turkey/Christmas_Turkey_Tour.jpg"
+        title="Cappacodia; Turkey" alt="Turkey Map" style="width: 230px;" class="pull-right" /&gt;&lt;/a&gt;
+    in the travel interview series, we explore the ravisher &lt;a href="http://en.wikipedia.org/wiki/Cappadocia"&gt;
+        Cappadocia&lt;/a&gt; in Turkey. Mary Nolan, an Ireland resident reveals her sojourn...&lt;/p&gt;
+&lt;h3&gt;
+    A little bit about the traveler:&lt;/h3&gt;
+&lt;p&gt;
+    &lt;a href="https://twitter.com/#%21/CilginkizMary"&gt;Mary Nolan&lt;/a&gt;, fifty something
+    mother of four, is a primary school teacher and has lived and worked in a small
+    village in the south east of Ireland. She loves to travel and usually combines this
+    with her passion for photography.
+&lt;/p&gt;
+&lt;h3&gt;
+    Her favorite holiday destination:
+&lt;/h3&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="//rockying.com/art/Turkey/Cappadocia.jpg" title="An Overview Of Cappadocia"
+        alt="" class="pull-left" style="width: 400px;" /&gt;In recent years she has traveled
+    to Turkey three or four times a year. Its rich and varied culture made every trip
+    an adventure for her. Turkey provides the best of everything – history, sun, sea
+    and a wonderful cuisine to compliment all that, because the country is so vast they
+    say that you can find all four seasons here at any given time. While she usually
+    bases herself on the west coast she likes to explore the rest of the country and
+    &lt;b&gt;&lt;a target="_blank" title="Cappadocia" href="http://en.wikipedia.org/wiki/Cappadocia"&gt;
+        Cappadocia&lt;/a&gt;&lt;/b&gt; is the most interesting place she visited here.&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    Cappadocia is an area of natural wonder,
+    &lt;img src="//rockying.com/art/Turkey/Chimney%20family.jpg" title="Chimney Family"
+        alt="" style="height: 261px;" class="pull-right" /&gt;steeped in history.&amp;nbsp;
+    Its lunar-like landscape was formed by &lt;a href="http://en.wikipedia.org/wiki/Tufa"&gt;tufa&lt;/a&gt;
+    from volcanic eruptions which has become eroded over the years into “&lt;b&gt;fairy chimneys&lt;/b&gt;”
+    caves, clefts and folds in the rock. It is this landscape that initially attracted
+    her to the area and as she recalls, "Every corner you turn there is a new vista
+    waiting and all you want to do is to nudge the person beside you and say “Wow!”".&lt;/p&gt;
+&lt;h3&gt;
+    The Stay and the experience:&lt;/h3&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="//rockying.com/art/Turkey/cave-room-at%20the%20kelebek-hotel.jpg"
+        title="Cave room at Kelebek Hotel" alt="" style="height: 300px;" class="pull-left" /&gt;They
+    stayed in the &lt;a href="http://www.kelebekhotel.com/"&gt;Kelebek Hotel&lt;/a&gt; in &lt;a href="http://en.wikipedia.org/wiki/G%C3%B6reme"&gt;
+        Goreme&lt;/a&gt;. This is a cave hotel and offers rooms for every budget, from luxury
+    suites to rooms with shared bathroom. She mocks "Our bedroom was a cave room in
+    what was originally the stables".
+&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="//rockying.com/art/Turkey/Ballooning%20Over%20Cappadocia.jpg"
+        title="Ballooning Above Cappadocia" alt="" style="height: 260px;" class="pull-right" /&gt;"We
+    had three full days to explore the area.&amp;nbsp; As we sat eating our breakfast on
+    the first morning, we watched the hot air balloons drift by" she says. This is not
+    a cheap activity, but if you plan to visit Cappadocia, you should build the cost
+    of the &lt;b&gt;balloon ride&lt;/b&gt; into your budget. It is a must do. "I’m scared of heights,
+    my husband suffers from motion sickness, but it was the most unforgettable experience
+    of our trip, a wonderful way to view this magical landscape", she smiles excitedly.&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="//rockying.com/art/Turkey/Goreme%20Museum.jpg" title="Goreme Outdoor Museum"
+        alt="" style="width: 400px;" class="pull-left" /&gt;"We visited the &lt;b&gt;Goreme Outdoor Museum&lt;/b&gt;"
+    she said, it was one of a kind museum she ever visited. The natural rock formations
+    are hollowed out by Christians, many centuries before, to form churches. The original
+    frescoes are still to be seen on the walls.&lt;/p&gt;
+&lt;p&gt;
+    &lt;img src="//rockying.com/art/Turkey/cappadocia_kaymakli.jpg" title="Kaymakli"
+        alt="" style="height: 300px;" class="pull-right" /&gt;
+    Moving on, they visit the &lt;b&gt;&lt;a href="http://en.wikipedia.org/wiki/Kaymakl%C4%B1_Underground_City"&gt;
+        underground city of Kaymakli&lt;/a&gt;&lt;/b&gt; that has 7 different levels, 4 of which
+    are open to the public. It was used by the Christians in times of persecution. It
+    was never meant for continuous occupation but was only used in times of danger.
+    There are 14 known underground cities in the region.&lt;br&gt;
+&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="//rockying.com/art/Turkey/ihlara-valley.jpg" title="Ihlara Valley"
+        alt="" style="width: 451px;" class="pull-left" /&gt;
+    If you have had enough of the history and culture you can get out and explore the
+    many valleys, Rose Valley, Pigeon Valley, Love Valley (so called for its phallic
+    like rock formations) or the beautiful green&lt;b&gt; Ihlara Valley&lt;/b&gt;, a gorge carved
+    by a small stream.
+&lt;/p&gt;
+&lt;p&gt;
+    "We spent our evenings in the restaurants in downtown Goreme, sitting on the floor
+    to eat &lt;b&gt;testi&lt;/b&gt; kebab,&lt;img src="//rockying.com/art/Turkey/Testi-Kebab-Goreme.jpg"
+        title="Testi Kebab" alt="" style="width: 249px;" class="pull-right" /&gt;
+    a dish that must be ordered at least 10 hours in advance as it is slow cooked in
+    a sealed clay pot and then opened and served at your table", she advised. Another
+    evening, they spent listening to traditional music in one of the pavement restaurants
+    where we shared our table with a Libyan couple and their six month old baby.
+&lt;/p&gt;
+&lt;h3&gt;
+    Let’s talk Money:&lt;/h3&gt;
+&lt;p&gt;
+    One of the major advantages of Cappadocia is that it is affordable on any budget.
+    Once you arrive in Turkey, there is an excellent intercity bus service; internal flights if booked in advance are not expensive. Accommodation in the area ranges from budget to luxury. Restaurants are inexpensive.
+&lt;/p&gt;
+&lt;h3&gt;
+    Best time to be there:
+&lt;/h3&gt;
+&lt;p&gt;
+    May/June and September /October are the best times to visit as the weather is not too hot and you can avoid the summer crowds.&lt;/p&gt;
+&lt;p&gt;
+    Image Courtesy: Mary Nolan, Google Images.
+&lt;/p&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>56</URL>
+</Article>

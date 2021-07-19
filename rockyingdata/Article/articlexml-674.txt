@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>पापा की दूरबीन</Title>
+  <MetaTitle>पापा की दूरबीन - Kids Stories by Rockying</MetaTitle>
+  <OGImage>//www.rockying.com/art/Fiction/Kids/kid-with-binocular.jpg</OGImage>
+  <OGDescription>फिर उसके मन में एक अनोखा विचार आया और उसने अपने पापा से पूछा - क्या हम दूरबीन से सूरज को भी देख सकते है।</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>29</Category>
+  <Tag>Kids Stories, Fiction, Papa, Rishi</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Fiction/Kids/kid-with-binocular.jpg' alt='' /&gt;&lt;p&gt;फिर उसके मन में एक अनोखा विचार आया और उसने अपने पापा से पूछा - क्या हम दूरबीन से सूरज को भी देख सकते है।&lt;/p&gt;</Description>
+  <Text>&lt;p style="text-align: center;"&gt;&lt;img src="//www.rockying.com/art/Fiction/Kids/kid-with-binocular.jpg" alt="Kid with Binoculars" width="400" height="400" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;एक बार ऋषि ने अपने पापा को कुछ अजीब सा यंत्र प्रयोग करते हुए देखा। वह अपनी आँखों पर कुछ रखकर उसमे से देख रहे थे।&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;ऋषि ने उनसे पूछा पापा यह क्या है, और आप इसके साथ क्या कर रहे है।&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;उसके पापा ने उसको बताया की यह एक दूरबीन है। जिसकी मदद से वह बहुत दूर तक देख सकते थे और वो दूर खड़े लोगों को देख रहे है।&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;ऋषि ने अपने पापा से पूछा - क्या वो भी दूरबीन से देख सकता है। पापा ने कहा हाँ क्यों नहीं।&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;ऋषि ने दूरबीन अपने पापा की सहायता से अपनी आँखों पर दूरबीन रखी।&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;यह क्या - उसे तो सब धुंदला दिखाई देने लगा। उसने झट से अपनी आँखें दूरबीन से पीछे हटा लीं। फिर वह अपने पापा से बोलै मुझे तो कुछ नहीं दिखाई दे रहा।&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;लगता है यह दूरबीन ख़राब हो गयी है। उसके पापा हंसने लगे।&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;फिर उन्होंने दूरबीन दोबारा से ऋषि की आँखों पे लगाई और उसपर लगी एक घिर्री घूमने लगे और बोले मुझे बताना जब तुम्हे सब साफ़ दिखाई देने लगे।&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;ऋषि को अचानक से सब साफ़ दिखने लगा और उनसे फ़ौरन पापा को बाताया। पापा ने कहा जब भी कुछ धुन्दला दिखे तो इसे घुमाओ और फिर वह साफ़ दिखने लगेगा। ऋषि को यह बहुत आश्चर्यजनक लगा।&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;फिर उसने खुद यह करके देखा और थोड़ी ही देर में उसे समझ में आगया की दूरबीन का इस्तेमाल कैसे करना है।&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;ऋषि ने देखा के दूर बिजली की तार पे बैठी चिड़िया बहुत निकट जान पद रही थी। वो यह बेहि देख प् रहा था की चिड़िया नीले रंग की है उसने अपने पापा से पूछा की यह कौन सा पक्षी है। पापा ने दूरबीन से देख कर बताया यह एक नीलकंठ है जिसे अंग्रेजी में किंग फिशर कहते है।&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;ऋषि को दूरबीन का इस्तेमाल करके बहुत मज़ा आरहा था।&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;फिर उसके मन में एक अनोखा विचार आया और उसने अपने पापा से पूछा - क्या हम दूरबीन से सूरज को भी देख सकते है। पापा ने मुस्कुराते हुए कहा - हाँ चाहो तो देख देख लो।&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;जैसे ही ऋषि ने दूरबीन सूरज की तरफ सीधे घुमाई वैसे ही उसकी आँखें चौंधिया गई और उसने झट से आँखे बंद करली।&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;उसके पापा ने कहा - सूरज बहुत चमकीला होता है। हम उसे सीधे नहीं देख सकते।&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;आज ऋषि ने एक नयी बात सीखी। फिर वो दोनों काफी देर तक दूरबीन से इधर उधर की चीज़े देखते रहे।&lt;/p&gt;</Text>
+  <WriterName>Manu</WriterName>
+  <WriterEmail>rajkiran.singh@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>papa-ki-durbeen</URL>
+</Article>

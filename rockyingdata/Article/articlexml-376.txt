@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Bollywood's Most Fun(ny) Songs of All Time- II</Title>
+  <OGImage>http://www.rockying.com/art/bollywood/Most-Funny-Songs/Ek-Chatur-Naar.png</OGImage>
+  <OGDescription>http://www.rockying.com/art/bollywood/Most-Funny-Songs/Ek-Chatur-Naar.png</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>15</Category>
+  <Tag>Bollywood, Funny, Music, Cinema, Songs, Hindi Music, Fun, Laughter.</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Most-Funny-Songs/Ek-Chatur-Naar.png' alt='' /&gt;&lt;p&gt;http://www.rockying.com/art/bollywood/Most-Funny-Songs/Ek-Chatur-Naar.png&lt;/p&gt;</Description>
+  <Text>&lt;h3&gt;16.  The Mr. India Parody&lt;/h3&gt;
+&lt;h3&gt;17. Jabse Hui Hai Shaadi (Thanedaar)&lt;/h3&gt;
+&lt;h3&gt;28. Aake Seedhi Lagi dil pe (Half Ticket) [https://www.youtube.com/watch?v=ZJwOzpW3k7g]&lt;/h3&gt;
+&lt;h3&gt;20. Pungi (Agent Vinod)&lt;/h3&gt;
+&lt;h3&gt;21. Patti Rap (HHM) &lt;/h3&gt;
+&lt;h3&gt;22. Daddy Cool (Chahat) (Dont miss the mimickry)&lt;/h3&gt;
+&lt;h3&gt;23. Jise Dhoondta hun main (Dil Chahta Hai) &lt;/h3&gt;
+&lt;h3&gt;24. Zor KA Jhatka (Action Replay)&lt;/h3&gt;
+&lt;h3&gt;25. Pappu Can't Dance Sala (Jaane tu Ya Jaane Na)&lt;/h3&gt;
+&lt;h3&gt;26. Lapak Jhapak tu A re Badarwa [https://www.youtube.com/watch?v=yDr9g_x2nYk] &lt;/h3&gt;&lt;p&gt;If you can get past the beginning alaap you are up for some serious fun :D &lt;/p&gt;
+&lt;h3&gt;27. Mera Nam Chinchin chu (Howrah Bridge) &lt;/h3&gt;
+&lt;h3&gt;26. Kabhi Nahin (Album-Tera Chehra) {https://www.youtube.com/watch?v=qC977wZ2w4Q}&lt;/h3&gt;
+&lt;h3&gt;27. Eena Meena Deeka (Aasha) [https://www.youtube.com/watch?v=Se1EZCE_zLo]&lt;/h3&gt;
+&lt;h3&gt;29. Rail GAdi  (Aashirwad)[https://www.youtube.com/watch?v=TcLrPIE_18o]&lt;/h3&gt;
+&lt;h3&gt;30. O Papad wale panga na le (Makdee)&lt;/h3&gt;
+&lt;h3&gt;31. Chicken Kukdoo koo (Bajrangi Bhaijaan)&lt;/h3&gt;
+&lt;h3&gt;32.  Meri Biwi Mayke chali gai&lt;/h3&gt;
+&lt;h3&gt;33. Apun jaisa tapori (Munna BHai MBBS)&lt;/h3&gt;
+&lt;h3&gt; 34. Bholi surat &lt;/h3&gt;
+&lt;h3&gt; 35. Amma Dekh &lt;h3&gt;
+&lt;h3&gt; 36. Thande-thande pani se &lt;/h3&gt;
+&lt;h3&gt; 37. Sar jo tera chakrae &lt;/h3&gt;
+&lt;h3&gt;38. Apun Bola (Josh) &lt;/h3&gt;
+&lt;h3&gt; 39. Gulaabo (Shandaar) &lt;/h3&gt;
+&lt;h3&gt; 40.</Text>
+  <WriterName>Rockying</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>bollywoods-most-funny-songs-of-all-time--ii</URL>
+</Article>

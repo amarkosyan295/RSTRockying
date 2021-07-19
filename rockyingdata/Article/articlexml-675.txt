@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>hsiCXPHvLzZzSKQ</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>JEOipaEkIyrKO</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>26</Category>
+  <Tag>lxGqgYvnRmwviJg</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;JEOipaEkIyrKO&lt;/p&gt;</Description>
+  <Text>&amp;lt;a href=&amp;quot; http://metformintop.com/# &amp;quot;&amp;gt;where to buy metformin 500 mg&amp;lt;/a&amp;gt; metformin over the counter canada
+metformin 500 mg tablets - http://metformintop.com</Text>
+  <WriterName>wQUMaiAGVrsTu</WriterName>
+  <WriterEmail>metforminto@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>hsicxphvlzzzskq</URL>
+</Article>

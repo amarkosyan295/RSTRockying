@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>121</ID>
+  <Title>Style Tips For Men; Straight From Italy</Title>
+  <OGImage>http://www.rockying.com/art/Lifestyle/Fashion/Style tips for the HUsband/Plaid.png</OGImage>
+  <OGDescription>Usually it’s the girls who are the more fashion-forward , but here guys put the ladies’ outfits to shame, hitting the streets in bold colors, rolled up cuffs, daring prints (camouflage!), and tailored blazers. Here are some takeaway fashion tips straight from Italy...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>16</Category>
+  <Tag>Fashion, Style tips, Fashion for Men, Men's Clothing</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Lifestyle/Fashion/Style tips for the HUsband/Plaid.png' alt='' /&gt;&lt;p&gt;Usually it’s the girls who are the more fashion-forward , but here guys put the ladies’ outfits to shame, hitting the streets in bold colors, rolled up cuffs, daring prints (camouflage!), and tailored blazers. Here are some takeaway fashion tips straight from Italy...&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px;  height:40px;
+            font-size: 50px; font-weight: 100; color: #000; border: none; text-align: center; margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px;height:40px;
+            font-size: 50px; font-weight: 100; color: #000;border: none; text-align: center;margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="slideshow" style=" text-align:center;"&gt;
+        &lt;div class="slide"&gt;
+            &lt;p&gt;
+                &lt;b&gt;Usually it’s the girls that are the fashion-freaks , but here guys put the
+                ladies’ outfits to shame, Here are some takeaway fashion tips straight from Italy...&lt;/b&gt;&amp;nbsp;
+            &lt;/p&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Style%20tips%20for%20the%20HUsband/Tailored-Blazers.png"
+                title="Tailored Blazers" alt="" /&gt;
+            &lt;h4&gt;
+                Tailored blazers&lt;/h4&gt;
+            &lt;p&gt;
+                A tight-fitted blazer can either be worn as a separate or with matching pants. This
+                double-breasted jacket is a classic piece that will be “in stile” for years. Feel
+                free to co-ordinate with a colorful scarf.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;h4&gt;
+                Plaid&lt;/h4&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Style%20tips%20for%20the%20HUsband/Plaid.png"
+                title="Plaid" alt="" /&gt;
+            &lt;p&gt;
+                Plaid was a hot pattern at Pitti: coats, shirts, ties—you name it. a crisp green
+                coat with a simple plaid pattern and a contrasting collar. This plaid piece will
+                look great over dress shirts and suits.
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;h4&gt;
+                Bold colors&lt;/h4&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Style%20tips%20for%20the%20HUsband/Bold-Colors.png"
+                title="Bold Colors" alt="" /&gt;
+            &lt;p&gt;
+                A bold-colored pant, blazer, or tie will add some Italian flair to your boyfriend’s
+                look.
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;h4&gt;
+                Layers layers layers&lt;/h4&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Style%20tips%20for%20the%20HUsband/Layers-Layers-Layers.png"
+                title="Layer It Up" alt="" /&gt;
+            &lt;p&gt;
+                When in doubt, layer it up! Layers are great for the cold-weather months—when you
+                get indoors, you can simply shed a piece.
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;h4&gt;
+                Pops of colors&lt;/h4&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Style%20tips%20for%20the%20HUsband/Pops-of-Colors.png"
+                title="Pops Of Colors" alt="" /&gt;
+            &lt;p&gt;
+                The tie, the hanging scarf, the socks, and the shoes. Deep, rich colors like orange,
+                yellow, and blue will make your man a classy standout on the street.
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;h4&gt;
+                Rolled-up cuffs&lt;/h4&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Style%20tips%20for%20the%20HUsband/Rolled-Up-Cuffs.png"
+                title="Rolled-Up Cuffs" alt="" /&gt;
+            &lt;p&gt;
+                Rolled-up cuffs were seen on countless ankles, and we’re totally on board with the
+                look. Just make sure your boyfriend cuffs his pants over the ankle, leaving room
+                to show off some skin (or some colorful socks!)
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;h4&gt;
+                Camouflage&lt;/h4&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Style%20tips%20for%20the%20HUsband/Camouflage.png"
+                title="Camouflage" alt="" /&gt;
+            &lt;p&gt;
+                This guy’s not blending in anywhere with this flashy camo print. Skilled in the
+                art of layering, he chose to wear the print over a tweed blazer and underneath a
+                chunky sweater. He tied the look together with a pale blue oxford shirt—an ensemble
+                fit for any adventure.
+            &lt;/p&gt;
+&lt;p&gt;&lt;h6&gt;Ever dreamt of having your own stylist to help you get exactly the look you want? Consider it done! Our Fashion stylist &lt;a href="http://www.facebook.com/chandni.malik.16?fref=ts"&gt;Chandni Malik&lt;/a&gt; is our own expert at all the things fashionable- from knowing who is wearing what to knowing how to put it all together, she will help make your shopping easy and a whole lot fun with personalized attention and advice...&lt;/p&gt;&lt;p&gt;Indulge and Stay Stylish !!!&lt;/h6&gt;&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <SlideShowOn>true</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Chandni Malik</WriterName>
+  <WriterEmail>chandni.malik@ymail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

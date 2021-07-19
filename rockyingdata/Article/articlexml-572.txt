@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>yreHHqGWKgGdtLhecR</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>3ZaNd</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>P8GKvP</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;3ZaNd&lt;/p&gt;</Description>
+  <Text>I&amp;#39;m doing a phd in chemistry http://xnxx-xnxx.site/ xnxxxx  In a written statement explaining his action, Hagel said the Justice Department advised that the law does not permit a blanket recall of all Pentagon civilians. But government attorneys concluded that the law does allow the Pentagon to eliminate furloughs for &amp;quot;employees whose responsibilities contribute to the morale, well-being, capabilities and readiness of service members.&amp;quot;</Text>
+  <WriterName>Ea9XB</WriterName>
+  <WriterEmail>kirbywbf@lycos.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>yrehhqgwkggdtlhecr</URL>
+</Article>

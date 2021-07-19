@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>oZvRUuvhXEbHDkG</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>GNOUq</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>16</Category>
+  <Tag>bmfO8</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;GNOUq&lt;/p&gt;</Description>
+  <Text>I can&amp;#39;t get a dialling tone http://xnxx.in.net/ xnxx.com  However, the simple truth is that those 4000 characters, together with the countless words and numbers you will write throughout the course of your final year of school education, will ultimately produce a simple, emphatic response on your application: &amp;amp;lsquo;successful&amp;amp;rsquo; or &amp;amp;lsquo;unsuccessful&amp;amp;rsquo;.</Text>
+  <WriterName>Wv8FGB</WriterName>
+  <WriterEmail>xaviertje@yahoo.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>ozvruuvhxebhdkg</URL>
+</Article>

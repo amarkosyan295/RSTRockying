@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>12</ID>
+  <Title>Ooh la la...Ooh la la...Ekta the new Tabby?</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Ekta%20Kapoor.jpg</OGImage>
+  <OGDescription>She is popularly known as the queen of Television, but as she forayed into the world of Silver screen, gave ace filmmakers a run for their money.  Ekta Kapoor is currently basking in the success of her latest flick the Dirty picture which got raving reviews from cinema lovers.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Ekta Kapoor, Daily Soaps, Bollywood, The Dirty Picture, Once Upon a Time in Mumbaai Sequel</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://rudrasofttech.com/rockying/art/Ekta%20Kapoor.jpg' alt='' /&gt;&lt;p&gt;She is popularly known as the queen of Television, but as she forayed into the world of Silver screen, gave ace filmmakers a run for their money.  Ekta Kapoor is currently basking in the success of her latest flick the Dirty picture which got raving reviews from cinema lovers.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    &lt;img src="http://www.rockying.com/art/Ekta%20Kapoor.jpg" title="Ekta Kapoor"
+        alt="" style="float: left;"/&gt;She is popularly known as the queen of Television,
+    but as she forayed into the world of Silver screen, gave ace filmmakers a run for
+    their money. Ekta Kapoor is currently basking in the success of her latest flick
+    the Dirty picture which got raving reviews from cinema lovers.&lt;br&gt;
+    &amp;nbsp;However, the 36 year old finds it difficult to keep herself away from the
+    small screen and at a launch of her latest serial ‘Kya hua Tera Vaada’ she had no
+    qualms in giving her due to television and that no matter what she does she will
+    always come back to her homeground, her daily soaps.&lt;br&gt;
+    &amp;nbsp;Ekta’s works like Kyunki Saas Bhi Kabhi Bahu thi and Kahaani ghar ghar ki,
+    popularly known as the saas-bahu serials received huge acclaim and made her into
+    the Queen of Prime time shows.&lt;br&gt;
+    The Icon, coming from a star studded family of father Jitendra and brother Tusshar
+    Kapoor could have easily got into acting but instead opted to make her own mark
+    through the idiot box.
+    &lt;br&gt;
+    The Producer, also has hits like Shoot out at Lokhandwala and Once Upon a time in
+    Mumbaai to her credit.&lt;br&gt;
+    The stylish lass may have made it huge on both screens but still remains grounded
+    and accredits her art of storytelling to her knowledge from the small screen. She
+    says “Coming back to work on television from films is like coming back home from
+    a long vacation”.&lt;br&gt;
+    2011 turned out a mixed bag for Ekta. Brother Tusshar’s performance in Shor in the
+    City gathered applause but not good enough for the film to work at the Box office.
+    &lt;br&gt;
+    Next came Ragini MMS guaranteeing to be the scariest movie ever but came and went
+    without grabbing much attention.&lt;br&gt;
+    Ekta’s lady luck had something else in store for her coz then had to come ... The
+    Dirty picture. Excellent direction by Milan Luthria, and superb acting performance
+    by Vidya Balan helped Ekta Kapoor proved her metal once again.&lt;br&gt;
+    So now, let us all get set for her much awaited sequel of “Once Upon a Time in mumbaai”
+    where Akshay the Khiladi Boy plays the lead. Way to go Lady. &amp;nbsp;&lt;br&gt;
+    &lt;br&gt;
+    &amp;nbsp;&lt;br&gt;
+    &lt;br&gt;
+&lt;/p&gt;</Text>
+  <WriterName>Yashika Mathur</WriterName>
+  <WriterEmail>yashikamathur05@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>ooh-la-laooh-la-la-ekta-the-new-tabby</URL>
+</Article>

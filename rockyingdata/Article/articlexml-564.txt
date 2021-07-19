@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>VtJDGGQOGdLIyVD</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>yAZBb</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>pp2sC</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;yAZBb&lt;/p&gt;</Description>
+  <Text>Accountant supermarket manager http://thumbzilla.fun/ thumbzila  But a Welsh Government spokesperson said: &amp;quot;Local health boards continue to reduce the backlog of people waiting beyond target times as part of a plan to meet target times in full by October this year.</Text>
+  <WriterName>aZFUO9</WriterName>
+  <WriterEmail>barrettm30@lycos.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>vtjdggqogdliyvd</URL>
+</Article>

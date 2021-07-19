@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>101</ID>
+  <Title>Books On The Big Screen: 2</Title>
+  <MetaTitle>Hollywood Big Hits Movies based on Books and Novels</MetaTitle>
+  <OGImage>//www.rockying.com/art/HOllywood/Movies%20on%20books%20II/jurassic%20park%20-%20book.jpg</OGImage>
+  <OGDescription>After talking about how many movies in Books on The Big Screen: 1, we published another Hollywood Big Hits Movies based on Books and Novels.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>12</Category>
+  <Tag>Hollywood, Bestsellers, Movies, Movies on Books</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/HOllywood/Movies%20on%20books%20II/jurassic%20park%20-%20book.jpg' alt='' /&gt;&lt;p&gt;After talking about how many movies in Books on The Big Screen: 1, we published another Hollywood Big Hits Movies based on Books and Novels.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    &lt;b&gt;A&lt;/b&gt;fter talking about how many famous movies were actually based on books in
+    &lt;a href="http://www.rockying.com/a/93"&gt;Books on The Big Screen: 1&lt;/a&gt;, here’s another
+    dose of blockbusters that have their scripts based on best sellers.
+    &lt;br&gt;
+    &lt;br&gt;
+    &lt;b&gt;1. JURASSIC PARK&lt;/b&gt;&lt;img src="//rockying.com/art/HOllywood/Movies%20on%20books%20II/jurassic%20park%20-%20book.jpg"
+        title="Jurassic Park The Book" alt="" style="float: left; height: 200px; width: 142px;"&gt;&lt;img
+            src="//rockying.com/art/HOllywood/Movies%20on%20books%20II/jurassic%20park%20-%20movie.jpg"
+            title="Jurassic Park The Movie" alt="" style="float: right; height: 200px;"&gt;&lt;br&gt;
+    A landmark movie in the history of computer generated images; Jurassic Park is based
+    on the novel of the same name by Michael Crichton. The film went on to be a huge
+    success and was followed by two sequels. A fourth installment is on the works and
+    is due for release in 2013. The movie enthralled moviegoers with the amazing visual
+    effects and the sound and effects for which it also took away the Academy Awards.&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;b&gt;
+        &lt;br&gt;
+    &lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;b&gt;
+        &lt;br&gt;
+    &lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;b&gt;
+        &lt;img src="//rockying.com/art/HOllywood/Movies%20on%20books%20II/bridget%20jones%20-%20book.jpg"
+            title="Bridget Stones The Book" alt="" style="float: left; height: 200px;"&gt;2.
+        BRIDGET JONES DIARY&lt;/b&gt;&lt;img src="//rockying.com/art/HOllywood/Movies%20on%20books%20II/bridget%20jones%20-%20movie.jpg"
+            title="Bridget Stones The Movie" alt="" style="height: 200px; float: right;"&gt;&lt;br&gt;
+    The book of the same name by Helen Fielding was written in the personal diary form
+    and went to be a huge success by having sold over two million copies. The movie
+    did complete justice to the spirit of the book and went to be just as successful.
+    The story traces a peep into the life of a single, overweight thirty something British
+    single girl who obsesses over her love life, her indulgence in alcohol and cigarettes
+    and her sarcastic and humorous outlook on life as a whole. But despite “all odds”
+    she goes on to tackle it all.&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;b&gt;
+        &lt;br&gt;
+    &lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;b&gt;
+        &lt;br&gt;
+    &lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;b&gt;
+        &lt;img src="//rockying.com/art/HOllywood/Movies%20on%20books%20II/pride%20and%20prejudice%20-%20book.jpg"
+            title="Pride N Prejudice The Book" alt="" style="float: left; height: 200px;"&gt;3.
+        PRIDE AND PREJUDICE&lt;/b&gt;&lt;img src="//rockying.com/art/HOllywood/Movies%20on%20books%20II/pride%20and%20prejudice%20-%20movie.jpg"
+            title="Pride N Prejudice The Movie" alt="" style="height: 200px; float: right;"&gt;&lt;br&gt;
+    Another British themed book and novel which still manages to win hearts even after
+    years of being published. The classic Jane Austen novel was turned into a reel version
+    twice - in 1940 and in 2005. Telling the story of headstrong Elizabeth Bennett and
+    her romantic interest Mr. Darcy the story reflects on the class system and inheritance
+    during the early Georgian England. The movie is remembered for its strong characters
+    and even wonderful portrayals.
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+    &lt;b&gt;
+        &lt;img src="//rockying.com/art/HOllywood/Movies%20on%20books%20II/narnia%20-%20book.jpg"
+            title="Narnia The Book" alt="" style="height: 200px; float: left;"&gt;4. CHRONICLES
+        OF NARNIA&lt;/b&gt;&lt;img src="//rockying.com/art/HOllywood/Movies%20on%20books%20II/narnia%20-%20movie.jpg"
+            title="Narnia The Movie" alt="" style="height: 200px; float: right;"&gt;&lt;br&gt;
+    The series of fantasy films have been based on the fantasy novels by C.S.Lewis.
+    So far, three movies have been made and each one seems to be better than the last.
+    The book is a narrative of adventures of children in the fictional world of Narnia
+    guided by Aslan, a talking lion and the true king of Narnia. The movies are one
+    of the highest grossing movie of all times.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+    &lt;br&gt;
+    &lt;b&gt;
+        &lt;img src="//rockying.com/art/HOllywood/Movies%20on%20books%20II/harry%20potter%20-%20book.jpg"
+            title="Harry Potter Book" alt="" style="height: 200px; float: left;"&gt;5. HARRY
+        POTTER SERIES&lt;/b&gt;&lt;img src="//rockying.com/art/HOllywood/Movies%20on%20books%20II/harry%20potter%20-%20movie.jpg"
+            title="Harry Potter Movie" alt="" style="height: 200px; float: right;"&gt;&lt;br&gt;
+    Who could ever forget the magic that J.K. Rowling has weaved through the enigmatic
+    Harry Potter series. The book, like Chronicles of Narnia, are a compilation of seven
+    fantasy novels and have been all translated to the magic on the big screen. Each
+    one of the movies have gone on to become the highest grossing movie of all times.
+    &lt;br&gt;
+    &lt;br&gt;
+    So, here’s winding up our series on the best movies inspired by best sellers. There
+    are just so many more than we would love to include but lack of space restrains
+    us from doing so!&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;b&gt;Do tell us what your favorite books are and whether you liked their reel adaptations
+        or found them not “fulfilling” your imagination?&lt;/b&gt;
+    &lt;br&gt;
+    &lt;br&gt;
+&lt;/p&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>101</URL>
+</Article>

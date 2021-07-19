@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>145</ID>
+  <Title>Most Expensive Materials in the World.</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Most-Expensive/expensive_01.jpg</OGImage>
+  <OGDescription>Top 16 Most Expensive Materials in the World</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>18</Category>
+  <Tag>Most Expensive Matter, Gold, Silver, Saffron</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://rudrasofttech.com/rockying/art/Most-Expensive/expensive_01.jpg' alt='' /&gt;&lt;p&gt;Top 16 Most Expensive Materials in the World&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+            font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+            padding: 0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+            font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+            padding: 0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="slideshow"&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Most-Expensive/expensive_01.jpg"
+                title="Saffron" alt="" style="width: 700px;"&gt;&lt;h4&gt;
+                    Out of the historical contenders for the most expensive substance like saffron,
+                    plutonium, gold, and diamond, we actually happen to find out that these are dirt
+                    as compared to the ones that actually are. Watch out for the real ones...&lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Most-Expensive/expensive_02.jpg"
+                title="Gold" alt="" style=""&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Most-Expensive/expensive_03.jpg"
+                title="Rhodium" alt="" style=""&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Most-Expensive/expensive_04.jpg"
+                title="Platinum" alt="" style=""&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Most-Expensive/expensive_05.jpg"
+                title="Methamphetamine" alt="" style=""&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Most-Expensive/expensive_07.jpg"
+                title="Rhino Horn" alt="" style=""&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Most-Expensive/expensive_08.jpg"
+                title="Heroin" alt="" style=""&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Most-Expensive/expensive_09.jpg"
+                title="Cocaine" alt="" style=""&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Most-Expensive/expensive_10.jpg"
+                title="LSD" alt="" style=""&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Most-Expensive/expensive_11.jpg"
+                title="Plutonium" alt="" style=""&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Most-Expensive/expensive_12.jpg"
+                title="Painite" alt="" style=""&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Most-Expensive/expensive_13.jpg"
+                title="Taffeit" alt="" style=""&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Most-Expensive/expensive_14.jpg"
+                title="Tritium" alt="" style=""&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Most-Expensive/expensive_15.jpg"
+                title="Diamonds" alt="" style=""&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Most-Expensive/expensive_16.jpg"
+                title="Californium" alt="" style=""&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Most-Expensive/expensive_06.jpg"
+                title="Antimatter" alt="" style=""&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <SlideShowOn>true</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Raj Kiran Singh</WriterName>
+  <WriterEmail>rajkiran.singh@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>They are not Hesitating to Take Over ; Women Film Directors and their Bollywood Journey</Title>
+  <OGImage>http://www.rockying.com/art/bollywood/Female-Centric-Films/ayesha-gul-Dor.jpg</OGImage>
+  <OGDescription>mas'lk'as</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Bollywood, Women, Hindi Films</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Female-Centric-Films/ayesha-gul-Dor.jpg' alt='' /&gt;&lt;p&gt;mas'lk'as&lt;/p&gt;</Description>
+  <Text>1. Alankrita Shrivastava
+2. Konkana Sen Sharma
+3. Gauri Shinde
+4. Kiran Rao
+5. Reema Kagti
+6. Anusha Rizvi
+7. Meghna Gulzar
+8. Zoya Akhtar
+9. Leena Yadav
+10. Nupur Asthana (Mujhse Fraandship Karoge, Bewakoofiyaan)
+11. Bhavna Talwar
+12. Tanuja Chandra
+13. Shonali Bose</Text>
+  <WriterName>Rockying</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>they-are-not-hesitating-to-take-over-bollywood-women-film-directors-and-their-notable-work</URL>
+</Article>

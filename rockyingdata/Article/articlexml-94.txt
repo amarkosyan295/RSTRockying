@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>94</ID>
+  <Title>Look Of The Day</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Lifestyle/Fashion/ggheidi.jpg</OGImage>
+  <OGDescription>Ever dreamt of having your own stylist to help you get exactly the look you want? consider it done! Our Rocking stylist- Chandni Malik is our own expert at all the things fashionable- from knowing who is wearing what to knowing how to put it all together, she will help make your shopping easy &amp; a wh</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>16</Category>
+  <Tag>Lifestyle, Fashion, Tips to Stay Fashionable, Be stylish</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://rudrasofttech.com/rockying/art/Lifestyle/Fashion/ggheidi.jpg' alt='' /&gt;&lt;p&gt;Ever dreamt of having your own stylist to help you get exactly the look you want? consider it done! Our Rocking stylist- Chandni Malik is our own expert at all the things fashionable- from knowing who is wearing what to knowing how to put it all together, she will help make your shopping easy &amp; a wh&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/ggheidi.jpg" title="Nude Rocks"
+        alt="" /&gt;&lt;/p&gt;
+&lt;h3&gt;Nude Dresses&lt;/h3&gt;
+&lt;p&gt;
+    The subdued color allows you to experiment with texture, length and accessories
+    for a truly “you” look.&lt;/p&gt;
+&lt;p&gt;
+    Do feed us with your queries on fashion and the look you want. Use the box below.
+    We'd be happy to help.
+&lt;/p&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Chandni Malik</WriterName>
+  <WriterEmail>chandnimalik@ymail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

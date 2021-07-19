@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>22</ID>
+  <Title>List of Banned Drugs in India</Title>
+  <OGImage>sample</OGImage>
+  <OGDescription>sample</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <Category>5</Category>
+  <Tag>Banned Drugs</Tag>
+  <Status>Inactive</Status>
+  <Description>&lt;p&gt;Initial content&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;Initial content&lt;/p&gt;</Text>
+  <WriterName>Preeti Singh</WriterName>
+  <WriterEmail>qwerty@gmail.com</WriterEmail>
+</Article>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>The Sun Sets to Rise Again</Title>
+  <OGImage>http://www.rockying.com/art/bollywood/Pran-Saab/Pran-Saab.jpg</OGImage>
+  <OGDescription>And so, another era passes into the eternal collective memory of the masses with the demise of veteran actor Pran. Our loss is now the gain of the other realm which will be richer with his presence...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>1</Category>
+  <Tag>Pran Saab Dead, Best Villain Pran, Bollywood Villains, Pran Saab's Obituary.</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Pran-Saab/Pran-Saab.jpg' alt='' /&gt;&lt;p&gt;And so, another era passes into the eternal collective memory of the masses with the demise of veteran actor Pran. Our loss is now the gain of the other realm which will be richer with his presence...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+And so, another era passes into the eternal collective memory of the masses with the demise of veteran actor Pran. Our loss is now the gain of the other realm which will be richer with his presence. Actors have come and actors have gone, but some special ones have just stayed on, lingering like fragrance in our lives, hinting at their presence every now and then, even though they may have officially quit the silver-screen years ago. 
+&lt;/p&gt;
+&lt;p&gt;
+Some special ones have gone onto acquiring status of legend such, that even as you allude them to stars in the firmament yet find something grossly lacking in being able to completely define their sheer aura and luminosity.  One such celebrity has been Pran saab, a hero among villains, a Colossus amidst midgets, whose mere screen-presence was enough to grab eyeballs. 
+&lt;/p&gt;
+&lt;p&gt;
+Pran Krishan Sikand, better known as Pran has an illustrious body of work spanning over six decades which itself speaks for the lasting power of this thespian who packed a punch (literally!) in his roles.
+&lt;/p&gt;
+&lt;p&gt;
+He has been the gift of Partition having started his career as villain in 1940 in the Punjabi film Yamla Jat, much before Raj Kapoor, Dev Anand and Dilip Kumar entered the film industry, Khandaan in 1942 was Pran's first film as hero which though a super-hit, made him shy away from lead roles. 
+&lt;/p&gt;
+&lt;p&gt;
+He later touched Mumbai as continuation after having acted in several films and landed Ziddi (1948), starring Dev Anand and Kamini Kaushal.   Gradually, he found his calling essaying villainous and later character roles. 
+Film lore has it that Pran saab was the highest-paid among supporting actors from 1969-1982. In the 70's, his merit and talent paid him more than heroes like Vinod Khanna, Amitabh, Navin Nischol etc. with perhaps only Rajesh Khanna having the financial edge over him!  For the 1978 film Don, Amitabh Bachchan being paid Rs 2.5 lakh while Pran Rs 7.5 lakh is enough proof of his stardom!
+&lt;/p&gt;
+&lt;p&gt;
+Wielding such clout came easy to a man of profound caliber who gave a whole new meaning to the term ‘villain’, opening newer vistas for his successors.  He accorded the term with a certain dignity and class; not for him were ugly gestures or hideous laughs to depict negativity.
+&lt;/p&gt;
+&lt;p&gt;
+Pran almost always stole the show with his stellar performances sometimes even over-shadowing the goody-goody hero with his suave, stylish and saucy expressions, body language and regal demeanour.  His ability to blow perfect smoke rings added a unique dimension to villainy as did his habit of narrowing one eye and enlarging the other to rub in that he meant (evil) business!
+&lt;/p&gt;
+&lt;p&gt;
+There would have been no ‘good guy’ (hero) in the film, if it was not for the back drop of nastiness unleashed by ‘bad man’ Pran.  The virtues of the main lead would have been insipid were it not for the twist of spice that his character lent to the cauldron of script, screenplay and dialogues.  You loved the protagonist more because of the powerful impact the bad boy was having on your sensibilities.
+&lt;/p&gt;
+&lt;p&gt;
+Film lore has it that such was the impact of his performances that parents refused to name their sons after him for obvious reasons!  He is reported to having said that if people did not shudder at his mere mention it meant his performance needed more power and punch!
+&lt;/p&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Mehek Mahtani</WriterName>
+  <WriterEmail>mehek_mahtani@yahoo.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

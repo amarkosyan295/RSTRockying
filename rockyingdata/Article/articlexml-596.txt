@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Custom Printed Guitar Picks and Straps</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>Customiss</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Customiss</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;Customiss&lt;/p&gt;</Description>
+  <Text>Wife !! 
+Surprise Your Husband With This Beautiful Wood Guitar Pick !! 
+&amp;lt;a href=https://shorturl.at/qxDQY&amp;gt;&amp;lt;img src=&amp;quot;https://i.postimg.cc/MGP0hZYQ/Page1.jpg&amp;quot;&amp;gt;&amp;lt;/a&amp;gt; 
+ 
+Order now! : https://customiss.com/products/guitarpick</Text>
+  <WriterName>Customiss</WriterName>
+  <WriterEmail>martguerita@c.southafricatravel.club</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>custom-printed-guitar-picks-and-straps</URL>
+</Article>

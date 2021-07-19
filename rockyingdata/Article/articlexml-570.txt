@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>KlCzihjMMgtxjqIDE</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>N0tq6</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>sp92he</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;N0tq6&lt;/p&gt;</Description>
+  <Text>This is the job description http://ampland.fun/ ampland  Dr. Burton Drayer, a radiology professor, got a $700,000 loan in 2008 for one upper East Side apartment while living at another home in the area, which he&amp;amp;#39;d bought in 1997 with Mount Sinai as his guarantor.</Text>
+  <WriterName>576rS</WriterName>
+  <WriterEmail>ramon1h@lycos.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>klczihjmmgtxjqide</URL>
+</Article>

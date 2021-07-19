@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>9 Fun Ways to Burn Calories!</Title>
+  <OGImage>http://www.rockying.com/art/health/Fun-to-burn-Calories/kick-boxing.jpg</OGImage>
+  <OGDescription>Rockying decides to up the fun factor in losing weight. Why not find out more interesting ways to burn calories and manage to keep weight loss fun?</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Burn Calories, Weight Loss, Swimming, Hulla-hoops, Boxing, Kick Boxing, Salsa, Hiking, Rope-Jumping, Yoga, Pilates.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/health/Fun-to-burn-Calories/kick-boxing.jpg' alt='' /&gt;&lt;p&gt;Rockying decides to up the fun factor in losing weight. Why not find out more interesting ways to burn calories and manage to keep weight loss fun?&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+            font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+            padding: 0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+            font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+            padding: 0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="slideshow"&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/health/Fun-to-burn-Calories/fun.jpg" alt="Fun while exercising" /&gt;&lt;br&gt;
+            &lt;p&gt;
+                Let’s admit it. Its tiring and very very boring to keep running on the treadmill
+                and keep doing the elliptical and that monotonous cycling. Even the regular aerobic
+                sessions can get a little tedious over time. We have been there, done that and chances
+                are that if you aren't motivated, if you aren't having fun, you will drop out too
+                soon.
+            &lt;/p&gt;
+            &lt;p&gt;
+                So, Rockying decides to up the fun factor in losing weight too. Why not find out
+                more interesting ways to burn calories and manage to keep weight loss fun. We outline
+                some of the best ways to lose weight and have some fun while at it! Slide on!
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/health/Fun-to-burn-Calories/hula-hoop.jpg"
+                alt="Hula hoops" /&gt;&lt;br&gt;
+            &lt;p&gt;
+                &lt;b&gt;HULA HOOPS&lt;/b&gt; - Yes, you must have played these as kids. But have you ever realized
+                how much worthy they can be for losing weight. A recent study by the American Council
+                on Exercise found that intermediate level hula hooping can burn as many calories
+                per minute as step aerobics or brisk walking. Besides that, it helps tone abs, back,
+                thighs, arms and legs. To begin, get a large, heavy hula hoop, preferably one that
+                comes up to your waist. Stay away from the kiddie versions in the markets; they
+                can be too tight and small.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/health/Fun-to-burn-Calories/salsa-dance.jpg"
+                alt="Salsa" /&gt;&lt;br&gt;
+            &lt;p&gt;
+                &lt;b&gt;SALSA DANCING&lt;/b&gt; - Salsa is quite the rage everywhere now. Just like the elliptical,
+                it involves movements of the hips. A lot of studios offer classes; find one close
+                to you an enroll yourself. Not only is it calorie burning, it helps tone your lower
+                body and strengthen your calves. Also, you learn a new dance form.You will be surprised
+                by how quickly time passes when you are in your salsa shoes! And what's more fun
+                than dancing?
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/health/Fun-to-burn-Calories/hikiing.jpg" alt="Hiking" /&gt;&lt;br /&gt;
+            &lt;p&gt;
+                &lt;b&gt;HIKING&lt;/b&gt; - Instead of lifting weights and doing the whole weight training;
+                try filling your bag with stuff (maybe even your books!). Not only walking with
+                weights is like a constant cardio, hiking helps in increasing muscle mass, increases
+                bone density and on forestalling conditions like osteoporosis. Also, make sure you
+                are hiking with poles. If you are walking uphill, the benefits gets extremely increased.
+                Pack your bags this weekend and go hiking with friends.
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/health/Fun-to-burn-Calories/Skipping-rope.jpg"
+                alt="Rope Jumping" /&gt;&lt;br&gt;
+            &lt;p&gt;
+                &lt;b&gt;ROPE JUMPING&lt;/b&gt;- Another favorite activity as a kid but did you know that just
+                fifteen minutes of rope jumping can burn up to 200 calories? Not only that but it
+                also strengthens your muscles and bones and improves coordination. Its like a full
+                body cardiovascular workout. Make sure you do this while wearing cross-trainers
+                (kind of sports shoes) that absorb the impact of jumping on the balls of your feet.
+                Aim for three ten minute rope jumping every week for better results.
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/health/Fun-to-burn-Calories/yoga.jpg" alt="Yoga" /&gt;&lt;br&gt;
+            &lt;p&gt;
+                &lt;b&gt;YOGA&lt;/b&gt;- Probably one of the oldest forms of exercises and still loved by the
+                weight loss experts. Yoga can be wondrous to work out - ranging from low intensity
+                to extremely tough poses; yoga tackles every part of the body and the mind. Not
+                only is it helpful in weight loss it strengthens muscles, improves blood circulation,
+                flexibility, strength, stamina, balance, tackles body aches, helps in better sleep,
+                tones your body from tip to toe, gives you a better posture and increases immunity.
+                Not only this, but yoga is said to have a calming effect on the body. With so many
+                benefits, yoga is something you should take up right away. But remember, begin with
+                a professional for better learning of asanas and what kind of postures is right
+                for you.
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/health/Fun-to-burn-Calories/Pilates.jpg" alt="Pilates" /&gt;&lt;br&gt;
+            &lt;p&gt;
+                &lt;b&gt;PILATES&lt;/b&gt;- A system of physical fitness developed by Joseph Pilates in the
+                early 20th century. Pilates called his method Contrology (from Control). Pilates
+                developed his method as mat exercises but slowly introduced apparatus to help workout
+                better. Though this is more popular in the US, UK and some European countries; pilates
+                is soon catching up in other parts of the world. The benefits are many - better
+                control, coordination, focuses on developing core strength (developing muscles in
+                and around the abdominal muscles and back) and introduces efficiency of the body
+                as a whole.
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/health/Fun-to-burn-Calories/Swimming-.jpg"
+                alt="Swimming" /&gt;&lt;br&gt;
+            &lt;p&gt;
+                &lt;b&gt;SWIMMING&lt;/b&gt;- Perfect for summers, swimming is another whole body exercise which
+                is very effective for burning calories while having fun. While providing an aerobic
+                workout, it works on stiff muscles and sore joints, increases muscle tone and strength
+                and improves flexibility. Because swimming is an aerobic exercise, it serves to
+                strengthen the heart making it more efficient in pumping - which leads to better
+                blood flow throughout your body.
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/health/Fun-to-burn-Calories/kick-boxing.jpg"
+                alt="Kick Boxing" /&gt;&lt;br&gt;
+            &lt;p&gt;
+                &lt;b&gt;KICK-BOXING&lt;/b&gt;- It is exactly what you are thinking - you have to kick and box
+                your way to fitness. It is derived from martial arts and is based on kicking and
+                punching and is derived from Karate and western boxing. Kickboxing workouts combine
+                martial arts techniques with heart-pumping cardio, which means you can get a total
+                body workout and whip yourself into shape in no time. It has also been known to
+                reduce stress levels, improves coordination, tone muscles, boosts energy and leads
+                to better posture. Also, it is a mega calorie burner with one hour of kickboxing
+                having the potential of burning over 800 calories!
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/health/Fun-to-burn-Calories/boxing-Born-.jpg"
+                alt="Boxing" /&gt;&lt;br&gt;Source:www.themetapicture.com
+            &lt;p&gt;
+                &lt;b&gt;BOXING&lt;/b&gt;- If you can’t find kick boxing training nearby, just go boxing. It
+                has its benefits and you get to punch something hard - relieve all your tension
+                and pent up anger there! It tones your muscle structure and helps in developing
+                self defence skills, acts like a workout for the entire body, toning your muscles
+                and helping you lose weight. Also, because of all that punching, you will tend to
+                have stronger and slimmer arms - good thing for going sleeveless this summer!
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;p&gt;
+                Do remember that for each of the recommended activities here; sustenance is important.
+                You can’t do it once for five minutes and hope to lose weight. You should do them
+                for some time for them to be effective for you. Pick up the one you like and enjoy.
+                Try varying these, mixing up what you like and do them for a considerable amount
+                of time to see results.
+            &lt;/p&gt;
+            &lt;h6&gt;
+                Losing weight is easy if you are having fun while at it.
+            &lt;/h6&gt;
+&lt;h3&gt;You Might Like:&lt;/h3&gt;
+&lt;h4&gt;&lt;a href="http://www.rockying.com/a/30?title=loose-weight-while-you-eat-potatoes-and-bananas&amp;ref=category"&gt;Loose Weight While You Eat Potatoes and Bananas.&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href="http://www.rockying.com/a/29?title=nine-successful-ways-to-stick-to-your-diet-even-when-eating-out&amp;ref=category"&gt;9 Successful Ways to Stick to Your Diet Even When Eating Out!&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href="http://www.rockying.com/a/100?title=six-secrets-to-shed-pounds-as-you-shop&amp;ref=category"&gt;6 Secrets to Shed Pounds as You Shop.&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href="http://www.rockying.com/a/169?title=eating-less-why-it-can-be-grossly-wrong&amp;ref=category"&gt;Eating Less: Why it can be Grossly Wrong!&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href="http://www.rockying.com/a/242?title=13-ways-to-move-more&amp;ref=category"&gt;13 Ways to Move More.&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href="http://www.rockying.com/a/213?title=they-did-it-so-can-you-celebrity-weight-loss-and-how-they-did-it&amp;ref=category"&gt;They Did it, So Can You! Celebrity Weight Loss and How They Did It.&lt;/a&gt;&lt;/h4&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>WideBlogTemplate</TemplateName>
+</Article>

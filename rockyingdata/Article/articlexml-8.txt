@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>8</ID>
+  <Title>Why Do I Need a Good Well-Being?</Title>
+  <OGImage>http://www.rockying.com/art/Healthy-Living.jpg</OGImage>
+  <OGDescription>Jogging Vs Liposuction</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Health, Fitness, Well being, Weight, Good Health, Health Care,Exercise Benefits</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Healthy-Living.jpg' alt='' /&gt;&lt;p&gt;Jogging Vs Liposuction&lt;/p&gt;</Description>
+  <Text>&lt;p class="clearfix"&gt;
+    No,&lt;img class="pull-left" title="Healthy Living" alt="" src="http://rudrasofttech.com/rockying/art/Healthy-Living.jpg" /&gt;
+    we aren’t talking about your career or your love life! We are talking about you.
+    We won’t be getting into the philosophical benefits of exercising and maintaining
+    a good heart and losing that flab. You have probably heard that a million times
+    and you still don’t care.&lt;br /&gt;&lt;br /&gt;
+    So, for a change, we are going to tell you things that will matter in the long run.
+    Why is health important you say? Why do I need to have a “good well being”. Well
+    besides all the usual benefits blared into your minds all the time; listen to what
+    we have to say.&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            Shoes are much cheaper than liposuction&lt;/h5&gt;
+        &lt;p&gt;
+            Take ten years from now, you weigh a lot, and your heart is all jammed up and your
+            arteries are all filled with the burgers you stuffed over the years. Doctors might
+            suggest liposuction. Expensive. A pair of branded shoes… maybe a little expensive,
+            but way cheaper than that operation you might just have to undergo. Put those shoes
+            on, start walking. Or jog, even better!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            Big clothes cost much&lt;/h5&gt;
+        &lt;p&gt;
+            Clothes is smaller sizes are always available. A few more years of piling on that
+            weight, and you just might have to visit a store for the “PLUS SIZES”. Sorry to
+            burst the bubble but it will cost much. So, we aren’t talking about health, we are
+            talking savings! Also, imagine the cash you will be saving on lotions, moisturizers,
+            body creams. Logic remains that lesser the surface area, lesser cream needed! Go
+            get that less surface area.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            Prevent baldness or at least try to!&lt;/h5&gt;
+        &lt;p&gt;
+            Don’t look surprised. Studies have shown that stress and bad eating habits might
+            cause hair loss. Save your pretty hair; go jog! Unless you want that bald patch…
+            then just sit and keep eating and taking the stress.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            Cameras will hate you&lt;/h5&gt;
+        &lt;p&gt;
+            Try getting a pretty picture clicked with all that chubbiness. Yes, you will want
+            a nice profile picture for your Facebook page. Sorry, the camera hates overweight
+            people. Get in shape, get clicking!&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    So, you see, instead of talking about self esteem, good heart, good bones, confidence,
+    we talk about the more practical options which might get you up and going! So if
+    you want to save on liposuction, prevent baldness and make your lotions last longer;&amp;nbsp;
+    get those sport shoes on and get going! It doesn’t take much now… it might tomorrow!
+&lt;/p&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>why-do-i-need-a-good-well-being</URL>
+</Article>

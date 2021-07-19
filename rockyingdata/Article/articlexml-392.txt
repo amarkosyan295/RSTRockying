@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Death of Indian Television: The Beginning of the End</Title>
+  <OGImage>http://www.rockying.com/art/internet/Death-of-Indian-Television/Yahan-main-Ghar-ghar-kheli.jpg</OGImage>
+  <OGDescription>The end is near. It was inevitable. The quick trash served to the India's TV. audience is on its way to the apocalypse...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>10</Category>
+  <Tag>India, Television, Death, Indian, Sitcoms, Daily Soap, Soap-operas, Saas-Bahu serials.</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/internet/Death-of-Indian-Television/Yahan-main-Ghar-ghar-kheli.jpg' alt='' /&gt;&lt;p&gt;The end is near. It was inevitable. The quick trash served to the India's TV. audience is on its way to the apocalypse...&lt;/p&gt;</Description>
+  <Text>Okay, it might be too early to say TV in India has died but let me tell you, it's definitely on its way to the cremation grounds. It's like Television started going irrelevant for us millennials and there's no way we'd actually want to watch a single program written and broadcast in these times. So what went wrong, from love, admiration, inspiration and even stars turning into Gods, for the idiot box? The list is huge. Don't we all want to talk about the shit being served on Indian TV today and how it came down to this? Let's do it!
+
+1.  The Un-ending family drama
+2.  Redundant/Formula Sitcoms
+3.  Stupid Stories
+4.  Irrelevant Ideas
+5.  EKTA KAPOOR
+6.  Slapstick Comedy
+7.  The rise of "Daily-Soaps"
+8.</Text>
+  <WriterName>Raj Kiran Singh</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>death-of-indian-television-how-it-all-started</URL>
+</Article>

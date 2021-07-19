@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>146</ID>
+  <Title>The Modern Woman...BEWARE !!!</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/Modern_Woman/Cleaning.jpg</OGImage>
+  <OGDescription>Caring, loving, responsible, Aah! She Was. She is sinful, She is Self-interested, She is Harum-scarum. The Modern Woman.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>18</Category>
+  <Tag>Humor, Modern Woman, Women characteristics</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/Modern_Woman/Cleaning.jpg' alt='' /&gt;&lt;p&gt;Caring, loving, responsible, Aah! She Was. She is sinful, She is Self-interested, She is Harum-scarum. The Modern Woman.&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+            font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+            padding: 0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+            font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+            padding: 0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="slideshow"&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;p&gt;
+                Caring, loving, responsible, Aah! She Was. She is sinful, She is Self-interested,
+                She is Harum-scarum. She is the woman of Today.&lt;/p&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Modern_Woman/Cleaning.jpg"
+                title="She cleans...Seldom :P" alt="" /&gt;&lt;p&gt;
+                    She does the cleaning yes...SELDOM :P
+                &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Modern_Woman/Commitment.jpg"
+                alt="" /&gt;
+            &lt;p&gt;
+                DON'T DARE COMMIT TO HER
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Modern_Woman/Driving.gif"
+                title="She learning to drive with a she?" alt="" /&gt;
+            &lt;p&gt;
+                BEWARE !!! TROUBLE CALLED FOR ;)
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Modern_Woman/House-Work.jpg"
+                title="She Hates to do it" alt="" /&gt;&lt;p&gt;
+                    She Hates To Do It.
+                &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Modern_Woman/Laundry.jpg"
+                title="Keep A  Maid or DO IT YOUR SELF" alt="" /&gt;
+            &lt;p&gt;
+                Why Don't You Hire A Maid For That One???
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Modern_Woman/Life-n-Choices.jpg"
+                title="Scrub The Floor" alt="" /&gt;&lt;p&gt;
+                    You chose to remove the shoes??? Don't tell me you obeyed her !!! ;) :D
+                &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Modern_Woman/Make-A-Man.jpg"
+                title="Make Men" alt="" /&gt;&lt;p&gt;
+                    Behind Every Good Man there is a strategic modern woman ;)
+                &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Modern_Woman/Meals.jpg"
+                title="She Cooks???" alt="" /&gt;&lt;p&gt;
+                    You thought she'd cook for ya :P
+                &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Modern_Woman/Money.jpg"
+                title="Money Matters" alt="" /&gt;&lt;p&gt;
+                    She is the best economics teacher you'd ever known ;)
+                &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Modern_Woman/Schedule.jpg"
+                alt="" /&gt;&lt;p&gt;
+                    Try that dude, make her do things...You sad Lil thing :P
+                &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Modern_Woman/Woman-Queen.jpg"
+                title="Treat her like a queen" alt="" /&gt;
+            &lt;p&gt;
+                Or be her slave. One and same thing ??? Aaaah !!!
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Modern_Woman/Women-Cellphones.jpg"
+                title="She loves to be talked to " alt=""&gt;&lt;p&gt;
+                    Ever pushed the wrong button? Pro: You were screwed. Con: You were screwed. ;) :P
+                &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <SlideShowOn>true</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Raj Kiran Singh</WriterName>
+  <WriterEmail>rajkiran.singh@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

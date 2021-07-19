@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>124</ID>
+  <Title>Namaste India Part I: Jodhpur</Title>
+  <MetaTitle>Namaste India Part I: Jodhpur</MetaTitle>
+  <OGImage>//www.rockying.com/art/Travel/NAMASTE%20INDIA%20JODHPUR/11.JPG</OGImage>
+  <OGDescription>Undertake our exclusive photographic journey and know more about the city of Jodhpur, its civilization, class, taste, culture, people and its art!</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Travel India, Jodhpur, Rajasthan</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Travel/NAMASTE%20INDIA%20JODHPUR/11.JPG' alt='' /&gt;&lt;p&gt;Undertake our exclusive photographic journey and know more about the city of Jodhpur, its civilization, class, taste, culture, people and its art!&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;button id="prevslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+        font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+        padding: 0px; background-color: transparent;'&gt;
+        &amp;lsaquo;
+    &lt;/button&gt;
+    &lt;button id="nextslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+        font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+        padding: 0px; background-color: transparent;'&gt;
+        &amp;rsaquo;
+    &lt;/button&gt;
+&lt;/div&gt;
+    &lt;div class="slideshow"&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h4&gt;
+                Undertake our exclusive photographic journey and know more about the city, civilization,
+                class, taste, culture, people and their art!&lt;/h4&gt;
+            &lt;img src="//rockying.com/art/Travel/NAMASTE%20INDIA%20JODHPUR/1.JPG"
+                title="Meherangarh Fort" alt="" style="max-width: 450px;" /&gt;
+            &lt;h5&gt;
+                &amp;nbsp;A close cropped view of the Meherangarh fort. Majestic, isn't it?&lt;/h5&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="//rockying.com/art/Travel/NAMASTE%20INDIA%20JODHPUR/2.JPG"
+                title="Camel" alt="" style="max-height: 450px;" /&gt;
+            &lt;h5&gt;
+                A double humped camel dressed as a haughty bride. You will find this one permanently
+                sitting outside the Jodhpur fort
+            &lt;/h5&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                A humble commoner of Jodhpur. They are also the greatest forbearers of moustaches
+                in the city!
+            &lt;/h5&gt;
+            &lt;img src="//rockying.com/art/Travel/NAMASTE%20INDIA%20JODHPUR/3.JPG"
+                title="A Commoner" alt="" style="width: 450px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                A part of the Jodhpur Palace. The intricate carving is worth the mention.
+            &lt;/h5&gt;
+            &lt;img src="//rockying.com/art/Travel/NAMASTE%20INDIA%20JODHPUR/4.JPG"
+                title="Jodhpur Palace" alt="" style="max-width: 450px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                A staircase that leads to a closed door of history.
+            &lt;/h5&gt;
+            &lt;img src="//rockying.com/art/Travel/NAMASTE%20INDIA%20JODHPUR/5.JPG"
+                title="A Staircase in Jodhpur" alt="" style="max-width: 450px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="//rockying.com/art/Travel/NAMASTE%20INDIA%20JODHPUR/6.JPG"
+                title="Handicrafts" alt="" style="max-height: 450px;" /&gt;
+            &lt;h5&gt;
+                Cute handicrafts made of baked clay. Buy the ones you like!
+            &lt;/h5&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                Give your home a true oriental feel with these Jodhpuri voodoos.
+            &lt;/h5&gt;
+            &lt;img src="//rockying.com/art/Travel/NAMASTE%20INDIA%20JODHPUR/7.JPG"
+                title="Jodhpuri Voodoos" alt="" style="max-width: 450px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                Haha! It is funny to see these turbans have undergone a price revision! Bizzare
+                price, bizzare spellings.
+            &lt;/h5&gt;
+            &lt;img src="//rockying.com/art/Travel/NAMASTE%20INDIA%20JODHPUR/8.JPG"
+                title="Turban Prices" alt="" style="max-width: 450px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                Jharokhas.&lt;/h5&gt;
+            &lt;p&gt;
+                This is the best part about Jodhpur. Made of solid wood, this can make any cottage
+                look grand. A must buy to brighten up that dull corner of your room.&lt;/p&gt;
+            &lt;img src="//rockying.com/art/Travel/NAMASTE%20INDIA%20JODHPUR/9.JPG"
+                title="Jharokhas" alt="" style="max-width: 450px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                Let these adorn your interiors. Remember you get to bargain. The average price starts
+                from Rs 300.
+            &lt;/h5&gt;
+            &lt;img src="//rockying.com/art/Travel/NAMASTE%20INDIA%20JODHPUR/10.JPG"
+                title="Interior Pieces" alt="" style="max-width: 450px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                Local artisans and their handicrafts. Enchanting little doorkeepers they are.
+            &lt;/h5&gt;
+            &lt;img src="//rockying.com/art/Travel/NAMASTE%20INDIA%20JODHPUR/11.JPG"
+                title="Local Handicrafts" alt="" style="max-width: 450px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                The insides of Rang Banka Palace. One of the most elite fine dines in the city.&lt;/h5&gt;
+            &lt;img src="//rockying.com/art/Travel/NAMASTE%20INDIA%20JODHPUR/17.JPG"
+                title="Ranga Banka Palace" alt="" style="max-height: 450px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                Shop for some exclusive regional handicrafts from Sonnar Kella.
+            &lt;/h5&gt;
+            &lt;img src="//rockying.com/art/Travel/NAMASTE%20INDIA%20JODHPUR/13.JPG"
+                title="Regional Handicrafts" alt="" style="max-width: 450px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                Sonar Kella. It glistens as gold in the sun.
+            &lt;/h5&gt;
+            &lt;img src="//rockying.com/art/Travel/NAMASTE%20INDIA%20JODHPUR/14.JPG"
+                title="Sonar Kella" alt="" style="max-height: 450px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                Jodhpur: The Blue City.
+            &lt;/h5&gt;
+            &lt;img src="//rockying.com/art/Travel/NAMASTE%20INDIA%20JODHPUR/15.jpg"
+                title="The Blue City" alt="" style="max-height: 450px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="//rockying.com/art/Travel/NAMASTE%20INDIA%20JODHPUR/16.JPG"
+                title="Walls of the Jodhpur Fort" alt="" style="max-height: 450px;" /&gt;&lt;h5&gt;
+                    The geometrically fortified walls of Jodhpur fort. This can definitely leave you
+                    enchanted.&lt;/h5&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="//rockying.com/art/Travel/NAMASTE%20INDIA%20JODHPUR/12.JPG"
+                title="Ranga Banka Palace Interior" alt="" style="max-height: 450px;" /&gt;&lt;h5&gt;
+                    Rang Banka yet again. The city does not spare a single chance to make you feel royal.
+                &lt;/h5&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                The Sprawling and the quiet city of Jodhpur.
+            &lt;/h5&gt;
+            &lt;img src="//rockying.com/art/Travel/NAMASTE%20INDIA%20JODHPUR/18.JPG"
+                title="Jodhpur City" alt="" style="max-height: 450px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="//rockying.com/art/Travel/NAMASTE%20INDIA%20JODHPUR/19.JPG"
+                title="Jodhpuri Jootis" alt="" style="max-height: 450px;" /&gt;&lt;h5&gt;
+                    This is what you must POSSESS. Jodhpuri jootis is the best way to adorn the traveler's
+                    feet.&lt;/h5&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>124</URL>
+</Article>

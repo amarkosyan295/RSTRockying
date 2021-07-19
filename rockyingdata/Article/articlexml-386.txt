@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Best Romantic Honeymoon Destinations to Visit in Italy</Title>
+  <OGImage>http://www.rockying.com/art/Travel/Romantic-Honeymoon-Destinations-Italy/Cilento.jpg</OGImage>
+  <OGDescription>It’s a magical country, full of lakes and mountains and enough art to keep you happy for...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Travel, Honeymoon, Destination, Romance, Romantic Getaway, Italy</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Travel/Romantic-Honeymoon-Destinations-Italy/Cilento.jpg' alt='' /&gt;&lt;p&gt;It’s a magical country, full of lakes and mountains and enough art to keep you happy for...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+When you plan your honeymoon, there is no way Italy won't pop up in your head. It’s a magical country, full of lakes and mountains and enough art to keep you happy for eternity. Go wine tasting in Tuscany’s many vineyards and cruise the romantic water canals of Venice with your honey. Rejoice in the beauty of the Amalfi Coast, and taste the foodie delights of Sicily. Exult in Florence’s art, and in the architecture of Naples. Italy welcomes lovers; you’ll feel totally at home with your love in this incredibly lovely, magical and romantic country.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;1. Cilento&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Romantic-Honeymoon-Destinations-Italy/Cilento.jpg" alt="Cilento-Italy" title="Cilento Italy"&gt;
+&lt;hr&gt;
+&lt;p&gt;
+Cilento is not very well known, but it’s a gem in its own right. You can enjoy complete privacy with your lover here. Enjoy the glimmering coastline and explore the lovely hills. Check out some of the archaeological sites. Walk through the Cilento and Vallo di Diano National Park, which is a &lt;a href="https://whc.unesco.org/en/list/842" target="_blank"&gt;UNESCO World Heritage Site&lt;/a&gt;. Take boat tours and enjoy lovely sunsets together.
+&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;h3&gt;2. Capri Islands&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Romantic-Honeymoon-Destinations-Italy/Capri-Islands.jpg" alt="Capri Islands" title="Capri Islands"&gt;
+&lt;hr&gt;
+&lt;p&gt;
+Capri Islands is another gem located on the Bay of Naples. It’s simply mesmerizing, with dramatic craggy landscapes and a mystical dark cavern known as the Blue Grotto, where the sea glows with a golden light. Be sure to tour the caves with your special one. Visit the Punta Carena Lighthouse and sip some delicious cocktails while watching a blissful sunset.
+&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;h3&gt;3. Lake Como&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Romantic-Honeymoon-Destinations-Italy/Lake_Como.jpg" alt="Lake Como" title="Lake Como"&gt;
+&lt;hr&gt;
+&lt;p&gt;
+Lake Como is nestled at the foothills of Italian Alps, waiting to mesmerize lovers on their honeymoon. The inverted ‘Y’ shaped lake is one of Europe’s deepest glacial lakes. The wonderful renaissance architecture in the area is mind-blowing. Be sure to explore the Botanic Garden and lake and other sights. Lake Como is one of the most romantic places to visit in Italy for a honeymoon.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;4. Amalfi&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Romantic-Honeymoon-Destinations-Italy/Amalfi-Coast.jpg" alt="Amalfi Coast" title="Amalfi Coast"&gt;
+&lt;hr&gt;
+&lt;p&gt;
+The Amalfi Coast is a listed UNESCO World Heritage Site. The beautiful cliffs come down all the way to greet the blue seas in such a way that you’ll be unable to look away. Flourishing woods on the other side of the sea beckon you with their greenery. Visit Spiaggia di Laurito, a lovely cove beach for some privacy and have a feast at Da Adolfo. Check out an eighth-century castle on top of a hill, the Arechi Castle and enjoy fabulous views of Salerno city. You’ll find a museum in the castle as well.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;5. Naples&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Romantic-Honeymoon-Destinations-Italy/Naples-Italy.jpg" alt="Naples" title="Naples Italy"&gt;
+&lt;hr&gt;
+&lt;p&gt;
+You simply must visit Naples with your love. Take in the stunning view of Mount Vesuvius with your morning coffee. Be swept off your feet by the culinary brilliance of Naples. Give your heart to the enchanting coastline and admire the incredible architecture including the medieval structures. Don’t forget to gorge on the best pizzas – Naples is famous for its pizzas. Try them at 50 Kalo and Pizzeria Fratelli Salvo and you will keep licking your lips. Be sure to visit Pompeii and tour Mount Vesuvius.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;6. Cinque-Terre&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Romantic-Honeymoon-Destinations-Italy/Cinque-Terre.jpg" alt="Cinque-Terre" title="Cinque-Terre"&gt;
+&lt;hr&gt;
+&lt;p&gt;
+Cinque-Terre is the perfect escape if you’re looking for privacy, a tranquil atmosphere, and fabulous views. Hike the hills along the Azure Trail and be sure to eat at one of the local eateries, as these are famous here. The region’s wines are fantastic. Look for a place with sea-views and you’ll spend the best part of your part of your honeymoon in Cinque-Terre. If you’ve decided to honeymoon in Italy, apply for an &lt;a href="https://www.raynatours.com/visas/schengen-visa" target="_blank"&gt;Schengen Visa&lt;/a&gt;; you can then travel to Italy and to other European countries on the same visa. Make it a wonderful, long honeymoon! Who’s waiting at home?
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;7. Piedmont&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Romantic-Honeymoon-Destinations-Italy/Piedmont.jpg" alt="Piedmont-Italy" title="Piedmont Italy"&gt;
+&lt;hr&gt;
+&lt;p&gt;
+Piedmont is that natural gem that’s just perfect for the couple that loves diverse scenery. Quaint hills and verdant plains hug the sharp peaks. The Alps rise high and impressive, making for the perfect picture frame. Piedmont is one of the biggest wine producing districts in the country. There are about 170,000 acres of vineyards. If you’re into adventures, you can go rafting or snowboarding. There are great spas at Acqui Terme and
+Vinadio so , go on, enjoy a couple’s spa day.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;8. Verona&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Romantic-Honeymoon-Destinations-Italy/Verona.jpg" alt="Verona-Italy" title="Verona Italy"&gt;
+&lt;hr&gt;
+&lt;p&gt;
+Verona is that lucky place where Shakespeare chose to set his timeless love story, Romeo and Juliet. Be sure to visit Verona Arena to watch opera performances that are some of the very best in the world. There are Roman ruins that date back to 100 BC that you can see from Theatro Romano. Juliet’s Balcony was inspired by Romeo and Juliet; it’s a major tourist attraction.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;9. Monterosso al Mare&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Romantic-Honeymoon-Destinations-Italy/Monterosso-al-mare.jpg" alt="Monterosso al Mare" title="Monterosso al Mare"&gt;
+&lt;hr&gt;
+&lt;p&gt;
+The Monterosso al Mare is perhaps one of the most beautiful places in Italy. Explore the new and old towns with your honey and walk about in the lemon grove. There’s a castle here and a church and the incredible azure shoreline that will captivate you for hours. Be sure to explore the 1600-built Capuchin-style church, the Monterosso al Mare Convent.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;10. Florence&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Romantic-Honeymoon-Destinations-Italy/Florence.jpg" alt="Florence-Italy" title="Florence-Italy"&gt;
+&lt;hr&gt;
+&lt;p&gt;
+Take a trip back to the romantic Renaissance period and celebrate Florence’s exquisite art and architecture. This breathtakingly beautiful city is home to Tuscany which is full of serene verdant vineyards. Enjoy the best wines, explore Tuscany’s countryside on a bike, and walk amongst the lovely olive groves hand in hand. Throw keys over the Ponte Vecchio Bridge and wish for good luck, and watch the sunset from the Piazzale Michelangelo together.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;11. Portofino&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Romantic-Honeymoon-Destinations-Italy/Portofino-Italy.jpg" alt="Portofino-Italy" title="Portofino"&gt;
+&lt;hr&gt;
+&lt;p&gt;
+If you are all for classy rustic charm, head to Portofino. It’s a scenic harbor town, with verdant hillsides and incredibly azure waters. A walk along Portofino’s shores will be the most romantic walk you’ve taken so far, owing to the incredible beauty of the coastline. There are many dolphins in the water to make a play for them and get to know them. Go yachting and cruising on the waters and make the sea your home.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;12. Venice&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Romantic-Honeymoon-Destinations-Italy/Venice.jpg" alt="Venice-Italy" title="Venice"&gt;
+&lt;hr&gt;
+&lt;p&gt;
+Take your love for the popular and very romantic gondola ride and you’ll be in her good books forever. Venice is charming, with a lovely landscape and fabulous attractions such as Piazza San Marco and Grand Canal. For special things to do, try some Venetian Gelatos, and attend ballet and opera performances at the Theatre La Venice.
+&lt;/p&gt;
+&lt;p&gt;
+Italy is romance itself. A honeymoon in this wonderful country is just what Cupid ordered, all you can do is, obey! There’s a lot to see and do in Italy, in literally every part of the city. If you can manage it, take a long break and tour at least a few places. If you love religious architecture, do visit Rome, for its incredibly lovely architecture. 
+&lt;/p&gt;</Text>
+  <WriterName>Neha Singh [Guest Post]</WriterName>
+  <WriterEmail>dubaiwikia@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>best-romantic-destinations-to-visit-in-italy-for-your-honeymoon</URL>
+</Article>

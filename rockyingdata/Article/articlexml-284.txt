@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>A day in India from the eyes of traveller</Title>
+  <OGImage>http://b.vimeocdn.com/ts/404/663/404663550_640.jpg</OGImage>
+  <OGDescription>A beautiful short film which compiles three weeks of filming, traveling and eating in India into "one day".</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>27</Category>
+  <Tag>India</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://b.vimeocdn.com/ts/404/663/404663550_640.jpg' alt='' /&gt;&lt;p&gt;A beautiful short film which compiles three weeks of filming, traveling and eating in India into "one day".&lt;/p&gt;</Description>
+  <Text>&lt;iframe src="//player.vimeo.com/video/58313264?color=ff0179" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;This is a beautiful short film which compiles three weeks of filming, traveling and eating in India into "one day".&lt;/p&gt;</Text>
+  <WriterName>Raj Kiran Singh</WriterName>
+  <WriterEmail>rajkiran.singh@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>WideBlogTemplate</TemplateName>
+</Article>

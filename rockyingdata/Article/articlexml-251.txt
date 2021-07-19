@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>11 Best All Time Thriller Films of Bollywood!</Title>
+  <OGImage>http://www.rockying.com/art/bollywood/Best-Bollywood-Thrillers/100-Days.jpg</OGImage>
+  <OGDescription>The heartbeat and the adrenalin make their presence felt, eyes refuse to move anywhere away from the screen &amp; we feel some strong adhesive glued us to the chair...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Best Bollywood Thriller Movies, Bollywood Thriller Classics, Mahal, Kahaani, Wo Kaun Thi, Mera Saya, Gumnam, Teesri Manzil, 100 Days, Khiladi, Gupt, Kaun, Karthik calling Karthik.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Best-Bollywood-Thrillers/100-Days.jpg' alt='' /&gt;&lt;p&gt;The heartbeat and the adrenalin make their presence felt, eyes refuse to move anywhere away from the screen &amp; we feel some strong adhesive glued us to the chair...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    The heartbeat and the adrenalin make their presence felt, eyes refuse to move anywhere away from the screen &amp; we feel some strong adhesive glued us to the chair; this is a thriller all about!  If I were asked to pick 20 or 30 best, it would have been an easier task! Our very own Bollywood produced such a rich variety of this genre. From the musical mystery thrillers of 50’s &amp; 60’s to the modern psychological thrillers, here’s the list of my favorites compiled exclusively for &lt;a href="http://www.rockying.com/" target="_blank"/&gt;Rockying &lt;/a&gt; and you all. Get rolling for the electrified ride of your lives: &lt;/p&gt;
+&lt;hr&gt;
+        &lt;h3&gt;1. MAHAL (1949)&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Best-Bollywood-Thrillers/Mahal.jpg" alt="Mahal"/&gt;
+        &lt;p&gt;
+            Mahal is a pioneering supernatural thriller of Bollywood. Directed by Kamal Amrohi, this movie is still viewed with great reverence. Mahal is actually a newly purchased mansion of a young &amp; enlightened lawyer, (Ashok Kumar) where he met ghostly Kamini (Madhubala). Are the duos really the reincarnation of the lovers involved in a tragic affair that happened long ago in that mansion? The deadly combination of the acting of Ashok Kumar, beauty of Madhubala &amp; voice of Lata ji make this movie thoroughly absorbing.  &lt;/p&gt;
+  
+&lt;hr&gt;
+        &lt;h3&gt;2. WOH KAUN THI (1964)&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Best-Bollywood-Thrillers/Wo-Kaun-thi.jpg" alt="Wo Kaun Thi"/&gt;
+        &lt;p&gt;
+           This “Mist, mystery, musical” movie is the first of the famous thriller trilogy by Raj Khosla, starring Manoj Kumar, Sadhana, Prem Chopra &amp; Helen. One stormy night, a young doctor offers a ride to a white sari clad “Lady in distress” &amp; inexplicable things start happening. Later he discovers the mysterious lady as his intended bride. The film is indeed the questing of the protagonist after the true self of the lady. Though slow in treatment, this movie may well also be remembered for its great music. “&lt;i&gt;Lag ja gale ke phir ye haseen raat ho na ho…&lt;/i&gt;” is still the ultimate romantic number for every generation. Was it a ghost lip-syncing it? 
+        &lt;/p&gt; &lt;datasource name="boxaddatasource" /&gt;
+&lt;hr&gt;
+        &lt;h3&gt;3. MERA SAYA (1966)&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Best-Bollywood-Thrillers/mera-saaya.jpg" alt="Mera Saaya"/&gt;
+        &lt;p&gt;
+            This is the second of the thriller trilogy by Raj Khosla. The movie starts with the death of Geeta (Sadhana), wife of Lawyer Rakesh Singh (Sunil Dutta). After the funeral, Rakesh was informed by a police officer that a woman named Sunaina who has recently been detained by the police along with members of her gang, claims that she is Geeta. Sunaina has not only very strong resemblance with Geeta but also knows &amp; narrates such incidents that only a wife is supposed to know! Is she Geeta or just a crook trying to acquire Rakesh’s wealth, is what the story unfolds. After all she kept humming “&lt;i&gt;Tu jahan-jahan chalega mera saaya sath hoga…&lt;/i&gt;”. Did that mean anything? Find out for yourself. &lt;/p&gt;
+&lt;hr&gt;
+        &lt;h3&gt;4. GUMNAAM (1965)&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Best-Bollywood-Thrillers/gumnaam.jpg" alt="Gumnaam"/&gt;
+        &lt;p&gt;
+            Based on an Agatha Christie novel, this Raja Nawathe directed movie is still very much acclaimed for its foggy setting and our favorite scary song 'Gumnaam hai koi…'. At the annual function seven club members are announced as lucky winners for a trip abroad. They all gleefully accept the chance. Unfortunately, their plane makes an emergency landing in a remote seaside location. As soon as the seven people along with the flight steward Anand (Manoj Kumar) get down, the plane flies away. They find shelter in a stately mansion under the hospitality of a comical butler (Mehmood) &amp; the action starts with the anonymous killer murdering one after another vacationer,  rising to the climax. &lt;/p&gt;
+&lt;hr&gt;
+        &lt;h3&gt;5. TEESRI MANZIL (1966)&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Best-Bollywood-Thrillers/Teesri-manzil.jpg" alt="Teesri Manzil"/&gt;
+        &lt;p&gt;
+            Vijay Anand directed, starring Shammi Kapoor, Asha Parekh, Prem Chopra &amp; Helen, this movie is very much a “Musical Murder Mystery” type Bollywood thriller. Sunita (Asha Parekh) is the chief protagonist, seeking vengeance for her sister who, being betrayed by her boyfriend Rocky, committed suicide.  However Rocky (Shammi Kapoor) is also known as Anil whom she fell in love with. The plot unfolds the supposedly suicide as a murder. The motive &amp; the murderer are two centers of attraction of this all time Bollywood hit.    &lt;/p&gt;
+&lt;hr&gt;
+        &lt;h3&gt;6. 100 DAYS (1991)&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Best-Bollywood-Thrillers/100-Days.jpg" alt="100 Days"/&gt;
+        &lt;p&gt;
+            Devi (Madhuri Dixit) is a girl with mystic sensitivity who gets flashes of the incidents that are yet to happen. The plot centres around the murder of her sister Rama (Munmun Sen) &amp; search for the killer till the climax. A spine-chilling experience this one will certainly make you go "&lt;i&gt;Gabbar Singh ye keh kar gaya jo dar gaya wo mar gaya&lt;/i&gt;..." 
+        &lt;/p&gt;
+&lt;hr&gt;
+        &lt;h3&gt;7. KHILADI (1992)&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Best-Bollywood-Thrillers/khiladi11924.jpg" alt="Khiladi"/&gt;
+        &lt;p&gt;
+            This first of the ‘Khiladi’ series of movies is a suspense thriller that established Abbas-Mustan as directors &amp; Akshay Kumar as a hero in Bollywood. Raj, Boney, Sheetal &amp; Neelam are four happy go lucky college students. Raj bet with his friends and fake kidnaps Sheetal, to befool her father. But Sheetal actually gets murdered under suspicious circumstances &amp; the lives of the rest of the gang turns into hell.&lt;/p&gt;
+&lt;hr&gt;
+        &lt;h3&gt;8.  GUPT (1997)&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Best-Bollywood-Thrillers/Kajol-in-Gupt.jpg" alt="Gupt"/&gt;
+        &lt;p&gt;
+            Formation of a love triangle culminated to the murder of Sahil’s (Bobby Deol) step father &amp; the hero himself being charged &amp; jailed for his father’s death. Somehow Sahil managed to escape &amp; with the help of Sheetal (Manisha Koirala) &amp; Isha (Kajol), he started fighting to prove his innocence by unraveling the truth. The drama reaches its climax when all discover who the antagonist is!   &lt;/p&gt;
+&lt;hr&gt;
+        &lt;h3&gt;9. KAUN (1999)&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Best-Bollywood-Thrillers/Kaun.jpg" alt="Kaun"/&gt;
+        &lt;p&gt;
+            This Ram Gopal Varma directed suspense thriller involves only three characters and is widely acknowledged for the modern &amp; no nonsense treatment. Ma’am (Urmila Matondkar, the owner of a big house) is alone with her kitty on a rainy evening. Sameer (Manoj Bajpayee) plays tricks on Ma’am to get into the house. Later Qureshi (Sushant Singh) also appears as a police inspector who claims is searching for a psycho killer. The setting, the ambiance &amp; the disclosure of the identity of the antagonist is an awesome package!       &lt;/p&gt;
+&lt;hr&gt;
+        &lt;h3&gt;10.  KARTHIK CALLING KARTHIK (2010)&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Best-Bollywood-Thrillers/karthik-calling-karthik.jpg" alt="Karthik calling Karthik"/&gt;
+        &lt;p&gt;
+            Karthik Calling Karthik is a superb psychological thriller. Karthik (Farhan Akhtar) is a frustrated, introvert, young man with lot of emotional issues. He is secretly in love with his colleague Shonali (Deepika Padukone). He starts to get phone calls from someone claiming himself as Karthik. His voice is so assertive that it completely changes Karthik’s life, initially with good results. Is the person calling his alter ego, is he a schizophrenic? Watch till the end!&lt;/p&gt;
+&lt;hr&gt;
+        &lt;h3&gt;11. KAHAANI (2012)&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Best-Bollywood-Thrillers/Kahaani.jpg" alt="kahaani"/&gt;
+        &lt;p&gt;
+            Almost poetic in treatment &amp; being set in Kolkata during Durga Puja festival makes Kahani a modern classic. It is a story of a seven months pregnant woman Vidya Bagchi (Vidya Balan) from London searching madly for her missing husband Arnab who earlier came to Kolkata on an assignment. 
+The development of the plot to the climax is so nicely woven that it has a mesmerizing effect on the viewers. Vidya Balan is at her best and performances by Nawazuddin Siddiqui (as a CBI officer) and Parambhrata Chatterjee (as Shartyuki, the police officer who helps her find Arnab) deserve applause.
+&lt;/p&gt;
+&lt;p&gt;
+    Before I conclude, I cannot resist myself from mentioning some of my personal favorites like Ittefaq, CID, Kohraa, Bees Saal Baad, Dhund, Khoj, The Train, Khamosh, Plot No. 5, Ajnabee, Race, Murder, Talaash etc. I personally feel Bollywood has not yet produced a thriller maestro like Alfred Hitchcock &amp; the great directors of this era should try their hand in this genre to quench our Thriller thirst!  
+&lt;/p&gt;
+&lt;p&gt;
+And since ya'll wouldn't stop complaining about the missing ones from this list, we compiled a Part 2 (&lt;a href="http://www.rockying.com/a/best-all-time-thriller-films-of-bollywood-part-2" target"_blank"&gt; Best All Time Thriller Films of Bollywood- II &lt;/a&gt;) which is an extension of this list and covers almost all of your favorites and then some more. Go check it out now and let us know how many of those have you watched already! 
+&lt;/p&gt;
+&lt;p class="well"&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Best-Bollywood-Thrillers/Koyeli-Chakraborty.jpg" class="pull-left"/&gt;
+&lt;b&gt;About the Author:&lt;/b&gt; A Graduate from Burdwan University &amp; happily married for five years, Koyeli is a  home-maker who loves to read, cook, sing &amp; play Sudoku. She regularly writes poems and short stories for magazines since her college days. Restoration of Bengal’s ethnic cuisine &amp; writing a book on that, is her ultimate dream."&lt;br&gt;
+She has been running her blog &lt;a href="http://koyelischakraborty.blogspot.in/" target="_blank"/&gt;&lt;i&gt;&lt;b&gt;Glimpses of India with Koyeli&lt;/b&gt;&lt;/i&gt; &lt;/a&gt;with great passion. &lt;br&gt;Follow her on &lt;a href="https://twitter.com/KoyeliC" target="_blank"/&gt;twitter&lt;/a&gt; and be friends with her on &lt;a href="http://www.facebook.com/koyeli.s.chakraborty?fref=ts" target="_blank"/&gt; facebook&lt;/a&gt;.
+&lt;/p&gt;</Text>
+  <WriterName>Koyeli Chakraborty</WriterName>
+  <WriterEmail>koyelishawchakraborty@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>251</URL>
+</Article>

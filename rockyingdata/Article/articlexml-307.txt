@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Trekking in the Himalayas – Can you really do it?</Title>
+  <OGImage>http://www.rockying.com/art/Travel/cheap-travel-in-himalayas/himalaya-mountain.jpg</OGImage>
+  <OGDescription>Climbing the Himalayas is one of those things you want to include on your bucket list for its incredible beauty and the feeling of...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>India, Travel, Himalayas, Zanskar River, Gondoro La trek, Concordia,  Hemkund Sahib trek, Langtang trek, Cheap Travelling.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Travel/cheap-travel-in-himalayas/himalaya-mountain.jpg' alt='' /&gt;&lt;p&gt;Climbing the Himalayas is one of those things you want to include on your bucket list for its incredible beauty and the feeling of...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+Climbing the Himalayas is one of those things you want to include on your bucket list for its incredible beauty and the feeling of smallness and awe you get when being surrounded by the highest mountain peaks on the planet. There are so many places you can visit for sightseeing, trekking or exploring the multitude of cultures around the great mountain chain.
+&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;
+The main activity sought after in the Himalayas is trekking and increasing numbers of tourists come every year to test their strength and endurance and try to conquer higher grounds. For trekking beginners or those who would prefer to do something else, there are plenty of cultural sites, museums, and religious structures to visit. You can study Yoga or Meditation or go try rafting in the untamed rivers of upper Himalaya. 
+&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/Travel/cheap-travel-in-himalayas/himalaya-mountain.jpg"&gt;
+&lt;hr&gt;
+&lt;h2&gt;
+Cheap Traveling through Himalayas 
+&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;
+In order to enjoy Himalaya to the fullest, you must go trekking and see for yourself the amazing landscapes. There are various routes, from the easiest to the most challenging ones and they require a different amount of preparation, time and effort. You will surely find one that is suited to your experience level, time and money resources. 	
+&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;
+Enjoying a memorable experience is more affordable than you think. For adventurers coming from the US or Europe, the most expensive part of their journey is the cost to get there; which is usually done by plane. But once you’re there, you’ll immediately see how convenient everything is. Admiring the sights is free of charge and accommodation is really cheap too. 
+&lt;/p&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;h2&gt;
+Trekking along the Zanskar River
+&lt;/h2&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/cheap-travel-in-himalayas/Zanskar-river-trek.jpg"&gt;
+&lt;br&gt;
+&lt;p&gt;
+This three-week trek follows the stream of the Zanskar River from the Buddhist Monastery at Lamayuru up to 3.900 meters high. You get to experience the virgin territory while enjoying the lively sound of flowing and splashing water. It is a wonderful place to be in the middle of nature and escape your daily routine. 
+&lt;/p&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;h2&gt;
+Langtang Trek in Nepal
+&lt;/h2&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/cheap-travel-in-himalayas/Langtang-Valley-Trekking.jpg"&gt;
+&lt;br&gt;
+&lt;p&gt;
+One of the most adventurous treks in Nepal, the Langtang trek will astonish you with its White Mountain peaks, landscapes and the panoramic view of the southern Tibetan border. This is the ideal place to explore the bountiful fauna and flora of the region, as well as getting a glimpse of the Tibetan lifestyles of the locals in the rural areas. This trek is set apart from the others by its fascinating variety.
+&lt;/p&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;h2&gt;
+Valley of Flowers and Hemkund Sahib trek
+&lt;/h2&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/cheap-travel-in-himalayas/valley-of-flowers-and-hemkund-shahib-trek.jpg"&gt;
+&lt;br&gt;
+&lt;p&gt;
+This trek is renowned for its variety of alpine flowers and the breathtaking sights. It is an easy trek suitable for beginners and you will be able to enjoy your stay without it being too challenging. This richly diverse area is home to endemic endangered species of animals like the majestic snow leopard, the Asiatic black bear, and the blue sheep.
+&lt;/p&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;h2&gt;
+Concordia and Gondoro La trek
+&lt;/h2&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/cheap-travel-in-himalayas/concordia-and-gondogoro-la-trek.jpg"&gt;
+&lt;br&gt;
+&lt;p&gt;
+This spectacular trek is reserved to the most trained, adventurous and courageous of the mountaineers. It takes a lot of experience and preparation and you need to carry special equipment: ice axes, harness, helmet, ropes, and carabiners. On the way, you will get the chance to admire the incredible beauty of alpine lakes, peaceful meadows, and ancient villages. This is where you can catch a glimpse of the second tallest mountain in the world, peak K2. You will travel through snow covered paths and your body and mind will be challenged on this difficult road, but your efforts will be a thousand times worth it when you conquer this trek.
+&lt;/p&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;h2&gt;
+Everest Base Camp
+&lt;/h2&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/cheap-travel-in-himalayas/Everest-Base-Camp.jpg"&gt;
+&lt;br&gt;
+&lt;p&gt;
+Getting to the Everest base camp for the first time will stay with you for the rest of your life, as this iconic place inspired thousands of mountaineers over the centuries to go on the adventure of their life. Even travelling to the base camp of this colossal natural monument is an adventure in itself. You will have the unique opportunity to get to know the Sherpa culture and the way they see the surrounding mountains as spiritual places. This is an important life lesson and spiritual experience, as you truly see the immense power of nature and how small we truly are. 
+&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;
+&lt;a href="http://www.shaktihimalaya.com/" target="_blank"&gt;Don’t hesitate and head to the Himalayas!&lt;/a&gt; Enjoy the treks, relish in the scenery and have the time of your life exploring the amazing territories on a budget.
+&lt;/p&gt;</Text>
+  <WriterName>Christopher Austin [Guest Post]</WriterName>
+  <WriterEmail>christopheraustin439@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>cheap-trekking-in-himalayas---can-you-really-do-it</URL>
+</Article>

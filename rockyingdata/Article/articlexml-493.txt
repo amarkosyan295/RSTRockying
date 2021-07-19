@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>qQuvXKGEtlP</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>ZWk8Oj</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>21</Category>
+  <Tag>EpmHxM</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;ZWk8Oj&lt;/p&gt;</Description>
+  <Text>Very funny pictures http://xnxx.photography/ xnxx videos  By the end of the third quarter AT&amp;amp;T also said it expects toreach 10 million total subscribers to its U-verse service, whichincludes home broadband and video. It said it expects consumerwireline revenue growth consistent with the second quarter.</Text>
+  <WriterName>Mnbgz</WriterName>
+  <WriterEmail>heribertoagg@yahoo.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>qquvxkgetlp</URL>
+</Article>

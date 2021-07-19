@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>126</ID>
+  <Title>Live Life Google Size !</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/internet/Google/google-is-watching.png</OGImage>
+  <OGDescription>Once an individual open an account with Google mail or any other domain, the Google spiders capture all the information stored in it. The very fact that you are searchable has made Google almost larger than life...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>10</Category>
+  <Tag>Google, Internet Privacy, Privacy Invasion</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://rudrasofttech.com/rockying/art/internet/Google/google-is-watching.png' alt='' /&gt;&lt;p&gt;Once an individual open an account with Google mail or any other domain, the Google spiders capture all the information stored in it. The very fact that you are searchable has made Google almost larger than life...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;With the advent of the mobile phone and SMSs, life was all about 160 characters. But we guess, Google has taken it further and beyond. &lt;a href="http://www.facebook.com/RockyingMag"&gt;Rockying&lt;/a&gt; presents to you the funniest yet the scariest experience the world of Google has to offer! Let us see what the Google Punch has to offer:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;b&gt;Invasion of privacy&lt;/b&gt;: Well this is what the video has to say. Have a look! &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src="http://www.youtube-nocookie.com/embed/hrontojPWEE?rel=0" allowfullscreen="" frameborder="0" height="480" width="700"&gt;&lt;/iframe&gt;
+&lt;br&gt;The video is hilarious but the trailing message it leaves behind looks scary. Once an individual open an account with Google mail or any other domain, the Google spiders capture all the information stored in it. The very fact that you are searchable has made Google almost larger than life. &lt;br&gt;&lt;/p&gt;&lt;p&gt;To quote a dialogue from I, Robot: We robots will ensure mankind’s continued existence… At times, the creator needs to be protected by its creation…”&lt;/p&gt;&lt;p&gt;&lt;br&gt;Now this is intimidating. If one looks at it closely, it almost seems like this Teserect (you would know if you have seen Avengers) that once created seems to grow and gather power on its own. Privacy invasion? Guaranteed.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;The piling database and information that Google has every passing minute has already impacted several businesses and individuals. Even though it provides all information at zero expense but the information that humans put into use can back fire at some point in time. &lt;br&gt;&lt;/p&gt;&lt;p&gt;Google by the end of the next decade will possibly have the highest potential to turn everything into a digital pool. Who knows, it just might be the last sane “MAN” on the face of the earth?&lt;br&gt;Tickle your humor bone and see what all can turn Google in the near future!&lt;/p&gt;&lt;ul&gt;
+&lt;p&gt;
+&lt;li&gt;&lt;b&gt;TOOTHBRUSH&lt;/b&gt;: Your dirty toothbrush post the brushing session will update itself &lt;img src="http://rudrasofttech.com/rockying/art/internet/Google/google-is-watching.png" title="Google; Watching You" alt="" style="width: 400px; float: right;"&gt;online and 224,55567,0000 views will decide your dental expenses!&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;THE PAINT BRUSH&lt;/b&gt;: Every stroke will decide its own colour and even tell if that stroke was plagiarized from Van Gogh or Monet. It will directly put all paintings on slide shows and the number of clicks will decide the longevity of the painting.&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;THE GOOGLE FLOWER&lt;/b&gt;: It will grow only on an Ipad or the computer screen. Mobile phones can sow the seeds and see that it germinates but the flower would need a bigger screen space for growth. It will not need sunlight. LED lights emanated from computer screen would do.&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;THE GOOGLE ROCKING CHAIR&lt;/b&gt;: The faster you swing, the more easily you are traced and stay connected. The moment you get off the chair, the viewers will be able to see your activities.&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;THE GOOGLE BODY METER&lt;/b&gt;: It will keep a track of the exact number of times you swallowed and breathed. This information will be used for national and citizenship records. In short, Google will replace the concept of death and birth certificates. Once you are plugged, it is all online. 
+&lt;/p&gt;
+&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h5&gt;Still guessing whatever happened to your privacy? The entire fact that you can delete your information and data online but it is all stored somewhere ELSE is creepy indeed. Tell us what you think!&lt;/h5&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

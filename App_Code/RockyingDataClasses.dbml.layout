@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 12.25, 22.625" name="RockyingDataClasses">
+  <DataContextMoniker Name="/RockyingDataClassesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="1fef0b66-3f7f-4216-bcb1-b2883ea000bf" absoluteBounds="0.75, 5.625, 2, 3.5016097005208326">
+      <DataClassMoniker Name="/RockyingDataClassesDataContext/Picture" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b4563351-60ba-480b-a6e9-718d3bdae56c" absoluteBounds="0.76499999999999968, 6.085, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="51164496-ac07-43a0-8e92-54ba58a1a01b" absoluteBounds="6.25, 2.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/RockyingDataClassesDataContext/TopStory" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a4d9521d-7cf5-4274-be1b-6f1936f3024f" absoluteBounds="6.265, 2.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2ed560bf-5f7f-4846-b4ae-17cc1018f399" absoluteBounds="7.25, 8.125, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/RockyingDataClassesDataContext/CustomPage" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5cb92df6-37dd-4e0e-b469-66b56241b985" absoluteBounds="7.2650000000000006, 8.585, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="584cc44a-2a08-454f-8f5b-1909874baca1" absoluteBounds="0.5, 11.125, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/RockyingDataClassesDataContext/EmailMessage" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c45071df-0a0d-4c76-ab37-e858afad8fd1" absoluteBounds="0.51500000000000012, 11.585, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="41f80efc-6b9f-45d2-968a-d69a941ecb10" absoluteBounds="5, 11.125, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/RockyingDataClassesDataContext/WebsiteSetting" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5a2bccf0-514b-4f1e-b1aa-e894baad11eb" absoluteBounds="5.015, 11.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6a543370-f9ea-4643-81cd-5aaec63c4f86" absoluteBounds="10, 7.25, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/RockyingDataClassesDataContext/PageComment" />
+      <nestedChildShapes>
+        <elementListCompartment Id="530f3096-c4d6-4e17-91d1-036719917d1a" absoluteBounds="10.015, 7.71, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(10.7092307692308 : 10.6470157877604); (10.7092307692308 : 10.8970157877604); (11.3046153846154 : 10.8970157877604); (11.3046153846154 : 10.6470157877604)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/RockyingDataClassesDataContext/PageComment/PageComment_PageComment" />
+      <nodes>
+        <classShapeMoniker Id="6a543370-f9ea-4643-81cd-5aaec63c4f86" />
+        <classShapeMoniker Id="6a543370-f9ea-4643-81cd-5aaec63c4f86" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="9de5ff45-3e0d-41a1-a7d6-b444c29e9345" absoluteBounds="3.625, 5.25, 2, 5.2323225911458326">
+      <DataClassMoniker Name="/RockyingDataClassesDataContext/Member" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a68e506a-e508-4848-aa61-537d46e74062" absoluteBounds="3.64, 5.71, 1.9700000000000002, 4.672322591145833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.625 : 7.88551638246194); (2.75 : 7.88551638246194)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/RockyingDataClassesDataContext/Member/Member_Picture" />
+      <nodes>
+        <classShapeMoniker Id="9de5ff45-3e0d-41a1-a7d6-b444c29e9345" />
+        <classShapeMoniker Id="1fef0b66-3f7f-4216-bcb1-b2883ea000bf" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.625 : 6.27662382311699); (2.75 : 6.27662382311699)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/RockyingDataClassesDataContext/Member/Member_Picture1" />
+      <nodes>
+        <classShapeMoniker Id="9de5ff45-3e0d-41a1-a7d6-b444c29e9345" />
+        <classShapeMoniker Id="1fef0b66-3f7f-4216-bcb1-b2883ea000bf" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.625 : 6.4218725); (6.71875 : 6.4218725); (6.71875 : 3.95359537760417)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/RockyingDataClassesDataContext/Member/Member_TopStory" />
+      <nodes>
+        <classShapeMoniker Id="9de5ff45-3e0d-41a1-a7d6-b444c29e9345" />
+        <classShapeMoniker Id="51164496-ac07-43a0-8e92-54ba58a1a01b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.625 : 9.20274983723958); (7.25 : 9.20274983723958)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/RockyingDataClassesDataContext/Member/Member_CustomPage" />
+      <nodes>
+        <classShapeMoniker Id="9de5ff45-3e0d-41a1-a7d6-b444c29e9345" />
+        <classShapeMoniker Id="2ed560bf-5f7f-4846-b4ae-17cc1018f399" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.625 : 8.60137491861979); (7.25 : 8.60137491861979)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/RockyingDataClassesDataContext/Member/Member_CustomPage1" />
+      <nodes>
+        <classShapeMoniker Id="9de5ff45-3e0d-41a1-a7d6-b444c29e9345" />
+        <classShapeMoniker Id="2ed560bf-5f7f-4846-b4ae-17cc1018f399" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.625 : 7.65625); (10 : 7.65625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/RockyingDataClassesDataContext/Member/Member_PageComment" />
+      <nodes>
+        <classShapeMoniker Id="9de5ff45-3e0d-41a1-a7d6-b444c29e9345" />
+        <classShapeMoniker Id="6a543370-f9ea-4643-81cd-5aaec63c4f86" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.625 : 7.921875); (10 : 7.921875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/RockyingDataClassesDataContext/Member/Member_PageComment1" />
+      <nodes>
+        <classShapeMoniker Id="9de5ff45-3e0d-41a1-a7d6-b444c29e9345" />
+        <classShapeMoniker Id="6a543370-f9ea-4643-81cd-5aaec63c4f86" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.625 : 7.05324764623397); (3.375 : 7.05324764623397); (3.375 : 8.7177851186899); (3.625 : 8.7177851186899)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/RockyingDataClassesDataContext/Member/Member_Member" />
+      <nodes>
+        <classShapeMoniker Id="9de5ff45-3e0d-41a1-a7d6-b444c29e9345" />
+        <classShapeMoniker Id="9de5ff45-3e0d-41a1-a7d6-b444c29e9345" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="30d880a7-2244-49c1-a91b-7ca0fc0e6e75" absoluteBounds="7.375, 11.625, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/RockyingDataClassesDataContext/CustomDataSource" />
+      <nestedChildShapes>
+        <elementListCompartment Id="718d260a-0d6c-41c0-b5eb-3a6d56bc5af9" absoluteBounds="7.39, 12.085, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.28125 : 10.4823225911458); (4.28125 : 13.2732975260417); (7.375 : 13.2732975260417)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/RockyingDataClassesDataContext/Member/Member_CustomDataSource" />
+      <nodes>
+        <classShapeMoniker Id="9de5ff45-3e0d-41a1-a7d6-b444c29e9345" />
+        <classShapeMoniker Id="30d880a7-2244-49c1-a91b-7ca0fc0e6e75" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.6406275 : 10.4823225911458); (4.6406275 : 12.8922932356771); (7.375 : 12.8922932356771)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/RockyingDataClassesDataContext/Member/Member_CustomDataSource1" />
+      <nodes>
+        <classShapeMoniker Id="9de5ff45-3e0d-41a1-a7d6-b444c29e9345" />
+        <classShapeMoniker Id="30d880a7-2244-49c1-a91b-7ca0fc0e6e75" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="c9c6e8a6-678e-43ad-9185-0abf420b6820" absoluteBounds="6.375, 15.25, 2, 7.1553369140625005">
+      <DataClassMoniker Name="/RockyingDataClassesDataContext/Order" />
+      <nestedChildShapes>
+        <elementListCompartment Id="da21e124-73d0-43b3-9ccf-fe85ad6692c5" absoluteBounds="6.39, 15.71, 1.9700000000000002, 6.5953369140625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6d9207fc-d22c-4cc3-9390-7e198ae6c476" absoluteBounds="9.125, 17.75, 2, 2.3478011067708309">
+      <DataClassMoniker Name="/RockyingDataClassesDataContext/OrderItem" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a69e01d2-ea9e-44ae-a0e9-08ca989aacb4" absoluteBounds="9.14, 18.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.9218725 : 10.4823225911458); (3.9218725 : 18.8276684570313); (6.375 : 18.8276684570313)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/RockyingDataClassesDataContext/Member/Member_Order" />
+      <nodes>
+        <classShapeMoniker Id="9de5ff45-3e0d-41a1-a7d6-b444c29e9345" />
+        <classShapeMoniker Id="c9c6e8a6-678e-43ad-9185-0abf420b6820" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.375 : 18.9239005533854); (9.125 : 18.9239005533854)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/RockyingDataClassesDataContext/Order/Order_OrderItem" />
+      <nodes>
+        <classShapeMoniker Id="c9c6e8a6-678e-43ad-9185-0abf420b6820" />
+        <classShapeMoniker Id="6d9207fc-d22c-4cc3-9390-7e198ae6c476" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="0f7d5acb-8e34-4590-a141-338698a31f11" absoluteBounds="3.375, 0.625, 2, 4.0785139973958326">
+      <DataClassMoniker Name="/RockyingDataClassesDataContext/Post" />
+      <nestedChildShapes>
+        <elementListCompartment Id="84bb6223-63d5-4bca-8241-ccc41b641fb6" absoluteBounds="3.3899999999999997, 1.085, 1.9700000000000002, 3.518513997395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.375 : 3.16429768880208); (6.25 : 3.16429768880208)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/RockyingDataClassesDataContext/Post/Post_TopStory" />
+      <nodes>
+        <classShapeMoniker Id="0f7d5acb-8e34-4590-a141-338698a31f11" />
+        <classShapeMoniker Id="51164496-ac07-43a0-8e92-54ba58a1a01b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.5 : 5.25); (4.5 : 4.70351399739583)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/RockyingDataClassesDataContext/Member/Member_Post" />
+      <nodes>
+        <classShapeMoniker Id="9de5ff45-3e0d-41a1-a7d6-b444c29e9345" />
+        <classShapeMoniker Id="0f7d5acb-8e34-4590-a141-338698a31f11" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5 : 5.25); (5 : 4.70351399739583)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/RockyingDataClassesDataContext/Member/Member_Post1" />
+      <nodes>
+        <classShapeMoniker Id="9de5ff45-3e0d-41a1-a7d6-b444c29e9345" />
+        <classShapeMoniker Id="0f7d5acb-8e34-4590-a141-338698a31f11" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="15643f39-5306-4077-809f-74bd917a410c" absoluteBounds="1.125, 1.875, 2, 1.9631982421875">
+      <DataClassMoniker Name="/RockyingDataClassesDataContext/Category" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f3f278fd-3208-445b-a265-a8f94e5bac8e" absoluteBounds="1.1400000000000001, 2.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(1.9375 : 3.8381982421875); (1.9375 : 5.625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/RockyingDataClassesDataContext/Category/Category_Picture" />
+      <nodes>
+        <classShapeMoniker Id="15643f39-5306-4077-809f-74bd917a410c" />
+        <classShapeMoniker Id="1fef0b66-3f7f-4216-bcb1-b2883ea000bf" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.125 : 2.85659912109375); (3.375 : 2.85659912109375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/RockyingDataClassesDataContext/Category/Category_Post" />
+      <nodes>
+        <classShapeMoniker Id="15643f39-5306-4077-809f-74bd917a410c" />
+        <classShapeMoniker Id="0f7d5acb-8e34-4590-a141-338698a31f11" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.83363627929688 : 1.875); (1.83363627929688 : 1.625); (2.43023818359375 : 1.625); (2.43023818359375 : 1.875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/RockyingDataClassesDataContext/Category/Category_Category" />
+      <nodes>
+        <classShapeMoniker Id="15643f39-5306-4077-809f-74bd917a410c" />
+        <classShapeMoniker Id="15643f39-5306-4077-809f-74bd917a410c" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

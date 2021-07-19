@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>GxBvmOkUvVejscSlx</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>alLubh</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>EF7bW</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;alLubh&lt;/p&gt;</Description>
+  <Text>Other amount http://9taxi.in.net/ taxi69  The &amp;quot;it&amp;quot; in question is Jeter&amp;#39;s strained right quad, which figures to put him on the shelf until after the All-Star break and could still land him on the disabled list. Girardi is going to urge the Yankee shortstop to be careful about the injury, which he sustained trying to beat out a hit in his first game back from his ankle woes.</Text>
+  <WriterName>pygeM</WriterName>
+  <WriterEmail>hoseae16@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>gxbvmokuvvejscslx</URL>
+</Article>

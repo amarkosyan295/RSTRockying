@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>FtOGdniIyFhJGdKIvJ</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>4Cd7B</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>14</Category>
+  <Tag>TmKbt</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;4Cd7B&lt;/p&gt;</Description>
+  <Text>What do you do for a living? http://ampland.fun/ ampland  Federal authorities in Brooklyn are prosecuting the motley crew of low-paid security guards &amp;#226; who teamed up with a deejay, home care workers, a freelance mechanic, a private ambulance attendant and a livery driver.</Text>
+  <WriterName>cg6IRi</WriterName>
+  <WriterEmail>thaddeus2b@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>ftogdniiyfhjgdkivj</URL>
+</Article>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>asd a f assdfs dsf saf</Title>
+  <OGImage />
+  <OGDescription>sd s dsada sfg dfgdsg dfgsdf sdgdsfg sdfgsdfg sdfgdfs dsfgdsf dsfgdf fgsdfg dfgsd gegrgeg rerg ewgr gegewge gerg</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>15</Category>
+  <Tag>d  ewewew wewe,rew wer we,rwe ewr wer</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;sd s dsada sfg dfgdsg dfgsdf sdgdsfg sdfgsdfg sdfgdfs dsfgdsf dsfgdf fgsdfg dfgsd gegrgeg rerg ewgr gegewge gerg&lt;/p&gt;</Description>
+  <Text>You can write and make stuff for Rockying.com
+If you are a passionate/funny/smart/creative person and believe in your idea,
+Rockying.com is the single best opportunity you will ever come across in your life.
+
+No experience necessary. We will pay you if you&amp;#39;re good.
+You talk directly to the editors — no form letter rejections.
+
+Your work could be seen by millions of people. 
+We need articles, photoshops, infographics and videos. Take your pick.</Text>
+  <WriterName>weew wwer ewr</WriterName>
+  <WriterEmail>rajkiran.singh@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>asd-a-f-assdfs-dsf-safw-efw-wefw</URL>
+</Article>

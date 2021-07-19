@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>84</ID>
+  <Title>Take Your Brain For A Jog</Title>
+  <MetaTitle>Take Your Brain For A Jog</MetaTitle>
+  <OGImage>//rockying.com/art/health/brain-exercise.jpg</OGImage>
+  <OGDescription>While physical invigoration is achieved through an hour on the treadmill, there are many more ways in which the mind can just be treated the same way. Here are some simple things to jog that always rested brain...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Brain Exercise, Tips to keep the rested brain working</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/health/brain-exercise.jpg' alt='' /&gt;&lt;p&gt;While physical invigoration is achieved through an hour on the treadmill, there are many more ways in which the mind can just be treated the same way. Here are some simple things to jog that always rested brain...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    &lt;img src="//rockying.com/art/health/brain-exercise.jpg" title="Brain Exercise"
+        alt="" style="max-height: 300px;" class="pull-right" /&gt;&lt;strong&gt;W&lt;/strong&gt;hile
+    all of us stress importance on exercising the body, many of us forget that the brain
+    needs exercise too. The brain is an organ and it needs oxygen, it needs exercise
+    just like any other organ. So, while physical invigoration is achieved through an
+    hour on the treadmill, there are many more ways in which the mind can just be treated
+    the same way.&lt;/p&gt;
+&lt;p&gt;
+    Keeping the mind active protects the brain from brain loss and from slowing of thought.
+    Also, an active mind is effective in decision making, problem solving and in protecting
+    your mind from early stagnation.
+&lt;/p&gt;
+&lt;p&gt;
+    So, here are some simple things to jog that always rested brain; believe me, they
+    aren’t tiring but they will have the mind energized!
+&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;READ, READ AND READ MORE&lt;/strong&gt;
+            The most loved and the most relaxing mind exercise.&amp;nbsp; There are loads of books
+            to be chosen from – literature, history, thriller, business, romance to any genre
+            that is of your liking. Not only do you absorb a lot of information, you learn new
+            words and you will have a lot of things to talk about.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;TAKE A COURSE&lt;/strong&gt; Get out of your comfort zone; go learn something
+            totally new and you have been wanting for a long time. Take up cooking classes,
+            learn a new language, take up a new sport, learn an instrument; the whole idea is
+            to challenge your mind to think outside the box&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;SOLVE THE CASE&lt;/strong&gt; Pick up your daily newspapers, you will find them
+            filled with puzzles, crosswords, Sudoku and other word and number games. Indulge
+            in them, make it a routine. Through these you work on your language, your spelling
+            and mathematical skills.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;A WORD A DAY&lt;/strong&gt; Make it a habit to learn one new word daily. This
+            helps in pushing the mind to its extremes and in improving memory and in bettering
+            your retention.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;USE YOUR NON-DOMINANT HAND&lt;/strong&gt; This might be a lot of fun and can have
+            wondrous effects. Try using your non dominant hand (the hand which you do not use
+            to write or are not comfortable with otherwise) for different activities.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;EXERCISE MORE&lt;/strong&gt;&lt;img src="//rockying.com/art/health/Exercise.jpg"
+                title="Exercise for Health" alt="" style="max-height: 300px;" class="pull-right" /&gt;
+            Really, there are no two ways about this. Everyone needs exercise. Indulge in the
+            usual – jogging, walking, running, swimming. Try out new ways of physical workout,
+            learn yoga, sign up for aerobics, play sports. But yes, exercise never goes out
+            of fashion.&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    The world we live in offers us constant opportunities through which we can work
+    on our health and mental well being. The trick is to grab them and make use of the
+    best for us. Your brain needs a fitness program and you are the only one who can
+    give in to its demands. Listen to your body and brain and keep them both active
+    – always!&lt;/p&gt;
+&lt;h4&gt;
+    Do tell us your fitness mantra? What do you do to keep the neurons all charged up
+    always?&lt;/h4&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>84</URL>
+</Article>

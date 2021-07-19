@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>The Oscars; A Journey Since 1927!</Title>
+  <MetaTitle>Oscar Awards and everything you want to know about it</MetaTitle>
+  <OGImage>http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Oscars.jpg</OGImage>
+  <OGDescription>Rockying is here to take you through the evolution of this grand award ceremony, it’s amazing history and everything that you always wanted to know about...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>12</Category>
+  <Tag>Oscars 2013, History of the Oscars, Oscar Golden Statuette, Golden Oscar Facts.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Oscars.jpg' alt='' /&gt;&lt;p&gt;Rockying is here to take you through the evolution of this grand award ceremony, it’s amazing history and everything that you always wanted to know about...&lt;/p&gt;</Description>
+  <Text>&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Oscars-Article.jpg" /&gt;
+&lt;p&gt;
+    It’s that time of the year again! The countdown to the most prestigious award ceremony
+    in the world of Cinema has come to an end. Everyone eagerly waits for the Oscars;
+    for a night that is full of pomp, show, glamour and surprise, and before we bring
+    to you this year’s winners, &lt;a href="http://www.rockying.com/"&gt;Rockying&lt;/a&gt; is here
+    to take you through the evolution of this grand award ceremony, it’s amazing history
+    and everything that you always wanted to know about it.
+&lt;/p&gt;
+&lt;p class="well well-small clearfix" style="width: 70%"&gt;
+    &lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/walt_disney.jpg"
+        class="pull-left" /&gt;
+    &lt;span style="color: Red;"&gt;&lt;b&gt;Did You Know? &lt;/b&gt;&lt;/span&gt;
+    &lt;br&gt;
+    The individual who has been awarded the most number of Oscars was our very dear
+    &lt;b&gt;Walt Disney&lt;/b&gt;, the voice and creator of Mickey Mouse, Snow White and many such
+    cartoon characters, who took home &lt;b&gt;26&lt;/b&gt; Academy Awards over his lifetime.
+    &lt;br&gt;
+    (&lt;b&gt;22&lt;/b&gt; regular Oscars and four honorary ones.)
+    &lt;br&gt;
+    He had been nominated for a total &lt;b&gt;64&lt;/b&gt; times.
+&lt;/p&gt;
+&lt;h4&gt;
+    So, What is the Oscar?&lt;/h4&gt;
+&lt;p&gt;
+    The Academy Awards, popularly known as Oscars, are given by the Academy of Motion
+    Picture Arts and Sciences every year. The Academy of Motion Picture Arts and Sciences,
+    a professional honorary society, was set up in the US in 1927, and is dedicated
+    to promoting excellence in film-making. The society comprises of members from various
+    fields of cinema. The Academy started with five disciplines: producers, actors,
+    directors, writers and technicians and has spread its root to 15 branches now.
+&lt;/p&gt;
+&lt;p class="well well-small clearfix" style="width: 70%"&gt;
+    &lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Jack-Nicholson.jpg"
+        class="pull-left" /&gt;
+    &lt;span style="color: Red;"&gt;&lt;b&gt;Did You Know?&lt;/b&gt;&lt;/span&gt;&lt;br&gt;
+    The male actor with the most Oscar nominations is &lt;b&gt;Jack Nicholson&lt;/b&gt;, who has
+    been nominated for a total 12 times. (He has won three times: twice for Best Actor
+    and once for Best Supporting Actor.)
+&lt;/p&gt;
+&lt;h4&gt;
+    And Who Started this Whole Thing?&lt;/h4&gt;
+&lt;p&gt;
+    The idea was conceived by MGM's studio chief Louis B. Mayer, actor Conrad Nagel,
+    director Fred Niblo and producer Fred Beetson. They thought of creating an organization
+    that will work towards the development of the entire film industry and also decided
+    to host a grand party once a year where they would hand out all those nifty little
+    golden statuettes. Once the Academy was granted a status of non-profit organisation
+    in 1927, a party was thrown in which 230 members joined the league by paying $100
+    each.
+&lt;/p&gt;
+&lt;p class="well well-small clearfix" style="width: 70%"&gt;
+    &lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/meryl-streep.jpg"
+        class="pull-left" /&gt;
+    &lt;span style="color: Red;"&gt;&lt;b&gt;Did You Know? &lt;/b&gt;&lt;/span&gt;
+    &lt;br&gt;
+    &lt;b&gt;Meryl Streep&lt;/b&gt; holds the record for the most total Oscar nominations for acting,
+    with 17 nominations.&lt;br&gt;
+    (She has won thrice: twice for playing Best Actress in Sophie's Choice and The Iron
+    Lady, and once for Best Supporting Actress in Kramer vs Kramer ).
+&lt;/p&gt;
+&lt;h4&gt;
+    What Do they do Apart from Handing out Statuettes Annually?&lt;/h4&gt;
+&lt;p&gt;
+    The Academy, other than recognising achievements for cinematic brilliance in film-making,
+    carries out various other activities. Since its inception the Academy has played
+    a vital role in the world of art by supporting research and education for the improvement
+    of film technology, preserving and documenting the history of motion pictures, publishing
+    reference materials, encouraging film-study programs, sponsoring vocational scholarships,
+    fostering cooperation among the creative members of the industry etc.
+&lt;/p&gt;
+&lt;p class="well well-small clearfix" style="width: 70%"&gt;
+    &lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/katharine-Hepburn.jpg"
+        class="pull-left" /&gt;
+    &lt;span style="color: Red;"&gt;&lt;b&gt;Did You Know? &lt;/b&gt;&lt;/span&gt;
+    &lt;br&gt;
+    The actress with the most Academy Awards for "Best Actress" is &lt;b&gt;Katharine Hepburn&lt;/b&gt;.&lt;br&gt;
+    She has won four of the golden statuettes in 1934, 1968, 1969 &amp; 1982 for Morning
+    Glory,Guess Who's Coming to Dinner, The Lion in Winter and On Golden Pond respectively.
+&lt;/p&gt;
+&lt;h4&gt;
+    Who runs the show?&lt;/h4&gt;
+&lt;p&gt;
+    Unlike our movie awards, the Academy is professionally governed by a board, which
+    comprises of members from each branch of the film-making fraternity. These members
+    represent 15 fields of motion pictures– actors, animators, short film makers, art
+    directors, costume designers, cinematographers, composers, songwriters, documentary
+    film-makers, directors, executives, film editors, make-up artists, producers, public
+    relations specialists, sound artists and engineers, visual effects experts and writers.
+    Each of these branches has their own standards of eligibility for potential members.
+    Members usually get an invitation from the Academy to become part of the society.
+&lt;/p&gt;
+&lt;p class="well well-small clearfix" style="width: 70%"&gt;
+    &lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Daniel-Day-Lewis.jpg"
+        class="pull-left" /&gt;
+    &lt;span style="color: Red;"&gt;&lt;b&gt;Did You Know? &lt;/b&gt;&lt;/span&gt;
+    &lt;br&gt;
+    The actor to have won most awards for playing "Best Actor" is none other than &lt;b&gt;Daniel
+        Day-Lewis&lt;/b&gt;.&lt;br&gt;
+    He has won three Academy Awards for playing "Best Actor", for "There Will Be Blood",
+    "My Left Foot" and this year's "Lincoln".
+&lt;/p&gt;
+&lt;h4&gt;
+    And How does this lot Decide Upon the Awards?&lt;/h4&gt;
+&lt;p&gt;
+    The Academy Awards are presented for outstanding individual or collective efforts
+    in up to 25 categories. It is the members who select winners from as many as five
+    nominees in each category, which are determined by members of the relevant Academy
+    branch. (For instance, only film editors may nominate movies for the Achievement
+    in Film Editing award.) The only exception to this rule is in the categories for
+    Best Picture and Best Foreign Language films where nominees are selected by a committee
+    of members drawn from all branches. They hold the whole show in two parts: the first,
+    called the technical awards is held a week or so prior to the main show. The second
+    part is the main shows; which is what we see every year and call the Academy Awards.
+&lt;/p&gt;
+&lt;p class="well well-small clearfix" style="width: 70%"&gt;
+    &lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Tatum-o-neal.jpg"
+        class="pull-left" /&gt;
+    &lt;span style="color: Red;"&gt;&lt;b&gt;Did You Know? &lt;/b&gt;&lt;/span&gt;
+    &lt;br&gt;
+    The youngest person to ever receive an Oscar was 5-year-old Shirley Temple - in
+    1934. (However, Shirley's Oscar was an honorary one.)&lt;br&gt;
+    The youngest actress to win a standard Oscar was &lt;b&gt;Tatum O'Neal&lt;/b&gt;, who was 10
+    years old when she won the Best Supporting Actress award for "Paper Moon" in 1974.
+&lt;/p&gt;
+&lt;h4&gt;
+    Hey! What About the TV show?&lt;/h4&gt;
+&lt;p&gt;
+    The first Oscar ceremony was held in May 16, 1929 at a brunch in Hollywood Roosevelt
+    Hotel. The ceremony was witnessed by around 270 and ticket for the event cost $5
+    each. In the first award ceremony 15 statuettes were awarded for honouring achievements
+    between August 1, 1927 and July 31, 1928. But it was in as late as 1954 that the
+    ceremony was televised for the first time throughout the United States and Canada.
+    It was during the 38th Awards in 1966 that viewers first experienced the dazzling
+    red carpet event in its full coloured glory. Since 1969, the Oscar show has been
+    broadcast internationally, now reaching movie fans in over 200 countries.
+&lt;/p&gt;
+&lt;p class="well well-small clearfix" style="width: 70%"&gt;
+    &lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Henry-Fonda.jpg"
+        class="pull-left" /&gt;
+    &lt;span style="color: Red;"&gt;&lt;b&gt;Did You Know? &lt;/b&gt;&lt;/span&gt;
+    &lt;br&gt;
+    &lt;b&gt;Christopher Plummer&lt;/b&gt; became the oldest person to win an Oscar. He won the
+    award for the Best Supporting Actor in 2012, at age 82, for his performance in "Beginners".&lt;br&gt;
+    The oldest actor to win the Oscar for Best Actor was &lt;b&gt;Henry Fonda&lt;/b&gt;, for "On
+    Golden Pond" in 1982, at age 76.
+&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Oscar-Trophy-award-photo.jpg"
+    class="pull-left clearfix" /&gt;
+&lt;h4&gt;
+    What’s with that Statue of a Golden dude with a Sword?&lt;/h4&gt;
+&lt;p&gt;
+    MGM art director Cedric Gibbons was the man who first designed the statuette of
+    a knight standing on a reel of film gripping a crusader’s sword. The Academy contracted
+    Los Angeles sculptor George Stanley to realize the design in three dimensions –
+    and the world-renowned statuette was born. The statuette is 13½ inches tall and
+    weighs 8½ pounds. The film reel features five spokes, signifying the five original
+    branches of the Academy. The statuettes are cast, moulded, polished and buffed by
+    R.S. Owens &amp; Company, a Chicago-based awards manufacturer.
+&lt;/p&gt;
+&lt;p class="well well-small" style="width: 70%"&gt;
+    &lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Oscar-Final-Story.jpg"
+        class="pull-left clearfix" /&gt;
+    &lt;span style="color: Red;"&gt;&lt;b&gt;Did You Know? &lt;/b&gt;&lt;/span&gt;
+    &lt;br&gt;
+    The three movies to have won the most number of Oscars are "Lord of the Rings: Return
+    of the King" (2003), "Titanic" (1997) and "Ben-Hur" (1959).
+    &lt;br&gt;
+    &lt;br&gt;
+    Each of those movies won &lt;b&gt;11&lt;/b&gt; statuettes."West Side Story" stands at the second
+    place winning a total &lt;b&gt;ten&lt;/b&gt; Oscars.
+&lt;/p&gt;
+&lt;h4&gt;
+    Why the “Oscar”?&lt;/h4&gt;
+&lt;p&gt;
+    The award is officially named the Academy Award of Merit while it is more recognizable
+    by the nickname given to its statuette- Oscar. While the origins of the moniker
+    aren't clear, a popular story has it that upon seeing the trophy for the first time,
+    Academy librarian (and eventual executive director) Margaret Herrick remarked that
+    it resembled her Uncle Oscar. The name caught on and even the Academy adopted the
+    nickname officially in 1939.
+&lt;/p&gt;
+&lt;p&gt;
+    Now that you are armed with all the Oscar trivia that you need, all you have to
+    do is sit back and get to know with us the most popular technicians that took the
+    golden knight home this year. And the winners are...&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p style="text-align:center;"&gt;
+    &lt;b&gt;Daniel Day Lewis&lt;/b&gt; for being Best Actor playing the title role in &lt;b&gt;&lt;i&gt;Lincoln&lt;/i&gt;&lt;/b&gt;.
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/lincoln-daniel-day-lewis.jpg"
+    alt="Lincon Daniel Day Lewis" /&gt;
+&lt;hr /&gt;
+&lt;p style="text-align:center;"&gt;
+    &lt;b&gt;Jennifer Lawrence&lt;/b&gt; for playing the Best Actress in &lt;b&gt;&lt;i&gt;Silver Linings Playbook&lt;/i&gt;&lt;/b&gt;.
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Jennifer-Lawrence.jpg"
+    alt="Jennifer Lawernce" /&gt;
+&lt;hr /&gt;
+&lt;p style="text-align:center;"&gt;
+    &lt;b&gt;Christoph Waltz&lt;/b&gt;, Best Supporting Actor for &lt;b&gt;&lt;i&gt;Django Unchained&lt;/i&gt;&lt;/b&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/django-unchained-christoph-waltz.jpg"&gt;
+&lt;hr /&gt;
+&lt;p style="text-align:center;"&gt;
+    &lt;b&gt;Anne Hathaway&lt;/b&gt;, for being the Best Supporting Actress in &lt;b&gt;&lt;i&gt;Les Miserables&lt;/i&gt;&lt;/b&gt;.
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Anne-Hathaway.jpg"
+    alt="Anne Hathaway" /&gt;
+&lt;hr /&gt;
+&lt;p style="text-align:center;"&gt;
+    &lt;b&gt;Grant Heslov, Ben Affleck and George Clooney&lt;/b&gt; for producing the Best Picture
+    of 2012, &lt;b&gt;&lt;i&gt;Argo&lt;/i&gt;&lt;/b&gt;.
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Argo-Winner-Producers.jpg"
+    alt="Argo Winner Producers" /&gt;
+&lt;hr /&gt;
+&lt;p style="text-align:center;"&gt;
+    &lt;b&gt;Ang Lee&lt;/b&gt;,Best Director for &lt;b&gt;&lt;i&gt;Life of Pi&lt;/i&gt;&lt;/b&gt;.
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Lif-of-Pi-Ang-Lee.jpg" /&gt;
+&lt;hr /&gt;
+&lt;p style="text-align:center;"&gt;
+    &lt;b&gt;Amour&lt;/b&gt;, from Austria, the Best Foreign Language Film.
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Amour-Best-Foreign-Language-Film.jpg" /&gt;
+&lt;hr /&gt;
+&lt;p style="text-align:center;"&gt;
+    &lt;b&gt;Mark Andrews&lt;/b&gt; and &lt;b&gt;Brenda Chapman&lt;/b&gt; for directing the Best Animated Feature
+    Film &lt;b&gt;&lt;i&gt;Brave&lt;/i&gt;&lt;/b&gt;.
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Brave-Oscar.jpg" /&gt;
+&lt;hr /&gt;
+&lt;p style="text-align:center;"&gt;
+    &lt;b&gt;Claudio Miranda, &lt;/b&gt;Best Cinematography for &lt;b&gt;&lt;i&gt;Life of Pi&lt;/i&gt;&lt;/b&gt;.
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Claudio-Miranda.jpg"
+    alt="Caludio Miranda" /&gt;
+&lt;hr /&gt;
+&lt;p style="text-align:center;"&gt;
+    &lt;b&gt;Jacqueline Durran&lt;/b&gt; for designing the Best Costumes for &lt;b&gt;&lt;i&gt;Anna Karenina&lt;/i&gt;&lt;/b&gt;.
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Anna-Karenina-Best-Costume.jpg"
+    alt="Anna Karenina Best Costume" /&gt;
+&lt;hr /&gt;
+&lt;p style="text-align:center;"&gt;
+    &lt;b&gt;William Goldenberg&lt;/b&gt;, Best Editing for &lt;b&gt;&lt;i&gt;Argo&lt;/i&gt;&lt;/b&gt;.
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Best-Editing-William-Goldenberg.jpg"
+    alt="Best Editing William Goldenberg" /&gt;
+&lt;hr /&gt;
+&lt;p style="text-align:center;"&gt;
+    &lt;b&gt;Mychael Danna&lt;/b&gt;, Best Music (Original Score), for &lt;b&gt;&lt;i&gt;Life of Pi&lt;/i&gt;&lt;/b&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Mychael-Danna.jpg"
+    alt="Mychael Danna" /&gt;
+&lt;p&gt;
+    Visit &lt;a href="http://oscar.go.com/nominees" target="_blank" /&gt;here&lt;/a&gt; for further
+    details on the nominees and winners this year. We will catch you next year with
+    a fresher set of movie achievers and the most awesome movies made at no where else
+    but HOLLYWOOD!
+&lt;/p&gt;
+&lt;p class="well"&gt;
+&lt;b&gt;About the Author:&lt;/b&gt; Keeping her eyes closed, with long breaths and a gentle sound many mistake for snoring, actually helps Sonali think better. Or so she says. People question about these daily “thinking sessions”, mostly conducted on a comfortable couch or bed, while she claims that the long overdue best-seller she’s been working on (for quite some time now) will silence all the cynics. Till then she dreams on...
+&lt;/p&gt;</Text>
+  <WriterName>Sonali Chowdhury</WriterName>
+  <WriterEmail>media.sonali@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>253</URL>
+</Article>

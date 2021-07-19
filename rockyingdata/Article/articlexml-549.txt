@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>lofOHlkWVXYYbAYrRKv</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>5mFxg</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>19</Category>
+  <Tag>al8hU</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;5mFxg&lt;/p&gt;</Description>
+  <Text>History http://yuvututube.fun/ yuvutu tube mobile  This would-be mayor must lay out all of that, fully documented. While ridiculously porous laws give candidates much leeway over campaign spending, using money donated by supporters to mount a coverup is akin to theft.</Text>
+  <WriterName>CbUtsr</WriterName>
+  <WriterEmail>gerardo8y@yahoo.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>lofohlkwvxyybayrrkv</URL>
+</Article>

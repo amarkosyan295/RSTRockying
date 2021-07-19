@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>कहानी पूरी फ़िल्मी है.</Title>
+  <OGImage />
+  <OGDescription>कहानी पूरी फ़िल्मी है...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Bollywood, Hindi, Hindi Cinema, 100 years of Indian Cinema.</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;कहानी पूरी फ़िल्मी है...&lt;/p&gt;</Description>
+  <Text>बात फिल्मों की हो और &amp;quot;प्यार&amp;quot; का ज़िक्र न आए ऐसा तो हो नहीं सकता.</Text>
+  <WriterName>Preeti Singh Chauhan</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>love-and-100-years-of-indian-cinema</URL>
+</Article>

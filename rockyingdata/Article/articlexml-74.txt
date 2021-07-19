@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>74</ID>
+  <Title>Hollywood's Favorite Movie Quotes-II</Title>
+  <MetaTitle>best Hollywood romantic movie dialogues &amp; quotes </MetaTitle>
+  <OGImage>//www.rockying.com/art/Hollywood%20dialogues%202/rockybalboa.jpg</OGImage>
+  <OGDescription>You can read all the best Hollywood romantic movie dialogues &amp; quotes in this article and also get updated about which are the best hollywood romantic movies.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>12</Category>
+  <Tag>Hollywood, Hollywood Movie Quotes, Dialogues, Most favorite Hollywood Dialogues.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Hollywood%20dialogues%202/rockybalboa.jpg' alt='' /&gt;&lt;p&gt;You can read all the best Hollywood romantic movie dialogues &amp; quotes in this article and also get updated about which are the best hollywood romantic movies.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    So, here we are as promised in &lt;a href="http://www.rockying.com/a/63"&gt;Hollywood's favorite
+        Movie quotes-I&lt;/a&gt; ,with the next batch of Hollywood’s best said dialogues .
+    What is special about them you would say? Well, many things- the context, the amazing
+    delivery, the power behind them and for the fact that they fail to leave our movie
+    addicted memories! So, here’s some more of the delicious dialogues!&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            "&lt;i&gt;I’ll be back&lt;/i&gt;" (Terminator, 1984)&lt;/h3&gt;
+        &lt;img src="http://rockying.com/art/Hollywood%20dialogues%202/ill%20be%20back.jpg"
+            title="Arnold in Terminator" alt="" style="width: 300px;" /&gt;
+        &lt;p&gt;
+            Terminator is remembered for many things but the primary reason remains this – Arnold
+            Schwarzenegger. This dialogue happens when Arnold’s character is refused entry to
+            the police station. Soon after, he cheekily returns in the police car, smashing
+            it through the door and proceeds to destroy everything in the building. Very terminator
+            indeed.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            &lt;i&gt;A martini. Shaken, not stirred&lt;/i&gt; (Goldfinger, 1964)&lt;/h3&gt;
+        &lt;img src="http://rockying.com/art/Hollywood%20dialogues%202/james%20bond.jpg" title="Sean Connery in Goldfinger"
+            alt="" style="width: 300px;" /&gt;
+        &lt;p&gt;
+            Sean Connery remains the favorite Bond and his phrases deserve the same honor.Though
+            first spoken as “Shaken and not stirred” in Dr. No; the phrase “Shaken, not stirred”
+            figured first in Goldfinger. Since then, it is featured prominently in Bond movies.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            &lt;i&gt;Carpe diem. Seize the day, boys. Make your lives extraordinary&lt;/i&gt; (Dead Poet’s
+            Society, 1989)&lt;/h3&gt;
+        &lt;img src="http://rockying.com/art/Hollywood%20dialogues%202/carpe%20diem.jpg" title="Robin Williams In Dead Poet"
+            alt="" style="width: 300px;" /&gt;
+        &lt;p&gt;
+            Carpe Diem is a Latin phrase that means to pick or to gather but has extensively
+            been used to translate as “to seize”. Robin Williams amazing acting skills just
+            went to best in the movie and this dialogue caught every movie goers attention and
+            made the movie extraordinary!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            &lt;i&gt;"I’m the King of the World"&lt;/i&gt; (Titanic, 1997)&lt;/h3&gt;
+        &lt;img src="http://rockying.com/art/Hollywood%20dialogues%202/im%20the%20king%20of%20the%20world.jpg"
+            title="Di Caprio In Titanic" alt="" style="height: 300px;" /&gt;
+        &lt;p&gt;
+            Besides everything the movie is remembered for, this dialogue captures the true
+            essence of the character played flawlessly by Di Caprio.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            &lt;i&gt;"Well, nobody's perfect"&lt;/i&gt; (Some like it hot, 1959)&lt;/h3&gt;
+        &lt;img src="http://rockying.com/art/Hollywood%20dialogues%202/some%20like%20it%20hot.jpg"
+            title="J. E. Brown in some Like It Hot" alt="" style="width: 300px;" /&gt;
+        &lt;p&gt;
+            The dialogue which made every one stand up and take notice that after all, we are
+            allowed to make mistakes. No one could have done it better than actor – comedian
+            J.E. Brown&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            "&lt;i&gt;We rob banks&lt;/i&gt;" (Bonnie and Clyde, 1967)&lt;/h3&gt;
+        &lt;img src="http://rockying.com/art/Hollywood%20dialogues%202/bonnie%20and%20clyde.jpg"
+            title="Bonnie and Clyde 1967" alt="" style="width: 300px;" /&gt;
+        &lt;p&gt;
+            The movie was considered landmark for “breaking many cinematic taboos” but this
+            dialogues personifies the eternal theme of the crime film.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            "&lt;i&gt;Badges? We ain't got no badges! We don't need no badges! I don't have to show you
+                any stinking badges&lt;/i&gt;!" (The Treasure of the Sierra Madre, 1948)&lt;/h3&gt;
+        &lt;img src="http://rockying.com/art/Hollywood%20dialogues%202/badges.jpg" title="The Treasure of the Sierra 1948"
+            alt="" style="width: 300px;" /&gt;
+        &lt;p&gt;
+            Though the quote is actually a misquote, It is based on a line of dialog from a
+            1927 novel but continuously appears in movies, parody and prominently in the live
+            song recorded in 1985 called “Badges”.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            "&lt;i&gt;May the Force be with you&lt;/i&gt;" (Star Wars, 1977)&lt;/h3&gt;
+        &lt;img src="http://rockying.com/art/Hollywood%20dialogues%202/may%20the%20force%20be%20with%20you.jpg"
+            title="Star Wars" alt="" style="width: 300px;" /&gt;
+        &lt;p&gt;
+            You can’t be a movie fan and not have watched Star Wars; further, you can’t be a
+            Star Wars fan and not know what The Force is! It has become a legacy in the Star
+            Wars movies and is spoken by at least one character in each movie.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            "&lt;i&gt;E.T. phone home&lt;/i&gt;" (E.T The extra terrestrial, 1982)&lt;/h3&gt;
+        &lt;img src="http://rockying.com/art/Hollywood%20dialogues%202/e.t.jpg" title="E.T The Extra Terrestrial 1982"
+            alt="" style="width: 223px;" /&gt;
+        &lt;p&gt;
+            The E.T Craze still lingers and the dialogue to phone home just got bigger than
+            the extra terrestrial itself!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            "&lt;i&gt;You talkin to me&lt;/i&gt;" (Taxi Driver, 1976)&lt;/h3&gt;
+        &lt;img src="http://rockying.com/art/Hollywood%20dialogues%202/you%20talkin%20to%20me.jpg"
+            title="Robert Di Niro in Taxi Driver 1976" alt="" style="width: 300px;" /&gt;
+        &lt;p&gt;
+            This dialogue delivered by Robert Di Niro became the pop culture and has since then,
+            prominently featured in a number of movies and television series. It was chosen
+            as number 10 on American Film Institute’s top 100 best movie quotes.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            “&lt;i&gt;But it ain't how hard you hit; it's about how hard you can get hit, and keep moving
+                forward&lt;/i&gt;”. (Rocky Balboa, 2006)&lt;/h3&gt;
+        &lt;img src="http://rockying.com/art/Hollywood%20dialogues%202/rockybalboa.jpg" title="Rocky Balboa 2006"
+            alt="" style="width: 300px;" /&gt;
+        &lt;p&gt;
+            And last but not the least, the editor’s choice, When senior Rocky says this to
+            Junior Rocky; little did he know that it would become the theme for all speakers
+            and motivational coaches around the world. It became a theme and Rocky and everyone
+            of learnt to get up and fight back!&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+&lt;h6&gt;
+    So, our take on the twenty one most favorite quotes that still remain a cinematic
+    favorite. Just in case you missed it, &lt;a href="http://www.rockying.com/a/63"&gt;click here&lt;/a&gt;
+    for the first ten. Do add in yours, tell us what your favorite movie quote to date
+    remains!&lt;/h6&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>74</URL>
+</Article>

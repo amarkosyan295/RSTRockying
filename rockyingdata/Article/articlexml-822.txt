@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>B&amp;#225;n Account Twitter cổ từ 2007 đến 2017 Chơi Airdrop,Marketing Online,Offers...!</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>Twitter</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Twitter</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;Twitter&lt;/p&gt;</Description>
+  <Text>B&amp;#225;n Account Twitter cổ từ 2007 đến 2017 random follower dưới 100 gi&amp;#225; 23k/accs. 
+Gi&amp;#225; c&amp;#243; thể thay đổi theo thời điểm. 
+ 
+http://accs.vn 
+ 
+Li&amp;#234;n hệ: 
+Zalo : 0934670123 
+accsmarket.net@gmaildot.com 
+ 
+Thank you</Text>
+  <WriterName>Twitter</WriterName>
+  <WriterEmail>accsmarket.net@gmaildot.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>ban-account-twitter-c-t-2007-dn-2017-choi-airdropmarketing-onlineoffers</URL>
+</Article>

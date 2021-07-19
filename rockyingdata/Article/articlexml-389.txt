@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Common Homeopathy Medicines</Title>
+  <OGImage>http://www.rockying.com/art/bollywood/Best-Thrillers-2/Ittefaq-Movie-2017.jpg</OGImage>
+  <OGDescription>We listen to you guys. Yes, we do. When we released our first list of all-time Bollywood thrillers, you guys went...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Homeopathy,</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Best-Thrillers-2/Ittefaq-Movie-2017.jpg' alt='' /&gt;&lt;p&gt;We listen to you guys. Yes, we do. When we released our first list of all-time Bollywood thrillers, you guys went...&lt;/p&gt;</Description>
+  <Text>1.  Chicken Pox: Variolinum 1M (Dosage- 1 in 3 days)
+2.  Measles: 
+3.  Flu: Influenzinum 1M (Dosage- ) with Aconite 30 and Arsenicum Album 30 
+4.  Kids Teething: Calcarea Fluorica 6X
+5.  Burns: Urtica urens 200  (Apply thrice. Will prevent burning and there will be no spots post healing)
+6.  Bug Bites (): Ledum pal 200 (Apply )
+7.  Vomiting: Ipecac (Can be taken before and after vomiting symptoms) 
+8.  Internal Hidden Injury:</Text>
+  <WriterName>Rockying</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>homeopathy-medicines-for-common-ailments</URL>
+</Article>

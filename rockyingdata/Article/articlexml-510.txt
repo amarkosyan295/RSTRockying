@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>mHqsOIWjixkUzSyKgY</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>ggC5X</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>26</Category>
+  <Tag>lbg1O6</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;ggC5X&lt;/p&gt;</Description>
+  <Text>I want to make a withdrawal http://madthumbs.fun/ mad thumbs  A summit that looks for innovative but also common-sense solutions to murders, rapes and aggravated assaults that plague Kansas City and St. Louis has much potential &amp;amp;#x2014; if participants are willing to have strong discussions among themselves.</Text>
+  <WriterName>SWCzJ</WriterName>
+  <WriterEmail>willy0n@usa.net</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>mhqsoiwjixkuzsykgy</URL>
+</Article>

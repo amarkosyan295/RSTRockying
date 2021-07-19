@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Puri : Goa of the East</Title>
+  <MetaTitle>Puri : Goa of the East</MetaTitle>
+  <OGImage>//www.rockying.com/art/Travel/Puri/Puri.jpg</OGImage>
+  <OGDescription>Puri in Orissa is one of the most underrated travel destinations in India. Tucked away in one of the easternmost states of India, it is a quaint seaside town which seems to be stuck in a time warp of sorts.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Travel India, Puri, Orissa, Beaches, Jagannath Temple, Sun Temple.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Travel/Puri/Puri.jpg' alt='' /&gt;&lt;p&gt;Puri in Orissa is one of the most underrated travel destinations in India. Tucked away in one of the easternmost states of India, it is a quaint seaside town which seems to be stuck in a time warp of sorts.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    Puri in Orissa is one of the most underrated travel destinations in India. Tucked
+    away in one of the easternmost states of India, it is a quaint seaside town which
+    seems to be stuck in a time warp of sorts. And therein lies its special charm-it
+    is a city representative of the paradoxes of India! Sleepy yet abuzz with life,
+    surreal yet sensual, full of the quotidian but imperceptible….this is one city that
+    can have no dearth of adjectives to describe it!!!&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Puri/Beach_landscape_1.jpg" alt="Beach Landscape Puri Orissa" /&gt;
+&lt;p&gt;
+    One of the main highlights of Puri is the beaches where bathing is not an option but something all tourists indulge in!&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Puri/Puri-Beach-Trek-Earth-2.jpg" alt="Puri Orissa" /&gt;
+&lt;p&gt;
+    Here you have a sweet little concept – unique to this state- where trained local
+    lifeguards called "the nuliyas"- take you deep into the Bay of Bengal to embark on
+    the joys of the sea at a minimal rate!&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Puri/Life-Guards-Puri-beach-3.jpg" alt="Life Guards Puri Orissa" /&gt;
+&lt;p&gt;
+Hedonism rules, okay? Oh yeah, at Rockying it does. Have a look at the sand-art at the Puri Beach Festival. This one marks the end of Osama Bin Laden.&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Puri/osama_sculpture_Puri_4.jpg" alt="Osama Bin Laden sand Sculpture in Puri Orissa" /&gt;
+&lt;p&gt;
+    Another remarkable feature about Puri is that the beaches face south – thus offering
+    the tourist an option of viewing the sunset and sunrise at the same time. Don’t
+    miss the two suns in the picture below!&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Puri/sunset-two_suns-5.jpg" alt="Two Sun sunset in puri Orissa" /&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Puri/sun_set_at_puri-6.jpg" alt="Sunset in puri Orissa" /&gt;
+&lt;p&gt;
+    This surreal experience is compounded by the fact that the fishermen and the tourist
+    intermingle on the golden sands with an ease unparalleled in any other seaside town
+    – a true melting pot of sorts.&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Puri/fishing-7.jpg" alt="Fishing in puri Orissa" /&gt;
+&lt;p&gt;
+    Puri is also called the temple town because of its two architectural wonders - &lt;b&gt;the
+    Jagannath Temple&lt;/b&gt; which is a 65 metre tower and the chariot-shaped &lt;b&gt;Sun temple &lt;/b&gt;about
+    an hour away at Konark which is based on the concept of the rotation of the earth
+    on its axis in 24 hours.&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Puri/Jagannath-8.jpg" alt="Jagannath puri Orissa" /&gt;
+
+&lt;img src="http://www.rockying.com/art/Travel/Puri/Sun-Temple-Konark-9.jpg" alt="Sun Temple Konark Puri Orissa" /&gt;
+&lt;p&gt;
+    Both these temples are thronged with visitors from all parts of the world.&lt;a href="http://www.facebook.com/RockyingMag?ref=hl"&gt; Rockying &lt;/a&gt;
+    recommends you visit both, around sunset, after you have done lazing around on the beach! The prayer in your heart will come automatically to your lips once you are in the spell-binding interiors of these temples which are, yet, so much more.&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Puri/Rath_yatra_Chariots-10.jpg" alt="Rath Yatra Chariots Puri Orissa" /&gt;
+&lt;h5&gt;
+    One other must-see here is one of the greatest Hindu festivals called the Rath Yatra.&lt;/h5&gt;
+&lt;p&gt;
+    &lt;a href="http://www.facebook.com/RockyingMag?ref=hl"&gt; Rockying &lt;/a&gt; would advise you visit Puri in late June or early July! The festival is
+    a spectacle of sorts, and where else would you get to see three richly decorated chariots pulled through narrow streets with such grandeur?
+&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Puri/Shri-Rath-Yatra-11.jpg" alt="Shri Rath Yatra Puri Orissa" /&gt;
+&lt;p&gt;
+    The flavor of this festival, though celebrated in other parts of India, is no-where
+    as strong and as vital as in Puri. It has a definitely carnivalesque feel to it,
+    which will transport you back to what you have read about festivals in ancient Europe!
+    (Without the unbridled sexual permissiveness of course!!!)&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Puri/Chilika-Bridge-12.jpg" alt="Chilika Bridge Puri Orissa" /&gt;
+&lt;p&gt;
+    The Chilika Lake, the country's biggest inland lake that attracts migratory birds
+    from as far away as Siberia during winter, is another must-see near Puri.&lt;/p&gt;
+&lt;p&gt;
+    For a small city like Puri, there is considerable activity even after sunset. The
+    streets are full of flea markets and smaller vendors who will chat you up and offer
+    you a cup of tea without expecting you to buy something.&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Puri/Sweet-maker-13.jpg" alt="Sweet Maker Puri Orissa" /&gt;
+&lt;p&gt;
+    That is the particular flavour of the East – where materialism is still secondary
+    to humanism, and where the small pleasures of life are celebrated on a daily, even
+    hourly, basis.&lt;/p&gt;
+&lt;h6&gt;
+    So next time you want to go and drown yourself in the good things of life board
+    the train to Puri and enjoy its distinct identity which it maintains with a fierce
+    the intensity in the maze of standardizations which is modern-day India.
+&lt;/h6&gt;
+&lt;p&gt;
+Photo Credit: &lt;a href="http://www.trekearth.com/"&gt;www.trekearth.com&lt;/a&gt;
+&lt;/p&gt;</Text>
+  <WriterName>Neelakshi Chakraborty</WriterName>
+  <WriterEmail>neel.sage@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>226</URL>
+</Article>

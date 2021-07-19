@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>107</ID>
+  <Title>The Extreme Spicy Experience !</Title>
+  <MetaTitle>The Extreme Spicy Experience !</MetaTitle>
+  <OGImage>//rockying.com/art/Food/Spices/CHILLI_HOT.jpg</OGImage>
+  <OGDescription>Dream of a drastic makeover of that same old boring food plate? Let spices be the magic bullet for your taste buds!Know your spices, the extremeeeee way and choose the best ones to set your tongue on fire. Behold, spice lovers!</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>13</Category>
+  <Tag>Food, Spices, Chilli, Extreme Spices, Spicy Food, Article</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/Food/Spices/CHILLI_HOT.jpg' alt='' /&gt;&lt;p&gt;Dream of a drastic makeover of that same old boring food plate? Let spices be the magic bullet for your taste buds!Know your spices, the extremeeeee way and choose the best ones to set your tongue on fire. Behold, spice lovers!&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    Dream
+    &lt;img src="//rockying.com/art/Food/Spices/CHILLI_HOT.jpg" title="Hot as Chilli"
+        alt="" style="max-width: 300px;" class="pull-right" /&gt;
+    of a drastic makeover of that same old boring food plate? Let spices be the magic
+    bullet for your taste buds! With a sudden burst of chili attack inside your mouth,
+    you are sure to go slurring for a couple of hours post your dinner. Know your spices,
+    the extremeeeee way and choose the best ones to set your tongue on fire. Behold,
+    spice lovers! The journey begins here on:&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="//rockying.com/art/Food/Spices/bug-on-chili-631.jpg"
+        title="Portuguese Chilli" alt="" style="max-height: 95px;" class="pull-left" /&gt;&lt;b&gt;PORTUGUESE
+            CHILLI:&lt;/b&gt; You would find these in Goa and probabaly not in your local
+    market. These chillies look no larger than the nib of your pencil. One is sufficient
+    for that mad spicy experience; two can send you rushing to the loo!&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="//rockying.com/art/Food/Spices/chillies.jpg" title="Jalapeno Chilli"
+        alt="" style="width: 200px;" class="pull-left" /&gt;&lt;b&gt;JALAPENOS: &lt;/b&gt;To ward off
+    the blandness in food, Rockying suggests you try jalapenos. It makes your Subway
+    worth the bite, it makes sandwiches to die for and many other tales that this spice
+    has created for us spice freaks! This sends bouts of spice and tang each time you
+    crush it further. What more, it is low on fat, carbs and protein so this makes Jalapenos
+    eligible for all kinds of dieters. We love it, simply!&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="//rockying.com/art/Food/Spices/tamarindus.jpg" title="Tamarind"
+        alt="" style="width: 200px;" class="pull-left" /&gt;&lt;b&gt;TAMARINDUS INDICA:&lt;/b&gt; Do
+    not get offended by the long name. We are talking about tamarind pods out here.
+    This can add that sourness to the food and can be called a chilli’s best friend.
+    Have tamarind chutney, add it in gol guppas or prepare Goan fish curries with it.
+    Tangy is our new spice kid on the block!&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="//rockying.com/art/Food/Spices/pepper_corns.jpg" title="Pepper Corns"
+        alt="" style="width: 200px;" class="pull-left" /&gt;
+    &lt;b&gt;PEP..PEP..PEPPER:&lt;/b&gt; Now here it goes. Freshly crushed pepper can be more eventful
+    for taste buds than the previously grounded and packed ones available in the market.
+    Ever heard of chili beer? Add some black pepper to a chilled glass of beer, the
+    next time you are having pizzas. Feel the heat pumping up your throat!&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="//rockying.com/art/Food/Spices/Habanero.jpg" title="Habanero Chilli"
+        alt="" style="float: left; max-height: 149px;" class="pull-left" /&gt;&lt;b&gt;HABANERO:&lt;/b&gt;
+    This is 40 times hotter than jalapeno and some trade with Peru brought this chili
+    to India. This is an essential sauce for a perfect barbecue or dried fish and tastes
+    best when teamed with smoked foods. When it comes to this, we would definitely say
+    HANDLE WITH CARE.&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="//rockying.com/art/Food/Spices/Sadabahar.jpg" title="Sadabahar Chilli"
+        alt="" style="max-width: 200px;" class="pull-left" /&gt;&lt;b&gt;SADABAHAR: &lt;/b&gt;The deadliest
+    ones in the pepper family, one seed of this fruit can send shivers down your spine.
+    Good things come in small packages, and Sadabahar stands true to this oft used line.
+    Not large than 1-1 ½ inches, it won’t let your eyes and nose stop running. Guaranteed
+    spice, this is!
+&lt;/p&gt;
+&lt;h5&gt;
+    Life going up in flames?&lt;/h5&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>107</URL>
+</Article>

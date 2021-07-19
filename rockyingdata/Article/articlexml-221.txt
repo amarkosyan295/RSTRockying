@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Quiz 3: Testing the Bollywood Know-how!</Title>
+  <MetaTitle>Quiz 3: Testing the Bollywood Know-how!</MetaTitle>
+  <OGImage>//www.rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/BOllywood-Quiz-rachel-Lagaan.jpg</OGImage>
+  <OGDescription>Rachel Shelley, the English actress in Oscar nominated  Lagaan. Can you tell who sang for her in the film?</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Quiz, Hindi Movies, Hindi Cinema, Bollywood, Bollywood Quiz, Questions, Play.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/BOllywood-Quiz-rachel-Lagaan.jpg' alt='' /&gt;&lt;p&gt;Rachel Shelley, the English actress in Oscar nominated  Lagaan. Can you tell who sang for her in the film?&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px;  height:40px;
+            font-size: 50px; font-weight: 100; color: #000; border: none; text-align: center; margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px;height:40px;
+            font-size: 50px; font-weight: 100; color: #000;border: none; text-align: center;margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="slideshow"&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Saif-Dil-Chahta-Hai-1.jpg"
+                        alt="Saif Ali Khan in Dil Chahta Hai" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Which of the following actresses played Saif Ali Khan’s love interest in Farhan
+                            Akhtar’s Dil Chahta Hai?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q1" onclick="ValidateAnswer(this);" /&gt;
+                                    Preity Zinta
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q1" onclick="ValidateAnswer(this);" /&gt;
+                                    Dimple Kapadia
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" value="correct" name="q1" onclick="ValidateAnswer(this);" /&gt;
+                                    Suchitra Pillai
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q1" onclick="ValidateAnswer(this);" /&gt;
+                                    Sonali Bendre
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Shakti-kapoor-2.jpg"
+                        alt="Shakti Kapoor" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Which of these characters belongs to Andaz Apna Apna?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q2" onclick="ValidateAnswer(this);" /&gt;
+                                    Babu Bhai
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" value="correct" name="q2" onclick="ValidateAnswer(this);" /&gt;
+                                    Crime Master Gogo
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q2" onclick="ValidateAnswer(this);" /&gt;
+                                    Radhey Shyam Tiwari
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q2" onclick="ValidateAnswer(this);" /&gt;
+                                    Lucky
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Suhasini-3.jpg"
+                        alt="Suhasini" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Who played Sid’s mother in Dil Chahta Hai?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q3" onclick="ValidateAnswer(this);" /&gt;
+                                    Sonali Kulkarni
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q3" onclick="ValidateAnswer(this);" /&gt;
+                                    Samantha Tremayne
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q3" value="correct" onclick="ValidateAnswer(this);" /&gt;
+                                    Suhasini Mulay
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q3" onclick="ValidateAnswer(this);" /&gt;
+                                    Rakhee Gulzar
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Andaz-Apna-Apna-4.jpg"
+                        alt="Andaz Apna Apna" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Amar-Prem are characters of which comedy classic, also waiting for an animated sequel
+                            now?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q4" onclick="ValidateAnswer(this);" /&gt;
+                                    Hera Pheri
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q4" onclick="ValidateAnswer(this);" /&gt;
+                                    Golmaal
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" value="correct" name="q4" onclick="ValidateAnswer(this);" /&gt;
+                                    Andaz APNA APNA
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q4" onclick="ValidateAnswer(this);" /&gt;
+                                    Haseena Man Jaegi
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Dil-Chahta-Hai-5.jpg"
+                        alt="Dil Chahta Hai" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Who has directed the music of Dil Chahta Hai?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q5" onclick="ValidateAnswer(this);" /&gt;
+                                    A. R. Rehman
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q5" onclick="ValidateAnswer(this);" /&gt;
+                                    Preetam
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q5" onclick="ValidateAnswer(this);" /&gt;
+                                    Anu Malik
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q5" value="correct" onclick="ValidateAnswer(this);" /&gt;
+                                    Shankar Ehsaan Loy
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Ashutosh-Gowarikar-6.jpg"
+                        alt="Ashutosh Gowarikar" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Which of the following is Ashutosh Gowarikar’s directorial debut?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q6" onclick="ValidateAnswer(this);" /&gt;
+                                    Swades
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input value="correct" type="radio" name="q6" onclick="ValidateAnswer(this);" /&gt;
+                                    Pehla Nasha
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q6" onclick="ValidateAnswer(this);" /&gt;
+                                    Jo Jeeta Wahi Sikandar
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q6" onclick="ValidateAnswer(this);" /&gt;
+                                    Lagaan
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Taare-Zameen-Par-Vipin-Sharma-7.jpg"
+                        alt="Taare Zameen Par Vipin Sharma" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Who played Ishaan’s father in Taare Zameen Par?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q7" onclick="ValidateAnswer(this);" /&gt;
+                                    Amjad Khan
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" value="correct" name="q7" onclick="ValidateAnswer(this);" /&gt;
+                                    Vipin Sharma
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q7" onclick="ValidateAnswer(this);" /&gt;
+                                    Shankar Sachdev
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q7" onclick="alert('HA HA HA!! DUMB ASS'); ValidateAnswer(this); " /&gt;
+                                    Gabar Singh
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Lagaan-8.jpg"
+                        alt="Lagaan" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Who sang “My heart it speaks a thousand words…” (the English version of O ri Chhori)
+                            from the Oscar nominated Lagaan?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q8" onclick="alert('You gotta be kidding.'); ValidateAnswer(this);" /&gt;
+                                    Sunidhi Chauhan
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q8" onclick="ValidateAnswer(this);" /&gt;
+                                    Alka Yagnik
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q8" onclick="ValidateAnswer(this);" /&gt;
+                                    Bombay Jayashree
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" value="correct" name="q8" onclick="ValidateAnswer(this);" /&gt;
+                                    Vasundhara Das
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Taare-Zameen-Par-9.jpg"
+                        alt="Taare Zameen Par" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Who creative-directed the film Taare Zameen Par?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q9" value="correct" onclick="ValidateAnswer(this);" /&gt;
+                                    Amol Gupte
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q9" onclick="alert('Eat Dust Sucker!!!'); ValidateAnswer(this);" /&gt;
+                                    Amir Khan
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q9" onclick="ValidateAnswer(this);" /&gt;
+                                    Ram Madhvani
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q9" onclick="ValidateAnswer(this);" /&gt;
+                                    Prasoon Joshi
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Mission-Kashmir-10.jpg"
+                        alt="Mission Kashmir" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Which actress features in both films-Mission Kashmir and Dil Chahta Hai? She is
+                            also a well-known Marathi actress.&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q10" onclick="ValidateAnswer(this);" /&gt;
+                                    Preity Zinta
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q10" onclick="ValidateAnswer(this);" /&gt;
+                                    Suchitra Pillai
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" value="correct" name="q10" onclick="ValidateAnswer(this);" /&gt;
+                                    Sonali Kulkarni
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q10" onclick="ValidateAnswer(this);" /&gt;
+                                    Priya Bapat
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+&lt;h5&gt; &lt;br&gt;How many greens did you score? &lt;br&gt;Stay tuned for more Bollywood-giri on Rockying.&lt;/br&gt;&lt;/br&gt;&lt;/h5&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <WriterName>Preeti Singh</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>221</URL>
+</Article>

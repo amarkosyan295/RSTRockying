@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Cult Classics of Bollywood- IV</Title>
+  <MetaTitle>Cult Classics of Bollywood- IV</MetaTitle>
+  <OGImage>//www.rockying.com/art/bollywood/Cult-Classics-4/Cult-Classics.jpg</OGImage>
+  <OGDescription>Balraj Sahni in Garm Hawa, the best ever partition film was made in the 70s. Another glorious decade of Bollywood. In continuation with our previous edition of cult classics we bring to you some more handpicked delicacies of Hindi cinema...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Cult Classics, Bollywood Movies, Bollywood Classics, 70s of Bollywood, Abhimaan, Deewar, Sholay, Garm Hawa, Bobby, India Bobbles.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/bollywood/Cult-Classics-4/Cult-Classics.jpg' alt='' /&gt;&lt;p&gt;Balraj Sahni in Garm Hawa, the best ever partition film was made in the 70s. Another glorious decade of Bollywood. In continuation with our previous edition of cult classics we bring to you some more handpicked delicacies of Hindi cinema...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    The 70s of Indian cinema was another glorious decade. In continuation with our previous
+    edition of &lt;a href="http://www.rockying.com/a/197"&gt;‘Cult Classics’&lt;/a&gt;, we bring
+    to you another handpicked collection of some delicacies of Hindi cinema.
+    &lt;br&gt;
+    One connecting factor in the classics we call ‘cult’ is the fact that they were
+    a courageous attempt to balance the regular mold of Indian melodrama and romance
+    with a fresh new perspective. From spouse rivalry to teenage love, from bandit centered
+    action to struggles of a historic era to good and evil of two brothers- this movie
+    collection dares to be different while managing to conform to norms.
+    &lt;br /&gt;
+&lt;/p&gt;
+&lt;h3&gt;
+    ABHIMAAN (1973)&lt;/h3&gt;
+&lt;p&gt;
+    &lt;strong&gt;Director:&lt;/strong&gt; Hrishikesh Mukherjee
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;strong&gt;Story:&lt;/strong&gt; Hrishikesh Mukherjee
+&lt;/p&gt;
+
+&lt;img src="http://www.rudrasofttech.com/rockying/art/bollywood/Cult-Classics-4/Abhimaan.jpg"
+    alt="Abhimaan" /&gt;
+&lt;p&gt;
+    Best remembered for the wonderful music (that fetched S.D. Burman the Filmfare),
+    Abhimaan remains a favorite, not only for the fans of the hit leading pair - Amitabh
+    Bachchan and his wife, Jaya Bachchan; but also for movie and music buffs alike.
+    The story revolves around the popularity of singer Subir Kumar (Amitabh Bachchan).
+    Initially, reluctant to let go off his bachelor life, Subir falls in love with the
+    docile, simple girl Uma. The fact that he is mesmerized by her beautiful voice just
+    strengthens his determination to not only making her his wife but also his co-singer
+    for projects. Things become ugly when Uma becomes a much more successful singer
+    than Subir himself and that is when pride and ego come between the beautiful relationship.&lt;/p&gt;
+&lt;p&gt;
+    The movie was extremely popular in Sri Lanka where it ran for two years at a theatre
+    in Colombo. Initially titled Raag Ragini, Abhimaan went on to become a hit earning
+    Jaya Bachchan a Filmfare Best Actress Award, an award she shared with Dimple Kapadia
+    for her movie Bobby in the same year.&lt;/p&gt;
+&lt;p&gt;
+    According to author Raju Bharatan, the movie is based on the real life story and
+    struggle between singer Kishore Kumar and his first wife, Ruma Ghosh; though there
+    have been no confirmations to this fact.&lt;/p&gt;
+&lt;h3&gt;
+    BOBBY (1973)&lt;/h3&gt;
+&lt;p&gt;
+    &lt;strong&gt;Director:&lt;/strong&gt; Raj Kapoor&lt;/p&gt;
+&lt;p&gt;
+    &lt;strong&gt;Story:&lt;/strong&gt; Khwaja Ahmad Abbas, Jainendra Jain and V.P. Sathe.&lt;/p&gt;
+
+&lt;img src="http://www.rudrasofttech.com/rockying/art/bollywood/Cult-Classics-4/Bobby.jpg"
+    alt="Bobby" /&gt;
+&lt;p&gt;
+    A blockbuster of the year 1973; Bobby is counted as Top 25 Must See Bollywood movies.
+    Riding on the popular teenage romance of two star crossed lovers who have to fight
+    their love against patriarchal authority and cultural difference. Dimple playing
+    the title character of Bobby Braganza is the daughter of a poor Anglo Indian fisherman.
+    She falls in love with Raj, son of a rich businessman. The plot of this movie went
+    on to fuel that of many movies to be released later.&lt;/p&gt;
+&lt;p&gt;
+    Starring the extremely good looking couple - Rishi Kapoor and Dimple Kapadia; the
+    movie went on to win many accolades and awards - including the Filmfare Best Actor,
+    Best Actress, Best Art Direction, Male Playback to name a few. Combined with Laxmikant
+    Pyarelal’s catchy music, Bobby is a complete package for the dramatic, mushy romance
+    loving audience.&lt;/p&gt;
+&lt;p&gt;
+    Dimple Kapadia was only 16 years old when she played the lead character in the movie.&lt;/p&gt;
+&lt;h3&gt;
+    GARM HAWA (1973)&lt;/h3&gt;
+&lt;p&gt;
+    &lt;strong&gt;Director:&lt;/strong&gt; M. S. Sathyu&lt;/p&gt;
+&lt;p&gt;
+    &lt;strong&gt;Story:&lt;/strong&gt; Kaifi Azmi (adapted from an unpublished story by Ismat Chugtai)&lt;/p&gt;
+
+&lt;img src="http://www.rudrasofttech.com/rockying/art/bollywood/Cult-Classics-4/Garam-Hawa.jpg"
+    alt="Garam Hawa" /&gt;
+&lt;p&gt;
+    A man is torn between the love for his country and the political pressure to forcibly
+    migrate to another one. Based on the partition of India and Pakistan) Garm Hawa,
+    is a brilliant cinematic representation and a great blend of emotions, patriotism
+    and disintegrations in a family in a disturbed political environment.&lt;/p&gt;
+&lt;p&gt;
+    Balraj Sahni plays Salim Mirza, a man who feels he should be faithful to his country
+    and refuses to the newly formed Pakistan. Things complicate when he finds himself
+    reeling under family decisions, tragedy and finds himself unsupported in his struggle.&lt;/p&gt;
+&lt;p&gt;
+    Though the movie was thoroughly reviewed in case of leading to communal unrest in
+    the country it went on to be critically and commercially acclaimed winning the Filmfare
+    for the Best Story, Best Screenplay and Best Dialogue and was India’s official submission
+    to the Academy Awards for the Best Foreign Film category.
+&lt;/p&gt;
+&lt;h3&gt;
+    SHOLAY (1975)&lt;/h3&gt;
+&lt;p&gt;
+    &lt;strong&gt;Director:&lt;/strong&gt; Ramesh Sippy&lt;/p&gt;
+&lt;p&gt;
+    &lt;strong&gt;Story:&lt;/strong&gt; Salim-Javed&lt;/p&gt;
+&lt;img src="http://www.rudrasofttech.com/rockying/art/bollywood/Cult-Classics-4/Sholay.jpg"
+    alt="Sholay" /&gt;
+&lt;p&gt;
+    Sholay isn’t just a movie anymore, it's a cult in itself. Included in the greatest
+    movies of all times list, Sholay is a blockbuster action adventure movie released
+    in 1975.&lt;/p&gt;
+&lt;p&gt;
+    Two hapless criminals (Jai and Veeru played by &lt;a href="http://www.indiabobbles.com/amitabh-bachchan-bobblehead" target="_blank" title="India-Bobbles-Amitabh-Bachchan-Boobble-Head"&gt;Amitabh Bachchan&lt;/a&gt; and Dharmendra) are hired
+    by Sanjeev Kumar (Thakur) to nab a ruthless dacoit &lt;a href="http://www.indiabobbles.com/gabbar-singh-bobble-head" target= "_blank" title="India-Bobbles-Gabbar-Singh-Bobble-Head"&gt;Gabbar&lt;/a&gt; (Amjad Khan). Initially, Jai and Veeru think
+    it is just a retired inspector cleaning up his one last assignment; however as the
+    story unfolds it turns out be an act of vengeance.&lt;/p&gt;
+&lt;h6&gt;
+    Here are a few trivia to fully understand the impact and power of Sholay :&lt;/h6&gt;
+&lt;p&gt;
+    Initially critics termed as a poor copy of the Western action films of the 70’s;
+    Sholay didn’t open to great cinematic audience. However, the popularity was owed
+    to the word of mouth appreciation and went on to become India’s first film to run
+    to 25 weeks of continuous screening in over hundred cinemas.&lt;/p&gt;
+&lt;p&gt;
+    The film topped British Film Institute’s poll of Top 10 Indian movies.&lt;/p&gt;
+&lt;p&gt;
+    As a mark of respect, the people of Ramnagaram (where large parts of the movie was
+    shot) renamed a hamlet in the town as Sippynagar - after director Ramesh Sippy.&lt;/p&gt;
+&lt;p&gt;
+    The movie is slated for a 3D release soon!&lt;/p&gt;
+&lt;h3&gt;
+    DEEWAR (1975)&lt;/h3&gt;
+&lt;p&gt;
+    &lt;strong&gt;Director:&lt;/strong&gt; Yash Chopra&lt;/p&gt;
+&lt;p&gt;
+    &lt;strong&gt;Story:&lt;/strong&gt; Salim-Javed&lt;/p&gt;
+
+&lt;img src="http://www.rudrasofttech.com/rockying/art/bollywood/Cult-Classics-4/Deewar.jpg"
+    alt="DEEWAR" /&gt;
+&lt;p&gt;
+    A &lt;a href="http://www.rockying.com/a/188"&gt;tale of two brothers&lt;/a&gt;, and the imperishable
+    ‘wall’ between them, Deewar is one of India’s biggest hits and the perfect mould
+    of an Indian cinematic experience. From extreme melodrama to crime and to family
+    disintegrations, Deewar epitomizes Bollywood to the core.&lt;/p&gt;
+&lt;p&gt;
+    The cruel fangs of destiny turn their life upside down when the head of family flees
+    away leaving behind his wife and two sons. Now broke, the elder brother of the family
+    and his mother decide to educate the younger. The younger grows to become a cop
+    while the elder goes astray. The movie then portrays the struggle by the righteous
+    brother to bring his brother back to justice and the right path leading to obviously
+    a tragic end. Still known for its &lt;a href="http://www.rockying.com/a/35"&gt;hard hitting
+        dialogues&lt;/a&gt; and powerful acting Deewar earned nine award nominations at the
+    Filmfare that year, winning seven of them including - Best Film, Best Director,
+    Best Supporting Actor, Best Story, Best Dialogue, Best Screenplay and Best Sound.&lt;/p&gt;
+&lt;p&gt;
+    These are our pick of some of the biggest and brilliant movies from the 70s
+    era of Bollywood. Movies in this era were said to be the “coming of age” movies
+    - the angry young man, the dramatic plots, the increasing emphasis on action and
+    adventure and also change in how the characters were portrayed.&lt;/p&gt;
+&lt;h4&gt;
+    Tell us about your biggest favorite from the 70s!&lt;/h4&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>215</URL>
+</Article>

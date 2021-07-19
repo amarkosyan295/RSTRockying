@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>How Many Calories Do You Need? (Busting the calorie-myth and calculating the exact weight You should be!)</Title>
+  <OGImage>http://www.rockying.com/art/health/Calories-I-need/Die-Calorie.jpg</OGImage>
+  <OGDescription>Should you limit yourself to an apple a day and should your weight be a tiny, tiny number? How do we know what the limit is and how much our body actually needs?</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Weight Loss, Calorie, Health, Well-being, Calorie-Count, BMR, Activity Factor, Body Mass Index, Weight to Height Ratio.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/health/Calories-I-need/Die-Calorie.jpg' alt='' /&gt;&lt;p&gt;Should you limit yourself to an apple a day and should your weight be a tiny, tiny number? How do we know what the limit is and how much our body actually needs?&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+Calories and weight - two words that haunt all of us &lt;img src="http://www.rockying.com/art/health/Calories-I-need/Calorie.jpg" class="pull-right" /&gt;trying to work it out at the gym or elsewhere. But is it so bad? Should you limit yourself to an apple a day and should your weight be a tiny, tiny number? How do we know what the limit is and how much our body actually needs? Are we depriving our body and actually causing it harm by limiting calories to a minimum; or are we giving ourselves too much?
+&lt;/p&gt;
+&lt;h4&gt;Does Being Skinny Actually Help?&lt;/h4&gt;
+&lt;p&gt;
+Well, let’s start by breaking down the most common myths - not all of us require the same amount of calories and not all of us who look same will weigh the same. Yes, just because someone is eating more than you doesn't mean they should be fatter than you - they might have a better metabolism, they might be more active, what they are eating might be different or they are doing exercises more often and exercises that are suiting their body types. 
+&lt;/p&gt;
+&lt;p&gt;
+So, let’s start from scratch and answer two of the most basic questions when it comes to health - how many calories, how much weight?
+&lt;/p&gt;
+&lt;h4&gt;Q 1: HOW MANY CALORIES DO I NEED PER DAY?&lt;/h4&gt;
+&lt;p&gt;
+Simple. Calculate it. There are three steps to this -
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Calculate your BMR.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Find out which activity level you fall into and know its corresponding activity factor.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Multiply your BMR with the activity factor and get the calorie requirement per day.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Finding BMR&lt;/h4&gt;
+&lt;p&gt;
+The Harris Benedict equation is the most common method of telling you easily how many calories you do need in a day and also your Basic Metabolic Rate (BMR). Here is how it is calculated for men and women - the equation looks tough, but just take a calculator, punch in the number and you are done!
+&lt;/p&gt;
+&lt;p class="well"&gt;
+&lt;b&gt;Women BMR&lt;/b&gt; = 447.593 + (9.247 x weight in kg) + (3.098 x height in cm) - (4.330 x age in years)&lt;br&gt;
+&lt;b&gt;Men BMR&lt;/b&gt; = 88.362 + (13.397 x weight in kg) + (4.799 x height in cm) - (5.677 x age in years)
+&lt;/p&gt;
+&lt;p&gt;
+The number you get is your BMR or in other words, how many calories you need each day to exist. This is just the calories you need to live. Because you move around and do stuff, you will need more than the BMR. That is, energy required to move around, to work and basically to get things done. For this, we move on to the next step. 
+&lt;/p&gt;
+&lt;h4&gt;Finding Activity Factor&lt;/h4&gt;
+&lt;p&gt;
+Now, this might be something that many of us are familiar with but don’t apply it much to our daily lives. A person who works at a desk job, in front of the computer for 14 hours a day doesn’t require the same amount of calories as the person who works at a construction site. We all have different activity levels. To put them into four categories with a corresponding activity factor we come up with this:
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Sedentary lifestyle &lt;/b&gt;- If you are someone with very less movements, lots of idle sitting, TV watching, reading and if you do very little or no exercise at all. Activity factor is 1.2.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Slightly active lifestyle&lt;/b&gt; - You do office work, manage about 1 hour of moderate exercise/activity during the day. You manage to do light exercise between once and three times per week. Activity factor is 1.375.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Moderately active lifestyle&lt;/b&gt; - If you are an active person, indulges in manual labour, manage to move around quite often and if you do moderate exercise three to five days per week. Activity factor is 1.55.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Active lifestyle &lt;/b&gt;- If you do intensive/heavy exercise six to seven times per week. Activity factor 1.725. &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Very active lifestyle &lt;/b&gt;- This is the extreme case where you are actively involved in full time athletic activities on a daily basis, you do hard labor, you move around excessively and are always on the move physically. If you do very heavy/ intensive exercise twice a day (extra heavy workouts) Activity factor 1.9. &lt;/p&gt;&lt;/li&gt;
+&lt;img src="http://www.rockying.com/art/health/Calories-I-need/bmi-comparison.jpg" class="pull-right"; style="padding-left:20px"/&gt;
+&lt;h4&gt;Calculating Calorie Requirement&lt;/h4&gt;
+&lt;p&gt;
+Now, multiply your BMR with the corresponding activity factor. For example, if your BMR is 1500 and you are moderately active so,(1500 * 1.55) gives you 2250. So, you need 2325 calories every day.
+&lt;/p&gt;
+&lt;h4&gt;Q 2 : HOW MUCH SHOULD I WEIGH?&lt;/h4&gt;
+&lt;p&gt;
+Now, the next big question. Like our calorie requirement depending on our activity and our metabolic rates, gender, age and height; weight is also dependent on a lot of factors - bone density, muscle ratio, height and so on. 
+&lt;/p&gt;
+&lt;p&gt;What should our right weight be? Again, maths helps us with that! &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Calculate your Body Mass Index (BMI)&lt;/b&gt; like this : BMI = mass (kgs) / (height in mts)&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;table class="table table-bordered"&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;b&gt;Category&lt;/b&gt;&lt;/th&gt;&lt;th&gt;BMI range – kg/m&lt;sup&gt;2&lt;/sup&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;Very severely underweight&lt;/td&gt;
+&lt;td&gt;less than 15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Severely underweight&lt;/td&gt;
+&lt;td&gt;Between 15.0 and 16.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Underweight&lt;/td&gt;
+&lt;td&gt;Between 16.0 and 18.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Normal (healthy weight)&lt;/td&gt;
+&lt;td&gt;Between 18.5 and 25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Overweight&lt;/td&gt;
+&lt;td&gt;Between 25 and 30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Obese Class I (Moderately obese)&lt;/td&gt;
+&lt;td&gt;Between 30 and 35&lt;/td&gt;
+&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;
+So, for example if your BMI is 32; then you would be categorized as moderately obese. &lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Weight Height Ratio (WHtR)&lt;/b&gt; &lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+However, it has been criticized that BMI does not include muscle mass. So, another way of calculating the ideal body weight is the &lt;b&gt;WEIGHT TO HEIGHT RATIO&lt;/b&gt;.  It was presented by Dr. Margaret Ashwell, ex-science director of the British Nutrition Foundation, and team at the 19th Congress on Obesity in Lyon, France, on 12th May, 2012. It is also a very simple calculation; easy for lay people to work out.
+&lt;/p&gt;
+&lt;p&gt;
+Thus a man who is 6ft or 72 inches tall (183 cm), should keep his waist under 36 inches (91 cm), &lt;img src="http://www.rockying.com/art/health/Calories-I-need/weight-loss-humor.jpg" class="pull-right" style="padding-left:20px"/&gt;and a woman who is 5ft 4 in or 64 inches tall (163 cm), should keep her waist measurement under 32 inches (81 cm).
+&lt;/p&gt;
+This measure, according to Dr. Ashwell should be a screening tool and also helps in predicting cardiovascular risk. This is the easier way to remember it - &lt;b&gt;keep your waist circumference less than half your height.&lt;/b&gt; 
+&lt;/p&gt;
+&lt;p&gt;
+So, here’s tackling the two basic questions you need to know before jumping on any diet wagon. However, always remember that before starting a diet, before running on the treadmill for hours and before lifting weight get in touch with your doctor; consult a good trainer and only then know what's right for you and what’s not. Without professional help, you never know what harm you might end up doing to your body. No one knows it better than an expert.
+&lt;/p&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

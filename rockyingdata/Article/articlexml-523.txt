@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>daXOxydtaKnrV</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>8ASoss</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>L4xhX</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;8ASoss&lt;/p&gt;</Description>
+  <Text>We&amp;#39;re at university together http://egotastic.in.net/ egotasticallstars  The 23-year-old, who finished off Weiner&amp;#226;s mayoral run with her public revelations that he had sent lewd messages to her and was &amp;#226;clingy,&amp;#226; tells Confidenti@l she&amp;#226;s in talks with execs at SiriusXM satellite radio to have her own talk show.</Text>
+  <WriterName>XSr3g</WriterName>
+  <WriterEmail>cortezqgp@aol.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>daxoxydtaknrv</URL>
+</Article>

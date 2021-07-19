@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Most Inspiring Hindi Films based on Real Life Heroes</Title>
+  <OGImage>http://www.rockying.com/art/bollywood/100-Years-of-Indian-Cinema/kismet-1943.jpg</OGImage>
+  <OGDescription>Padman...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Bollywood</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/bollywood/100-Years-of-Indian-Cinema/kismet-1943.jpg' alt='' /&gt;&lt;p&gt;Padman...&lt;/p&gt;</Description>
+  <Text>1. Toilet Ek Prem Katha (https://www.ndtv.com/india-news/madhya-pradesh-woman-awarded-for-leading-toilet-revolution-571578)
+2. Padman
+3. Paan Singh Tomar
+4. Bandit Queen
+5. Shahid
+6. Bhaag Milkha Bhaag
+7. Black Friday (events for mention)
+8. Guru
+9. Mary Kom
+10. The Dirty Picture 
+11. Gulaab Gang
+12. No One Killed Jessica 
+13. HAwaizaada
+14. Neerja
+15. Chak De
+16. Dhoop
+17. Azhar
+18. Jolly LLB 
+19. Bawandar
+20. Main Aur Charles (Only for mentioning)
+21. Dangal
+22. MS Dhoni
+23. Border
+24. Madras Cafe
+25. Maanjhi</Text>
+  <WriterName>Rockying</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>most-inspiring-hindi-films-based-on-real-life-heroes</URL>
+</Article>

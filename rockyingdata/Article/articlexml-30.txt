@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>30</ID>
+  <Title>Lose Weight While You Eat Potatoes And Bananas</Title>
+  <MetaTitle>Lose Weight While You Eat Potatoes And Bananas</MetaTitle>
+  <OGImage>//www.rockying.com/art/Bananas.jpg</OGImage>
+  <OGDescription>Loose flab around your tummy, eat more &amp; more potatoes</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Healthy living, Dieting, Obesity, Myths and facts of Obesity, Weight loss, Eating Habits</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Bananas.jpg' alt='' /&gt;&lt;p&gt;Loose flab around your tummy, eat more &amp; more potatoes&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    While you try hard to lose that flab around your tummy, aren't you often told the
+    &lt;b&gt;DOs&lt;/b&gt; and &lt;b&gt;Don'ts&lt;/b&gt; of eating?
+    
+&lt;/p&gt;
+&lt;p&gt;
+    We bring to you the most common Myths and Facts about Weight loss. Read on...&lt;/p&gt;
+&lt;ul class="unstyled"&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;img src="http://rudrasofttech.com/rockying/art/Bananas.jpg" title="Bananas" alt=""
+                style="max-height: 204px;" class="pull-right" /&gt;&lt;strong&gt;Myth: Banana should not be consumed
+                    if you’re trying to lose weight.&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;Fact:&lt;/strong&gt; Ripe banana is one of the best fruits to eat when attempting
+            to lose weight. It is packet with nutrients providing sustained, substantial energy
+            and checks on food cravings. Its mix of high potassium levels and low sodium content
+            makes it the perfect food to help relieve water retention to laxatives.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;strong&gt;Myth: All Fats and oil are same.&lt;br/&gt;
+            &lt;/strong&gt;&lt;strong&gt;Fact:&lt;/strong&gt; Fats and oils that occur naturally in food provide
+            a concentrated source of energy and aid in the absorption off at-soluble vitamins
+            A, D, E and K.&amp;nbsp;While unsaturated fats are beneficial when consumed in moderation,
+            saturated and Trans fats are not. Consuming monounsaturated oils like Olive oil,
+            Canola oil,Peanut oil seems to reduce total blood cholesterol and the ‘bad’ (low
+            density lipo proteins [LDL]) cholesterol level without affecting the’ good’ (high
+            density lipo
+            &lt;img src="http://rudrasofttech.com/rockying/art/Olive%20Oil.jpg" title="Olive Oil"
+                alt="" style="width: 171px; float: left; height: 217px;"&gt;protein [HDL]) cholesterol
+            levels. Polyunsaturated oils, such as safflower and Sunflower, Walnut, Corn and
+            Soybean oils, reduce total cholesterol and LDL,and also decrease HDL. Still, some
+            polyunsaturated oil is necessary to obtain essential fatty acids.Saturated fat and
+            Tran’s fat raise blood cholesterol levels and increase the risk of heart related
+            disease.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;Myth: Any one type of oil is best for cooking.&lt;br/&gt;
+                Fact: &lt;/strong&gt;No oil can be called ideal. All vegetable oil used cooking contain
+            a combination saturated, monounsaturated and polyunsaturated fats in varying proportion.
+            It is beneficial to consume a mix of oils in order to maintain a balance between
+            the three fatty acids.
+            &lt;br/&gt;
+            Ensure oil rotation by changing the oil you use every 15 days to get blend of all
+            fatty acids or you could have a blend of oils. For example, you could use olive
+            oil for salads and soybean oil for other cooking purpose.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;Myth: Potatoes are fattening.&lt;img src="http://rudrasofttech.com/rockying/art/potatoes.jpg"
+                title="Potatoes" alt="" style="width: 217px; float: right; height: 217px;"&gt;&lt;br/&gt;
+                Fact:&lt;/strong&gt; Potatoes are an excellent food for people on weight loss. High
+            in complex carbohydrates, potatoes fill you up long before they make you fat. It
+            is only when you add fat to them- butter, cheese or cream that you turn them into
+            a fattening food. Potatoes contain a cocktail of nutrients including B vitamins,
+            potassium and fiber most of which is in the skin. Baking potatoes with the skin
+            is the best way to get the most nutrients.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;Myth: Low-fat or no-fat means no calories.&lt;br/&gt;
+                Fact:&lt;/strong&gt; A low-fat or nonfat food is often lower in calories than the
+            same size portion of the full-fat product. But many processed low-fat or nonfat
+            foods have just as many calories. They may contain added sugar, flour or starch
+            thickeners to improve flavor and texture after fat is removed.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;strong&gt;Myth: Nuts are fattening&lt;/strong&gt;&lt;img src="http://rudrasofttech.com/rockying/art/nuts.jpg"
+                title="Nuts" alt="" style="max-height: 190px" class="pull-left" /&gt;&lt;br /&gt;
+            &lt;strong&gt;Fact: &lt;/strong&gt;In small amounts, nuts can be a part of a healthy weight-loss
+            program. They contain substantial amounts of Omega3 fatty acids which help in lowering
+            bad cholesterol and increasing good cholesterol. Nuts are also good source of Protein,
+            Dietary fiber and minerals. Nuts are good when consumed in small amounts.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;Myth: One can lose weight while eating whatever one wants.&lt;/strong&gt;
+            &lt;br/&gt;
+            &lt;strong&gt;Fact: &lt;/strong&gt;To lose weight, you need to burn more calories than you eat.
+            You have to limit the number of calories you eat everyday and/or increase your daily
+            physical activity to effectively lose weight.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;Myth: Exercise makes one hungrier.&lt;br/&gt;
+                Fact:&lt;/strong&gt; Exercise is actually an effective appetite suppressant. It will,
+            however, make you thirsty because you will perspire. That is why you need to drink
+            water before, during and after exercise. If you eat instead of drinking in order
+            to rehydrate, or if you consume energy and sports drinks, then you might end up
+            negating the effect of exercise.&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    So, before you take drastic steps in order to target weight loss; learn to differentiate
+    myths from facts otherwise you might end up doing more bad than good to your health.&lt;/p&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>30</URL>
+</Article>

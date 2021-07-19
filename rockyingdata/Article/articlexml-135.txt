@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>135</ID>
+  <Title>Are You a Bad Breath Emitter?</Title>
+  <MetaTitle>Are You a Bad Breath Emitter?</MetaTitle>
+  <OGImage>//rockying.com/art/health/Bad%20breath/Bad-Breath.jpg</OGImage>
+  <OGDescription>No one likes to have it. But then most don’t know whether they have it or not. Don’t think too much, it is bad breath we are talking about. Bad breath or Halitosis is quite a common prevalence and the third most common reason people seek dental help for. But then, let’s get to exploring it more.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Bad Breath, Prevent Bad Breath, Dental Health</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/health/Bad%20breath/Bad-Breath.jpg' alt='' /&gt;&lt;p&gt;No one likes to have it. But then most don’t know whether they have it or not. Don’t think too much, it is bad breath we are talking about. Bad breath or Halitosis is quite a common prevalence and the third most common reason people seek dental help for. But then, let’s get to exploring it more.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;img src="//rockying.com/art/health/Bad%20breath/prevent-bad-breath.jpg" title="Bad Breath" alt="" style="width: 400px; float: right; height: 276px;"&gt;No one likes to have it. But then most don’t know whether they have it or not. Don’t think too much, it is bad breath we are talking about. Bad breath or &lt;a href="http://en.wikipedia.org/wiki/Halitosis"&gt;&lt;b&gt;Halitosis&lt;/b&gt;&lt;/a&gt; is quite a common prevalence and the third most common reason people seek dental help for. But then, let’s get to exploring it more.&lt;/p&gt;&lt;p&gt;Preserving good oral hygiene is one of the most vital things you can do for your teeth and gums. Healthy teeth not only enable you to look and feel good, they make it likely to eat and speak properly.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Prevention being better than cure, one should keep visiting dentists at least thrice in six moths. In between regular visits to the dentist, there are simple steps that each of us can take to greatly decrease the risk of developing tooth decay, gum disease and other dental problems that might contribute to mouth odor.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;Bad breath might be a result of odor-producing bacteria that grow in the mouth. Irregularity in brushing and flossing leads to bacteria formation due to the food bits left in the mouth and between the teeth. The sulfur compounds unconfined by these bacteria make your breath smell. Foods like, garlic and onions that includes pungent oils, can add to bad breath .The oils are carried to your lungs and out throughout your mouth. &lt;br&gt;Another major cause of bad mouth odor is smoking.&lt;/p&gt;&lt;p&gt;&lt;br&gt;Rarely, bad breath is due to deposits in the lungs or gastrointestinal tract, or to a systemic virus. Some well being troubles, such as sinus infections or diabetes, can also ground bad breath. And occasionally it just comes down to what you ate for dinner.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Below are few remedies that can help curbing the bad breath:&lt;/b&gt;&lt;img src="//rockying.com/art/health/Bad%20breath/Bad-Breath.jpg" title="Bad breath causes distance with the lover" alt="" style="width: 400px; float: right;"&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Brushing methodically and regularly at least twice a day. (Proper brushing technique includes brushing in circular motion and molars should be brushed in up and down motion)&lt;/li&gt;&lt;li&gt;Eating a balanced diet and limiting snacks between meals.&lt;/li&gt;&lt;li&gt;Using dental products that contain fluoride, including toothpaste and mouth wash.&lt;/li&gt;&lt;li&gt;Children less than 12 years of age should drink fluoridated water or take a fluoride supplement if they live in a non-fluoridated area.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Let’s face it, bad breath is awkward and sometimes very embarrassing. The good news is that for the most part —with proper dental care and a little bit of precaution —bad breath can be evaded. &lt;br&gt;&lt;/p&gt;&lt;h5&gt;So, take that step, find out what might be causing your bad breath; or first, whether you have it or not and go out and seek help for it. It is really not that tough... or expensive!&amp;nbsp; :)&lt;/h5&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>135</URL>
+</Article>

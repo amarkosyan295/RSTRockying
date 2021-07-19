@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>159</ID>
+  <Title>Facebook Blocked @ Work?</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/internet/banned-sites/facebook_banned.jpg</OGImage>
+  <OGDescription>It has always been contested whether office computers should have these websites blocked or not. Rockying tries to measure the temper of employees and employers and present both sides of the story.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>10</Category>
+  <Tag>Banned Social Networking, facebook, twitter, Facebook Banned</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;p&gt;&lt;/p&gt;&lt;h4&gt;&lt;img src="http://rudrasofttech.com/rockying/art/internet/banned-sites/Access-Blocked-Websites-at-work.jpg" title="Banned Social Networking" alt="" style="width: 400px; float: right;"&gt;&lt;/h4&gt;
+It has always been contested whether office computers should have these 
+websites blocked or not. Rockying tries to measure the temper of 
+employees and employers and present both sides of the story.&lt;p&gt;&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;Sudeep hurries back to work post lunch and thinks, “Only some harmless Facebooking can prevent me from sleep today”. Upon finding out that the IT team has blocked the site yet again, the situation is better if left to our respective imagination now. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="http://rudrasofttech.com/rockying/art/internet/banned-sites/Facebook-Banned.jpg" title="Facebook Banned" alt="" style="width: 700px;"&gt;&lt;br&gt;&lt;br&gt;It has always been contested whether office computers should have these websites blocked or not. Rockying tries to measure the temper of employees and employers and present both sides of the story.&lt;br&gt;&lt;/p&gt;&lt;h4&gt;DICTATORSHIP OR DEMOCRACY? &amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/h4&gt;
+
+&lt;p&gt;Is this kind of banning a matter of dictatorship or democracy of the employees? &lt;a href="http://www.facebook.com/RockyingMag"&gt;Rockying&lt;/a&gt; says that it is not only about security reasons but personal ways of working in a corporate environment.&amp;nbsp; Passing of information outside office premises may happen consciously and unconsciously both, but does banning social networking sites help? Read more on IBM Global's decision to ban SIRI at work &lt;a href="http://www.thinkdigit.com/Apps/IBM-bans-Siri-worried-about-possible-data_9627.html"&gt;here&lt;/a&gt;. There are ways of stealing data. &lt;br&gt;&lt;/p&gt;
+
+
+
+
+
+&lt;h4&gt;Are the corporate watchdogs listening? &lt;br&gt;&lt;/h4&gt;&lt;h4&gt;&lt;img src="http://rudrasofttech.com/rockying/art/internet/banned-sites/Access-Blocked-Websites-at-work.jpg" title="Banned Social Networking" alt="" style="width: 300px; float: right;"&gt;&lt;/h4&gt;
+
+
+
+
+
+&lt;h4&gt;Is social networking destroying efficiency or boosting effectiveness?&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/h4&gt;&lt;p&gt;The other reason can possibly be wastage of time. And there is a flip-side to it. While the employers doubt the slowing efficiency of the hired employees, it is not usually the case. Some offices have separate cyber corners where the employee can spend time on recreation. This can be a good alternative than providing personal access to employee computers. But how far this is successful is another criterion worth considering. Would all employees actually take some time off from their busy schedules and spend their time Googling? &lt;br&gt;&lt;br&gt;There can be certain ways of moderating employee activities on websites, such as HR keeping a track of activities on websites such as Linkedin, Twitter or Facebook. We did a survey and here is what we found:&lt;br&gt;&lt;br&gt;Several organizations (more are joining the bandwagon by the day) are using social networking as a primary tool for performing a background check of employees, thereby, understanding their social attitudes and assessing whether they are “culturally fit” or not. Social Networking is also being used virally to promote SMEs and building corporate branding and establishing a more direct communication with the target audience. Howzzat! &lt;br&gt;&lt;/p&gt;
+
+&lt;h4&gt;THE CORPORATE THINK-PALETTE&lt;/h4&gt;&lt;p&gt;Employees who apply some “sense and sensibility” at work do change the http to an https to unblock websites. Other ways include befriending people from the IT team or access internet on phone to indulge in the luxury of social networking at work. This leaves us with a question. Does productivity on the work table actually get affected with simultaneous social networking? Does the corporate approach need to change with the changing environment? It is an influential tool and will be hard to ignore in the near future. We wish to know what you esteemed readers think about the matter. &lt;br&gt;&lt;/p&gt;&lt;h5&gt;Rockying cannot give a final verdict to this corporate machination and wishes to unfurl a public-centric opinion on the same. Give your feedback in the box below and tell us what you think.&lt;br&gt;&lt;/h5&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

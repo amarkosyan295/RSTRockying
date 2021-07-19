@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>14</ID>
+  <Name>home-old</Name>
+  <Title>Rockying - Home of best entertainment</Title>
+  <DateCreated>2014-08-29T02:16:06.343</DateCreated>
+  <CreatedByName>Raj Kiran</CreatedByName>
+  <CreatedBy>1</CreatedBy>
+  <Status>Inactive</Status>
+  <ModifiedByName>Raj Kiran</ModifiedByName>
+  <ModifiedBy>1</ModifiedBy>
+  <Body>&lt;div class="row-fluid"&gt;
+    &lt;div class="span12"&gt;
+        &lt;h2&gt;Top Stories&lt;/h2&gt;
+        &lt;datasource name="CarouselDataSource" /&gt;
+    &lt;/div&gt;
+    &lt;div class="span4" style="padding-top:55px; display:none;"&gt;
+        &lt;a href="http://www.indiabobbles.com/daku-sambhar-singh-bobble-head?ref=rockying"&gt;
+                &lt;img src="http://www.indiabobbles.com/drive/Cartoons/Concept1-Clickhere.jpg" alt="" /&gt;
+                &lt;h4&gt;Limited Edition, Daku Sambhar Singh Bobblehead&lt;/h4&gt;
+            &lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="row-fluid"&gt;
+    &lt;div class="span12"&gt;
+&lt;hr&gt;
+        &lt;h2&gt;Most Popular on Rockying&lt;/h2&gt;
+
+        &lt;datasource name="PopularstoryHorizontalList" /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="row-fluid"&gt;
+    &lt;div class="span12"&gt;
+&lt;hr&gt;
+        &lt;h2&gt;Latest Articles&lt;/h2&gt;
+        &lt;datasource name="LatestArticleDataSource" /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Body>
+  <DateModified>2017-04-14T23:41:36.1778878-07:00</DateModified>
+  <Head>&lt;script src="http://code.jquery.com/ui/1.10.2/jquery-ui.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;link href="http://www.rudrasofttech.com/js-tools/slideshow/slides.css" rel="Stylesheet" /&gt;
+&lt;script src="http://www.rudrasofttech.com/js-tools/slideshow/slides.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;script src="http://www.rudrasofttech.com/js-tools/swipe/swipe.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;
+$(document).ready(function () {
+        $("#myCarousel").slides({ Circular: true});
+    });
+&lt;/script&gt;</Head>
+  <Sitemap>false</Sitemap>
+  <NoTemplate>false</NoTemplate>
+  <PageMeta />
+</CPage>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>69</ID>
+  <Title>A South African Safari</Title>
+  <MetaTitle>A South African Safari</MetaTitle>
+  <OGImage>//www.rockying.com/art/South%20Africa/Kruger_national%20Park.jpg</OGImage>
+  <OGDescription>South Africa lives up to its reputation. It is absolutely gorgeous.  Marie and family stayed in Johannesburg for few days before their safari began...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>South Africa, Johannesberg</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/South%20Africa/Kruger_national%20Park.jpg' alt='' /&gt;&lt;p&gt;South Africa lives up to its reputation. It is absolutely gorgeous.  Marie and family stayed in Johannesburg for few days before their safari began...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    This time around, &lt;a href="http://www.facebook.com/HajraKvetches"&gt;Hajra&lt;/a&gt; catches
+    up with Marie Loerzel from Morocco&lt;img src="//rockying.com/art/South%20Africa/blyde-river-canyon.jpg"
+        title="Blyde River Canyon" alt="" style="width: 300px;" class="pull-left" /&gt;
+    who unfolds her South African Safari and why she finds it her most favorite travel
+    destination...
+&lt;/p&gt;
+&lt;h5&gt;
+    A LITTLE BIT ABOUT THE TRAVELER&lt;/h5&gt;
+&lt;p&gt;
+    &lt;a target="_blank" title="Marie Loerzel" href="http://rockthekasbahafrica.blogspot.com"&gt;
+        Marie Loerzel&lt;/a&gt;, an American, currently living in Morocco with her husband
+    and four children.&lt;/p&gt;
+&lt;h5&gt;
+    PLACE SHE LOVED&lt;/h5&gt;
+&lt;p&gt;
+    Living in Northern Africa they do a lot of travel within &lt;a href="http://en.wikipedia.org/wiki/Morocco"&gt;
+        Morocco&lt;/a&gt;. There is a ferry that runs between Morocco and Spain. But, even
+    flights from here into the European highlights like Paris and London are cheap.
+    And there are lots of discount airlines popping up. It's more difficult to travel
+    between African countries, even though they live here. Flights within the continent
+    are quite expensive and depending on where you are traveling, some less tourist
+    laden countries will only have flights in and out once a week and they will usually
+    involve an out of the way connection in Europe or Dubai. “We have traveled to two
+    African countries while we've lived here. The first is Egypt and we went the month
+    after the revolution, not by design mind you, but our favorite by far was a safari
+    we took which started in &lt;a target="_blank" title="South Africa" href="http://en.wikipedia.org/wiki/South_Africa"&gt;
+        &lt;b&gt;South Africa&lt;/b&gt;&lt;/a&gt;”, she exults. “We wanted to go on a safari while in
+    Africa and we had heard how beautiful South Africa was. The safari was also cheaper
+    than a lot of other destinations like Tanzania or Kenya” advised Marie.
+&lt;/p&gt;
+&lt;h5&gt;
+    WHY MARIE LOVED SOUTH AFRICA&lt;/h5&gt;
+&lt;p&gt;
+    &lt;img src="//rockying.com/art/South%20Africa/cradle_of_human_kind.jpg"
+        title="The Cradle Of Human Kind" alt="" style="height: 300px;" class="pull-right" /&gt;
+    South Africa lives up to its reputation. It is absolutely gorgeous. Marie and family
+    stayed in &lt;a href="http://en.wikipedia.org/wiki/Johannesburg"&gt;Johannesburg&lt;/a&gt; for
+    few days before their safari began. They'd heard horror stories of how unsafe and
+    crime ridden Jo'burg was but to discover the truth, it was not found any less safe
+    than any other big city. Plus, the grocery stores had more of selection than in
+    Morocco and the language is English, which makes it really easy to get around. The
+    &lt;b&gt;cradle of human kind&lt;/b&gt; and &lt;b&gt;Blyde River Canyon&lt;/b&gt; which is the largest green
+    canyon in the world, are those must visits. Of course game driving in &lt;b&gt;Kruger National
+        Park&lt;/b&gt;
+    &lt;img src="//rockying.com/art/South%20Africa/Kruger_national%20Park.jpg"
+        title="Kruger National Park" alt="" style="height: 246px;" class="pull-left" /&gt;where
+    you get to see elephants, giraffes, rhinos, moneys, warthogs and camping out in
+    tents underneath the stars will be your memories to cherish for a lifetime.
+&lt;/p&gt;
+&lt;h5&gt;
+    BEST TIME TO BE THERE&lt;/h5&gt;
+&lt;p&gt;
+    December over Christmas is just perfect because in the Northern Hemisphere it's winter, but in the Southern Hemisphere, it's summer. So Marie and company got to
+    escape the dreary rainy cold Moroccan winter and get some sunshine. Bonus for the
+    traveler, that South Africa is a Christian country that celebrates Christmas, which
+    doesn't happen in Muslim Morocco. Summer is supposed to be the rainy season, but
+    they didn't experience it until they drove up through
+    &lt;img src="//rockying.com/art/South%20Africa/Botawana_Safari.jpg"
+        title="Botswana Safari" alt="" style="height: 197px;" class="pull-right" /&gt;&lt;b&gt;Botswana&lt;/b&gt;
+    later in the trip.
+&lt;/p&gt;
+&lt;h5&gt;
+    MONEY MATTERS&lt;/h5&gt;
+&lt;p&gt;
+    Airfare is expensive and there's no way around that. But once you're in-country
+    it's not as expensive as say London or Switzerland. But, it's definitely worth the trip.
+&lt;/p&gt;
+&lt;h5&gt;
+    WHY SHE RECOMMENDS SOUTH AFRICA&lt;/h5&gt;
+&lt;p&gt;
+    We would definitely recommend going to South Africa despite the cost to get there.
+    We had memories to last a lifetime in one of the most beautiful places we've ever been. Seeing elephants and giraffes and zebras never gets old or less exciting.
+&lt;/p&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>69</URL>
+</Article>

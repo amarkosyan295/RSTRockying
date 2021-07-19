@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Two innocent angels</Title>
+  <MetaTitle>Two innocent angels</MetaTitle>
+  <OGImage>//www.rockying.com/art/public/thriller/two-innocent-angels.jpg</OGImage>
+  <OGDescription>Elizabeth, a 70-year-old lady, lives alone with her loyal dog- Cameron. Her children abandoned her and left for other states. His only pensions interest them, let alone gifts and surprises. Her loyal dog is her true friend. Nobody knew their death</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>30</Category>
+  <Tag>Loyalty, unkind children, poor Elizabeth, a friendly dog, sudden demise.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/public/thriller/two-innocent-angels.jpg' alt='' /&gt;&lt;p&gt;Elizabeth, a 70-year-old lady, lives alone with her loyal dog- Cameron. Her children abandoned her and left for other states. His only pensions interest them, let alone gifts and surprises. Her loyal dog is her true friend. Nobody knew their death&lt;/p&gt;</Description>
+  <Text>A septuagenarian Elizabeth is sweeping the yard. She has been living alone for 25years. After her husband died, her children left to other states to lead a happy lifestyle. From time to time they used to come to see her, yet it seemed to her as if they were coming to take all her pension. Every time they visited, they would buy food and vegetables for her money. She only had these amounts of money to live on, otherwise, she couldn't survive at all. Her children didn't make up their mind to give her some money, instead, they spent it all their time. They would come as soon as she was given her pension. Yet she didn't speak anything about the money. Because she is a mother! A real mother is the one who only looks after her children. 
+But her only support and kind friend is her dog. Cameron, a loyal dog with a black-spotted and white-striped animal, always pursues her wherever she goes. Whether she goes for a walk or visits her neighbors, Cameron is always ready to go with her, even goes forward. She occasionally stays longer in her neighbors for about 2-3 hours together with other old ladies speaking and gossiping. Whenever she starts to go home, Cameron will still be waiting for her. Yeah, her lovely friend Cameron! She feeds him: she cooks for 2 people- Cameron is her best family member.
+As they live in the countryside, Cameron won't be bored himself. As soon as he observes that Elizabeth goes to sleep, he runs out with joy, feeling a sense of freedom. He has other friends out -Jim, Tony, Carl. All of the bark together as they are the only chiefs of the village. He returns home so late bleeding. Elizabeth is used to this event: he always beats with other dogs to get to know who is the best leading dog. Elizabeth doesn't speak anymore as she has told him that his job is wrong. Anyway, she adores her favorite. Think out of the box, who else can be loyal to her except her dead husband? She didn't eat or drink herself for her children, but when they grew old, instead of supporting her, they abandoned her and went away. But when she prays to Allah, she asks for health, good luck, and enjoyment for her children.
+Elizabeth woke up so early today: because today is the day her children will come! 2 sons and 2 daughters. She must prepare beforehand: sweeping the yard, cooking 2-3 delicious meals and some cookies. Her grandsons and granddaughters love cookies so much.
+2 pm. The quiet house suddenly filled with fresh laughter of little children, gossips of daughters-in-law, and chats of brothers. Elizabeth was so enchanted that her house was full of entertainment. But on the corner, Cameron looks angry. She knows the reason the dog hates her children. As animals feel every fake relationship of people, he is away from them every time they come. They also don't like him- they think as if their mother would inherit all her pension to this dog!
+Elizabeth takes a large amount of pension. From her early age, she began to work hard on a farm. She drove the tractor, planted cotton, harvested it, and submitted it to the chief farmer. From then she sacrificed herself to look after her children without her husband, nobody knows the tortures and dilemmas she suffered except herself.
+Thinking deeply about her past, she couldn't know the time her children would return. Unconsciously did she stand up and went to the kitchen to put some fruits in their bags.
+Cameron was about to call the old lay to go for a walk. At this part of the day, they used to go out and talked with each other, yet she didn't go out of her room. He barked continuously then moaned loudly. But there was no result. He was so distressed and didn't know what to do. Loudly barking did he run away to call for other people. He shouted and barked stupidly to have some help, but people observing him considered him stupid. The poor dog kept on crying for help, but tears welled up in his eyes as he saw the indifferent environment around him. An impatient man finally fired a shotgun at the dog with a rifle in his hand. As he collapsed and continued to moan, the man fired 2 more shots in a row. The dog quietly calmed down...
+Two innocent angles died in one day...</Text>
+  <WriterName>Gulrukh</WriterName>
+  <WriterEmail>missteacherguli@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>two-innocent-angels</URL>
+</Article>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Name>rockying-photo-caption-contest</Name>
+  <Title>Rockying Photo Caption Contest</Title>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <CreatedByName />
+  <CreatedBy>0</CreatedBy>
+  <Status>Publish</Status>
+  <ModifiedByName>Preeti Singh</ModifiedByName>
+  <ModifiedBy>2</ModifiedBy>
+  <Body>&lt;div class="row-fluid box"&gt;
+        &lt;div class="span12"&gt;
+           
+    &lt;/div&gt;
+&lt;div class="row-fluid box"&gt;
+	&lt;div class="span12"&gt;
+		&lt;div id="article"&gt;
+			
+&lt;img src="http://www.rockying.com/art/Photo%20Caption%20Contest/Rockying-Photo-Caption-Contest.jpg" /&gt;
+
+
+
+			&lt;h2&gt;When Does The Contest Start?&lt;/h2&gt;
+
+&lt;p&gt;The Contest begins on the 8th of December 2012 and ends on the 20th of January 2013.&lt;/p&gt;
+
+&lt;h2&gt;Tell Me More...&lt;/h2&gt;
+
+&lt;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Every week we post a photo and all you have to do is write a funny, entertaining caption for it.&lt;/li&gt;
+&lt;li&gt;The contest runs for a total of six weeks and every week there will be a new photo. So, six weeks, six photos, six cash prizes to be won.&lt;/li&gt;
+&lt;li&gt;At the end of every week, we chose the best caption for the photo and the winner for each week gets a cash prize of 500 INR (Indian Rupees). The winners will be notified by an update on the page. &lt;/li&gt;
+&lt;/ul&gt;
+ &lt;/p&gt;
+			
+			&lt;h2&gt;How Can I Participate?&lt;/h2&gt;
+			&lt;p&gt;
+				&lt;ul&gt;
+					&lt;li&gt;Like our facebook page &lt;a href="http://www.facebook.com/RockyingMag" target="_blank"&gt;here&lt;/a&gt;.&lt;/li&gt;
+					&lt;li&gt;Stay tuned for our updates on the contest on facebook.&lt;/li&gt;
+					&lt;li&gt;We release a photo on facebook every week. Just comment your craziest and funniest caption for the photo. &lt;/li&gt;
+					
+				&lt;/ul&gt;
+			&lt;/p&gt;
+&lt;h2&gt; Are There Any Rules Too? &lt;/h2&gt;
+&lt;p&gt;
+&lt;ul&gt;
+&lt;li&gt;To participate, you must be a &lt;a href="http://www.facebook.com/RockyingMag" target"_blank"&gt;Rockying &lt;/a&gt; fan on facebook.&lt;/li&gt;
+&lt;li&gt; Duplication of captions is strictly prohibited. If you are found duplicating a comment, you will be disqualified immediately.&lt;/li&gt;
+&lt;li&gt; Participants are not allowed to comment more than once.&lt;/li&gt;
+&lt;li&gt; The winner will not be decided on the basis of "facebook likes".&lt;/li&gt;
+&lt;li&gt; Comments on the Rockying page post will only qualify for the contest. No comments on shared posts will be considered.&lt;/li&gt;
+&lt;li&gt; Decision of the Rockying team will be final in case of any controversy.&lt;/li&gt; 
+&lt;li&gt; Even the best caption will be disqualified in case we find the participant violating the rules.&lt;/li&gt;  
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;h2&gt; Commenting Guidelines. &lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;We reserve the right to remove any content that might be found extremely offensive or threatening. So, please watch your language and respect other people's views, beliefs and emotions. &lt;/li&gt;
+&lt;li&gt;The comments you write should be either in English or Hindi languages. Comments in any other language are not eligible for the contest. &lt;/li&gt;
+&lt;li&gt;Please don’t engage in personal attacks (on admins, other commenters or any individual), persistent trolling or mindless abuse.&lt;/li&gt;
+&lt;li&gt;Hate speech: Racism, sexism and homophobia will not be tolerated.&lt;/li&gt;
+&lt;li&gt;No Spam: Spam and advertising content will be removed. &lt;/li&gt;
+&lt;li&gt; Relevancy: Please keep conversations relevant. Off-topic comments are subject to removal in order to keep the thread on track.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt; Did I win? &lt;/h2&gt;
+&lt;ul&gt;
+			&lt;li&gt;We will chose the best caption for every photo and notify the winner by an update on our facebook page. &lt;/li&gt; 
+&lt;li&gt;If you win, you will be asked to give your e-mail id and other account details to receive the cash prize. &lt;/li&gt;
+&lt;li&gt; Any conversation regarding the prize money should be done either through mails or messaging on the page.&lt;/li&gt; 
+&lt;li&gt;Winners will receive their prize through NEFT (National Electronics Funds Transfer). &lt;b&gt;So, it is mandatory for the participants to have an online account.&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;Remember ! You must claim your prize money within a week from the day of announcement. After which we are not liable to pay you the winning amount. So, what are you waiting for? &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt; Be Crazy, Be Creative and Get Winning !&lt;/h3&gt;
+&lt;h3&gt;&lt;a href="http://www.facebook.com/RockyingMag" target="_blank"&gt;Participate Now!&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt; Photo Caption Contest #1 &lt;/h3&gt;
+&lt;img src="http://www.rockying.com/art/Photo Caption Contest/Winner-Caption1.jpg" alt="Winning Caption #1"/&gt;
+&lt;h4&gt;
+The winning caption for this picture contest was posted by &lt;a href="http://www.facebook.com/kshitij.kaushik1?fref=ts"&gt;&lt;b&gt;Kshitij Kaushik&lt;/b&gt;
+&lt;/a&gt;. 
+&lt;/h4&gt;
+&lt;h4&gt; Congratulations Kshitij. &lt;/h4&gt;
+&lt;h3&gt; Photo Caption Contest #2 &lt;/h3&gt;
+&lt;img src="http://www.rockying.com/art/Photo Caption Contest/Contest2-Winner-Caption.jpg" alt="Winning Caption #2"/&gt;
+&lt;h4&gt;
+The winning caption for this picture contest was posted by &lt;a href="http://www.facebook.com/rajesh.chandra.984"&gt;&lt;b&gt;Rajesh Chandra&lt;/b&gt;
+&lt;/a&gt;. 
+&lt;/h4&gt;
+&lt;img src="http://www.rockying.com/art/Photo Caption Contest/Contest-Winners/Rajesh-Chandra.JPG" alt="Contest 2 winner"/&gt;
+&lt;h4&gt; Congratulations Rajesh.&lt;/h4&gt;
+&lt;h3&gt; Photo Caption Contest #3 &lt;/h3&gt;
+&lt;img src="http://www.rockying.com/art/Photo Caption Contest/Contest3-Winner-Caption1.jpg" alt="Winning Caption #3"/&gt;
+&lt;h4&gt;
+The winning caption for this picture contest was posted by &lt;a href="http://www.facebook.com/rajesh.chandra.984"&gt;&lt;b&gt;Rashmi Nathani&lt;/b&gt;
+&lt;/a&gt;. 
+&lt;/h4&gt;
+&lt;h4&gt; Congratulations Rashmi.&lt;/h4&gt;
+&lt;h4&gt;The contest is on for another three weeks to come. &lt;/h4&gt;
+&lt;h3&gt;&lt;a href="http://www.facebook.com/RockyingMag" target="_blank"&gt;Participate Now!&lt;/a&gt;&lt;/h3&gt; 
+&lt;p&gt;*Contest Sponsored by: Rudra Softtech LLP &lt;a href="http://www.rudrasofttech.com/" target="_blank"&gt;(www.rudrasofttech.com)&lt;/a&gt;&lt;p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;</Body>
+  <DateModified>2013-01-03T08:50:03.4941996-07:00</DateModified>
+  <OGImage>http://www.rockying.com/art/Photo%20Caption%20Contest/Rockying-Photo-Caption-Contest.jpg</OGImage>
+  <OGDescription>Want to win a little cash for being creative? Join us for the photo caption contest starting from tomorrow! Win 500 every week! A total of 3000 INR. Participate now! Visit our facebook page for details.</OGDescription>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <OGType>Website</OGType>
+  <MetaKeywords>Contests, Rockying Contests, Photo Caption Contest, Funny Contests.</MetaKeywords>
+</CPage>

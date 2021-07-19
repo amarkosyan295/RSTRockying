@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>106</ID>
+  <Title>Secret HomeMade Remedies Uncovered !</Title>
+  <MetaTitle>Secret HomeMade Remedies Uncovered !</MetaTitle>
+  <OGImage>//rockying.com/art/health/Home-made-Remedies/herbal-remedies-1.jpg</OGImage>
+  <OGDescription>As seasons change, our skin undergoes wear and tear and so does our health. Here are a few home remedies for your overall health and fitness.  It is time we kiss ill health and pain, goodbye!</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Homemade remedies, Health, Kitchen Healing</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/health/Home-made-Remedies/herbal-remedies-1.jpg' alt='' /&gt;&lt;p&gt;As seasons change, our skin undergoes wear and tear and so does our health. Here are a few home remedies for your overall health and fitness.  It is time we kiss ill health and pain, goodbye!&lt;/p&gt;</Description>
+  <Text>&lt;h3&gt;
+    Granny's Homemade Health Remedies!&lt;/h3&gt;
+&lt;p&gt;
+    As&lt;img src="//rockying.com/art/health/Home-made-Remedies/grandma.gif"
+        title="Our very own Granny n her Home made remedies" alt="" style="max-width: 300px;"
+        class="pull-right" /&gt;
+    seasons change, our skin undergoes wear and tear and so does our health. Here are
+    a few home remedies for your overall health and fitness.&amp;nbsp; It is time we kiss
+    ill health and pain, goodbye!&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;TURMERIC HEALS&lt;/strong&gt;: If you have forgotten that warm glass of milk boiled
+            with a pinch of haldi (turmeric), cloves and sugar, it is time you prepare it to
+            heal that ailing wound of yours. Our kitchen granny's all-time favorite is turmeric
+            powder that is known across the world for its healing properties. It heals festering
+            wounds with ease if applied on the infected area directly with a clean cloth. What
+            more? Guaranteed recovery from pain and swelling as well&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;FOR THAT EXTRA GLOW&lt;/strong&gt;: Apply turmeric on skin with household jiggery
+            to smoothen up your beautiful skin and reduce acne. This smoothens and calms irritated
+            skin as well. Kitchen dadi gives this secret out to you in secret. She also advises
+            the impossible: stay away from outside food!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;OIL FOR THE EAR&lt;/strong&gt;: If your ears are paining because of that flight
+            journey you took or due to reasons unknown, pour some warm mustard oil or coconut
+            oil in your ears and sleep on for the night. It will clear all blocked passages
+            and also loosen the ear wax out. Dadi ma rocks.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;ACIDITY GONE&lt;/strong&gt;: To cure acidity, have chaanch or buttermilk at night
+            after dinner. Kitchen dadi guarantees that it will save you from those embarrassing
+            acidic burps. Along with it have a glass of sugared water (two tablespoons of sugar
+            to a glass of water) to keep those acidic waves at bay. And now we understand why
+            kitchen dadi used heeng or asaphodia while cooking food. It won’t make you feel
+            bloated.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;AVOID/PROTECT THE BONES&lt;/strong&gt;: Stay away from preservatives and other
+            pickled food items to cure fractured bones is the word of caution. Also avoid red
+            meat and do not take caffeine and other colas. Apply haldi ka lep for speedy recovery
+            and tie a sling around it. Caffeine and phosphorus products destroy the calcium
+            content present within bone tissues and stops further tissue development.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;MANGO n MILK FOR THOSE CURVES&lt;/strong&gt;: If you are too thin and have been
+            wondering how to gain some curves, kitchen dadi has the right nuska for you. Buy
+            the sweetest and the ripest mangoes in the market and have them twice a day followed
+            by a glass of cold milk. &lt;img src="//rockying.com/art/health/Home-made-Remedies/herbal-remedies-1.jpg"
+                title="Herbal Remedies" alt="" class="pull-right" style="max-height: 306px;" /&gt;Mangoes are rich in sugar and milk is rich in protein and
+            dadi says that it is a deadly combination for weight gain. Take this concoction
+            twice a day for a month. See those curves settling in no time! We still wonder how
+            granny knows all this!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;FEELING HOT HOT HOT? &lt;/strong&gt;One of the best coolants meant for the tropical
+            countries, Aam panna will cool and soothe that tired heat-stricken skin. A chilled
+            glass of homemade Mango Panna will protect you from loo.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;THE COOL SHOWER&lt;/strong&gt;: Dadi recommends rash-stricken individual to take
+            bath with alum water for a quick relief this summer. Also, crushed peppermint added
+            to the bucket of bathing water can actually make you thanda thanda cool cool!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;CLOVES FOR TEETH&lt;/strong&gt;: For effective relief from toothache, crush a
+            few cloves from the affected teeth or apply clove oil with little cotton. Try it
+            to believe it.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;FOR THE HEART&lt;/strong&gt;: To reduce that burgeoning cholesterol level, have
+            goat’s milk.Also extracts from barks of Arjun tree would do some good.
+            &lt;br&gt;
+        &lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;
+    No wonder, home remedies rule the hearth and the home in the most natural way possible.
+    Happy ailing, people!&lt;/h5&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>106/secret-homemade-remedies-uncovered</URL>
+</Article>

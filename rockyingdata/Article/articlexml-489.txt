@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Adventurous vacation ideas in South Africa</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>Not every traveller is a leisure seeker or on a journey to discover the ecstasy of nature. The South Africa Vacation Package with some of the great adventure tour and breathtaking activities offers the adrenaline junkies, an ultimate escape to quench</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>travel, south africa, adventure places, tour packages, honeymoon, vacation, holiday, safari holiday</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;Not every traveller is a leisure seeker or on a journey to discover the ecstasy of nature. The South Africa Vacation Package with some of the great adventure tour and breathtaking activities offers the adrenaline junkies, an ultimate escape to quench&lt;/p&gt;</Description>
+  <Text>The destination calls every adventure enthusiast to push their limits and go beyond the madness to experience the extreme of thrill. Let your heart go pumping with these most enthralling and unique adventure action that awaits your arrival in South Africa. But remember, these are not for the faint-hearted.
+
+The sky Diving thrill
+
+Sky diving has always been in a hit list of adventure seekers who are ready to fly high and experience the force of the air. Hurling at a distance of thousand feet above the ground doesn’t miss the chance to witness the serene beauty of South Africa. There are companies operating sky diving tours under the supervision of experts and guides. Most of the South Africa DMC offers sky diving and other thrilling adventure to the travellers in Cape Town, Plettenberg Bay, Mossel Bay and Parys. 
+
+Cango Caves adventure tour
+
+The narrow and steep caves with uneven formations make the Cango cave adventure a real thrill to experience. Crawling on the knees and climbing up the caves, squeezing to cross your way, the tour will take you on a 45-minute tour to explore the subterranean region. You will be guided through the amazing rock formations that resemble the Lumbago Alley or the Devil’s Chimney.  More than being a thrilling journey, it’s more a physical challenge where you have to push yourself and test your stamina of surviving under the claustrophobic situation.
+Water adventure at Durban
+The beach city Durban is known for the tranquil beaches, the long shorelines and the amazing water adventure organized for every traveller. From scuba diving to surfing, kite boarding and swimming, you can pick up your ideal tour to add more thrill to your vacation plan. Durban is basically the best destination for [url=https://southafricapackages.com/south-africa-honeymoon-tour]South Africa Honeymoon Package[/url] that makes these activities ideal for the newly weeds, spicing up their love life.
+
+Safari and game drives
+
+With an abundance of wildlife and some amazing national parks or game reserves, South Africa offers an adventurous expedition for every traveller with safari or game drive excursion. The Kruger National park and Garden route game reserve are known to offer the best South Africa Safari Package where you will come across the Africa big five and discover the nature of wilderness preserved there. Don’t miss out the night safari and bush walk for real wildlife adventure.
+
+Walk with lion in Johannesburg
+
+Have you ever thought of a walk accompanied by the lion or the cheetah? Now South Africa brings up this amazing adventure for the adrenaline junkies where they can walk around the park with the lions or the Cheetah for 45 minute or one hour. The guided tour will let you interact friendly with the wilds and learn the best about their behavior. There are additional tours added as feeding the cubs, night feeding tour predator tour for a thrilling [url=https://southafricapackages.com/south-africa-safari-tour]South Africa Safari Holiday[/url].</Text>
+  <WriterName>Neelam Satyawali</WriterName>
+  <WriterEmail>seo@aerospaceholidays.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>adventurous-vacation-ideas-in-south-africa</URL>
+</Article>

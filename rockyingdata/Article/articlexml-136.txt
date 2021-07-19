@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>136</ID>
+  <Title>Second Innings And Hollywood; The Great Comebacks</Title>
+  <MetaTitle>Hollywood Comebacks stars, Actors &amp; Actress</MetaTitle>
+  <OGImage>//www.rockying.com/art/HOllywood/Comebacks/robert%20downey%20jr.jpg</OGImage>
+  <OGDescription>We look at some of the ultimate Hollywood comebacks stars, Actors &amp; Actress. Though there have been some not-so-worthy comebacks, we focus on ones that have been hugely successful.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>12</Category>
+  <Tag>Hollywood comebacks, Hollywood Stars</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/HOllywood/Comebacks/robert%20downey%20jr.jpg' alt='' /&gt;&lt;p&gt;We look at some of the ultimate Hollywood comebacks stars, Actors &amp; Actress. Though there have been some not-so-worthy comebacks, we focus on ones that have been hugely successful.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    Soon to be released Dangerous Ishq sees the return of the uber glamorous Karisma
+    Kapoor to the big screen. Not only will we see Kapoor soon but it is slated that
+    big names like Sridevi, Madhuri Dixit, Manisha Koirala are set to conquer the big
+    screens soon.
+&lt;/p&gt;
+&lt;p&gt;
+    Going with the flow, we look at some of the ultimate comebacks in Hollywood. Though
+    there have been some not-so-worthy comebacks, we focus on ones that have been hugely
+    successful.
+&lt;/p&gt;
+&lt;h4&gt;
+    ROBERT DOWNEY JR.&lt;/h4&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="//rockying.com/art/HOllywood/Comebacks/robert%20downey%20jr.jpg"
+        title="Robert Downey jr." alt="" style="width: 350px;" class="pull-right" /&gt;
+    We know him as Iron Man and the for super good looks that has a huge fan following.
+    What many people miss that Downey battled drug addiction, jail terms, and substance
+    abuse before making it big. He made his acting debut at the age of five and then
+    went on to slowly build his career with acclaimed movie roles like Chaplin, wherein
+    he played Charlie Chaplin and went on to be nominated for the Academy Award. However,
+    drug abuse plummeted his career and five years of stint with attempts of rehabilitation
+    and the likes, Robert made his huge comeback in movies like Tropical Thunder and
+    Iron Man. He continues to be one of Hollywood’s leading men.&lt;/p&gt;
+&lt;h4&gt;
+    DREW BARRYMORE&lt;/h4&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="//rockying.com/art/HOllywood/Comebacks/drew-barrymore.jpg"
+        title="Drew Barrymore" alt="" style="width: 350px;" class="pull-right" /&gt;
+    Coming from the Barrymore family of actors, it was pretty obvious what course the
+    diva would take.
+    &lt;br /&gt;
+    Making her debut as a child star, she was noted for her roles in movies like ET,
+    the Extra-Terrestrial, and Irreconcilable Differences. So it was hugely troubling when she moved on smoking cigarettes at age nine, drinking alcohol by 11, smoking marijuana at 12, and snorting cocaine at age 13. With reported suicide attempts and stints at rehab that broke her away from the movie scene. In the late 90’s she made
+    her comeback in a series of well known romantic comedies and starred and produced
+    in the hugely successful Charlie’s Angels.
+&lt;/p&gt;
+&lt;h4&gt;
+    JOHN TRAVOLTA&lt;/h4&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="//rockying.com/art/HOllywood/Comebacks/John-travolta.jpg"
+        title="John Travolta" alt="" style="width: 350px;" class="pull-right" /&gt;
+    The uber handsome Travolta is a ladies' man for clear reasons. Making his debut in
+    the 1970s with television success and movies like Saturday Night Fever and Grease;
+    John Travolta was famed for his good looks and powerful acting. However following
+    a series of the movie which was critical and commercial failures, Travolta somehow
+    lost his hold in the industry. However, in 1989, Look Who’s Talking changed the scenario
+    and bought John Travolta back with a bang. And then, there was no looking back.
+&lt;/p&gt;
+&lt;h4&gt;
+    TERI HATCHER&lt;/h4&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="//rockying.com/art/HOllywood/Comebacks/teri-hatcher.jpg"
+        title="Teri Hatcher" alt="" style="width: 350px;" class="pull-right" /&gt;
+    We now know her as Susan Mayer from the hugely successful Desperate Housewives;
+    but Teri Hatcher had her own share of being away from the limelight for quite some time. Starring in the hugely successful Lois and Clark: The New Adventures of Superman from 1993 to 1997; Teri went on to star as a Bond girl in Tomorrow Never Dies. However,
+    destiny has different plans, and then she was completely “lost” from the radar. Only with the happy-go-lucky Susan Mayer casting since 2004 did Teri make her huge comeback.
+    She has been highly appreciated for her role and has even won a Golden Globe award for her role.
+&lt;/p&gt;
+&lt;p&gt;
+    So, what remains to be seen is whether the Bollywood comebacks be just as successful. Though actors do rely on their earlier successes and past glory; the expectations become just as high after a hiatus.
+&lt;/p&gt;
+&lt;h5&gt;
+    I am sure we missed mentioning a lot of comebacks. What are your favorite yesteryear stars which you would love to see on the big screen again? Or some you did see and have a view on whether they did make it big with a comeback or was it just too bland?
+    Share your thoughts below.
+&lt;/h5&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>second-innings-and-hollywood-the-great-comebacks</URL>
+</Article>

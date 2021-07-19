@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>New Year Traditions Around The World</Title>
+  <MetaTitle>New Year Traditions Around The World</MetaTitle>
+  <OGImage>http://www.rockying.com/art/Festival/New-Year-Traditions/christmas-trees-Netherlands1.jpg</OGImage>
+  <OGDescription>The Dutch burn bonfires of Christmas tree on the street and launch fireworks. The             fires are meant to purge the old and welcome the new.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>25</Category>
+  <Tag>New Year</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Festival/New-Year-Traditions/christmas-trees-Netherlands1.jpg' alt='' /&gt;&lt;p&gt;The Dutch burn bonfires of Christmas tree on the street and launch fireworks. The             fires are meant to purge the old and welcome the new.&lt;/p&gt;</Description>
+  <Text>&lt;ul class="unstyled"&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            Scotland (Hogmanay)&lt;/h3&gt;
+            &lt;img src="http://www.rockying.com/art/Festival/New-Year-Traditions/first-footing-in-scotland-with-two-pictures-first-foot-kit .jpg" alt="" /&gt;
+        &lt;p&gt;
+            One of the traditions is –“ First Footing”, shortly after midnight on New year’s
+            eve, neighbors pay visit to each other and impart new year’s wishes. Traditionally,
+            first foot used to bring along a gift of coal for the fire, or shortbread. It is
+            considered especially lucky if a tall, dark and handsome man is the first to enter
+            your house after New Year is rung in.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            Japan ( oshogatsu)&lt;/h3&gt;
+            &lt;img src="http://www.rockying.com/art/Festival/New-Year-Traditions/in-right-oshogatsu-and-in-left-otoshidama.jpg" alt="" /&gt;
+        &lt;p&gt;
+            The New Year is the most important holiday in Japan, and is a symbol of renewal.
+            In December, various Bonenkai or “forget-the-parties” are held to bid farewell to
+            the problems and concerns of the past year and prepare for a new beginning.&lt;/p&gt;
+        &lt;p&gt;
+            At midnight on dec. 31, Buddhist temples strike their gongs 108 times, in a effort
+            to except 108 types of human weakness. Children receive otoshidamas, small gifts
+            with money inside. Sending New Year’s cards is a popular tradition.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            Spain&lt;/h3&gt;
+            &lt;img src="http://www.rockying.com/art/Festival/New-Year-Traditions/12-grapes-in spain.jpg" alt="" /&gt;
+        &lt;p&gt;
+            A Spanish ritual on New Year’s Eve is to eat 12 grapes at midnight. The tradition
+            is meant to secure 12 happy months in the coming year.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            The Netherland&lt;/h3&gt;
+            &lt;img src="http://www.rockying.com/art/Festival/New-Year-Traditions/christmas-trees-Netherlands1.jpg" alt="" /&gt;
+        &lt;p&gt;
+            The Dutch burn bonfires of Christmas tree on the street and launch fireworks. The
+            fires are meant to purge the old and welcome the new.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            Greece&lt;/h3&gt;
+            &lt;img src="http://www.rockying.com/art/Festival/New-Year-Traditions/vassilopita-greek-new-year-cake.jpg" alt="" /&gt;
+        &lt;p&gt;
+            In Greece, New Year’s Day is also the festival of St. Basil, one of the founders
+            of the Greek Orthodox Church. One of the traditional foods served is – Vasilopitta
+            or st. Basils cake. A silver or gold coin is baked inside the cake. Whoever finds
+            the coin in their piece of cake will be especially lucky during the coming year.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            United States&lt;/h3&gt;
+            &lt;img src="http://www.rockying.com/art/Festival/New-Year-Traditions/in-left-dropping-of-new-year-in-times-square-and-in-right-john-black-eyed-peas.jpg" alt="" /&gt;
+        &lt;p&gt;
+            The most famous tradition in the United States is the dropping of the New Year ball
+            in Times Square, New York City at 11:59 pm. The tradition first began 1907. The
+            original ball was made of iron and wood; the current ball is made of Waterford crystal,
+            weights 1,070 pounds, and is six feet in diameter.&lt;/p&gt;
+        &lt;p&gt;
+            A traditional southern New Year’s dish is the Hoppin’ john-black eyed peas and ham
+            hocks. An old saying goes” Eat peas of everything the rest of the year.”&lt;/p&gt;
+        &lt;p&gt;
+            Another tradition is the rose bowl in Pasadena, California.&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;</Text>
+  <WriterName>Vratika Singh</WriterName>
+  <WriterEmail>vratika@rudrasofttech.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>236</URL>
+</Article>

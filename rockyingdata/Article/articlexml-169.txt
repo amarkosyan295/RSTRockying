@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>169</ID>
+  <Title>Eating Less: Why It Can Be Grossly Wrong!</Title>
+  <MetaTitle>Eating Less: Why It Can Be Grossly Wrong!</MetaTitle>
+  <OGImage>//rockying.com/art/health/Eating-Disorders/karen_carpenter_anorexia.jpg</OGImage>
+  <OGDescription>Some people actually have trouble eating; yes, just putting food into their mouth, or even worse, feeling guilt after having eaten food. Confused? Well, we at Rockying share a little more insight into what is commonly known as “Eating Disorder”...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Anorexia, Karen Karpenter, Eating Disorders, Princess Diana, Anushka Sharma, Bulimia Nervosa</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/health/Eating-Disorders/karen_carpenter_anorexia.jpg' alt='' /&gt;&lt;p&gt;Some people actually have trouble eating; yes, just putting food into their mouth, or even worse, feeling guilt after having eaten food. Confused? Well, we at Rockying share a little more insight into what is commonly known as “Eating Disorder”...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    Who doesn’t love eating? Probably many of us would nod their head vigorously and
+    I agree with the term “I live to eat”. But then too much food is a trouble, but
+    shockingly too less food is also a trouble. Some people actually have trouble eating;
+    yes, just putting food into their mouth, or even worse, feeling guilt after having
+    eaten food. Confused? Well, we at &lt;a href="http://www.facebook.com/RockyingMag"&gt;Rockying&lt;/a&gt;
+    share a little more insight into what is commonly known as “&lt;b&gt;Eating Disorder&lt;/b&gt;”.
+    Have a look at the video here:
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;br/&gt;
+    &lt;iframe src="http://www.youtube-nocookie.com/embed/XtcV_3lLrF0?rel=0" allowfullscreen=""
+        frameborder="0" height="380" width="600"&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;h4&gt;
+    WHAT IS AN EATING DISORDER?&lt;/h4&gt;
+&lt;p&gt;
+    Eating disorder refers to a group of conditions which might involve either too much
+    eating or excessively low intake of food to the point that it is detrimental to
+    the person’s physical, emotional and mental well being.&lt;/p&gt;
+&lt;p&gt;
+    There are over eleven types of eating disorders but the most common forms are &lt;b&gt;Anorexia
+        Nervosa&lt;/b&gt; and &lt;b&gt;Bulimia Nervosa&lt;/b&gt;. And here’s a little bit of each of them
+    and what they really mean.
+    &lt;br&gt;
+    &lt;br&gt;
+    &lt;b&gt;Anorexia Nervosa&lt;/b&gt; is a refusal on the person's behalf to maintain the right
+    body weight. The person always imagines themselves to be heavier and much more fatter
+    than they actually are. There is a constant and extreme fear of gaining weight and
+    to soothe this fear, extremely unhealthy eating habits are formed; despite being
+    highly underweight.
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    There might be a constant refusal to eat, or eating might take in extremely limited
+    and tiny portions. So much so that it has extreme detrimental effects on the body
+    such as loss of body hair, extreme hair fall, loss of skin integrity and the body
+    becomes susceptible to heart related problems. The risk of death is extremely high
+    in such cases.
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    A famous example of this is&lt;a href="http://www.youtube.com/watch?v=09ckX-Mmdwo"&gt; Karen
+        Carpenter&lt;/a&gt;, a musician (singer and drummer), who went on a water diet to
+    lose weight and “appear attractive” but then the extreme weight loss caused severe
+    complications and lead to heart failure which resulted in her death at 32 years
+    of age.
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;h4&gt;
+    &lt;img src="//rockying.com/art/health/Eating-Disorders/karen_carpenter_anorexia.jpg"
+        title="Karen Karpenter Before And After" alt="" style="width: 600px; height: 284px;"&gt;&lt;/h4&gt;
+&lt;p&gt;
+    &lt;b&gt;Bulimia Nervosa&lt;/b&gt; is a disorder wherein the person indulges in binge eating-
+    eating too much- and then is overcome by extreme guilt and indulges in activities
+    to “shed off” the weight put on due to the binging. This might include excessive
+    exercise, self induced vomiting, excessive use of laxatives to wash away what was
+    taken in.
+    &lt;img src="//rockying.com/art/health/Eating-Disorders/princess-diana.jpg"
+        title="Princess Diana" alt="" style="float: right;" height="222" width="282"&gt;&lt;/p&gt;
+&lt;p&gt;
+    Dancer, singer and reality show (American Idol) judge &lt;a href="http://www.your-bulimia-recovery.com/paula-abdul-bulimia.html"&gt;
+        Paula Abdul&lt;/a&gt; has opened talk about her battle against bulimia. She is the
+    spokesperson for &lt;a href="http://www.nationaleatingdisorders.org/"&gt;National Eating Disorders
+        Association&lt;/a&gt; and usually describes her struggle with the disorder.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+    The late &lt;a href="http://www.dianaforever.com/bulimia.htm"&gt;&lt;b&gt;Princess Diana&lt;/b&gt;&lt;/a&gt;
+    struggled with eating disorder Bulimia and admitted that she used to self-harm herself.
+    Diana also admitted in a television interview that she intentionally cut her arms
+    and legs and had thrown herself down a flight of stairs on more than one occasion.
+    &lt;br&gt;
+    &lt;br&gt;
+    Other celebrities from the Hollywood scene, involved and highly disturbed by this
+    disorder include &lt;b&gt;Lady Gaga&lt;/b&gt;, &lt;b&gt;Elton John&lt;/b&gt;, &lt;b&gt;Jessica Alba&lt;/b&gt;, &lt;b&gt;Jane Fonda&lt;/b&gt;
+    are some names to mention in regard to this.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+    &lt;img src="//rockying.com/art/health/Eating-Disorders/Anushka-Anorexia.jpg"
+        title="Anushka Sharma" alt="" style="width: 400px; float: left;"&gt;At home, Bollywood
+    leading ladies &lt;b&gt;Kareena Kapoor&lt;/b&gt;, &lt;b&gt;Kangana Ranaut&lt;/b&gt; and more recently &lt;b&gt;Anushka
+        Sharma&lt;/b&gt; have been targeted to have been suffering from eating disorders;
+    but then none of them have openly confessed to it.
+    &lt;br&gt;
+    &lt;br&gt;
+    The underlying factors, causes are very complex but yes, one does need to go out
+    and seek help when body images and perceptions about one’s body is totally different.
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;h5&gt;
+    Find out what is healthy and stick to it, indulge in it. You are the change your
+    body sees!
+&lt;/h5&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>169</URL>
+</Article>

@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Most Beautiful Sarees Around The Country</Title>
+  <OGImage>http://www.rockying.com/art/Lifestyle/Fashion/Sarees/jamdani-saree-style-collage.jpg</OGImage>
+  <OGDescription>Rs. 50,00,000 (100,000$) Saree</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>16</Category>
+  <Tag>Sarees, Expensive Sarees, Indian Clothing, Regional Indian Sarees</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Lifestyle/Fashion/Sarees/jamdani-saree-style-collage.jpg' alt='' /&gt;&lt;p&gt;Rs. 50,00,000 (100,000$) Saree&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px;  height:40px;
+            font-size: 50px; font-weight: 100; color: #000; border: none; text-align: center; margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px;height:40px;
+            font-size: 50px; font-weight: 100; color: #000;border: none; text-align: center;margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="slideshow"&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span7"&gt;
+                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/history-saree-collage.jpg"
+                        alt="" style="width: 100%" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span5"&gt;
+                    &lt;p&gt;
+                        Epitome of culture, the saree stands for elegance in Indian Women.&lt;/p&gt;
+                    &lt;p&gt;
+                        Our own creation, the saree is said to be developed both in North and South India
+                        as a garment of its own. From Draupadi to the woman of today, the saree has protected
+                        and glamorized the female wardrobe.
+                    &lt;/p&gt;
+                    &lt;p&gt;
+                        Traced back to the Indus Valley Civilization (2800–1800 BC), the earliest depiction
+                        of the saree is said to be the one worn by a female Indus valley priest wearing
+                        a drape.
+                    &lt;/p&gt;
+                    &lt;p&gt;
+                        The Saree, four to nine yards lengthy, is said to be a perfectly designed garment
+                        to exhibit the female curves in the right places.&lt;/p&gt;
+                    &lt;p&gt;
+                        The types of sarees adorned all around the country are as varied as its cultures,
+                        religions and languages. Rockying (&lt;a href="http://www.facebook.com/rockyingmag"
+                            target="_blank"&gt;Facebook&lt;/a&gt;,&lt;a href="http://www.twitter.com/rockyingmag" target="_blank"&gt;Twitter&lt;/a&gt;)
+                        manages to get lifted by the boundless Indian 'aanchal' to travel through the country,
+                        its colors, arts and textiles. Slide on ladies (and gentlemen)...&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span7"&gt;
+                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/chanderi-saree-style-collage.jpg"
+                        alt="" style="width: 100%" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span5"&gt;
+                    &lt;h3&gt;
+                        THE CENTRAL WAY&lt;/h3&gt;
+                    &lt;h4&gt;
+                        Chanderi Sarees&lt;/h4&gt;
+                    &lt;p&gt;
+                    &lt;/p&gt;
+                    &lt;h5&gt;
+                        Origin&lt;/h5&gt;
+                    &lt;p&gt;
+                        Traditionally woven in the city of Chanderi in Madhya Pradesh, this kind is famous
+                        for its sarees made with mix of silk and cotton.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Price&lt;/h5&gt;
+                    &lt;p&gt;
+                        The more costly ones spot real silver and gold (zari) woven borders costing &lt;b&gt;Rs. 20,000&lt;/b&gt;
+                        or more.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Distinct&lt;/h5&gt;
+                    &lt;p&gt;
+                        Very light weight and simple, this saree is a must have for every woman. Kareena
+                        Kapoor flaunts her simple self in this black Chanderi cotton silk saree. This sure
+                        is a sign of royalty.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span7"&gt;
+                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/maheshwari-saree-style-collage.jpg"
+                        alt="" style="width: 100%" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span5"&gt;
+                    &lt;h4&gt;
+                        Maheshwari Sarees&lt;/h4&gt;
+                    &lt;h5&gt;
+                        Origin&lt;/h5&gt;
+                    &lt;p&gt;
+                        Conceived and designed by Queen Ahilya Bai Holkar herself, Maheshwari were specially
+                        crafted 9-yard sarees to be gifted to royal guests and relatives.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Price&lt;/h5&gt;
+                    &lt;p&gt;
+                        These can be bought for prices between Rs 1500 and Rs 5000.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Design&lt;/h5&gt;
+                    &lt;p&gt;
+                        The designs used on these sarees were said to be inspired by drawings on the Maheshwari
+                        fort walls. The ‘Chatai’ (Mat) pattern, ‘Chameli ka phool’ (chameli flower) pattern,
+                        the ‘Eent’ (Brick) pattern and the ‘Heera’ (Diamond) pattern are a few popular designs
+                        used in these sarees. &lt;b&gt;Distinctive in its five-stripes pallu style&lt;/b&gt;, the Maheshwari
+                        Saree re-defines neatness.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span7"&gt;
+                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/tussar-saree-style-collage.jpg"
+                        alt="" style="width: 100%" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span5"&gt;
+                    &lt;h4&gt;
+                        Kosa/Tussar Silk&lt;/h4&gt;
+                    &lt;h5&gt;
+                        Origin&lt;/h5&gt;
+                    &lt;p&gt;
+                        Known for its comfort all around the world, Kosa silk is mainly produced in Jharkhand,
+                        Bihar, Chhattisgarh and Madhya Pradesh.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Fabric&lt;/h5&gt;
+                    &lt;p&gt;
+                        Made from a thread produced by a worm similar to the silk worm, kosa is obtained
+                        naturally in shades of cream, honey, beige, yellow and ash, and is extracted from
+                        cocoons specially grown on Arjun and Sal trees.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Price&lt;/h5&gt;
+                    &lt;p&gt;
+                        This extremely comfy fabric comes at a cost that depends upon the purity of silk,
+                        handwork and accessories used on it. Can be bought for prices starting from Rs 1500
+                        to Rs 20, 000 and above.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span7"&gt;
+                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/Sambalpuri-saree-style-collage.jpg"
+                        alt="" style="width: 100%" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span5"&gt;
+                    &lt;h4&gt;
+                        Sambalpuri&lt;/h4&gt;
+                    &lt;h5&gt;
+                        Origin&lt;/h5&gt;
+                    &lt;p&gt;
+                        This traditional hand-woven Ikkat (Tie and Dye) Sari is mainly produced in Orissa.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Distinct&lt;/h5&gt;
+                    &lt;p&gt;
+                        Known for its incorporation of conventional motifs like shankha (shell), chakra
+                        (wheel) and phool (flower),&lt;b&gt;the high point of this saree remains its craftsmanship
+                            of ‘Bandhakala’&lt;/b&gt;, the Tie-Dye art reverberated in its complex weaving. To
+                        our surprise, the &lt;b&gt;tie and dye is performed on threads and then later woven into a
+                            fabric. Phew!&lt;/b&gt;
+                    &lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span12" style="text-align: center;"&gt;
+                    &lt;h3&gt;
+                        EAST IS EAST&lt;/h3&gt;
+                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/jamdani-saree-style-collage.jpg"
+                        alt="" /&gt;
+                    &lt;h4&gt;
+                        Jamdani Sarees&lt;/h4&gt;
+                    &lt;h5&gt;
+                        Origin&lt;/h5&gt;
+                    &lt;p&gt;
+                        Historically referred to as muslin, the Jamdani weaving custom originates in Bengal.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Price&lt;/h5&gt;
+                    &lt;p&gt;
+                        This handloom woven fabric made of fine, pure cotton is a bit of an expensive affair.
+                        In 1903, when a silk saree cost as little as Rs. 5, a Jamdani costed 500 rupees.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Distinct&lt;/h5&gt;
+                    &lt;p&gt;
+                        Trendy and classy, Jamdani is majorly sought after by fashionable professional women.
+                        Elegance woven, is what we call it!&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span7"&gt;
+                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/kantha-saree-style-Collage.jpg"
+                        alt="" style="width: 100%" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span5"&gt;
+                    &lt;h4&gt;
+                        Kantha Sarees&lt;/h4&gt;
+                    &lt;p&gt;
+                    &lt;/p&gt;
+                    &lt;h5&gt;
+                        Origin&lt;/h5&gt;
+                    &lt;p&gt;
+                        Traditional art of a few thousand years ago, Kantha literally means ‘quilt’ in Bengali.
+                        This ‘Quilt Art’ (popularly known as Nakshi Kantha) of Bengal, is patterned running
+                        stitching that covers the entire surface of a piece.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Distinct&lt;/h5&gt;
+                    &lt;p&gt;
+                        Stunningly beautiful portrayal of real life on fabric, no Kantha piece is ever repeated.
+                        Bong girl Raima walks the ramp in this sizzling red Kantha saree. Homage in style!&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span7"&gt;
+                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/Baluchari-saree-style-Collage.jpg"
+                        alt="" style="width: 100%" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span5"&gt;
+                    &lt;h4&gt;
+                        Baluchari Sarees&lt;/h4&gt;
+                    &lt;h5&gt;
+                        Origin&lt;/h5&gt;
+                    &lt;p&gt;
+                        Popularly known for its embroidery style of human figures, this saree originates
+                        in West Bengal.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Distinct&lt;/h5&gt;
+                    &lt;p&gt;
+                        The body is entirely covered with small butis and a beautiful floral design runs
+                        across the edges. The pallu carries detailed designs depicting narrative motifs,
+                        such as those of Radha-Krishna.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span7"&gt;
+                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/tangail-saree-style-collage.jpg"
+                        alt="" style="width: 100%" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span5"&gt;
+                    &lt;h4&gt;
+                        Tangail Saree&lt;/h4&gt;
+                    &lt;h5&gt;
+                        Design/Fabric&lt;/h5&gt;
+                    &lt;p&gt;
+                        Based on the Jamdani weaving styles, Tangail is an opaque and heavier saree made
+                        of both cotton and silk fabrics. Cautiously weaved patterns in this saree give out
+                        an embroidered effect. Uniformly textured, Tangail has extra warp in the border.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Origin&lt;/h5&gt;
+                    &lt;p&gt;
+                        Coming from the villages of West Bengal, Tangail is very popular in east India.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Price&lt;/h5&gt;
+                    &lt;p&gt;
+                        The total turnover of Tangail saris exceeds Rs.15crores per annum in a price range
+                        of Rs. 100 to Rs. 1500 and above.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span7"&gt;
+                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/Mekhla-Collage.jpg"
+                        alt="" style="width: 100%" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span5"&gt;
+                    &lt;h4&gt;
+                        Mekhela Chador&lt;/h4&gt;
+                    &lt;h5&gt;
+                        Origin&lt;/h5&gt;
+                    &lt;p&gt;
+                        Popularly known as ‘Mekhela Chador’ , Mekhla is the traditional attire of Assamese
+                        women.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Distinct&lt;/h5&gt;
+                    &lt;p&gt;
+                        Assam receives a geographical indication due to its production of Muga silk. The
+                        Muga silk fabric cannot be dyed or bleached and is worn in its natural golden color.
+                        The fabric can be hand-washed and is said to gain lustre after every wash. It is
+                        also believed that the fabric is so durable that it often lasts longer than its
+                        owner.&lt;/p&gt;
+                    &lt;p&gt;
+                        This is a silk saree that doesn’t need dry cleaning. Yay!&lt;/p&gt;
+                    &lt;h5&gt;
+                        Fabric
+                    &lt;/h5&gt;
+                    &lt;p&gt;
+                        These are made in cotton and silk fabrics. Assam silk refers to three kinds of silks:
+                        Muga, Pat and Eri. Muga being the most famous for its glossy fine texture and durability.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Price&lt;/h5&gt;
+                    &lt;p&gt;
+                        The cotton ones can be bought for Rs. 500 and above the silk ones would cost Rs.
+                        1000 and above.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span7"&gt;
+                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/Bandhni-saree-style-Collage.jpg"
+                        alt="" style="width: 100%" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span5"&gt;
+                    &lt;h3&gt;
+                        Western Style&lt;/h3&gt;
+                    &lt;h4&gt;
+                        Bandhni Sarees&lt;/h4&gt;
+                    &lt;h5&gt;
+                        Origin&lt;/h5&gt;
+                    &lt;p&gt;
+                        Bandhni is the most popular form of tie and dye practiced mainly in Rajasthan and
+                        Gujarat.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Distinct&lt;/h5&gt;
+                    &lt;p&gt;
+                        Use of only dark colors and mostly red and black backgrounds, is peculiar to this
+                        style of tie and dye. Millions of tiny knots called ‘Bheendi’ are tied to give out
+                        a beauty as this.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Price&lt;/h5&gt;
+                    &lt;p&gt;
+                        The saree ranges between Rs. 50- Rs. 20,000 and above.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span7"&gt;
+                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/kota-doria-saree-style-Collage.jpg"
+                        alt="" style="width: 100%" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span5"&gt;
+                    &lt;h4&gt;
+                        Kota Doria Sarees&lt;/h4&gt;
+                    &lt;h5&gt;
+                        Origin&lt;/h5&gt;
+                    &lt;p&gt;
+                        Still popularly known as ‘Masuria’ due to its Mysore origin, Kota Doria is mainly
+                        produced at Kota, Rajasthan. These sarees are also made in Mau and nearby areas
+                        of Uttar Pradesh.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Design/Fabric&lt;/h5&gt;
+                    &lt;p&gt;
+                        Doria meaning thread, Kota sarees made of pure cotton and silk, have thousands of
+                        square patterns called ‘Khats’ on them.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Distinct&lt;/h5&gt;
+                    &lt;p&gt;
+                        Perfect for Indian summers, Kota is synonymous with style and comfort. Longing for
+                        one, Eh?&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span7"&gt;
+                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/nauvaree-saree-style-Collage.jpg"
+                        alt="" style="width: 100%" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span5"&gt;
+                    &lt;h4&gt;
+                        Lugade Sarees&lt;/h4&gt;
+                    &lt;h5&gt;
+                        Origin&lt;/h5&gt;
+                    &lt;p&gt;
+                        Popularly referred to as ‘Nauvari’ in Marathi, this saree is the secret desire of
+                        every Maharashtrian lass.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Distinct&lt;/h5&gt;
+                    &lt;p&gt;
+                        Worn like a dhoti, Lugade is extremely difficult to put on. Hence the novel concept
+                        of a “readymade Nauvari saree” became an instant hit. Go grab one for that sexy
+                        Nauvari look!&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span7"&gt;
+                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/paithani-saree-style-collage.jpg"
+                        alt="" style="width: 100%" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span5"&gt;
+                    &lt;h4&gt;
+                        Paithani Sarees&lt;/h4&gt;
+                    &lt;h5&gt;
+                        Origin&lt;/h5&gt;
+                    &lt;p&gt;
+                        This fine silk saree is named after the Paithan town in Aurangabad, Maharashtra
+                        state.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Design&lt;/h5&gt;
+                    &lt;p&gt;
+                        Characterized by borders of an oblique square design and a pallu with a peacock
+                        design, Paithani is known for its intricate weave of pure silk and gold.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Distinct&lt;/h5&gt;
+                    &lt;p&gt;
+                        Demanding a preparation time ranging from a month to years, this saree uses zari
+                        exclusively procured from Surat (Gujarat). Given the time and material required,
+                        this is a rather expensive apparel to afford.&lt;/p&gt;
+                    &lt;h5&gt;
+                        The most expensive sarees known, these are available at prices ranging from Rs.
+                        4000- Rs. 50, 00,000. Big-ticket? Yeah!&lt;/h5&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span7"&gt;
+                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/banarsi-saree-style-collage.jpg"
+                        alt="" style="width: 100%" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span5"&gt;
+                    &lt;h3&gt;
+                        UP NORTH&lt;/h3&gt;
+                    &lt;h4&gt;
+                        Banarsi Sarees&lt;/h4&gt;
+                    &lt;h5&gt;
+                        Distinct&lt;/h5&gt;
+                    &lt;p&gt;
+                        One of the finest saris in India, Banarsi is known for its &lt;b&gt;gold and silver brocade&lt;/b&gt;
+                        or zari, fine silk and grand embroidery.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Origin/Fabric&lt;/h5&gt;
+                    &lt;p&gt;
+                        Originating in the Varanasi district of Uttar Pradesh, there are four main varieties
+                        of Banarsi sarees based on the fabric used-Pure Silk (Katan), Organza (Kora), Georgette
+                        and Shattir.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Design/Price&lt;/h5&gt;
+                    &lt;p&gt;
+                        Jangla, tanchui, Vaskat, Cutwork, Tissue and butidar are the many designs of Banarsi
+                        sarees ranging from Rs. 1000 to Rs. 3,40,000 and above.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span7"&gt;
+                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/shalu-saree-style-collage.jpg"
+                        alt="" style="width: 100%" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span5"&gt;
+                    &lt;h4&gt;
+                        Shalu Sarees&lt;/h4&gt;
+                    &lt;p&gt;
+                        A regional variant of the banarsi saree, the Shalu is mainly worn and gifted in
+                        weddings.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Distinct&lt;/h5&gt;
+                    &lt;p&gt;
+                        Too heavy to be worn casually, this saree marks the heaviest brocade work executed
+                        on dark shade fabrics like red and maroon best suited for weddings.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span7"&gt;
+                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/chikan-saree-style-collage.jpg"
+                        alt="" style="width: 100%" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span5"&gt;
+                    &lt;h4&gt;
+                        Chikankari&lt;/h4&gt;
+                    &lt;h5&gt;
+                        Origin&lt;/h5&gt;
+                    &lt;p&gt;
+                        Believed to have been premised by Nur Jahan, Mughal emperor Jahangir’s wife, Chikan
+                        literally means embroidery. Derived from the Persian word ‘Chakin’ meaning a cloth
+                        wrought with needle work, Chikan was basically invented in Lucknow.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Fabric/Design&lt;/h5&gt;
+                    &lt;p&gt;
+                        Performed mainly on cotton, georgette and silk fabrics, Chikankari is carried out
+                        with block printing patterns on the ground fabric, then stitched by the embroiderer
+                        and later washed to remove traces of the print.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span7"&gt;
+                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/kalamkari-saree-style-Collage2.jpg"
+                        alt="" style="width: 100%" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span5"&gt;
+                    &lt;h3&gt;
+                        DOWN SOUTH&lt;/h3&gt;
+                    &lt;h4&gt;
+                        Kalamkaari&lt;/h4&gt;
+                    &lt;h5&gt;
+                        Origin&lt;/h5&gt;
+                    &lt;p&gt;
+                        ‘Kalam’ meaning pen and ‘Kari’ meaning work, Kalam-kari the 3000-year-old traditional
+                        craft of Andhra Pradesh, originated from Srikalahasti and Machilipatnam.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Distinct&lt;/h5&gt;
+                    &lt;p&gt;
+                        The Srikalahasti style, drawing inspiration from temples and Hindu mythologies,
+                        involves graphics using the pen alone. The second (Machilipatnam) has a distinct
+                        Islamic influence involving work with the pen as well as engraved wooded blocks.&lt;/p&gt;
+                    &lt;p&gt;
+                        While the former style has flourished with the villages developed into a craftsmen’s
+                        hub, the Machilipatnam tradition lags behind and the future of this Islamic style
+                        of the art looks dark.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span7"&gt;
+                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/kanchivaram-saree-style-collage.jpg"
+                        alt="" style="width: 100%" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span5"&gt;
+                    &lt;h4&gt;
+                        Kanjivaram Sarees&lt;/h4&gt;
+                    &lt;h5&gt;
+                        Origin&lt;/h5&gt;
+                    &lt;p&gt;
+                        Traditionally made by weavers from Kanchipuram located in Tamil Nadu, Kanjivaram
+                        sarees are woven naturally and are considered to be of the highest quality among
+                        saris.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Distinct&lt;/h5&gt;
+                    &lt;p&gt;
+                        Kanjivaram is differentiated by its wide contrast borders.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Price&lt;/h5&gt;
+                    &lt;p&gt;
+                        These can cost anywhere between Rs 2500 to Rs. 1,00,000 or more depending on the
+                        intricacy of work and material used.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span7"&gt;
+                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/mundum-saree-style-collage.jpg"
+                        alt="" style="width: 100%" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span5"&gt;
+                    &lt;h4&gt;
+                        Mundum Neriyathum Sarees&lt;/h4&gt;
+                    &lt;h5&gt;
+                        Origin&lt;/h5&gt;
+                    &lt;p&gt;
+                        Traditional clothing of women in Kerala, Mundum is the oldest remnant of the ancient
+                        form of the saree that covered only the lower part of the body.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Distinct&lt;/h5&gt;
+                    &lt;p&gt;
+                        It can be worn in either the traditional style (left) with the neriyathu tucked
+                        inside the blouse, or in the modern style (right) with the neriyathu worn over the
+                        left shoulder. White or cream in color, this saree consists of two pieces of cloth.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span7"&gt;
+                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/venkat-saree-style-collage.jpg"
+                        alt="" style="width: 100%" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span5"&gt;
+                    &lt;h4&gt;
+                        Venkatagiri Sarees&lt;/h4&gt;
+                    &lt;h5&gt;
+                        Origin&lt;/h5&gt;
+                    &lt;p&gt;
+                        Developed from Venkatagiri in Nellore district of Andhra Pradesh, these sarees have
+                        refined forms of gold all over.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Design/Fabric&lt;/h5&gt;
+                    &lt;p&gt;
+                        Woven in Jamdani style these sarees are available in cotton and silk.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Distinct&lt;/h5&gt;
+                    &lt;p&gt;
+                        Bright Venkatagiri sarees have pleasant colors with ornamental golden zari butis,
+                        leaves, parrots or simple geometrical designs.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Price&lt;/h5&gt;
+                    &lt;p&gt;
+                        Affordable sarees at Rs. 300 - Rs. 15000.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span7"&gt;
+                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/Pochampally-saree-style-Collage.jpg"
+                        alt="" style="width: 100%" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span5"&gt;
+                    &lt;h4&gt;
+                        Pochampally Sarees&lt;/h4&gt;
+                    &lt;p&gt;
+                        Newly married Aishwarya Rai dons a sico Pochampally saree. Gorgeous Indian beauty!&lt;/p&gt;
+                    &lt;h5&gt;
+                        Origin&lt;/h5&gt;
+                    &lt;p&gt;
+                        Pochampally, a place in the Nalgonda district of Andhra Pradesh, is known for its
+                        art of weaving, the tie and dye, popularly called the Ikkat.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Fabric&lt;/h5&gt;
+                    &lt;p&gt;
+                        Ikkat is performed on cotton, silk and sico (a mix of silk and cotton) fabrics.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Distinct&lt;/h5&gt;
+                    &lt;p&gt;
+                        The uniqueness lies in the transfer of design and coloring onto threads first and
+                        then weaving them together. The best part is the use of colors from natural resources
+                        and their blends. Wow! Perfectly natural!&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span7"&gt;
+                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/balarampuram-saree-style-Collage.jpg"
+                        alt="" style="width: 100%" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span5"&gt;
+                    &lt;h4&gt;
+                        Balarampuram Sarees&lt;/h4&gt;
+                    &lt;h5&gt;
+                        Origin&lt;/h5&gt;
+                    &lt;p&gt;
+                        Balarampuram, a small town in Thiruvananthapuram district of Kerala, famous for
+                        its unparalleled craftsmanship is an ideal heirloom.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Distinct&lt;/h5&gt;
+                    &lt;p&gt;
+                        The first handloom product in Kerala to receive the Intellectual Property Rights
+                        (IPR) protection through Geographical Indications Act (GI Act), the Balarampuram
+                        have weavers using a primitive type of throw-shuttle pit looms for the production
+                        of exclusively cotton fabrics with pure zari.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Price&lt;/h5&gt;
+                    &lt;p&gt;
+                        These zari sarees can be bought for Rs 2000 and above.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="span7"&gt;
+                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/Mysore-saree-style-Collage.jpg"
+                        alt="" style="width: 100%" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span5"&gt;
+                    &lt;h4&gt;
+                        Mysore Silk Sarees&lt;/h4&gt;
+                    &lt;h5&gt;
+                        Origin&lt;/h5&gt;
+                    &lt;p&gt;
+                        Known worldwide for its soft texture, Mysore Silk Saree takes its name from the
+                        city of Mysore in the state of Karnataka.&lt;/p&gt;
+                    &lt;h5&gt;
+                        Distinct&lt;/h5&gt;
+                    &lt;p&gt;
+                        Purest and finest in the country, the Mysore Silk is loved for its unique sheen
+                        and regal look. Sarees made out of these top the list of best South Silks popular
+                        in India. &lt;b&gt;The high-point of this saree is its availability also in scented flavors.
+                            Fragrant fabrics exported from Japan are weaved into extremely gorgeous sarees like
+                            this. What’s your scent, woman?&lt;/b&gt;&lt;/p&gt;
+                    &lt;h5&gt;
+                        Price&lt;/h5&gt;
+                    &lt;p&gt;
+                        Rs. 1300- Rs. 50,000 and above.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <WriterName>Preeti Singh</WriterName>
+  <WriterEmail>preeti.singh@rudrasofttech.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+</Article>

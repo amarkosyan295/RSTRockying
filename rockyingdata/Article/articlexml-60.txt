@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>60</ID>
+  <Title>Cult Classics Of Bollywood-I</Title>
+  <MetaTitle>Cult Classics Of Bollywood-I</MetaTitle>
+  <OGImage>//www.rockying.com/art/Cults/Do_Bigha_Zameen.jpg</OGImage>
+  <OGDescription>When it comes to understanding Bollywood classics, it is about sheer cinematic brilliance, path breaking dialogues, black and white settings, an angry dad smoking a pipe, too much of glycerin outpour and stagnant melodrama...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Cult Classics, Old Is Gold</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Cults/Do_Bigha_Zameen.jpg' alt='' /&gt;&lt;p&gt;When it comes to understanding Bollywood classics, it is about sheer cinematic brilliance, path breaking dialogues, black and white settings, an angry dad smoking a pipe, too much of glycerin outpour and stagnant melodrama...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    &lt;b&gt;Bhooli Bisri Sunehri Yaadein...&lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    When it comes to understanding Bollywood classics, it is about sheer cinematic brilliance,
+    path breaking dialogues, black and white settings, an angry dad smoking a pipe,
+    too much of glycerin outpour and stagnant melodrama. Let us understand the Age.
+    We had not yet seen Madhuri’s dhak dhak, and Karishma’s jalwa. Cinema was developing
+    and Raj Kapoor was the only star we knew of besides Saira Banu, Dev Anand, Mumtaz
+    and Ashok Kumar. Let us retrace some timeless sagas of Bollywood at a glance:&lt;/p&gt;
+&lt;ol class="unstyled"&gt;
+    &lt;li&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/Cults/Kismet.jpg" title="Kismet 1943"
+                alt="" style="max-height: 140px;" class="pull-right" /&gt;
+            &lt;img src="//rockying.com/art/Cults/220px-Kismet1943film.jpg" title="Kismet 1943"
+                alt="" style="max-height: 210px;" class="pull-left" /&gt;&lt;b&gt;Bombay Talkies’ Kismet
+            &lt;/b&gt;(&lt;i&gt;1943&lt;/i&gt;) was a &lt;b&gt;Gyan Mukherjee&lt;/b&gt; directed film that was construed as
+            a thematically bold film and brought out our sadda villain in fashion. Indian films
+            made before this film generated sympathy, but Kismet evoked apathy in the Indian
+            audience- a feeling that we were not acquainted with. This cinema shook the audience
+            with its first unmarried woman character who was shown pregnant. If you are actually
+            hungry for more, hear this out. This was also the first film ever made that incorporated
+            the possibility of a double role! Do you have any idea how much money did this film
+            make way back in the 20th century? Close to 63 crores!!!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;b&gt;Mehboob Khan’s Andaz&lt;/b&gt;
+            &lt;img src="//rockying.com/art/Cults/Andaz%20%281%29.jpg" title="Nargis and Raj Kapoor in Andaz"
+                alt="" style="max-width: 300px;" class="pull-left" /&gt;&lt;img src="//rockying.com/art/Cults/Andaz.jpg" title="Dilip Kumar and Nargis In Andaz"
+                alt="" style="max-width: 250px;" class="pull-right" /&gt;(&lt;i&gt;1949&lt;/i&gt;) stars &lt;b&gt;Raj Kapoor
+                    and Dilip Kumar&lt;/b&gt;—the two eminent actors of Bollywood who came together
+            for their only film ever. They formed the perfect love triangle ever with Nargis.
+            The 20-year old &lt;b&gt;Nargis&lt;/b&gt; in this film inevitably reminds us of Audrey Hepburn
+            in Roman Holiday. A delicately woven love story, the lady is rich and questions the age-old question – if at all a woman can
+            stay friends male counterparts. The film drips with the nouveau rich depiction where
+            Nargis is shown to go for horse riding in Jodhpur, this film portray men in total
+            megalomaniac modes. If you want to feel totally wounded by cupid, here is a must-watch
+            for you!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/Cults/Mahal.jpg" title="Madhubala In Mahal"
+                alt="" style="max-width: 300px;" class="pull-right" /&gt;
+            Remember, Ek Teer Chalaa Dil pe Lagaa? &lt;b&gt;Mahal (1949)&lt;/b&gt; made &lt;b&gt;Ashok Kumar &lt;/b&gt;
+            and&lt;b&gt; Madhubala &lt;/b&gt;the hottest pair of the 20th century. The king of supernatural
+            suspense that still sends down thrills down one’s spine, this is all about reincarnation.
+            This film is supposedly said to have put world cinema into motion with this new
+            concept. The Reincarnation of peter Proud is an influence of Mahal. This is what
+            Bollywood is all about. It can surprise you in the most unimaginable ways!
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/Cults/RajKapoorNargisAwara05.jpg"
+                title="Raj Kapoor and Nargis in Awara" alt="" style="max-width: 300px;" class="pull-left" /&gt;
+            We are talking about an immortal classic here, &lt;b&gt;Awara (1951&lt;/b&gt;). This film is
+            a close cropped view on the black and white era when the Kapoor’s make Bollywood
+            cinema worth an experience. The plot revolves around the classic good-wins-over-evil
+            and the evil will never change its ways. Jagga who is convicted by the wealthy judge
+            Raghunath goes on to kidnap the judge’s wife Leela for revenge rolling the movie
+            into motion. Raj, her son also turns into a criminal due to unfortunate circumstances
+            and turns to Jagga as his Guru. The former tries to quit the world of crime but
+            fails umpteen number of times thereby making the story highly cathartic. Nominated
+            for the Cannes way back in 1953 and remade into a Turkish film, this film has won
+            many hearts in the entire Indian subcontinent and abroad in countries such as Africa,
+            Middle East and Soviet Union!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/Cults/Do_Bigha_Zameen.jpg" title="Nirupa Roy and Balraj Sahnii In Do Bigha Zameen"
+                alt="" style="max-width: 300px;" class="pull-right" /&gt;
+            You sure don't wish to get introduced to &lt;b&gt;Bimal Roy’s Do Bigha&lt;/b&gt;&lt;b&gt; Zameen&lt;/b&gt;&lt;b&gt;
+                (1953)&lt;/b&gt;, gone beyond success and gave the cinema culture in India a new turn.
+            It won the Cannes Award and also won the Filmfare award. Do you know where this
+            film got its title from? Tagore’s poem – ‘Dui Bigha jomin’. After this, Indian cinema
+            never remained the same. Aping Vittorio de Sica’s Bicycle Thieves, the plot is set
+            in a drab village on the verge of famine. Shambhu (&lt;b&gt;Balraj Sahni&lt;/b&gt;), the central
+            protagonist owns two bighas, as goes the title, on which a wealthy constructor wants
+            to setup a mill to make profit. This land being the only livelihood of Shambhu,
+            he refuses. Later he ends up losing the legal dispute as well. The movie comes to
+            a climax when Shambhu returns to his village to see the construction has begun and
+            they silently walk away from their do bigha zamin.&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+&lt;h6&gt;
+    Did the black and white colors of bollywood not mesmerise you? Read on to know more
+    about the Golden Era of bollywood. Rockying does a whole series on the cult classics.
+    &lt;a href="http://www.rockying.com/a/75"&gt;Cult Classics-II&lt;/a&gt; comes next.
+&lt;/h6&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>60</URL>
+</Article>

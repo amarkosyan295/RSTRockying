@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>iRUYfxnHnYYzQpTHDle</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>Slfi8o</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>14</Category>
+  <Tag>oyJvB</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;Slfi8o&lt;/p&gt;</Description>
+  <Text>How do I get an outside line? http://xnxx.promo/ xnxl  &amp;quot;Studies have shown that 36% of pregnant women with asthma have a severe exacerbation requiring medical intervention and approximately 5.8% are hospitalised for asthma exacerbations,&amp;quot; the doctors explained.</Text>
+  <WriterName>Wu71Q</WriterName>
+  <WriterEmail>rodneyxjo@lycos.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>iruyfxnhnyyzqpthdle</URL>
+</Article>

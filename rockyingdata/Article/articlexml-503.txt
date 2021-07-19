@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>RiILNuZefb</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>svhjS</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Us8t7N</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;svhjS&lt;/p&gt;</Description>
+  <Text>Where&amp;#39;s the nearest cash machine? http://al4a.fun/ al4  The LifeBag system from Snowpulse, now owned by Mammut, works in a similar way to a life vest used in water. The 150-litre airbag is built into the shoulders of the backpack. It&amp;amp;rsquo;s designed to keep you on your back with your head out of the snow, but also offer protection to the head, neck and chest. Mammut now also produces the compact Removable Airbag System (RAS), which helped the company scoop the award for Best Safety Kit Manufacturer at the World Snow Awards. This can be bought separately (&amp;#163;425) and transferred to any RAS-ready backpack.</Text>
+  <WriterName>h2oKix</WriterName>
+  <WriterEmail>brendan9e@aol.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>riilnuzefb</URL>
+</Article>

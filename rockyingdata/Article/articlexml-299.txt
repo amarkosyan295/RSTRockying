@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>The 3 Day Juice Cleanse – I Tried it and Lived to Tell the Tale</Title>
+  <OGImage>http://www.rockying.com/art/health/Juice-Cleanse/Juice-Cleanse-Tale.jpg</OGImage>
+  <OGDescription>Before all you folks out there think, I’m a fitness or nutrition freak; let’s get this in the right perspective. The snag was that I am not really the kind who...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Juice Cleanse, Vegan Diet, Organic Living, Fitness, Nutrition, Health Management, 3-Day Juice Cleanse.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/health/Juice-Cleanse/Juice-Cleanse-Tale.jpg' alt='' /&gt;&lt;p&gt;Before all you folks out there think, I’m a fitness or nutrition freak; let’s get this in the right perspective. The snag was that I am not really the kind who...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;img src="http://www.rockying.com/art/health/Juice-Cleanse/Juicing.jpg" class="pull-right" /&gt;
+Celebrities will be celebrities and fans and groupies will follow every one of their fads blindly. I do not belong to either category, but kept reading about how Gwyneth Paltrow, Beyonce, Miranda Kerr, Joe Cross and a host of other celebrities were celebrating their newly-found health mantra- the Juice Cleanse. And for all those who must have a branded product- the branded version of the 3-Day Juice cleanse is called the Blue Print Cleanse. 
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h2&gt;RESEARCH TIME&lt;/h2&gt;
+&lt;p&gt;I scoured the Web, and researched and read and thought to myself- “If all these beautiful people can do this, I can too!” Before all you folks out there think, I’m a fitness or nutrition freak; let’s get this in the right perspective. The snag was that I am not really the kind who would pass up the barbecued snags just because my friends were nagging me about losing my love handles. I’m just your regular Joe who likes his lamb roast and baked potatoes, lamingtons and fish and chips as much as any other true-blooded Aussie out there. 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2&gt;GOING ORGANIC&lt;/h2&gt;
+&lt;p&gt;
+But somewhere at the back of my food-cloaked mind, I really wanted to be healthy and get rid of my bad habits and decided to give the Juice Cleanse a shot. I pulled up my socks, took a deep breath and ambled into the neighbor hood organic fruit &amp; veggie store to stock up on all the raw oh-my-goodness and dusted the cobwebs off the hitherto forlorn and unused juicer in my kitchen. 
+&lt;/p&gt;
+&lt;p&gt;
+To make life a little easier- I also went online and ordered a crateful of organic juices. Just in case I found an excuse not to juice up something fresh. Believe it or not- I actually made a little pep-me-up banner and stuck on my fridge. It read – Don’t panic- it’s all organic!!! 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;h2&gt;Day 1 Dawned-&lt;/h2&gt;
+&lt;p&gt;I was excited. I had been told that I have to go easy on food for a week before embarking upon the Juice Cleanse, and I had cold-shouldered all the goodies for 7 days. I had started getting a little hangry and was irritated that I hadn’t eaten a decent satisfying meal for a week. But I was determined. 
+&lt;/p&gt;
+&lt;p&gt;
+Most of the juices were kale, ginger, romaine and lemon- every single one was delicious, but the first day was a harrowing nightmare. I had a headache and felt woozy and at the end of the day was ready to eat up the jar of eye cream that was lying around, but I persisted. 
+&lt;/p&gt;
+&lt;h2&gt;Day 2 Sort of Dawns-&lt;/h2&gt;
+&lt;p&gt;
+This day was no better, I still felt de-focused when I got out of bed but as the day progressed and I glugged my way through apple, cashew and cayenne pepper spiked  cold-pressed juices, I felt some semblance of sanity seeping into my veins. And I knew by 5pm on Day 2 that I was not going to give up. I did not want to cave, as that would mean sure failure. Night crept in and I got hungrier and hungrier. I noticed a salad sitting tantalizingly on one of the refrigerator shelves. It beckoned me, I melted and I buckled and devoured the whole thing standing right there.
+&lt;/p&gt;
+&lt;h2&gt;Day 3 Dons a New Garb-&lt;/h2&gt;
+&lt;p&gt;
+I wake up feeling triumphant and 2/3rd of the Juice Cleanse is done. One more day and victory and the 7lbs loss will be mine. I’m more enthusiastic today and much more comfortable with my juicy-self. I’m less irritable, feeling lighter (that’s not really a wonder since the only solid food I’ve eaten in over 48 hrs is that bowlful of salad). 
+&lt;/p&gt;
+&lt;p&gt;
+I had cheated, but today my energy-levels seemed fine and my hunger was manageable. And so, I breezed through the day with only these organic juice breezers streaming their way through my 2/3rd-cleansed digestive system. Confession- I cheated again today and had another large bowlful of salad. 
+&lt;/p&gt;
+&lt;li&gt;
+&lt;h2&gt;THE TRIBULATIONS &amp; THE TRIUMPH &lt;/h2&gt;
+&lt;img src="http://www.rockying.com/art/health/Juice-Cleanse/Juice-Cleanse-Tale.jpg" class="pull-right" style="width: 400px; float:left;"/&gt;
+&lt;p&gt;Despite all my infidelities with food, I believe that my 3-Day Juice Cleanse was an overall success. My cravings turned over a new leaf. Today, as a habit, I have switched from my customary morning coffee to a green juice and my energy levels are 10X higher. I am able to pass up the Tim Tams and the John Dory fillets – which makes me feel triumphant and powerful. 
+&lt;/p&gt;
+&lt;p&gt;
+Ah, and yes- the statistics, for those who care. I did not lose the stipulated 7 lbs but here’s the surprise- at the end of the Juice Cleanse, my weighing scale stood 5lbs below what it did, three days ago. Now, that’s what I call a measurable loss and an immeasurable gain!
+&lt;/p&gt;</Text>
+  <WriterName>Priti Desai</WriterName>
+  <WriterEmail>pdes17@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+</Article>

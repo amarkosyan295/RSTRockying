@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>mhGYPxUKecS</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>JZ3nIi</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>13</Category>
+  <Tag>ZXiqD</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;JZ3nIi&lt;/p&gt;</Description>
+  <Text>Hold the line, please http://egotastic.in.net/ egotastic all-stars photos  The life of an offensive play-caller, of course, is filled with second-guessing. Mornhinweg&amp;#226;s penchant for passing has been successful. He has finished with a top 10 offense in eight of his previous 11 years as a play-caller, so there&amp;#226;s plenty of reason to believe that he will figure out the most effective way to use Ivory, who has the skill set to be a valuable asset in any offensive system.</Text>
+  <WriterName>N53Hq</WriterName>
+  <WriterEmail>flyman@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>mhgypxukecs</URL>
+</Article>

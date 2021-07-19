@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>80</ID>
+  <Title>Just 60 Minutes To Save The Earth?</Title>
+  <MetaTitle>Read this if you want to save the Earth. Earth Day or not! </MetaTitle>
+  <OGImage>//rockying.com/art/Initiative/Earth%20HOur/Switch_off_Earth_hour.jpg</OGImage>
+  <OGDescription>We put some “light” on the issue. 31st March, 2012 is the last Saturday of March or officially The Earth Hour.  Besides switching off for an hour, we suggest some ways in which we all can help save the planet...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>20</Category>
+  <Tag>The Earth Hour, Be Eco Friendly, Tips to stay environment friendly</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/Initiative/Earth%20HOur/Switch_off_Earth_hour.jpg' alt='' /&gt;&lt;p&gt;We put some “light” on the issue. 31st March, 2012 is the last Saturday of March or officially The Earth Hour.  Besides switching off for an hour, we suggest some ways in which we all can help save the planet...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    What
+    &lt;img src="//rockying.com/art/Initiative/Earth%20HOur/earth_hour_parody.jpg"
+        title="The Earth Hour" alt="" style="float: left; height: 300px;"&gt;
+    are you planning on the 31st of March between 8:30 PM to 9:30 PM local time? Well,
+    for those of you who are a little unaware of why we are asking this; we put some
+    “light” on the issue. 31st March, 2012 is the last Saturday of March or officially
+    &lt;a href="http://www.earthhour.org/"&gt;The Earth Hour&lt;/a&gt;. Earth Hour was conceived
+    in 2007 by WWF (World Wide Fund for Nature), Australia, when 2.2 million people
+    of Sydney were asked to switch off lights for an hour to help save the planet and
+    highlight the importance of switching off to reduce global warming. Since then,
+    every year, people across the world switch off lights for an hour during the designated
+    time to show their contribution to the cause. Besides people, every major monument
+    has their lights switched off during Earth Hour. Some of them include The Twin PETRONAS,
+    Sydney Harbor, India Gate, and The Sky Tower to name a few.
+&lt;/p&gt;
+&lt;p&gt;
+    Besides switching off for an hour, we suggest some ways in which we all can help
+    save the planet. Though Earth Hour has huge impacts, a well thought habit of saving,
+    reusing and being eco-friendly is what is needed to help save the planet. Here’s
+    some easy ways in which we can save the planet we live in:&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            JUST BAG IT&lt;/h4&gt;
+        &lt;img src="http://rockying.com/art/Initiative/Earth%20HOur/Paper_bags.jpg" title="Paper Bags"
+            alt="" style="width: 300px; float: right; height: 226px;" /&gt;
+        &lt;p&gt;
+            Though this message might have been relayed to you a million times; there is nothing
+            more helpful than doing it over and over again. Plastics are like the biggest enemy,
+            stop using them. Indulge in shopping with jute bags or other cloth bags. Not only
+            do they help save the planet, they can be reused. Tell the cashier that you don’t
+            need the plastics, set an example, and carry your own bags.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            UNPLUG, UNPLUG, UNPLUG – SAVE ON ELECTRICITY BILLS&lt;/h4&gt;
+        &lt;p&gt;
+            The number of electronic devices used just keeps on rising and the ways to save
+            energy are just as much. Unplug the mobile.&lt;/p&gt;
+        &lt;p&gt;
+            chargers, the laptop chargers, the DVD players when you don’t need them.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            RECYCLE&lt;/h4&gt;
+        &lt;p&gt;
+            You contribute to the planet’s energy consumptions and save considerably
+            &lt;img src="http://rockying.com/art/Initiative/Earth%20HOur/recycling.jpg" title="Recycle to Save the Earth"
+                alt="" style="float: right; height: 300px;" /&gt;on your electricity bills.&lt;/p&gt;
+        &lt;p&gt;
+            You have used a lot, now what? Be informed, find the nearest recycling centers (almost
+            every city has one!) and see how your waste is actually worth being turned into
+            something useful. Not only can you recycle, one might indulge themselves in recycled
+            products – recycled paper, pencils, files, bags, bottles, wrapping paper, gift bags
+            and so much more.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            WATER, WATER EVERYWHERE, NOT A DROP TO DRINK&lt;/h4&gt;
+        &lt;p&gt;
+            Before we reach that level, work on using water effectively. Here’s what some basic
+            water saving techniques can be made a habit:&lt;/p&gt;
+        &lt;ul&gt;
+            &lt;li&gt;Fix the leak, save water from dripping uselessly. &lt;/li&gt;
+            &lt;li&gt;A full bathtub requires over 260 liters of water; a five minute shower uses about
+                95 liters. Save on your water bills while wearing the eco friendly cap!&lt;/li&gt;
+            &lt;li&gt;Shop for high efficiency washers; they reduce the water consumption to a great extent.
+            &lt;/li&gt;
+            &lt;li&gt;Run the dishwashers, washer, and other water-using devices only when needed or on
+                full load.&lt;/li&gt;&lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+    All of the techniques mentioned here are easy to do, practical and
+    &lt;img src="http://rockying.com/art/Initiative/Earth%20HOur/Switch_off_Earth_hour.jpg"
+        title="Switch Off during the Earth Hour" alt="" style="width: 300px; float: right;" /&gt;will
+    help change the planet for the better. Do your bit, switch off lights when not needed,
+    work with energy-saving methods. The planet isn’t really our dump yard, it is time
+    we stopped treating it like one. The more we dump on it, the more it will dump right
+    back at us and after all, this is the only planet where we can live, save it!
+    &lt;br&gt;
+    &lt;br&gt;
+    Also, do switch off during the Earth Hour! Show that you care!&lt;br&gt;
+    &lt;br&gt;
+&lt;/p&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>80</URL>
+</Article>

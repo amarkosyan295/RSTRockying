@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Sample Article submission Request</Title>
+  <OGImage />
+  <OGDescription>&amp;lt;script&amp;gt; alert(&amp;quot;ffghgfh&amp;quot;);&amp;lt;/script&amp;gt; &amp;lt;script&amp;gt; alert(&amp;quot;ffghgfh&amp;quot;);&amp;lt;/script&amp;gt; &amp;lt;script&amp;gt; alert(&amp;quot;ffghgfh&amp;quot;);&amp;lt;/script&amp;gt;&amp;lt;script&amp;gt; alert(&amp;quot;ffghgfh&amp;quot;);&amp;lt;/script&amp;gt;&amp;lt;script&amp;gt; alert(&amp;quot;ffghgfh&amp;quot;);&amp;lt;/script&amp;gt;&amp;lt;script&amp;gt; alert(&amp;quot;ffghgfh&amp;quot;);&amp;lt;/script&amp;gt;&amp;lt;script&amp;gt; alert(&amp;quot;ffghgfh&amp;quot;);&amp;lt;/script&amp;gt;&amp;lt;sc</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>14</Category>
+  <Tag>&amp;lt;script&amp;gt; alert(&amp;quot;ffghgfh&amp;quot;);&amp;lt;/script&amp;gt;</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;&amp;lt;script&amp;gt; alert(&amp;quot;ffghgfh&amp;quot;);&amp;lt;/script&amp;gt; &amp;lt;script&amp;gt; alert(&amp;quot;ffghgfh&amp;quot;);&amp;lt;/script&amp;gt; &amp;lt;script&amp;gt; alert(&amp;quot;ffghgfh&amp;quot;);&amp;lt;/script&amp;gt;&amp;lt;script&amp;gt; alert(&amp;quot;ffghgfh&amp;quot;);&amp;lt;/script&amp;gt;&amp;lt;script&amp;gt; alert(&amp;quot;ffghgfh&amp;quot;);&amp;lt;/script&amp;gt;&amp;lt;script&amp;gt; alert(&amp;quot;ffghgfh&amp;quot;);&amp;lt;/script&amp;gt;&amp;lt;script&amp;gt; alert(&amp;quot;ffghgfh&amp;quot;);&amp;lt;/script&amp;gt;&amp;lt;sc&lt;/p&gt;</Description>
+  <Text>[ImageName] Very few places in the world are just as beautiful as Leh in Ladakh, Himalaya. Surrounded by mud-brick houses and stupas, Leh is a wonder town where the places of interest are still all-natural and untouched by urbanism. The magnificent beauty of this place is highlighted by the imposing Tibetan styled fort and palace in the Old Town. Right next to the fort, there’s a crowded bazaar filled with tandoori-pizza bistros and souvenir shops; all around the place the vibe is outstanding. The narrow footpaths lead to traditional styled homes and lodging places with ornate window frames made of wood and sturdy walls. It’s genuinely easy to fall in love with Leh. [LINK]
+
+[ImageName]
+
+However, prior to venturing towards the rocky city, you are advised to drink lots of water. The location is at a high altitude, so some travelers might experience physical discomfort. Regardless, as soon as you’re there you’ll never want to leave. Leh is breathtaking, traditional and mind-blowingly beautiful. Among several of the most notable places you can explore in Leh, we must mention Pangong Lake, Magnetic Hill, Nubra Valley, Tsomoriri Lake, Lamayuru Trek and Shanti Stupa. Check them all out and have the time of your life admiring one of Himalaya’s finest territories.[LINK]
+
+&amp;lt;script&amp;gt; alert(&amp;quot;ffghgfh&amp;quot;);&amp;lt;/script&amp;gt;</Text>
+  <WriterName>&amp;lt;script&amp;gt; alert(&amp;quot;ffghgfh&amp;quot;);&amp;lt;/script&amp;gt;</WriterName>
+  <WriterEmail>rajkiran.singh@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>sample-article-submission-request-added-more-to-it</URL>
+</Article>

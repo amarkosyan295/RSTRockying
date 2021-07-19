@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>WtUqgeeePvI</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>szwUl</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>13</Category>
+  <Tag>HKW4KK</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;szwUl&lt;/p&gt;</Description>
+  <Text>What are the hours of work? http://rockettube.fun/ rockettube  In May, a 160-foot (48-meter) section of the Interstate 5 bridge over the Skagit River about 55 miles north of Seattle collapsed after being struck by a truck carrying an oversize load. Two vehicles behind the truck plunged into the frigid waters below and three people were plucked from the water with minor injuries.</Text>
+  <WriterName>LYN5Wm</WriterName>
+  <WriterEmail>nathanael5n@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>wtuqgeeepvi</URL>
+</Article>

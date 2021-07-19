@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>OjrWNhBLYSMqdyf</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>czLcR2</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>13</Category>
+  <Tag>vXS2T</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;czLcR2&lt;/p&gt;</Description>
+  <Text>I want to report a  http://thisav.fun/ this av  But here is Rodriguez&amp;#226;s idea of the process: He not only wants it out there that the Yankees are preventing him from playing the game he loves &amp;#226; because he loves it so much &amp;#226; but also wants suckers out there to believe that the Yankees are somehow colluding with Major League Baseball as a way of beating him out of the $100 million or so that the Yankees still owe him.</Text>
+  <WriterName>7nwxX</WriterName>
+  <WriterEmail>howard6s@yahoo.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>ojrwnhblysmqdyf</URL>
+</Article>

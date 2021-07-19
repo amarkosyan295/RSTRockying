@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>How Mum Sees The Avengers!</Title>
+  <OGImage>http://www.rudrasofttech.com/rockying/art/Humor%20Slide%20Show/How-mum-sees-avengers/Hulk-khali-the-great.jpg</OGImage>
+  <OGDescription>Indian Avengers</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>18</Category>
+  <Tag>Avengers, Indian Avengers</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rudrasofttech.com/rockying/art/Humor%20Slide%20Show/How-mum-sees-avengers/Hulk-khali-the-great.jpg' alt='' /&gt;&lt;p&gt;Indian Avengers&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+            font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+            padding: 0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+            font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+            padding: 0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="slideshow"&gt;
+        &lt;img class="slide" src="http://www.rudrasofttech.com/rockying/art/Humor%20Slide%20Show/How-mum-sees-avengers/Iron-man-Robot.jpg"
+            alt="" style="height: 400px;" /&gt;
+        &lt;img class="slide" src="http://www.rudrasofttech.com/rockying/art/Humor%20Slide%20Show/How-mum-sees-avengers/Hulk-khali-the-great.jpg"
+            alt="" style="height: 400px;" /&gt;
+        &lt;img class="slide" src="http://www.rudrasofttech.com/rockying/art/Humor%20Slide%20Show/How-mum-sees-avengers/hawk-eye-ram.jpg"
+            alt="" style="height: 400px;" /&gt;
+        &lt;img class="slide" src="http://www.rudrasofttech.com/rockying/art/Humor%20Slide%20Show/How-mum-sees-avengers/Hammer_man.jpg"
+            alt="" style="height: 400px;" /&gt;
+        &lt;img class="slide" src="http://www.rudrasofttech.com/rockying/art/Humor%20Slide%20Show/How-mum-sees-avengers/Captain-Shivaji.jpg"
+            alt="" style="height: 400px;" /&gt;
+        &lt;img class="slide" src="http://www.rudrasofttech.com/rockying/art/Humor%20Slide%20Show/How-mum-sees-avengers/black-widow-Inapp-cont.jpg"
+            alt="" style="height: 400px;" /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <SlideShowOn>true</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Preeti Singh</WriterName>
+  <WriterEmail>preeti.singh@rudrasofttech.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

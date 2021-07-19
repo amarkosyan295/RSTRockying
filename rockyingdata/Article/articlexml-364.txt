@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Quiz 6: Killer Dialogues of Bollywood II</Title>
+  <OGImage>http://www.rockying.com/art/bollywood/Killer-Dialogues-Quiz/The-Dirty-Picture.jpg</OGImage>
+  <OGDescription>This is the toughest Bollywood dialogue quiz you have ever played!  Do you think you have it in you?</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Quiz, Bollywood, Movies, Hindi, Quiz, Dialogues, Fun, Killer Dialogues, Hindi Dialogues.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Killer-Dialogues-Quiz/The-Dirty-Picture.jpg' alt='' /&gt;&lt;p&gt;This is the toughest Bollywood dialogue quiz you have ever played!  Do you think you have it in you?&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+You've enjoyed our super hot lists of &lt;a href="http://www.rockying.com/a/35" target="_blank"&gt;Killer Dialogues of Bollywood-I&lt;/a&gt; and &lt;a href="http://www.rockying.com/a/52" target="_blank"&gt; Killer Dialogues of Bollywood- II&lt;/a&gt;. Thank you all for the overwhelming response. Now, it's time to test if you have actually gathered some cinema trivia from us and elsewhere. Are you ready for this? Let's go!
+
+&lt;/p&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;1&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/bollywood/Killer-Dialogues-Quiz/The-Dirty-Picture.jpg " alt="Vidya Balan in The Dirty Picture" title="Vidya Balan in The Dirty Picture" /&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt; &lt;i&gt;“Filmen sirf 3 cheezon ki wajah se chalti hain, Entertainment, entertainment, entertainment..." &lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+Vidya Balan's character 'Silk' in &lt;i&gt;The Dirty Picture&lt;/i&gt; is addressing which actor in this dialogue? 
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Naseeruddin Shah&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt;Emraan Hashmi&lt;/li&gt;
+        &lt;li&gt;Tusshar Kapoor&lt;/li&gt;
+        &lt;li&gt; Rajesh Sharma &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;2&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/bollywood/Killer-Dialogues-Quiz/Sharaabi.jpeg" alt="Sharaabi" title="Sharaabi Still" /&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+&lt;h4&gt; &lt;i&gt; “Moochhen hon to Nathhulal ji jaisi hon, warna na hon…” &lt;/i&gt;&lt;/h4&gt;
+
+&lt;p&gt;Whose mustache is Amitabh Bachchan's character &lt;i&gt;Vicky&lt;/i&gt; talking about, in this famous &lt;i&gt;Sharaabi &lt;/i&gt; dialogue ?&lt;/p&gt;
+            
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Om Prakash&lt;/li&gt;
+        &lt;li&gt;Chandrashekhar&lt;/li&gt;
+        &lt;li&gt;  Pran&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt;Mukri&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;3&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/bollywood/Killer-Dialogues-Quiz/Mogambo.jpg" alt="Amrish Puri's Mogambo in Mr. India" titl="Amrish Puri in Mr. India"/&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+&lt;h4&gt; &lt;i&gt;"Mogambo Khush Hua...”&lt;/i&gt;&lt;/h4&gt;
+
+            &lt;p&gt;
+Amrish Puri's character in Mr. India says this monologue to his side-kicks. What were they called?
+            &lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+            &lt;ul&gt;
+                &lt;li&gt;  Daga and Tom&lt;/li&gt;
+                &lt;li&gt;  Ramu and Teja&lt;/li&gt;
+                &lt;li&gt;   Calendar and Mogambo&lt;/li&gt;
+                &lt;li data-anwser="correct"&gt;Daga and Teja&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;4&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/bollywood/Killer-Dialogues-Quiz/Maine-Pyaar-Kiya.jpg" alt="Maine Pyar Kiya" title="Maine Pyar Kiya Still" /&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt; &lt;i&gt;“Dosti ka usool hai Madam,  ______ , no Thank You." &lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+Fill in the blank to complete this Salmaan Khan dialogue from Maine Pyar Kiya.
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Sorry&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt; No Sorry&lt;/li&gt;
+        &lt;li&gt;No Hello&lt;/li&gt;
+        &lt;li&gt;No Welcome &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;5&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/bollywood/Killer-Dialogues-Quiz/Agneepath(1990).jpg" alt="Agneepath 1990" title="Agneepath 1990 Still" /&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt; &lt;i&gt;“Aaj shaam ko maut ke saath apna apeenment hai, kya...?" &lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+ Which famous actor has written the dialogues of this Amitabh starrer, &lt;i&gt;Agneepath &lt;/i&gt;?
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Santosh Saroj&lt;/li&gt;
+        &lt;li&gt;Danny Dengzongpa&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt;Kadar Khan&lt;/li&gt;
+        &lt;li&gt; Amitabh Bachchan &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;6&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/bollywood/Killer-Dialogues-Quiz/Ghayal.jpg" alt="Ghayal" title="Sunny Deol and Meenakshi Sheshadri in a Ghayal Still" /&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt; &lt;i&gt;“Utaar ke phenk do ye wardi aur pehen lo Balwant Rai ka patta apne gale me...!" &lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+Who played the role of Balwant Rai in this movie? 
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Deep Dhillon&lt;/li&gt;
+        &lt;li&gt;Raj Babbar&lt;/li&gt;
+        &lt;li&gt;Danny Dengzongpa&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt;Amrish Puri&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;7&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/bollywood/Killer-Dialogues-Quiz/Darr-Shahrukh-Khan.jpg" alt="Darr-Shahrukh-Khan" title="Darr Still" /&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt; &lt;i&gt;“ I love you Kkkiran..." &lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+Who played Kiran and her fiance in this 1993 Shahrukh Khan starrer film, &lt;i&gt;Darr&lt;/i&gt; ?? 
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Kajol and Shahrukh Khan&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt;Juhi Chawla and Sunny Deol&lt;/li&gt;
+        &lt;li&gt;Shilpa Shetty and Akshay Kumar&lt;/li&gt;
+        &lt;li&gt; Madhuri Dixit and Deepak Tijori&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;8&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/bollywood/Killer-Dialogues-Quiz/Baazigar.jpg" alt="Shahrukh-Khan and Kajol in Baazigar" title="Baazigar Still" /&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt; &lt;i&gt;“Haar kar jeetne wale ko hi baazigar kehte hain..." &lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+What does the hero mean in this &lt;i&gt;Baazigar&lt;/i&gt; dialogue? 
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+                &lt;li&gt;  He had an affair with Seema but it didn't work out and now he has found Pooja. &lt;/li&gt;
+                &lt;li&gt;  He had to end his affair with Seema (Shilpa Shetty) but at least he got to kill her. &lt;/li&gt;
+                &lt;li&gt;  He ended both his affairs to finally avenge the death of his father.  &lt;/li&gt;
+                &lt;li data-anwser="correct"&gt;He just lost a race to win the trust of the heroine's father.&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;9&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+          &lt;img src="http://www.rockying.com/art/bollywood/Killer-Dialogues-Quiz/Damini.jpg" alt="Damini Still" title="Damini Still" /&gt;
+    &lt;/div&gt;
+      
+        &lt;div class="span6"&gt;
+  
+&lt;h4&gt; &lt;i&gt;“Tareeq pe taareq, tareeq pe tareeq milti hai my lord, insaaf nahin milta..." &lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+Who made this speech and what is he fighting for, in this crime centric 1993 film Damini ?
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+               &lt;li&gt;Amrish Puri/ For his clients who were innocent and charged for a crime they didn't commit. &lt;/li&gt;
+                &lt;li&gt;Sunny Deol/ His beloved who decides to get criminals to justice for a crime she had witnessed herself. &lt;/li&gt;
+                &lt;li data-anwser="correct"&gt; Sunny Deol/ A gang rape and murder victim who had an eye witness named Damini. &lt;/li&gt;
+                &lt;li&gt; Rishi Kapoor/ His wife's values to fight for justice, no matter what. &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;10&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+   &lt;img src="http://www.rockying.com/art/bollywood/Killer-Dialogues-Quiz/Nana-Patekar.JPG" alt="Nana Patekar in Krantiveer" title="Nana Patekar" /&gt;         
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt; &lt;i&gt;“Ye Hindu ka khoon ye musalmaan ka khoon, bata isme musalman ka kaun sa hindu ka kaun sa, bata..." &lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+To which movie does this Nana Patekar dialogue belong? It also had a sequel made in the year 2010.
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+                 &lt;li&gt;Tirangaa&lt;/li&gt;
+                &lt;li&gt; Rajneeti&lt;/li&gt;
+                &lt;li&gt; Yashwant &lt;/li&gt;
+                &lt;li data-anwser="correct"&gt; Krantiveer&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;11&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+    &lt;img src="http://www.rockying.com/art/bollywood/Killer-Dialogues-Quiz/DDLJ.jpg" alt="Dilwale Dulhaniya Le Jaenge" title="Kajol and Shahrukh in a Dilwale Dulhaniya Le Jaenge Still" /&gt;      
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt; &lt;i&gt;“ Ja Simran ja, jee le apni zindagi..." &lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+Who says this dialogue during the climax of the 1995 blockbuster DDLJ and how is this person related to Simran?
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+                 &lt;li&gt; Parmeet Sethi/ Fiance&lt;/li&gt;
+                &lt;li data-anwser="correct"&gt; Amrish Puri/ Father&lt;/li&gt;
+                &lt;li&gt; Farida Jalal/ Mother&lt;/li&gt;
+                &lt;li&gt; Anupam Kher/ Father-in-law&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;12&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+    &lt;img src="http://www.rockying.com/art/bollywood/Killer-Dialogues-Quiz/Karan-Arjun.jpg" alt="Karan Arjun Still" title="Karan Arjun Still" /&gt;      
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt; &lt;i&gt;“ Mere Karan Arjun aenge..."&lt;/i&gt; &lt;/h4&gt;
+&lt;p&gt; 
+This famous Rakhee dialogue from the 1995 multi starrer more or less explains the plot of (re-incarnation) the film but who, in that order, actually played Karan and Arjun ? 
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+                 &lt;li&gt; Ranjeet and Dileep Tahil&lt;/li&gt;
+                &lt;li data-anwser="correct"&gt; Salman Khan and Shahrukh Khan &lt;/li&gt;
+                &lt;li&gt; Amrish Puri and Asif Sheikh&lt;/li&gt;
+                &lt;li&gt; Shahrukh Khan and Salman Khan&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;13&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+    &lt;img src="http://www.rockying.com/art/bollywood/Killer-Dialogues-Quiz/Yeshwant.jpg" alt="Yeshwant Still" title="Nana Patekar in a Yeshwant Still" /&gt;      
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt; &lt;i&gt;“ Ek machchar sala aadmi ko hijda bana deta hai..." &lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+This Nana Patekar monologue became a popular catchphrase in the 90s. Who is &lt;i&gt;&lt;b&gt;Yeshwant&lt;/b&gt;&lt;/i&gt; (Nana Patekar) calling "Machchar" here?
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+                 &lt;li&gt; Indian Judicial System&lt;/li&gt;
+                &lt;li data-anwser="correct"&gt; Indian Politician&lt;/li&gt;
+                &lt;li&gt; Indian Government&lt;/li&gt;
+                &lt;li&gt; Indian Policeman&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;14&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/bollywood/Killer-Dialogues-Quiz/Kuch-Kuch-Hota-Hai.jpg" alt="Kuch-kuch hota Hai" title="Kajol and Shahrukh Khan in a still from Kuch Kuch Hota hai" /&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt; &lt;i&gt;“Kuch Kuch hota hai Anjali, tum nahin samjhogi..." &lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+What doesn't Anjali (Kajol) understand when Rahul (Shahrukh Khan) says "...&lt;i&gt; tum nahin samjhogi"&lt;/i&gt; ?  
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;What it's like, to have a girl friend.&lt;/li&gt;
+        &lt;li&gt;What it's like, to be jealous of someone. &lt;/li&gt;
+        &lt;li&gt;What it's like to see your crush fall in love with somebody else.&lt;/li&gt;
+        &lt;li  data-anwser="correct"&gt;What it's like to be in love with someone. &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;15&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/bollywood/Killer-Dialogues-Quiz/Gadar.jpg" alt="Gadar" title="Sunny Deol and Amrish Puri in a still from Gadar" /&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt; &lt;i&gt;“Hindustan zindabad tha, zindabad hai aur zindabad rahega..." &lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+Thousands surrounding &lt;i&gt;Tara&lt;/i&gt; getting him to convert to Islam. He agreed but how could he agree to say "Hindustaan murdabad"? He grabs the nearest handpump and pulls it out of the ground like a shrub, smashing hundreds of his attackers in one blow. Can you tell us (without Googling) where this iconic scene, from &lt;i&gt;&lt;b&gt;Gadar&lt;/b&gt;&lt;/i&gt;, was shot? 
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;India Habitat Centre, Delhi&lt;/li&gt;
+        &lt;li&gt;Film City, Mumbai&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt;La Martiniere College, Lucknow&lt;/li&gt;
+        &lt;li&gt; Jama Masjid, Srirangapatna &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;16&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/bollywood/Killer-Dialogues-Quiz/Rang-De-Basanti.jpg"  alt="Rang De Basanti" title="Rang De Basanti Still" /&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt; &lt;i&gt;"Zindagi jeene ke do hi tareeke hote hain- ek jo ho raha hai hone do, bardaasht karte jao aur dusra, zimmedari uthao use badalne ki..." &lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+DJ (Aamir Khan) answers this piece of dialogue to a question asked to him in the film Rang De Basanti. Who is he addressing here? 
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;His film director friend Sue&lt;/li&gt;
+        &lt;li&gt;A dhaba cook&lt;/li&gt;
+        &lt;li&gt;His college mate Lakshman&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt;A radio caller &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;17&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/bollywood/Killer-Dialogues-Quiz/ChakDe-India.jpg"  alt="Chak De India" title="Shahrukh Khan in a Chak De India Still" /&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt; &lt;i&gt;"70 minute hain tumhare paas. Shayad tumhari zindagi ke sabse khaas 70 minute..." &lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+This dialogue here was a pump-up speech by coach Kabir Khan (Shahrukh Khan) before a major sports match. How many minimum players per team does this sport need on field? 
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;6&lt;/li&gt;
+        &lt;li&gt;5&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt; 11&lt;/li&gt;
+        &lt;li&gt; 16&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;18&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/bollywood/Killer-Dialogues-Quiz/Dabang.jpg " alt="Salman Khan in Dabang" title="Salman Khan in a still from Dabang" /&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt; &lt;i&gt;“Hum tumme itne chhed karenge, ki bhool jaoge ki saans kahan se len aur paden kahan se..." &lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+This dialogue was directed towards a character as a warning in this cop vs Gangster 2010 movie. Which is the character and who played it in the film?  
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Chaubey Ji/ Ram Sujan&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt;Chhedi Singh/ Sonu Sood&lt;/li&gt;
+        &lt;li&gt; Makhan/ Arbaaz Khan&lt;/li&gt;
+        &lt;li&gt; Haria/ Mahesh Manjrekar&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;19&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/bollywood/Killer-Dialogues-Quiz/Om-Shanti-Om.jpg " alt="Om Shanti Om" title="Shahrukh Khan and Deepika Padukone in an Om Shati Om Still" /&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt; &lt;i&gt;“...Kehten hain agar kisi cheez ko dil se chaho to saari qaynaat tumhe usse milane me lag jati hai ..." &lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+This huge monologue starting from &lt;i&gt;"Itni shiddat se maine tumko pane ki koshish ki hai"&lt;/i&gt; and ending in &lt;i&gt;"Picture abhi baki hai mere dost" &lt;/i&gt; was an award acceptance speech by the protaganist. What is the &lt;i&gt;'cheez'&lt;/i&gt;(thing) he is referring to here? 
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;The Heroine Shanti&lt;/li&gt;
+        &lt;li data-anwser="correct"&gt;Success in the Movies&lt;/li&gt;
+        &lt;li&gt; His mother&lt;/li&gt;
+        &lt;li&gt;His revenge on Shanti's Killer &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;20&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+            &lt;img src="http://www.rockying.com/art/bollywood/Killer-Dialogues-Quiz/Aal-is-Well-3-Idiots.jpg" alt="3 Idiots Still" title="3 Idiots Still" /&gt;
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt; &lt;i&gt;“ Aal izz Well " &lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+This mantra is sure to keep you calm in the drabbest of situations. Who wrote this and other mind boggling dialogues of this 2009 gem of a film?  
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+        &lt;li data-anwser="correct"&gt; Rajkumar Hirani and Abhijat Joshi&lt;/li&gt;
+        &lt;li&gt;Vidhu Vinod Chopra and RajKumar Hirani &lt;/li&gt;
+        &lt;li&gt;Rajkumar Hirani and Chetan Bhagat &lt;/li&gt;
+        &lt;li&gt;Aamir Khan and Rajkumar Hirani&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+&lt;p&gt;
+Did you find the quiz interesting? Do you think you aced it? Tell us your score out of 20 in the comments below :) 
+&lt;/p&gt;</Text>
+  <WriterName>Rockying</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>quiz-6-killer-dialogues-of-bollywood-ii</URL>
+</Article>

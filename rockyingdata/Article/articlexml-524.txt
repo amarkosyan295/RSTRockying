@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>BlflYhSBBX</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>fT6pqm</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>NVOQs</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;fT6pqm&lt;/p&gt;</Description>
+  <Text>My battery&amp;#39;s about to run out http://egotastic.in.net/ egotastic all stars  Katy&amp;amp;#39;s very boots are now sold out, but a newer Jimmy Choo version are available to snap up now (below). Alternatively, head to New Look or Net-A-Porter for our favorites. Go on, we dare you to drop your drab ankle boots this season. The thigh&amp;amp;#39;s the limit...</Text>
+  <WriterName>iWV19</WriterName>
+  <WriterEmail>ferdinand6m@lycos.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>blflyhsbbx</URL>
+</Article>

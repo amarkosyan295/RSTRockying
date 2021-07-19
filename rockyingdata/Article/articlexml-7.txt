@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>7</ID>
+  <Title>India's economic growth projections Sample</Title>
+  <OGImage>sdf</OGImage>
+  <OGDescription>as sda ssd asdsd sdsd asd</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <Category>5</Category>
+  <Tag>Internet</Tag>
+  <Status>Inactive</Status>
+  <Description>&lt;p&gt;Economies with diminishing inflation pressure 
+and fiscal fundamentals, including many in Latin America, could afford 
+to stop tightening or to ease monetary policy, sd fssd sfs df s&lt;br&gt;&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;Initial contentadf f sdf sfds dsdfsd sdf dsfds&lt;/p&gt;&lt;p&gt;&amp;nbsp;fds dfds&lt;/p&gt;&lt;p&gt;f dsdsf&lt;br&gt;&lt;/p&gt;</Text>
+  <WriterName>Raj Kiran Singh</WriterName>
+  <WriterEmail>rajkiran.singh@gmail.com</WriterEmail>
+</Article>

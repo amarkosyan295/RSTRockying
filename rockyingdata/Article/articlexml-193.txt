@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>How your brain ages</Title>
+  <MetaTitle>How your brain ages</MetaTitle>
+  <OGImage>//rockying.com/art/health/How-the-brain-ages/factors-that-may-impact-brain-aging.jpg</OGImage>
+  <OGDescription>Its no surprise that our brains change as we age; however, new studies report that mental decline may start around age 45. There are several things you can do to make sure your brain stays healthy.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Brain Health</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/health/How-the-brain-ages/factors-that-may-impact-brain-aging.jpg' alt='' /&gt;&lt;p&gt;Its no surprise that our brains change as we age; however, new studies report that mental decline may start around age 45. There are several things you can do to make sure your brain stays healthy.&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px;  height:40px;
+            font-size: 50px; font-weight: 100; color: #000; border: none; text-align: center; margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px;height:40px;
+            font-size: 50px; font-weight: 100; color: #000;border: none; text-align: center;margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+&lt;div class="slideshow" style="padding: 0px 60px 0px 60px"&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span7"&gt;
+                &lt;img src="//rockying.com/art/health/How-the-brain-ages/gestation.jpg"
+                    alt="" style="width: 100%;" /&gt;
+            &lt;/div&gt;
+            &lt;div class="span5"&gt;
+                &lt;h5&gt;
+                    Gestation&lt;/h5&gt;
+                &lt;p&gt;
+                    The brain begins to grow four weeks after conception. At certain times during brain
+                    development, &lt;strong&gt;250,000 neurons&lt;/strong&gt; are added each minute.&lt;/p&gt;
+                &lt;p&gt;
+                    A shortened gestation period can lead to brain development disruptions, which may
+                    contribute to behavioral and psychological problems later on.
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span7"&gt;
+                &lt;img src="//rockying.com/art/health/How-the-brain-ages/childhood.jpg"
+                    alt="" style="width: 100%;" /&gt;
+            &lt;/div&gt;
+            &lt;div class="span5"&gt;
+                &lt;h5&gt;
+                    Childhood&lt;/h5&gt;
+                &lt;p&gt;
+                    By age 6, a brain is 96% of its adult weight.&lt;/p&gt;
+                &lt;p&gt;
+                    The brain produces twice the number of neurons it well need, and only those that
+                    are reinforced with use will remain. At this point in time, the brain is as energetic
+                    and flexible as it will be.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span7"&gt;
+                &lt;img src="//rockying.com/art/health/How-the-brain-ages/Adolescence.jpg"
+                    alt="" style="width: 100%;" /&gt;
+            &lt;/div&gt;
+            &lt;div class="span5"&gt;
+                &lt;h5&gt;
+                    Adolescence&lt;/h5&gt;
+                &lt;p&gt;
+                    The brain is fully grown; however, the "wiring" is still a work in progress.&lt;/p&gt;
+                &lt;p&gt;
+                    This time of life brings "waves of gray-matter pruning," which means teens lose
+                    1% of their gray matter every year until they hit their early 20s.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span7"&gt;
+                &lt;img src="//rockying.com/art/health/How-the-brain-ages/Adulthood.jpg"
+                    alt="" style="width: 100%;" /&gt;
+            &lt;/div&gt;
+            &lt;div class="span5"&gt;
+                &lt;h5&gt;
+                    Adulthood&lt;/h5&gt;
+                &lt;p&gt;
+                    The brain reaches adulthood when you are in your 20s.&lt;/p&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;The grooves on the brain's surface widen.&lt;/li&gt;
+                    &lt;li&gt;Between 20 &amp; 90, the brain loses an average 5-10% of its weight.&lt;/li&gt;
+                    &lt;li&gt;The peak of your brain power comes around age 22 and lasts for only five years.
+                        The abilities to plan and recall events, as well as task coordination start to decline
+                        after that.&lt;/li&gt;
+                    &lt;li&gt;By age 45-49, men and women suffer a 3.6% loss, and the brain's capacity for memory,
+                        reasoning and comprehension begins to wane.&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span7"&gt;
+                &lt;img src="//rockying.com/art/health/How-the-brain-ages/Old-age.jpg"
+                    alt="" style="width: 100%;" /&gt;
+            &lt;/div&gt;
+            &lt;div class="span5"&gt;
+                &lt;h5&gt;
+                    Old Age&lt;/h5&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;By age 80, our brains have lost a little weight and have shrunk by a few ounces;
+                        most of the weight loss is water.&lt;/li&gt;
+                    &lt;li&gt;The shrinkage of the brain usually leads to worsened cognitive abilities, including
+                        inductive reasoning, spacial orientation and verbal memory . When the hippocampus
+                        begins to shrink, there's a loss of orientation and wandering, which many elderly
+                        people experience.&lt;/li&gt;
+                    &lt;li&gt;At this point we are steadily losing brain cells. Decayed portions of dentricles
+                        that extend from neurons increase.&lt;/li&gt;
+                    &lt;li&gt;By age 65-70, men will suffer a loss of 9.6%, and women will suffer a 7.4% loss.&lt;/li&gt;
+                    &lt;li&gt;Our brains essentially dry out as we age. Drinking more water will not help prevent
+                        that and living in dry climate wont increase the amount your brain shrinks.&lt;/li&gt;
+                    &lt;li&gt;Its not all bad. Emotional responses can be kept under control thanks to the amygdala
+                        interacting more with a section of brain that control emotions.&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span7"&gt;
+                &lt;img src="//rockying.com/art/health/How-the-brain-ages/factors-that-may-impact-brain-aging.jpg"
+                    alt="" style="width: 100%;" /&gt;
+            &lt;/div&gt;
+            &lt;div class="span5"&gt;
+                &lt;h5&gt;
+                    Factors That May Impact Brain Aging&lt;/h5&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Education, Constantly learn and keep your brain active&lt;/li&gt;
+                    &lt;li&gt;Exercise, Walk rapidly for 45 minutes three time a week.&lt;/li&gt;
+                    &lt;li&gt;Rest, Sleeping eight hours a night may help prevent memory loss.&lt;/li&gt;
+                    &lt;li&gt;General Health, Eat a balanced diet, don't smoke and maintain healthy blood pressure
+                        and cholesterol levels.&lt;/li&gt;
+                    &lt;li&gt;Hypertension, Speeds up normal brain shrinkage and loss of mental abilities&lt;/li&gt;
+                    &lt;li&gt;Stress, Leads to the release of a hormone that in large amounts wears away the neurons
+                        in the hippocampus.&lt;/li&gt;
+                &lt;/ul&gt;
+                &lt;p&gt;
+                    Sources: newscientist.com, mccku.edu, psycologytoday.com, dailymail.co.uk, martinfrost.edu,
+                    usc.edu&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</Text>
+  <WriterName>Manu</WriterName>
+  <WriterEmail>rajkiran.singh@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>193</URL>
+</Article>

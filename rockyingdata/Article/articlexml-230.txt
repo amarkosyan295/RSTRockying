@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>The Magical Brush: Evolution of Make-up in Hollywood</Title>
+  <MetaTitle>Evolution of the art of make-up in Hollywood movies</MetaTitle>
+  <OGImage>http://www.rockying.com/art/HOllywood/Make-up-Evolution/Brad-Pitt-Button.jpg</OGImage>
+  <OGDescription>An essential part of movie making and one of the most powerful visual tools in the hand of the makers is the subtle and often underrated art of make-up evolution in Hollywood movies and films.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>12</Category>
+  <Tag>Art of make-up, Make up evolution, Make-up evolution in Hollywood, Movies, Hollywood, Curious Case of Benjamin Button.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/HOllywood/Make-up-Evolution/Brad-Pitt-Button.jpg' alt='' /&gt;&lt;p&gt;An essential part of movie making and one of the most powerful visual tools in the hand of the makers is the subtle and often underrated art of make-up evolution in Hollywood movies and films.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    An essential part of movie making and one of the most powerful visual tools in the
+    hand of the makers is the subtle and often underrated art of make-up. From simple
+    beginnings it has evolved into a modern day hybrid of prosthetics and graphics.
+    After &lt;a href="http://www.rockying.com/a/225" target=_blank"&gt;the magical ride of Hollywood special effects &lt;/a&gt;Rockying brings to you a rare focus on the evolution of the art of movie make-up.&lt;/p&gt;
+&lt;h4&gt;
+    THE EARLY ERA&lt;/h4&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Make-up-Evolution/Karloff-and-Pierce-The-Mummy-MMW.jpg"
+    alt="Boris Karloff as the Mummy" /&gt;
+&lt;p style="text-align:center; font-weight:bold;"&gt;
+    Boris Karloff as the Mummy&lt;/p&gt;
+&lt;p&gt;
+    Hollywood started its relation with the art of make-up in the same vein as theatre.
+    The aim was very simple: to make the actors look as presentable as possible. The
+    make-up artists struggled mainly with mascara, lipsticks and blushes to transform
+    the actresses (and even some dandy actors!) into magical beauties. Early stars such
+    as Greta Garbo owed a lot to early make-up greats like George Westmore, who worked
+    on almost 2/3rds of all movies produced during the silent era! Also significant
+    were the early horror classics such as THE MUMMY where make-up turned actor Boris
+    Karloff into a monster with ease.&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Make-up-Evolution/greta-garbo.jpg"
+    alt="Greta Garbo: the first style icon" /&gt;
+&lt;p style="text-align:center; font-weight:bold;"&gt;Greta Garbo: the first style icon&lt;/p&gt;
+&lt;h4&gt;
+    BEAUTIFUL PEOPLE&lt;/h4&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Make-up-Evolution/Audrey-hepburn.jpg"
+    alt="Audrey Hepburn getting her make up on" /&gt;
+&lt;p  style="text-align:center; font-weight:bold;"&gt;Audrey Hepburn getting her make up on&lt;/p&gt;
+&lt;p&gt;
+    The rise of Divas saw the birth of thefusion between high fashion and Hollywood.
+    Legendary beauties like Audrey Hepburn and Marilyn Monroe owed much to the hard
+    working make-up artists who worked behind the scenes to give them looks that would
+    inspire a generation. Also, Hollywood hairstyle and make up tips inspired millions
+    of ordinary women across the globe and even today remains the source from which
+    most copy their styles. Be it Jennifer Aniston’s hairdo in FRIENDS or the carefully
+    puffed up hair-do of Elvis Presley during his heydays, Hollywood became the altar
+    at which fashion fans worshipped.&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Make-up-Evolution/elvis-haircut.jpg"
+    alt="Elvis and his famous hair do" /&gt;
+&lt;p  style="text-align:center; font-weight:bold;"&gt;Elvis and his famous hair do&lt;/p&gt;
+&lt;h4&gt;
+    CHARACTER CREATION&lt;/h4&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Make-up-Evolution/planet-of-apes.jpg"
+    alt="Creating lifelike apes in PLANET OF THE APES" /&gt;
+&lt;p  style="text-align:center; font-weight:bold;"&gt;Creating lifelike apes in PLANET OF THE APES&lt;/p&gt;
+&lt;p&gt;
+    Hollywood make up moved from being an extension of popular fashion to a powerful
+    tool of character creation in the early 70s.From beautification alone, the focus
+    was now on creation of characters who relied on advanced prosthetics in order to
+    look believable to the audiences. THE PLANET OF THE APES (1968) was one of the early
+    pioneers giving us talking apes that look real even by today’s standards. The sudden
+    spurt of sci-fi movies post STAR WARS also gave the make- up artists an opportunity
+    to go insanely creative. However, it was not all fancy face paint and outlandish
+    hairdos. Winners of the Oscar for best make up included movies like GANDHI, where
+    Ben Kingsley and Roshan Seth gave us images of the Mahatma and Pandit Nehru that
+    will live on in our memory forever. Later winners included Robin Williams’ cross
+    dressing act in MRS DOUBTFIRE (that ‘inspired’ Kamal Hassan’s CHACHI 420) and even
+    the subtle, period make up in TITANIC.&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Make-up-Evolution/Mrs-Doubtfire.jpg"
+    alt="Robin Williams as MRS DOUBTFIRE" /&gt;
+&lt;p  style="text-align:center; font-weight:bold;"&gt;Robin Williams as MRS DOUBTFIRE&lt;/p&gt;
+&lt;h4&gt;
+    DIGITAL MASCARA&lt;/h4&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Make-up-Evolution/pirates-of-carribean.jpg"
+    alt="Bill Nighy in PIRATES OF THE CARRIBEAN" /&gt;
+&lt;p  style="text-align:center; font-weight:bold;"&gt;Bill Nighy in PIRATES OF THE CARRIBEAN&lt;/p&gt;
+&lt;p&gt;
+    Computers changed everything in Hollywood, including make-up. Modern motion capture
+    tech includes a procedure that involves placing tiny sensors on dozens of muscles
+    on an actor’s face. These sensors pick up every muscle movement as the actors acts
+    in front of the camera. Later, the acting is retained even as the data from the
+    sensors is used to give the same actor a whole new face, a wonderful effect that
+    would be impossible without CGI. The dramatic face sported by Bill Nighy as Davy
+    Jones in the PIRATES OF CARRIBEAN franchise and the amazing prosthetic and CGI combo
+    on Brad Pitt in CURIOUS CASE OF BENJAMIN BUTTON are sterling examples of this bold
+    new step in Hollywood make up history.&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Make-up-Evolution/Brad-Pitt-Button.jpg"
+    alt="Curious Case of Benjamin Button" /&gt;
+    &lt;h6&gt;Nothing is beyond possibility on the silver screen and the movie maker’s imagination
+    is now the only boundary!&lt;/h6&gt;
+&lt;p class="well"&gt;
+&lt;b&gt;About the Author:&lt;/b&gt; Keeping her eyes closed, with long breaths and a gentle sound many mistake for snoring, actually helps &lt;b&gt;&lt;i&gt;Sonali&lt;/i&gt;&lt;/b&gt; think better. Or so she says. People question about these daily “thinking sessions”, mostly conducted on a comfortable couch or bed, while she claims that the long overdue best-seller she’s been working on (for quite some time now) will silence all the cynics. Till then she dreams on...
+&lt;/p&gt;</Text>
+  <WriterName>Sonali Chowdhury</WriterName>
+  <WriterEmail>media.sonali@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>230</URL>
+</Article>

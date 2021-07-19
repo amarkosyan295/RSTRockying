@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>The Unlikely 'Heroes' of Bollywood</Title>
+  <OGImage>http://www.rockying.com/art/bollywood/Best-Brother/amar-akbar-anthony.jpg</OGImage>
+  <OGDescription>ldlDLa</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Bollywood</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Best-Brother/amar-akbar-anthony.jpg' alt='' /&gt;&lt;p&gt;ldlDLa&lt;/p&gt;</Description>
+  <Text>1. Nawazuddin Siddiqui
+2. Irfan Khan
+3. R. Rajkumar
+4. Akshaye Khanna
+5. Manoj Bajpayee
+6. Randeep Hooda (Accepted now but not in the beginning)
+7. Ayushmaan Khurana
+8. Rajpal Yadav
+9. Kay Kay Menon
+10. Ranvir Shorey</Text>
+  <WriterName>Rockying</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>the-unlikely-heroes-of-bollywood</URL>
+</Article>

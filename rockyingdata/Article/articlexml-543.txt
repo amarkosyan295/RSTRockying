@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>FCGrphhpoQCMT</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>tcwBZw</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>26</Category>
+  <Tag>mIirhQ</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;tcwBZw&lt;/p&gt;</Description>
+  <Text>Who&amp;#39;s calling? http://keandra.in.net/ keandra.com  Cooperman, whose hedge fund had roughly $7 billion in assets last November, took a new position of 31,000 shares in the iPhone, iPad and Mac computer maker after selling 266,404 shares of the company in the fourth quarter of last year.</Text>
+  <WriterName>gAxAA</WriterName>
+  <WriterEmail>joesphltv@lycos.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>fcgrphhpoqcmt</URL>
+</Article>

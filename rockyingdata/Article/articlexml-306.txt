@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>When 'They' Made a Mistake and a Good Movie; Today's Disappointing Bollywood Directors and their Rare Good Work</Title>
+  <OGImage>http://www.rockying.com/art/Kuch Kuch Hota hai.jpg</OGImage>
+  <OGDescription>fdsfsdfsd</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Bollywood</Tag>
+  <Status>Inactive</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Kuch Kuch Hota hai.jpg' alt='' /&gt;&lt;p&gt;fdsfsdfsd&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+   &lt;h2&gt;ROHIT SHETTY (Sunday)&lt;/h2&gt;
+&lt;hr&gt;
+     &lt;p&gt;&lt;/p&gt;
+&lt;hr&gt;
+   &lt;h2&gt;  ANURAG KASHYAP (Black Friday)  &lt;/h2&gt;
+&lt;hr&gt;
+      &lt;p&gt;&lt;/p&gt;
+&lt;hr&gt;
+   &lt;h2&gt; RAM GOPAL VARMA  
+&lt;hr&gt;</Text>
+  <WriterName>Rockying</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>when-they-made-a-mistake-and-a-good-movie-todays-disappointing-bollywood-directors-and-their-rare-good-work</URL>
+</Article>

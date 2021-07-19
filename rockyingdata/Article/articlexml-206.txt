@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Lost In Ladakh!</Title>
+  <MetaTitle>Lost In Ladakh!</MetaTitle>
+  <OGImage>//www.rockying.com/art/Travel/Lost-in-Ladakh/pangong_tso-Home-page.jpg</OGImage>
+  <OGDescription>One of India’s most visited places and an absolute must-see for every traveler, Ladakh is an intriguing and bewitching “moonscape” of craggy hills, soft snow and surprising sand dunes.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Leh, Ladakh, Travel India, Highest point In India, Nubra Valley, Pangong Tso Lake, Chadar Trek, Zanskar Range, Khardung La Pass, Sarchu, The Shanti Stupa.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Travel/Lost-in-Ladakh/pangong_tso-Home-page.jpg' alt='' /&gt;&lt;p&gt;One of India’s most visited places and an absolute must-see for every traveler, Ladakh is an intriguing and bewitching “moonscape” of craggy hills, soft snow and surprising sand dunes.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    One of India’s most visited places and an absolute must-see for every traveler,
+    Ladakh is an intriguing and bewitching “moonscape” of craggy hills, soft snow and
+    surprising sand dunes. With jaw dropping sights and people who are remarkably warm
+    and happy, it draws you back again year after year. It is a formidably large place
+    though, 11700 sq km in all, and we are here to guide you through it all. Here are
+    the five must-do things when you find yourself happily lost in Ladakh.&lt;/p&gt;
+&lt;h3&gt;
+    Top Spot: The Lakes&lt;/h3&gt;
+&lt;div style="text-align:center;"&gt;
+    &lt;img style="max-width:100%;" src="//rockying.com/art/Travel/Lost-in-Ladakh/pangong-so-village.jpg"
+        alt="Pangong So Village" /&gt;
+&lt;/div&gt;
+&lt;div style="text-align:center;"&gt;
+    &lt;img style="max-width:100%;" src="//rockying.com/art/Travel/Lost-in-Ladakh/melting_pangong_tso.jpg"
+        alt="Melting Pangong Tso" /&gt;
+&lt;/div&gt;
+&lt;div style="text-align:center;"&gt;
+    &lt;img style="max-width:100%;" src="//rockying.com/art/Travel/Lost-in-Ladakh/pangong-tso.jpg"
+        alt="Pangong Tso" /&gt;
+&lt;/div&gt;
+&lt;p&gt;
+    Ladakh is home to some of the most spectacular lakes on earth. There is the phenomenal
+    Pangong-tso Lake, the highest salt water lake in the world and the most famous of
+    all Ladakh sights which undoubtedly made your eyes pop out in the final scenes of
+    3 Idiots. Almost equal in beauty is Tso –Moriri, a remote and beautiful lake that
+    is a 7 hour drive away from Leh. Not as well known as these two heavyweights, but
+    unique in its own way, is the Lobame Tso, a volcanic lake formed by a meteor crash
+    in Pulthang’s surreal soda-ash plains.
+&lt;/p&gt;
+&lt;h3&gt;
+    Close Second: Nubra Valley&lt;/h3&gt;
+&lt;div style="text-align:center;"&gt;
+    &lt;img style="max-width:100%;" src="//rockying.com/art/Travel/Lost-in-Ladakh/road_across_nubra_valley.jpg"
+        alt="Road Across Nubra Valley" /&gt;
+&lt;/div&gt;
+&lt;div style="text-align:center;"&gt;
+    &lt;img style="max-width:100%;" src="//rockying.com/art/Travel/Lost-in-Ladakh/Nubra-valley-in-leh.jpg"
+        alt="Nubra Valley In Leh" /&gt;
+&lt;/div&gt;
+&lt;p&gt;
+    Is there any other place in the world that combines a sandy desert with snow, mountains,
+    twin humped camels, an azure river and a ride across one of the highest roads in
+    the world?&lt;/p&gt;
+&lt;div style="text-align:center;"&gt;
+    &lt;img style="max-width:100%;" src="//rockying.com/art/Travel/Lost-in-Ladakh/khardung-la-pass.jpg"
+        alt="Khardung La Pass" /&gt;
+&lt;/div&gt;
+&lt;p&gt;
+    The valley of the river Nubra, that lies on the other side of the Khardung-La pass
+    (a full 18380 feet high) does all of these in perfect harmony. Nubra valley is a
+    shutterbug’s delight with some of the most amazing natural vistas to be found in
+    India.&lt;/p&gt;
+&lt;h3&gt;
+    Tricky Third: The Ride&lt;/h3&gt;
+&lt;div style="text-align:center;"&gt;
+    &lt;img style="max-width:100%;" src="//rockying.com/art/Travel/Lost-in-Ladakh/the_road.jpg"
+        alt="Road To Leh" /&gt;
+&lt;/div&gt;
+&lt;p&gt;
+    The best way to reach Leh? Ride in with the mountain winds on the spectacular Manali-
+    Leh road.&lt;/p&gt;
+&lt;div style="text-align:center;"&gt;
+    &lt;img style="max-width:100%;" src="//rockying.com/art/Travel/Lost-in-Ladakh/sarchu.jpg"
+        alt="Sarchu" /&gt;
+&lt;/div&gt;
+&lt;p&gt;
+    This almost 500 km long road is the dream ride of every Royal Enfield owner in the
+    country and passes through some amazing scenery as it winds its way through Rohtang,
+    Koksar, Tandi and Sarchu. Keep your flight tickets away and push down on the throttle,
+    the ride to Leh is sure to be one of the most memorable trips of your lifetimes.&lt;/p&gt;
+&lt;h3&gt;
+    Fabulous Fourth: Leh&lt;/h3&gt;
+&lt;div style="text-align:center;"&gt;
+    &lt;img style="max-width:100%;" src="//rockying.com/art/Travel/Lost-in-Ladakh/leh.jpg"
+        alt="Leh City" /&gt;
+&lt;/div&gt;
+&lt;p&gt;
+    The capital of Ladakh is not only a base for your exploration of the far flung areas
+    of the district; it is also a destination in itself. A throbbing city that is the
+    heart of Ladakhi culture, Leh is a place of great beauty &amp; joy in the summers.&lt;/p&gt;
+&lt;div style="text-align:center;"&gt;
+    &lt;img style="max-width:100%;" src="//rockying.com/art/Travel/Lost-in-Ladakh/leh-culture.jpg"
+        alt="Prayer Wheels, Buddhist Monks, Stupa and Prayer Flags in Leh" /&gt;
+&lt;/div&gt;
+&lt;div style="text-align:center;"&gt;
+    &lt;img style="max-width:100%;" src="//rockying.com/art/Travel/Lost-in-Ladakh/shanti_stupa.jpg"
+        alt="" /&gt;
+&lt;/div&gt;
+&lt;div style="text-align:center;"&gt;
+    &lt;img style="max-width:100%;" src="//rockying.com/art/Travel/Lost-in-Ladakh/Shanti-Stupa.jpg"
+        alt="" /&gt;
+&lt;/div&gt;
+&lt;p&gt;
+    Landmarks such as the Shanti Stupa , which offers an unparalleled view across the
+    valley and the Leh Royal Palace that watches over the city, are must visits when
+    in Leh. Stay for an extended period of time and you will also find a food &amp; music
+    culture that is delightfully surprising.&lt;/p&gt;
+&lt;h3&gt;
+    Last But Not the Least: Zanskar&lt;/h3&gt;
+&lt;div style="text-align:center;"&gt;
+    &lt;img style="max-width:100%;" src="//rockying.com/art/Travel/Lost-in-Ladakh/zanskar-valley.jpg"
+        alt="Zanskar Valley" /&gt;
+&lt;/div&gt;
+&lt;div style="text-align:center;"&gt;
+    &lt;img style="max-width:100%;" src="//rockying.com/art/Travel/Lost-in-Ladakh/zanskar-from-Ladakh.jpg"
+        alt="Zanskar Valley From Ladakh" /&gt;
+&lt;/div&gt;
+&lt;div style="text-align:center;"&gt;
+    &lt;img style="max-width:100%;" src="//rockying.com/art/Travel/Lost-in-Ladakh/zanskar.jpg"
+        alt="Zanskar" /&gt;
+&lt;/div&gt;
+&lt;div style="text-align:center;"&gt;
+    &lt;img style="max-width:100%;" src="//rockying.com/art/Travel/Lost-in-Ladakh/conflence_zanskar-indus.jpg"
+        alt="Confluence of Indus River and Zanskar" /&gt;
+&lt;/div&gt;
+&lt;p&gt;
+    In the lap of the Zanskar mountain range, river Indus and Zanskar meet at this stunningly
+    gorgeous cosmos.&lt;/p&gt;
+&lt;div style="text-align:center;"&gt;
+    &lt;img style="max-width:100%;" src="//rockying.com/art/Travel/Lost-in-Ladakh/Chadar-zanskar-trek.jpg"
+        alt="The Chadarr Track, Zanskar" /&gt;
+&lt;/div&gt;
+&lt;p&gt;
+    This one is only for the strong willed. The wild Zanskar River gets frozen over
+    in the harsh Ladakhi winters and turns into a hiking trail for the brave and fearless.&lt;/p&gt;
+&lt;p&gt;
+    An experience that cannot be found anywhere else in the country, this famed “Chadar
+    Trek” is now the stuff of legends and if you are bold enough to go to Ladakh in
+    peak winters, it is sure to give you bragging rights for the rest of your life.&lt;/p&gt;
+&lt;div style="text-align:center;"&gt;
+    &lt;img style="max-width:100%;" src="//rockying.com/art/Travel/Lost-in-Ladakh/leh-ladakh-night-and-day.jpg"
+        alt="Concurrent Night and Day in Leh-Ladakh" /&gt;
+&lt;/div&gt;
+&lt;h4&gt;
+    Be in Ladakh, be on top of the world!&lt;/h4&gt;
+&lt;p&gt;
+    Photo Credit:&lt;/p&gt;
+&lt;ul style="list-style-type: none;"&gt;
+    &lt;li&gt;&lt;a href="http://www.trekearth.com" target="_blank"&gt;www.trekearth.com&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.thebetterindia.com" target="_blank"&gt;www.thebetterindia.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</Text>
+  <WriterName>Sonali Chowdhury</WriterName>
+  <WriterEmail>media.sonali@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>206</URL>
+</Article>

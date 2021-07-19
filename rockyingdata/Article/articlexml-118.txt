@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>118</ID>
+  <Title>The Adventures Of Online Dating</Title>
+  <MetaTitle>The Adventures Of Online Dating</MetaTitle>
+  <OGImage>//rockying.com/art/internet/Internet Dating/online-dating.jpg</OGImage>
+  <OGDescription>Everybody seems to have a reason to go online and hunt for that perfect date. What is your reason? Single, almost single, somewhere in between the two, loneliness or plain boredom??? Good, bad, ugly, online dating sure form the underbelly of the cyber world...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>10</Category>
+  <Tag>Internet Dating, Online Dating, Cyber Sex</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/internet/Internet Dating/online-dating.jpg' alt='' /&gt;&lt;p&gt;Everybody seems to have a reason to go online and hunt for that perfect date. What is your reason? Single, almost single, somewhere in between the two, loneliness or plain boredom??? Good, bad, ugly, online dating sure form the underbelly of the cyber world...&lt;/p&gt;</Description>
+  <Text>&lt;img src="//rockying.com/art/internet/Internet%20Dating/chat6.gif"
+    title="OnLine Dating Window" alt="" style="width: 500px;" /&gt;
+&lt;h3&gt;
+    Situation:&lt;/h3&gt;
+&lt;p&gt;
+    Hannah, a fresh graduate interning with a local news channel, is steadily typing
+    on her keyboard and she still has not realized that it is 3 o’clock in the morning.
+    &lt;br&gt;
+    1 notification received which is most obviously notifies a crush. It is very obvious
+    that Hannah considers it safer to desire a person virtually. Comforted over a mushy
+    chat session, she sleeps. Love blossoms over a few days of steady exchange of pings
+    and bingo! - the relationship status changes from ‘single’ to ‘in a relationship’
+    on &lt;a href="http://www.facebook.com/"&gt;Facebook&lt;/a&gt;. By the time Hannah’s friends
+    are about to understand what changed Hannah’s mind so quickly, &lt;a href="//rockying.com/"&gt;
+        Rockying&lt;/a&gt; is here to explore how these dating portals sustain and bring forth
+    serious concerns such as dating frauds and misleading identities related to it.&lt;br&gt;
+    Even though Hannah sleeps comforted that night, it sure does set our minds thinking
+    about the recent changes that online dating has faced in the recent years.&lt;/p&gt;
+&lt;h3&gt;
+    &lt;b&gt;The Trend&lt;/b&gt;&lt;/h3&gt;
+&lt;ol&gt;
+    &lt;li&gt;Not all dating sites encourage explicit conversations. But none of them encourage
+        people to meet in person as well. A dating site creates multiple level of contacts
+        (chat rooms, emails, SMSs, phone conversations, snail
+        &lt;img src="//rockying.com/art/internet/Internet%20Dating/online%20dating7.jpg"
+            title="Memorial To The Much Desired Husband" alt="" style="width: 400px; float: right;"&gt;mails)
+        with the person, yet there is no guarantee of an actual relationship happening.&lt;/li&gt;&lt;li&gt;
+            Online dating is like a cryptic existence that knows no limits of desire or thoughts.&lt;/li&gt;&lt;li&gt;
+                95% of people who get hooked up online are not able to sustain their relationship
+                for more than 3 years.&lt;/li&gt;&lt;li&gt;Chat rooms create attraction-based relationship rather
+                    than love-based ones. Not many people are able to sustain an online relationship
+                    because of distance, medium of communication, risk of people faking personalities
+                    and so forth.&lt;/li&gt;&lt;li&gt;The “perfect husband/partner” myth is circulated much more conveniently.&lt;br&gt;
+                    &lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;
+    The Why-Factor&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;Drastic-ego boost. The fact that hundreds of men would drop their caps and women
+        let their hair down at the onset of “Hi, Linda, 23, female, Toronto” is a great
+        way to massage one’s ego- no matter how lonely they are in real life.&lt;/li&gt;
+    &lt;li&gt;Sympathy is easily generated in online chat rooms. There are several instances where
+        a divorced husband confessed how his ex-wife accused him of slapping her or a heart
+        broken spinster whined about her backstabbing boyfriend.&lt;/li&gt;
+    &lt;li&gt;There are several cases of chat sessions leading to people getting laid for casual
+        sex. Cyber sex is another option why people indulge in video chats.&lt;/li&gt;&lt;li&gt;Get a woman/man
+            of any age you want irrespective of what age group you belong to!&lt;/li&gt;&lt;li&gt;Virtual sex
+                is much safer than one-night stands. Hands down! One can easily turn the “intense”
+                knob or the “tacky” knob and regulate the intensity of cyber sex. Every human is
+                voyeuristic at some level or the other.&lt;/li&gt;&lt;li&gt;Attraction works! And that happens quickly
+                    than falling in love. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    Everybody seems to have a reason to go online and hunt for that perfect date. What
+    is your reason? Single, almost single, somewhere in between the two, loneliness
+    or plain boredom??? Good, bad, ugly, online dating sure form the underbelly of the
+    cyber world. We say, it is a necessary evil. Rockying just pledges a safe online
+    dating environment.
+&lt;/p&gt;
+&lt;p&gt;
+    Just keep in mind the following:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Do not give away your exact location. Ever! It is easy to win someone’s confidence
+        online but is it worth the risk? Ask yourself.&lt;/li&gt;&lt;li&gt;Video chats definitely add to
+            the voyeuristic aspect but it has the risk of being traded into porn sites. So,
+            beware!&lt;/li&gt;&lt;li&gt;Do not forget to keep a mail id separately for these activities. Malwares
+                have the potential to steal information from your ids and create problems for you!&lt;/li&gt;&lt;/ul&gt;
+&lt;iframe src="http://www.youtube-nocookie.com/embed/v3lGI8YX9WQ?rel=0" allowfullscreen=""
+    frameborder="0" height="280" width="500"&gt;&lt;/iframe&gt;
+&lt;p&gt;
+    Everybody has had a share of this piece of cake called Online Dating. So, it is
+    tough to say if at all one can get rid of this fad. The only trick is to understand
+    when this gets transformed from momentary fun to something which is unreal and imaginative.
+&lt;/p&gt;
+&lt;h6&gt;
+    So what say? Have you “shopped” for your ideal dating partner yet? Got ditched or
+    hitched...tell us your experience.
+&lt;/h6&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>the-adventures-of-online-dating</URL>
+</Article>

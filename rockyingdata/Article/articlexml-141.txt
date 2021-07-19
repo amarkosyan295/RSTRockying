@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>141</ID>
+  <Title>Fatal Diet Trends Across the World.</Title>
+  <MetaTitle>Fatal Diet Trends Across the World.</MetaTitle>
+  <OGImage>//rockying.com/art/health/Fatal-Diet-Trends/hard_to_swallow.jpg</OGImage>
+  <OGDescription>It might be your wedding, a dance performance or simply an effort to look slimmer than your peers that initiates you towards weight loss. We say reflect twice before adopting a dietary pattern that might be the current fad of the season. You might be sizing down faster than you imagined, but it migh</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Killer Health Trends, Diet Pills</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/health/Fatal-Diet-Trends/hard_to_swallow.jpg' alt='' /&gt;&lt;p&gt;It might be your wedding, a dance performance or simply an effort to look slimmer than your peers that initiates you towards weight loss. We say reflect twice before adopting a dietary pattern that might be the current fad of the season. You might be sizing down faster than you imagined, but it migh&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    It&lt;img src="//rockying.com/art/health/Fatal-Diet-Trends/hard_to_swallow.jpg"
+        title="Hard-to-Swallow" alt="" style="max-width: 400px;" class="pull-right" /&gt;
+    might be your wedding, a dance performance or simply an effort to look slimmer than
+    your peers that initiates you towards weight loss. We say reflect twice before adopting
+    a dietary pattern that might be the current fad of the season. You might be sizing
+    down faster than you imagined, but it might just be your ticket to heaven!&lt;br&gt;
+&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;&lt;p&gt;Not all diet pills and patterns are suitable for you. Therefore, following diet
+        patterns can be a risky business. Just do not pick up any random bottle of pills
+        that say “Weight Loss”. Even the branded ones available in the market might not
+        be suitably licensed. You, therefore, might be losing weight evidently but can suffer
+        from skin diseases, boils or hair loss!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Please do not trust any drug in the
+            market that says “Lose Weight the Natural Way”. &lt;a href="http://www.facebook.com/RockyingMag"&gt;
+                Rockying&lt;/a&gt; says that the only way to shed kilos the natural way is to exercise.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;
+                    If it is a doctor or your personal trainer who has prescribed you some drugs to
+                    reduce weight, then put your thinking cap on. The doctors who guarantee 12 kilos
+                    weight loss in one week are definitely doing some uncalled-for damage to your body.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;
+                        Several foreign brands such as Xiushentang, Rapid Weight Loss Diet Pills, Herbaslim
+                        or drugs that need to be injected into the skin or inhaled through the nose should
+                        be out rightly rejected. This is because they directly hit the stomach giving instant
+                        results but damaging the body infinitely. These can cause heart attacks, strokes
+                        and spasms. Some drugs cause such tricky side effects that it is hard to trace the
+                        cause of death.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Check for a component called phenolphthalein, clenbuterol, liberium
+                            and sibutramine. These are banned by FDA, are lethal and can cause reactions that
+                            can lead to unconsciousness or even death. Women, especially, experience a discoloration
+                            of their skin in several places. &lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+    &lt;iframe src="http://www.youtube-nocookie.com/embed/0VBQgHHAqEE?rel=0" allowfullscreen=""
+        frameborder="0" height="480" width="600"&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    At the end of the day, know your body and its capacity. If at all you think you
+    need some serious tone down, then set yourself a time period and exercise accordingly.
+    Rome was not built in a day and when it comes to health, this better be a good reminder.
+&lt;/p&gt;
+&lt;h4&gt;
+    Share your weight loss experiences with us. We are all ears!&lt;/h4&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>141</URL>
+</Article>

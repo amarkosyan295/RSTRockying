@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>THAvXAPqZkRWuT</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>VNPlAk</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>13</Category>
+  <Tag>48ff4</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;VNPlAk&lt;/p&gt;</Description>
+  <Text>Get a job http://fatmomtube.in.net/ fat mom tube  Ford O&amp;#39;Connell is a Republican strategist, conservative activist, and political analyst. A frequent commentator on Fox News, CNN, and other broadcast media, he worked on the 2008 McCain-Palin presidential campaign. He is the managing director of Civic Forum Strategies and the chairman of CivicForumPAC. In 2010, he was named a &amp;#226;Rising Star&amp;#226; by Campaigns &amp;amp; Elections magazine.</Text>
+  <WriterName>sLsIfa</WriterName>
+  <WriterEmail>dylan8q@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>thavxapqzkrwut</URL>
+</Article>

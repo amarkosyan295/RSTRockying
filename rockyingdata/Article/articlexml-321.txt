@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Romance at its Best; 21st Century and the Most Beautiful Bollywood Love Songs</Title>
+  <OGImage>http://www.rockying.com/art/bollywood/Bollywood-2012/Happy-Surpises-1.jpg</OGImage>
+  <OGDescription>;ajsdljasodjajsD[OJ[aosdj</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>15</Category>
+  <Tag>Romance, Bollywood, Music, Songs</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Bollywood-2012/Happy-Surpises-1.jpg' alt='' /&gt;&lt;p&gt;;ajsdljasodjajsD[OJ[aosdj&lt;/p&gt;</Description>
+  <Text>1. Aur Kya (PBDHH)
+2. Na Tum Jano na Hum
+3. Zahenaseeb
+4. Moh Moh Ke Dhaage
+5. Agar TUm Saath Ho
+6. Channa Mereya
+7. Tu Bin Batae
+8.  Nazdeekiyan (Shandaar)
+9. Yaaram (Ek Thi Dayan)
+10. Kitne Dafe Dil Ne KAha
+11. Rehna Tu (Dilli 6)
+12. Ae HAirathe Ashiqui (Guru)
+13. Tu (Bobby Jasoos)
+14. In Lamhon ke Daaman Me
+15. Jee Le Zara
+16. Man Mast Magan
+17. Tum Tak
+18. Man Ki Lagan
+19. Ore Piya
+20. O Saathi Re (Omkara)
+21. Tose Naina Lage (Anwar)
+22. Tumse Hi (JAb We Met)
+23. Phir Le AYa Dil</Text>
+  <WriterName>Rockying</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>romance-at-its-best-the-most-romantic-bollywood-songs</URL>
+</Article>

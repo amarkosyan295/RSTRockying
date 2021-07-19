@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>ONGYgjYYJUNOJJ</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>zxm0Yo</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>20</Category>
+  <Tag>QIIC9</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;zxm0Yo&lt;/p&gt;</Description>
+  <Text>I&amp;#39;m in a band http://tubegalore.in.net/ tube galore  If your employer makes this move to curtail family plans, beprepared to show documentation that your spouse is not otherwisecovered and that you are legally married. After initiating aspousal carve-out, Ball State University in Muncie, Indiana, isrequiring employees to produce copies of their marriage licensesand sign an affidavit in order to get spousal coverage.</Text>
+  <WriterName>wyX1x</WriterName>
+  <WriterEmail>herschel0v@lycos.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>ongygjyyjunojj</URL>
+</Article>

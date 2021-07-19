@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>64</ID>
+  <Title>Snap Deal.Com: The Entrepreneur Diaries-I</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Initiative/Entrepreneurs/snap_deal.jpg</OGImage>
+  <OGDescription>It is time to post mortem a few examples on entrepreneurial ventures across the country and understand their survival instincts, their goof ups and what made them a legend...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <Category>14</Category>
+  <Tag>Entrepreneurs Of India</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;p&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Initiative/Entrepreneurs/snap_deal.jpg" title="Snap Deal" alt="" style="width: 150px; float: left;"&gt;What drives the Indian economy and the entrepreneurial culture? Are they
+ extremely knowledge-based or pure passion? It is time to post mortem a 
+few examples on entrepreneurial ventures across the country and 
+understand their survival instincts, their goof ups and what made them a
+ legend...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Initiative/Entrepreneurs/snap_deal.jpg" title="Snap Deal" alt="" style="width: 300px; float: left;"&gt;&lt;b&gt;PROBLEMS Vs OPPORTUNITIES&lt;/b&gt; (The Entrepreneur Diaries)&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Padh likh ke Tata Birla banna hai kya&lt;/i&gt;? What drives the Indian economy and the entrepreneurial culture? Are they extremely knowledge-based or pure passion? It is time to post mortem a few examples on entrepreneurial ventures across the country and understand their survival instincts, their goof ups and what made them a legend.&amp;nbsp; Let us explore the business spaces in India:&lt;/p&gt;&lt;p&gt;Stick around for the others in the series. Click at the links provided at the end of the article. The first goes...&lt;br&gt;&lt;/p&gt;&lt;p&gt;1. &lt;b&gt;THE BIRTH AND GROWTH OF SNAP DEAL&lt;/b&gt;: Kunal Bahl, the face behind those awesome deals that flood your mails every morning; he is a true success story. Its parent company being JasperIndia, Snapdeal is almost feverish. “You keep buying those deals. This has indeed made a huge difference to what I shell out every month on my entertainment and recreation. It all is just a click away!” says Satanik Chaudhuri, an employer of The Times of India. SnapDeal has gone on to become a huge brand where the deals have a good validity period and are customized for the Indian way of spending. As of now, it is networked in six cities and has a 15-city plan coming up soon. &lt;br&gt;&lt;b&gt;INTERESTING FACT&lt;/b&gt;: They opted for limited strategic marketing to begin with. Then onwards, it spreaded from one click to the other like an explosion! Bahl says, “We can’t be selling a product or service 24/7 (it is just too tiring) – products need to sell themselves if they are to become good sized businesses quickly; we can just build the right foundations and help them on their way.”&lt;br&gt;&lt;b&gt;Why a success&lt;/b&gt;? &lt;br&gt;•&amp;nbsp;&amp;nbsp; &amp;nbsp;Frictionless easy-to-approach process. &lt;br&gt;•&amp;nbsp;&amp;nbsp; &amp;nbsp;Negligible investment. So, even if you lose your initial Rs 100(booking amount, it won’t harm you much!&lt;br&gt;•&amp;nbsp;&amp;nbsp; &amp;nbsp;The actual hosts are the merchants! SnapDeal is just a means of making the buyer and the seller meet and share revenues! In a way, SnapDeal is a platform offering businesses for many vendors!&lt;/p&gt;&lt;p&gt;&lt;b&gt;Diaries &lt;a target="" title="" href="http://www.rockying.com/a/65"&gt;2&lt;/a&gt; &lt;a href="http://www.rockying.com/a/65"&gt;3&lt;/a&gt; &lt;a href="http://www.rockying.com/a/66"&gt;4&lt;/a&gt; &lt;a href="http://www.rockying.com/a/68"&gt;5&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+</Article>

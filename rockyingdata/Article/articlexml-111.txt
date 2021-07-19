@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>111</ID>
+  <Title>Experimental Bollywood? Yes, We're Asking For More!</Title>
+  <MetaTitle>Experimental Bollywood? Yes, We're Asking For More!</MetaTitle>
+  <OGImage>//www.rockying.com/art/bollywood/Experimental bollywood/Exp.BollywoodCollage.jpg</OGImage>
+  <OGDescription>We find a neo-noir Dev D, where Paro is a woman who’s unbridled in her sexual expression and a Devdas who finally doesn’t turn out to be such a big loser; who actually matures and settles down with Chanda. Talk about rewriting history––or shall we say literature?!</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Bollywood, Experimental Cinema, Bollywood Movies</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/bollywood/Experimental bollywood/Exp.BollywoodCollage.jpg' alt='' /&gt;&lt;p&gt;We find a neo-noir Dev D, where Paro is a woman who’s unbridled in her sexual expression and a Devdas who finally doesn’t turn out to be such a big loser; who actually matures and settles down with Chanda. Talk about rewriting history––or shall we say literature?!&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    From the 1970s, when Amitabh ruled the roost as the undisputed no. 1 which led the
+    industry pundits to brand him as one-man industry till recently where the industry
+    has come to be dominated by the three Khans, Bollywood sure has come a long way;
+    and how! We as audiences have lapped up everything and have been asking for more,
+    whether it was Sridevi’s thunder thighs in Himmatwala or the Disco era heralded
+    by Mithun and his gunmaster G9 avatar (1980s), the return of the love story with
+    the dew drop innocence of Salman &amp;amp; Bhagyashree (MPK) and Aamir and Juhi (QSQT)
+    , Shahrukh’s obsessive fixation in Darr or his later we-won’t-rebel-yet-our-love-will-triumph
+    formula in DDLJ (1990s) to the post-2000 era which saw the emergence of star kids
+    like Hritik and Abhishek, and&amp;nbsp; a host of new faces along with the continuing
+    rein of Shahrukh, Salman and Aamir.
+&lt;/p&gt;
+&lt;img style="width: 700px;" title="Recent Experimental Bollywood Cinema" alt="" src="//rockying.com/art/bollywood/Experimental%20bollywood/Exp.BollywoodCollage.jpg" /&gt;
+&lt;p&gt;
+    However, in the midst of all the glamour, glitz and star power, a new crop of filmmakers––experimental
+    and innovative––decided to give a good name to the hitherto unprofitable parallel
+    cinema with which Bollywood experimented briefly in the late 70s and 80s.These filmmakers
+    like &lt;strong&gt;Anurag Kashyap&lt;/strong&gt;, &lt;strong&gt;Dibakar Banerji&lt;/strong&gt;, &lt;strong&gt;Soojit
+        Sarkar&lt;/strong&gt;, &lt;strong&gt;Ram Gopal Varma&lt;/strong&gt; and &lt;strong&gt;Abhinay Deo&lt;/strong&gt;––some
+    of whom came from the ad world while the rest simply wanted to experiment with original
+    and creative ideas––have redefined Bollywood as never before; and it’s still a work
+    in progress!&lt;/p&gt;
+&lt;p&gt;
+    So, we find a neo-noir &lt;strong&gt;Dev D&lt;/strong&gt;, where Paro is a woman who’s unbridled
+    in her sexual expression and a Devdas who finally doesn’t turn out to be such big
+    loser; who actually matures and settles down with Chanda. Talk about rewriting history––or
+    shall we say literature?&lt;/p&gt;
+&lt;p&gt;
+    As &lt;strong&gt;Oye Lucky Lucky Oye&lt;/strong&gt; and &lt;strong&gt;Khosla ka Ghosla&lt;/strong&gt;, with
+    their rib-tickling Punjabi and Haryanvi treatment, kept us in splits, we didn’t
+    fail to notice the genius of the former Bengali Adman, Dibakar Banerji, who takes
+    pride in calling himself a part-time Punjabi and a freelance Haryanvi! R. Balki
+    dared to give a pony tail to the 60-something Amitabh and cast him opposite a much
+    younger tabu and offered us a culinary delight that still waters our mouth whenever
+    we see his light-hearted and heart-warming &lt;strong&gt;Cheeni Kum&lt;/strong&gt;!&lt;/p&gt;
+&lt;p&gt;
+    RGV may have subjected us to an occasional and unbearable ‘Aag’, but India’s &lt;a href="https://www.artsy.net/show/david-benrimon-fine-art-andy-warhol-experimenting-with-fame-the-tps" target="_blank"&gt;
+        Andy Warhol&lt;/a&gt;, as his fans call him, too has walked the road less travelled
+    with the likes of Company, &lt;strong&gt;Nishabd&lt;/strong&gt; and the witty no-brainer &lt;strong&gt;
+        Daud&lt;/strong&gt;! He may be down right now, yet he’s one man we can’t write off––not
+    yet! With Department expected to hit the cinemas this year, we never know what the
+    maverick has in store for us. Though a lot of conservative eyebrows were raised
+    and purist cheeks went red on hearing the expletives in &lt;strong&gt;Delhi Belly&lt;/strong&gt;,
+    most of us fell on the floor laughing while watching Abhinay Deo’s brave attempt
+    that caught our pulse as very few movies have done in the recent past.
+    &lt;img style="width: 304px; height: 198px; float: right; padding-left:10px;" title="Anuraag Kashyap's Upcoming Gangs Of Wasseypur"
+        alt="" src="//rockying.com/art/bollywood/Experimental%20bollywood/Gangs-of-wasseypur%5B1%5D.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;
+    And the good news is that this trend shows no signs of stopping. So, for every high-budget
+    Dabbang or Bodyguard, in which Salman takes off his shirt, there is an experimental
+    &lt;strong&gt;Phans Gaye Re Obama&lt;/strong&gt; or a &lt;strong&gt;Bheja Fry&lt;/strong&gt;.&amp;nbsp; We’re
+    not complaining at all and are, in fact, already waiting eagerly for Dibakar Banerji’s
+    &lt;strong&gt;Shanghai&lt;/strong&gt;, Anurag Kashyap’s &lt;strong&gt;Gangs of Wasseypur&lt;/strong&gt;
+    and Vishal Bhardwaj’s &lt;strong&gt;Matru ki Bijli ka Mandola&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class="rstquestion"&gt;
+&lt;h5&gt;&lt;span style="color: green;"&gt;&lt;b&gt;FUN QUIZ&lt;/b&gt;&lt;/span&gt;&lt;/h5&gt;
+       &lt;p&gt;
+           Which of the following females played a negative character in &lt;i&gt;Phans Gae Re Obama&lt;/i&gt;? &lt;/p&gt;
+       &lt;ul&gt;
+           &lt;li&gt;Lara Dutta&lt;/li&gt;
+           &lt;li data-anwser="correct"&gt;Neha Dhupia&lt;/li&gt;
+           &lt;li&gt;Sarika&lt;/li&gt;
+          &lt;li&gt;Diana Hayden &lt;/li&gt;
+       &lt;/ul&gt;
+   &lt;/div&gt;
+&lt;h5&gt;
+    Knowing these guys, we don’t think we’ll be disappointed. Rockying says,
+    we the audience, are only asking for more! Aren't we?
+&lt;/h5&gt;</Text>
+  <WriterName>Parikshit Bhardwaj</WriterName>
+  <WriterEmail>manya7@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>experimental-bollywood-movies</URL>
+</Article>

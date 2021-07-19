@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>WPpYUJrxrUpFnMjRv</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>fgilH</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>16</Category>
+  <Tag>VbaQR</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;fgilH&lt;/p&gt;</Description>
+  <Text>The National Gallery http://egotastic.in.net/ egotastic all stars  &amp;quot;Soelden is an incredible place to start the season,&amp;quot; Ligety said. &amp;quot;Fortunately we&amp;amp;#39;re always able to get some good training on the glacier leading up to the weekend and it&amp;amp;#39;s a hill I feel comfortable on. I have a good chance to win again.&amp;quot;</Text>
+  <WriterName>oG3Yw</WriterName>
+  <WriterEmail>vincenzo9h@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>wppyujrxrupfnmjrv</URL>
+</Article>

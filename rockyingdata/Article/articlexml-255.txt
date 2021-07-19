@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>8 Ways to Beat Techno-Stress!</Title>
+  <OGImage>http://www.rockying.com/art/internet/8-Ways-to-beat-Techno-Stress/Home.jpg</OGImage>
+  <OGDescription>Not only is it frustrating to manage all your electronic devices, the tension there takes a toll and before you know it, you might be fighting the stress of being sane in the online activities...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>10</Category>
+  <Tag>Technostress, A World Without Internet, No phones while driving, Organize Life, Organise Computer, Clear Inbox, Gadgets away from Sleep, Wasting time online.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/internet/8-Ways-to-beat-Techno-Stress/Home.jpg' alt='' /&gt;&lt;p&gt;Not only is it frustrating to manage all your electronic devices, the tension there takes a toll and before you know it, you might be fighting the stress of being sane in the online activities...&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px;  height:40px;
+            font-size: 50px; font-weight: 100; color: #000; border: none; text-align: center; margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px;height:40px;
+            font-size: 50px; font-weight: 100; color: #000;border: none; text-align: center;margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="slideshow"&gt;
+        &lt;div class="slide"&gt;
+            &lt;p&gt;
+Regardless of what we do, technology is getting the better of us in every step. Not only is it frustrating to manage all your electronic devices, the tension there takes a toll and before you know it, you might be fighting the stress of being sane in the online activities. It is high time some of us de-cluttered in the online world. Not only will it be relaxing, it will reduce the extra tension you carry around all the time. 
+&lt;/p&gt;
+            &lt;img src="http://www.rockying.com/art/internet/8-Ways-to-beat-Techno-Stress/technostress.gif" alt="Right Body Posture" style="padding-down";/&gt;&lt;br&gt;
+            &lt;p&gt;
+               &lt;b&gt;1. Know the Right Body Posture &lt;/b&gt; -We all like to slack in front of our computers. But don’t do it too often. Especially, if you are at work, then you need to adapt the right posture to prevent yourself from problems related to back, eye and neck! &lt;/p&gt;
+        &lt;/div&gt;
+ &lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/internet/8-Ways-to-beat-Techno-Stress/Inbox-Zero.jpg" alt="Inbox Zero" style="padding-down";/&gt;&lt;br&gt;
+            &lt;p&gt;
+               &lt;b&gt;2. Inbox Zero &lt;/b&gt; - If you want to know the mantra behind Inbox Zero visit their &lt;a href="http://inboxzero.com/articles/" target="_blank"/&gt;site&lt;/a&gt;. Or just clean out your Inbox. Especially mail you haven’t read for years and don’t need them there. Reply to those emails you have been putting away for weeks. You don’t want to be going through the pressure of 26, 012 unread messages every time you open your inbox.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/internet/8-Ways-to-beat-Techno-Stress/productivity.jpg"
+                alt="Productivity" style="padding-down";/&gt;&lt;br/&gt;
+            &lt;p&gt;
+&lt;b&gt;3. Less Time, More Work &lt;/b&gt; -Many of us just keep streaming through the Facebook stream and twitter streams in hope of finding something interesting. While we are doing this, we obviously lose the track of time. Keep a stopwatch or turn out the alarm clock before you sit on the net. Time yourself and see how much of work you actually do in one hour. Set the alarm to one hour and try finishing your work. Time saved from the online world can used to be actually productive in the offline world! 
+               &lt;/p&gt;
+        &lt;/div&gt;
+ &lt;div class="slide"&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;
+            &lt;img src="http://www.rockying.com/art/internet/8-Ways-to-beat-Techno-Stress/Too-many-Friends.jpg"
+                alt="Too many Friends" style="padding-down";/&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;
+            &lt;p&gt;
+&lt;b&gt;4. You Don’t Have 4000 Friends &lt;/b&gt;- Clear out your FB friend list. There are so many people in there you almost never talk to. And it doesn’t sense to be friends with so many people when it really doesn’t make a difference. Also, while you are at it, try clearing out the pages you like on Facebook. They just crowd your stream and add on to the distractions.
+               &lt;/p&gt;
+        &lt;/div&gt;
+ &lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/internet/8-Ways-to-beat-Techno-Stress/No-Gadgets-To-Sleep.jpg"
+                alt="Gadgets away from Sleep" style="padding-down";/&gt;&lt;br&gt;
+            &lt;p&gt;
+&lt;b&gt;5. De-Tech Your Bedroom&lt;/b&gt;- If you are complaining about not getting enough sleep and not being able to sleep well, it is because you are busy checking your facebook notifications and your emails under the blanket. Don’t carry your iPads, mobiles, laptops to the bed. Maybe your mobile makes sense; but only for the alarm clock or other important reminders. But if you are panicking about checking your email at 3 in the morning, then its time for a reality check.
+               &lt;/p&gt;
+        &lt;/div&gt;
+&lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/internet/8-Ways-to-beat-Techno-Stress/organise.jpg" alt="Organize" style="padding-down";/&gt;&lt;br&gt;
+            &lt;p&gt;
+&lt;b&gt;6. Clean the Computer &lt;/b&gt;- This might take a long time for many of us but do it! Organize the files and folders and pictures in your computer. Our computers are a storehouse of things we don’t really need. Many documents, albums, folders, presentations are dated from a million years back! Sort them out, delete those which you don’t need and reduce the clutter. While you are at it, empty your recycle bin!
+               &lt;/p&gt;
+        &lt;/div&gt;
+&lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/internet/8-Ways-to-beat-Techno-Stress/Drive.jpg" alt="Drive Only" style="padding-down";/&gt;&lt;br&gt;
+            &lt;p&gt; 
+&lt;b&gt;7. While Driving, Only Drive! &lt;/b&gt;- There have been just way too many accidents due to texting while driving or talking on the phone while driving. Your life is much more important than the “important” SMS you have to send out. Studies show that texting and talking in the car—even hands free—could be as dangerous as driving drunk. If it’s an important call you have to take, use hands free, or Bluetooth headsets or better, stop the car at the side of the car, finish talking, then move. 
+               &lt;/p&gt;
+        &lt;/div&gt;
+&lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/internet/8-Ways-to-beat-Techno-Stress/no-internet.jpg" alt="Holiday" style="padding-down";/&gt;&lt;br&gt;
+            &lt;p&gt;
+&lt;b&gt;8. Unplug your weekend &lt;/b&gt;-Let your weekends be free of all things techno. This might be tough for the FB addicts and workaholic who need to check their emails every second but give it a try one weekend. Or maybe once every two weeks. Just unplug - no computers, no laptops, no smartphones, no iPads, no tablets, no nothing! Just a quiet time with family, friends, may be go have a nice time outside! 
+               &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</Text>
+  <SlideShowOn>true</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

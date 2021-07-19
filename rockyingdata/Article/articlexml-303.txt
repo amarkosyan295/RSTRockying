@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Killer Dialogues of Bollywood- III; Modern Hindi Dialogues that will Stick Around to Go EverGreen</Title>
+  <OGImage>http://www.rockying.com/art/Kuch Kuch Hota hai.jpg</OGImage>
+  <OGDescription>Hilarity and Bollywood go hand in...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Humor, Bollywood.</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Kuch Kuch Hota hai.jpg' alt='' /&gt;&lt;p&gt;Hilarity and Bollywood go hand in...&lt;/p&gt;</Description>
+  <Text>1. Ise zila ghoshit kyun nai kar dete? (Chup Chup Ke)
+2. Risk to Spider man ko bhi lena padta hai (Rocket Singh)
+2. Pink (Na ka matlab)
+3. Mera dil to karta hai ki use andar ghuske phat jaun (Tere Bin Laden) 
+4. Main to ye kehta hun ki ap dani hain......ki ap purush hi nahin maha purush hain mahapurush!  (Andaz Apna Apna)
+5. Mhaari Chhoriyan Chhoron se kam hain ke? (Dangal)
+6. HUm kitni kursiyaan dekhte hain ...(Dear Zindagi)
+7. Biwi pas Chahiye to ghar me sandaas chahiye (Toilet)
+8.</Text>
+  <WriterName>Preeti Singh</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>WideBlogTemplate</TemplateName>
+  <URL>303/killer-dialogues-of-bollywood-iii-modern-hindi-dialogues-that-will-stick-around-to-go-evergreen</URL>
+</Article>

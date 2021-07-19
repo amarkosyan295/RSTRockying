@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Post-Apocalyptic Mayhem Sponsored by Hollywood (With Survival Tips to last through the Disaster!)</Title>
+  <MetaTitle>Hollywood Movies of the last few decades based on the Post Apocalyptic Era</MetaTitle>
+  <OGImage>http://www.rockying.com/art/HOllywood/Post-Apocalyptic-Hollywood-Mayhem/WALL-E.jpg</OGImage>
+  <OGDescription>It’s time again to turn to Hollywood for the Rockying take on the Hollywood's Post Apocalyptic Movies of last decades</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>12</Category>
+  <Tag>Prepper Tips, Disaster Survival tips, Hollywood's Post Apocalyptic Movies, Post Apocalypse, Matrix, Terminator, Wall E, Zombieland, Planet of the Apes.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/HOllywood/Post-Apocalyptic-Hollywood-Mayhem/WALL-E.jpg' alt='' /&gt;&lt;p&gt;It’s time again to turn to Hollywood for the Rockying take on the Hollywood's Post Apocalyptic Movies of last decades&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    Rockying is your good friend. And like all good friends we spent a great amount of time predicting how exactly will your world come to its end (with some generous help from Hollywood, of course!) And since we got you all worked up about the coming &lt;a href="http://www.rockying.com/a/256"&gt;apocalypse&lt;/a&gt;, it is time that we also educate you about how to survive it. It’s time yet again, to turn to Hollywood for the &lt;a href="http://www.rockying.com/default"&gt;Rockying &lt;/a&gt;take on the best post-apocalyptic movies ever and the survival tips they offer us.
+&lt;/p&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+           The Terminator Series&lt;/h4&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Post-Apocalyptic-Hollywood-Mayhem/terminator-main.jpeg" alt="Terminator"/&gt;
+        &lt;p&gt;
+           If you have grown up in the 90s then you will forever remember Terminator 2: Judgement Day as one of the coolest Hollywood movies ever. The grim setting, furious action scenes and Arnold in his most iconic role ever makes this James “Avatar” Cameron directed movie a cinematic classic. After a disappointing third part, this grim story of a future machine vs. men war comes alive in the fourth movie in the series where Christian Bale (taking a break from being Batman) battles hordes of massive terminators. &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;SURVIVAL TIP: Learn to shoot. Well, that’s what most American movies tell us anyways.&lt;/b&gt;&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Post-Apocalyptic-Hollywood-Mayhem/terminator_salvation.jpg" alt="Terminator"/&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+           The Matrix Trilogy &lt;/h4&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Post-Apocalyptic-Hollywood-Mayhem/matrix.jpg" alt="Matrix"/&gt;
+        &lt;p&gt;
+          Matrix is known best for its ground-breaking special effects and the emotionless stony face of Keanu Reeves (something which no special effect could fix).  But at its heart of the blockbuster trilogy is the story of grim survival in a world ravaged by machines. The survivors huddle together in a underground free city called Zion and plug in to the virtual reality world of the matrix where they are able to do all sorts of cool stuff: like flying like superman, fighting like Bruce lee and wearing tight leather dress like… er, well, like no one we know! 
+        &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;SURVIVAL TIP: Everybody loves kung fu fighting! So start looking for a martial arts guru fast! &lt;/b&gt;&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Post-Apocalyptic-Hollywood-Mayhem/Matrix-Kung-FU.jpg" alt="Matrix"/&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+            Wall E&lt;/h4&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Post-Apocalyptic-Hollywood-Mayhem/WALL-E.jpg" alt="Wall E"/&gt;
+        &lt;p&gt;
+           The post-apocalyptic world, though bleak, can also be remarkably fun as proved by this delightful movie by Pixar. In the future, the humans have taken up home in massive space ships, leaving behind a world choked to death by garbage. One little clean-up robot named Wall-E is the sole survivor, evading the death traps around him while arranging the junk around him in piles higher than skyscrapers. When he falls in love with a female robot named Eva, this post-apocalyptic movie soon transforms in one of the cutest love stories you will ever see. 
+&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;SURVIVAL TIP: Fall in Love! Remember our own desi Robot &lt;i&gt;Chitti&lt;/i&gt; falling for Aishwarya? Well, the feeling is universal. Even robots have a heart.&lt;/b&gt;&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Post-Apocalyptic-Hollywood-Mayhem/Wall-E-Love.jpg" alt="Wall E"/&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+           Planet of the Apes&lt;/h4&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Post-Apocalyptic-Hollywood-Mayhem/Planet-of-the-Apes.jpg" alt="Planet of the Apes"/&gt;
+        &lt;p&gt;
+           Do yourself a favour and watch the 1968 original starring Charlton Heston instead of the more recent adaptation starring Mark Wahlberg. A brilliant take on the book by French author Pierre Boulle, the movie puts us on a planet where Apes rule the world and treat humans like lab rats. With stellar acting and a great script, the movie also boasts of one of the best twist in the tale endings ever&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;SURVIVAL TIP: These brainy apes are no underdogs. We belong to the same ‘great ape family’ after all!&lt;/b&gt;&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Post-Apocalyptic-Hollywood-Mayhem/Brainy-Ape.jpg" alt="Planet of the Apes"/&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+       Zombieland&lt;/h4&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Post-Apocalyptic-Hollywood-Mayhem/Zombieland.jpg" alt="Zombieland"/&gt;
+&lt;p&gt;
+    It is as if the makers of the movie had the same exactly motivation as we have, i.e teaching helpless mortals about surviving the world’s end. A street smart chick with her sister and an All-America zombie killer join a nerdy survivor in a journey across a post-apocalyptic America. The protagonist has survived the Zombie plague by following his self-created rules and the entire plot of the movie delightfully runs around these “Rules of Survival”. With pearls of wisdom like “Double Tap the Dead”, “Always look in the back seat” and “Always wear seat belts”, Zombieland is a true survivor’s guide to the world’s end.
+&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;SURVIVAL TIP: Memorise every “Rule” shown in the movie.&lt;/b&gt;&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Post-Apocalyptic-Hollywood-Mayhem/Zombieland-rules.jpg" alt="Zombieland"/&gt;
+&lt;p class="well"&gt;
+&lt;b&gt;About the Author:&lt;/b&gt; Keeping her eyes closed, with long breaths and a gentle sound many mistake for snoring, actually helps Sonali think better. Or so she says. People question about these daily “thinking sessions”, mostly conducted on a comfortable couch or bed, while she claims that the long overdue best-seller she’s been working on (for quite some time now) will silence all the cynics. Till then she dreams on...
+&lt;/p&gt;</Text>
+  <WriterName>Sonali Chowdhury</WriterName>
+  <WriterEmail>media.sonali@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>260</URL>
+</Article>

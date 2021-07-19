@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>The Little girl went to pharmacy</Title>
+  <OGImage>http://2.bp.blogspot.com/_wuSqJG5bIKE/TU6F1S_ryuI/AAAAAAAAAzQ/74Nj0Jl1tx8/s1600/Miracles%2BHappen.jpg</OGImage>
+  <OGDescription>The Little girl went to pharmacy</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>23</Category>
+  <Tag>Story, Miracle</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;p&gt;A little girl went to her bedroom and pulled a glass jelly jar from its hiding place in the closet. She poured the change out on the floor and counted it carefully. Three times even!! The total had to be exactly perfect. No chance here for mistakes.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    A little girl went to her bedroom and pulled a glass jelly jar from its hiding place
+    in the closet.&lt;/p&gt;
+&lt;p&gt;
+    She poured the change out on the floor and counted it carefully. Three times even!!&lt;/p&gt;
+&lt;p&gt;
+    The total had to be exactly perfect.&lt;/p&gt;
+&lt;p&gt;
+    No chance here for mistakes.&lt;/p&gt;
+&lt;p&gt;
+    Carefully placing the coins back in the jar and twisting on the cap, she slipped
+    out the back door and made her way 6 blocks to Rexall's Drug Store with the big
+    red Indian Chief sign above the door.&lt;/p&gt;
+&lt;p&gt;
+    She waited patiently for the pharmacist to give her some attention, but he was too
+    busy at this moment.&lt;/p&gt;
+&lt;p&gt;
+    Tess twisted her feet to make a scuffing noise.&lt;/p&gt;
+&lt;p&gt;
+    Nothing.&lt;/p&gt;
+&lt;p&gt;
+    She cleared her throat with the most disgusting sound she could muster. No good.&lt;/p&gt;
+&lt;p&gt;
+    Finally she took a quarter from her jar and banged it on the glass counter.&lt;/p&gt;
+&lt;p&gt;
+    That did it!&lt;/p&gt;
+&lt;p&gt;
+    'And what do you want?' the pharmacist asked in an annoyed tone of voice.&lt;/p&gt;
+&lt;p&gt;
+    "I'm talking to my brother from Chicago whom I haven't seen in ages," he said without
+    waiting for a reply to his question.&lt;/p&gt;
+&lt;p&gt;
+    'Well, I want to talk to you about my brother,' Tess answered back in the same annoyed
+    tone.&lt;/p&gt;
+&lt;p&gt;
+    'He's really, really sick....and I want to buy a miracle.'&lt;/p&gt;
+&lt;p&gt;
+    'I beg your pardon?' said the pharmacist.&lt;/p&gt;
+&lt;p&gt;
+    'His name is Andrew and he has something bad growing inside his head and my Daddy
+    says only a miracle can save him now.&lt;/p&gt;
+&lt;p&gt;
+    So how much does a miracle cost?'&lt;/p&gt;
+&lt;p&gt;
+    'We don't sell miracles here, little girl.&lt;/p&gt;
+&lt;p&gt;
+    I'm sorry but I can't help you,' the pharmacist said, softening a little...&lt;/p&gt;
+&lt;p&gt;
+    'Listen, I have the money to pay for it.&lt;/p&gt;
+&lt;p&gt;
+    If it isn't enough, I will get the rest.&lt;/p&gt;
+&lt;p&gt;
+    Just tell me how much it costs....'&lt;/p&gt;
+&lt;p&gt;
+    The pharmacist's brother was a well dressed man.&lt;/p&gt;
+&lt;p&gt;
+    He stooped down and asked the little girl, 'What kind of a miracle does your brother
+    need?'&lt;/p&gt;
+&lt;p&gt;
+    ' I don't know,' Tess replied with her eyes welling up.&lt;/p&gt;
+&lt;p&gt;
+    I just know he's really sick and Mommy says he needs an operation but my Daddy can't
+    pay for it, so I want to use my money.'&lt;/p&gt;
+&lt;p&gt;
+    'How much do you have?' asked the man from Chicago.&lt;/p&gt;
+&lt;p&gt;
+    'One dollar and eleven cents,' Tess answered barely audible.&lt;/p&gt;
+&lt;p&gt;
+    'And it's all the money I have, but I can get some more if I need to.'&lt;/p&gt;
+&lt;p&gt;
+    'Well, what a coincidence,' smiled the man.'&lt;/p&gt;
+&lt;p&gt;
+    A dollar and eleven cents---the exact price of a miracle for little brothers.'&lt;/p&gt;
+&lt;p&gt;
+    He took her money in one hand and with the other hand he grasped her mitten and
+    said, 'Take me to where you live.&lt;/p&gt;
+&lt;p&gt;
+    I want to see your brother and meet your parents.&lt;/p&gt;
+&lt;p&gt;
+    Let's see if I have the miracle you need.'&lt;/p&gt;
+&lt;p&gt;
+    That well-dressed man was Dr. Carlton Armstrong, a surgeon, specializing in neuro-surgery.&lt;/p&gt;
+&lt;p&gt;
+    The operation was completed free of charge and it wasn't long until Andrew was home
+    again and doing well.&lt;/p&gt;
+&lt;p&gt;
+    Mom and Dad were happily talking about the chain of events that had led them to
+    this place.&lt;/p&gt;
+&lt;p&gt;
+    'That surgery,' her Mom whispered, 'was a real miracle.&lt;/p&gt;
+&lt;p&gt;
+    I wonder how much it would have cost?'&lt;/p&gt;
+&lt;p&gt;
+    Tess smiled.&lt;/p&gt;
+&lt;p&gt;
+    She knew exactly how much a miracle cost...&lt;/p&gt;
+&lt;p&gt;
+    one dollar and eleven cents...plus the faith of a little child.&lt;/p&gt;
+&lt;p&gt;
+    In our lives, we never know how many miracles we will need.&lt;/p&gt;
+&lt;p&gt;
+    A miracle is not the suspension of natural law, but the operation of a higher law.&lt;/p&gt;
+&lt;p&gt;
+    I know you'll keep the ball moving!&lt;/p&gt;
+&lt;p&gt;
+    Here it goes. Throw it back to someone who means something to you!&lt;/p&gt;
+&lt;p&gt;
+    A ball is a circle...no beginning, no end.&lt;/p&gt;
+&lt;p&gt;
+    It keeps us together like our Circle of Friends.&lt;/p&gt;
+&lt;p&gt;
+    But the treasure inside for you to see is the treasure of friendship you've granted
+    to me.&lt;/p&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Unknown</WriterName>
+  <WriterEmail>Unknown@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

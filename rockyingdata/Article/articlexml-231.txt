@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Most Beautiful Buildings in the World</Title>
+  <OGImage>http://www.rockying.com/art/HOllywood/Most-Beautiful-Buildings/Burj-al-arab-HOme.jpg</OGImage>
+  <OGDescription>What comes to your mind when we say beautiful buildings? Do you instantly think of Taj Mahal or the Red Fort or the Pantheon?</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Architecture, Buildings, Travel, World, Most Beautiful Buildings, Taj Mahal</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/HOllywood/Most-Beautiful-Buildings/Burj-al-arab-HOme.jpg' alt='' /&gt;&lt;p&gt;What comes to your mind when we say beautiful buildings? Do you instantly think of Taj Mahal or the Red Fort or the Pantheon?&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    What comes to your mind when we say beautiful buildings? Do you instantly think
+    of Taj Mahal or the Red Fort or the Pantheon? A hundred years ago, naming the most
+    breathtaking building was easy. But not anymore! With so many choices to pick from,
+    we had a tough time picking out the choicest. But here you go, feast your eyes to
+    some of the most wonderful architecture from across the globe with a little bit
+    about each.&lt;/p&gt;
+&lt;ul class="unstyled"&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            Burj Al Arab, Dubai&lt;/h3&gt;
+        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/burj-al-arab-Exterior_drago.jpg"
+            style="height: 500px;" alt="Burj Al Arab Exterior" /&gt;
+        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/burj-al-arab-interior.jpeg"
+            style="height: 500px;" alt="Burj Al Arab interior" /&gt;
+        &lt;p&gt;
+            Opened in 1999 and often referred to as the world’s seven star hotel (though often
+            debated), Burj Al Arab is the fourth tallest hotel in the world. Standing at 321
+            m (1053 ft), the hotel is located on its own private island and is connected to
+            the mainland via a private curving bridge. Shaped like a dhow (a sailing vessel),
+            the hotel boasts of one of the most beautiful atrium standing at 180 m tall.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            Netherlands Institute of Sound and Vision, Netherlands&lt;/h3&gt;
+        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/I-O-S-A-V-Netherlands.jpg"
+            alt="Netherlands Institute of Sound and Vision" style="height: 370px;" /&gt;
+        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/Institute-of-Sound-And-Vision-Netherlands.jpg"
+            alt="Netherlands Institute of Sound and Vision" style="height: 370px;" /&gt;
+        &lt;p&gt;
+            Conceived as a perfect cube, half of which is underground, this building is the
+            storehouse of the largest audiovisual archives of Europe. The structure’s panels
+            are imprinted with famous images from Dutch television: the justice minister riding
+            his bicycle, say, Johan Cruyff scoring a goal. Using computer technology, the architect
+            ran the images together and baked them into the glass.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            St Mark’s Square, Venice&lt;/h3&gt;
+        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/st-marks-square.jpg"
+            alt="St. Mark's Square in Venice" style="height:350px;" /&gt;
+        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/Piazza.jpg"
+            alt="Piazza" style="height:350px;" /&gt;
+        &lt;p&gt;
+            Piazza San Marco, known as St. Mark’s Square in English or more popularly as the
+            Piazza, this is the public square in Italy. Described by Napoleon as the “most beautiful
+            drawing room”, the piazza is a grand structure and stands beautifully.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            The Guggenheim, Bilbao Spain&lt;/h3&gt;
+        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/Guggenheim-Spain.JPG"
+            alt="The Guggenheim, Bilbao Spain" style="height:300px;" /&gt;
+            &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/The-Guggenheim-Bilbao-Spain.jpg" alt="The Guggenheim, Bilbao Spain" style="height:300px;" /&gt;
+        &lt;p&gt;
+            When this building was opened in 1997, it was described as the most important building
+            of its time. Built of limestone, glass and titanium, the museum features exhibitions
+            organized by the Guggenheim Foundation and by the Guggenheim Museum Bilbao, as well
+            as selections from the permanent collection of the Guggenheim Museums. Built along
+            the Nervion River, this museum is often referred to as the most important work since
+            the 1980s, among architectural experts.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            Hagia Sophia, Istanbul&lt;/h3&gt;
+        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/Hagia-Sofia.jpg"
+            alt="Hagia Sophia, Istanbul" style="height:350px;" /&gt;
+        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/Hagia-Sofia-Interior2.jpg"
+            alt="Interiors of Hagia Sophia, Istanbul" style="height:350px;" /&gt;
+        &lt;p&gt;
+            Initially started as a Church, then a mosque and now a museum, this building is
+            the epitome of old world charm in Istanbul. One of the greatest surviving example
+            of the Byzantine architecture, its interiors is decorated with mosaic and marbles
+            and coverings of great artisitic value.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            Shwedagon Pagoda, Myanmar&lt;/h3&gt;
+        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/Shwedagon-Pagoda.jpg"
+            alt="Shwedagon Pagoda in Myanmar" style="height:350px;" /&gt;
+        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/Shwedagon-Pagoda-Aerial-View.jpg"
+            alt="Aerial views of Shwedagon Pagoda in Myanmar" style="height:350px;" /&gt;
+        &lt;p&gt;
+            The oldest historical pagoda, standing for over 2,600 years, the pagoda is 99 mts
+            high and dominates the skyline of the city. It is the most sacred Buddhist pagodas
+            and the gold seen on the stupa is made of genuine gold plates, covering the brick
+            structure and attached by traditional rivets. People from Myanmar and monarchs from
+            all over have donated to have the gold setup and for it to be maintained.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            King Ludwig’s Castle, Bavaria&lt;/h3&gt;
+        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/King-Ludwigs-Castle.jpg"
+            alt="King Ludwig’s Castle in Bavaria" style="height:250px;" /&gt;
+        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/King-Ludwigs-Castle2.jpg"
+            alt="King Ludwig’s Castle in Bavaria" style="height:250px;" /&gt;
+        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/ludwigs-castle.jpg"
+            alt="King Ludwig’s Castle in Bavaria" style="height:250px;" /&gt;
+        &lt;p&gt;
+            Famously known as the Sleeping Beauty’s Castle, Kind Ludwig’s Castle or Neuschwanstein
+            Castle is every girl’s dream castle. Built under the commission of Ludwig II, King
+            of Bavaria, in the 19th century; this palace was far from built when Ludwig died.
+            Though an incomplete structure (according to the original plan) this castle attracts
+            over 1.3 million visitors every year. The majestic exteriors makes in one of the
+            most popular attraction of Europe.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            Sistine Chapel, Rome&lt;/h3&gt;
+        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/Sistine-Chapel.jpg"
+            alt="Sistine Chapel in Rome Italy" /&gt;
+        &lt;p&gt;
+            The official residence of the Pope in the Vatican City, the Sistine Chapel is best
+            known for its ceiling. The ceiling which is probably one of the greatest works of
+            Michelangelo, took about four years to complete. The painted area of the ceiling
+            is about 40 m (131 ft) long by 13 m (43 ft) wide. This means that Michelangelo painted
+            well over 5,000 square feet (460 m2) of frescoes. To understand the full impact
+            and beauty of this structure, one has to read this quote which sums it beautifully.&lt;/p&gt;
+        &lt;h6&gt;
+            "Without having seen the Sistine Chapel one can form no appreciable idea of what
+            one man is capable of achieving." -- Johann Wolfgang Goethe, 23 August 1787&lt;/h6&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            The Taj Mahal&lt;/h3&gt;
+        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/taj.jpg" alt="The Taj Mahal in India" /&gt;
+        &lt;p&gt;
+            We cannot do a list of beautiful buildings without mentioning India’s pride - The
+            Taj Mahal. Known for its beauty for the love, Taj Mahal is the epitome of Mughal
+            architecture. Built as a tribute, Taj Mahal is a tomb for Mumtaz Mahal, wife of
+            emperor Shah Jahan, the centre of Taj Mahal is the tomb of both of them. The minarets
+            are over 130 ft high and every aspect of the structure has elements of Persian architecture
+            in it. With over 20 years required to build the monument of love, this beauty is
+            definitely one to lay eyes on.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            The Pantheon, Rome&lt;/h3&gt;
+        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/Pantheon.jpg"
+            alt="The Pantheon in Rome Italy" style="height:350px;" /&gt;
+        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/pantheon_aerial_view.jpg"
+            alt="Aerial view of Pantheon in Rome Italy" style="height:350px;" /&gt;
+        &lt;p&gt;
+            A Roman Temple built for the Gods of Ancient Rome, Pantheon is over 2000 years old.
+            The dome of the Pantheon is the world's largest unreinforced concrete dome. The
+            only source of light is the interior is the entry door and the oculus (or the circular
+            hole at the apex of the dome). Two kings and a queen of Italy are buried in the
+            Pantheon. It is one of the marvels of architecture.&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    What remains to be understood is that there so many more which could have made it
+    to the list. As they say, beauty lies in the eyes of the beholder. Do tell us what
+    your favorites among the list or any that you would like to mention. &lt;strong&gt;And if
+        you got the time and money go visit them and find out for yourself!&lt;/strong&gt;&lt;/p&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

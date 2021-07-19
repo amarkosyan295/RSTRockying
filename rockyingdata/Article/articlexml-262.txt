@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Amazing Snow Falling Places in London!</Title>
+  <OGImage>http://www.rockying.com/art/Travel/Snow-fall-in-London/Tower-Bridge.jpg</OGImage>
+  <OGDescription>Amazingly, no two winters in London are ever the same. Stop a London resident who has lived there for years and ask them what they think the next winter would be like, they might not give you an answer.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Travel London, Snow Fall in London, Hyde Park, Green Park, Tower Bridge, Buckingham Palace, The London Eye.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Travel/Snow-fall-in-London/Tower-Bridge.jpg' alt='' /&gt;&lt;p&gt;Amazingly, no two winters in London are ever the same. Stop a London resident who has lived there for years and ask them what they think the next winter would be like, they might not give you an answer.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+London is one of the Cities that experience winters characterized by heavy snowfall. Amazingly, no two winters in London are ever the same. Stop a London resident who has lived there for years and ask them what they think the next winter would be like, they might not give you an answer. Winters in London are however characterized by very little sunshine hence the pale looking days!
+&lt;/p&gt;
+&lt;p&gt;
+If you are in London during the winter, you can have a great time since there are parts of London that you can visit even when covered with snow. You can get to London from the outskirts by buying the &lt;a href="http://nationalrailguide.co.uk/" target="_blank"/&gt;cheapest train tickets&lt;/a&gt; since most roads are usually covered in snow making trains the best transport option.
+&lt;/p&gt;
+&lt;H4&gt;The Green and Hyde Parks&lt;/h4&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Snow-fall-in-London/green-park-hyde-park-snow-02.jpg" alt="Green Park"/&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Snow-fall-in-London/hyde-park-hosting-winter-wonderland.jpg" alt="Hyde Park"/&gt;
+&lt;p&gt;
+In London, there are a couple of places that you can enjoy during the spring and the summer such as the &lt;b&gt;Green and Hyde Park&lt;/b&gt;. This is an excellent place to visit even during the winter. As a visitor you can get to enjoy the white look the park has when covered in snow fall. You can also get to enjoy German Sausages and Sip wine in the park. Hyde Park is very accessible being just a few kilometers from &lt;b&gt;Trafalgar Square&lt;/b&gt;.
+&lt;/p&gt;
+&lt;h4&gt;The London Eye&lt;/h4&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Snow-fall-in-London/London-Eye.jpg" alt="London Eye"/&gt;
+&lt;p&gt;
+Another excellent place to visit when you want to enjoy the London Snow fall is the &lt;b&gt;London Eye&lt;/b&gt;. Here, you get to sit in the warm capsule as you are taken for a slow ride enjoying a great view of snow covered London. From as high as 443 ft in the air, you can be sure to enjoy breath taking sceneries that you will only get to experience in the winter.
+&lt;/p&gt;
+&lt;h4&gt;The Tower Bridge&lt;/h4&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Snow-fall-in-London/Tower-Bridge.jpg" alt="Tower Bridge"/&gt;
+&lt;p&gt;
+The Tower Bridge is also a good place to visit. It is a great historic suspension bridge built over two centuries ago between the 1886 and 1894. During the winter, you get a beautiful view of the Frozen River Thames.
+&lt;/p&gt;
+&lt;h4&gt;The Buckingham Palace&lt;/h4&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Snow-fall-in-London/Buckingham-Palace-Snow.jpg" alt="Buckingham Palace"/&gt;
+&lt;p&gt;
+Other Amazing snow falling places in London where you can get to experience breath taking sceneries is the Buckingham Palace. Everyone gets to go there and take pictures throughout the year but a picture of it covered in snow is a rare breath taking sight that many haven't taken. Since the winter can take its toll on one’s health, there are also warmer places to visit in London during the cold winters. For starters, there are lots of bars that have warm open flame fires. Here revelers can get to have a great time with friends in front of a comfortable warm fire. 
+&lt;/p&gt;
+&lt;p&gt;
+You can also visit the Kensington roof Gardens Bar. Here you can still get a glimpse of the suspended Kensington Gardens spanning an area of up to 1.5 acres, the gardens are planted on just 1.5 Meters of soil but continue to look very natural. The Kensington roof Garden bar is a great place to keep warm and just have a good time.
+&lt;/p&gt;
+&lt;h5&gt;
+With a visit to these places, you can turn the pale white London winter days into a memorable experience which you can share with friends and loved ones.
+&lt;/h5&gt;</Text>
+  <WriterName>Ellen Nicola [Guest Post]</WriterName>
+  <WriterEmail>ellennicola1986@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>262</URL>
+</Article>

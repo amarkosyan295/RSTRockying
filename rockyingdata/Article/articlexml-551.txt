@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>FxGlythCCha</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>fQBCi2</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>18</Category>
+  <Tag>RKhl8j</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;fQBCi2&lt;/p&gt;</Description>
+  <Text>I&amp;#39;m self-employed http://rockettube.fun/ rockettube.com  As I told my team during the preparations, Britain might be lagging in some respects, but once our programme was under way we would certainly not be lagging in lagging. Above all, we were going to achieve the number one objective of the scheme: we were going to help cut the cost of heating people&amp;amp;rsquo;s homes and help stabilise fuel bills.</Text>
+  <WriterName>VHeD39</WriterName>
+  <WriterEmail>irving0w@yahoo.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>fxglythccha</URL>
+</Article>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Brands and Bollywood Go Hand in Hand</Title>
+  <OGImage>http://www.rockying.com/art/woman-eating-giant-burger.jpg</OGImage>
+  <OGDescription>Product placement is not a new phenomenon and has always been an integral part of Indian cinema. Rockying brings some of the brands which were an instant hit while some that received flak for their portrayal in Bollywood.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Brand Conscious Bollywood,</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/woman-eating-giant-burger.jpg' alt='' /&gt;&lt;p&gt;Product placement is not a new phenomenon and has always been an integral part of Indian cinema. Rockying brings some of the brands which were an instant hit while some that received flak for their portrayal in Bollywood.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+From snow-capped mountains in Switzerland to exotic beaches in Sydney, Bollywood has tried to capture best locales abroad and providing its audience with an idyllic escape for three hours’ time. Other than the exclusive destinations and star casts, did any brands shown in the movies ever catch your attention? 
+&lt;/p&gt;
+&lt;p&gt;
+Be it Saif Ali Khan carrying a Louis Vuitton briefcase in Kal Ho Na Ho or popularising the iconic bag by Hermes in Zindagi Na Milegi Dobara by the name of Bagwati, the brands have become part and parcel of Indian cinema. With Bollywood gaining a spotlight in global arena, it is the brands which are riding on this growing popularity. But there are times when films have used the brands unintentionally and it did not go down well with the companies.
+&lt;/p&gt;
+&lt;p&gt;
+Product placement is not a new phenomenon and has always been an integral part of Indian cinema. However with a plethora of local and multinational sponsors pouring in due to the medium’s closeness with celebrities and direct audience impact, the trend has been given a shot in the arm. &lt;b&gt;Rockying&lt;/b&gt; brings some of the brands which were an instant hit while some that received flak for their portrayal in Bollywood.
+&lt;/p&gt;
+&lt;h5&gt;Gaining Momentum&lt;/h5&gt;
+&lt;p&gt;
+Yash Chopra’s Dil To Pagal Hai  in 1997 featured several brands such as Pepsi, Levis, and Killer jeans. The 1998 release Bandhan starring Salman Khan and Rambha, included an entire scene in which the heroine insists on having a Pepsi with the hero. However, it was Taal (The Rhythm) (1999), if you remember Aishwarya Rai sipping from a Coca-Cola bottle and actors were shown romancing over the same bottle in the movie. It was after Coca-Cola’s placement in Taal that people started becoming aware of the practice of product placement. 
+&lt;/p&gt;
+&lt;p&gt;
+Danny Boyle’s Slumdog Millionaire 2008 had initially included some visuals showing the brands Coca-Cola and Mercedes-Benz. Both companies denied permission to include their brands in particular scenes of the movie. Mercedes-Benz asked the producers to remove the logo from the car in a scene where it was shown roaming around in the slums. The company did not want to associate the Mercedes brand with slums. However, it allowed the brand to be used in a scene where the car is shown parked outside an upscale house.
+&lt;/p&gt;
+&lt;p&gt;
+In fact, recent films such as Fashion and Dostana made in 2008 included several brands that were integral to the movies’ themes. Fashion brands such as Sunshine and Kimaya were endorsed by the protagonist who plays a model in the movie. The storyline of Dostana included one of the main characters working for the magazine Verve. 
+&lt;/p&gt;
+&lt;p&gt;
+Movies, of the recent times, like Heroine</Text>
+  <WriterName>Sonali Chowdhury</WriterName>
+  <WriterEmail>media.sonali@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>brands-and-bollywood-go-hand-in-hand</URL>
+</Article>

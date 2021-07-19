@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>134</ID>
+  <Title>A Paperless World?</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Initiative/Save Paper/save paper.jpg</OGImage>
+  <OGDescription>Well, it is hard to imagine a paperless world unless you are sitting in some futuristic Google or an Apple office where gadget concepts might still manage to replace a piece of paper completely...Find out more... </OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>14</Category>
+  <Tag>Save Paper, Save Trees, Paper Conservation</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;p&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Initiative/Save%20Paper/save%20paper.jpg" title="Save Paper" alt="" style="width: 150px; float: left;"&gt;Well, it is hard to imagine a paperless world unless you are sitting in 
+some futuristic Google or an Apple office where gadget concepts might 
+still manage to replace a piece of paper completely...Find out more... &lt;/p&gt;</Description>
+  <Text>&lt;p&gt;Well, it is hard to imagine a paperless world unless you are sitting in some futuristic Google or an Apple office where gadget concepts might still manage to replace a piece of paper completely. That is not quite possible otherwise. Not in the next 50 years. &lt;br&gt;&lt;/p&gt;&lt;h3&gt;THE PROCESS&lt;br&gt;&lt;/h3&gt;&lt;p&gt;Several eucalyptus and pine trees are cut out of which around 366 kilograms of paper are produced. Wood turns into pulp which is treated and spread into white sheets of paper that we bin so quickly if it looks a little crumpled. &lt;br&gt;&lt;/p&gt;&lt;h3&gt;THE STORY OF THE PAINFUL PINE:&lt;/h3&gt;&lt;p&gt;It takes 17 to 24 years for a pine tree to grow. If one imagines the paper consumption versus the mass scale cultivation of pine trees, the story does not present a very pretty picture. Stationery shops sell colorful papers, sheets, post-its, index cards, creative paper bags, greeting cards and paper-mâché products. Even though these are recyclable and bio-degradable, don’t you think the production of paper has to stop in the first place?&amp;nbsp; &lt;br&gt;&lt;/p&gt;&lt;p&gt;See the video for more info: &lt;iframe width="500" height="400" src="http://www.youtube-nocookie.com/embed/uw9AkK51jb4?rel=0" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;OUR INITIATIVE&lt;br&gt;&lt;/h3&gt;&lt;p&gt;Hope this reaches out to every individual. Our initiative is not to say NO to paper because that is practically not doable. Remember Cogito Ergo Sum? “I think; therefore I am”. Our little initiative should probably be our imagination for a paper-free world and the efforts we make to use every bit of that sheet we have with us. &lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Stop people from wasting paper unless it is completely used. Companies should encourage employees to use less papers, envelopes etc. See this inspiring video on the same: &lt;iframe width="500" height="400" src="http://www.youtube-nocookie.com/embed/jHQGyMBtE9Y?rel=0" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;How about switching to e-newspaper?&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;If you are a student, do use that advertisement leaflet for your math calculations. And hey! Avoid doodling!&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Abstain from fancy stationery products unless you do need them as a compulsion. Fancies do catch our imaginations but where is the hidden spirit to fight for a cause, fellas?&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;We would love to hear from you. You have a way to save paper, or have a story that contributed to the cause? Tell us. &lt;/h4&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+</Article>

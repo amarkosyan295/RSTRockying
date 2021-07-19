@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>India Bobbles Limited Edition Collection! Exclusively Available on Rockying Store.</Title>
+  <OGImage>http://www.rockying.com/art/India-Bobbles/FB_INDIA_BOBBLES.jpg</OGImage>
+  <OGDescription>Exclusive and Limited Edition Collectible Bobble Heads and Figurines from India Bobbles</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>26</Category>
+  <Tag>India Bobbles, Bollywood Memorabilia, Bobble Head India, Dr. APJ Abdul Kalaam, Daku Sambhar Singh, Chhote Bachchan, Bhagat Singh Figurine, Mahatma Gandhi Collectible, 100 years of Indian Cinema.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/India-Bobbles/FB_INDIA_BOBBLES.jpg' alt='' /&gt;&lt;p&gt;Exclusive and Limited Edition Collectible Bobble Heads and Figurines from India Bobbles&lt;/p&gt;</Description>
+  <Text>&lt;a href="http://www.rockying.com/store/"&gt;&lt;img src="http://www.rockying.com/art/India-Bobbles/FB_INDIA_BOBBLES.jpg" alt="Limited Edition India Bobbles Collection" title="India Bobbles Limited Edition Collection on Rockying Store"&gt;&lt;/a&gt;
+&lt;h3&gt;Showcasing, Limited Edition Indian Memorabilia- &lt;a href="http://www.indiabobbles.com/" target="_blank"&gt;&lt;b&gt;India Bobbles&lt;/b&gt;&lt;/a&gt;, Collectible Bobble Heads, Figurines and Super Drives. Exclusively available on &lt;b&gt;Rockying&lt;/b&gt;. &lt;a href="http://www.rockying.com/store/"&gt;BUY NOW!&lt;/a&gt; &lt;/h3&gt;</Text>
+  <WriterName>IB Team</WriterName>
+  <WriterEmail>preeti@indiabobbles.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>WideBlogTemplate</TemplateName>
+</Article>

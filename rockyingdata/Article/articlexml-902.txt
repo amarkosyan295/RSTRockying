@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Never Forget Me!</Title>
+  <MetaTitle>Never Forget Me!</MetaTitle>
+  <OGImage>//www.rockying.com/art/public/horror/Never-Forget-Me.jpg</OGImage>
+  <OGDescription>Follows the journey of a family desperate to bring a young man into this world. They are so full of desperation that it drives them to commit unspeakable acts. What price will they have to pay for the son they've always wanted?</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>31</Category>
+  <Tag>Vengeance, blood, family, hauntings,</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/public/horror/Never-Forget-Me.jpg' alt='' /&gt;&lt;p&gt;Follows the journey of a family desperate to bring a young man into this world. They are so full of desperation that it drives them to commit unspeakable acts. What price will they have to pay for the son they've always wanted?&lt;/p&gt;</Description>
+  <Text>Chapter 1:
+The simple thatched huts sat calmly as the first signs of sunlight appeared on the horizon. I sat and listened to the birds chirp as my fellow villagers awoke. My tranquil gaze looked around at our village and began thinking of the future, our future.
+
+Without warning, unearthly screams reverberated throughout the village. I immediately ran to her aid. I still remember how shocked I was. A million questions raced through my mind; what if it isn’t a boy? Will we go through what we agreed upon? Will she be overcome with guilt once again? When I reached my wife, looks of pain, fear and uncertainty were painted across her beautiful face. That day I gently held Diyas soft hands and awaited the arrival of our new born. My nerves took over as I watched my wife in unimaginable pain. Knowing that there wasn’t anything I could do, I tenderly spoke encouraging words to her. After what seemed like days but had only been hours of listening to torturous screams, the wait was over. 
+
+As soon as the nurse held our infant for the first time, she uttered the dreaded words, “a girl.” My heart sunk as I looked towards my wife. Her expression was just as devastated as mine. How could this happen? Why does this keep happening to us? We prayed every morning and night for a boy and it seems our prayers were left unanswered. After the nurse left, we both knew what needed to be done. Raising a female into this world is costlier than raising a male. A dowry is expected to be paid once the child is old enough to marry and, we could barely get by as it is. 
+
+The sand and tobacco sat there, like muder weapons in disguise as we both contemplated our next move. All I heard was the agonizing cries from my wife as I committed an elemental crime that would go unpunished.
+
+Chapter 2:
+The golden sun beams down onto us as I see Advik run across the wind-flattened grass. The thought of him being six very soon is insane to both of us. We are both forever grateful that our prayers were answered, and we are now blessed to watch Advik grow into a strong young man.
+
+As my young boy comes running over to me, a flash of panic wipes over his face and he comes to a halt. It is as if a dark cloud has suddenly started looming over his spirit. He just stands there silent, still and petrified. I call out to him as I begin trekking over to his statue. After being pulled out of his illusive trans he quivers a phrase repeatedly, “there was a baby girl screaming.” All blood drains out of my face and a shiver torturously runs down my spine. Even after reassuring him it was nothing, I could tell that confusion perpetuated through him as we strolled back to the house. 
+
+Without realising, days and weeks all mold into one and the day is now Adviks sixth birthday. Watching his face light up as he meets his new puppy, who he chooses to call Asha, warms my heart. Advik runs into the garden, with Asha not too far behind him. Just as I am about to start cooking, I hear Asha’s miniscule bark. Following the foreign noise, I find Advik with our new addition to the family hovering over a dirt patch. To my horror and disbelief engraved into the dirt are the simple words, “Happy Birthday Brother.” Once again the questions from Advik come flooding in, though the trepidation in his eyes has grown. I tell him that it was one of his friends from the village and he thankfully brushes it off before continuing to play with Asha. Briskly I run inside to get Diya, as unfortunately I am not as convinced as Advik that it was a harmless child.
+
+Fear at the pit of my stomach builds and spreads throughout my body like a wildfire, causing sweat to appear on my face. Both Diya and I look down at the patch of dirt with very different expressions on our faces. The pure shock on my face is evident as Diya is unclear as to what I wanted to show her. The dirt, that was once engraved with the haunting words, has now completely vanished. Not a trace of the words is visible on the ground. I call Advik to ensure that he didn’t clear the message away and he promises that he didn’t, as he wasn’t anywhere near it. Realising that it must’ve been some kids playing around, like I already suspected, I decide to take no notice of it and not ruin Advik’s special day. The remainder of the day consists of playing in the garden, delicious food and of course visits from our family. Any worry I had has slightly melted away as the day proceeds to get better. Although a thought creeps into my mind that something strange is happening.
+
+Chapter 3:
+It was only until that night when everyone was asleep that I felt my whole body turn bitterly cold. A boney, frigid hand wraps around my ankle pulling me off the bed, away from Diya. My eyes sharply open to find myself on the floor. My heart is racing faster than ever before as I try to think of a logical excuse for what just happened. Cautiously, I begin to stand and steadily walk back to the bed, shaking drastically. Diya suddenly wakes up looking incredibly fearful and confused. “I….I had a dream, actually a nightmare that something terrible happened to you. There was this noise like a baby screaming. Why are you out of bed?” I just stand there frozen in time unable to think, let alone speak. I resent telling her about the incident so I try to sleep, although my mind won’t shut off. That miniscule thought I had earlier in the day has now grown massively. 
+
+As the days and weeks go by I begin to notice more of this aberrant behaviour around our family. Behaviour that is more unexplainable, frightening and harsher than the wildest seas. Behaviour that seems to be targeting my family, in particular Advik. Our once ideal world has turned into a dreadful nightmare. One I wish to wake up from immediately. Asha barks and growls constantly at nothing, day or night we hear the arbitrary noises from her. Her ears are persistently pricked and her scanning eyes never break concentration. 
+
+Until one day I awoke and nothing felt right; it was too quiet. We couldn’t find Asha nor hear her, it was as if she was taken in the dead of night. We continued the search outside to find nothing but the menacing dirt patch. Much to our fright, sticking out of the ground was what looked like a perfectly crafted canine ear. The soft fur looked out of place against the rough mud. A soft shriek left Diya’s lips as tears began stinging my eyes. The disturbance caused Diya to fall to her knees, though my rigid muscles refused to move. After struggling desperately to move any part of my paralytic body I decided against it and just stood completely inmobile. 
+
+Once again sleep did not come to me easily that night, the trauma from the following day weighed down on me. I hear Diya’s small whimpers as I hold her close to me. Awoken in complete darkness, I sit up calmly and see Diya starting to wake up. She is turned away from me when she asks why I’m breathing so heavily. I can’t move, breathe, speak or hear as my mind begins spiralling. The sleepless nights, confusion and unthinkable fear has all become too much. 
+
+Chapter 4:
+Just as I thought this night could not get any worse, a scream resonated through our house. A scream of a girl, a small girl in what sounds like agonizing pain. Checking the time I saw it was 12:13. The echo repeated in my ears as Diya and I simultaneously leaped out of bed, and sprinted through the house to find the blood chilling noise. Tiny, compact piles of sand and tobacco are evenly sat throughout the house. Both Diya and I look at each other with pure distress and trauma spread across our faces. This shocking revelation leaves us both mute. We find Advik calmly resting in his room as a wave of relief washes over my mind. The horrific possibilities that entered my mind have suddenly and thankfully left. 
+
+The next day all of the sand and tobacco has been cleaned away. Diya tells me that it must’ve been our imagination playing tricks on us and I decide to agree so that I don't worry her. 
+
+We decide to hold a funeral to say our farewells to Asha. However, I look down at where her small body was buried, and can’t see her fragile frame sticking out of the dirt like it was the day before. I mindfully dig down further, coming to the realisation that her body is gone. What only remains are drops of her blood in the dirt. Without realising, the metallic substance is on my shaking hands. Covering and smoothing the dirt over once again, I try to remain as serene as I can as Advik slowly wanders over with Diya. With flowers in hand and tears streaming down his face he stumbles into my arms. Holding him tightly, I utter reassuring words to him, knowing that nothing I can say will fill the emptiness he feels inside. As Advik lays down the freshly picked flowers, I try and think about where the body went; who would take it? Why would they take it? Who is haunting and terrorising us? These questions consume my mind until I can’t think of anything else. 
+
+Chapter 5:
+We turn and walk back to the house cradling each other, then we hear it. Thud! A sound which causes us to frantically turn so we can understand the reasonings behind the noise. After registering the horrendous sight Diya grabs Advik and heads inside without a word. Crushing the once beautiful grave is Asha or should I say what’s left of her. The blood trickles over the dirt and flowers, engulfing everything in its wake. Once again my body is frozen in time. It’s as if I have lost all control over all movement in my body. 
+
+I spend the rest of the day burying the corpse and trying to comfort Advik. The thought of being haunted for our sins causes a shiver to run through my entire body. Jumping to drastic conclusions like that may seem too irrational, but many unexplainable events have occured. We pray for forgiveness and hope to trigger a stop to these horrendous attacks.
+
+Chapter 6:
+I welcome sleep easier tonight and find that it is the best night sleep I have had for weeks. This was until the blood churring scream of not a child, but a baby once again wakes us at exactly 12:13.  After finding the tobacco and sand neatly placed across the floor once again, Diya starts crying and just stands there in shock horror. Soon after registering the substances that haunt us like ghosts in the night, we head into Advik’s room to find him missing. A spot of blood takes his place on his bed. I feel immensely dizzy, my legs begin to shake and my knees give way as I call out his name. This can’t be happening I think, over and over, as Diya and I continue to call out to him. For a few minutes we just sit there weeping, unable to comprehend what has happened and where he is. 
+
+Breaking us from our sobbing, we hear a delicate, yet evil laugh coming from a girl. Still trembling I bring myself and Diya to our feet before following the sinister noise outside. Silence falls like a demon in disguise when we reach the door, and Adviks screams echo around us. Once we reach him our cries resound around us as the sun rises, bringing this tragic day to an end.</Text>
+  <WriterName>Amelia</WriterName>
+  <WriterEmail>ajdec04@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>never-forget-me</URL>
+</Article>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>10 Biggest Bollywood 'Damp Squibs' of Recent Times</Title>
+  <OGImage>http://www.rockying.com/art/bollywood/Biggest-Damp-Squibs/Kites_Movie.jpg</OGImage>
+  <OGDescription>Whenever the B-town gets us all excited about an upcoming release, we are often handed a movie so bland, so mind numbingly boring that we are force to ask the one question distressed fans have been asking for ages now...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Bollywood Damp Squibs, Recent Bollywood Damp Squibs, Joker, Love Story 2050, Mangal Pandey, Raavan, Kites, Saawariya, Mausam, Blue, Drona.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Biggest-Damp-Squibs/Kites_Movie.jpg' alt='' /&gt;&lt;p&gt;Whenever the B-town gets us all excited about an upcoming release, we are often handed a movie so bland, so mind numbingly boring that we are force to ask the one question distressed fans have been asking for ages now...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    We are loony fans when it comes to loving the insane plot twists, the mushy love stories, the silly jokes and the bawdy item numbers that come with a staple Bollywood movie. However, it seems that lately, whenever the B-town gets us all excited about an upcoming release, we are often handed a movie so bland, so mind numbingly boring that we are force to ask the one question distressed fans have been asking for ages now “ why on earth was THAT movie made?” Here is my list of movies when Bollywood stars had you pulling at your hair in a rabid frenzy, in the hope that it does not happen any time soon again!&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+           RAAVAN &lt;/h4&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Biggest-Damp-Squibs/Raavan.jpg" alt="Raavan"/&gt;
+        &lt;p&gt;
+            What we had on the cards was the remake of India’s most epic mythological story at the hands of one its best directors. What we got in return from this awful Mani Ratnam flick was the sights of a fat Govinda trying to prance around like a monkey, a stone faced Aishwarya’s pretty (and as expressive) as a porcelain doll and her beau Abhishek miserably trying to look menacing and trying to steal credit for stunts he didn’t do. Please Mani sir, we beg that movies like this come with a warning label.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+            KITES &lt;/h4&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Biggest-Damp-Squibs/Kites.jpg" alt="Kites"/&gt;
+        &lt;p&gt;
+           With perhaps one of the most good looking on screen pair in recent times and with the delicious rumors of a passionate affair (yes, we love our gossip!) this Hrithik Roshan flick had us bewitched before release. After release? Well we were running away from the theatres faster than Hrithik did in from his enemies in the movie. Even though that is all he did in the movie. Run. For three agonizingly long hours. Even Barbara Mori wasn’t beautiful enough to make us sit through that.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+            JOKER&lt;/h4&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Biggest-Damp-Squibs/joker-movie-poster.jpg" alt="Joker"/&gt;
+        &lt;p&gt;
+           Shirish Kunder, better known as Mr. Farah Khan, brought us the story of Paglapur with its stale humor, predictable characters and aliens who look like background props from your child’s school play. Akshay distanced himself from the movie before its release and the audiences followed the star soon afterwards.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+          HEROINE
+         &lt;/h4&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Biggest-Damp-Squibs/Heroine.jpg" alt="Heroine"/&gt;
+        &lt;p&gt;
+           Madhur Bhandarkar had made a fortune ridiculing the same posh urban society of which he himself was a part. Heroine was to be the ultimate inside story and Kareena looked fabulous in the promos. Sadly that was all there is worth writing about when it comes to this shrill, boring sob fest of a movie.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+         MANGAL PANDEY&lt;/h4&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Biggest-Damp-Squibs/Mangal-Pandey.jpg" alt="Mangal Pandey"/&gt;
+        &lt;p&gt;
+            How does Mr. Perfection get it wrong? Well, by putting in all his efforts towards his look and character and forgetting about the wee little ingredient of a successful movie called entertainment! The movie was a heavy, overbearing and utterly obnoxious rendition of a crucial part of our history&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+           SAAWARIYA 
+        &lt;/h4&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Biggest-Damp-Squibs/Saawariya.jpg" alt="Saawariya"/&gt;
+        &lt;p&gt;
+            Dreamy sets, dreamy songs and a dreamy lead (we wish Ranbir went back to his towel dropping days!!) do not make for a dreamy movie. Saawariya was weird (much like Rani Mukherjee's wardrobe in the movie) and we never quite got the hang of it. Sonam has never recovered from her debut; her film choices give us a whole new definition of “damp squib” by now.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+           LOVE STORY 2050
+&lt;/h4&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Biggest-Damp-Squibs/Love-Story-2050.jpg" alt="Love Story 2050"/&gt;
+        &lt;p&gt;
+            A red haired Priyanka Chopra as a musical star of the future, a Hrithik look-alike as the hero, weird talking robots which look like your teddy bear, irritating child actors, invention of a time machine, sad copies of scenes from more famous Hollywood sci-fi flicks and some terrible, terrible direction. Do we need to say more?&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+            MAUSAM&lt;/h4&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Biggest-Damp-Squibs/mausam.jpg" alt="Mausam"/&gt;
+        &lt;p&gt;
+            Love stories, lush green fields of Punjab and the Air Force were a potent force when mixed together in Rang De Basanti. How did Mausam manage to ruin even this staple of Indian movies? By a convoluted, confusing script and well, by having Sonam Kapoor in it! It was disheartening to see our endearing Pankaj Kapoor fail at his debut directorial venture. &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+          BLUE&lt;/h4&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Biggest-Damp-Squibs/Lara-Blue.jpg" alt="Blue"/&gt;
+        &lt;p&gt;
+            Is a visibly fat Sanjay Dutt in a skin tight diving suit, Akshay with the most irritating piece of facial hair in Bollywood history and an insufferable Zayed Khan your idea of a good film? No? Well that is what this costly, messed up affair all about. Lara Dutta and Kylie Minogue couldn’t salvage this shipwreck.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h4&gt;
+            DRONA&lt;/h4&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Biggest-Damp-Squibs/Drona.jpg" alt="Drona"/&gt;
+        &lt;p&gt;
+           Abhishek Bachchan as a superhero. Dressed in a white churidaar and trying hard to look dark and brooding while fighting a villain who looks like he escaped from a Looney Tunes cartoon show? Yes that’s right.There is such a movie. Why, o why was it ever made? Seems like Abhishek and Sonam have a private bet going about featuring the most on this list!&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+With that I come to an end of my list of movies that created an unneeded hoopla and later turned out to be nothing but wastefulness. Signs off a die-hard Bollywood fan in a hope to see all that money and effort put to some meaningful film-making in the near future.
+&lt;/p&gt;
+&lt;H5  class="text:align-center;"&gt;Want to write an article and win your self some hard cash?&lt;/h5&gt;
+&lt;h4 class="text:align-center;"&gt;&lt;a href="http://www.rockying.com/rockying/rockying-article-writing-contest" target="_blank"/&gt;PARTICIPATE NOW!&lt;/a&gt;&lt;/h4&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Annie Biswas</WriterName>
+  <WriterEmail>media.sonali@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

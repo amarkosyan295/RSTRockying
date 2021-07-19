@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>108</ID>
+  <Title>Bollywood’s Kiddie Sweethearts</Title>
+  <MetaTitle>Bollywood’s Kiddie Sweethearts</MetaTitle>
+  <OGImage>//www.rockying.com/art/bollywood/Child-Artists/Taare_Zameen_Par_Movie_1.jpg</OGImage>
+  <OGDescription>From Jugal Hansraj and Urmila Matondkar in Masoom to Darsheel in Taare Zameen Par the audiences cannot get enough of these kiddie stars who are as good as professionals! This edition of Rockying discusses the present brigade of the most darling kiddies of the Indian Film industry. Long Live Chillar</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Bollywood, Child Artists, Bollywood's Child Artists</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/bollywood/Child-Artists/Taare_Zameen_Par_Movie_1.jpg' alt='' /&gt;&lt;p&gt;From Jugal Hansraj and Urmila Matondkar in Masoom to Darsheel in Taare Zameen Par the audiences cannot get enough of these kiddie stars who are as good as professionals! This edition of Rockying discusses the present brigade of the most darling kiddies of the Indian Film industry. Long Live Chillar&lt;/p&gt;</Description>
+  <Text>&lt;p class="clearfix"&gt;
+    &lt;img src="//rockying.com/art/bollywood/Child-Artists/Taare_Zameen_Par_Movie_1.jpg"
+        title="Darsheel Safary &amp;amp; Aamir Khan in Taare Zameen Par" alt="" style="max-width: 400px;"
+        class="pull-left" /&gt;
+    The silver screen is getting wider and younger as child artists of Bollywood offer
+    mind blasting performances every now and then. From Jugal Hansraj and Urmila Matondkar
+    in Masoom to Darsheel Safary in Taare Zameen Par the audiences cannot get enough
+    of these kiddie stars who are as good as professionals! It’s no child’s play happening
+    here in Bollywood we can say. This edition of &lt;a href="http://www.rockying.com/"&gt;Rockying&lt;/a&gt;
+    discusses the present brigade of the most darling kiddies of the Indian Film industry.
+    Long Live, &lt;a href="http://www.bollymeaning.com/2011/06/chillar-party-meaning.html"&gt;
+        Chillar Party&lt;/a&gt;!!!
+&lt;/p&gt;
+&lt;ul class="unstyled"&gt;
+    &lt;li&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;strong&gt;DARSHEEL SAFARY (Taare Zameen Par)&lt;/strong&gt;: His cute little bunny teeth
+            and his now-grumpy-now-enlightened face is India’s favorite. He carries with himself
+            the future of Bollywood. With this very first film, we saw some serious and crazy
+            acting from the kid who clearly was the ruling star of the film Taare Zameen Par.
+            With such ease has he delivered the character of a &lt;a href="http://en.wikipedia.org/wiki/Dyslexia"
+                target="_blank"&gt;dyslexic&lt;/a&gt; child that it will not be wrong to say that Aamir’s
+            presence in the film somewhat dims with the aura of this kid. Way to go Inu !&lt;/p&gt;
+            &lt;p&gt;
+                &lt;iframe src="http://www.youtube-nocookie.com/embed/cI7F-70U8OU?rel=0" allowfullscreen=""
+                    width="400" frameborder="0" height="250"&gt;&lt;/iframe&gt;
+            &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/bollywood/Child-Artists/azharuddin_rubina__1350225c.jpg"
+                title="Azhar &amp;amp; Rubina at the Oscars" alt="" style="max-width: 300px;" class="pull-right" /&gt;&lt;strong&gt;RUBINA
+                    ALI &amp;amp; AZHAR ISMAIL (SlumDog Millionaire)&lt;/strong&gt;: Fate does play a
+            role in our lives and Rubina and Azhar have proven it. Straight from the slums to
+            a Hollywood production, these kids walked the red carpet towards the academy awards
+            at a very tender age proving to the world that they have many promises to unfold
+            in the future. Whatever their lives were, we do see some rockying performances from
+            these kids! Extremely naïve, rural and innocent, Rubina and Azhar display some solid
+            screen presence that definitely does not go unnoticed both in Hollywood and Bollywood.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/bollywood/Child-Artists/Makdee-Chunni-Munni.jpg"
+                title="Swetha Prasad in Makdee" alt="" style="max-width: 300px;" class="pull-right" /&gt;
+            &lt;strong&gt;SWETHA BASU PRASAD&amp;nbsp; (Makdee/Iqbal):&lt;/strong&gt; Remember Swetha in Shabana
+            Azmi’s production Makdee? The girl with the Chunni-Munni fame is simply too cute
+            with her acting. Bubbly and vivacious, we were totally awed with her dialogue delivery
+            in this film and Iqbal. Two off beat critically acclaimed film, this girl seems
+            too sure with her choice of films so far. Rockying says that she can be a package
+            full of surprises for Gen Next! Do not fall off your seat yet- this girl has already
+            created a niche in Telegu film industry and is passionate about Bengali films because
+            of her Bong origin. Phew!
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/bollywood/Child-Artists/hansika%20motwani%20koi%20mil%20gaya.jpg"
+                title="Hansika Motwani with Hrithik Roshan in Koi Mil Gaya" alt="" class="pull-left"
+                style="max-height: 263px;" /&gt;&lt;strong&gt;HANSIKA MOTWANI (Koi Mil Gaya)&lt;/strong&gt;:
+            She started off as a very cute face of television and branched out to mainstream
+            Bollywood hits. Hansika’s adorable and appealing looks have matured off really well
+            in her later years. For that good memory brush up, Hrithik’s film Koi… mil gaya
+            features Hansika at her best while in Aap Ka Suroor, she is unimaginably a hot property.
+            Well, Rockying sees that she is fast with her approach, noticeable and can give
+            any actress a run for her money. Very soon!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/bollywood/Child-Artists/Swini.jpg"
+                title="Swini Khara &amp;amp; Amitabh Bachchan in Cheeni Kum" alt="" style="max-width: 300px;"
+                class="pull-right" /&gt;
+            &lt;strong&gt;SWINI KHARA (Cheeni Kum)&lt;/strong&gt;: Her acting in Amitabh Bachchan starrer
+            Cheeni Kum is breathtaking and unbelievable for a child actor to pull it off. An
+            ailing child who knows that she will not last long to see her adulthood, Swini pulls
+            the strings of comedy in the film brilliantly and at ease. It is interesting to
+            see her struggle between some serious acting with dashes of cute kiddie behavior.
+            Her bantering with Amitabh as a jealous little girlfriend steals our hearts, seriously!
+            We wish to see more of her. Are the directors listening?Well, these kids have an
+            aura around them. And they seemingly know it all- how to handle stardom, meaningful
+            cinema and refined acting. As for us audiences, we suddenly have more and more entertainment
+            for us in the coming years.&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="rstquestion"&gt;
+&lt;h5&gt;&lt;span style="color: Green;"&gt;&lt;b&gt;FUN QUIZ&lt;/b&gt;&lt;/span&gt;&lt;/h5&gt;
+       &lt;p&gt;Swetha Basu Prasad has played a double role alongside which famous Indian actor playing the negative role, in a Vishal Bhardwaj film? &lt;/p&gt;
+       &lt;ul&gt;
+           &lt;li&gt;Pankaj Kapoor&lt;/li&gt;
+           &lt;li&gt;Vipin Sharma&lt;/li&gt;
+           &lt;li data-anwser ="correct"&gt;Shabana Azmi&lt;/li&gt;
+          &lt;li&gt;Markand Deshpande &lt;/li&gt;
+       &lt;/ul&gt;
+   &lt;/div&gt;
+&lt;h5&gt;
+    Who is your favorite movie-toddler? You sure do not want them to grow up, do you?&lt;/h5&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>bollywoods-kiddie-sweethearts</URL>
+</Article>

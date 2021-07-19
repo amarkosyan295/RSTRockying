@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>152</ID>
+  <Title>Do Not Drive Near A Container.</Title>
+  <MetaTitle>Do Not Drive Near A Container.</MetaTitle>
+  <OGImage>//rockying.com/art/Awareness/Never-Drive-Close-To-Containers/5.jpg</OGImage>
+  <OGDescription>Do not drive close to a container. This accident would not only scare you but make you realize as to what can happen if it had to...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>20</Category>
+  <Tag>Road Safety, Drive Safely</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/Awareness/Never-Drive-Close-To-Containers/5.jpg' alt='' /&gt;&lt;p&gt;Do not drive close to a container. This accident would not only scare you but make you realize as to what can happen if it had to...&lt;/p&gt;</Description>
+  <Text>&lt;div class="carousel"&gt;
+                            &lt;a class="carousel-control left previousslide" href="Javascript:return false;"&gt;&amp;lsaquo;&lt;/a&gt;
+                            &lt;a class="carousel-control right nextslide" href="Javascript:return false;"&gt;&amp;rsaquo;&lt;/a&gt;&lt;div class="slideshow"&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;h3&gt;Driving too close to a container may result in a fatal encounter such as this. Please maintain as much as distance possible from these huge things on road. This is what happens when they loose control...&lt;img src="//rockying.com/art/Awareness/Never-Drive-Close-To-Containers/2.jpg" title="Huge container looses balance and falls." alt="" style="width: 700px;"&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;h3&gt;They are heavy, they are dangerous...&lt;img src="//rockying.com/art/Awareness/Never-Drive-Close-To-Containers/3.jpg" title="Its heavy Its Dangerous" alt="" style="width: 700px;"&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;h3&gt;They will crush you to death...&lt;img src="//rockying.com/art/Awareness/Never-Drive-Close-To-Containers/4.jpg" title="Will crush you to death" alt="" style="width: 700px;"&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;h3&gt;No escape!!! Helplessly caught you are...&lt;img src="//rockying.com/art/Awareness/Never-Drive-Close-To-Containers/5.jpg" title="There is no Escape" alt="" style="width: 700px;"&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;h3&gt;Rare chances of coming out alive.&lt;img src="//rockying.com/art/Awareness/Never-Drive-Close-To-Containers/6.jpg" title="May be a life can be saved, MAY BE !!!" alt="" style="width: 700px;"&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;h3&gt;You don't want this unnecessary pain, Do you?&lt;img src="//rockying.com/art/Awareness/Never-Drive-Close-To-Containers/7.jpg" title="Unnecessary Pain " alt="" style="width: 700px;"&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;h3&gt;Be careful enough to avoid such an accident. No one deserves it, neither do you. &lt;img src="//rockying.com/art/Awareness/Never-Drive-Close-To-Containers/8.jpg" title="Please be careful." alt="" style="width: 700px;"&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</Text>
+  <WriterName>Raj Kiran Singh</WriterName>
+  <WriterEmail>rajkiran.singh@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>152</URL>
+</Article>

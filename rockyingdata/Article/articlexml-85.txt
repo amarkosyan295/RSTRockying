@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>85</ID>
+  <Title>Harry Potter on Kindle</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/internet/internet%20magnet/harry_potter.jpg</OGImage>
+  <OGDescription>Here comes the twist. World’s largest selling children’s fantasy fiction now goes online. Yes, an eBook will change the history and the future of the publishing industry forever. Ever thought why is everything going the Soft way?</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>10</Category>
+  <Tag>EBooks, Publication Industry, Online Books</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://rudrasofttech.com/rockying/art/internet/internet%20magnet/harry_potter.jpg' alt='' /&gt;&lt;p&gt;Here comes the twist. World’s largest selling children’s fantasy fiction now goes online. Yes, an eBook will change the history and the future of the publishing industry forever. Ever thought why is everything going the Soft way?&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;img src="http://www.rockying.com/art/internet/internet magnet/il_570xN.202554441.jpg" title="" alt="" style="width: 300px;" class="pull-left" /&gt;Here comes the twist. World’s largest selling children’s fantasy fiction now goes online. Yes, harry potter eBook is changing the history and the future of the publishing industry forever. Ever thought why all publishing is going the Internet way? Read on to find out more about this uncontrollable internet magnet that is pulling not only businesses but entire industries along with it! Don’t be amazed if you start finding ways to die on Facebook!&lt;br&gt;All the 7 Harry Potter series are out and Rowling is taking a good break before she thinks of anything further. Her hard copies sold like hot cakes and all online book stores had pre-launch sales at &lt;img src="http://rudrasofttech.com/rockying/art/internet/internet%20magnet/harry_potter.jpg" title="Harry Potter eBook" alt="" style="float: right; height: 250px;"/&gt;least five months in advance. So, what made Rowling create Pottermore? Yes, if you have not heard of this- here is your share of pie: Rowling launches her website that would offer all the ebooks apart from giving the fans a new journey to discover more about their favourite hero- Harry Potter! We are here to study what made her take this e-step. &lt;br&gt;The internet offers this infinite space and every industry is resorting to some help or the other in this space. It has become so powerful that even paper needs some online support to sustain the contents written on page. This is indicative of the potential risk that the publishing industry is facing! More internet savvy people would mean less archival material in the museums and zero security of information.&lt;br&gt;&lt;img src="http://rudrasofttech.com/rockying/art/internet/internet%20magnet/internet_obsession.jpg" title="Internet obsession" alt="" style="width: 300px; float: left; height: 150px;"&gt;If this merger between ebooks, internet and other industries such as food, apparels, etc take place, then will it be good enough for sustaining businesses? Whatever the scare and the perils are, it is all digital and everyone seems to be reveling in it. Internet sustains us now and predicting the death of internet cannot be predicted in the near future. &lt;br&gt;&lt;b&gt;It is all about technology- as sophisticated, as complicated! Funnily enough, now the book-worms have to find their way through web crawlers!&lt;/b&gt;&lt;/p&gt;
+&lt;h4&gt;&lt;a href="http://www.amazon.com/gp/product/B0051QVF7A/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0051QVF7A&amp;linkCode=as2&amp;tag=rockying-20"&gt;Buy Kindle, Wi-Fi, 6" E Ink Display - for international shipment&lt;/a&gt;&lt;img src="http://www.assoc-amazon.com/e/ir?t=rockying-20&amp;l=as2&amp;o=1&amp;a=B0051QVF7A" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /&gt;
+&lt;/h4&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

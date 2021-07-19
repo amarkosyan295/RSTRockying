@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>xXBDLJWJuILZUtD</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>OSivu</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>13</Category>
+  <Tag>THtw1A</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;OSivu&lt;/p&gt;</Description>
+  <Text>Gloomy tales http://planetsuzy.fun/ planetsuzy  UBS has lost a number of top bankers in the last two years.Alex Wilmot-Sitwell, chairman of the investment bank, Ehren Stenzler, co-head of U.S. mergers and acquisitions, and Aryeh Bourkoff, head of investment banking for the Americas, departedin 2012. Cary Kochman, who was global co-head of mergers, andMary Ann Deignan, former head of equity capital markets in theAmericas, left UBS for competitors the year before.</Text>
+  <WriterName>rnVS0n</WriterName>
+  <WriterEmail>stevie4x@yahoo.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>xxbdljwjuilzutd</URL>
+</Article>

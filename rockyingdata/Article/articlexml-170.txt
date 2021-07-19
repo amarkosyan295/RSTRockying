@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>170</ID>
+  <Title>Mission Hunt-ing Tom Cruise!</Title>
+  <MetaTitle>Mission Impossible, Tom Cruise Hollywood Movies</MetaTitle>
+  <OGImage>//www.rockying.com/art/HOllywood/Tom-Cruise/born-on-the-4th-of-july.jpg</OGImage>
+  <OGDescription>Tom Cruise isn't just an actor, he is a phenomenon. Mission Impossible is one of the best Tom Cruise Hollywood Movies that gave him immense height in his career.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>12</Category>
+  <Tag>Tom Cruise, Hollywood, Magnolia, Mission Impossible, Top Gun, Vanilla Sky</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/HOllywood/Tom-Cruise/born-on-the-4th-of-july.jpg' alt='' /&gt;&lt;p&gt;Tom Cruise isn't just an actor, he is a phenomenon. Mission Impossible is one of the best Tom Cruise Hollywood Movies that gave him immense height in his career.&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px;  height:40px;
+            font-size: 50px; font-weight: 100; color: #000; border: none; text-align: center; margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px;height:40px;
+            font-size: 50px; font-weight: 100; color: #000;border: none; text-align: center;margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="slideshow" style="text-align: center;"&gt;
+        &lt;div class="slide"&gt;
+            &lt;p style="font-size:16px;"&gt;
+                Having recently celebrated his 50th birthday, there is no doubt that Tom Cruise
+                is the ever charming heartthrob that he was when he made his debut in the 80s. Known
+                for his super stardom, his groovy life style, his charisma of winning millions of
+                hearts across the globe or simply for his block buster movies; Tom Cruise isn't
+                just an actor, he is a phenomenon. Here's looking at some of his biggest hits from
+                his career that managed to keep the audiences glued to their seats!&lt;/p&gt;
+            &lt;img src="//rockying.com/art/HOllywood/Tom-Cruise/Top_Gun.jpg"
+                title="Tom Cruise In Top Gun" alt="" style="width: 600px;" /&gt;
+            &lt;p&gt;
+                Though Tom Cruise starred in a couple of movies before Top Gun in 1986. But Top
+                Gun was what put him in the super stardom. An action movie highlighting the struggle
+                of Lieutenant Maverick as he trains through flying school, romances the female instructor
+                and overcomes his crisis after facing a near fatal accident. But like any superstar,
+                he manages all fine... no surprises there!&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/HOllywood/Tom-Cruise/Born_on_the_Fourth_of_July.jpg"
+                title="Tom Cruise In Born On The 4th Of July" alt="" style="width: 600px;" /&gt;
+            &lt;p&gt;
+                Earning him his first Academy Award nomination, this movie went on to be one of
+                the biggest commercial and critical success for the star. Playing Ron Kovic, the
+                soldier who was paralyzed by the Vietnam war and then goes on to become a political
+                activist because he feels neglected by his own country.
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/HOllywood/Tom-Cruise/mission-impossible.jpg"
+                title="Tom Cruise plays Ethan in Mission Impossible " alt="" style="width: 600px;" /&gt;
+            &lt;p&gt;
+                Any one who had doubts about Tom Cruise, changed with this movie. Not only was this
+                movie an out right blockbuster, but playing Ethan Hunt, Tom Cruise just went from
+                stardom to super-stardom and the spy movie went on to have become a franchise with
+                the fourth installment released in 2011. MI deals with Ethan Hunt’s mission as he
+                works undercover for IMF.
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/HOllywood/Tom-Cruise/Jerry-Maguire.jpg"
+                title="Tom Cruise In Jerry Maguire" alt="" style="width: 600px;" /&gt;
+            &lt;p&gt;
+                1996 was Tom Cruise’s biggest year. Not only did he star and produce the blockbuster
+                MI in 1996, but he went to star and play the lead role in Jerry Maguire. Playing
+                a sport agent who is fired for expressing himself after suffering a nervous breakdown,
+                Jerry then sticks to the only athlete who is ready to take his chances with him.
+                Not only this won Tom cruise an Academy Award nomination, but the movie also went on to be
+                highly popular.
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/HOllywood/Tom-Cruise/cruisemad-magnolia.jpg"
+                title="Tom Cruise In Magnolia" alt="" style="width: 600px;" /&gt;
+            &lt;p&gt;
+                Tom Cruise feels Magnolia is “the best movie he will ever make”. An epic mosaic
+                movie about several inter-related characters in search of happiness and life's meaning.
+                And this earned another Academy Award nomination in the Supporting Actor category.
+                &lt;b&gt;Rockying says&lt;/b&gt;: The actor’s appearance in the film is way too different from his MI look. Actors surely are characters.
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/HOllywood/Tom-Cruise/Vanilla.Sky.jpg"
+                title="Tom Cruise in Vanilla Sky" alt="" style="width: 600px;" /&gt;
+            &lt;p&gt;
+                Life turns a surreal turn for a publisher after he meets with an accident caused
+                by a jaded lover. Is it for real or is it a dream sequence, Vanilla Sky serves,
+                with equal ease, to the mind of the romantics and the psychological thrillers.
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/HOllywood/Tom-Cruise/Minority-Report.jpg"
+                title="Tom Cruise In Minority Report" alt="" style="width: 600px;" /&gt;
+            &lt;p&gt;
+                Based in the futuristic world of 2054 where crime can be forecast before it actually
+                occurs Minority Report is a combination of thriller and science fiction. It was
+                one of the best reviewed movies of 2002 and went on to be a commercial blockbuster.
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/HOllywood/Tom-Cruise/VALKERIE.jpg"
+                title="Tom Cruise in Valkyrie" alt="" style="width: 600px;" /&gt;
+            &lt;p&gt;
+                Based on the German plot of assassinating Hitler, Tom Cruise played Claus Von Stauffenberg,
+                a German Army Colonel who was instrumental in the plot to assassinate the dictator
+                and to take the Operation Valkyrie national emergency plan to take control of the
+                country. Tom Cruise was attracted to this role based on his resemblance of his profile
+                to the colonels. Eerie!
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/HOllywood/Tom-Cruise/rock-of-ages-.jpg"
+                title="Rock of Ages; Tom Cruise as a Rockstar" alt="" style="width: 600px;" /&gt;
+            &lt;p&gt;
+                Released just last month, Rock of Ages is a comedy musical wherein Tom Cruise plays
+                a fictional metal rocker Stacee Jaxx. Though regarded for its terrible script and
+                excessive leads; Tom Cruise was highly appreciated by critics for his performance.
+                Also, the movie holds the sixth-highest opening for a musical. And yes, Tom
+                Cruise did sing his own songs in this one!
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/HOllywood/Tom-Cruise/oblivion.jpg"
+                title="Oblivion" alt="" style="width: 600px;" /&gt;
+            &lt;p&gt;
+                This one is about to come out in 2013 but remains highly anticipated. Cruise plays
+                Tom Harper,one of the last remaining men on Earth, sent off to a mission on a faraway
+                planet to destroy the remains of an alien race. The movie is awaited for its special
+                effects and its action on which Tom Cruise always remains a star! Looking forward
+                to it? We all are.
+            &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>170</URL>
+</Article>

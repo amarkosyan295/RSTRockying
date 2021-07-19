@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Go Green and Save Money!</Title>
+  <OGImage>http://www.rockying.com/art/Awareness/Save-Energy-Save-Bills/Save-Energy.jpg</OGImage>
+  <OGDescription>We decided to enlighten ourselves of what we can do to help reverse the process with a little incentive for ourselves - saving money! Yes, we compile a list of certain activities that are not only environment friendly but help us save...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>20</Category>
+  <Tag>Save Energy, Save Money, Save Bills, Save the Environment.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Awareness/Save-Energy-Save-Bills/Save-Energy.jpg' alt='' /&gt;&lt;p&gt;We decided to enlighten ourselves of what we can do to help reverse the process with a little incentive for ourselves - saving money! Yes, we compile a list of certain activities that are not only environment friendly but help us save...&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px;  height:40px;
+            font-size: 50px; font-weight: 100; color: #000; border: none; text-align: center; margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px;height:40px;
+            font-size: 50px; font-weight: 100; color: #000;border: none; text-align: center;margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="slideshow"&gt;
+        &lt;div class="slide"&gt;
+            &lt;p&gt;
+The environment is a matter of great concern these days. We have talked about it before (link to the earth hour article). Not only are we harming it too much, we are failing to realize that what we dump there is going to come back and bite us - sooner or later. Extreme temperatures, skin problems, health concern are just some of the after effects of treating our environment badly. 
+&lt;/p&gt;
+&lt;p&gt;
+So, we decided to enlighten ourselves of what we can do to help reverse the process with a little incentive for ourselves - saving money! Yes, we compile a list of certain activities that are not only environment friendly but help us save on our bills in the long run. 
+&lt;/p&gt;
+&lt;p&gt;
+And before we start here’s a little statistics to boggle your mind: The U.S. Department of Energy reports that in 2008, Americans saved over $19 billion by employing energy saving measures and investing in energy efficient homes.
+&lt;/p&gt;
+&lt;p&gt;So, here’s what you can do for the environment and for yourself too! Slide on!&lt;/p&gt;
+
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/Awareness/Save-Energy-Save-Bills/unplug.jpg" alt="Unplug" style="padding-bottom: 20px;"/&gt;&lt;br&gt;
+            &lt;p&gt;
+               &lt;b&gt;1. UNPLUG &lt;/b&gt; -You have heard it a million times and we tell you to do it again. Turning off your electronics does not eliminate their draw on the electric grid. In order to completely stop a device from using any electricity, you must unplug it. Though it isn't a very significant huge way to save if we consider one person. Unplugging the charger saves about 1 watt of energy per day. Considering you unplug it every day, it makes sense in the long run. Also, if everyone one of us starts doing it, it would be a significant change - imagine this, over one million people unplugging their charger, laptops, televisions and other electronics every day before going to bed. So, every single step counts. 
+&lt;/p&gt;
+        &lt;/div&gt;
+ &lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/Awareness/Save-Energy-Save-Bills/string-upgrading.jpg" alt="Upgrade" style="padding-bottom: 20px;"/&gt;&lt;br&gt;
+            &lt;p&gt;
+               &lt;b&gt;2. UPGRADE &lt;/b&gt; -- Buy a newer laptop, computer. Though this requires spending money, you're older versions are usually not energy efficient nor are they equipped with better battery backup. So with your older laptops you might be spending more by charging it for hours. Newer laptops and PCs are better designed and more energy efficient.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/Awareness/Save-Energy-Save-Bills/Save-Petrol.JPG"
+                alt="Rocky enjoying the breeze" style="padding-bottom: 20px;"/&gt;&lt;br/&gt;
+            &lt;p&gt;
+&lt;b&gt;3. SAVE PETROL WHILE KEEPING COOL  &lt;/b&gt; -While on the highways it might be a little difficult to drive on a high speed with the windows down, but once you are in the city, try your best to drive with the windows down. There are two schools of thought to this - one saying that air conditioners causes the extra fuel gulp; the other one saying that open windows causes an aerodynamic drag that makes it gulp more fuel too. However, reports suggest that the air conditioners steal more energy than the aerodynamic flow. Though the difference is about 1.6 kilometres per litre; you do end up saving petrol with the windows down. Try your best to do it when driving in the city! 
+               &lt;/p&gt;
+        &lt;/div&gt;
+ &lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/Awareness/Save-Energy-Save-Bills/Low-flow-Shower-head.jpg"
+                alt="Low Flow Shower Head" style="padding-bottom: 20px;"/&gt;&lt;br&gt;
+            &lt;p&gt;
+&lt;b&gt;4. SHOWER ON LOW &lt;/b&gt;- While having a shower, you can do a lot to save water, save the depleting water reserves and also save on your water bills! If you are using showers, then it is a better option to shift to using buckets. However, if you shower fast then it is better to reconsider your showering options. You can save 25% to 60% more water and 50% more energy by switching to low flow shower heads. And don't fret, the new low flow shower heads have just as much power and water pressure as the older conventional ones. Also, they are affordable.
+               &lt;/p&gt;
+        &lt;/div&gt;
+ &lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/Awareness/Save-Energy-Save-Bills/radiant_heater_small.jpg"
+                alt="Radiant Heaters" style="padding-bottom: 20px;"/&gt;&lt;br&gt;
+            &lt;p&gt;
+&lt;b&gt;5. HEAT RIGHT&lt;/b&gt;- Invest in an energy efficient heater - for every degree you reduce the heater saves on your seasonal heating bills! A programmable heater makes it easier to control temperature when you are sleeping (though we advice not using it while asleep). For example, if you are warm enough, you don’t need all the rods lighting up; you can reduce the number of active heating rods. For those chilling in the Delhi winters, this might be a good tip to benefit from - for yourself and for your bills too! 
+               &lt;/p&gt;
+        &lt;/div&gt;
+&lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/Awareness/Save-Energy-Save-Bills/Use-cold-water.jpg" alt="Wash Right" style="padding-bottom: 20px;"/&gt;&lt;br&gt;
+            &lt;p&gt;
+&lt;b&gt;6. LONG LASTING CLOTHES &lt;/b&gt;- Washing clothes in cold water is just as good as washing it in hot / water. Not only do you let go off the trouble of heating the water but your clothes last longer when washed in cold water. When washed in cold water, you end up saving 50% more energy. Also, make sure when running the washing machine, it is a full load. 
+               &lt;/p&gt;
+        &lt;/div&gt;
+&lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/Awareness/Save-Energy-Save-Bills/laptop-in-bed.jpg" alt="Adjust Brightness Settings" style="padding-bottom: 20px;"/&gt;&lt;br&gt;
+            &lt;p&gt; 
+&lt;b&gt;7. BRIGHT SCREEN, BAD EYES&lt;/b&gt;-Most of us haven’t checked the brightness settings on our computers. You might be using it at a much more brightness level than actually required. Go find out and lower it to save energy. Brighter monitors consume more energy and are one of the reasons behind sore eyes and headaches related to computer usage.
+               &lt;/p&gt;
+        &lt;/div&gt;
+&lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/Awareness/Save-Energy-Save-Bills/print-both-sides.jpg" alt="Print Both Sides" style="padding-bottom: 20px;"/&gt;&lt;br&gt;
+            &lt;p&gt;
+&lt;b&gt;8. BOTH SIDES: &lt;/b&gt;- When printing, go ahead and print on both sides. You save paper and you also save a lot of trees from being cut down! On the long run, you save a lot of paper and also save on your paper bills! Better, think about whether you have to print everything. Every single email does not need to be printed. So think twice before printing.
+               &lt;/p&gt;
+        &lt;/div&gt;
+&lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/Awareness/Save-Energy-Save-Bills/Turn-off.jpg" alt="Turn Off Incandescent Bulbs" style="padding-bottom: 20px;"/&gt;&lt;br&gt;
+            &lt;p&gt;
+&lt;b&gt;9. TURN OFF&lt;/b&gt;- Make sure you turn off incandescent bulbs when you leave a room. Fluorescent bulbs are more affected by the number of times it is switched on and off, so turn them off when you leave a room for 15 minutes or more. You'll save energy not on the bulb itself, but also on cooling costs, as lights contribute heat to a room. 
+               &lt;/p&gt;       
+&lt;p&gt;
+Always remember that small acts of saving go a long way. Just a little care and a little thought put in will help you in saving the energy bills and also being an environmentally friendly person. Start incorporating the changes and be a contributor for a greener, healthier planet!&lt;/b&gt; 
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <SlideShowOn>true</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

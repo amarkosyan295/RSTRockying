@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Bollywood's Most Fun(ny) Songs of All Time- II</Title>
+  <OGImage>http://www.rockying.com/art/bollywood/Most-Funny-Songs/Ek-Chatur-Naar.png</OGImage>
+  <OGDescription>http://www.rockying.com/art/bollywood/Most-Funny-Songs/Ek-Chatur-Naar.png</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>15</Category>
+  <Tag>Bollywood, Funny, Music, Cinema, Songs, Hindi Music, Fun, Laughter.</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Most-Funny-Songs/Ek-Chatur-Naar.png' alt='' /&gt;&lt;p&gt;http://www.rockying.com/art/bollywood/Most-Funny-Songs/Ek-Chatur-Naar.png&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;1.  &lt;i&gt;Woh Ladki Hai Kahan (Dil Chahta Hai) &lt;/i&gt;&lt;/h3&gt;
+&lt;hr&gt;
+&lt;a href="" class="youtube"&gt;&lt;img src="http://www.rockying.com/art/bollywood/Most-Funny-Songs/Woh-Ladki-Hai-Kahaan.png" alt= "Click to Watch Wo Ladki Hai Kahan" title="Wo Ladki hai kahan"&gt; &lt;/a&gt;
+&lt;hr&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;2. &lt;i&gt;Zor ka Jhatka &lt;/i&gt; (Action Replay)&lt;/h3&gt;
+&lt;hr&gt;
+&lt;a href="https://www.youtube.com/embed/qcucgNV7Cmc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen" class="youtube"&gt;&lt;img src="http://www.rockying.com/art/bollywood/Most-Funny-Songs/Zor-ka-Jhatka.jpg" alt="Click to Watch Zor Ka Jhatka Song" title="Click and Watch Zor ka Jhatka"&gt; &lt;/a&gt;
+&lt;hr&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;3. &lt;i&gt;Pappu Can't Dance Sala (Jaane tu Ya Jaane Na)&lt;/i&gt;&lt;/h3&gt;
+&lt;hr&gt;
+&lt;a href="https://www.youtube.com/embed/dbdtBQ16CXc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen" class="youtube"&gt;&lt;img src="http://www.rockying.com/art/bollywood/Most-Funny-Songs/Pappu-cant-Dance-Saala.png" alt="Click to wtach Pappu Can't Dance Sala" title=""Pappu Can't Dance Saala"&gt;&lt;/a&gt;
+&lt;hr&gt;
+&lt;p&gt;
+Two pappus in the song
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;4. &lt;i&gt;Lapak Jhapak Tu Aa Re Badarwa &lt;/i&gt;(Boot Polish) &lt;/h3&gt;
+&lt;hr&gt;
+&lt;a href="https://www.youtube.com/embed/yDr9g_x2nYk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen" class="youtube"&gt;&lt;img src="http://www.rockying.com/art/bollywood/Most-Funny-Songs/Lapak-Jhapak-Tu-Aa-Re-Badarwa.png" alt="Click to Watch Lapak-Jhapak Tu aa re Badarwa" title="Lapak-Jhapak Tu aa re Badarwa"&gt;&lt;/a&gt;
+&lt;hr&gt;
+&lt;p&gt;
+The old bald man, played by David, is in the midst of his inmates (most of them baldies! Notice the heads in the image above? Click it to watch the song here! ). Just a moment ago, a professor among those jail-birds- (who was convicted for trying to sell a fraudulent hair-growth formula! )- had put forth his profound ‘philosophy’ about ‘scientific’ connection of &lt;i&gt;‘Ghatayen’&lt;/i&gt;(Dark rain-clouds) and &lt;i&gt;‘Jataen’&lt;/i&gt; (Thick hair) and David is desperately trying out the musical formula based on Tansen's &lt;i&gt;Raag Malhaar&lt;/i&gt;, in order to get hair on all their bald scalps! Sung by the great Manna Dey, this song is a musical-comedic gem. 
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;5. &lt;i&gt;Mera Nam Chin-Chin Chu &lt;/i&gt;(Howrah Bridge) &lt;/h3&gt;
+&lt;hr&gt;
+&lt;a href="https://www.youtube.com/embed/cQjXKdyp_wM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen" class="youtube"&gt;&lt;img src="http://www.rockying.com/art/bollywood/Most-Funny-Songs/Mera-naam-chin-chin-chu.png" alt="Click to Watch Mera Naam Chin-chin Chu" title="Watch Mera Naam Chin-chin Chu"&gt;&lt;/a&gt;
+&lt;hr&gt;
+&lt;p&gt;
+A slightly chubby Helen, with the funniest 'Chinese' eyebrows, Japanese costume and the hysterical non-sense lyrics make the song all the more watchable. Watch out for her dance moves here, really cool !
+&lt;/p&gt;
+&lt;h3&gt;6. Kabhi Nahin (Album-Tera Chehra) {https://www.youtube.com/watch?v=qC977wZ2w4Q}&lt;/h3&gt;
+&lt;h3&gt;7. Eena Meena Deeka (Aasha) [https://www.youtube.com/watch?v=Se1EZCE_zLo]&lt;/h3&gt;
+&lt;h3&gt;8. Rail GAdi  (Aashirwad)[https://www.youtube.com/watch?v=TcLrPIE_18o]&lt;/h3&gt;
+&lt;h3&gt;9. O Papad wale panga na le (Makdee)&lt;/h3&gt;
+&lt;h3&gt;10. Chicken Kukdoo koo (Bajrangi Bhaijaan)&lt;/h3&gt;
+&lt;h3&gt;11.  Meri Biwi Mayke chali gai&lt;/h3&gt;
+&lt;h3&gt;12. Apun jaisa tapori (Munna BHai MBBS)&lt;/h3&gt;
+&lt;h3&gt; 13. Bholi surat &lt;/h3&gt;
+&lt;h3&gt; 14. Amma Dekh &lt;h3&gt;
+&lt;h3&gt; 15. Thande-thande pani se &lt;/h3&gt;
+&lt;h3&gt; 16. Sar jo tera chakrae &lt;/h3&gt;
+&lt;h3&gt;16. Apun Bola (Josh) &lt;/h3&gt;
+&lt;h3&gt; 17. Gulaabo (Shandaar) &lt;/h3&gt;</Text>
+  <WriterName>Rockying</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>bollywoods-funniest-songs-of-all-time--ii</URL>
+</Article>

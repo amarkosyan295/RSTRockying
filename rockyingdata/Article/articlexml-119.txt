@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>119</ID>
+  <Title>Copied? No! Its Bollywood Inspired By Hollywood</Title>
+  <MetaTitle>Copied? No! Its Bollywood Inspired By Hollywood</MetaTitle>
+  <OGImage>//www.rockying.com/art/bollywood/Copy%20CAts/Murder.jpg</OGImage>
+  <OGDescription>From songs and action set pieces to entire plot lines, we in India love to copy without any hesitation. Of the hundreds of movies that have been ‘inspired’, there are some which have been true carbon copies with minimal of changes...Here is countdown of the five blockbusters so obviously and complet</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Bollywood, Hollywood, Kaante, Dil Hai ki Manta Nahin, Murder, Ghajini, Partner</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/bollywood/Copy%20CAts/Murder.jpg' alt='' /&gt;&lt;p&gt;From songs and action set pieces to entire plot lines, we in India love to copy without any hesitation. Of the hundreds of movies that have been ‘inspired’, there are some which have been true carbon copies with minimal of changes...Here is countdown of the five blockbusters so obviously and complet&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    Plagiarism, often touted as ‘inspiration’ is not something new to Bollywood.
+    From songs and action set pieces to entire plot lines, we in India love to copy
+    without any hesitation. Of the hundreds of movies that have been ‘inspired’, there
+    are some which have been true carbon copies with minimal changes. A number of
+    these straight copies have even gone on and created box office records at home and
+    abroad. Focusing solely on these super hit copycats and staying away from movies
+    that despite being copies tried hard for their own identity (think &lt;b&gt;Koi Mil Gaya&lt;/b&gt;
+    and &lt;b&gt;Pyaar To Hona Hi Tha&lt;/b&gt;); here is a countdown of the five blockbusters so
+    obviously and completely copied that you would assume that the scriptwriter had
+    taken a day off.&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;b&gt;5 .&amp;nbsp;&amp;nbsp; MURDER&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+    &lt;img src="//rockying.com/art/bollywood/Copy%20CAts/Unfaithful_Murder.jpg"
+        title="Unfaithful, Murder" alt="" style="width: 700px;"&gt;&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+    The movie that launched Mallika Sherawat into instant stardom in 2004 was a Bhatt
+    the factory produced a cheap knock off of the Richard Gere-Diane Lane starrer &lt;b&gt;Unfaithful
+    &lt;/b&gt;released two years earlier. The Anurag Basu directed flick copied the major plot
+    lines including the extramarital affair and the murder from the Adrian Lyne directed
+    original. Both Mallika and Emraan profited majorly from the hit and the franchise
+    has even seen a recently released sequel. Both movies faced criticism on release
+    for being nothing more than glorified soft porn but went on to become the 10th
+    highest grosser of the year.&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;b&gt;4.&amp;nbsp;&amp;nbsp;&amp;nbsp; PARTNER&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+    &lt;img src="//rockying.com/art/bollywood/Copy%20CAts/Hitch_Partner.jpg"
+        title="Hitch, Partner" alt="" style="width: 700px;"&gt;&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+    David Dhawan’s 2007 superhit starring Govinda and Salman Khan was a delightfully modern
+    take on the classic story of a loser finding love. The only problem was, we had seen
+    it all before. 2005’s Will Smith starrer &lt;b&gt;Hitch&lt;/b&gt; had already introduced us
+    to the story of a fat loser in love with a millionaire heiress being helped by a
+    “love doctor” who himself falls in love along the way. From the story and characters
+    to the individual scenes (remember where the fat one shows off his dancing skills
+    to his guru) every little bit about a partner is lifted straight from Hitch, with
+    Mr. Dhawan needing to do the least in terms of story and screenplay. The movie was
+    the biggest hit of the year for Bollywood, reinforcing our belief in the mantra
+    of cut-copy-paste.&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;b&gt;3.&amp;nbsp;&amp;nbsp; &amp;nbsp;KAANTE&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+    &lt;img src="//rockying.com/art/bollywood/Copy%20CAts/Reservoir.Dogs_Kaante.jpg"
+        title="Reservoir Dogs, Kaante" alt="" style="width: 700px;"&gt;&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+    Director Sanjay Gupta must really love his DVD collection. Almost every movie he
+    directs is a straight copy from one of the legendary movies from either the West
+    or the East. While his adaptation of the Korean cult masterpiece Old Boy and the
+    dark thriller U-Turn in the form of ZINDA and MUSAFIR didn’t meet great commercial
+    success, his 2002 heist drama Kaante starring some of the biggest names in Bollywood
+    was a runaway hit. The crime caper was heavily inspired by Quentin Tarantino’s
+    much admired 1992 flick &lt;b&gt;Reservoir Dogs&lt;/b&gt;, from where it copied its plotlines
+    of a gang of criminals teaming up in jail, robbing a bank, and then falling apart
+    due to a policeman in their midst. After copying all the major creative necessities,
+    Sanjay Gupta toned down the violence, introduced the mandatory sob stories for the
+    crooks and threw in a couple of item numbers and managed to make a decent enough
+    copy that earned enough to keep him afloat in the business.
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;b&gt;2. &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;GHAJINI&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+    &lt;img src="//rockying.com/art/bollywood/Copy%20CAts/memento_Ghajini.jpg"
+        title="Memento, Ghajini" alt="" style="width: 700px;"&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    Mr. Perfectionist Aamir Khan, in a rare turn out of his usual &amp;amp; original ways,
+    agreed for what was supposedly a remake of director A R Murugadoss’ south superhit
+    of the same name and the 2008 action movie co starring Asin&amp;nbsp; turned out to
+    be one of Bollywood’s all time biggest hits. But the southie ‘original’ itself was
+    a direct copy of Christopher Nolan’s 2000 cult classic &lt;b&gt;Memento&lt;/b&gt;. The short
+    term memory loss, the tattoos, the instant photographs, the brutal murder of a loved
+    one, the revenge drama are a straight copy-paste job from Memento. All that A. R.
+    Murugadoss left untouched was the time shifting narrative of the original masterpiece
+    which would have been too complicated for Indian audiences. His genius lay in spicing
+    up the thriller with loads of songs, unnecessary characters and a lengthy, and slightly
+    unbelievable, love story. Ghajini is listed as the 6th highest grosser of all time
+    (after gems like Bodyguard , RA-One and Ready.. sigh). &lt;b&gt;
+        &lt;br&gt;
+    &lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;b&gt;1.&amp;nbsp;&amp;nbsp; &amp;nbsp;DIL HAI KI MAANTA NAHIN&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+    &lt;img src="//rockying.com/art/bollywood/Copy%20CAts/It.Happened.One.Night_Dil.Hai.ki.Manta.Nahin.jpg"
+        title="It Happened One Night, Dil Hai Ki Manta Nahin" alt="" style="width: 700px;"&gt;&lt;/p&gt;
+&lt;p&gt;
+    The Mahesh Bhatt directed 1991 film is on everyone’s list of favorite romantic comedies.
+    But almost everything in the film about the love story of a rich, runaway girl and
+    a street smart reporter is an unabashed copy of the 1934 classic &lt;b&gt;It Happened One Night&lt;/b&gt;.
+    Not only are the characters played by Aamir Khan and Pooja Bhatt inspired by the
+    originals played by Clark Gable and Claudette Colbert but even the much loved, individual
+    scenes in the movie- the heroine jumping off her father’s yacht, the blanket put
+    up by the hero in the bedroom when they are together and the iconic final scene
+    when the father coaxes his own daughter to run away from the wedding are straight
+    copies from the original with only the least of changes. Mahesh Bhatt garnered a
+    a lot of praise, awards, and revenue from the movie and his production house has kept
+    up the trend in recent years with ‘inspired’ flicks like Paap, Rog &amp;amp; Murder.&lt;/p&gt;
+&lt;div class="rstquestion well"&gt;
+&lt;h5&gt;&lt;span style="color: green;"&gt;&lt;b&gt;FUN QUIZ&lt;/b&gt;&lt;/span&gt;&lt;/h5&gt;
+       &lt;p&gt;
+           Who played the character inspired by that of Will Smith in &lt;i&gt;Hitch&lt;/i&gt;, in its Indian version &lt;i&gt;Partner&lt;/i&gt; ?   
+       &lt;/p&gt;
+       &lt;ul&gt;
+           &lt;li&gt;Suresh Menon&lt;/li&gt;
+           &lt;li&gt;Govinda&lt;/li&gt;
+           &lt;li data-anwser="correct"&gt;Salman Khan&lt;/li&gt;
+          &lt;li&gt;Arbaaz Khan&lt;/li&gt;
+       &lt;/ul&gt;
+   &lt;/div&gt;
+&lt;p&gt;
+    Inspiration from Hollywood has been a trend, and it looks like, will only grow.
+    Though good copying isn't a piece of cake, Rockying hopes and is waiting to see original scripts being turned into movies. Go ahead, take the risk producers. Right?&lt;br&gt;
+&lt;/p&gt;
+&lt;p class="well"&gt;
+&lt;img src="http://www.rockying.com/art/Writers/Sonali.jpg" class="pull-left"/&gt;
+&lt;b&gt;About the Author:&lt;/b&gt; Keeping her eyes closed, with long breaths and a gentle sound many mistake for snoring, actually helps Sonali think better. Or so she says. People question about these daily “thinking sessions”, mostly conducted on a comfortable couch or bed, while she claims that the long overdue best-seller she’s been working on (for quite some time now) will silence all the cynics. Till then she dreams on...
+&lt;/p&gt;</Text>
+  <WriterName>Sonali Chowdhury</WriterName>
+  <WriterEmail>media.sonali@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>119</URL>
+</Article>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>129</ID>
+  <Title>The Best Coffee Around The World</Title>
+  <MetaTitle>The Best Coffee Around The World</MetaTitle>
+  <OGImage>//rockying.com/art/Food/Coffee%20joints/CCD-Coffee.jpg</OGImage>
+  <OGDescription>Nothing like a cup of warm coffee to perk you up and give the perfect accelerator to your busy day. And going by just this love and craze of the caffeine kick in, many joints have been opened across the globe to gather to the coffee taste buds. So we look at the coffee chain house across the globe a</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>13</Category>
+  <Tag>Coffee Joints, Coffee n Snacks, Barista, CCD, Starbucks, Tim Hortons, Costa, Coffee, Coffe Beverage</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/Food/Coffee%20joints/CCD-Coffee.jpg' alt='' /&gt;&lt;p&gt;Nothing like a cup of warm coffee to perk you up and give the perfect accelerator to your busy day. And going by just this love and craze of the caffeine kick in, many joints have been opened across the globe to gather to the coffee taste buds. So we look at the coffee chain house across the globe a&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    One thing that unites people over the world is the love for coffee. Nothing like
+    a cup of warm coffee to perk you up and give the perfect accelerator to your busy
+    day. And going by just this love and craze of the caffeine kick in, many joints
+    have been opened across the globe to gather to the coffee taste buds.
+&lt;/p&gt;
+&lt;p&gt;
+    So we look at the coffee chain house across the globe and see what their story is.
+    What made them brew?&lt;/p&gt;
+&lt;ul class="unstyled"&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            STARBUCKS&lt;/h4&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/Food/Coffee%20joints/Starbucks.jpg"
+                title="Starbucks" alt="" style="width: 350px;" class="pull-right" /&gt;
+            With over 19,555 stores in 58 countries, no one serves “bigger”! The second largest
+            coffee house has about 1700 stores! Almost a household name for coffee lovers all
+            over, Starbucks is all determined to have your eyes opened. Based in Seattle, Washington,
+            Starbucks began with selling high quality coffee beans and equipments but now serves
+            a wide range of products which include brewed coffee, espresso based hot drinks,
+            hot and cold drinks, coffee beans, snacks, pastries, sandwiches and items that include
+            mugs and tumblers. To know the impact, it is estimated that Starbucks sells close
+            to 4 billion cups of coffee every year!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            CAFE COFFEE DAY&lt;/h4&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/Food/Coffee%20joints/CCD.jpg" title="Cafe Coffee Day"
+                alt="" style="width: 350px;" class="pull-right" /&gt;
+        Something that is more familiar with the Indian audience. Goes by the tagline of
+        “A lot can happen over coffee”, Cafe Coffee Day, more popularly known as CCD opened
+        up the cafe culture in the country. A meter on their official website shows the
+        total number of outlets at 1270, the first CCD outlet was opened on July 11, 1996
+        at Brigade Road, Bangalore, Karnataka. Serving hot and cold coffee drinks, pastries,
+        snacks, sandwiches CCD is slowly expanding its menu catering to the need of the
+        Indian and the international audience. CCD has also moved globally to various cities
+        like Prague, Vienna, Karachi to name a few. &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            BARISTA LAVAZZA&lt;/h4&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/Food/Coffee%20joints/Barista_Snacks.jpeg"
+                title="Barista" alt="" style="width: 350px;" class="pull-right" /&gt;
+            Originally known as Barista, this coffeehouse chain in India was taken over by Lavazza
+            in 2007 and since then is known as Barista Lavazza. Barista was the fastest brand
+            to make it to the list of Super brands and is ranked among the top 50 phenomena
+            that changed India. With a menu that ranges over Mojitos, frappes, Lemonades, Ice
+            teas, cold and hot coffee, sandwiches and wraps, salads, breakfast items, pastas,
+            pizzas, soups, indulgent cakes, muffins, juices and snacks; one does have a tough
+            time categorizing it as just another coffee shop!
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            COSTA COFFEE&lt;/h4&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/Food/Coffee%20joints/costa-coffee-2.jpg"
+                title="Costa Coffee" alt="" style="width: 350px;" class="pull-right" /&gt;
+            The second largest after Starbucks, Costa Coffee has about 1700 stores across 28
+            countries. Though it doesn't come as close to Starbucks in terms of numbers, it
+            does better than other competitors. Opened in 1971 in UK by Italian brothers Sergio
+            and Bruno Costa, it specialises in Italian coffee. Their biggest branch is in Dubai
+            and can house about 320 people at one time.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            TIM HORTONS&lt;/h4&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/Food/Coffee%20joints/Tim-hortons-Coffee-Pastry.jpg"
+                title="Tim Hortons" alt="" style="width: 350px;" class="pull-right" /&gt;
+            Originally planned as a hamburger restaurant, Tim Hortons is known for its coffee
+            and doughnuts. Founded in 1964 in Canada, by hockey player Tim Horton and Jim Charade,
+            the join runs over 3600 chains worldwide. Besides from its usual coffee and doughnuts,
+            Tim Hortons menu includes muffins, cookies, biscuits, bagels and sandwiches. Originally
+            a Canadian venture, TH has rapidly moved to international markets with branches
+            in USA, UAE, Afghanistan, Oman, Qatar, Kuwait, UK, Ireland to name a few.&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src="//rockying.com/art/Food/Coffee%20joints/food.jpg" title="Coffee n Snacks"
+    alt="" style="height: 294px;" /&gt;
+&lt;h5&gt;
+    So, what remains to be taken from this is that it just isn’t only about coffee anymore.
+    With menus ranging from food items and snacks that complement the coffee and its
+    products, the business of coffee just gets bigger from there. So do tell us your
+    favorite coffee joint... which brand do you prefer to kick the coffee addiction
+    in?&lt;/h5&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>the-best-coffee-around-the-world</URL>
+</Article>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>17 Interesting Facts About Your Feet</Title>
+  <MetaTitle>17 Interesting Facts About Your Feet</MetaTitle>
+  <OGImage>//www.rockying.com/art/Awareness/Feet/feet-9.jpg</OGImage>
+  <OGDescription>17 Interesting Facts About Your Feet</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>20</Category>
+  <Tag>Fact, Feet</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Awareness/Feet/feet-9.jpg' alt='' /&gt;&lt;p&gt;17 Interesting Facts About Your Feet&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px;  height:40px;
+            font-size: 50px; font-weight: 100; color: #000; border: none; text-align: center; margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px;height:40px;
+            font-size: 50px; font-weight: 100; color: #000;border: none; text-align: center;margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="slideshow" style="text-align: center;"&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Awareness/Feet/facts-about-feet.jpg"
+                alt="" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Awareness/Feet/feet-1.jpg" alt="" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Awareness/Feet/feet-2-and-3.jpg"
+                alt="" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Awareness/Feet/feet-4.jpg" alt="" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Awareness/Feet/feet-5.jpg" alt="" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Awareness/Feet/feet-6-and-7.jpg"
+                alt="" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Awareness/Feet/feet-8.jpg" alt="" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Awareness/Feet/feet-9.jpg" alt="" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Awareness/Feet/feet-10-and-11.jpg"
+                alt="" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Awareness/Feet/feet-12.jpg" alt="" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Awareness/Feet/feet-13-and-14.jpg"
+                alt="" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Awareness/Feet/feet-15-and-16.jpg"
+                alt="" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="//rockying.com/art/Awareness/Feet/feet-17.jpg" alt="" /&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <WriterName>Preeti Singh</WriterName>
+  <WriterEmail>preeti.singh@rudrasofttech.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>219</URL>
+</Article>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>bKFdLdDdcggPRvuTWE</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>nw7iD</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>13</Category>
+  <Tag>41o86W</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;nw7iD&lt;/p&gt;</Description>
+  <Text>I&amp;#39;m a member of a gym http://tubegalore.in.net/ tubegalo  Financial planners are also warning investors not to let social media sites get them down. &amp;quot;I tell my clients to remember that just because they see an awesome vacation picture on Facebook, doesn&amp;#39;t mean they&amp;#39;re seeing the credit card debt that came with the trip,&amp;quot; says Ann Arceo, president of Savvy Duo Financial Planning in Los Angeles, who specializes in helping newlyweds and young couples.</Text>
+  <WriterName>UFqUh</WriterName>
+  <WriterEmail>raymundo5e@lycos.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>bkfdldddcggprvutwe</URL>
+</Article>

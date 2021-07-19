@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>What is special about Darjeeling Tour</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>Darjeeling is one of the prettiest Hill Station, in India located in the northern part of West Bengal. The best time to visit Darjeeling is between the months of April to June.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Kalimpong, Hill station</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;Darjeeling is one of the prettiest Hill Station, in India located in the northern part of West Bengal. The best time to visit Darjeeling is between the months of April to June.&lt;/p&gt;</Description>
+  <Text>Darjeeling is one of the prettiest Hill Station, in India located in the northern part of West Bengal. The best time to visit Darjeeling is between the months of April to June. Darjeeling is famous for tourism. Most of the tourists come here to enjoy the beauty of nature. You will see numerous sprawling tea estates in Darjeeling that will produce world’s best tea as well as amazing narrow; Toy Train an engineering marvel of the 1880s which could overcome the steep gradients and curves of mountains and provide scenic railway transportation in the hills.
+
+
+Mostly residents immigration are Nepalese, Tibetan, and Bhutias while Tibetans follow Buddhism when you compare them with lower people of plains, they are quite different in looks as well as in culture.
+
+The town center of Darjeeling is known as MALL ROAD or CHOWRASTA.
+
+
+MALL ROAD is commercial a street where many tourists try to stay near MALL area to be the close of the hub of all activities, restaurants and shop as well as a bit away enjoy nature views and a location relatively freed of the crowd. 
+During spring-autumn and summer, the weather is pleasantly cool and perfect for dweller who flocks in volumes during such time. Many come to enjoy the rains in monsoon others to chill in winter. Such visit combined with wonderful views of snow peaks, valleys, tea gardens, forests activities, great food stays and affordable prices.
+
+
+CULTURE OF DARJEELING 
+
+It is a quite diverse unique the two religions are Hinduism and Buddhism. The diverse ethnic popular of the town also celebrates several festivals like Buddhism celebrate Losar Festival in the month of February as Tibetans New Year, this week-long festival is early awaited by Tibetans. They cook food, buy new clothes, and dance. You would see many youngsters performing Tibetan dance on streets which is a traditional Yak dance dressed in elaborate costumes and the festivals celebrated by Nepalese are Dashai, Tihar, Buddha Jayanti, Christmas, Holi, Ram Navami, etc. 
+The immigrant form Nepali is known as Nepalese speak their religion is usually Hinduism although all communities like Tamang, Sherpa, Lepcha, Rai, Limbu, etc. Gorkhas contribute to the greater bulk of the hill people they are popularly known as martial race as many of Gorkha people found in Indian Army.
+ 
+
+FOOD
+
+The lists of local dishes of Darjeeling while you visit and can try it.
+
+ALU DUM; It is a spicy Nepalese dish prepared with boiled potatoes. The boiled potatoes chopped and cooked hot oil, along with cumin, onion and garlic paste, powdered and red chilies. 
+
+THUKPA; It is a traditional and one of the famous Tibetan fast foods found in Darjeeling. Thukpa is a noodle soup mixed with meat, vegetables, stewed meat, etc., and served in a large bowl.
+
+
+FAMBI; Fambi is one of the best street foods in Darjeeling. It is made with mung beans. The liquid powdery form of beans is made into steamed cake cut into small square pieces and fried lightly and served with red chili.
+
+NINGRO AND CHURPI; It is a water cuisine available in Darjeeling famous in Nepalese hotel. It is made from a local churpi. 
+
+SEL ROTI; Sel Roti is a traditional Nepali homemade sweet. It is mostly found during the festive occasion of Diwali. It is prepared with flour by mixing the flour in milk and water and make semi-fluid out added sugar butter etc. And is fried in oil until it turns in golden brown. 
+
+GUNDRUK; It is a famous dishes in Darjeeling is found in every household of Gorkhas. It is prepared of leafy vegetables like mustard leaves etc. Gundruk is a significant source of minerals and is mostly found in June to September. 
+
+
+TOURISTS SPOTS IN DARJEELING 
+
+Places to visit
+
+There are many tourists places including viewpoints magnificent views of Kanchenjunga snow peaks, tea estates, on a mountain slope, museums, art galleries, parks, gardens, waterfalls, mountains landscapes, etc. 
+
+TIGER HILL; Tiger Hill is located in Darjeeling of Ghoom and the view of colossal Kanchenjunga with much other clad eastern Himalayan peaks but we hardly talk about the summit of Tiger Hill. The blaze of rapidly changing colors of the snow peak as the sun strikes is an awesome view. Tiger Hill is the destination by itself a place where you can soak yourself with Himalayan beauty anytime. 
+
+
+TOY TRAIN; Toy train joy ride operates from Darjeeling Railway Station. It is a two hour round trip of Darjeeling to Ghoom and back covering of 14kms. There are several such round trips during the day starting in the morning. A number of rides per day on the demand during the month or the season. At Batasia the train makes a loop around a wonderful manicured garden. The view of Darjeeling town and the snow peaks of Kanchenjunga from here are unparalleled.
+The war memorial built in honor of the Gorkha Soldier sacrificed their lives is located at the of the garden.
+
+
+
+GHOOM MONASTERY; The Ghoom Monastery built in 1875 by a lama called Sherpa Gyatso is the largest in Ghoom and holds the statue of the Maitreya Buddha believed to be ‘The Buddha to come’. As the Yiga chocking Monastery, Ghoom Monastery preserves somewhere handwritten Buddhists manuscripts. The monk of Ghoom Monastery follows the Gelugpa order of Buddhism. 
+
+
+
+MUSEUM  IN DARJEELING; The Himalayan Mountaineering Institute was established by Tenzing Norgay Sherpa who reached the summit of Mount Everest. It also moves a museum that showcases mountaineering equipment.
+ 
+
+TEA PLANTATION; A visit to take a tea plantation is the must wherein Darjeeling. There are more than 86 gardens that produced the famous Darjeeling tea. Visit tea estates and take a guided tour and learn all that goes into processing tea. 
+
+
+BATASIA LOOP; In Batasia Loop you will find to see the most amazing spectacle ever - shopkeepers with there little makeshift stall and spreads on the Railway lines wrap up their business with super agility and spread as the Toy Train arrives to transverse this little. The place is accompanied by the famous garden known as a war memorial in the middle of the loop.
+
+
+PADMAJA NAIDU ZOOLOGICAL HIMALAYAN PARK; If you are animal and bird lover then Padmaja Naidu Zoological Park or Darjeeling Zoo is the best place for you to explore. The zoo is 10 minutes away from the town and the zoo is famous for breeding program of Red Panda and Snow Leopard. Other than Snow leopard and Red Panda it houses rare and endangered animals like Himalayan Goat, Tibetan Wolf, wild Cats, Langoor, etc and large varieties of birds. 
+
+ROCK GARDEN; The garden offers spectacular ambiance which has the houses wide varieties of Flora. The garden is equipped with a beautiful natural waterfall, cutting rock benches and the lake adds beauty on the Garden. The garden is the 10km distance from the Darjeeling town and it is a new addition of sightseeing in Darjeeling.
+
+
+JAPANESE PAGODA; It is a white structure known for its peace and spiritual significance. It reflects the four avatars of Lord Buddha are represented in the stone carving. It was built by a Japanese Buddhist Monk Nichidatsu Fuji in the year between 1885 and 1895 and from the summit of the Peace Pagoda, you can see the amazing view of Darjeeling and snowy mountains.
+
+There are other places in Darjeeling like observatory hill, Himalayan Mountaineering Institute, Mall, Darjeeling ropeway, Mirik and more are the places that will complete your Darjeeling tour with beautiful memories.
+So, if you like to explore Darjeeling during your vacation and want to know more about us then you can call us or you can email us in the given below address. You can also visit our website Tripnexts.com.
+Tripnexts
+D.S Gurung Road,
+Kalimpong-734301
+Contact no- +91-9002169468, +91-8942839924
+Email-booking@tripnexts.com</Text>
+  <WriterName>Tripnexts</WriterName>
+  <WriterEmail>tripnexts@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>what-is-special-about-darjeeling-tour</URL>
+</Article>

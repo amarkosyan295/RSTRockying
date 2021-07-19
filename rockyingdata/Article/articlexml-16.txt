@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>16</ID>
+  <Title>Vivek to Play the Baddy in krissh 2</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Vivek.jpg</OGImage>
+  <OGDescription>Krissh2 will surprise you!!!</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Vivek Oberoi, Bollywood,  Kaal, Krissh 2</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://rudrasofttech.com/rockying/art/Vivek.jpg' alt='' /&gt;&lt;p&gt;Krissh2 will surprise you!!!&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    &lt;img src="http://rockying.com/art/Vivek.jpg" title="Vivek in a Negative Role"
+        alt="" class="pull-left" /&gt;He has been away from big budget movies for a while
+    now, and Bollywood actor Vivek Oberoi sure had reasons to celebrate when Krissh2
+    fell in his kitty. After a dry year 2011, Vivek will soon be seen in Krissh 2 in
+    a negative role 'Kaal'. Vivek Oberoi who made his debut with Ram Gopal Varma's Company
+    starting with a gray, any newcomer would avoid then, had big plans in mind.&lt;/p&gt;
+&lt;p class="clear-fix"&gt;
+    Son of veteran actor Suresh Oberoi, Vivek made an impression with his cute lover
+    boy image along with Rani Mukerji and their crackling chemistry in Shaad Ali’s Saathiya.
+    Following with Yuva and Shoot Out at Lokhandwaala, Vivek did manage to score a few
+    hits before his career went for a down slide. Currently, with Krishh 2 to his favor,
+    Vivek is so elated that he went on to tell that the moment he read the script in
+    Rakesh Roshan’s office, he immediately seeked Sr, Roshan’s blessings and signed
+    the film. This won’t be the first time Vivek will donne the villain's hat. Vivek
+    also played a negative character in Apoorva Lakhia's Shootout at Lokhandwaala, for
+    which he won the IIFA Award for the Best Negative role. However, it is the Sanjay
+    Gupta's Shoot out at Wadala, that has brought a hint of embarrassment for the actor.
+    According to sources the actor has been kicked out of the film since he could not
+    make up his mind about it. Well, as long as Vivek manages to get himself meaty roles
+    in good films, nothing can really work against the actor.&lt;/p&gt;
+&lt;p&gt;
+    It's not just the big budget Krrish that would give him limelight, but also his
+    following flick with Mallika Sherawat, Kismat Love Paisa Dilli and Zilla Ghaziabad
+    will soon hit the theaters. Reportedly, Vivek is very happy with the environment
+    on the sets of Krisshh 2 and has Rakesh Roshan and Hrithik Roshan boosting his confidence
+    from time to time. Let’s hope with Krishh 2 Vivek manges to once again establish
+    himself in the industry as the new Super-Villian of Bollywood and the year ahead
+    helps establish himself more firmly in the Bollywood industry.
+&lt;/p&gt;</Text>
+  <WriterName>Yashika Mathur</WriterName>
+  <WriterEmail>yashikamathur05@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>vivek-to-play-the-baddy-in-krissh-2</URL>
+</Article>

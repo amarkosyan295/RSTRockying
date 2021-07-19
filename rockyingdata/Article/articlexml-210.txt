@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Namaste India V : Binsar</Title>
+  <MetaTitle>Namaste India V : Binsar</MetaTitle>
+  <OGImage>//www.rockying.com/art/Travel/Namaste%20India/Binsar/1.jpg</OGImage>
+  <OGDescription>A small cottage you would find on your way to Zero Point. Binsar hill station in uttarakhand India.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Binsar, Uttarakhand, Hill Stations, Travel India, Himalayas</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Travel/Namaste%20India/Binsar/1.jpg' alt='' /&gt;&lt;p&gt;A small cottage you would find on your way to Zero Point. Binsar hill station in uttarakhand India.&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;button id="prevslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+        font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+        padding: 0px; background-color: transparent;'&gt;
+        &amp;lsaquo;
+    &lt;/button&gt;
+    &lt;button id="nextslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+        font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+        padding: 0px; background-color: transparent;'&gt;
+        &amp;rsaquo;
+    &lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="slideshow" style="text-align:center;"&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h5&gt;
+                    A small cottage you would find on your way to Zero Point.&lt;/h5&gt;
+                &lt;img src="//rockying.com/art/Travel/Namaste%20India/Binsar/1.jpg"
+                    alt="Binsar" /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h5&gt;
+                    Washed roads and the traveler’s respite. Life looks good!&lt;/h5&gt;
+                &lt;img src="//rockying.com/art/Travel/Namaste%20India/Binsar/2.jpg"
+                    alt="Binsar" /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h5&gt;
+                    The local market in Binsar.&lt;/h5&gt;
+                &lt;img src="//rockying.com/art/Travel/Namaste%20India/Binsar/3.jpg"
+                    alt="Binsar" /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h5&gt;
+                    The Kosi river necklaces the city of Binsar like a beloved.&lt;/h5&gt;
+                &lt;img src="//rockying.com/art/Travel/Namaste%20India/Binsar/4.jpg"
+                    alt="Binsar" /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h5&gt;
+                    The Zero Point. The view itself is a luxury in the midst of nature.&lt;/h5&gt;
+                &lt;img src="//rockying.com/art/Travel/Namaste%20India/Binsar/5.jpg"
+                    alt="Binsar" /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h5&gt;
+                    A panorama view clicked from one of the luxury resorts.&lt;/h5&gt;
+                &lt;img src="//rockying.com/art/Travel/Namaste%20India/Binsar/6.jpg"
+                    alt="Binsar" /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h5&gt;
+                    The Golu Devta Temple.&lt;/h5&gt;
+                &lt;img src="//rockying.com/art/Travel/Namaste%20India/Binsar/7.jpg"
+                    alt="Binsar" /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h5&gt;
+                    Bet on a thousand dollars*, you have never seen that bird before. This is Binsar’s
+                    Wildlife sanctuary.&lt;/h5&gt;
+                &lt;img src="//rockying.com/art/Travel/Namaste%20India/Binsar/8.jpg"
+                    alt="Binsar" /&gt;&lt;p&gt;
+                        Please dont take the bet seriously.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h5&gt;
+                    The Binsar River yet again. See how merrily it flows!&lt;/h5&gt;
+                &lt;img src="//rockying.com/art/Travel/Namaste%20India/Binsar/9.jpg"
+                    alt="Binsar" /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h5&gt;
+                    Now that’s a cottage to die for, isn’t it?&lt;/h5&gt;
+                &lt;img src="//rockying.com/art/Travel/Namaste%20India/Binsar/10.jpg"
+                    alt="Binsar" /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h5&gt;
+                    A road that will come on your way while trekking from Dalad to Binsar Zero Point&lt;/h5&gt;
+                &lt;img src="//rockying.com/art/Travel/Namaste%20India/Binsar/11.jpg"
+                    alt="Binsar" /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h5&gt;
+                    Deer dearest at Binsar Wildlife sanctuary&lt;/h5&gt;
+                &lt;img src="//rockying.com/art/Travel/Namaste%20India/Binsar/12.jpg"
+                    alt="Binsar" /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h5&gt;
+                    Binsar Map&lt;/h5&gt;
+                &lt;iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0"
+                    marginwidth="0" src="https://maps.google.co.in/maps?f=q&amp;amp;source=s_q&amp;amp;hl=en&amp;amp;geocode=FazwtAEdAFyaBCkttn40W_0MOTHOTSBOSbfCUg%3BFaBLxQEdeWfABCnD7Uq0mLWgOTH9IMcU-cQNdg&amp;amp;q=New+delhi+to++Binsar,+Uttarakhand&amp;amp;aq=&amp;amp;sll=29.701921,79.721088&amp;amp;sspn=0.088719,0.154324&amp;amp;ie=UTF8&amp;amp;t=m&amp;amp;saddr=New+delhi&amp;amp;daddr=Binsar,+Uttarakhand&amp;amp;z=8&amp;amp;output=embed"&gt;
+                &lt;/iframe&gt;
+                &lt;br /&gt;
+                &lt;small&gt;&lt;a href="https://maps.google.co.in/maps?f=q&amp;amp;source=embed&amp;amp;hl=en&amp;amp;geocode=FazwtAEdAFyaBCkttn40W_0MOTHOTSBOSbfCUg%3BFaBLxQEdeWfABCnD7Uq0mLWgOTH9IMcU-cQNdg&amp;amp;q=New+delhi+to++Binsar,+Uttarakhand&amp;amp;aq=&amp;amp;sll=29.701921,79.721088&amp;amp;sspn=0.088719,0.154324&amp;amp;ie=UTF8&amp;amp;t=m&amp;amp;saddr=New+delhi&amp;amp;daddr=Binsar,+Uttarakhand&amp;amp;z=8"
+                    style="color: #0000FF; text-align: left"&gt;View Larger Map&lt;/a&gt;&lt;/small&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>210</URL>
+</Article>

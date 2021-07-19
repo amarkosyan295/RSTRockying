@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>ullmXnuXFUhkMaF</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>cIjffD</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>tYSBF2</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;cIjffD&lt;/p&gt;</Description>
+  <Text>Stolen credit card http://rulertube.fun/ rulertub  Little declined to comment on questions about whether this would be considered an act of war. Administration officials and proponents of the strike claim their repeated insistence of &amp;quot;no boots on the ground&amp;quot; indicates that this will be different than the last 12 years of war in the Middle East that have drawn heavily from the U.S. military.</Text>
+  <WriterName>TX08W</WriterName>
+  <WriterEmail>buddyf66@lycos.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>ullmxnuxfuhkmaf</URL>
+</Article>

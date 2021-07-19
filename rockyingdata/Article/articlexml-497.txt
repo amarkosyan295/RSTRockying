@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>ODTmsizfDpFLTb</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>yQC2Z</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>14</Category>
+  <Tag>58aEiK</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;yQC2Z&lt;/p&gt;</Description>
+  <Text>I like it a lot http://wallpapers.in.net/ sexy wallpaper  There are 6,000 Romanian students in the UK. Young Romanians come to study in British universities because some of the best universities in the world are located in the UK and many Romanian students are among the brightest in the world, so obviously these valuable brains are wanted by the British universities. Needless to say they pay fees in order to study here.</Text>
+  <WriterName>pzpx32</WriterName>
+  <WriterEmail>myronz55@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>odtmsizfdpfltb</URL>
+</Article>

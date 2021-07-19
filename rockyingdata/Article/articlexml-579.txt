@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>FgNvgvANtduXTVwJTK</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>4ceK65</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Y3ik7g</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;4ceK65&lt;/p&gt;</Description>
+  <Text>I&amp;#39;m sorry, he&amp;#39;s  http://keandra.in.net/ keandra.com  A jury in Sanford, Florida, found Zimmerman not guilty of second-degree murder and manslaughter after a three-week trial in which defense lawyers argued that Zimmerman, a neighborhood watch volunteer, shot Martin in self-defense.</Text>
+  <WriterName>hM5w28</WriterName>
+  <WriterEmail>roderickx88@lycos.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>fgnvgvantduxtvwjtk</URL>
+</Article>

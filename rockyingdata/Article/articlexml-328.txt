@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Top 9 Bollywood Celebrities Who Did Movies for Free.</Title>
+  <OGImage>http://www.rockying.com/art/bollywood/Celebrities-who-did-movies-free-of-cost/Shahid-Haider.jpg</OGImage>
+  <OGDescription>Remember we had come across a news where Shahid Kapoor had decided that he would not...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Bollywood, Bollywood celebrities, Bollywood movies</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Celebrities-who-did-movies-free-of-cost/Shahid-Haider.jpg' alt='' /&gt;&lt;p&gt;Remember we had come across a news where Shahid Kapoor had decided that he would not...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt; Remember we had come across a news where Shahid Kapoor had decided that he would not charge anything for the movie Haider, as he did not want the movie budget to suffer. And the result to this is visible. The movie went ahead and won several accolades at various functions, including five national awards for best direction, best costume, best choreography and more. Though we cannot say the entire success was due to Shahid Kapoor who played a major role in it when he decided to let go the pay the producers got benefitted. Following are the Bollywood actors who did a film for free. Let&amp;#39;s have a look at them below. &lt;/p&gt;
+
+&lt;br&gt;
+
+&lt;img src="http://www.rockying.com/art/bollywood/Celebrities-who-did-movies-free-of-cost/Amitabh_Deepak Sawant.jpg" alt=" Amitabh Bachchan with Deepak Sawant and the Team of The Great Leader" title=" Amitabh Bachchan with Deepak Sawant and Team"&gt;
+
+&lt;br&gt;
+
+&lt;p&gt;
+&lt;strong&gt;Amitabh Bachchan&lt;/strong&gt;: Have you ever wondered why this megastar worked more in regional films. This is only and only because of his make up man Deepak Sawant who is now a Bhojpuri producer and decided to who work for his movies for free. &lt;/p&gt;
+
+&lt;p&gt;
+&lt;strong&gt;Rani Mukherjee&lt;/strong&gt;: Believed to be a really good friend of Karan Johan, she too played a major role in his movie Kuch Kuch Hota Hai. The actress did not charge him with any amount of money for his brief role in the movie Kabhi Kushi Kabhi Gham.
+&lt;/p&gt;
+&lt;br&gt;
+
+&lt;img src="http://www.rockying.com/art/bollywood/Celebrities-who-did-movies-free-of-cost/Salman-Khan-in-Tees-Maar_Khan.jpg" alt="Salman Khan in Tees Maar Khan" title="Salman-Khan-in-Tees-Maar_Khan "&gt;
+
+&lt;br&gt;
+&lt;p&gt;
+&lt;strong&gt;Salman Khan&lt;/strong&gt;: Salman Khan is believed to have a heart of gold among all the Bollywood actors and actresses. And this is why he has done many films for free. Do you remember his best performances in some of the movies like &lt;i&gt;Om Shanti Om, Tees Maar Khan, Ajab Prem Ki Ghazab Kahaani &lt;/i&gt;and the last but not the least Son of Sardar; he has not charged a single penny for these. 
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Kajol&lt;/strong&gt;: Kajol is one among those actresses who appear in the main role of all the Karan Johar movies. As he considers her to be his lucky charm the actress never takes any money for this gesture. 
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Shahrukh Khan&lt;/strong&gt;: This is a man who charges crores for his films. The actor appeared for a guest appearance in the movie Bhoothnaath returns, which was an extended role from the version Bhoothnaath. &lt;/p&gt;
+&lt;br&gt;
+
+&lt;img src="http://www.rockying.com/art/bollywood/Celebrities-who-did-movies-free-of-cost/Shahrukh-khan-Juhi-in-Bhootnath.jpg" alt=" Shahrukh-Khan-Juhi-Chawla-in-Bhootnath" title=" Shahrukh-Khan-Juhi-Chawla-in-Bhootnath"&gt;
+
+&lt;br&gt;
+&lt;p&gt;
+&lt;strong&gt;Amir Khan&lt;/strong&gt;: It takes a huge talent and brains to reach this man where he is today. Amir Khan did not charge a single rupee for his role in the movie PK. The star is also following the profit sharing module for quite some time and trust me when we say this he is earning really something big.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Deepika Padukone&lt;/strong&gt;: Following the example of many actors, she too decided to choose this path. The actress too agreed on a big profit-sharing deal and made huge bucks. Although she had received less amount of money, in the beginning, this profit sharing module has turned out to be a real deal for her monetary success.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Ranveer Singh&lt;/strong&gt;: Following the example of his girlfriend even Ranveer Singh decided to take up the step. For his movie Bajirao Mastani, the actor did not even charge a single rupee for his role in the movie. Now how much benefit they would gain we will know in the future only. 
+&lt;/p&gt;
+&lt;br&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Celebrities-who-did-movies-free-of-cost/Ranveer-in-Bajirao.jpg" alt=" Ranveer Singh in Bajirao Mastani" title=" Ranveer Singh in Bajirao Mastani"&gt;
+&lt;br&gt;
+&lt;p&gt;
+This trend of fee-less acting in order to be able to become part of huge profits in future so far looks like a win-win for our stars. If you ask me, it takes confidence in your work and popularity to be able to make a decision of that order.  If a movie does not do well at the box office, it's an irreparable loss for the actor. What do you think? Let us know in the comments below. 
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Author&lt;/strong&gt;: Gurpreet is a content marketer, a writer by day and reader by night. She loves to keep herself updated about the Indian film industry as well as the upcoming films, stories, gossips as far as there is some information in terms of political and entertainment inside. You can connect with me at upcoming cinemas to stay connected with the Bollywood world.
+&lt;/p&gt;</Text>
+  <WriterName>Gurpreet [Reader Submission]</WriterName>
+  <WriterEmail>gurpreetpannu4887@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>top-9-bollywood-celebrities-who-did-movies-for-free</URL>
+</Article>

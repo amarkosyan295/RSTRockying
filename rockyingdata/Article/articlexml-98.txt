@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>98</ID>
+  <Title>Plan Your Trip; Make It That Perfect Escape !</Title>
+  <MetaTitle>Plan Your Trip; Make It That Perfect Escape !</MetaTitle>
+  <OGImage>//www.rockying.com/art/Travel/Travel%20Planning/Plan%20your%20trip.jpg</OGImage>
+  <OGDescription>Its that time of the year again! With summer just round the corner,chances are that you will already be looking for that perfect summer escape. Not to worry though, we are here to tell you about a few things that you should keep in mind to plan and enjoy a hassle-free holiday.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Planning To Travel, Trip Planning</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Travel/Travel%20Planning/Plan%20your%20trip.jpg' alt='' /&gt;&lt;p&gt;Its that time of the year again! With summer just round the corner,chances are that you will already be looking for that perfect summer escape. Not to worry though, we are here to tell you about a few things that you should keep in mind to plan and enjoy a hassle-free holiday.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    Its
+    &lt;img src="//rockying.com/art/Travel/Travel%20Planning/Planning-a-Vacation.jpg"
+        title="Vacation Planning" alt="" style="width: 300px;" class="pull-left" /&gt;
+    that time of the year again! With summer just around the corner, chances are that
+    you will already be looking for that perfect summer escape. However, a lot goes
+    into making a holiday special for your loved ones- planning your leave, preparing
+    the itinerary, selecting and booking the perfect retreat, making all the travel
+    arrangements- the list seems endless and seems daunting at first. Not to worry though,
+    we are here to tell you about a few things that you should keep in mind to plan
+    and enjoy a hassle-free holiday.
+&lt;/p&gt;
+&lt;h5&gt;
+    FIRST THINGS FIRST&lt;/h5&gt;
+&lt;p&gt;
+    Do a fair bit of research before packing your bags for an unknown destination to
+    avoid nasty surprises later. If you are traveling to Ladakh then you
+    will need at least two days to acclimatize to the climate. Many other exotic destinations,
+    both at home and abroad require several official permission slips like in the North
+    Eastern India. The weather is a crucial factor as well; monsoons in the Andamans
+    can turn any trip into a nightmare. Online forums like &lt;a href="http://www.indiamike.com/"
+        target="_blank"&gt;Indiamike.com&lt;/a&gt; and &lt;a href="http://www.tripadvisor.com/" target="_blank"&gt;
+            Tripadvisor.com&lt;/a&gt; coupled with traditional &lt;a href="http://www.lonelyplanet.com/"
+                target="_blank"&gt;Lonely Planet&lt;/a&gt; or &lt;a href="http://travel.outlookindia.com/" target="_blank"&gt;
+                    Outlook Traveler&lt;/a&gt; guide books are a great source for this research.&lt;/p&gt;
+&lt;h5&gt;
+    BOOK YOUR HOLIDAY&lt;/h5&gt;
+&lt;p&gt;
+    The next thing, start booking for hotels &amp;amp; flight tickets. Timely plans can
+    save you a great deal on the flight tickets whereas traveling off-season to tourist
+    magnets like Goa and Kerala can be surprisingly cheap in the off-season. Going to
+    the traditional operators like &lt;a href="http://www.sotc.com" target="_blank"&gt;SOTC&lt;/a&gt;
+    can give you some very well planned packages while online options give you a lot
+    more variety. While traveling abroad for the first time it is advisable to stick
+    to a known operator like Kuoni unless one’s bohemian spirit is in overdrive.&lt;/p&gt;
+&lt;h5&gt;
+    NAVIGATE ONLINE&lt;/h5&gt;
+&lt;p&gt;
+    Travel portals such as &lt;a href="http://www.makemytrip.com"&gt;MakeMytrip&lt;/a&gt;, &lt;a href="http://www.cleartrip.com"&gt;
+        Cleartrip&lt;/a&gt;,&lt;a href="http://www.yatra.com"&gt;Yatra&lt;/a&gt;
+    and &lt;a href="http://www.expedia.com"&gt;Expedia&lt;/a&gt; offer many great deals on flights
+    and hotels saving you the effort of dealing with moody hotel sales reps. You can
+    choose from an enormous variety of packages like group tours, honeymoon, and family
+    trips, all-women trips, adventure packs, and health packages with an EMI option also
+    thrown in at times for good measure. Be sure to always read the terms and conditions
+    though, especially the inclusions and hidden charges/tax details before booking
+    a holiday from a portal. Do not hesitate to call up the customer care center repeatedly
+    with your doubts and you should soon be able to pick a holiday package that best
+    suits your requirement.&lt;/p&gt;
+&lt;h5&gt;
+    KEEP YOUR EYES OPEN&lt;/h5&gt;
+&lt;p&gt;
+    Look out for special deals in these travel portals. They launch different packages
+    during winter, summer, and around the festive time such as Diwali, Christmas. For example,
+    Kuoni India’s outbound travel brand SOTC Sports has announced the launch of its
+    special promotion with Malaysia Tourism for sports enthusiasts in India to experience
+    the Formula 1 Petronas Malaysia Grand Prix.&lt;/p&gt;
+&lt;h5&gt;
+    FINANCIAL BIT&lt;/h5&gt;
+&lt;p&gt;
+    Be absolutely clear about financial rules when traveling abroad. According to the
+    Reserve Bank of India, you can carry only $3000 in cash while traveling to most
+    countries, be sure to double-check specifically about your selected destination.
+    It is also advisable to always carry money in the combination of prepaid forex cards,
+    credit/debit cards and travelers’ cheques. Also, carry cash in combinations of international
+    currency like dollar along with the local &lt;a href="http://www.lonelyplanet.com/"
+        target="_blank"&gt;
+        &lt;img src="//rockying.com/art/Travel/Travel%20Planning/Plan%20your%20trip.jpg"
+            title="Plan Your Trip" alt="" style="width: 400px;" class="pull-right" /&gt;&lt;/a&gt;currency
+    of the place, you are visiting. Carrying an international calling card/ SIM and switching
+    off data on international roaming can save you a packet too.&lt;/p&gt;
+&lt;h5&gt;
+    INSURING YOUR TRIP&lt;/h5&gt;
+&lt;p&gt;
+    Even after planning every small detail of your trip, there are chances that you
+    may face unexpected situations like cancellation of flights, delay in flight, loss
+    of luggage, accidents, etc. In order to ensure a hassle-free holiday abroad, you should
+    buy travel insurance. While you cannot travel to certain countries without travel
+    insurance, it is a must even if you are traveling to countries that do not make
+    it compulsory. These were those ‘must take care of’ travel planning tips from us.
+    Hope it helps you go out, explore and discover more and more fun.
+&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;From UK? &lt;/b&gt;Know your roads and every bit of traffic information with &lt;a href="http://www.frixo.com/"&gt;&lt;b&gt;Frixo&lt;/b&gt;&lt;/a&gt;.
+ It is a road travel reporting website that provides users with the most up-to-date road traffic information. Their data is updated every 5 minutes using sensors placed on motorways and common A / B roads. Happy traveling!
+&lt;/p&gt;</Text>
+  <WriterName>Sonali Chowdhury</WriterName>
+  <WriterEmail>media.sonali@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>98</URL>
+</Article>

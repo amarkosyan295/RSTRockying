@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>10 Times Javed Akhtar Proved that He is the Most Badass Literate of Hindustaan</Title>
+  <OGImage>http://www.rockying.com/art/cartoons/Employee-Heirarchy-in-eyes.jpg</OGImage>
+  <OGDescription>csdsdf</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>26</Category>
+  <Tag>Javed Akhtar, Life, Love</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/cartoons/Employee-Heirarchy-in-eyes.jpg' alt='' /&gt;&lt;p&gt;csdsdf&lt;/p&gt;</Description>
+  <Text>1. On Atheism/ India/Religion
+2. On Urdu Poetry
+3. Shayari
+5. Pronunciation
+6. Love
+7. Simplicity of Language (https://www.youtube.com/watch?v=zoAh4khKSQA)
+8. On Purity of Language https://www.youtube.com/watch?v=E5FkQfYCWK0
+9. On Intolerance (https://www.youtube.com/watch?v=7dqSY1jazKY)
+10. On Parenting
+11. On Changed Times
+12. On Marital Relations
+13. On India vs Pakistan
+14. Reply to Owaisi In Parliament (https://www.youtube.com/watch?v=5Z0dLDSvth8)
+
+http://www.hindustantimes.com/bollywood/padmavati-row-javed-akhtar-implies-rajputs-were-pawns-of-the-british-gets-threatened-with-violence/story-lVOAteuGQtRvuPxhegw0ZM.html</Text>
+  <WriterName>Rockying</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>javed-akhtar-an-atheist-progressive-writer-modern-parent-inspiration</URL>
+</Article>

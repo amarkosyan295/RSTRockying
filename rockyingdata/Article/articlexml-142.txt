@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>142</ID>
+  <Title>The Super Heroes Of Hollywood.</Title>
+  <MetaTitle>Super Heroes Of Hollywood Iron man, Hulk, Spiderman, batman</MetaTitle>
+  <OGImage>//www.rockying.com/art/HOllywood/Super%20heroes/The-hulk.jpg</OGImage>
+  <OGDescription>They are occult, they are mystical, they are supernaturally fantastic. Super Heroes Of Hollywood are Iron man, Hulk, Spiderman, batman</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>12</Category>
+  <Tag>Hollywood Super Heroes</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/HOllywood/Super%20heroes/The-hulk.jpg' alt='' /&gt;&lt;p&gt;They are occult, they are mystical, they are supernaturally fantastic. Super Heroes Of Hollywood are Iron man, Hulk, Spiderman, batman&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+            font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+            padding: 0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+            font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+            padding: 0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="slideshow"&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h5&gt;
+                    They are occult, they are mystical, they are supernaturally fantastic...The Hollywood
+                    Super Heroes.&lt;/h5&gt;
+                &lt;h4&gt;
+                    IRON MAN&lt;/h4&gt;
+                &lt;img src="//rockying.com/art/HOllywood/Super%20heroes/Iron-Man-Wallpaper.jpg"
+                    title="Iron Man" alt="" style="width: 500px;" /&gt;
+                &lt;p&gt;
+                    An actual man made super hero. Yes, the super powers are all due to mechanical brilliance
+                    of his arc reactor (or the mechanical heart) and the suit of armor. Tony Stark being
+                    the head honcho of Stark Industries makes the suit of armor to plan his escape from
+                    a terrorist group. Not only does he go back safe but he goes back with the idea
+                    and conception of Iron Man.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h4&gt;
+                    HULK&lt;/h4&gt;
+                &lt;img src="//rockying.com/art/HOllywood/Super%20heroes/The-hulk.jpg"
+                    title="The Hulk" alt="" style="width: 500px;" /&gt;&lt;p&gt;
+                        The madder Hulk gets, the stronger Hulk gets. That byline is enough to explain that
+                        one shouldn't anger the Hulk, the extremely impulsive and destructive alter ego
+                        of reserved psychiatrist Bruce Banner. The Hulk is "born" after Dr. Bruce is accidentally
+                        exposed to a blast of a gamma bomb test detonation. And thus, when angered, Dr.
+                        Bruce turns into the huge, angry green monster.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h4&gt;
+                    BATMAN&lt;/h4&gt;
+                &lt;img src="//rockying.com/art/HOllywood/Super%20heroes/Batman.Wallpaper.jpg"
+                    title="Batman" alt="" style="width: 500px;" /&gt;&lt;p&gt;
+                        Having seen his parents murdered by criminals, Bruce Wayne swore that he would fight
+                        crime and he donned the Bat costume to do so. The only super hero without actual
+                        super powers; he uses his intelligence, his defense skills, his martial arts skills
+                        and other much believable tactics to fight crime.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h4&gt;
+                    SPIDER MAN&lt;/h4&gt;
+                &lt;img src="//rockying.com/art/HOllywood/Super%20heroes/spiderman.jpg"
+                    title="Spider Man" alt="" style="width: 500px;" /&gt;
+                &lt;p&gt;
+                    Bit by a radio active spider and thus achieving his spider like traits of climbing
+                    and clinging, Spider Man remains one of the most lovable super heroes. Armed with
+                    the ability to fly high, to cling to surfaces and to make web devices to ease his
+                    crime fighting, Spider Man a.k.a. Peter Parker became the hope and aspiration for
+                    every lonely, troubled teenager across the globe.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h4&gt;
+                    SUPER MAN&lt;/h4&gt;
+                &lt;img src="//rockying.com/art/HOllywood/Super%20heroes/Superman.jpg"
+                    title="Superman" alt="" style="width: 500px;" /&gt;
+                &lt;p&gt;
+                    The super hero to be born on another planet (Krypton) and being transferred by his
+                    father to Earth moments before Krypton's destruction. Probably that is what explains
+                    why he wear his underwear over his pants.... he is from another planet! Super Man
+                    as the name suggests uses his superhuman abilities to save humanity.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h4&gt;
+                    CAPTAIN AMERICA
+                &lt;/h4&gt;
+                &lt;img src="//rockying.com/art/HOllywood/Super%20heroes/captain-america.jpg"
+                    title="Captain America" alt="" style="width: 500px;" /&gt;
+                &lt;p&gt;
+                    Steve Rogers, a frail young man reaches the peak of human perfection through an
+                    advanced serum. This is basically in order to aid the wartime efforts of his country.
+                    Donning a costume that resembles the US flag, he becomes Captain America, not having
+                    super powers but is transformed from a frail, thin man to a man of physical perfection.
+                    His strength, agility, speed, reflexes are at the zenith of what a human can possess.
+                    The super hero who cannot fall sick or be intoxicated by drugs, alcohol or come
+                    under the effect of hypnotic gases.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h4&gt;
+                    WONDER WOMAN&lt;/h4&gt;
+                &lt;img src="//rockying.com/art/HOllywood/Super%20heroes/Wonder-Woman-Wallpaper.jpg"
+                    title="Wonder Woman" alt="" style="width: 500px;" /&gt;
+                &lt;p&gt;
+                    The woman from the fictional city of Themyscira, Wonder Woman does it all - flies,
+                    access to magical weaponry, extreme speed, agility and endurance and is resistant
+                    to magical powers. The ideal woman of today!&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;div class="thumbnail"&gt;
+                &lt;h4&gt;
+                    BLACK WIDOW&lt;/h4&gt;
+                &lt;img src="//rockying.com/art/HOllywood/Super%20heroes/the_avengers_black_widow%20%281%29.jpg"
+                    title="Black Widow" alt="" style="width: 500px;" /&gt;
+                &lt;p&gt;
+                    Usually working as an ally, Black Widow is another lady who has got it all. Extreme
+                    expertise at martial arts, athletic skills, espionage training and yes, ladies,
+                    slowed ageing - one trait every woman would definitely want!
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>the-super-heroes-of-hollywood</URL>
+</Article>

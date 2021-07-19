@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>120</ID>
+  <Title>Spring Look: The Perfect Polka Dots</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Lifestyle/Fashion/Polka/polka%20dot%20blouse.jpg.png</OGImage>
+  <OGDescription>Polka dots were made famous with Minnie Mouse’s red spotted dress and bow, and now the print is popping up everywhere, from the runways to the art galleries. This trend is very easy to wear—just one polka-dotted piece will pull together your look with spot-on style...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>16</Category>
+  <Tag>Fashion, Polka ,Clothing with Polka</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://rudrasofttech.com/rockying/art/Lifestyle/Fashion/Polka/polka%20dot%20blouse.jpg.png' alt='' /&gt;&lt;p&gt;Polka dots were made famous with Minnie Mouse’s red spotted dress and bow, and now the print is popping up everywhere, from the runways to the art galleries. This trend is very easy to wear—just one polka-dotted piece will pull together your look with spot-on style...&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px;  height:40px;
+            font-size: 50px; font-weight: 100; color: #000; border: none; text-align: center; margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px;height:40px;
+            font-size: 50px; font-weight: 100; color: #000;border: none; text-align: center;margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="slideshow" style=" text-align:center;"&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Polka/Collaredpolkadotdress.png"
+                title="Collared Polka Dot Dress" alt="" style="height: 400px;"&gt;
+            &lt;p&gt;
+                Polka dots were made famous with Minnie Mouse’s red spotted dress and bow, and now
+                the print is popping up everywhere, from the runways to the art galleries. This
+                trend is very easy to wear—just one polka-dotted piece will pull together your look
+                with spot-on style. Slide on to see spots this season with these polka dot pieces...
+            &lt;/p&gt;
+            &lt;/tr&gt; &lt;/table&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Polka/HIgh%20Waist%20polka%20dot%20pants.jpg.png"
+                title="High Waist Polka Dot Pants" alt="" style="width: 400px;"&gt;
+            &lt;h4&gt;
+                High Waist Polka Dot Pants&lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Polka/button%20down%20polka%20dot%20blouse.jpg.png"
+                title="Button Down Polka Dot Blouse" alt="" style="width: 400px;" /&gt;
+            &lt;h4&gt;
+                Button Down Polka Dot Blouse&lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Polka/spot%20and%20sheer%20tights.jpg.png"
+                title="Spot and Sheer Tights" alt="" style="width: 400px;" /&gt;
+            &lt;h4&gt;
+                Spot and Sheer Tights&lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Polka/polka%20dot%20long%20skirt.jpg.png"
+                title="Polka Dot Long Skirt" alt="" style="width: 400px;" /&gt;
+            &lt;h4&gt;
+                Polka Dot Long Skirt&lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Polka/polka%20dot%20tote.jpg.png"
+                title="Polka Dot Tote" alt="" style="width: 400px;" /&gt;
+            &lt;h4&gt;
+                Polka Dot Tote&lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Polka/polka%20dot%20blouse.jpg.png"
+                title="Polka Dot Blouse" alt="" style="width: 400px;" /&gt;
+            &lt;h4&gt;
+                Polka Dot Blouse&lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Polka/polka%20dot%20dress.jpg.png"
+                title="Polka Dot Dress" alt="" style="width: 400px;" /&gt;
+            &lt;h4&gt;
+                Polka Dot Dress&lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Polka/polka%20dot%20scarf.jpg.png"
+                title="Polka Dot Scarf" alt="" style="width: 400px;" /&gt;
+            &lt;h4&gt;
+                Polka Dot Scarf&lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Polka/polka%20dot%20hand%20bag.png"
+                title="Polka Dot Hand Bag" alt="" style="width: 400px;" /&gt;
+            &lt;h4&gt;
+                Polka Dot Hand Bag (Source:www.stardoll.com)&lt;/h4&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <SlideShowOn>true</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Chandni Malik</WriterName>
+  <WriterEmail>chandni.malik@ymail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

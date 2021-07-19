@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>raj sample 1</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>asd asd sad</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>sd dasds dsa</Tag>
+  <Status>Inactive</Status>
+  <Description>&lt;p&gt;asd asd sad&lt;/p&gt;</Description>
+  <Text>asd da aas das
+dsa dads sa sa
+dsa
+ sa
+ asdsa
+d sada ada dsa sad
+sa as</Text>
+  <WriterName>raj</WriterName>
+  <WriterEmail>raj@sdfdf.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>raj-sample-1</URL>
+</Article>

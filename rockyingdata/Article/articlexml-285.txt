@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Very Funny goats having fun balancing on steel sheet</Title>
+  <OGImage>http://img.youtube.com/vi/58-atNakMWw/0.jpg</OGImage>
+  <OGDescription>Balancing acts done by goats</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>27</Category>
+  <Tag>Goats, Funny</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://img.youtube.com/vi/58-atNakMWw/0.jpg' alt='' /&gt;&lt;p&gt;Balancing acts done by goats&lt;/p&gt;</Description>
+  <Text>&lt;iframe width="640" height="360" src="//www.youtube.com/embed/58-atNakMWw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;What do you do with 4 goats and a steel sheet.&lt;/p&gt;</Text>
+  <WriterName>Raj Kiran Singh</WriterName>
+  <WriterEmail>rajkiran.singh@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+</Article>

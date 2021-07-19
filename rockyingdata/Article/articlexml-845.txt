@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Isabel Glasser</Title>
+  <MetaTitle>Isabel Glasser</MetaTitle>
+  <OGImage>//www.rockying.com/art/HOllywood/Isabel-Glasser.jpg</OGImage>
+  <OGDescription>Isabel Glasser is an American actress who appeared in many Hollywood movies and TV shows. Pure Country, the 1992 romance blockbuster was her big break in the industry.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>12</Category>
+  <Tag>Isabel Glasser</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/HOllywood/Isabel-Glasser.jpg' alt='' /&gt;&lt;p&gt;Isabel Glasser is an American actress who appeared in many Hollywood movies and TV shows. Pure Country, the 1992 romance blockbuster was her big break in the industry.&lt;/p&gt;</Description>
+  <Text>&lt;img src="//www.rockying.com/art/HOllywood/isabel-glasser-infographic.png" /&gt;
+&lt;p&gt;Isabel Glasser is an American actress who appeared in many Hollywood movies and TV shows. Pure Country, the 1992 romance blockbuster was her big break in the industry.&lt;/p&gt;
+&lt;p&gt;After gaining immense praise for her work in the romance drama, she moved on to bigger projects like Forever Young in 1992 and Mother in 1996. Her performances in the 90s continued to impress critics and the public and one of the highlights was her portrayal of an overprotective mother in Second Chances in 1998.&lt;/p&gt;
+&lt;p&gt;Soon after this, Isabel took a break from the big screen to try her hand at more diverse things, such as television. In 2000, she appeared in the popular TV series Law &amp; Order. After 8 years doing television, she made an emphatic comeback in a small but praise-worthy role in Mentor in 2006.&lt;/p&gt;
+&lt;p&gt;Since 2006, she has been away from the limelight of the film industry, but still never forgotten by her fans.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://alchetron.com/Isabel-Glasser"&gt;Isabel Glasser&lt;/a&gt;&lt;/p&gt;</Text>
+  <WriterName>Angel Licerio</WriterName>
+  <WriterEmail>angel@alchetron.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>isabel-glasser</URL>
+</Article>

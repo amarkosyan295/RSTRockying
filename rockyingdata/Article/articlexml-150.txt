@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>150</ID>
+  <Title>RubberBoy; The Most Flexible Man On Earth</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/The-most-flexible-man-all-over-the-world/14.jpg</OGImage>
+  <OGDescription>Presenting Daniel Browning Smith, named the World's Most Flexible Man by the Guinness Book of World Records, world famous contortionist the Rubber boy has been taking the art of contortion to the extreme!</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>18</Category>
+  <Tag>Flexible, Rubber Boy, Most flexible</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/The-most-flexible-man-all-over-the-world/14.jpg' alt='' /&gt;&lt;p&gt;Presenting Daniel Browning Smith, named the World's Most Flexible Man by the Guinness Book of World Records, world famous contortionist the Rubber boy has been taking the art of contortion to the extreme!&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+            font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+            padding: 0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+            font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+            padding: 0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="slideshow"&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h3&gt;
+                Presenting &lt;i&gt;Daniel Browning Smith&lt;/i&gt;, named the World's Most Flexible Man by
+                the Guinness Book of World Records, world famous contortionist the Rubber boy has
+                been taking the art of contortion to the extreme!&lt;/h3&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/The-most-flexible-man-all-over-the-world/1.jpg"
+                title="The Most Flexible Man" alt="" style="height: 600px;"&gt;&lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h4&gt;
+                &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/The-most-flexible-man-all-over-the-world/2.jpg"
+                    title="The Rubber Boy" alt="" style="height: 600px;"&gt;A five time Guinness Record
+                holder, this man is also known as the "Rubber Boy"&lt;strong&gt;&lt;/strong&gt;&lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h4&gt;
+                &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/The-most-flexible-man-all-over-the-world/3.jpg"
+                    title="Daniel Browning Smith" alt="" style="height: 600px;"&gt;A Stand-up (with
+                one foot) artist ;)
+            &lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h4&gt;
+                &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/The-most-flexible-man-all-over-the-world/4.jpg"
+                    title="Bet U try That !" alt="" style="width: 600px;"&gt;That's quite a dance move.
+                Wanna give it a try?
+            &lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h4&gt;
+                &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/The-most-flexible-man-all-over-the-world/5.jpg"
+                    title="Daniel Browning Smith" alt="" style="height: 600px;"&gt;Is there another
+                arm being born over there?
+            &lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h4&gt;
+                &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/The-most-flexible-man-all-over-the-world/6.jpg"
+                    title="The Most Flexible Man" alt="" style="height: 600px;"&gt;He is no doubt the
+                rubber boy!
+            &lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h4&gt;
+                &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/The-most-flexible-man-all-over-the-world/7.jpg"
+                    title="Danger, he invites!" alt="" style="height: 600px;"&gt;O my is that a racket
+                he is trying to pass through? That's one elastic kind.
+            &lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h4&gt;
+                &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/The-most-flexible-man-all-over-the-world/8.jpg"
+                    title="" alt="" style="height: 600px;"&gt;Is the hole of the racket too big? No
+                cheating here boy!&lt;br&gt;
+            &lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h4&gt;
+                &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/The-most-flexible-man-all-over-the-world/9.jpg"
+                    title="" alt="" style="width: 600px;"&gt;He is one hell of a contortionist.&lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h4&gt;
+                &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/The-most-flexible-man-all-over-the-world/10.jpg"
+                    title="" alt="" style="width: 600px;"&gt;He is an actor, entertainer and host of
+                &lt;a href="http://www.history.com/shows/stan-lees-superhumans" target="_blank"&gt;Stan Lee's
+                    Superhumans&lt;/a&gt;&lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h4&gt;
+                &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/The-most-flexible-man-all-over-the-world/11.jpg"
+                    title="" alt="" style="height: 600px;"&gt;O By the way, he has trained extensively
+                in order to bend his body into the most otherworldly shapes and positions.&lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h4&gt;
+                &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/The-most-flexible-man-all-over-the-world/12.jpg"
+                    title="" alt="" style="height: 600px;"&gt;His talents in contortion combined with
+                his wit and stage presence leave audiences laughing and wanting more.
+            &lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h4&gt;
+                &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/The-most-flexible-man-all-over-the-world/13.jpg"
+                    title="" alt="" style="width: 600px;"&gt;Do you want more still?
+            &lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h4&gt;
+                &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/The-most-flexible-man-all-over-the-world/14.jpg"
+                    title="" alt="" style="height: 600px;"&gt;Last but not the least, the Rubber Boy
+                at his best.&amp;nbsp;
+            &lt;/h4&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <SlideShowOn>true</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Raj Kiran Singh</WriterName>
+  <WriterEmail>rajkiran.singh@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

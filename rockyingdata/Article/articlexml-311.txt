@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>The Best Hindi Films of 2017</Title>
+  <OGImage>http://www.rockying.com/art/bollywood/Best-Bollywood-Thrillers/gumnaam.jpg</OGImage>
+  <OGDescription>efwd</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>2017, Bollywood,</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Best-Bollywood-Thrillers/gumnaam.jpg' alt='' /&gt;&lt;p&gt;efwd&lt;/p&gt;</Description>
+  <Text>1. Newton
+2. Hindi Medium
+3. Toilet Ek Prem Katha
+4. Jolly LLB 2
+5. Bahubali 2
+6. Fukrey Returns
+7. Simran
+8. Chef
+9. Bareilly ki Barfi
+10. Ittefaq
+11.</Text>
+  <WriterName>Rockying</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>the-best-hindi-films-of-2017</URL>
+</Article>

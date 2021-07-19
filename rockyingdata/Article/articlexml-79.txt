@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>79</ID>
+  <Title>Why Should You Buy a Smart TV</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/internet/smart-tv%202.jpg</OGImage>
+  <OGDescription>Have you ever thought of surfing the net with your TV remote?  This is what Smart TV is all about. First coined by Samsung, this gadget not only provides a satellite one-way link to you straight to your home, but also provides internet connection as a facility in the same gadget...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>10</Category>
+  <Tag>Smart TV, www, Television, Internet, World Wide Web.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://rudrasofttech.com/rockying/art/internet/smart-tv%202.jpg' alt='' /&gt;&lt;p&gt;Have you ever thought of surfing the net with your TV remote?  This is what Smart TV is all about. First coined by Samsung, this gadget not only provides a satellite one-way link to you straight to your home, but also provides internet connection as a facility in the same gadget...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+        &lt;b&gt;
+            &lt;img src="http://www.rockying.com/art/internet/smart-tv%202.jpg" alt="Smart Tvs a Fad" style="float: left; height: 250px;" width="217" height="246"&gt;O
+        &lt;/b&gt;kay. We have been crazy about Notes, IPads, Tablets, Androids and many other user interfaces one can think of. Have you ever thought of surfing the net with your TV remote? This is what Smart TV is all about. First coined by &lt;a href="http://www.samsung.com/in/smarttv/"&gt;Samsung&lt;/a&gt;, this gadget not only provides a satellite one-way link to you straight to your home, but also provides internet connection as a facility in the same gadget. Now, you can watch your favorite soccer match and perform social networking activities at the same time!&lt;br&gt;Does that mean a Smart TV eradicates all possibilities of having a desktop at home? It might be true of a desktop but as far as portability while travelling is concerned you might rethink your decision of buying a smart TV, according to industry experts. &lt;br&gt;
+    &lt;/p&gt;
+    &lt;br/&gt;
+    &lt;p&gt;Know Your Smart TV:&lt;/p&gt;
+    &lt;ol&gt;
+        &lt;li&gt;
+            &lt;strong&gt;IN-BUILT WIFI&lt;/strong&gt;&lt;br /&gt;
+            &lt;p&gt;
+                It has an in-built wi-fi connection.
+            &lt;/p&gt;
+            &lt;img src="http://www.rockying.com/art/internet/Smart%20TV%201.jpg" alt="Samsung Smart Tv" style="height: 300px;" /&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;strong&gt;BROWSE ANYTHING&lt;/strong&gt;
+            &lt;p&gt;Browse anything and everything online.&lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;strong&gt;SAVE VIDEOS&lt;/strong&gt;
+            &lt;p&gt;You can also save videos, TV shows or stream YouTube videos to view them at a later point in time.&lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;strong&gt;INGRAINED TECHNOLOGY OF RECORDING&lt;/strong&gt;
+            &lt;p&gt; You do not need a DVD or a VHS recorder separately in case you have a Smart TV at home. This is because these televisions have an ingrained technology of recording personal videos and storing them in a hard drive.&lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;strong&gt;FLEXI-SMART TV OPTION&lt;/strong&gt;
+            &lt;p&gt;Your LED TV can also have a flexi-smart TV option. Go check!&lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;strong&gt;INFORMATION SHARING&lt;/strong&gt;
+            &lt;p&gt;Smart TVs allow information sharing to other devices such as PCs, phones etc through Bluetooth or external USB drives. This saves you from all the copying hassles from one drive to the other.&lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;strong&gt;MORE&lt;/strong&gt;
+            &lt;p&gt;Other features include &lt;b&gt;weather forecasts&lt;/b&gt;, &lt;b&gt;photo sharing&lt;/b&gt; on Instagram and &lt;b&gt;gaming&lt;/b&gt; that can keep you busy the whole day.&lt;br&gt;&lt;br&gt;Now, browse World Wide Web in style!&lt;/p&gt;
+        &lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;style&gt;
+        #article &gt; ul &gt; li, #article &gt; ol &gt; li{
+            text-align:left;
+        }
+    &lt;/style&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>79</URL>
+</Article>

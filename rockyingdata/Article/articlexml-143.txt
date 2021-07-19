@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>143</ID>
+  <Title>Make Your Own Graphic Tee.</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Lifestyle/Fashion/Graphic%20Tees/New%20Picture%20%2823%29.png</OGImage>
+  <OGDescription>There’s nothing easier than waking up in the morning, throwing on your favorite graphic tee, shades with bag in hand, and heading out the door. The graphic tee is comfort’s coolest friend...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>16</Category>
+  <Tag>Graphic Tees, T-Shirts, Do it yourself</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://rudrasofttech.com/rockying/art/Lifestyle/Fashion/Graphic%20Tees/New%20Picture%20%2823%29.png' alt='' /&gt;&lt;p&gt;There’s nothing easier than waking up in the morning, throwing on your favorite graphic tee, shades with bag in hand, and heading out the door. The graphic tee is comfort’s coolest friend...&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px;  height:40px;
+            font-size: 50px; font-weight: 100; color: #000; border: none; text-align: center; margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px;height:40px;
+            font-size: 50px; font-weight: 100; color: #000;border: none; text-align: center;margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;&lt;div
+        class="slideshow"&gt;
+        &lt;div class="slide" style="text-align: center; padding-left:5%; padding-right:5%;"&gt;
+            &lt;h5&gt;
+                There’s nothing easier than waking up in the morning, throwing on your favorite
+                graphic tee, shades with bag in hand, and heading out the door. The graphic tee
+                is comfort’s coolest friend. We all have at least two over-sized, off the shoulder,
+                slouchy tees that year after year seem to creep back into the front of our wardrobe.&lt;/h5&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Graphic%20Tees/New%20Picture%20%2823%29.png"
+                title="A Cool Human Print Graphic Tee" alt="" style="height: 600px; width: 481px;" /&gt;&lt;h5&gt;
+                    Check out a few of our favorites and while we’re at it, why not learn how to make
+                    a graphic tee on your own. It’s the perfect way to spend a rainy summer day (or
+                    any other day for that matter).
+                &lt;/h5&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Graphic%20Tees/New%20Picture%20%2824%29.png"
+                title="Graphic Tee" alt="" style="height: 600px; width: 362px;" /&gt;&lt;h5&gt;
+                    Making your own graphic tee is easy as 1, 2, 3. Literally. Follow these three simple
+                    steps, and you could have enough graphic tees for each day of the week.
+                &lt;/h5&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                STEP ONE&lt;/h5&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Graphic%20Tees/New%20Picture%20%2825%29.png"
+                title="Plain Black Tees" alt="" style="height: 600px; width: 467px;"&gt;
+            &lt;p&gt;
+                Buy a plain colored T-shirt anywhere from any of the markets. V-neck, crew-neck,
+                crop top—your choice. (Washing the tee first allows for a more vintage feel)
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                STEP TWO&lt;/h5&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Graphic%20Tees/New%20Picture%20%2826%29.png"
+                title="Your Favorite Photo On Your Tee" alt="" style="height: 600px; width: 480px;"&gt;&lt;p&gt;
+                    Pick out your favorite photo and print your picks with Iron-on Computer Paper. The
+                    possibilities are endless! Find the paper from your nearest Arts &amp;amp; Craft store.
+                &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                STEP THREE&lt;/h5&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Graphic%20Tees/New%20Picture%20%2827%29.png"
+                title="Want Michael Jackson On Your Tee?" alt="" style="height: 600px; width: 480px;"&gt;&lt;p&gt;
+                    Follow your Iron-On pack instructions and steam away. You’ll have your own twist
+                    on a tee that looks just like this one . (Source: www.stardoll.com)
+                &lt;/p&gt;
+&lt;h5&gt;Get in touch with Rockying's Fashion stylist &lt;a href="http://www.facebook.com/chandni.malik.16?fref=ts"&gt;Chandni Malik&lt;/a&gt; for anything and every thing fashion!&lt;/h5&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <SlideShowOn>true</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Chandni Malik</WriterName>
+  <WriterEmail>chandni.malik@ymail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

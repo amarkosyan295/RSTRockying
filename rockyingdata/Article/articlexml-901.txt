@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Severe punishment</Title>
+  <MetaTitle>Severe punishment</MetaTitle>
+  <OGImage />
+  <OGDescription>Mr. Walter deceived all his partners and took all their money, As a result, he lost his greatest wealth for himself, he lost his children.At the end, he confessed his guilt.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>31</Category>
+  <Tag>Penalty and punishment, the demise of children, bankruptcy.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='' alt='' /&gt;&lt;p&gt;Mr. Walter deceived all his partners and took all their money, As a result, he lost his greatest wealth for himself, he lost his children.At the end, he confessed his guilt.&lt;/p&gt;</Description>
+  <Text>Sam and Dave were lost 2 days ago. Mr. Charter already got confused and fainted not to do, where to search them. His children were lost, nobody has seen them since the last lesson. They were said to go to play bowling with their other friends, yet unfortunately, nobody could find them. Mr. Charter ordered all his servants to look for them everywhere. He feared that his enemies got to know that his weakest point was his children. Certainly, he would be taken revenge by Zeus and Serby. He should make up his mind to sue them for kidnapping.
+Two months ago, the main office where Mr. Charter collaborated with his partners, Zeus and Serby, was about to go on bankrupt. When Mr. Charter realized that he was one of the first of this evidence, he decided to use it to his advantage. He took large sums of money from his partners, assuring them that they could lose all of their accumulated money in an instant and that if the boss found out, they could pay a very large amount of compensation in addition to dismissal. They believed in their partners' words and gave him all their property; as a result, they were deceived and left without any money, which helped Mr. Charter to make a great profit over them and raise his business.
+Maybe they found out he was cheating and plotted against him. Maybe they must have killed his children too. "Oh, my God," he cried and shouted. Why should I sin and my children suffer for my fault? May God bless my children, please.
+Dark and gloomy room, damp water is dropping, and the surroundings are full of odors. Children in fear can't help crying over and over, as they are young, they don't understand what is going on. Different bones, mud, and the sound of bars can be heard anywhere. Suddenly, a strong man came in carrying a corpse, tore its intestines into pieces. In front of children, he showed a hybrid knife with huge laughter. He came nearer and nearer to them...
+After the demise of his children, Mr. Charter realized that his children had died because of his guilt, and as a result, he had lost his real wealth actually and confessed to the sue eventually.</Text>
+  <WriterName>Gulrukh</WriterName>
+  <WriterEmail>missteacherguli@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>severe-punishment</URL>
+</Article>

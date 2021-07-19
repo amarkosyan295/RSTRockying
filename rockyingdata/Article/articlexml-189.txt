@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Richest Countries in the World</Title>
+  <OGImage>http://www.rudrasofttech.com/rockying/art/internet/world-richest-countries/1-qatar.jpg</OGImage>
+  <OGDescription>Qatar is the richest country in world with GDP (PPP) per capita: $88,222 (estimated from 2009)</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>20</Category>
+  <Tag>Knowledge, Top 10 List, Richest</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rudrasofttech.com/rockying/art/internet/world-richest-countries/1-qatar.jpg' alt='' /&gt;&lt;p&gt;Qatar is the richest country in world with GDP (PPP) per capita: $88,222 (estimated from 2009)&lt;/p&gt;</Description>
+  <Text>&lt;div class="carousel"&gt;
+                            &lt;a class="carousel-control left previousslide" href="Javascript:return false;"&gt;&amp;lsaquo;&lt;/a&gt;
+                            &lt;a class="carousel-control right nextslide" href="Javascript:return false;"&gt;&amp;rsaquo;&lt;/a&gt;
+&lt;div class="slideshow" style="text-align: center;"&gt;
+    &lt;div class="slide"&gt;
+        &lt;h4&gt;
+            #1 Qatar GDP (PPP) per capita: $88,222 (estimated from 2009)
+        &lt;/h4&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/world-richest-countries/1-qatar.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;h4&gt;
+            #2 Luxembourg GDP (PPP) per capita: $81,466
+        &lt;/h4&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/world-richest-countries/2-Luxembourg.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;h4&gt;
+            #3 Singapore GDP (PPP) per capita: $56,694 (estimated from 2009)
+        &lt;/h4&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/world-richest-countries/3-Singapore.jpg"
+            alt="" style="max-width:500px;" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;h4&gt;
+            #4 Norway GDP (PPP) per capita: $51,959 (estimated from 2009)
+        &lt;/h4&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/world-richest-countries/4-norway.jpg"
+            alt="" style="max-width:500px;"/&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;h4&gt;
+            #5 Brunei GDP (PPP) per capita: $48,333
+        &lt;/h4&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/world-richest-countries/5-brunei.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;h4&gt;
+            #7 United States GDP (PPP) per capita: $46,860
+        &lt;/h4&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/world-richest-countries/7-united-states.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;h4&gt;
+            #8 Hong Kong GDP (PPP) per capita: $45,944
+        &lt;/h4&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/world-richest-countries/8-hong-kong.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;h4&gt;
+            #9 Switzerland GDP (PPP) per capita: $41,950
+        &lt;/h4&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/world-richest-countries/9-switzerland.jpg"
+            alt="" style="max-width:500px;" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;h4&gt;
+            #10 Netherlands GDP (PPP) per capita: $40,973
+        &lt;/h4&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/world-richest-countries/10-netherland.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;h4&gt;
+            #11 Australia GDP (PPP) per capita: $39,764
+        &lt;/h4&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/world-richest-countries/11-australia.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;h4&gt;
+            #12 Austria GDP (PPP) per capita: $39,761
+        &lt;/h4&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/world-richest-countries/12-austria.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;h4&gt;
+            #13 Ireland GDP (PPP) per capita: $39,492
+        &lt;/h4&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/world-richest-countries/13-ireland.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;h4&gt;
+            #14 Canada GDP (PPP) per capita: $39,171
+        &lt;/h4&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/world-richest-countries/14-canada.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;h4&gt;
+            #15 Kuwait GDP (PPP) per capita: $38,775 (estimated from 2009)
+        &lt;/h4&gt;
+        &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/world-richest-countries/15-kuwait.jpg"
+            alt="" /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</Text>
+  <SlideShowOn>true</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Vratika</WriterName>
+  <WriterEmail>Vratika@rudrasofttech.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

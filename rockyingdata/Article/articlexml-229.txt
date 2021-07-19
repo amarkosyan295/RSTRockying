@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Music, Sufism and The Modern Fusion</Title>
+  <OGImage>http://www.rockying.com/art/Music/Music-and-Mysticism/Sufi.jpg</OGImage>
+  <OGDescription>Shadow and light are the two forces which fill the fervor in music. As politics of hatred is eclipsing humanity and world is entering the troubled waters of religious tyranny, with the growth of neo-fundamentalism; the revival of Sufi Music in India</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>15</Category>
+  <Tag>Music, Sufism, Mysticism, Nusrat Fateh Ali Khan, Sufi Music</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Music/Music-and-Mysticism/Sufi.jpg' alt='' /&gt;&lt;p&gt;Shadow and light are the two forces which fill the fervor in music. As politics of hatred is eclipsing humanity and world is entering the troubled waters of religious tyranny, with the growth of neo-fundamentalism; the revival of Sufi Music in India&lt;/p&gt;</Description>
+  <Text>&lt;img src="http://www.rockying.com/art/Music/Music-and-Mysticism/Sufi.jpg" alt="Sufi Music" /&gt;
+&lt;p&gt;
+    Shadow and light are the two forces which fill the fervor in music. As politics
+    of hatred is eclipsing humanity and world is entering the troubled waters of religious
+    tyranny, with the growth of neo-fundamentalism; the revival of Sufi Music in India
+    can be seen as a resistance sans bias. Sufism is the practice in which wandering
+    saints and dervishes sought to attain the ultimate spiritual realization through
+    their poetry, music and dance. It is said that the essence of Sufi Poetry is its
+    capability to push one into a trance like state in which a person can unite with
+    almighty Allah. The most famous form of Sufi Music that originated in India and
+    Pakistan is the Qawwali. It later gained global recognition by the name of great
+    singers like Shankar-Shambhu and Nusrat Fateh Ali Khan. Qawwali was bestowed upon
+    India by the great Sufi poet Amir Khusrau Dehalvi.&lt;/p&gt;
+&lt;p&gt;
+    &lt;iframe width="640" height="480" src="http://www.youtube-nocookie.com/embed/RZk2q2L3CXY"
+        frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;iframe width="640" height="480" src="http://www.youtube-nocookie.com/embed/PgJkYm8PTOg"
+        frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    One of the pioneers of modern day Sufi Music, Nusrat Fateh Ali khan only took the
+    brotherhood of Sufi Secularism a step ahead with his songs equipped with apt musical
+    background to set the tempo for the new age audience only to maintain the impeccable
+    heart wrenching impact, the true mark of Sufi Music.&lt;/p&gt;
+&lt;p&gt;
+    Sufi Music has travelled through the deserts of Africa to the shores of Atlantic
+    Ocean and has reached India crossing the mountains of Iran and Pakistan. The modern
+    day Sufi music be it from Pakistani bands Jal and Junoon or their Indian counterparts
+    is a result of its revival in new form.&lt;/p&gt;
+&lt;p&gt;
+    &lt;iframe width="853" height="480" src="http://www.youtube-nocookie.com/embed/sU2xnJF3rBY"
+        frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    Rabbi Shergills, Bulla ki jana main kaun, is only one of the many examples where poetry of Bulley
+    Shah and music of rock culture is fused to create an emotionally churning effect.
+    Music and sound is the soul of Sufi Music. The act of singing, chanting, listening
+    and whirling to the recitation of poetry and music is common to Sufi orders.&lt;/p&gt;
+&lt;p&gt;
+    &lt;iframe width="853" height="480" src="http://www.youtube-nocookie.com/embed/6wewNinGv1g"
+        frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    Contemporary Sufi Music emerged as a new wave in 1990 enlivened by Junoon for the
+    new era. Vital Signs, Mekal Hasan, Fuzon, Strings and myriad other bands followed
+    the trend and joined the genre of Sufi Rock to reach the million hearts already
+    moved by this innovative fusion.&lt;/p&gt;
+&lt;p&gt;
+    &lt;iframe width="640" height="480" src="http://www.youtube-nocookie.com/embed/PQm7-m0vqNk"
+        frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    Songs like Sayonee, Yaar Bina, Mohe Apne Rang Mein and Saanwal Yaar was the hum
+    and hymn of every lip and suddenly the college canteens saw a revival of new creed
+    of budding singers following the footsteps of mystically attractive young men like
+    Atif Aslam, Raghu and Kailash Kher. Music was the soul of this new movement.&lt;/p&gt;
+&lt;p&gt;
+    College fest had new music for their jam sessions and bands like Euphoria and Parikrama
+    was quickly replaced by Sufi Bands, which were known for experimenting constantly
+    with music. It came in vogue and Sufi songs became the love anthem of the new age
+    love birds going mad singing Teri Diwani.&lt;/p&gt;
+&lt;p&gt;
+    Earlier Sufi saints recited their song with traditional instruments like dhol, chimta
+    and tumba in praise of god. In India it could be traced back to Khwaja Moinuddin
+    Chisti and his introduction of Chistiyyah in India.&lt;/p&gt;
+&lt;p&gt;
+    The genre has borrowed greatly from the folk tradition of the Northern Indian region
+    around which it evolved only to fuse the mystical poetry with a kind of music which
+    had the power of causing powerful emotional effect among its audience with the constant
+    chanting of the name of god known as Zikr.&lt;/p&gt;
+&lt;p&gt;
+    However the music has evolved with age and time. Only thing that helped the revival
+    of Sufism in India almost after two centuries is the current socio-religious conditions
+    and the growing metropolitan culture in the cities.&lt;/p&gt;
+&lt;p&gt;
+    The revival of Sufism had both anger and unrest in form of classical western rock
+    culture fused with the suave and serine verses of Sufi poetry and giving birth to
+    a powerful music which can churn the very core of the heart of an individual. It
+    is both powerful and peaceful a combination which instantly clicked with the youth.&lt;/p&gt;
+&lt;p&gt;
+    Hard punk metal band, guitar and bass drum in the background topped with Sufi Relics
+    instantly became the religious hymn of the generation-next. Since 2008 coke studio
+    emerged in Pakistan, a musical collection which was a blend of spirituality and
+    music on the lines of Sufi Music.&lt;/p&gt;
+&lt;p&gt;
+    &lt;h6&gt;By 2012 coke studio Pakistan became a phenomenon after featuring five seasons. Amazing
+    vocals synchronized with awesome music filled the heart of the listeners like the
+    wine from Bacchus's own bar.
+&lt;/h6&gt;
+&lt;/p&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Rohit Gupta</WriterName>
+  <WriterEmail>mailto.rohitgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

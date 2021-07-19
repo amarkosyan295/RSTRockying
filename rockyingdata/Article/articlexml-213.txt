@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>They Did it, So Can You! Celebrity Weight Loss and How They Did It.</Title>
+  <MetaTitle>They Did it, So Can You! Celebrity Weight Loss and How They Did It.</MetaTitle>
+  <OGImage>//rockying.com/art/health/celebrity-Weight-Loss/Celeb-weight-Loss.jpg</OGImage>
+  <OGDescription>We bring to you a little bit about some celebrities who lost weight and also how they did it. Here’s hoping this will get you up and running!</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Celebrity Weight Loss, Celeb Weight Loss Stories. Weight Loss Tips.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/health/celebrity-Weight-Loss/Celeb-weight-Loss.jpg' alt='' /&gt;&lt;p&gt;We bring to you a little bit about some celebrities who lost weight and also how they did it. Here’s hoping this will get you up and running!&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    So, we talk so much about how to&lt;a href="//rockying.com/a/29" target="_blank"&gt;
+         stay fit while eating out&lt;/a&gt; while eating your &lt;a href="//rockying.com/a/30"&gt;
+            favorite fatty foods&lt;/a&gt;, while &lt;a href="//rockying.com/a/100" target="_blank"&gt;
+                shopping&lt;/a&gt; and why we think everyone will just look and feel so much
+    more awesome after the weight loss (&lt;a href="//rockying.com/a/8" target="_blank"&gt;yes
+        why?&lt;/a&gt;). Not only will it make you healthier but much more confident about
+    yourself and your body.&lt;/p&gt;
+&lt;p&gt;
+    So, &lt;a href="http://www.rockying.com"&gt;Rockying&lt;/a&gt; brings to you a little bit about
+    some celebrities who lost weight and also how they did it. Here’s hoping this will
+    get you up and running!
+&lt;/p&gt;
+&lt;h3&gt;
+    SONAKSHI SINHA&lt;/h3&gt;
+&lt;img src="//rockying.com/art/health/celebrity-Weight-Loss/Sonakshi.jpg"
+    alt="Sonakshi Sinha Fat Photo" /&gt;
+&lt;p&gt;
+    The original Dabangg girl knew she had to put in the extra effort before she could
+    make her way to the top. Though Dabangg saw Sonakshi in a healthier avatar, her
+    body seems to be getting better, every time!&lt;/p&gt;
+&lt;h4&gt;
+    Sonakshi’s Secret Mantra&lt;/h4&gt;
+&lt;ul style="list-style-type: square"&gt;
+    &lt;li&gt;No carbohydrates after 6pm&lt;/li&gt;
+    &lt;li&gt;Loads of Green Tea&lt;/li&gt;
+    &lt;li&gt;Regular exercise. (Have you not heard this a million times?)&lt;/li&gt;
+    &lt;li&gt;Hot Yoga&lt;/li&gt;
+    &lt;li&gt;No short cuts to the door of glory&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;
+    KATRINA KAIF&lt;/h3&gt;
+&lt;img src="//rockying.com/art/health/celebrity-Weight-Loss/katrina-B4-After.jpg"
+    alt="Katrina Kaif Fat Photo" /&gt;
+&lt;p&gt;
+    Yes, hang your jaw in amazement, but Katrina wasn’t always the super trim Sheila
+    we see her as now. Though she wasn’t highly overweight, the Barbied Katrina managed
+    shedding off the extra pounds for a super trim and fit look. And the results are
+    for all to see!&lt;/p&gt;
+&lt;datasource name="boxaddatasource" /&gt;
+&lt;h4&gt;
+    Katrina’s Secret Mantra&lt;/h4&gt;
+&lt;ul style="list-style-type: square"&gt;
+    &lt;li&gt;Plenty of water and fruits&lt;/li&gt;
+    &lt;li&gt;“Eat the right food at the right time.”&lt;/li&gt;
+    &lt;li&gt;Positive addiction to physical activity.&lt;/li&gt;
+    &lt;li&gt;Avoiding starch completely (Though we do not advice that, because starch helps the
+        body produce energy and boycotting it may prove bad for health in the long run).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;
+    ADNAN SAMI&lt;/h3&gt;
+&lt;img src="//rockying.com/art/health/celebrity-Weight-Loss/Adnan-Sami.jpg"
+    alt="Adnan Sami Fat Photo" /&gt;
+&lt;p&gt;
+    Having lost over 130 kilos Sami is probably the “biggest” weight loss story of the
+    Bollywood fraternity. Earlier he required seat belt extension on planes, couldn’t
+    lie down for sleeping and needed rest after climbing five steps. In about a year,
+    Adnan Sami went from all this to enjoying tennis and squash.&lt;/p&gt;
+&lt;h4&gt;
+    Adnan’s Secret Mantra&lt;/h4&gt;
+&lt;ul style="list-style-type: square"&gt;
+    &lt;li&gt;Seek expert advice. His diet regime might just not work the same for you. As he
+        says, “Some people just gain weight by smelling food”.&lt;/li&gt;
+    &lt;li&gt;In his case (which is an exception), sheer determination, apart from initial dieting
+        and gradual exercising, was the key.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;
+    ZARINE KHAN&lt;/h3&gt;
+&lt;img src="//rockying.com/art/health/celebrity-Weight-Loss/Zarine-B4-After.jpg"
+    alt="Zarine Khan Fat Photo" /&gt;
+&lt;p&gt;
+    The flabby Katrina look alike was once tagged as Fatrina! She weighed a whopping
+    100 kgs before getting into films, but the determined girl decided to stop the wagging
+    tongues by going on a strict diet and is now a healthy 57 kgs.&lt;/p&gt;
+&lt;p&gt;
+    She flaunted her super toned body in Houseful 2.&lt;/p&gt;
+&lt;h4&gt;
+    Zarine’s Secret Mantra&lt;/h4&gt;
+&lt;ul style="list-style-type: square"&gt;
+    &lt;li&gt;An hour of &lt;a href="http://pilates.about.com/od/whatispilates/a/WhatIsPilates.htm"&gt;
+        Pilates&lt;/a&gt; every morning.&lt;/li&gt;
+    &lt;li&gt;Weight training, swimming and jogging to increase her metabolic rate.&lt;/li&gt;
+    &lt;li&gt;A complete no-no to sweet and fried food.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;
+    SONAM KAPOOR&lt;/h3&gt;
+&lt;img src="//rockying.com/art/health/celebrity-Weight-Loss/SonamB4-After.jpg"
+    alt="Sonam Kapoor Fat Photo" /&gt;
+&lt;p&gt;
+    India’s most fashionable lady was once quite heavy. But when she decided to get
+    into movies, she decided to shed off the extra weight too. Acknowledging her mother’s
+    determination to keep her off chocolates, ice creams, fried food she mentions how
+    a combination of yoga, Pilates and Kathak helped her put off weight.&lt;/p&gt;
+&lt;h4&gt;
+    Sonam’s Secret Mantra&lt;/h4&gt;
+&lt;ul style="list-style-type: square"&gt;
+    &lt;li&gt;High protein, six-small-meals-a-day-diet.&lt;/li&gt;
+    &lt;li&gt;An early dinner.&lt;/li&gt;
+    &lt;li&gt;Cardio-vascular exercises. (weight-training isn’t just for men to bulk-up)&lt;/li&gt;
+    &lt;li&gt;No to caffeine, yes to Green tea.&lt;/li&gt;
+    &lt;li&gt;Classical Dancing (Kathak) and playing Squash.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;
+    KAREENA KAPOOR&lt;/h3&gt;
+&lt;img src="//rockying.com/art/health/celebrity-Weight-Loss/kareena-lost-and-gained.jpg"
+    alt="Kareena Kapoor Fat Photo" /&gt;
+&lt;p&gt;
+    From a flabby teenager to a much more glamorous almost size zero! Though we don’t
+    approve the size zero look, we love Kareena for how she has managed to shed down
+    and then gain the kilos to look amazing. She consulted and worked under Dieticians
+    and nutritionists and switched to healthy versions of eating food. Also, she involved
+    in power yoga and managed to do about a 100 Surya Namaskars at one go!&lt;/p&gt;
+&lt;h4&gt;
+    Kareena’s Secret Mantra&lt;/h4&gt;
+&lt;ul style="list-style-type: square"&gt;
+    &lt;li&gt;Exercising right (Power Yoga upto 40 minutes and 50 &lt;a href="http://health.india.com/fitness/surya-namaskar-more-than-just-a-bollywood-fad/"
+        target="_blank"&gt;Surya Namaskars&lt;/a&gt; twice a day)&lt;/li&gt;
+    &lt;li&gt;The good-old dal, rice and sabzi for an equi-carb-protein-diet. She says, “the no-carb
+        (carbohydrates) diet is silly”.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;
+    SAMEERA REDDY&lt;/h3&gt;
+&lt;img src="//rockying.com/art/health/celebrity-Weight-Loss/Sameera.jpg"
+    alt="Sameera Reddy Fat Photo" /&gt;
+&lt;p&gt;
+    She went from a whopping 105 kilos to super sexy and fit avatar she is in now. Sameera
+    says it was very tough for her, given her healthy physique and the love for food.
+    But she decided to combine good food with the right amount of exercise and reach
+    where she is right now.&lt;/p&gt;
+&lt;h4&gt;
+    Sameera’s Secret Mantra&lt;/h4&gt;
+&lt;ul style="list-style-type: square"&gt;
+    &lt;li&gt;‘Lauki-juice’ (gourd juice) she says is a miracle worker.&lt;/li&gt;
+    &lt;li&gt;“Eat to survive. Don’t gorge.”&lt;/li&gt;
+    &lt;li&gt;2 years of intensive weight-loss regime. Which goes to say, folks it ain’t happening
+        overnight! You gotta work and wait for it. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;
+    KARAN JOHAR&lt;/h3&gt;
+&lt;img src="//rockying.com/art/health/celebrity-Weight-Loss/karan-johar.jpg"
+    alt="Karan Johar Fat Photo" /&gt;
+&lt;p&gt;
+    The director every star dreams to work with was once battling weight issues himself.
+    He says determination to look healthy (not skinny!) will make it happen. Resorting
+    to the age old mantra - combination of exercise and healthy food options - is what
+    helped him.&lt;/p&gt;
+&lt;h4&gt;
+    Karan’s Secret Mantra&lt;/h4&gt;
+&lt;ul style="list-style-type: square"&gt;
+    &lt;li&gt;Know your body. Learn to accept it.&lt;/li&gt;
+    &lt;li&gt;“Drink more water than you think is physically possible.”&lt;/li&gt;
+    &lt;li&gt;“Learn to love your greens”.&lt;/li&gt;
+    &lt;li&gt;“Surround yourself with people that are content in their skin.”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;
+    RANI MUKHERJI&lt;/h3&gt;
+&lt;img src="//rockying.com/art/health/celebrity-Weight-Loss/rani-B4-After.jpg"
+    alt="Rani Mukherji Fat Photo" /&gt;
+&lt;p&gt;
+    Rani received a lot of flak for her weight. But when she donned a bikini for Dil
+    Bole Hadippa, she did it with ease. A lot of people were stunned by her toned abs.
+    Her secret is the age old good diet and exercise and she is a big fan of yoga.&lt;/p&gt;
+&lt;h4&gt;
+    Rani’s Secret Mantra&lt;/h4&gt;
+&lt;ul style="list-style-type: square"&gt;
+    &lt;li&gt;Two hours Power-Yoga every morning.&lt;/li&gt;
+    &lt;li&gt;Walking up and down the stairs of her bungalow.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;
+    ARJUN KAPOOR&lt;/h3&gt;
+&lt;img src="//rockying.com/art/health/celebrity-Weight-Loss/arjun-kapoor.jpg"
+    alt="Arjun Kapoor Fat Photo" /&gt;
+&lt;p&gt;
+    Another from the Kapoor family, Boney Kapoor’s son and the latest heartthrob from
+    Ishaqzaade, Arjun weighed about a 140 kilos a few years back. He says, “Determination
+    goes a long way in weight loss because there really isn’t any quick fix”.&lt;/p&gt;
+&lt;h4&gt;
+    Arjun’s Secret Mantra&lt;/h4&gt;
+&lt;ul style="list-style-type: square"&gt;
+    &lt;li&gt;Combining healthy food with cardio and weights.&lt;/li&gt;
+    &lt;li&gt;Bajra roti in place of atta roti.&lt;/li&gt;
+    &lt;li&gt;A Crossfit regime to knock off the extra calories.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;
+    MARIAH CAREY&lt;/h3&gt;
+&lt;img src="//rockying.com/art/health/celebrity-Weight-Loss/Mariah-Carey.jpg"
+    alt="Mariah Carey Fat Photo" /&gt;
+&lt;p&gt;
+    Known for her powerful vocals, her songwriting and her acting skills; Mariah gained
+    70 pounds during her pregnancy. She decided to shed it off and managed to return
+    to the super glam personality she was always known for. Yes, we love the results.&lt;/p&gt;
+&lt;h4&gt;
+    Mariah’s Secret Mantra&lt;/h4&gt;
+&lt;ul style="list-style-type: square"&gt;
+    &lt;li&gt;Jenny Craig’s diet plan that restricted her intake to 1500 calories per day.&lt;/li&gt;
+    &lt;li&gt;Gymming thrice a week.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;
+    JASON SEGAL&lt;/h3&gt;
+&lt;img src="//rockying.com/art/health/celebrity-Weight-Loss/Jason-Segal.jpg"
+    alt="Jason Segal Fat Photo" /&gt;
+&lt;p&gt;
+    The adorable Marshall of How I Met Your Mother reached his high of 113 kgs and was
+    forced to lose weight for his film The Five-Year Engagement, also co-written by
+    him, released in April this year. Sticking to the mantra of healthy eating and exercise
+    he managed to lose over 13 kgs and still is continuing to achieve better results.&lt;/p&gt;
+&lt;h4&gt;
+    Jason’s Secret Mantra&lt;/h4&gt;
+&lt;ul style="list-style-type: square"&gt;
+    &lt;li&gt;Work-outs at work under expert supervision.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;
+    JENNIFER HUDSON&lt;/h3&gt;
+&lt;img src="//rockying.com/art/health/celebrity-Weight-Loss/Jennifer-Hudson.jpg"
+    alt="Jennifer Hudson Fat Photo" /&gt;
+&lt;p&gt;
+    She has many accolades to her name - an American Idol contestant, Academy Award
+    winner, a BAFTA and a Golden Globe winner. But Hudson was also known for her heavy
+    built. It’s ironical that her “Oscar-role” (for Dream Girls) came when she was all filled-up. Great timing though, she managed to shed off the extra pounds and look fab!
+  &lt;/p&gt;
+&lt;h4&gt;
+    Jennifer’s Secret Mantra&lt;/h4&gt;
+&lt;ul style="list-style-type: square"&gt;
+    &lt;li&gt;The Weight Watchers program&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;
+    ALEC BALDWIN&lt;/h3&gt;
+&lt;img src="//rockying.com/art/health/celebrity-Weight-Loss/alec-baldwin-before-after.jpg"
+    alt="Alec Baldwin Fat Photo" /&gt;
+&lt;p&gt;
+    Film, television and stage actor and Academy Award winner Alec Baldwin gets our
+    vote for being fit 53! Having being diagnosed as pre-diabetic, Baldwin managed to
+    lose over 13 kgs in four months. He owes the success to a no sugar diet, pilates
+    and spinning.&lt;/p&gt;
+&lt;h4&gt;
+    Alec’s Secret Mantra&lt;/h4&gt;
+&lt;ul style="list-style-type: square"&gt;
+    &lt;li&gt;A no-sugar-no-starch diet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;
+    KELLY OSBURNE&lt;/h3&gt;
+&lt;img src="//rockying.com/art/health/celebrity-Weight-Loss/kelly-osbourne.jpg"
+    alt="Kelly Osbourne Fat Photo" /&gt;
+&lt;p&gt;
+    Her participation in Dancing with the stars made her lose weight. But she says,
+    maintaining a regular dancing schedule, pilates and balanced meals helped her maintain
+    the healthy weight.&lt;/p&gt;
+&lt;h4&gt;
+    Kelly’s Secret Mantra&lt;/h4&gt;
+&lt;ul style="list-style-type: square"&gt;
+    &lt;li&gt;Following the &lt;a href="http://www.barmethod.com/exercises/core-strengthening-exercises.html"&gt;
+        Bar Method&lt;/a&gt;.&lt;/li&gt;
+    &lt;li&gt;Water instead of soda.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;
+    DREW BARRYMORE&lt;/h3&gt;
+&lt;img src="//rockying.com/art/health/celebrity-Weight-Loss/Drew-b4-after.jpg"
+    alt="Drew Barrymore Fat Photo" /&gt;
+&lt;p&gt;
+    Known for her acting in movies like 50 First Dates, Posion Ivy and E.T; actor, director,
+    screenwriter, producer and model Drew Barrymore has always been in the limelight.
+    She managed to overcome all her addiction in life - her drug problems, her alcohol
+    issues and also her weight issues. Drew is a fighter and her healthy weight just
+    is an affirmation to that very fact. Portion controlled meals, yoga and running
+    are her secrets.&lt;/p&gt;
+&lt;h4&gt;
+    Drew’s Secret Mantra&lt;/h4&gt;
+&lt;ul style="list-style-type: square"&gt;
+    &lt;li&gt;Five-mile runs, thrice a week.&lt;/li&gt;
+    &lt;li&gt;Boot-camp-style-workout by Kathy Kaehler.&lt;/li&gt;
+    &lt;li&gt;Power yoga instructed by Mark Blanchard.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;
+    RICKY GERVAIS&lt;/h3&gt;
+&lt;img src="//rockying.com/art/health/celebrity-Weight-Loss/Ricky-Gervais.jpg"
+    alt="Ricky Gervais Fat Photo" /&gt;
+&lt;p&gt;
+    It is amazing how English comedian and former radio presenter Ricky looks after
+    his weight loss. He managed to lose 20 pounds by getting active - yes, just by moving
+    around a lot more than he used to. Littlish but every day!&lt;/p&gt;
+&lt;h3&gt;You Might Like:&lt;/h3&gt;
+&lt;h4&gt;&lt;a href="//rockying.com/a/30?title=loose-weight-while-you-eat-potatoes-and-bananas&amp;ref=category"&gt;Loose Weight While You Eat Potatoes and Bananas.&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href="//rockying.com/a/29?title=nine-successful-ways-to-stick-to-your-diet-even-when-eating-out&amp;ref=category"&gt;9 Successful Ways to Stick to Your Diet Even When Eating Out!&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href="//rockying.com/a/100?title=six-secrets-to-shed-pounds-as-you-shop&amp;ref=category"&gt;6 Secrets to Shed Pounds as You Shop.&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href="//rockying.com/a/169?title=eating-less-why-it-can-be-grossly-wrong&amp;ref=category"&gt;Eating Less: Why it can be Grossly Wrong!&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href="//rockying.com/a/242?title=13-ways-to-move-more&amp;ref=category"&gt;13 Ways to Move More.&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href="//rockying.com/a/257?title=9-fun-ways-to-burn-calories&amp;ref=category"&gt;9 Fun Ways to Burn Calories!&lt;/a&gt;&lt;/h4&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>213</URL>
+</Article>

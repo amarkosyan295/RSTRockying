@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>A PLACE IN THIS WORLD</Title>
+  <MetaTitle>A PLACE IN THIS WORLD</MetaTitle>
+  <OGImage />
+  <OGDescription>A major health scare makes Alexis question everything in her life</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>23</Category>
+  <Tag>life, priorities, emotional, dream, love, relationship</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='' alt='' /&gt;&lt;p&gt;A major health scare makes Alexis question everything in her life&lt;/p&gt;</Description>
+  <Text>Walking out of the hospital, tears brimming down my face, I wonder where it all went wrong. 
+
+“The scans show a cyst,” Doctor’s voice still reverberates through my head. “But don’t worry about it till we know everything,” he had tried to reassure me. But how do you not worry?
+
+With a lot of effort, I shove these thoughts as far away as possible. But that just opens up space for some long-lost memories. 
+
+“When are you coming home, Alexis?” I could almost see Mum’s face pleading with me to visit two months ago when I spared some time out of my schedule to return her calls. “It’s been around a year since we have seen you.”
+
+I don’t even try to wipe out the tears anymore. What is the point? There is no stopping them at this point. As I continue my walk towards my house, another memory hits me making the dent in my heart just a little deeper. 
+
+“I thought we were going to finally catch up on all the “This is us” episodes?” I could still remember that conversation like it was yesterday. 
+
+“It’s just a show, Matt! We can watch them this weekend. I promise I won’t bail again,” I had immediately responded, not even sparing him a glance. It had been a long day and I had just gotten back, a few minutes from midnight, again. I had been too tired to be discussing a show. He should have understood, right?
+
+“This is not working, Lexi,” he said abruptly. I remember turning around and looking at him, shocked. I remember the broken expression on his face. He looked tired too. At the time, I couldn’t understand why.
+
+“Because I don’t have the time to sit around and watch a show with you?” I was furious. The shock was wearing off, leaving a ton of pent-up anger at its behest. Anger from the office, anger at him, and anger at the feeling of desperation creeping over slowly.
+
+“Do you really think it’s just about a show? We live together and I haven’t even seen you for days. I am glad that work is going great and I am proud of you, truly. But I can’t be a part of your life anymore,” he had said. He didn’t raise his voice. He didn’t even look angry. That’s how I knew it was truly over.
+
+“You know how important this is for me,” I had shouted. All I could see in him was a coward giving up on the fight without even trying. 
+
+“I know. So, now I am making it easier for you. Nothing stopping you now,” that’s all he said before walking out of the apartment. 
+
+I hadn’t cried when he left, but I couldn’t stop the tears now. As I unlock the apartment, I picture him walking out with pain written all over his face. I hadn’t attempted to stop him. The fact that I haven’t thought about him at all in the last year somehow makes it all worse. 
+
+My trip down memory lane is interrupted by the ringing of my phone. I shuffle through my purse to take it out and am not at all surprised by the caller. I quickly pick it up.
+
+“Hey Alexis, what time are you getting in?” I hear the hurried voice of my boss. 
+
+I still remember meeting her for the first time and being completely star-struck. She had been my idol growing up and scoring an interview to work with her had been a dream come true. I had ogled at her the whole time and stammered through the conversation, but she was sweet enough to not point it out.
+
+Like a slideshow, my life for the last four years flashes through my mind. Getting the job and being so excited that I called everyone I knew to tell them about it. Being excited about going to work every day and working my ass off every second of it. Making the office my home, only coming to the actual one to get some sleep. Promising myself to check up on Mum and Dad every weekend, and ending up breaking that promise every week. 
+
+Then, I remember feeling the exhaustion lurking in the corner all the time and thinking of quitting it all till I ran into Matt three and a half years ago. 
+
+Even in the quick flashes, those moments seem to move in slow motion, like a rom-com movie. Him flirting and me blushing the whole time. The first date, the first kiss, the first time we said “I love you”, the way he reminded me how I really wanted to be great at my job, I picture it all. 
+
+“Give it your best, so you don’t later regret that you could have tried more. That’s all that matters when you are old and senile, and thinking about what you did with your life,” he used to say.
+
+The happy days are followed by the descent of darkness. Me getting all in on my work, him being my cheerleader till it became a lot. Him walking out and starting a new better life. Me being angry at his happiness. I remember blocking him on Facebook when he announced his engagement to a sweet lovely girl who was just right for him. 
+
+“Umm, Alexis?” I land back to reality when my boss clears her throat on the other side of the line.
+
+“I just returned from the hospital,” I quickly tell her. I don’t even know what I was hoping for. She doesn’t really owe me any sympathy or care. It isn’t her fault that somewhere along the way, she and her office became my whole life, but still, her next words leave me frozen for a second.
+
+“So, you’ll be late?” is all she says. I think about the numerous missed calls still on my phone from my parents which I deliberately let go to voicemail, in contrast to this call which I picked on an impulse without even giving it a second thought. 
+
+I take a long breath and finally say, “I am not coming.”
+
+“What does that mean? You can’t take leaves without prior approval,” she sounds shocked.
+
+I laugh, feeling relief flooding through me. “I quit,” I spell it out to her.
+
+“What? Why? You have a very bright future here, Alexis. Is something wrong?” she finally asks, but it was too little too late. 
+
+I didn’t want to reason with her, so I simply say, “Not really. I want a break.”
+
+“Are you sure? You won’t get any second chances” she asks, sounding a little offended. 
+
+“Never been more sure about anything,” I say before disconnecting the call and already booking a ticket. I might never get to be old and senile, but I knew I won’t regret this because, after years of searching for a place in this world, I finally knew where home was.
+
+I start packing after dropping a text to Mum asking her to get started on the lasagna.</Text>
+  <WriterName>Tanya Shrivastava</WriterName>
+  <WriterEmail>tanya7shrivastava@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>a-place-in-this-world</URL>
+</Article>

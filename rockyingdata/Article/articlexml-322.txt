@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Talk about Getting Lost in Music; The Most Soulful Hindi Songs of Recent Times</Title>
+  <OGImage>http://www.rockying.com/art/Awareness/Save-Energy-Save-Bills/laptop-in-bed.jpg</OGImage>
+  <OGDescription>akdkpaksDPKaspd</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>15</Category>
+  <Tag>Music, Bollywood, Songs,</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Awareness/Save-Energy-Save-Bills/laptop-in-bed.jpg' alt='' /&gt;&lt;p&gt;akdkpaksDPKaspd&lt;/p&gt;</Description>
+  <Text>1. Tera Zikr Hai (Guzaarish)
+2. Bawra MAnn (Hazaron...)
+3. Zinda (Lootera)
+4. Khaabon Ke PArindey (ZNMD)
+5. Roobaroo (RDB)
+6. Mera Jahan (Taare Zameen Par)
+7. Bezubaan (Piku)
+8. Der Lagi Lekin
+9. Kinare (Queen)
+10. In Dinon
+11. Shikaytein (Lootera)
+12. Zinda</Text>
+  <WriterName>Rockying</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>call-them-feel-good-call-them-food-for-the-soul-the-most-soulful-hindi-songs-of-recent-times</URL>
+</Article>

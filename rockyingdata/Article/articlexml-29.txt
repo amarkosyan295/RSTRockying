@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>29</ID>
+  <Title>Nine Successful Ways to Stick to Your Diet, Even When Eating Out !</Title>
+  <MetaTitle>Nine Successful Ways to Stick to Your Diet, Even When Eating Out !</MetaTitle>
+  <OGImage>//www.rockying.com/art/woman-eating-salad-at-cafe.jpg</OGImage>
+  <OGDescription>Dining Out</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>healthy eating, dining out, restaurant, eating out, Diet, Eating Healthy tips</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/woman-eating-salad-at-cafe.jpg' alt='' /&gt;&lt;p&gt;Dining Out&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;img src="http://rudrasofttech.com/rockying/art/woman-eating-giant-burger.jpg" title="woman-eating-giant-burger" alt="" style="width: 300px; float: left;"&gt;We have all been there. We try our best to go on diet and keep a count on our healthy calories but a dinner get-together at a friend’s place or a casual dinner at the local restaurant might just make the diet go down the drain.&amp;nbsp;&lt;/p&gt;&lt;p&gt;So, here’s helping you with some:&amp;nbsp; &lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;1.&amp;nbsp; Make sure you are&lt;b&gt; not going on an empty stomach&lt;/b&gt;, have something healthy before eating out; you will tend to eat lesser at the restaurant.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;2.&amp;nbsp; Choose &lt;b&gt;clear soups instead of creamy ones&lt;/b&gt;, clear soups are just as nutritious and filling but don’t contain as much fat.&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;3.&amp;nbsp; Ask for salads and greens&lt;/b&gt; that are low on salt content and go with dressing that have lower fat. Lemon juice, salt, pepper and vinegar are great low-fat dressing.&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;4.&amp;nbsp; Choose tandoori roti or romali roti &lt;/b&gt;over breads with high fat content such as butter Nan or paranthas, that have higher oil content in them.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;5.&amp;nbsp; While picking the main course, make sure you &lt;b&gt;select baked food over fried ones&lt;/b&gt;.&lt;img src="http://rudrasofttech.com/rockying/art/woman-eating-salad-at-cafe.jpg" title="Dining Out" alt="" style="width: 310px; float: right;"&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;This helps you keep a light stomach and also control the calories.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;6.&amp;nbsp; Try to&lt;b&gt; resist ordering dessert&lt;/b&gt;, but if you must, then pick out yoghurt or a bowl of fruits.&lt;/p&gt;&lt;p&gt;Remember, fruits give that extra glow to your skin! Like that of the lady here ;)&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;7.&amp;nbsp; Try your best to &lt;b&gt;stay away from carbonated drinks&lt;/b&gt;. Keep sipping on water.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;8.&amp;nbsp; While traveling for business or pleasure, &lt;b&gt;pre-plan meals and snacks&lt;/b&gt;. Take along mineral water, iced tea, vegetables juice and some low fat snacks like whole wheat sandwiches, fresh fruits, roasted pulses, ragi khakras or puffs.&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;img src="http://rudrasofttech.com/rockying/art/waiter%20n%20Customer.jpg" title="Waiter n Customer" alt="" style="width: 300px; float: left;"&gt;&amp;nbsp; 9.&amp;nbsp; Complement the server, manager/owner&lt;/b&gt; &amp;amp; chef regarding the menu&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; and its items; however briefly explain that you are doing a challenge for your gym. Most chefs and restaurant owners will jump at the opportunity to impress a guest, so kindly ask them to make you something with your choice of ingredients and tons of veggies.&lt;/p&gt;&lt;p&gt;&lt;b&gt;So, there actually are ways to eat out, have fun and still manage to keep that waist trim. Just make sure you don’t give in to all that butter and stay all motivated to stick on to a healthier you!&lt;/b&gt;&lt;/p&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>29</URL>
+</Article>

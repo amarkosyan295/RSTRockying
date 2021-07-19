@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>115</ID>
+  <Title>An Ice Cream Headache?</Title>
+  <MetaTitle>An Ice Cream Headache?</MetaTitle>
+  <OGImage>//rockying.com/art/health/Ice%20cream%20HEadache/ice%20cream%20migraine%201.jpg</OGImage>
+  <OGDescription>Did you ever think that a heavenly cup of your favorite ice cream can aggravate your migraine attack? Here is what the doctors have to say. As per the latest researches go, the brain relatively freezes with all the cold things we have (example, ice cream, ice cubes, chilled shakes etc) and causes a</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Migraine, Causes of Migraine, Headache Remedies</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/health/Ice%20cream%20HEadache/ice%20cream%20migraine%201.jpg' alt='' /&gt;&lt;p&gt;Did you ever think that a heavenly cup of your favorite ice cream can aggravate your migraine attack? Here is what the doctors have to say. As per the latest researches go, the brain relatively freezes with all the cold things we have (example, ice cream, ice cubes, chilled shakes etc) and causes a&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    Did
+    &lt;img src="//rockying.com/art/health/Ice%20cream%20HEadache/Untitled%281%29.jpg"
+        title="Migraine Check List" alt="" style="max-width: 350px;" class="pull-right" /&gt;
+    you ever think that a heavenly cup of your favorite ice cream can aggravate your
+    migraine attack? Here is what the doctors have to say. As per the latest researches
+    go, the brain relatively freezes with all the cold things we have (example, ice
+    cream, ice cubes, chilled shakes etc) and causes a fluctuation in blood flow during
+    a migraine. An increased pressure in the blood can therefore lead from a throbbing
+    headache to an unbearable migraine pain. Sad, right?
+&lt;/p&gt;
+&lt;p&gt;
+    Here is what you can do as a precautionary measure:
+&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Avoid sipping ice water or ice creams when you feel that a migraine might ruin your
+            day. Generally, cold sensations do not help soothing your nerves but cause them
+            to constrict and expand much more. So, ice creams might just trigger throbbing headaches.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Avoid sitting in air conditioned rooms. The arteries in the brain often fail to
+            adjust to external temperatures that fluctuate. At best, try sitting near a cooler
+            or keep the temperature of the air conditioner above 26 degrees.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Apply cold packs on your head when the pain is getting unbearable but see that it
+            is wrapped
+            &lt;img src="//rockying.com/art/health/Ice%20cream%20HEadache/Brain-Freeze.jpg"
+                title="Freezed Brain" alt="" style="max-width: 300px;" class="pull-right" /&gt;in
+            a thick cloth. A pillow cover or a thick hand towel can be a good idea. Severe cold
+            compressions released by ice packs can dilate the nerves in the brain. As a result,
+            you might experience temporary relief but with the melting of the ice pack, your
+            migraine might return!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Try and eat foods that have a normal room temperature during a headache. This automatically
+            rules out the possibility of having a scoop of ice cream as a quick hunger remedy.
+            Simple breads and vegetables in small quantities can put you at ease. Most headaches
+            occur due to irregular eating patterns or excessive coffee intake.&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    While medicines such as disprins, aspirins and the like are available in medical
+    stores, it is best if they are avoided.
+    &lt;img src="//rockying.com/art/health/Ice%20cream%20HEadache/ice%20cream%20migraine%201.jpg"
+        title="Ice Creams cause Headache" alt="" style="max-height: 200px;" class="pull-right" /&gt;Many
+    people due to repeated doses of disprin pills become immune to the medicinal effect
+    it is supposed to have on your brain nerves during a headache.&lt;/p&gt;
+&lt;p&gt;
+    People with a history of migraine attacks or untraceable reasons for frequent headaches
+    now know what to recollect. Was it that cup of ice cream you had sitting under the
+    air conditioner? It is best to avoid any food items and places that have extreme
+    temperatures or cause temperature fluctuations in the body, at large. A few tips
+    such as avoiding cold meat, ice creams, red meat, ice water and air conditioned
+    rooms can help you make that migraine attack a little tolerable.
+&lt;/p&gt;
+&lt;h5&gt;
+    Let us keep ice creams for the good times
+    in life!&lt;/h5&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>115</URL>
+</Article>

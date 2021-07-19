@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Clean, The Healthy, Quick Way!</Title>
+  <MetaTitle>Clean, The Healthy, Quick Way!</MetaTitle>
+  <OGImage>//rockying.com/art/Do-It-Yourself-Slide-Show/Clean-Healthy-n-Quick-way/Home-page-pic.jpg</OGImage>
+  <OGDescription>Here are some easy tricks and tips that make cleaning easier and make sure the shine goes up a notch. Get cleaning, the easy way!</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>19</Category>
+  <Tag>Cleaning Tips, Healthy Cleaning, Cleaning with Vinegar, Easy Cleaning, Lemons.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/Do-It-Yourself-Slide-Show/Clean-Healthy-n-Quick-way/Home-page-pic.jpg' alt='' /&gt;&lt;p&gt;Here are some easy tricks and tips that make cleaning easier and make sure the shine goes up a notch. Get cleaning, the easy way!&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px;  height:40px;
+            font-size: 50px; font-weight: 100; color: #000; border: none; text-align: center; margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px;height:40px;
+            font-size: 50px; font-weight: 100; color: #000;border: none; text-align: center;margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+&lt;div class="slideshow"&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span6"&gt;
+                &lt;div class="thumbnail"&gt;
+                    &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/Clean-Healthy-n-Quick-way/1.JPG"
+                        alt="" style="width:100%;" /&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="span6"&gt;
+                &lt;p&gt;
+                    We have a thing for cleanliness. From mopping your floors everyday to making sure
+                    our bathrooms are germ free. But most of these involve the use of harsh chemicals
+                    that not only lead to loss of shine over time, but they cause our hands to become
+                    dry and all wrinkly. So here are some easy tricks and tips that make cleaning easier
+                    and make sure the shine goes up a notch. Get cleaning, the easy way!&lt;/p&gt;
+                &lt;h4&gt;
+                    Shining Floors!&lt;/h4&gt;
+                &lt;p&gt;
+                    Tired of adding various cleaners to your mop your floor? Just make sure you add
+                    half cup of white vinegar to about four litres of water. Mop the floor with this
+                    and let it dry to get squeaky clean floors. Not only is this environment friendly,
+                    but it puts the shine back in dull hard floors!&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span7"&gt;
+                &lt;div class="thumbnail"&gt;
+                    &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/Clean-Healthy-n-Quick-way/2.JPG"
+                        alt="" /&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="span5"&gt;
+                &lt;h4&gt;
+                    Perspiration Stains&lt;/h4&gt;
+                &lt;p&gt;
+                    For strong perspiration stains (yes, it is summers and we all sweat!) mix one cup
+                    ammonia in three cups of water and apply to the stain. If the stain is too strong,
+                    try mixing 3 teaspoons vinegar in half a pint of water. The stains are bound to
+                    go missing.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span7"&gt;
+                &lt;div class="thumbnail"&gt;
+                    &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/Clean-Healthy-n-Quick-way/3.JPG"
+                        alt="" /&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="span5"&gt;
+                &lt;h4&gt;
+                    Drain it Off!&lt;/h4&gt;
+                &lt;p&gt;
+                    Most of the drain cleaners have strong smells and are just too poison sounding!
+                    Here’s a safer way to clean drains. Pour ¼ cup of baking soda into a blocked drain
+                    and follow it with ½ cup of vinegar.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span7"&gt;
+                &lt;div class="thumbnail"&gt;
+                    &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/Clean-Healthy-n-Quick-way/4.JPG"
+                        alt="" /&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="span5"&gt;
+                &lt;h4&gt;
+                    Sheen on the Woods&lt;/h4&gt;
+                &lt;p&gt;
+                    Your furniture must have gathered too much dust over time. And no amount of dusting
+                    and scrubbing will help get rid of the stains. Mix 1 tablespoon of vegetable oil
+                    with one tablespoon of lime juice. Apply with a soft cloth and then immediately
+                    wipe out with another dry soft cloth. The shine will be back.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span7"&gt;
+                &lt;div class="thumbnail"&gt;
+                    &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/Clean-Healthy-n-Quick-way/5.JPG"
+                        alt="" /&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="span5"&gt;
+                &lt;h4&gt;
+                    See Through The Panes&lt;/h4&gt;
+                &lt;p&gt;
+                    Use one cup rubbing alcohol and one cup ammonia to clean your windows. It is wonderful
+                    to get rid of oil stains and fingerprint marks on your windows.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span7"&gt;
+                &lt;div class="thumbnail"&gt;
+                    &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/Clean-Healthy-n-Quick-way/6.JPG"
+                        alt="" /&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="span5"&gt;
+                &lt;h4&gt;
+                    Soiled Microwave?&lt;/h4&gt;
+                &lt;p&gt;
+                    Hard to wipe out the hardened food particles from the inside of your microwave?
+                    Take one cup of water and put in slices of whole lemon into it. Put the jar in the
+                    microwave and boil it for twenty seconds. This will loosen the food particles and
+                    make cleaning easier.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span7"&gt;
+                &lt;div class="thumbnail"&gt;
+                    &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/Clean-Healthy-n-Quick-way/7.JPG"
+                        alt="" /&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="span5"&gt;
+                &lt;h4&gt;
+                    Home-made Fabric Softener&lt;/h4&gt;
+                &lt;p&gt;
+                    Mix 6 cups water, 3 cups of white vinegar and 2 cups of hair conditioner in about
+                    4 liters of water. Don’t shake too much and avoid foaming. This mixture can then
+                    be used as a fabric softener. For using in machines, use the same amount as you
+                    would use a bottled fabric softener.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span7"&gt;
+                &lt;div class="thumbnail"&gt;
+                    &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/Clean-Healthy-n-Quick-way/8.JPG"
+                        alt="" /&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="span5"&gt;
+                &lt;h4&gt;
+                    Lustrous Tiles&lt;/h4&gt;
+                &lt;p&gt;
+                    In about 2 litres warm water, add ½ cup baking soda, ⅓ cup household ammonia and
+                    ¼ cup white vinegar. Make sure you put the water first and then add the other ingredients
+                    to it. This can be used to clean and mop your tiles.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span7"&gt;
+                &lt;div class="thumbnail"&gt;
+                    &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/Clean-Healthy-n-Quick-way/9.JPG"
+                        alt="" /&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="span5"&gt;
+                &lt;h4&gt;
+                    Brass &amp; Copper&lt;/h4&gt;
+                &lt;p&gt;
+                    Cleaning brass and copper requires a lot of attention and toil. Here’s something
+                    to make it easy, quick and hassle free. Mix equal parts of flour and salt with a
+                    few tablespoons of white vinegar. Apply on the brass and copper vessels or decorations
+                    and rub with a soft cloth. Rinse with water and dry to have them look as brand new!&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span7"&gt;
+                &lt;div class="thumbnail"&gt;
+                    &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/Clean-Healthy-n-Quick-way/10.JPG"
+                        alt="" /&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="span5"&gt;
+                &lt;h4&gt;
+                    Silveriness&lt;/h4&gt;
+                &lt;p&gt;
+                    Here’s a no scrub way to polish and shine your silver. Take a pot and line it with
+                    aluminium foil. Place the silver into it. Remember that the silver that needs to
+                    be cleaned should be in contact with the foil. Sprinkle a generous amount of baking
+                    soda over the items and pour boiling water so as to dip everything. No scrubbing
+                    and sparkling silver within minutes.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span7"&gt;
+                &lt;div class="thumbnail"&gt;
+                    &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/Clean-Healthy-n-Quick-way/11.JPG"
+                        alt="" /&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="span5"&gt;
+                &lt;h4&gt;
+                    Citrusy Fresh&lt;/h4&gt;
+                &lt;p&gt;
+                    Probably one of the best ways to freshen up your house from all the masala (spice)
+                    smell! Take slices of lemon, oranges and grapefruits (you can use either of the
+                    fruits) and pour them in one pot water and simmer them gently for an hour. Not only
+                    will this get rid of the entire odor but it will fill your house with a fresh citrus
+                    smell. Very apt for summers.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>205</URL>
+</Article>

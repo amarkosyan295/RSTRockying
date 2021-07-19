@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>160</ID>
+  <Title>Chutnification of Chinese Food in India</Title>
+  <MetaTitle>Chutnification of Chinese Food in India</MetaTitle>
+  <OGImage>//rockying.com/art/Food/Chutnification-of-chinese-food-in-india/indo-chinese.jpg</OGImage>
+  <OGDescription>Indeed, Indians clearly do not like it bland and we being the curry kings desire our Chinese with a little tadka , a little spice and truck full of chilli. Did you know that the chāu-mèing(originally it was spelt like this) we devour in India was first introduced by China Town in Calcutta? Read on..</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>13</Category>
+  <Tag>Chinese Food, Indo-Chinese Food</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/Food/Chutnification-of-chinese-food-in-india/indo-chinese.jpg' alt='' /&gt;&lt;p&gt;Indeed, Indians clearly do not like it bland and we being the curry kings desire our Chinese with a little tadka , a little spice and truck full of chilli. Did you know that the chāu-mèing(originally it was spelt like this) we devour in India was first introduced by China Town in Calcutta? Read on..&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    An
+    &lt;img src="//rockying.com/art/Food/Chutnification-of-chinese-food-in-india/honey-chilli-potatoes.jpg"
+        title="Honey Chilli Potatoes" alt="" style="width: 180px;" class="pull-left" /&gt;
+    old Cantonese proverb goes something like this:&lt;i&gt;"Anything that walks, swims, crawls,
+        or flies with its back to heaven is edible&lt;/i&gt;". Well, the Chinese food in China
+    has indeed been true to its sayings. But some extreme and spicy food fusion has
+    been a welcoming change for us Indians!&lt;br&gt;
+&lt;/p&gt;
+&lt;h4&gt;
+    IT'S DIFFERENT !
+&lt;/h4&gt;
+&lt;p&gt;
+    Indeed, Indians clearly do not like it bland and we being the curry kings desire
+    our Chinese with a little tadka (tempering), a little spice and truck full of chilli.
+    Did you know that the &lt;i&gt;chāu-mèing&lt;/i&gt;(originally spelt like this) we devour in
+    India was first introduced by China Town in Calcutta? The Indian variant unashamedly
+    introduces vegetarian ingredients in it such as cabbage, paneer, bamboo shots, pea
+    pods and carrots. Original Chinese chowmein has no space for the veggies to settle
+    in and is only consumed with pork and shrimp.&lt;/p&gt;
+&lt;h4&gt;
+    So, most people from India who visit China for work or for leisure cannot eat Chinese
+    food! We tell you why:&lt;/h4&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            All Chinese food cooked in China follow three cooking methods- heating, boiling,
+            steaming and in some cases fried. So very little use of oil, as is evident. Phew!&lt;img
+                src="//rockying.com/art/Food/Chutnification-of-chinese-food-in-india/indo-chinese.jpg"
+                title="Indo-Chinese Manchurian" alt="" style="width: 300px;" class="pull-right" /&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Chinese noodles are made of wheat which we consume in the form of breads and tortillas.
+            Noodles in India are made of flour. Shocked???&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Rice is used for seasoning in China. And all rice seasoning is sauce based.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Chinese mostly use animal fat such as the lard or peanut oil for cooking unlike
+            us Indians who use mustard oil, sunflower oil, clarified butter or sesame oil.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            You will simply find no traces of curd or milk products in China’s gastronomy.&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    &lt;strong&gt;So the food art gets simple: The Chinese use seasonings, the Indians use spices
+        and seasonings for a more elevated experience of food indulgence. &lt;/strong&gt;
+&lt;/p&gt;
+&lt;h4&gt;
+    HERE ARE SOME FUNNY FACTS ABOUT THE CHINESE FOOD CULTURE THAT MIGHT SET YOU LAUGHING:&lt;/h4&gt;
+&lt;img src="//rockying.com/art/Food/Chutnification-of-chinese-food-in-india/cold_chinese_noodles.jpg"
+    title="Cold Chinese Noodles" alt="" style="width: 300px;" class="pull-right" /&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            People in China are fierce loyalists to their noodle preferences. How come we Indians
+            go easy on that? Good that we are not Chinese enough in our consumption, eh?&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Well, the China versus America did not leave the food plate out of their purview
+            it seems. America’s famous turkey has not been embraced by the Chinese at all! And
+            funnily enough many Chinese bloggers call the turkey as “the big bird”!!! The reason?
+            Turkey meat is bland and coarse for the Chinese folks.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Chinese have a weird way of consuming fish. Dipped in boiled water and brushed with
+            oil and salt, they usually swallow the whole fish at one go and pull out the cleaned
+            skeleton with the head and the tail hanging on it.&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;
+    Also, here is what we feel about this food fusion. Read on for some interesting
+    inputs:&lt;/h4&gt;
+&lt;img src="//rockying.com/art/Food/Chutnification-of-chinese-food-in-india/momos.jpg"
+    title="Dimsums" alt="" style="width: 300px;"  /&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;The Chowmein&lt;/strong&gt;: A lot has been said about it. Let us leave it at that.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;Chilli Chicken&lt;/strong&gt;: Crucial dish to help you gobble some steamed rice.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;Pork and dried shrimp dumplings&lt;/strong&gt;: You cannot find this in India. Visit a Chinese
+            lady for some lessons at home.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;Chicken fried rice: &lt;/strong&gt;This is the best thing that has happened to the Indian
+            Chinese platter!
+        &lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    We Indians sure do have our way of quick fixing food to suit our taste buds. Hail
+    Chinese food, the Indian way of course!&lt;/p&gt;
+&lt;p&gt;
+    &lt;strong&gt;
+        &lt;img src="//rockying.com/art/Food/Chutnification-of-chinese-food-in-india/Asia-7.jpg"
+            title="Asia 7 Restaurant" alt="" style="width: 300px;" class="pull-left" /&gt;WE
+        RECOMMEND&lt;/strong&gt;: &lt;a href="http://www.drinkndine.in/Asia%207-Gurgaon" target="_blank"&gt;&lt;i&gt;&lt;strong&gt;Asia 7&lt;/strong&gt;&lt;/i&gt;&lt;/a&gt;.
+    Heard of this one?
+&lt;/p&gt;
+&lt;p&gt;
+    People living in Delhi NCR now have the most ultimate Chinese dining experience just a drive away. They are known to serve some of the finest and authentic
+    Japanese, Asian and Chinese dishes. Fine eating and good living, eh? The cooks not only give you plenty of options to choose from but also keep you informed with the history of the dishes you order! They claim that each dish enlisted in their menu has been handpicked after several years of scrutiny of Indian tastes and the bests that the Chinese culture can offer to the Indian table. Also visit &lt;a href="http://www.bercos.net/" target="_blank"&gt;
+        &lt;strong&gt;Bercos&lt;/strong&gt;&lt;/a&gt; for an astounding indo-chinese fiesta.&lt;/p&gt;
+&lt;h4&gt;
+    Bon appetite, monsieur!&lt;/h4&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>160</URL>
+</Article>

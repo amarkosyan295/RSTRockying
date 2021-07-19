@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>112</ID>
+  <Title>Weird Tastes Of India</Title>
+  <MetaTitle>Weird Tastes Of India</MetaTitle>
+  <OGImage>//rockying.com/art/Food/Weird%20tastes%20of%20INdia/phantom%20cigs.jpg</OGImage>
+  <OGDescription>GOMUTRA (Cow’s Urine), known for its brilliant medicinal properties, this is rural India’s favorite medicated drink. Ayurveda recommends it as an antidote for thyroid, common cold, cough, cholesterol, constipation and even acne! Indians have been using this as a suitable remedy for 1000s of years. B</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>13</Category>
+  <Tag>Weird Food, Indian tastes, Weird India, Gomutra</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/Food/Weird%20tastes%20of%20INdia/phantom%20cigs.jpg' alt='' /&gt;&lt;p&gt;GOMUTRA (Cow’s Urine), known for its brilliant medicinal properties, this is rural India’s favorite medicated drink. Ayurveda recommends it as an antidote for thyroid, common cold, cough, cholesterol, constipation and even acne! Indians have been using this as a suitable remedy for 1000s of years. B&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    &lt;b&gt;T&lt;/b&gt;he reason why we call it weird is because not every individual outside India
+    is subjected to such tastes. Rockying lists the top five weird things that people
+    have in the country. However, we do keep in mind the conflicts behind the term “weird”
+    because what is considered weird out here might be a cuisine for others! Read on
+    to find if any of these suit your taste or disagree with us accordingly!&lt;b&gt;&lt;br&gt;
+    &lt;/b&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;b&gt;GOMUTRA&lt;/b&gt; (Cow’s Urine): Known for its brilliant medicinal properties, this
+        is rural India’s favorite medicated drink. Ayurveda recommends it as an antidote
+        for thyroid, common cold, cough, cholesterol, constipation and even acne! Indians
+        have been using this as a suitable remedy for 1000s of years. But isn’t getting
+        treated with animal excreta a little unusual?&lt;/li&gt;&lt;/ul&gt;
+&lt;blockquote&gt;
+    &lt;p&gt;
+        &lt;img src="//rockying.com/art/Food/Weird%20tastes%20of%20INdia/gomutra2%281%29.jpg"
+            title="A cow releasing urine" alt="" style="height: 400px;"&gt;&lt;b&gt;&lt;br&gt;
+            &lt;/b&gt;
+    &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;b&gt;PHANTOM CIGARETTES&lt;/b&gt;: This one is actually on the weirder side. Remember the
+        candy sticks with a red tip? Sweet cigarettes have been every child’s must possession.
+        On the contrary, children get to feel what it is like to hold a cigarette in hand
+        even though we know it is just a peppermint made into a cigarette-like thing. If
+        the whole idea is to make children avoid smoking, then why allow them to smoke a
+        fake one in the first place? Most children who smoked phantom cigarettes as kids
+        took up full-time smoking as adults. Weird, but true!&lt;/li&gt;&lt;/ul&gt;
+&lt;blockquote&gt;
+    &lt;p&gt;
+        &lt;img src="//rockying.com/art/Food/Weird%20tastes%20of%20INdia/phantom%20cigs.jpg"
+            title="Phantom Cigarettes" alt="" style="width: 400px;"&gt;&lt;b&gt;&lt;br&gt;
+            &lt;/b&gt;
+    &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;b&gt;PICKLED MACKEREL FISH "RAW"&lt;/b&gt;: Trust us with this. Dried and pickled mackerel
+        fish tastes like sour lime and the smell is as nauseating as ammonia. There is absolutely
+        nothing appetizing about this cuisine, is it?&lt;span style="font-weight: bold;"&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;blockquote&gt;
+    &lt;p&gt;
+        &lt;b&gt;
+            &lt;img src="//rockying.com/art/Food/Weird%20tastes%20of%20INdia/Pickeled_Mackerel_Fish.jpg"
+                title="Raw Pickeled Mackerel Fish" alt="" style="width: 400px;"&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;b&gt;BHANG THANDAI&lt;/b&gt;: Bhang leaves or marijuana generously grated in milk shakes
+        and sugar along with crushed almonds and pistachio. Sounds very scrumptious and
+        almost every individual in the country have had this or desire to have this once
+        in their lives during Holi. What kick does one get? Well, it can send your body
+        fluids, intestines and brain for a funny ride. While you do random things for fun,
+        the next morning you might not remember what you did to have fun yesterday. We sure
+        do have ways of having fun the weird way!&lt;/li&gt;&lt;/ul&gt;
+&lt;blockquote&gt;
+    &lt;p&gt;
+        &lt;img src="//rockying.com/art/Food/Weird%20tastes%20of%20INdia/bhang.jpg"
+            title="Bhang Thandai" alt="" style="width: 400px;"&gt;&lt;br&gt;
+    &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;b&gt;YAK BUTTER TEA&lt;/b&gt;: A Tibetan drink, this is just simply not the way a conventional
+        cup of tea is had. Yak butter tea is made from tea leaves, yak butter and salt instead
+        of milk! We wonder why it is called a tea anyway!&lt;/li&gt;&lt;/ul&gt;
+&lt;blockquote&gt;
+    &lt;p&gt;
+        &lt;img src="//rockying.com/art/Food/Weird%20tastes%20of%20INdia/Yak_Buttered_Tea.jpg"
+            title="Yak Buttered Tea" alt="" style="width: 400px;"&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h5&gt;
+    Tell us some more about dishes that you find weird or unusual in the box below!&lt;/h5&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>112</URL>
+</Article>

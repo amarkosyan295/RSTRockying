@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>10</ID>
+  <Title>100% Desi Indians</Title>
+  <MetaTitle>100% Desi Indians</MetaTitle>
+  <OGImage>http://www.rockying.com/art/Festival/Republic-Day-2013/protest.jpg</OGImage>
+  <OGDescription>It all started with the Mayan's declaring 21st December 2012 as the doomsday...</OGDescription>
+  <DateCreated>2012-01-25T13:46:53.023</DateCreated>
+  <DateModified>2012-01-29T22:23:33.073</DateModified>
+  <CreatedBy>2</CreatedBy>
+  <ModifiedBy>2</ModifiedBy>
+  <ModifiedByName />
+  <Category>25</Category>
+  <Tag>Republic Day, India, Republic, India, nation, national, 26th January,</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Festival/Republic-Day-2013/protest.jpg' alt='' /&gt;&lt;p&gt;It all started with the Mayan's declaring 21st December 2012 as the doomsday...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;br&gt;&lt;img src="http://www.rockying.com/art/Festival/Republic-Day-2013/protest.jpg" title="Happy Republic Day India" alt="" style="float: left;"&gt;
+It all started with the Mayan's declaring 21st December 2012 as the doomsday that would have marked the end of the earth. However, we did manage to survive and step on to 2013 with skepticism, faith, fun, outdated resolutions, and hopes for a crime free India. 
+&lt;/p&gt;
+&lt;p&gt;
+We all saw the mass getting involved in the movement "Justice for Jyoti" and young India fight for the security of women, Our beloved Late Rajesh Khanna, Late Jaspal Bhatti and sensor woman Sharmila Tagore winning the &lt;b&gt;Padma Awards&lt;/b&gt;, India for second year being reported as a polio free country,&lt;i&gt;Dabangg 2&lt;/i&gt; and &lt;i&gt;Fevicol se&lt;/i&gt; topping the charts. 
+&lt;/p&gt;
+&lt;p&gt;Some of these became the perfect news bytes that were watched repeatedly sitting on the couch with our favourite bag of chips but others proved we care and will go to any extent to save the nation. The rest of the ‘Breaking News’ diligently update you on the tele-serial &lt;b&gt;TRPs.&lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;
+So what is so special about celebrating &lt;b&gt;Republic Day&lt;/b&gt;? We still curse, when we step on garbage filth while walking on the street and imagine a better world awaiting us. We are traditional Indians yet the spirit remains that of a rebel. Blame-game was our favorite way of passing time but this year saw the change. Thousands gathered to show they care for every other citizen that deserves justice.Though the youth has a chalta hai attitude in general but when it comes to the power of expression, we are Indians and proud. 
+&lt;/p&gt;
+&lt;p&gt;
+Apart from that, it is our fortune that our Republic Day falls during the winter months, so the terraces become the perfect places for knitting sweaters and having oranges while we all bask in the sun. We do see tricolor bandanas and other fashionable t-shirts worn by the youth who think it is good to keep one selves updated on the same. We all know what we lack but we preserve what we think we cannot lose. We all celebrate the freedom of spirit and this is exactly what this day stands for!&lt;br&gt;Grab your favorite movie, cozy yourself up in the blanket, go take the liberty to make endless status updates about the Indian Republic on Facebook, call that long-lost friend of yours (for real!), do something for the poor, let the aged feel that they are wanted and loved, watch that Republic Day parade on television like you have always done – whatever we do, we are Desi at heart. After all, if given a choice, we would not want to be born in some different country! Such is the affinity, such is the patriotism.
+&lt;/p&gt;
+&lt;p&gt; Wish you all a very&lt;b&gt; Happy Republic Day&lt;/b&gt;!&lt;/p&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>150</Viewed>
+  <TemplateName />
+  <URL>100-percent-desi-indians</URL>
+</Article>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>147</ID>
+  <Title>Use Every Day Objects For Better</Title>
+  <OGImage>http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/5.jpg</OGImage>
+  <OGDescription>Lifechanging Ways To Use Everyday Objects</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>19</Category>
+  <Tag>Re-cycle, Do it your self</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/5.jpg' alt='' /&gt;&lt;p&gt;Lifechanging Ways To Use Everyday Objects&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;button id="prevslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+        font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+        padding: 0px; background-color: transparent;'&gt;
+        &amp;lsaquo;
+    &lt;/button&gt;
+    &lt;button id="nextslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+        font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+        padding: 0px; background-color: transparent;'&gt;
+        &amp;rsaquo;
+    &lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="slideshow" style="padding-left: 5%; padding-right: 5%; text-align: center; width:100%;"&gt;
+    &lt;div class="slide"&gt;
+        &lt;h4&gt;
+            Use a can opener to open sealed plastic packaging.&lt;/h4&gt;
+        &lt;h5&gt;
+            This tip would save approximately 22.8 hours of your life.&lt;/h5&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/1.jpg"
+            title="Use A Car Opener" alt="" class="center" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;h4&gt;
+            Add saline solution to refresh dried-out mascara.
+        &lt;/h4&gt;
+        &lt;h5&gt;
+            Just a couple of drops will do.&lt;/h5&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/2.jpg"
+            title="Add Saline to Dried Out Mascara" alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Use a toilet seat cover to blot the oil from a greasy face.&lt;/h4&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/3.jpg"
+            title="Use Toilet Paper" alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Use pretty wine corks to make planters for tiny succulents.&lt;/h4&gt;
+        &lt;h5&gt;
+            Put magnets on them and hang them on your fridge. Instructions &lt;a href="http://www.everafterblueprint.com/2012/02/15/projects-you-should-totally-do-tiny-succulant-cork-planters/"&gt;
+                here&lt;/a&gt;&lt;/h5&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/4.jpg"
+            title="Pretty Wine Corks" alt="" style="height: 600px;" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Amplify the volume of your iPhone or iPod by placing it in a bowl.&lt;/h4&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/5.jpg"
+            title="Use a Bowl" alt=""&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Use paper hole reinforcements to give yourself a half-moon manicure.&lt;/h4&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/6.jpg"
+            title="Half Moon Manicure" alt="" style="height: 600px;" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Use a banana to fix a DVD.&lt;/h4&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/7.jpg"
+            title="Fix a DVD" alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Use Jello as a lipstain.&lt;/h4&gt;
+        &lt;h5&gt;
+            Directions: Pour the powder mix into a bowl and moisten a Q-Tip with water. Then,
+            being very careful not to use your fingers since the red stains stay put, dip the
+            Q-Tip into the powder and apply it directly to your lips.&lt;/h5&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/8.jpg"
+            title="Use Jello" alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Use diluted fabric softener as a leave-in hair conditioner.&lt;/h4&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/9.jpg"
+            title="Use Fabric Softener" alt="" style="height: 600px;" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Use a lint roller to clean out the debris in your handbag.&lt;/h4&gt;
+        &lt;h5&gt;
+            I am the queen of cookie crumbs in my handbag.&lt;/h5&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/10.jpg"
+            title="Use a Lint Roller" alt="" style="height: 600px;" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Use nonstick spray on the inside of your votive holders.&lt;/h4&gt;
+        &lt;h5&gt;
+            When the candle has burned out, the remaining wax will just slip out.&lt;/h5&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/11.jpg"
+            title="Use Non Stick Spray" alt="" style="height: 600px;" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Eat marshmallows to soothe a sore throat.&lt;/h4&gt;
+        &lt;h5&gt;
+            There's a scientific explanation behind this. (You can also use marshmallows to
+            separate your toes during a home pedicure.)&lt;/h5&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/12.jpg"
+            title="Eat Marshmallows" alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Use newspaper as an odor absorber.&lt;/h4&gt;
+        &lt;h5&gt;
+            You can put it in Tupperware, or the crisper bin of your fridge, or in a purse with
+            any lingering leather smells.&lt;/h5&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/13.jpg"
+            title="Use Newspaper" alt="" style="height: 600px;" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Use aspirin to turn hair made green by chlorine back to its natural color.&lt;/h4&gt;
+        &lt;h5&gt;
+            Dissolve six to eight aspirin pills in a glass of warm water, coat hair with the
+            solution, let it sit for 10 to 15 minutes, then rinse.&lt;/h5&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/14.jpg"
+            title="Use Aspirin" alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Use a rubber band for perfect French tips.&lt;/h4&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/17.jpg"
+            title="Use A Rubber Band" alt="" style="height: 600px;" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Hang a picture using a pop tab.&lt;/h4&gt;
+        &lt;h5&gt;
+            The pop tab is surprisingly sturdy.&lt;/h5&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/18.jpg"
+            title="Hang a Picture" alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Use VapoRub to train your pets.&lt;/h4&gt;
+        &lt;h5&gt;
+            Apply VapoRub on things you don't want chewed up or peed on by your cat or dog —
+            they're turned off by the taste and smell. It also supposedly cures toenail fungus.&lt;/h5&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/19.jpg"
+            title="Use Vapo Rub" alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Use mayonnaise to erase water stains from wooden furniture.&lt;/h4&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/20.jpg"
+            title="Use Mayonnaise" alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Use fabric softener and vinegar in a spray bottle to release wrinkles from clothing.&lt;/h4&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/21.jpg"
+            title="Fabric Softener and Vinegar" alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Use a cereal container as a trash disposal in your car.&lt;/h4&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/22.jpg"
+            title="Use a Cereal Container" alt="" style="height: 600px;" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Add a few drops of vodka and a teaspoon of sugar to make cut flowers last longer.&lt;/h4&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/23.jpg"
+            title="Use Vodka" alt="" style="height: 600px;" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Use Alka-Seltzer to clean your toilet.&lt;/h4&gt;
+        &lt;h5&gt;
+            Drop a couple tablets in, wait 20 minutes. The citric acid will dissolve the grime.&lt;/h5&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/24.jpg"
+            title="Use Alka-Seltzer" alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Use hand sanitizer to dissolve ink stains.&lt;/h4&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/25.jpg"
+            title="Use Hand Sanitizer" alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Use (unscented) dental floss to cut soft cheeses and cakes.&lt;/h4&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/26.jpg"
+            title="Use Dental Floss" alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Pack your shoes in a shower cap to keep the soles from touching your clothes.&lt;/h4&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/27.jpg"
+            title="Use your Shower Cap" alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Use raw spaghetti strands to light hard-to-reach candle wicks.&lt;/h4&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/28.jpg"
+            title="Use Raw Spaghetti" alt="" style="height: 600px;" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Use Earl Grey teabags to get rid of a sunburn.&lt;/h4&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/29.jpg"
+            title="Use Earl Grey " alt="" style="height: 600px;" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Use mustard to suck the pain out of a burn.&lt;/h4&gt;
+        &lt;h5&gt;
+            But also, don't put your hand on a boiling kettle.&lt;/h5&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/30.jpg"
+            title="Use Mustard" alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Rub the cut edge of cheese with some butter to keep it from getting moldy.&lt;/h4&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/31.jpg"
+            title="Save Cheese" alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Use Scotch tape or nail polish to relieve an insect bite.&lt;/h4&gt;
+        &lt;h5&gt;
+            Blocking oxygen from getting into the bite will stop the itching.&lt;/h5&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/32.jpg"
+            title="No More Insect Bites" alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Use a blow-dryer on a mirror to clear the steam after a hot shower.&lt;/h4&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/33.jpg"
+            title="Use a Blow Dryer" alt="" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;h4&gt;
+            Throw baking soda on a burgeoning grease fire.&lt;/h4&gt;
+        &lt;h5&gt;
+            It works much like a powder fire extinguisher. But don't use water, baking powder
+            or flour, as it's likely to make the fire even bigger.&lt;/h5&gt;
+        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Life-Changing-Ways-to-use-every-day-objects/34.jpg"
+            title="Use Baking Soda" alt="" /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <WriterName>Raj Kiran Singh</WriterName>
+  <WriterEmail>rajkiran.singh@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>WideBlogTemplate</TemplateName>
+</Article>

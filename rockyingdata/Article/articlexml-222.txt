@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Quiz 4: The Mothers of Bollywood</Title>
+  <MetaTitle>Quiz 4: The Mothers of Bollywood</MetaTitle>
+  <OGImage>//www.rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Taare-Zameen-Par-Bollywood-Mothers.jpg</OGImage>
+  <OGDescription>Times will change so will the Bollywood mothers but one thing that will persist is their motherhood. Long live mommies! Which mother do you think rocks the most?</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Quiz, Bollywood Quiz, Mothers of Bollywood, Hindi Cinema, Movies.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Taare-Zameen-Par-Bollywood-Mothers.jpg' alt='' /&gt;&lt;p&gt;Times will change so will the Bollywood mothers but one thing that will persist is their motherhood. Long live mommies! Which mother do you think rocks the most?&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px;  height:40px;
+            font-size: 50px; font-weight: 100; color: #000; border: none; text-align: center; margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px;height:40px;
+            font-size: 50px; font-weight: 100; color: #000;border: none; text-align: center;margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="slideshow"&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Cheeni-Kum-1.jpg"
+                        alt="Cheeni Kum" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Who played Amitabh Bachchan’s mother in R. Balki’s Cheeni kum?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" value="correct" name="q1" onclick="ValidateAnswer(this);" /&gt;
+                                    Zohra Sehgal
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q1" onclick="ValidateAnswer(this);" /&gt;
+                                    Achla Sachdev
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q1" onclick="ValidateAnswer(this);" /&gt;
+                                    Tabu
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q1" onclick="ValidateAnswer(this);" /&gt;
+                                    Waheeda Rehman
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Balraj-Sahni-Waqt-2.jpg"
+                        alt="Balraj Sahni Waqt" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            On which actress was the famous song “Ae meri zohra jabeen” picturised?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q2" onclick="ValidateAnswer(this);" /&gt;
+                                    Nirupa Roy
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q2" onclick="ValidateAnswer(this);" /&gt;
+                                    Nanda
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" value="correct" name="q2" onclick="ValidateAnswer(this);" /&gt;
+                                    Achla Sachdev
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q2" onclick="ValidateAnswer(this);" /&gt;
+                                    Nutan
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Koi-Mil-Gaya-3.jpg"
+                        alt="Koi Mil Gaya" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Who played the role of Hritik Roshan`s mother in the 2003 sci-fi Koi Mil Gaya?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q3" onclick="ValidateAnswer(this);" /&gt;
+                                    Smita Jayakar
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q3" onclick="ValidateAnswer(this);" /&gt;
+                                    Jaya Bachchan
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q3" onclick="ValidateAnswer(this);" /&gt;
+                                    Kirron Kher
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q3" value="correct" onclick="ValidateAnswer(this);" /&gt;
+                                    Rekha
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Taare-Zameen-Par-4.jpg"
+                        alt="Taare Zameen Par" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Name the child artist to whom Tisca Chopra played mother in a film produced by Aamir
+                            Khan?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q4" onclick="ValidateAnswer(this);" /&gt;
+                                    Rubina Ali
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q4" onclick="ValidateAnswer(this);" /&gt;
+                                    Ayesha Kapoor
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q4" value="correct" onclick="ValidateAnswer(this);" /&gt;
+                                    Darsheel Safary
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q4" onclick="ValidateAnswer(this);" /&gt;
+                                    Azhar abbas
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Jaya-Bachchan-Kal-Ho-na-ho-5.jpg"
+                        alt="Kal Ho Na Ho" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            In which of these films does Jaya Bachchan play mother to Preity Zinta?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q5" onclick="ValidateAnswer(this);" /&gt;
+                                    Lakshya
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q5" value="correct" onclick="ValidateAnswer(this);" /&gt;
+                                    Kal Ho Na Ho
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q5" onclick="ValidateAnswer(this);" /&gt;
+                                    Veer Zaara
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q5" onclick="ValidateAnswer(this);" /&gt;
+                                    Koi... Mil Gaya
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/veer-zaara-Shahrukh-6.jpg"
+                        alt="Veer Zaara Shahrukh Khan Yash Chopra" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Who played Shah Rukh Khan’s mother in Veer Zaara?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q6" onclick="ValidateAnswer(this);" /&gt;
+                                    Reema Lagoo
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q6" onclick="ValidateAnswer(this);" /&gt;
+                                    Jaya Bachchan
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q6" onclick="ValidateAnswer(this);" /&gt;
+                                    Rekha
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q6" value="correct" onclick="ValidateAnswer(this);" /&gt;
+                                    Hema Malini
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Shahrukh-And-Kajol-In-My-Name-Is-Khan-7.jpg"
+                        alt="Shahrukh and Kajol in My Name Is Khan" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Who played mother to the Asperger disordered Rizwan in My Name Is Khan?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q7" onclick="ValidateAnswer(this);" /&gt;
+                                    Rekha
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q7" onclick="ValidateAnswer(this);" /&gt;
+                                    Kiron Kher
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" value="correct" name="q7" onclick="ValidateAnswer(this);" /&gt;
+                                    Zareena Wahab
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q7" onclick="ValidateAnswer(this);" /&gt;
+                                    Farida Jalal
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Preity-Zinta-Kya-Kehna-8.jpg"
+                        alt="Preity Zinta Kya Kehna" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            In which of these films did Preity Zinta play an unwed mother?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q8" value="correct" onclick="ValidateAnswer(this);" /&gt;
+                                    Kya Kehna
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q8" onclick="ValidateAnswer(this);" /&gt;
+                                    Soldier
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q8" onclick="ValidateAnswer(this);" /&gt;
+                                    Veer Zaara
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q8" onclick="ValidateAnswer(this);" /&gt;
+                                    Dil Se
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Kajol-9.jpg"
+                        alt="Kajol" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            In which of these movies has Kajol not played the role of a mother?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q9" onclick="ValidateAnswer(this);" /&gt;
+                                    Dil Kya Kare
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q9" onclick="ValidateAnswer(this);" /&gt;
+                                    U, Me Aur Hum
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                   &lt;input type="radio" name="q8" value="correct" onclick="ValidateAnswer(this);" /&gt;
+                                    Baazigar
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q9" onclick="ValidateAnswer(this);" /&gt;
+                                    My Name Is Khan
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Hritik-Roshan-10.jpg"
+                        alt="Hritik Roshan" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Preity Zinta is Hritik's mother in which of the following films?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q10" onclick="ValidateAnswer(this);" /&gt;
+                                    Koi Mil Gaya
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q10" value="correct" onclick="ValidateAnswer(this);" /&gt;
+                                    Krrish
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q10" onclick="ValidateAnswer(this);" /&gt;
+                                    Mission Kashmir
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q10" onclick="ValidateAnswer(this);" /&gt;
+                                    Lakshya
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Om-Jai-Jagdish-Waheeda-Rehman-11.jpg"
+                        alt="Om Jai Jagdish Qaheeda Rehman" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Waheeda Rehman played mother to Anil Kapoor in which of the following films?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q11" onclick="ValidateAnswer(this);" /&gt;
+                                    Nayak
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q11" onclick="ValidateAnswer(this);" /&gt;
+                                    Tezaab
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q11" value="correct" onclick="ValidateAnswer(this);" /&gt;
+                                    Om Jai Jagdish
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q11" onclick="ValidateAnswer(this);" /&gt;
+                                    Laadla
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/khamoshi-Manisha-12.jpg"
+                        alt="Khamoshi Manisha Koerala" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Who played the deaf-mute mother of Annie in Sanjay Bhansali’s Khamoshi: The Musical?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q12" onclick="ValidateAnswer(this);" /&gt;
+                                    Hema Malini
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q12" onclick="ValidateAnswer(this);" /&gt;
+                                    Waheeda Rehman
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q12" onclick="ValidateAnswer(this);" /&gt;
+                                    Helen
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q12" value="correct" onclick="ValidateAnswer(this);" /&gt;
+                                    Seema Biswas
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Devdas-Shahrukh-Smita-13.jpg"
+                        alt="Devdas Shahrukh Smita" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Who played Devdas’ mother in the 2002 film of the same name?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" value="correct" name="q13" onclick="ValidateAnswer(this);" /&gt;
+                                    Smita Jayakar
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q13" onclick="ValidateAnswer(this);" /&gt;
+                                    Kirron Kher
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q13" onclick="ValidateAnswer(this);" /&gt;
+                                    Hema Malini
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q13" onclick="ValidateAnswer(this);" /&gt;
+                                    Waheeda Rehman
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Hritik-Jodhaa-Akbar-14.jpg"
+                        alt="Hritik Jodhaa Akbar" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Which famous star wife played Hritik's mother in Jodhaa Akbar?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q14" onclick="ValidateAnswer(this);" /&gt;
+                                    Suhasini Mulay
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q14" onclick="ValidateAnswer(this);" /&gt;
+                                    Ila Arun
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q14" onclick="ValidateAnswer(this);" /&gt;
+                                    Seema Biswas
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input value="correct" type="radio" name="q14" onclick="ValidateAnswer(this);" /&gt;
+                                    Poonam Sinha
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Mother-India-Nargis-Raaj-Kumar-15.jpg"
+                        alt="Mother India Nargis Raaj Kumar" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            In which famous Hindi classic Nargis as mother kills his son Birju?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q15" onclick="ValidateAnswer(this);" /&gt;
+                                    Shree 420
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q15" onclick="ValidateAnswer(this);" /&gt;
+                                    Barsaat
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" value="correct" name="q15" onclick="ValidateAnswer(this);" /&gt;
+                                    Mother India
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q15" onclick="ValidateAnswer(this);" /&gt;
+                                    Andaz
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/urmila-masoom-16.jpg"
+                        alt="Urmila Masoom" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            In which movie Shabana Azmi played mother to child artist Urmila?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q16" onclick="alert('We dont know the answer :( Write your answer in the comments. '); ValidateAnswer(this);" /&gt;
+                                    Sparsh
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q16" onclick="alert('We dont know the answer :( Write your answer in the comments. '); ValidateAnswer(this);" /&gt;
+                                    Arth
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q16" onclick="alert('We dont know the answer :( Write your answer in the comments. '); ValidateAnswer(this);" /&gt;
+                                    Masoom
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q16" onclick="alert('We dont know the answer :( Write your answer in the comments. '); ValidateAnswer(this);" /&gt;
+                                    Fire
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Vaastav-Sanjay-Dutt-17.jpg"
+                        alt="Vaastav Sanjay Dutt" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            The mother kills his gangster son and redeems him from the web of underworld. Who
+                            played the character?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q17" onclick="ValidateAnswer(this);" /&gt;
+                                    Farida Jalaal
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q17" onclick="ValidateAnswer(this);" /&gt;
+                                    Rakhee Gulzar
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" value="correct" name="q17" onclick="ValidateAnswer(this);" /&gt;
+                                    Reema Lagoo
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q17" onclick="ValidateAnswer(this);" /&gt;
+                                    Arundhati Nag
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/tabu-hu-tu-tu-18.jpg"
+                        alt="Vaastav Sanjay Dutt" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            Who played the role of Tabu’s mother in the political Hu Tu Tu?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q18" onclick="ValidateAnswer(this);" /&gt;
+                                    Shabana Azmi
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q18" onclick="ValidateAnswer(this);" /&gt;
+                                    Kiron Kher
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q18" onclick="ValidateAnswer(this);" /&gt;
+                                    Hema Malini
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" value="correct" name="q18" onclick="ValidateAnswer(this);" /&gt;
+                                    Suhasini Mulay
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Prithvi-raj-kapoor-Mughal-e-azam-19.jpg"
+                        alt="Prithvi Raj Kapoor Mughal-E-Azam" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            The famous periodic Mughal-e-Azam had the empress Jodhabai’s character in it. It
+                            was played by?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q19" onclick="ValidateAnswer(this);" /&gt;
+                                    Achla sachdev
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q19" onclick="ValidateAnswer(this);" /&gt;
+                                    Nirupa Roy
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q19" onclick="ValidateAnswer(this);" /&gt;
+                                    Meena Kumari
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" value="correct" name="q19" onclick="ValidateAnswer(this);" /&gt;
+                                    Durga Khote
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="row-fluid"&gt;
+                &lt;div class="offset1 span5"&gt;
+                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Golmaal-1979-20.jpg"
+                        alt="Golmaal 1979" /&gt;
+                &lt;/div&gt;
+                &lt;div class="span6"&gt;
+                    &lt;div class="question"&gt;
+                        &lt;h5&gt;
+                            In the 1979 Golmaal, Ramprasad (Amol Palekar)hires a fake mother to meet his boss
+                            played by Utpal Dutt. Who played the mother?&lt;/h5&gt;
+                        &lt;ul class="options"&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q20" onclick="ValidateAnswer(this);" /&gt;
+                                    Lalita Pawar
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" value="correct" name="q20" onclick="ValidateAnswer(this);" /&gt;
+                                    Dina Pathak
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q20" onclick="ValidateAnswer(this);" /&gt;
+                                    Zohra Sehgal
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label class="radio"&gt;
+                                    &lt;input type="radio" name="q20" onclick="ValidateAnswer(this);" /&gt;
+                                    Durga Khote
+                                &lt;/label&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+&lt;h5&gt;Times will change so will the Bollywood mothers but one thing that will persist is their motherhood. Long live mommies! &lt;/h5&gt;&lt;h5&gt;Which mother do you think rocks the most?&lt;/h5&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <WriterName>Digant Kumar</WriterName>
+  <WriterEmail>digantkumar@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>222</URL>
+</Article>

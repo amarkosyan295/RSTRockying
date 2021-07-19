@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>qbJQqlFRbrgf</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>hpdFjcinS</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>27</Category>
+  <Tag>JfwEvlAfUlfo</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;hpdFjcinS&lt;/p&gt;</Description>
+  <Text>&amp;lt;a href=&amp;quot; http://propecia247.com/# &amp;quot;&amp;gt;propecia without prescription&amp;lt;/a&amp;gt; where to buy finasteride
+cheap generic propecia - http://propecia247.com</Text>
+  <WriterName>yhPrPqTikLfTfwkc</WriterName>
+  <WriterEmail>sdksdjsdhjji@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>qbjqqlfrbrgf</URL>
+</Article>

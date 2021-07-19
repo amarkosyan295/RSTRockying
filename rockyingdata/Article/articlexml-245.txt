@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>11 All Time Best Bollywood Comedies!</Title>
+  <OGImage>http://www.rockying.com/art/bollywood/Bollywood-Comedies-Contest-Entry-1/Padosan.jpg</OGImage>
+  <OGDescription>Comedy is serious business. In fact, it is no child’s play for film makers to tickle the funny bone of a multitude and yet laugh all the way to the...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Article Writing Contest Entry #1, Bollywood Comedies, Comedy Classics, Hera Pheri, Chashme Buddoor, Andaz Apna Apna, Half Ticket, 3 Idiots</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Bollywood-Comedies-Contest-Entry-1/Padosan.jpg' alt='' /&gt;&lt;p&gt;Comedy is serious business. In fact, it is no child’s play for film makers to tickle the funny bone of a multitude and yet laugh all the way to the...&lt;/p&gt;</Description>
+  <Text>&lt;H4&gt;Comedy, No Laughing Matter!&lt;/h4&gt;
+&lt;p&gt;
+    Comedy is serious business. In fact, it is no child’s play for film makers to tickle
+    the funny bone of a multitude and yet laugh all the way to the bank. Bollywood history
+    is replete with comic capers that have left an indelible impression for the sheer
+    command exhibited in this genre. Real comedy is not banana peel or double entendre
+    type. Humor is that sparkling wit that makes its point sans being gross or hurting
+    viewer sensibilities. Here's my list of flicks that have it ingested in them. Read on:&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h3&gt;
+            Half Ticket&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Bollywood-Comedies-Contest-Entry-1/Half-Ticket.jpg" alt="Half Ticket"/&gt;
+        &lt;p&gt;
+            Kishore Kumar was actor -filmmaker with his pulse on this form of entertainment.
+            His screen-presence was enough to light up the screen and if proceedings peaked,
+            then time to roll in the aisles. Half Ticket was comedy cinema par excellence and
+            even those of us not from that time, can retrace steps to the Black and White era
+            when faces and mannerisms conveyed a lot, encompassing each viewer on a amusing
+            rollercoaster ride with that singularly catchy sensation in the stomach.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h3&gt;
+            Chalti Ka Naam Gadi&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Bollywood-Comedies-Contest-Entry-1/chalti-ka-naam-gaadi.jpg" alt="Chalti ka Naam Gadi"/&gt;
+        &lt;p&gt;
+            Chalti Ka Naam Gadi was an enjoyable long-drive in the company of the funniest trio
+            of the Kumar Brothers. Not a moment went by when audience faces did not sport a
+            laugh or at least a genuine smirk watching this frisky frolic.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h3&gt;
+            Padosan&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Bollywood-Comedies-Contest-Entry-1/Padosan.jpg" alt="Padosan"/&gt;
+        &lt;p&gt;
+            Similarly, Padosan is another personal choice for the absolute madness that went
+            in the name of comedy. Here is a bunch of dim-wit characters that ran the show and
+            what a show it was! Director Jyoti Swaroop proved his intelligence in this humor-infused
+            saga that even today is flagship for Bollywood comedies that would live on even
+            after each viewer has seen it second-time round!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h3&gt;
+            Bombay To Goa&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Bollywood-Comedies-Contest-Entry-1/Bombay-To-Goa..jpg" alt="Bombay to Goa"/&gt;
+        &lt;p&gt;
+            Bombay To Goa another colossal has immense rerun value for its rib-tickling moments
+            and seems as funny when watched for the nth time as when first viewed. A gawky Bachchan
+            (not particularly at the helm of proceedings) proves his mark where a cauldron of
+            funny characters is etched against the backdrop of a bus trip. Here was a film that
+            had a certain joie de vivre never mind if there was no story to speak of.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h3&gt;
+            Chupke Chupke&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Bollywood-Comedies-Contest-Entry-1/chupke-chupke.jpg" alt="Chupke Chupke"/&gt;
+        &lt;p&gt;
+            Veteran craftsman Hrishikesh Mukherjee’s 1975 film Chupke Chupke is a work of art,
+            landmark; given the absolute sincerity with which a simple tale has been executed
+            with master dexterity. Who can forget the dialogues exchanged in chaste Hindi between
+            Om Prakash and Dharmendra which when seen even today guarantee a gudd-guddi in my
+            insides. Chances are each of you has seen it already, else, please do not miss this
+            gem and I bet you will giggle like a bunch of giddy-headed schoolgirls.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h3&gt;
+            Golmaal&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Bollywood-Comedies-Contest-Entry-1/Golmaal.jpg" alt="Golmaal"/&gt;
+        &lt;p&gt;
+            Another masterpiece under the baton of Hrishi da, is Golmaal (1979) the finest predecessor
+            to the Rohit Shetty string of the Golmaal series. The annals of Bollywood comedy
+            films cannot be written without mention of this classic which held its own in an
+            era when action was king and the ‘angry young man’ phenomenon had the country in
+            it’s firm grip. Here came a film, poised and composed, introducing the nation to
+            a variety that was refreshingly engaging. Its impact was such that till date it
+            is one of its kind and inspiration to several film-makers in the years that followed.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h3&gt;
+            Angoor&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Bollywood-Comedies-Contest-Entry-1/Angoor.jpg" alt="Angoor"/&gt;
+        &lt;p&gt;
+            My personal favorite, which I consider finest among the best, is definitely Gulzar’s
+            1982 magnum opus Angoor. This laughathon based on Shakespeare’s ‘A Comedy of Errors’
+            did not have a single dull split second-- a million brilliant cascading moments
+            each interwoven beautifully to produce a hilarious tapestry! It has the distinctive
+            quality of Dresden China among several other comedy biggies which simply pale into
+            comparison. The finesse of script, dialogues, and performances made this one a top-notch
+            cine goers’ glee!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h3&gt;
+            Chashme Buddoor&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Bollywood-Comedies-Contest-Entry-1/chashme-buddoor.jpg" alt="Chashme-buddoor"/&gt;
+        &lt;p&gt;
+            An excellent story-teller though much-underrated, Sai Paranjpe made a few ‘hat ke’
+            films among them one with five-star comic relief rating Chashme Buddoor in 1981.
+            Shorn off a star-cast, this film scored on sheer ingenuity and simplicity with which
+            the story unfolded. Such a film belongs to the once-in-a-while category and certainly
+            deserves a golden mention here.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h3&gt;
+            Andaz Apna Apna&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Bollywood-Comedies-Contest-Entry-1/andaz_apna_apna.jpg" alt="Andaz apna apna"/&gt;
+        &lt;p&gt;
+            ‘Ghayal’ director Raj Kumar Santoshi known for his action films tackled something
+            not done earlier with Andaz Apna Apna in 1994 and what a diversion it proved on
+            his highway that had never sported a ‘comic stop’. The calling card of this lilting
+            light-headed breezy film was excellent screen presence of the two Khans—Aamir and
+            Salman being in their comic elements. Even today, I would rate it as a masterpiece
+            deserving earnest applause.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h3&gt;
+            Hera Pheri&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Bollywood-Comedies-Contest-Entry-1/Hera-Pheri.jpg" alt="Hera Pheri"/&gt;
+        &lt;p&gt;
+            Ace director Priyadarshan has to his credit the inimitable Hera Pheri which adequately
+            brought out the comic timing of Khiladi Kumar, Akshay. It even made non-actor Suniel
+            Shetty emote with a degree of intensity not to speak of the doyen of several comedies
+            Paresh ‘Peerless’ Rawal. Another film from the same director Hungama also deserves
+            mention here for its laugh-a-minute eminence.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+&lt;hr&gt;
+        &lt;h3&gt;
+            3 Idiots&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Bollywood-Comedies-Contest-Entry-1/3-idiots.jpg" alt="3 Idiots"/&gt;
+        &lt;p&gt;
+            Recently, Rajkumar Hirani’s 3 Idiots has surpassed all records, emerging as one
+            come to stay as benchmark of quality comedy. Several loopholes in the education
+            system were dealt with a tinge, nay loads of hilarity. One almost overlooked the
+            fact that Aamir Khan was essaying the role of a college student busy as we were
+            concentrating on each nuance of the finest of fine in every department, be it acting,
+            music, cinematography, etc.&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+    There are scores of films worth mentioning like Jaane Bhi Do Yaaron, Khosla ka Ghosla, Chachi 420, Hungama, Do Phool, Munnabhai MBBS, Chup Chup
+    Ke, Bheja Fry and even the Golmaal series to some extent but they come lower
+    on the rating ladder though my choice is subjective and open to discussion. Seems
+    I’ve been bitten by the comic bug and yes, I am! In fact, I could just go on and
+    on because this is one genre that helps a viewer unwind at nominal cost of a film
+    ticket. It also reflects creativity and resourcefulness of a film-maker who designs
+    a successful comedy.&lt;/p&gt;
+&lt;p&gt;
+    Here’s a toast to these tour de force films! May we have more directors willing
+    to explore newer avenues to keep the banner of comedy flying high! Hail Comedy!
+&lt;/p&gt;
+&lt;p class="well"&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Bollywood-Comedies-Contest-Entry-1/Mehek-Mahtani.JPG" class="pull-left"/&gt;
+&lt;b&gt;About the Author:&lt;/b&gt; A post-graduate from Ness Wadia College of Commerce, Pune; she was adjudged the Best Student of the Year. She is a home-maker currently living in Kolkata. Writing is her passion, with several of her articles featured in magazines. A positive person who believes in living every moment of life with vim and vigor. &lt;br&gt;
+She shares her creative instincts at her blog &lt;a href="http://meheksniche.wordpress.com/" target="_blank"/&gt;&lt;i&gt;&lt;b&gt; Mehek's Niche &lt;/b&gt;&lt;/i&gt;&lt;/a&gt;. She can be followed on &lt;a href="https://twitter.com/MehekMahtani" target="_blank"/&gt;twitter&lt;/a&gt; and befriended on &lt;a href="http://www.facebook.com/mehekrmahtani?fref=ts" target="_blank"/&gt; facebook&lt;/a&gt;. She has written &lt;a href="http://www.rockying.com/a/246?title=10-best-female-centric-films-of-bollywood&amp;ref=alistv"&gt; two&lt;/a&gt; articles for us.&lt;/a&gt;
+&lt;/p&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Mehek Mahtani</WriterName>
+  <WriterEmail>mehek_mahtani@yahoo.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

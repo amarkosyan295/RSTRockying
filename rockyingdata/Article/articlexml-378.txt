@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>आधुनिक राग; भारतीय शास्त्रीय संगीत और सिनेमा का संगम</Title>
+  <OGImage>http://www.rockying.com/art/bollywood/Most-Funny-Songs/Bhor-Ai-Gaya-Andhiyara-Bawarchi-2.jpg</OGImage>
+  <OGDescription>Raaga, the magical blend of Indian classical music and Indian Cinema...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>1</Category>
+  <Tag>Indian Classical Music, Bollywood,</Tag>
+  <Status>Inactive</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Most-Funny-Songs/Bhor-Ai-Gaya-Andhiyara-Bawarchi-2.jpg' alt='' /&gt;&lt;p&gt;Raaga, the magical blend of Indian classical music and Indian Cinema...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+
+सरगम के सात स्वर- सा, रे, गा, मा, पा , धा , नी, जो मिलकर बन जाते हैं- राग। राग, भारतीय शास्त्रीय संगीत का आधार, उसकी आत्मा है।  
+
+&lt;b&gt;पंडित लक्ष के. पंडित&lt;/b&gt;- हमारा संगीत जो है वो दुनिया में सबसे अलग, यूनिक संगीत है।  यहाँ हम राग गाते हैं।  राग याने स्वरों की विशिष्ट रचना।  जोकि जनचित्त को आकर्षित करे, मधुर लगे , उसे राग कहते हैं।  
+
+भारतीय शास्त्रीय संगीत का सम्पूर्ण सार राग में ही निहित है।  राग और ताल मिलकर शास्त्रीय संगीत को पूर्ण करते हैं।  राग को गाने का ढंग ही उसे रूप प्रदान करता है, जिससे वह तुरंत ही पहचान में आ जाता है।  राग का अर्थ है रंग, यानी राग हमारे जीवन में रंग भरता है- सुख के, दुःख के, प्रेम के।राग कोई गीत नहीं है बल्कि यह अनगिनत गीतों का आधार बन सकता है।  भारतीय फिल्मों में शास्त्रीय संगीत का विशेष स्थान है। 40 से 70 तक के दशक की फिल्मों में शास्त्रीय संगीत पर आधारित गीतों की रचना की गई है। के. एल. सहगल, मन्ना दे और रफ़ी के गए गीतों को सुना जाए तो पता चलता है कि शास्त्रीय संगीत कितना अधिक प्रयोग में लाया गया है।  
+
+&lt;b&gt;सावनी मुदगल&lt;/b&gt;-  इंडियन क्लासिकल म्यूजिक ममरी जो हिंदी फिल्में हैं, उनमे भी काफी उसको प्रयोग में लाया गया है। जैसे पुरानी फ़िल्में अगर  देखेँ, इनफैक्ट उसमे ज़्यादा होता था , कई गानें राग पर आधारित होते थे, कइयों में बड़े-बड़े सितार वादक , संतूर वादक , बांसुरी वादक -इन लोगों ने भी बजाया है, जो बड़े क्लासिकल आर्टिस्ट हैं। तो उनकी भी कोई कम्पोजीशन सुनके ऐसा लगता है जैसे, ये राग भैरवी में है, मायने ऐसे भी कोई रचना हो सकती है जो लाइट म्यूजिक में गिनी जाती हो ?
+
+&lt;b&gt;जगदीप सिंह बेदी&lt;/b&gt;- पुरानी आप फ़िल्में देखेंगे तो उसमेस जागो मोहन प्यारे करके जो गाना है लताजी का वो भैरव राग पर आधारित है।  मन तड़पत हरी दर्शन को आज, रफ़ी जी गया हुआ -ये मालकौंस राग पर आधारित है।  ऐसे दरबारी राग में भी कई सारे गीत हैं।  
+
+पिछले दो दशकों में शास्त्रीय संगीत का प्रयोग हिंदी फिल्मों में काम ज़रूर हुआ है पर ख़त्म नहीं हुआ।  उदाहरण के तौर पर 
+
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6uurfLMwnqY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</Text>
+  <WriterName>Preeti Singh Chauhan</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>raga-the-blend-of-indian-classical-music-and-indian-cinema-deleted</URL>
+</Article>

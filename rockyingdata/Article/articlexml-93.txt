@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>93</ID>
+  <Title>Books On The Big Screen: 1</Title>
+  <MetaTitle>Hollywood movies based on novels &amp; books</MetaTitle>
+  <OGImage>//www.rockying.com/art/HOllywood/Movies%20on%20Books%20I/lord%20of%20the%20rings%20movie.jpg</OGImage>
+  <OGDescription>As soon as books become bestsellers and sell like hotcakes; the race to make it into a movies and there are several hollywood movies based on novels and books.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>12</Category>
+  <Tag>Hollywood Movies made On Books, Hollywood Movies adapted from Books</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/HOllywood/Movies%20on%20Books%20I/lord%20of%20the%20rings%20movie.jpg' alt='' /&gt;&lt;p&gt;As soon as books become bestsellers and sell like hotcakes; the race to make it into a movies and there are several hollywood movies based on novels and books.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    After giving our recommendation on the &lt;a href="//www.rockying.com/a/63"&gt;
+        dialogues
+        of Hollywood
+    &lt;/a&gt; another interesting Hollywood trend to be noted is the craze
+    of turning bestsellers into reel versions!
+&lt;/p&gt;
+&lt;p&gt;
+    As soon as books become bestsellers and sell like hotcakes; the race to make it
+    into a movie starts and people wonder who will play the lead and whether it will
+    match their “imaginations” which they’ve made while reading their favorite authors.
+&lt;/p&gt;
+&lt;p&gt;
+    Here are some of our favorites; books that still remain a pleasure to read and movies
+    based on them that capture the essence of the words beautifully.
+&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            THE SHAWSHANK REDEMPTION
+        &lt;/h5&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/HOllywood/Movies%20on%20Books%20I/shawshank_redemption%20-%20book.jpg"
+                 alt="Shawshank Redemption The Book" style="width: 238px;" class="pull-left" /&gt;
+            &lt;img src="//rockying.com/art/HOllywood/Movies%20on%20Books%20I/shawshank%20redemption%20-%20movie.jpg"
+                 alt="Shawshank Redemption" style="width: 250px;" class="pull-right" /&gt;
+            Based on Stephen King’s novella titled “Rita Hayworth and the Shawshank Redemption”;
+            this movie received a mild reception at the box office but went on to be nominated
+            for seven Academy Awards and since then has been a movie lover's favorite. It tells
+            the story of Andrew Dufresne who is sent to Shawshank prison for the murder of his
+            wife, for which he claims innocence. As expected he has to face the harsh reality
+            of life in prison. But he ultimately makes the final call and after twenty years,
+            changes the course of events according to his own terms.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            SLUMDOG MILLIONAIRE
+        &lt;/h5&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/HOllywood/Movies%20on%20Books%20I/slumdog%20millionaire%20-%20book.jpg"
+                 alt="Q &amp;amp; A The Book" style="height: 250px;" class="pull-left" /&gt;
+            &lt;img src="//rockying.com/art/HOllywood/Movies%20on%20Books%20I/slumdog%20millionaire%20-%20movie.jpg"
+                 alt="Slumdog Millionaire" style="width: 250px;" class="pull-right" /&gt;
+            The 2008 blockbuster was an adaptation of Vikas Swarup’s Q &amp;amp; A. It went on the
+            to be one of the biggest blockbusters and bagged ten Academy Award nominations and
+            also the Best Movie of the year. A boy makes it to the hot seat of the Indian version
+            of “Who Wants to be a Millionaire”. Knowing all the answers he reaches the last
+            question and is arrested under suspicions of cheating and while being interrogated
+            the story traces his life and how life experiences are directly related to each
+            question.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            NO COUNTRY FOR OLD MEN
+        &lt;/h5&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/HOllywood/Movies%20on%20Books%20I/no%20country%20for%20old%20men%20-%20movie.jpg"
+                 alt="No Country for Old Men" style="width: 170px;" class="pull-right" /&gt;
+            &lt;img src="//rockying.com/art/HOllywood/Movies%20on%20Books%20I/no%20country%20for%20old%20men%20-%20book.jpg"
+                 alt="No Country For Old Men The Book " style="height: 250px;" class="pull-left" /&gt;Based
+            on Cormic McCarthy’s novel of the same name, the crime thriller which won the Best
+            Movie of the year at the 80th Academy Awards. It follows the run and chase after
+            a hunter stumbles upon some dead bodies, heroin and more than two million dollars
+            in cash. As thrilling to watch as to read.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            THE LORD OF THE RING: THE RETURN OF THE KING
+        &lt;/h5&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/HOllywood/Movies%20on%20Books%20I/lord%20of%20the%20rings%20book.jpg"
+                 alt="Lord Of the Rings The Book" style="height: 250px;" class="pull-left" /&gt;
+            &lt;img src="//rockying.com/art/HOllywood/Movies%20on%20Books%20I/lord%20of%20the%20rings%20movie.jpg"
+                 alt="Lord of the Rings" style="height: 250px;" class="pull-right"&gt;How
+            can a movie lover not watch Lord of the Ring and just adore every moment of it.
+            Based on the third and the fourth volumes of J.R.R. Tolkien’s The Lord of the Rings;
+            this movie not only impressed the Academy and took the Best Picture, but also was
+            a huge success at the box office - becoming the highest-grossing film and a huge
+            financial success. Also, this is the first and the only Fantasy Film winning an
+            Academy Award for the Best Picture.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            FORREST GUMP
+        &lt;/h5&gt;
+        &lt;p class="clearfix"&gt;
+            &lt;img src="//rockying.com/art/HOllywood/Movies%20on%20Books%20I/forrest%20gump%20-%20book.jpg"
+                 alt="Winston Groom Forrest Gump and Company" style="height: 250px;" class="pull-left" /&gt;
+            &lt;img src="//rockying.com/art/HOllywood/Movies%20on%20Books%20I/forrest%20gump%20-%20movie.jpg"
+                 alt="Forrest Gump" style="height: 250px;" class="pull-right" /&gt;I just
+            cannot do a list article without including Forrest Gump. Based on Winston Groom’s
+            novel of the same name, Forrest Gump became the highest grossing movie in the year
+            of its release. Winning a total of six Academy Awards; the movie just went on to
+            prove its mettle everywhere. The movie follows the life of Forrest, a person who
+            is not so bright according to the intelligence scales, but just moves on in life
+            successfully and is present at the most historic events. However, his true love
+            Jenny eludes him all along.
+        &lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+    Though nothing beats the joy of reading a book, seeing your favorite words portrayed on the big screen. Some people like the portrayal but some say that it is not what they “imagined”. But the thin line between imagination and the real book is somewhat covered by the books.
+&lt;/p&gt;
+&lt;p&gt;
+    So, as long as there are books, there will be movies on them. Do tell us what your favorite books are and whether you would love to see them in movies? Or has your favorite book been “converted” to the big screen as yet? Loved it, hated it? We would love to see your views in the comment box below!
+&lt;/p&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>93</URL>
+</Article>

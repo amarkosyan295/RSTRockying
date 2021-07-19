@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Monsoon Fashion</Title>
+  <MetaTitle>Monsoon Fashion</MetaTitle>
+  <OGImage>//rockying.com/art/Lifestyle/Fashion/monsoon-clothing/hooded-raincoat.jpg</OGImage>
+  <OGDescription>If you have your hands full and want to have it all in one, then go for a hooded raincoat. Saves you the trouble of having to carry an umbrella and you have your hands free!</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>16</Category>
+  <Tag>Fashion, Hooded-Raincoat, Flip Flops, Monsoon wear, Water Proof Watches, Gumboots.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/Lifestyle/Fashion/monsoon-clothing/hooded-raincoat.jpg' alt='' /&gt;&lt;p&gt;If you have your hands full and want to have it all in one, then go for a hooded raincoat. Saves you the trouble of having to carry an umbrella and you have your hands free!&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    That time of the year again - yes, when it is raining cats and dogs. There are puddles
+    to braved over, there is water everywhere and not all of it is wanted! So, how does
+    one manage to step out for work, for college and still manage to look fashionable
+    while trying to save yourself from the water and still make comfort the priority!
+&lt;/p&gt;
+&lt;p&gt;
+    Rockying looks at some of the most fashionable monsoon essentials that will make
+    you look super cool and keep it trendy, fun and comfortable! Remember, to mix and
+    match according to the requirements - varying from a drizzle to a heavy downpour.
+&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            Rain Boots / Gumboots&lt;/h5&gt;
+        &lt;img src="//rockying.com/art/Lifestyle/Fashion/monsoon-clothing/gum-boots-collage.jpg"
+            alt="" /&gt;&lt;p&gt;
+                When there is a heavy downpour and you have to walk through; then rain boots are
+                your answer. Though they might be a little uncomfortable and might feel heavy; they
+                will keep your feet dry. Given the condition of Indian roads and the polluted water
+                all around, rain boots seem the perfect solution for a walkthrough. Get yourself
+                a pair and make walking around easier! Make sure you pick out bright colors to brighten
+                up your day!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            Umbrellas&lt;/h5&gt;
+        &lt;img src="//rockying.com/art/Lifestyle/Fashion/monsoon-clothing/red-umbrellas.jpg"
+            alt="" /&gt;&lt;p&gt;
+                The staple of the rainy season. Make sure you have something that is large yet easily
+                foldable! Large because they will be people who might step by under your umbrella
+                if there is a heavy downpour and foldable because you can store it easy. Be extra
+                careful that your umbrella is sturdy and doesn’t blow off if there is a little strong
+                wind!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            Keep it short&lt;/h5&gt;
+        &lt;img src="//rockying.com/art/Lifestyle/Fashion/monsoon-clothing/shorts-umb.jpg"
+            alt="" /&gt;&lt;p&gt;
+                Yes, though many people say you should go for denim and leggings on rainy day; we
+                would say, keep it short if possible. There is nothing worse than a big blotch of
+                a puddle on your pants. And then, having to go through the whole day with wet pants!
+                Opting for shorter skirts, capris, knee length dresses or just denim shorts for
+                a casual day might be a much better choice to go with.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            Trench coat&lt;/h5&gt;
+        &lt;img src="//rockying.com/art/Lifestyle/Fashion/monsoon-clothing/trench-coat.jpg"
+            alt="" /&gt;&lt;p&gt;
+                If it’s a heavy downpour and a little chilly, then trench coats are a must have.
+                Not only they help in keeping you dry, they will keep your clothes from getting
+                dirty. Choose coats that drape well (not too tight nor too loose) and that are longer
+                than regular leather jackets.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            Waterproof Bags&lt;/h5&gt;
+        &lt;img src="//rockying.com/art/Lifestyle/Fashion/monsoon-clothing/Water-proof-backpack.jpg"
+            alt="" /&gt;&lt;p&gt;
+                You are going to be carrying a lot - your wallet, your umbrella and maybe an extra
+                pair of leggings just in case. And one common mishap is when you realize that your
+                bag got wet due to the rain and everything inside it is also wet and spoilt! Save
+                yourself time and energy and go out with a nylon tote maybe. They provide the space
+                and don’t absorb water.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            Waterproof Watches&lt;/h5&gt;
+        &lt;img src="//rockying.com/art/Lifestyle/Fashion/monsoon-clothing/water-proof-watches.jpg"
+            alt="" /&gt;&lt;p&gt;
+                Another neglected essential. The careful way to be is to make sure your watch is
+                waterproof while buying it. Quite a lot of watches now come with that ease, so it
+                shouldn’t be difficult.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            Color&lt;/h5&gt;
+        &lt;img src="//rockying.com/art/Lifestyle/Fashion/monsoon-clothing/wet-white-clothes.jpg"
+            alt="" /&gt;&lt;p&gt;
+                Though many people choose to stick to black and grey; there is no reason why you
+                shouldn’t add a dash of color to your ensemble. Another thing to be kept in mind
+                is stay away from white - probably something your mom told you a million times!
+                There is nothing that gets dirtier easily. Mud marks, splashes and just a bad downpour
+                can make you look dirty if dressed in white. Keep away!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            Hooded Raincoats&lt;/h5&gt;
+        &lt;img src="//rockying.com/art/Lifestyle/Fashion/monsoon-clothing/raincoat.jpg"
+            alt="" /&gt;
+        &lt;p&gt;
+            If you have your hands full and want to have it all in one, then go for a hooded
+            raincoat. Saves you the trouble of having to carry an umbrella and you have your
+            hands free!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            Flip flops&lt;/h5&gt;
+        &lt;img src="//rockying.com/art/Lifestyle/Fashion/monsoon-clothing/flip-flopping-in-the-rain.jpg"
+            alt="" /&gt;&lt;p&gt;
+                Though they might be a little uncomfortable if there is too much water on the roads;
+                flip flops make the perfect wear for a walk through a light drizzle. Not only are
+                they very affordable, they are waterproof and dry easy! Coming in various colors
+                and many styles, flip flops make the perfect footwear.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            Go light on the makeup&lt;/h5&gt;
+        &lt;img src="//rockying.com/art/Lifestyle/Fashion/monsoon-clothing/make-up-in-rain.jpg"
+            alt="" /&gt;&lt;p&gt;
+                You don’t want to look like you have walked out of a horror movie. Either opt for
+                waterproof kajals and mascaras or go light. Too much foundation can get greasy.
+                If you dare, then go for the natural clean look during the rain!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            Tie up your mane&lt;/h5&gt;
+        &lt;img src="//rockying.com/art/Lifestyle/Fashion/monsoon-clothing/hair-trouble-collage.jpg"
+            alt="" /&gt;&lt;p&gt;
+                Monsoon is definitely not the best time to let your hair loose. Hair tends to get
+                frizzy during the weather. Keep it dry and well moisturized and tie it up in loose
+                braids or just a simple ponytail. If you are the daring then cut it short! Check out for our recommendations for &lt;a href="http://www.rockying.com/a/181"&gt;pixie hair this monsoon&lt;/a&gt; . &lt;/p&gt;
+&lt;p&gt;&lt;h5&gt; We have all longed for these rains, enjoy them to the fullest while taking good care of your self by following these simple tips and not letting any thing hinder the fun. &lt;/h5&gt;&lt;/p&gt; 
+    &lt;/li&gt;
+&lt;/ol&gt;</Text>
+  <WriterName>Hajra</WriterName>
+  <WriterEmail>hjaraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>196</URL>
+</Article>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>The Reason for Divorce :)</Title>
+  <OGImage>http://www.rudrasofttech.com/rockying/art/Story/turtle-divorce1.jpg</OGImage>
+  <OGDescription>A judge was interviewing a woman regarding her pending divorce, and asked, What are the grounds for your divorce?</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>23</Category>
+  <Tag>Joke</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;p&gt;A judge was interviewing a woman regarding her pending divorce, and asked, What are the grounds for your divorce?...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;A judge was interviewing a woman regarding her pending divorce, and asked, What are the grounds for your divorce?&lt;/p&gt;
+&lt;p&gt;She replied, About four acres and a nice little home in the middle of the property with a stream running by.&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;No, he said, I mean what is the foundation of this case?&lt;/p&gt;
+&lt;p&gt;It is made of concrete, brick and mortar, she responded.&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;I mean, he continued, What are your relations like?&lt;/p&gt;
+&lt;p&gt;I have an aunt and uncle living here in town, and so do my husband's parents.&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;He said, Do you have a real grudge?&lt;/p&gt;
+&lt;p&gt;No, she replied, We have a two-car carport and have never really needed one.&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;Please, he tried again, is there any infidelity in your marriage?&lt;/p&gt;
+&lt;p&gt;Yes, both my son and daughter have stereo sets. We don't necessarily like the music, but the answer to your questions is yes.&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;Ma'am, does your husband ever beat you up?&lt;/p&gt;
+&lt;p&gt;Yes, she responded, about twice a week he gets up earlier than I do.&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;Finally, in frustration, the judge asked, Lady, why do you want a divorce?&lt;/p&gt;
+&lt;p&gt;Oh, I don't want a divorce, she replied. I've never wanted a divorce. My husband does. He said he can't communicate with me!&lt;/p&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Vratika</WriterName>
+  <WriterEmail>vratika@rudrasofttech.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

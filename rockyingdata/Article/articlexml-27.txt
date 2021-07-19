@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>27</ID>
+  <Title>Famous Personalities Who passed away in 2011.</Title>
+  <OGImage>sample</OGImage>
+  <OGDescription>sample</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <Category>10</Category>
+  <Tag>Personalities,2011</Tag>
+  <Status>Inactive</Status>
+  <Description>&lt;ol&gt;&lt;li&gt;&lt;strong&gt;Dennis Ritchie&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Ken Olsen&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Paul Baran&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Jacob Goldman&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;John McCarthy&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;John R. Opel &lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Ashawna Hailey&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Jean Bartik&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Nobutoshi Kihara&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Robert Galvin&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Charles Walton&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Ref&amp;nbsp; Link - http://www.wired.com/wiredenterprise/2011/12/11-who-died-in-2011-and-werent-steve-jobs/?utm_source=Contextly&amp;amp;utm_medium=RelatedLinks&amp;amp;utm_campaign=Previous&amp;amp;pid=32&lt;br&gt;&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;Initial content&lt;/p&gt;</Text>
+  <WriterName>Preeti Singh</WriterName>
+  <WriterEmail>preeti.singh@rudrasofttech.com</WriterEmail>
+</Article>

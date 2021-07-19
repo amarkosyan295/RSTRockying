@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Groom Crying At His Wedding</Title>
+  <OGImage>http://img.youtube.com/vi/DE4E77nF8Mg/0.jpg</OGImage>
+  <OGDescription>Dulhe Raja roone lage</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>27</Category>
+  <Tag>Wedding, Funny, Groom Crying</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://img.youtube.com/vi/DE4E77nF8Mg/0.jpg' alt='' /&gt;&lt;p&gt;Dulhe Raja roone lage&lt;/p&gt;</Description>
+  <Text>&lt;iframe width="640" height="480" src="//www.youtube.com/embed/DE4E77nF8Mg?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</Text>
+  <WriterName>Raj Kiran Singh</WriterName>
+  <WriterEmail>rajkiran.singh@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+</Article>

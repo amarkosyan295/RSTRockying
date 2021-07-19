@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>The Best from the Animated Movie World ; THE Beginners Guide to Watching Hollywood Animation</Title>
+  <OGImage>http://www.rockying.com/art/bollywood/100-Years-of-Indian-Cinema/Alam-Ara.jpg</OGImage>
+  <OGDescription>cj;ljcCPK</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>12</Category>
+  <Tag>Hollywood Movies, Animation, Hollywood Animation.</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/bollywood/100-Years-of-Indian-Cinema/Alam-Ara.jpg' alt='' /&gt;&lt;p&gt;cj;ljcCPK&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+&lt;/p&gt;
+
+&lt;hr&gt;
+        &lt;h3&gt;1. Alladin (1992)&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src=""/&gt;
+        &lt;p&gt;
+
+        &lt;/p&gt;
+
+&lt;hr&gt;
+        &lt;h3&gt;2. The Lion King (1994)&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src=""/&gt;
+        &lt;p&gt;
+
+        &lt;/p&gt;
+
+&lt;hr&gt;
+        &lt;h3&gt;3. Toy Story (1995)&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src=""/&gt;
+        &lt;p&gt;
+
+        &lt;/p&gt;
+
+&lt;hr&gt;
+        &lt;h3&gt;3. Shrek (2001)&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src=""/&gt;
+        &lt;p&gt;
+
+        &lt;/p&gt;
+
+&lt;hr&gt;
+        &lt;h3&gt;4.  &lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src=""/&gt;
+        &lt;p&gt;
+
+        &lt;/p&gt;</Text>
+  <WriterName>Rockying</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>the-best-from-the-animated-movie-world-the-beginners-guide-to-watching-hollywood-animation</URL>
+</Article>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>59</ID>
+  <Title>Eight Easy Tips To Grab That "25th" Hour In Your Day</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Initiative/time_juggling.jpg</OGImage>
+  <OGDescription>Organise your day to spare out hours for nothing but your own self...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>14</Category>
+  <Tag>Save time  for your self.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://rudrasofttech.com/rockying/art/Initiative/time_juggling.jpg' alt='' /&gt;&lt;p&gt;Organise your day to spare out hours for nothing but your own self...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Initiative/time_juggling.jpg" title="Time Juggling" alt="" style="width: 245px; float: left; height: 316px;"&gt;&lt;b&gt;W&lt;/b&gt;e
+ do what not to realize our dreams? Work hard and harder by the day. But
+ what is it that doesn't let it happen? Yes, the lack in consistency and
+ planning.&lt;/p&gt;&lt;p&gt;Read on to find out how you could organize yourself to 
+achieve that long awaited dream of yours and still have time for 
+yourself:&amp;nbsp; &lt;br&gt;&lt;/p&gt;&lt;p&gt;1) &lt;b&gt;RISE EARLY&lt;/b&gt; - Probably the oldest advice 
+one can give. Believe it or not it still holds true, even in this world 
+of 24X7 routines. Rise Early, you will have at least 2-3 hours in spare 
+:).&lt;br&gt;&lt;br&gt;2) &lt;b&gt;EXERCISE&lt;/b&gt; - Any good day should always start with a 
+simple body flexing routine. You don’t need to build muscles just a 
+small walk round the block would do. Exercise will help you focus and 
+get rid of that early morning sloth.&lt;br&gt;&lt;br&gt;3)&lt;b&gt; STOP MULTI-TASKING&lt;/b&gt;
+ - Absolutely forbidden!!! DO NOT Multi-task. However, at times you 
+might develop a great degree of desire to do multiple things at a time, 
+but don’t give in to it. To help you realize, why you should not 
+multi-task, here is a small game to play. &lt;br&gt;&lt;i&gt;Take two pieces of 
+paper start writing table of 7 in one and 13 in another. Keep doing it 
+till multiples reach at 30. Don’t forget, you have to write tables 
+alternately, like 7 X 1 then 13 X 1, then 7 X 2 then 13 X 2 and so on. 
+You will agree with me, once you try doing the same with one table at a 
+time.&lt;/i&gt;&lt;br&gt;&lt;br&gt;4) &lt;b&gt;MAKE A TO-DO LIST&lt;/b&gt; - Always make one. You 
+don’t have to write everything but definitely mention the most important
+ ones. At the end of the day, a successfully tick marked list will give 
+you a sense of satisfaction, an unchecked one will give you reasons to 
+try harder or at least organize better.&lt;br&gt;&lt;img style="width: 200px; float: right; height: 288px;" title="Time" alt="" src="http://rudrasofttech.com/rockying/art/Initiative/Time-is-Running.jpg"&gt;&lt;br&gt;5) &lt;b&gt;MAKE A MUST TO-DO LIST &lt;/b&gt;- This should be made in bold letter and red ink. These are your unavoidable day to day tasks.&lt;br&gt;&lt;br&gt;6) &lt;b&gt;“ME ONLY” TIME&lt;/b&gt;-
+ Keep an hour or two just for yourself in your day. This way you won’t over spend with yourself, but always have enough for you as well.&lt;br&gt;&lt;br&gt;7) &lt;b&gt;DON’T DO ANYTHING WHILE YOU ARE EATING&lt;/b&gt;-
+ Eat when you eat, keep the work away. Grab a buddy or partner sit with 
+him/her and have that much awaited delectable meal of yours. Don’t 
+discuss anything, just savor the food. Remember, it’s one of the basic necessities of life and it’s got to be satisfying.&lt;br&gt;&lt;br&gt;8) &lt;b&gt;MAKE SHORT TERM (DAILY) GOALS &lt;/b&gt;-
+ Every day goals help you focus on things you want to do most, in life. 
+Goals are not to-dos, instead they are your achievable and measurable 
+steps which help you climb the ladder of success to your long term 
+ventures.&lt;br&gt;&lt;br&gt;&lt;/p&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Raj Kiran Singh</WriterName>
+  <WriterEmail>rajkiran.singh@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

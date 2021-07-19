@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Love and penalty</Title>
+  <MetaTitle>Love and penalty</MetaTitle>
+  <OGImage />
+  <OGDescription>Two young couple were in love each other.They both were students and had true feelings. But the girl didn't know about the past of the boy. They made up their mind to meet.At that time, Kate was shot by the boss whom Sam worked secretly and flew away</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>30</Category>
+  <Tag>Love, mafia, hackers, suspense, death.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='' alt='' /&gt;&lt;p&gt;Two young couple were in love each other.They both were students and had true feelings. But the girl didn't know about the past of the boy. They made up their mind to meet.At that time, Kate was shot by the boss whom Sam worked secretly and flew away&lt;/p&gt;</Description>
+  <Text>People were said to reveal the thought that Katy and Sam were created to live together happily.They were a young couple met a year ago suddenly on the plane...
+15th March, 2017. An airplane was supposed to fly from Florida to Paris.Sam was going home-suddenly made up his mind to arrive to his hometown. As usual he was surfing the Internet for latest news.When he rose his head,he just saw a cute dark-haired lady coming to him.She was quite a pretty girl that he couldn't help staring at her.After some time passed,the plane began flying.The environment on plane was so quiet: everyone was obsessed with themselves.A quick glance to a young woman tortured him,so he couldn't look at her because of his shyness.
+Following this,a stewardess brought coffee to her,yet it spilled to Sam's shirt.A young lady said sorry and began cleaning with shivering,at that time a true love gave birth.During arrival,they talked about their interests,likes,dislikes and were in love at first sight.
+From then on,they were always together.Both of them were students.The most interestingly,their fields of study were different.This paved the way to teach their subjects to each other and become closer day by day.
+5.am .Sam undesirably tried to open his eyes and remembered:oops,today's Katy's exam! She asked him to support her before it started.Run quickly or else she becomes angry with you! A Valentine boy got dressed a.s.a.p and ran.Fortunately,he was on time.She was waiting for him,looking at everywhere searching him,suddenly glancing at a close face- he came! He hugged his darling and wished good luck.She happily went to take her test.Sam was so grateful that his significant other was the only pretty girl in the world! Thinking about her,he suddenly noticed that someone was observing him.He couldn't find the person while looking back.It seemed to him as if he would be killed in next days...
+For several days,Sam was unsure what to do.He thought to flee away and begin his life from the beginning.Everything was almost ready to leave until I he found his meaning of life.He couldn't dare leave his darling alone.He now couldn't live without her! Oh,Sam,what did you do? You were prohibited to fall in love actually.You can bring harm to her.But,her only smile is a cure to his survival.
+They both planned to meet in the park.Both were fortunate,flying like in the seventh planet.Sam saw her from further distances.He couldn't believe that he w as worth being loved.Coming nearer..As soon as he saw her coming,he was strangely upset from something.Why is everything becoming better and better? He thought that too much happiness might break their true feelings in a second.He made up his mind to buy flowers to her.Immediately passing through the road,he bought attractive flowers.Returned back and waited for the traffic ham to stop.At the another part of the road,his love was waiting for him.Wow, several distances to reach her! Actually,farther places separate most couples,he thought.But,at th a time a black Bugatti stopped near Kate and shot her simultaneously! He lost his sight,dropped the flowers and ran to her nevertheless.Following this,he was quickly hit by a large truck.
+Observing the incident,a negro reported immediately to their head boss.Boss smiled and added:The consequence is always ruthless..
+Living his last seconds,Tom wished he had never joined to hacker's team.If he hadn't stolen the other amount of money,he wouldn't have been hunted .If he hadn't tried to flee to Paris,his penalty would have been somehow easier.And if he hadn't met Kate,she would never have lain dead now.</Text>
+  <WriterName>Gulrukh</WriterName>
+  <WriterEmail>missteacherguli@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>love-and-penalty</URL>
+</Article>

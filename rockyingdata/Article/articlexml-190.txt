@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Youngest Billionaires in the World</Title>
+  <OGImage>http://www.rudrasofttech.com/rockying/art/internet/youngest-billionaires-in-the-world-2012/2-mark-zuckerberg.jpg</OGImage>
+  <OGDescription>Youngest Billionaires in the World</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>20</Category>
+  <Tag>Richest, People, Billionaire</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rudrasofttech.com/rockying/art/internet/youngest-billionaires-in-the-world-2012/2-mark-zuckerberg.jpg' alt='' /&gt;&lt;p&gt;Youngest Billionaires in the World&lt;/p&gt;</Description>
+  <Text>&lt;div class="carousel"&gt;
+    &lt;a class="carousel-control left previousslide" href="Javascript:return false;"&gt;&amp;lsaquo;&lt;/a&gt;
+    &lt;a class="carousel-control right nextslide" href="Javascript:return false;"&gt;&amp;rsaquo;&lt;/a&gt;
+    &lt;div class="slideshow" style="padding: 0px 60px 0px 60px;"&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="clearfix"&gt;
+                &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/youngest-billionaires-in-the-world-2012/1-Dustin-Moskovitz.jpg"
+                    alt="Dustin Moskovitz" class="pull-left" style="width: 500px;" /&gt;
+                &lt;h3&gt;
+                    #1 Dustin Moskovitz&lt;/h3&gt;
+                &lt;h4&gt;
+                    Age: 27&lt;br /&gt;
+                &lt;/h4&gt;
+                &lt;h4&gt;
+                    Net Worth $3.5 B as of March 2012&lt;br /&gt;
+                &lt;/h4&gt;
+                &lt;h4&gt;
+                    Source of Wealth: Facebook, self-made&lt;br /&gt;
+                &lt;/h4&gt;
+                &lt;p&gt;
+                    Dustin Moskovitz is an American billionaire internet entrepreneur who co-founded
+                    the social networking website Facebook along with Mark Zuckerberg, Eduardo Saverin
+                    and Chris Hughes. In 2008, he left Facebook to co-found Asana with Justin Rosenstein.
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="clearfix"&gt;
+                &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/youngest-billionaires-in-the-world-2012/2-mark-zuckerberg.jpg"
+                    alt="Mark Zuckerberg" class="pull-left" style="width: 500px;" /&gt;
+                &lt;h3&gt;
+                    #2 Mark Zuckerberg&lt;/h3&gt;
+                &lt;h4&gt;
+                    Age: 27&lt;br /&gt;
+                    Net Worth $17.5 B&lt;br /&gt;
+                    Source of Wealth: Facebook, self-made
+                &lt;/h4&gt;
+                &lt;p&gt;
+                    Mark Elliot Zuckerberg is an American computer programmer and Internet entrepreneur.
+                    He is best known as one of four co-founders of the social networking site Facebook.
+                    Zuckerberg is the chairman and chief executive of Facebook, Inc.
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="clearfix"&gt;
+                &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/youngest-billionaires-in-the-world-2012/3-Albert%20Prinz-von-Thurn-und-Taxis.jpg"
+                    alt="Albert Prinz von Thurn und Taxis" class="pull-left" style="width: 500px;" /&gt;
+                &lt;h3&gt;
+                    Albert Maria Lamoral Miguel Johannes Gabriel&lt;/h3&gt;
+                &lt;h4&gt;
+                    Age: 28&lt;/h4&gt;
+                &lt;h4&gt;
+                    Net Worth: $1.5 billion&lt;/h4&gt;
+                &lt;h4&gt;
+                    Source of wealth: Diversified&lt;/h4&gt;
+                &lt;br /&gt;
+                &lt;p&gt;
+                    Albert Maria Lamoral Miguel Johannes Gabriel, 12th Prince of Thurn and Taxis (or,
+                    legally, Albert Prinz von Thurn und Taxis; born 24 June 1983 in Regensburg, Bavaria,
+                    Germany) is a German aristocrat. He has been listed as the world's youngest billionaire
+                    many times since his father's death in 1990. He first appeared on the list when
+                    he was age eight. His mother, Gloria (née Gräfin von Schönburg-Glauchau), was a
+                    popular media figure in the 1980s, and was instrumental in preserving his fortune
+                    until he was old enough to inherit it. He has two older sisters: Maria Theresia
+                    and Elisabeth.
+                &lt;/p&gt;
+                &lt;a href="http://en.wikipedia.org/wiki/Albert,_12th_Prince_of_Thurn_and_Taxis" target="_blank"&gt;
+                    more on Wikipedia&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="clearfix"&gt;
+                &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/youngest-billionaires-in-the-world-2012/4-scott-duncan.jpg"
+                    alt="Scott Duncan" class="pull-left" style="width: 500px;" /&gt;
+                &lt;h3&gt;
+                    Scott Duncan&lt;/h3&gt;
+                &lt;h4&gt;
+                    Age: 29&lt;br /&gt;
+                    Net Worth: $4.1 billion&lt;br /&gt;
+                    Source of Wealth: Pipelines
+                &lt;/h4&gt;
+                &lt;p&gt;
+                    Scott Duncan is one of four children of the late energy pipeline entrepreneur Dan
+                    Duncan, founder of Enterprise Products. Scott Duncan added $1 billion to his fortune
+                    in the last year as the company's share price climbed 24%. His father, the former
+                    richest man in Houston, died in 2010 at age 77. He grew up poor and formed Enterprise
+                    Products with two trucks in 1968, selling door to door.
+                &lt;/p&gt;
+                &lt;a href="http://www.forbes.com/profile/scott-duncan/" target="_blank"&gt;more on Forbes&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="clearfix"&gt;
+                &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/youngest-billionaires-in-the-world-2012/5-Eduardo-Saverin.jpg"
+                    alt="Eduardo Saverin" class="pull-left" style="width: 500px;" /&gt;
+                &lt;h3&gt;
+                    Eduardo Saverin&lt;/h3&gt;
+                &lt;h4&gt;
+                    Age: 30&lt;br /&gt;
+                    Net Worth: $2 billion&lt;br /&gt;
+                    Source of Wealth: Facebook, self-made&lt;/h4&gt;
+                &lt;p&gt;
+                    Eduardo Luiz Saverin (born March 13, 1982;) is a Brazilian internet entrepreneur
+                    and investor.Saverin is one of four co-founders of Facebook, along with Mark Zuckerberg,
+                    Dustin Moskovitz, and Chris Hughes. As of 2012, he owns less than 5% of Facebook's
+                    shares and has a net worth of $2 billion, according to Forbes. He has also invested
+                    in early-stage startups such as Qwiki and Jumio.&lt;/p&gt;
+                &lt;a href="http://en.wikipedia.org/wiki/Eduardo_Saverin" target="_blank"&gt;more on Wikipedia&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="clearfix"&gt;
+                &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/youngest-billionaires-in-the-world-2012/6-yang-huiyan.jpg"
+                    alt="Yang Huiyan" class="pull-left" style="width: 500px;" /&gt;
+                &lt;h3&gt;
+                    Yang Huiyan&lt;/h3&gt;
+                &lt;h4&gt;
+                    Age: 30&lt;br /&gt;
+                    Net Worth: $4.7 billion&lt;br /&gt;
+                    Source of Wealth: real estate&lt;/h4&gt;
+                &lt;br /&gt;
+                &lt;p&gt;
+                    Yang Huiyan (born 1981) is the majority shareholder of Country Garden Holdings and
+                    one of the wealthiest people in Mainland China, with an estimated net worth of $7.4
+                    billion USD as of March 2009. She is the daughter of Yang Guoqiang, who started
+                    his company Biguiyuan in 1997 and transferred 70% of Country Garden's shares to
+                    her before its IPO in 2007. The wealthiest mainland Chinese in the previous year,
+                    2006, was Huang Guangyu. Country Garden's initial offering raised about $1.6 billion,
+                    or as much as Google raised in 2004 in the United States. Yang's net worth was estimated
+                    at $16.2 billion USD in October 2007. Yang is a 2003 graduate of The Ohio State
+                    University.
+                &lt;/p&gt;
+                &lt;a href="http://en.wikipedia.org/wiki/Yang_Huiyan" target="_blank"&gt;source Wikipedia&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="clearfix"&gt;
+                &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/youngest-billionaires-in-the-world-2012/7-fahd-hariri.jpg"
+                    alt="Fahd Hariri" class="pull-left" style="width: 500px;" /&gt;
+                &lt;h3&gt;
+                    Fahd Hariri&lt;/h3&gt;
+                &lt;h4&gt;
+                    Age: 31&lt;/h4&gt;
+                &lt;h4&gt;
+                    Net Worth: $1.3 billion&lt;/h4&gt;
+                &lt;h4&gt;
+                    Source of Wealth: construction, investments&lt;/h4&gt;
+                &lt;br /&gt;
+                &lt;p&gt;
+                    Fahd Hariri is the youngest son of slain Lebanese Prime Minister Rafic Hariri. He's
+                    lived in Paris, where he got a degree in architecture. While still a student, he
+                    opened an interior design studio on the outskirts of the city, and sold furniture
+                    to clients in Saudi Arabia. He's now developing residential buildings in Beirut.
+                &lt;/p&gt;
+                &lt;a href="http://www.forbes.com/profile/fahd-hariri/" target="_blank"&gt;more on Forbes&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="clearfix"&gt;
+                &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/youngest-billionaires-in-the-world-2012/8-sean-parker.jpg"
+                    alt="Sean Parker" class="pull-left" style="width: 500px;" /&gt;
+                &lt;h3&gt;
+                    Sean Parker&lt;/h3&gt;
+                &lt;h4&gt;
+                    Age: 32&lt;br /&gt;
+                    Net Worth: $2.1 billion&lt;br /&gt;
+                    Source of Wealth: Facebook, self-made&lt;/h4&gt;
+                &lt;br /&gt;
+                &lt;p&gt;
+                    Sean Parker was Facebook's first president. He co-founded Napster, a free online
+                    music service, along with Shawn Fanning. After several oppositions and lawsuits
+                    from the recording industry, Napster was ordered to shut down.&lt;/p&gt;
+                &lt;p&gt;
+                    Parker is currently planning to launch Airtime, the social video site, with Shawn
+                    Fanning by the end of 2012. He is also looking to fix the very music industry he
+                    helped break with Napster as an investor and board member of Swedish music platform,
+                    Spotify.&lt;/p&gt;
+                &lt;a href="http://www.forbes.com/profile/sean-parker/" target="_blank"&gt;more on Forbes&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="clearfix"&gt;
+                &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/youngest-billionaires-in-the-world-2012/9-ayman-hariri.jpg"
+                    alt="Ayman Hariri" class="pull-left" style="width: 500px;" /&gt;
+                &lt;h3&gt;
+                    Ayman Hariri&lt;/h3&gt;
+                &lt;h4&gt;
+                    Age: 33&lt;br /&gt;
+                    Net Worth: $1.3 billion&lt;br /&gt;
+                    Source of Wealth: construction, investment&lt;/h4&gt;
+                &lt;br /&gt;
+                &lt;p&gt;
+                    Ayman Hariri is the second-youngest son of slain Lebanese Prime Minister Rafik Hariri,
+                    who left behind a fortune now shared by his five children. On the board of Saudi
+                    Oger, he has overseen mega construction projects such as the Princess Noura Bint
+                    Abdulrahman University for Women, and the King Abdullah Financial District, both
+                    in Saudi Arabia.&lt;/p&gt;
+                &lt;a href="http://www.forbes.com/profile/ayman-hariri/" target="_blank"&gt;more on Forbes&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;div class="clearfix"&gt;
+                &lt;img src="http://www.rudrasofttech.com/rockying/art/internet/youngest-billionaires-in-the-world-2012/10-Robert-Pera.jpg"
+                    alt="Robert Pera" class="pull-left" style="width: 500px;" /&gt;
+                &lt;h3&gt;
+                    Robert Pera&lt;/h3&gt;
+                &lt;h4&gt;
+                    Age: 34&lt;br /&gt;
+                    Net Worth: $1.5 billion&lt;br /&gt;
+                    Source of Wealth: Ubiquiti Networks, self-made&lt;/h4&gt;
+                &lt;p&gt;
+                    This is a screenshot of ubiquiti networks, a next-generation communications technology
+                    company founded by Robert Pera in 2005. The Apple hardware engineer turned wireless
+                    networking entrepreneur, struck out on his own in 2005 with the goal of bringing
+                    affordable internet access to the world's emerging markets.&lt;/p&gt;
+                &lt;p&gt;
+                    Six years later, Pera became a billionaire when his Ubiquiti Networks went public
+                    in October 2011.&lt;/p&gt;
+                &lt;a href="http://www.forbes.com/profile/robert-pera/" target="_blank"&gt;more on Forbes&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <SlideShowOn>true</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Vratika Singh</WriterName>
+  <WriterEmail>vratika@rudrasofttech.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

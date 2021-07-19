@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>समय से पहले नहीं पकेंगे बाल: आँवला और उसके प्राकृतिक उपयोग</Title>
+  <OGImage>http://www.rockying.com/art/health/Home-made-Remedies/gooseberry-1.jpg</OGImage>
+  <OGDescription>Use Aamla in these Ayurvedic remedies to treat all your hair problems including pre-mature...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>आँवला, आयुर्वेद , आयुर्वेदिक उपचार, प्राकृतिक इलाज, बालों का असमय सफ़ेद होना, Pre-mature Graying, Home-Remedies, No Side Effects.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/health/Home-made-Remedies/gooseberry-1.jpg' alt='' /&gt;&lt;p&gt;Use Aamla in these Ayurvedic remedies to treat all your hair problems including pre-mature...&lt;/p&gt;</Description>
+  <Text>&lt;h2&gt;बालों का समय से पहले सफ़ेद होना (Pre-mature Graying of Hair) &lt;/h2&gt;
+&lt;img src="http://www.rockying.com/art/health/Home-made-Remedies/Pre-mature-Graying.jpg" alt="Pre-Mature-Graying of Hair" title="Pre-mature graying of Hair" class="pull-right" style="padding-left:10px;"&gt;
+&lt;p&gt;
+हमारी मम्मियों के बाल शायद अभी भी सफ़ेद न हुए हों। आप विश्वास नहीं करेंगे पर जब मेरी नानी की डेथ हुई थी तो उनके ज़्यादातर बाल काले थे. हाँ वाक़ई ! मेरी तो, इन फैक्ट, सारी फ्रेंड्स अभी से ही कलर करती हैं और वो सिर्फ शौक़िया नहीं, उनके बाल असल में सफ़ेद होने लगे थे। और अब तो हर महीने का उनका ये एक बड़ा ख़र्चा है। तो क्या वजह है कि हमारे, जान से प्यारे, ख़ूबसूरत, बाल वक़्त से पहले ही पकने लगे हैं?  प्रदूषण, आज कल की भाग-दौड़ की ज़िन्दगी और उससे जुड़ा तनाव, अनुवांशिक (यानि हेरिडिटरी),  शैम्पू और कई सारे और हेयर-प्रोडक्ट्स में मिले हुए केमिकल, आदि कई ऐसे कारण हैं जो हमें वक़्त से पहले बढ़ती उम्र का एहसास, बालों के द्वारा, दिला देते हैं। आज रॉकीइंग पर हम कुछ ऐसे घरेलू नुस्खों के बारे में बताएँगे जो न केवल प्राकृतिक हैं बल्कि बालों के असमय सफ़ेद होने में कारगर साबित हुए हैं। 
+&lt;/p&gt;
+&lt;h3&gt;असमय सफ़ेद बाल : उपाय  &lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;b&gt;आँवला चूर्ण&lt;/b&gt;: एक चम्मच भर आँवला चूर्ण, दो घूँट पानी के साथ सोते वक़्त लीजिये। असमय बाल सफ़ेद होने और चेहरे का निखार वापस लाने में जादू का सा असर करता है। (साथ ही स्वर को मधुर और शुद्ध बनाता है और गले की घरघराहट भी इससे ठीक हो जाती है। )
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;b&gt;आँवला चूर्ण का लेप&lt;/b&gt;: सूखे आँवले के चूर्ण को पानी के साथ लेई जैसा लेप बनाकर पूरे सर में लगाकर 10-15 तक रखें फिर अच्छी तरह धो दीजिये । इससे बाल सफ़ेद होना और गिरना बंद हो जाते हैं।
+&lt;/p&gt;  
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;b&gt;आँवले का पानी&lt;/b&gt;: 25 ग्राम सूखे आँवले को मोटा-मोटा कूटकर किये हुए टुकड़ों को 250 ग्राम पानी में रात भर भिगो दीजिये।  सुबह इन फूले हुए आंवलों को कड़े हाथ से मसलकर सारा पानी किसी पतले, साफ़ कपडे से छान लीजिये। इस आँवले के पानी को बालों की जड़ों में हलके-हलके मालिये और 10 मिनट बाद बालों को सादे पानी से धो दीजिये। रूखे बालों के लिए ये नुस्खा हफ़्ते में एक बार कीजिये और तैलीय बालों के लिए दो बार कीजिये। अगर ज़रूरत लगे तो कुछ दिन तक रोज़ भी इस पानी को बाल धोने  लिए इस्तेमाल किया जा सकता है। बाल धोने के, एक घंटे पहले, या एक रात रात पहले आँवलों के तेल की बालों  में मालिश कीजिये। 
+&lt;/p&gt; 
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/health/Home-made-Remedies/gooseberry-1.jpg" alt="Uses of Indian-Gooseberry-आँवला" title="आँवला और उसके अनगिनत प्राकृतिक उपयोग "&gt;
+&lt;hr&gt;
+&lt;p&gt;
+इस आंवले के पानी द्वारा सर धोने से बालों का कालापन दिन पर दिन बढ़ता जाता है और सालों तक यह ख़ूबसूरत और मज़बूत बने रहते हैं। बाल काले, घने, साफ़, चमकीले  और रेशम की तरह मुलायम हो जाते हैं।  इस दवा से सर दर्द और आँखों की तकलीफ में भी फ़ायदा मिलता है। दिमाग में ताज़गी रहती है और सर के सभी रोग दूर होते हैं। अगर नज़ले के कारण बाल गिर रहे हों तो इस नुस्खे से निश्चित ही लाभ होता है। 
+&lt;/p&gt; 
+&lt;style&gt;
+#article p {
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+}
+&lt;/style&gt;</Text>
+  <WriterName>Rockying</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>hindi/treat-pre-mature-graying-of-hair-with-secret-ayurvedic-treatment-from-aamla</URL>
+</Article>

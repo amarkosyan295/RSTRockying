@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Ankit Tiwari's Journey from a Small Town to Bollywood Film Industry</Title>
+  <OGImage>http://www.rockying.com/art/Music/Ankit-Tiwari-Story/Ankit-Tiwari-with-his-father-holding-the-Filmfare.jpg</OGImage>
+  <OGDescription>A special mention in the life of Ankit Tiwari, brother Ankur (Tiwari) has always been a constant support. Taking care of all the management, Ankur made sure his brother could focus entirely on his singing career.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>15</Category>
+  <Tag>Ankit Tiwari, Ankit Tiwari Brother, Ankur Tiwari, Inspiring Story, Brotherhood Entertainement, Bollywood Playback Singer</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Music/Ankit-Tiwari-Story/Ankit-Tiwari-with-his-father-holding-the-Filmfare.jpg' alt='' /&gt;&lt;p&gt;A special mention in the life of Ankit Tiwari, brother Ankur (Tiwari) has always been a constant support. Taking care of all the management, Ankur made sure his brother could focus entirely on his singing career.&lt;/p&gt;</Description>
+  <Text>&lt;img src="http://www.rockying.com/art/Music/Ankit-Tiwari-Story/Ankit-Tiwari-with-his-father-holding-the-Filmfare.jpg" alt="Ankit and HIs Father" title="Ankit Tiwari with Father"&gt;
+&lt;p&gt;
+&lt;b&gt;‘Sun Raha Hai Na Tu’&lt;/b&gt; is a song that was on every Indian youngster’s lips in 2013 and it was through this that singer Ankit Tiwari made a place in everyone’s hearts. Hailing from a middle-class family in Kanpur, Ankit has raised a big fan base since his debut. 
+
+&lt;/p&gt;
+&lt;p&gt;
+With his soulful voice and unique sense of music, the music-maker started his career with jingle compositions. There on, he was offered to compose music for the film Do Dooni Chaar (2010) and Saheb Biwi Aur Gangster (2011), which also turned out to be his singing debut. Since then, the small town boy who had set out with big dreams in his eyes has never looked back.  
+&lt;/p&gt;
+
+&lt;img src="http://www.rockying.com/art/Music/Ankit-Tiwari-Story/Mahesh-Bhatt-Tweet-about-Ankit.png" alt="Mahesh Bhatt's Tweet about Ankit Tiwari" title="Mahesh Bhatt's Tweet about Ankit Tiwari"&gt;
+ 
+&lt;h4&gt;Inspiring Journey in every sense&lt;/h4&gt;
+
+&lt;p&gt;
+
+Ankit's journey is inspiring in every sense, and his story cannot be completed without a few special mentions. Ankit Tiwari was born into a family of musicians. The family owned a music troupe called Raju Suman and Party. His mother’s devotional singing brought him close to music. His interest and dedication to music convinced his parents that their son would take up a musical career. 
+
+&lt;/p&gt;
+&lt;p&gt;
+
+“My success is a result of the constant support that I have received from my family. My guru Vinod Kumar Dwivedi helped me realize my dream one step at a time. It was his guidance that gave me direction,” says the popular Bollywood singer and composer. 
+
+&lt;/p&gt;
+
+&lt;img src="http://www.rockying.com/art/Music/Ankit-Tiwari-Story/Ankit-Kapil-Sharma-Show.jpg" alt="Ankit Tiwari at Kapil Sharma's Show" title="Ankit Tiwari at Kapil Sharma's Show"&gt; 
+
+&lt;h4&gt;Foundation of Brotherhood Entertainment&lt;/h4&gt;
+
+&lt;p&gt;
+
+A special mention in the life of Ankit Tiwari, brother Ankur (Tiwari) has always been a constant support. Taking care of all the management, Ankur made sure his brother could focus entirely on his singing career. This also led to the foundation of &lt;a href="https://medium.com/global-world/ankit-tiwari-and-brother-ankur-are-taking-brotherhood-entertainment-to-new-heights-f89093865a88" target="_blank"&gt;Brotherhood Entertainment&lt;/a&gt;, a celebrity management company, in 2013.  
+
+&lt;/p&gt;
+&lt;p&gt;
+From his early days in the Mayanagri, singer &lt;a href="http://ankittiwari.in/" target=_blank"&gt;Ankit Tiwari&lt;/a&gt; has been a great influence on the music industry. His fresh approach and out-of-the-box ideas have given him his deserved space. “Rendering playback for multiple on-screen actors has given me immense satisfaction, and I am forever indebted to the people who believed in my talent. It is always humbling to see people love and praise your work,” said the composer. 
+
+&lt;/p&gt;
+
+&lt;img src= "http://www.rockying.com/art/Music/Ankit-Tiwari-Story/Aiyaari.jpg" alt="Aiyaary" title="Aiyaary"&gt;
+&lt;p&gt;
+Apart from the list of multiple Bollywood hits, Ankit’s music has also earned him the reputation of a music director. The long list of movies, including &lt;b&gt;Aashiqui 2 &lt;/b&gt;(2013), &lt;b&gt;Singham Returns&lt;/b&gt;(2014), &lt;b&gt;Airlift&lt;/b&gt; (2016), &lt;b&gt;Rustom&lt;/b&gt; (2016), &lt;b&gt;Rocky Handsome&lt;/b&gt; (2016), &lt;b&gt;Baaghi&lt;/b&gt; (2016), &lt;b&gt;Tum Bin II &lt;/b&gt;(2016), &lt;b&gt;Beiimaan Love&lt;/b&gt; (2016), &lt;b&gt;Baadshaho &lt;/b&gt;(2017) and more are the proof of love his fans and followers have showered upon him. The year 2018 has also given the fans something to cherish with the music of the film &lt;b&gt;Aiyaary&lt;/b&gt;, which also has been composed by Ankit.  
+
+&lt;h3&gt;Motivational Quotes&lt;/h3&gt; 
+
+&lt;p&gt;
+
+“Music has no boundaries. Everything around me inspires me in one way or the other,” says singer Ankit Tiwari. Brother Ankur (Tiwari) also shares his vision and this duo is certainly not going to stop anytime soon. With a super hit project at the beginning of 2018 and the new track ‘Mehbooba’, there is surely a lot more coming up that will be a treat to the ears. An expert piano player, Ankit Tiwari with strong core foundations in classical and western music, believes in bringing something new to the market with every project. With the aim to learn and grow every day, he believes the zeal for music should never be confined to anything.
+
+&lt;/p&gt;</Text>
+  <WriterName>Neeraj Sharma [Guest Post]</WriterName>
+  <WriterEmail>dashingneeraj95@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>ankit-tiwaris-journey-from-a-small-town-to-bollywood-film-industry</URL>
+</Article>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>TGBPHILdFeZuEfVFu</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>OaAsX</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>16</Category>
+  <Tag>4eGZW</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;OaAsX&lt;/p&gt;</Description>
+  <Text>It&amp;#39;s funny goodluck http://xnxx.photography/ xnxx  Senate rules state that 67 votes are needed to change its rules. But Democrats, who hold the Senate, 54-46, could do it with just 51 by essentially rewriting the rule book with a procedural power plan known as &amp;quot;the nuclear option.&amp;quot;</Text>
+  <WriterName>kFl1g</WriterName>
+  <WriterEmail>alfonsokrl@yahoo.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>tgbphildfezuefvfu</URL>
+</Article>

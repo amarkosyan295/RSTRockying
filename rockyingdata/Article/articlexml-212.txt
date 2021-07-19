@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>The New 'French Village' Puducherry!</Title>
+  <MetaTitle>The New 'French Village' Puducherry!</MetaTitle>
+  <OGImage>//www.rockying.com/art/Travel/Pondicherry/Pondicherry-home-page.jpg</OGImage>
+  <OGDescription>If it is a destination unknown and your next big escapade from piles of work, Pondicherry now called Puducherry (meaning ‘new village’ in Tamil), is your perfect remedy.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Pondicherry, Puducherry, Travel India, Tamil Nadu, Sri Aurobindo Ashram, Auroville, Serenity Beach, French Memorial.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Travel/Pondicherry/Pondicherry-home-page.jpg' alt='' /&gt;&lt;p&gt;If it is a destination unknown and your next big escapade from piles of work, Pondicherry now called Puducherry (meaning ‘new village’ in Tamil), is your perfect remedy.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    If it is a destination unknown and your next big escapade from piles of work, Pondicherry
+    now called Puducherry (meaning ‘new village’ in Tamil), is your perfect remedy.  
+    Rekindle your love, find peace in life or simply sink into this French settler colony
+    for the best reason ever- travelling. A Union Territory of India, this place will give you the perfect nesting
+    solution where you can hibernate for your entire holiday!
+&lt;/p&gt;
+&lt;h4&gt;
+    The Must Visits -&lt;/h4&gt;
+&lt;h5&gt;
+    SRI AUROBINDO ASHRAM&lt;/h5&gt;
+&lt;img src="//rockying.com/art/Travel/Pondicherry/Sri-Aurobindo-Ashram-Collage.jpg"
+    alt="SRI AUROBINDO ASHRAM" /&gt;
+&lt;p&gt;
+    Sri Aurobindo Ashram, founded in 1920, is where Sri Aurobindo and revered ‘Mother’
+    spent the most part of their lives. This place is the saddle of peace and harmony.
+    Home to Sri Aurobindo’s ideas of peaceful community, this ashram comprises of many
+    buildings and the inmates are a diversified community of around 1,200 members engaged
+    in various activities like farms, libraries, gardens, and small-scale industries
+    like printing press.
+&lt;/p&gt;
+&lt;h5&gt;
+    AUROVILLE&lt;/h5&gt;
+&lt;p&gt;
+    A real example of community living Auroville is conceived as an experimental “universal
+    town”. This township is home to people with different nationalities, beliefs and
+    culture dwelling here in harmony. This amazing city of community living was started
+    in 1968 by Maa , ‘the Mother’ (A French lady, Mirra Alfassa)a renowned disciple
+    of Shri Aurobindo.
+&lt;/p&gt;
+&lt;p&gt;
+    A major attraction here is the Matrimandir, the spiritual heart of Auroville.&lt;/p&gt;
+&lt;img src="//rockying.com/art/Travel/Pondicherry/Matrimandir-collage.jpg"
+    alt="AUROVILLE" /&gt;
+&lt;p&gt;
+    Washed roads, sun-kissed beaches, this former French colony, will offer the tourist-eye
+    some astounding French architecture.&lt;/p&gt;
+&lt;p&gt;
+    The archaeological site Arikamedu, The French War memorial, Jawahar Toy Museum,
+    Pondicherry Museum, Raj Niwas, The Statue of Dupliex, Botanical Garden and Aquarium,
+    Plage Paradiso, Pondicherry Beach, Mahe Beach, Church of Sacred Heart of Jesus are
+    a few other places to be at, if you have planned a long trip.&lt;/p&gt;
+&lt;p&gt;
+    &lt;strong&gt;BEST TIME TO VISIT&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+    &lt;a href="http://www.rockying.com/"&gt;Rockying&lt;/a&gt; says that the best time to visit
+    Pondicherry would be in the months of October to January. Occasional showers and
+    a visible relief from the scorching heat, you would love this place. The roads are
+    perfectly clean and walking alongside the pavement with an umbrella can simply inspire
+    any ungrateful minds as well!&lt;/p&gt;
+&lt;p&gt;
+    &lt;strong&gt;TO DWELL AT&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+    The city offers two kinds of accommodation for tourists: beach resorts or city hotels.
+    However, city hotels are preferable if you wish to sink in the essence of a Pondi-city
+    life with humble French-speaking people. However, we suggest do ample research on
+    a stay which is closer to all tourist destinations. Check Hotel &lt;a href="http://www.hotelsurguru.com/rooms.html"&gt;
+        Suguru&lt;/a&gt; out.&lt;/p&gt;
+&lt;p&gt;
+    &lt;strong&gt;Tip:&lt;/strong&gt; &lt;a href="http://www.facebook.com/rockyingmag"&gt;Rockying&lt;/a&gt;
+    advises that Pondi beaches are not that safe because of its rocks and steep waves.
+    Therefore, investing in beach resorts might leave a gaping hole in your pocket.
+    Opt for city hotels. Walk around the city and keep a map handy!
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;strong&gt;Things to carry:&lt;/strong&gt; Easy guide to learning French, camera, slippers,
+    umbrella, a light shawl and a torch.&lt;/p&gt;
+&lt;h5&gt;
+    Off-beat places to visit in the city:&lt;/h5&gt;
+&lt;ul&gt;
+    &lt;li&gt;A 150-year old lighthouse.&lt;/li&gt;
+    &lt;li&gt;The Serenity Beach.&lt;/li&gt;
+    &lt;li&gt;Horse riding in Chunnambar backwaters.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src="//rockying.com/art/Travel/Pondicherry/serenity_beach.jpg"
+    alt="Serenity Beach" /&gt;
+&lt;h6&gt;
+    At times, it is best to let your mind stray from the humdrums of life. Pondicherry
+    is the place that will leave you with numerous stories your mind would weave even
+    after you are back to work!&lt;/h6&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>212</URL>
+</Article>

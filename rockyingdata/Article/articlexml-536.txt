@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>ePMDDtXcTMEjvE</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>jDqdr</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>16</Category>
+  <Tag>evhMHO</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;jDqdr&lt;/p&gt;</Description>
+  <Text>I&amp;#39;d like to tell you about a change of address http://fatmomtube.in.net/ fatmomtube com  She writes: &amp;amp;ldquo;I at first refused as I don&amp;amp;rsquo;t much like needles but she explained it was for my protection in case an inmate were to bite me. There are a lot of drug addicts in prison who may be carrying the virus from infected needles.</Text>
+  <WriterName>TKaah</WriterName>
+  <WriterEmail>careymyi@usa.net</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>epmddtxctmejve</URL>
+</Article>

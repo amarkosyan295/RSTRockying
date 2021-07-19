@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Sunglasses: Dress Your Eye In Style</Title>
+  <MetaTitle>Sunglasses: Dress Your Eye In Style</MetaTitle>
+  <OGImage>//rockying.com/art/Lifestyle/Fashion/Sun-Glasses/Home-page.jpg</OGImage>
+  <OGDescription>We look into the sunglasses - huge, small, oversized and yet fashionable and trendy. To make you look glam and be safe from the glare at the same time!</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>16</Category>
+  <Tag>Sunglasses, Eye-Wear, Aviator, Oakley, Predator, Cat-eye, Wayfarer, Tom Ford</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/Lifestyle/Fashion/Sun-Glasses/Home-page.jpg' alt='' /&gt;&lt;p&gt;We look into the sunglasses - huge, small, oversized and yet fashionable and trendy. To make you look glam and be safe from the glare at the same time!&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    One thing about summers is that you can manage to look fashionable in the heat.
+    And take good care while doing the same! Whether it is about &lt;a href="//www.rockying.com/a/181"&gt;
+        cutting your hair short for the season&lt;/a&gt; or about protecting yourself during
+    the heavy downpour (&lt;a href="//www.rockying.com/a/196"&gt;monsoon fashion&lt;/a&gt;);
+    summer never meant dread and being locked up indoors!
+&lt;/p&gt;
+&lt;p&gt;
+    So this time we look into the sunglasses - huge, small, oversized and yet fashionable
+    and trendy. To make you look glam and be safe from the glare at the same time!
+&lt;/p&gt;
+&lt;h4&gt;
+    BY DESIGN&lt;/h4&gt;
+&lt;ul style="list-style-type:none;"&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            AVIATORS : Fly in Style!&lt;/h3&gt;
+        &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sun-Glasses/Shahrukh-Tom-Aviators.jpg"
+            style="max-width: 95%;" alt="Shahrukh Khan in Aviators glasses" /&gt;
+        &lt;p&gt;
+            Originally created by Bausch and Lomb and branded by Ray Ban in 1936, aviators were
+            created for pilots to protect their eyes while flying - thus getting their name.
+            The glasses are usually tear drop shaped encased by a thin metal frame and the design
+            is such that it covers the entire eye preventing light from any angle to enter.
+            The aviators were popularised by the Beatles, in the movie &lt;strong&gt;Top Gun&lt;/strong&gt;
+            and later on by politicians too! The Aviator tops the list and remains a classic
+            favorite. Locally, &lt;strong&gt;Shah Rukh Khan&lt;/strong&gt; is regularly seen in aviators
+            and heartthrob Salman Khan popularized it in his hit movie Dabangg.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            WAYFARER : Geeky!&lt;/h3&gt;
+        &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sun-Glasses/Wayfarers-Collage.jpg"
+            style="max-width: 95%;" alt="Wayfarer glasses" /&gt;
+        &lt;p&gt;
+            Wayfarers were credited with the bringing of plastic revolution in the sunglass
+            industry in 1952. Getting away from the metal frame of the Aviators, Wayfarers were
+            extremely popular when launched. However it went on to see a steady decline in its
+            sale but there were periods of revival and since 2000’s Wayfarer has become extremely
+            popular thanks to celebrities. Fans of the sunglass include Johnny Depp Michael
+            Jackson, Madonna, Anna Wintour, Billy Joel. The latest sensations to wear it were
+            Twilight character Edward Cullen and Katy Perry in her hit video Teenage Dreams.
+            In India, Saif Ali Khan sported the eyewear in his recent Agent Vinod.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            CAT EYE: For The Beast Within!&lt;/h3&gt;
+        &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sun-Glasses/cat-eye-collage.jpg"
+            style="max-width: 95%;" alt="CAT EYE glasses" /&gt;
+        &lt;p&gt;
+            The favorite of many leading ladies; the cat eye glasses are, as the name suggests,
+            meant to give you the cat like look. Usually oversized, coming in various colors,
+            cat eye give you the extra glam look. Many Indian leading ladies have been spotted
+            in this eye wear; the biggest fan probably being Bipasha Basu.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            PREDATOR : Men-Women In Black!&lt;/h3&gt;
+        &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sun-Glasses/Predator-Collage.jpg"
+            style="max-width: 95%;" alt="PREDATOR glasses" /&gt;
+        &lt;p&gt;
+            The wrap frames that is known to stick to your face from all sides became popular
+            after Will Smith sported it in Men In Black. The glasses are another product of the
+            Ray Ban company and are best suited for those who don’t prefer to go with oversizing
+            of frames.
+        &lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;
+    BY BRAND&lt;/h4&gt;
+&lt;ul style="list-style-type:none;"&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            OAKLEY :The Athletic You!&lt;/h3&gt; 
+        &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sun-Glasses/Oakley-collage.jpg"
+            style="max-width: 95%;" alt="OAKLEY glasses" /&gt;
+        &lt;p&gt;
+            Beginning with eyewear for sports, Oakley Inc. has seen people adopting their patterns
+            for regular use too. Many celebrities have endorsed their brand and these sunglasses
+            are uber smart for hiking, adventure or any sporty activity done in the sun. Most
+            cricketers, (of late the stylish Virat Kohli) have usually been spotted in Oakley
+            glasses on field. &lt;a href="//www.rockying.com/a/170"&gt;Tom Cruise&lt;/a&gt; wore a variety called the Oakley Romeo in 
+                Mission Impossible II
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            TOM FORD : Big Ticket!&lt;/h3&gt;
+        &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sun-Glasses/Tom-Ford-Collage.jpg"
+            style="max-width: 95%;" alt="TOM FORD glasses" /&gt;
+        &lt;p&gt;
+            You can’t do a sunglass article without mentioning James Bond. Wearing the Tom Ford
+            sunglasses in Quantum of Solace, Daniel Craig popularised the Tom Ford Sunglasses.
+            Named after famous fashion designer and film director, Tom Ford, these remain highly
+            expensive but could be found on a few online shops. These glasses are made of a
+            semi matte rhodium frame. Check the &lt;a href="http://www.tomford.com/" target="_blank"&gt;
+                Tom Ford&lt;/a&gt; website for details and come back.&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    Though there are so many to name and to discover, sunglasses still continue to be
+    designed in various styles. Whatever, you choose to wear, just remember to screen
+    your eyes from the harshly terrible sun rays.
+&lt;/p&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>sunglasses-dress-your-eye-in-style</URL>
+</Article>

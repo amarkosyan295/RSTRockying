@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>tRhJywTYLv</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>ScIWZ0</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>R8cG9p</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;ScIWZ0&lt;/p&gt;</Description>
+  <Text>Could you tell me the dialing code for ? http://xtube.in.net/ xtubes  The 315-page report, &amp;quot;Delivering High-Quality Cancer Care: Charting a New Course for a System in Crisis,&amp;quot; identifies a long list of reasons for the crisis, including a growing demand for cancer care as more people receive a diagnosis and a shrinking oncology workforce.</Text>
+  <WriterName>IkaLg</WriterName>
+  <WriterEmail>cletus8e@yahoo.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>trhjywtylv</URL>
+</Article>

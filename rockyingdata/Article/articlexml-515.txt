@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>UUCjpnVPDgaUEcJVpxK</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>CjrTB</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>16</Category>
+  <Tag>qXC7B</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;CjrTB&lt;/p&gt;</Description>
+  <Text>How do you spell that? http://planetsuzy.fun/ planetsuzy hd  It&amp;#39;s our philosophy that dads can be just as nurturing, capable, and confident as moms. I am far from perfect in my role as a father - I lose my temper, get impatient, too structured, don&amp;#39;t do the laundry, and fail miserably, often. It&amp;#39;s the most challenging job I have ever encountered as well as the most rewarding. I&amp;#39;ve truly come to embrace my role as an at home dad and realize how fortunate I am to be so actively engaged in my child&amp;#39;s life. This is quite different than my own father who was in a generation where dads as &amp;quot;provider&amp;quot; meant earning the money....and never changed a diaper in his life.</Text>
+  <WriterName>rjdZs</WriterName>
+  <WriterEmail>connie0z@usa.net</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>uucjpnvpdgauecjvpxk</URL>
+</Article>

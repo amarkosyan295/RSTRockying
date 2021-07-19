@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Bollywood 2012: The Year That Was</Title>
+  <OGImage>http://www.rockying.com/art/bollywood/Bollywood-2012/Happy-Surpises-1.jpg</OGImage>
+  <OGDescription>Rockying recalls movies that went onto bring cheer on our faces and those which brought tears for the producers...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Bollywood 2012, Movie Reviews 2012, Bollywood Movie Review, Bollywood Year Ender</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Bollywood-2012/Happy-Surpises-1.jpg' alt='' /&gt;&lt;p&gt;Rockying recalls movies that went onto bring cheer on our faces and those which brought tears for the producers...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+The year that has gone by saw Indian Cinema completing its glorious 100 years and impressed us by experimenting with new genres and story-lines while giving us the formula hits too. Rockying recalls movies that went onto bring cheer on our faces and those which brought tears for the producers.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;BOX OFFICE KINGS&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Bollywood-2012/Box-office-Kings.jpg" alt="2012 Box Office KIngs"/&gt;
+&lt;p&gt;
+The undisputed ruler of box office in 2012 was Salman Khan. Star power works for us and this fact was reiterated with Salman Khan’s &lt;b&gt;Ek Tha Tiger&lt;/b&gt;, which remained the highest earning movie in 2012 followed by his second hit &lt;b&gt;Dabangg 2&lt;/b&gt;. Ek Tha Tiger went on to earn Rs 187 Cr, Dabangg 2, the year’s last movie, lapped up Rs 166 crore while Akshay Kumar’s &lt;b&gt;Rowdy Rathore&lt;/b&gt; hit the mark of Rs 133 Cr in 2012. Salman was truly the King Khan of 2012!
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;REMAKE CHASKA&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Bollywood-2012/Remake-Chaska.jpg" alt="2012 Bollywood remakes"/&gt;
+&lt;p&gt;
+Hritikh Roshan’s &lt;b&gt;Agneepath&lt;/b&gt; managed to rake in big bucks with its stylized take on the Amitabh Bachchan starrer from 1990 earning over Rs 125 crores and ending up as the fourth highest earner of the year. Hitmaker Rohit Shetty’s Abhishek Bachchan and Ajay Devgn starrer &lt;b&gt;Bol Bachchan&lt;/b&gt; was also a remake of sorts, loosely based on the 1979 all-time hit Golmaal, and it cruised through into the 100 -crore club. South Indian movie remakes remained a huge box office draw with the superhit &lt;b&gt;Rowdy Rathore&lt;/b&gt; and the comedy &lt;b&gt;Son of Sardar&lt;/b&gt; proving that copying does pay at times!
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;THE YEAR OF HAPPY SURPRISES&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Bollywood-2012/Happy-Surpises-1.jpg" alt="Happy Surprises of 2012"/&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Bollywood-2012/Happy-Surprises-2.jpg" alt="2012 Bollywood Happy Surprises"/&gt;
+&lt;p&gt;
+The year 2012 will also be remembered as the year of freshness and experimentation. From comedy to suspense, thriller to drama, last year was a year of joyful surprises. Be it a sweet love story about a sperm donor in &lt;b&gt;Vicky Donor&lt;/b&gt; or the tale of a stubborn atheist who questioned the existence of God in &lt;b&gt;Oh My God&lt;/b&gt;, new stories and characters in Bollywood 2012 tasted sweet success. Realistic movies such &lt;b&gt;Paan Singh Tomar&lt;/b&gt; and &lt;b&gt;Gangs of Wasseypur&lt;/b&gt; wowed the critics and earned big bucks at the box office. The biggest successes in this category were two outstanding movies, &lt;b&gt;Barfi&lt;/b&gt; and &lt;b&gt;Kahaani&lt;/b&gt;, both boasting of amazing performances by its leads, Ranbir Kapoor and Vidya Balan. The indomitable Aamir Khan reminded us that he was never afraid of experimenting with his thriller &lt;b&gt;Talaash&lt;/b&gt; (could not succeed though) while Sridevi brought a smile on all our faces with the simple and sweet &lt;b&gt;English Vinglish&lt;/b&gt;.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;STAR STRUCK DOWN!&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Bollywood-2012/The-Damp-Squibs.jpg" alt="Damp Squibs of 2012"/&gt;
+&lt;p&gt;
+Last year some of our favourite actors failed to make any impact on-screen despite mega hype and bloated budgets. &lt;b&gt;Agent Vinod&lt;/b&gt;, Saif’s ambitious take and India’s answer to 007 failed to impress the audiences while the long awaited &lt;b&gt;Joker&lt;/b&gt; turned out to be a sorry affair with aliens that somehow resembled kitchen vegetables. Even Shahrukh Khan starrer &lt;b&gt;Jab Tak Hai Jaan&lt;/b&gt;, last directorial venture of romance king Yash Chopra could not manage to amuse the audience due to its huge list of loopholes. Madhur  Bhandarkar tried to titillate us with Kareena in &lt;b&gt;Heroine&lt;/b&gt; and faced rejection from the box office while Rani’s  &lt;b&gt;Aiyyaa&lt;/b&gt; only made us roll our eyes in disbelief. Still high on her sexiest belly moves though!
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;CONTROVERSY COCKTAIL&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Bollywood-2012/Shahrukh-Controversy.jpg" alt="Shahrukh in Jab Tak Hai Jaan"/&gt;
+&lt;p&gt;
+What’s our beloved industry without controversies? 2012 saw the war between &lt;b&gt;SRK&lt;/b&gt; and &lt;b&gt;Ajay Devgan&lt;/b&gt; camp boil over with an ugly clash over release dates and unfair practices. Porn star &lt;b&gt;Sunny Leone&lt;/b&gt; found her way in Bollywood and despite starring in a flop is definitely here to stay. SRK was the king of controversies this year, being in the news for being tipsy and fighting with ground staff during the IPL as well as allegedly slapping Farah Khan’s hubby at a party.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;THE NEWBIES&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Bollywood-2012/New-Comers.jpg" alt="2012 Bollywood New Comers"/&gt;
+&lt;p&gt;
+New names sparkled in Bollywood limelight with &lt;b&gt;Ishaqzaade&lt;/b&gt;, &lt;b&gt;Student of the Year&lt;/b&gt; and &lt;b&gt;Vicky Donor&lt;/b&gt; giving us new promising names like &lt;b&gt;Arjun Kapoor, Parineeti Chopra, Alia Bhatt, Ayushmaan Khurrana&lt;/b&gt; to name a few . 
+&lt;/p&gt;
+&lt;p&gt;
+Bollywood had a great run last year and we hope to see fresh ideas, stories and new talents hitting the silver screen this year too.
+&lt;/p&gt;
+&lt;h5&gt;Happy 2013 movie buffs!!!&lt;/h5&gt;
+&lt;p class="well"&gt;
+&lt;b&gt;About the Author:&lt;/b&gt; Keeping her eyes closed, with long breaths and a gentle sound many mistake for snoring, actually helps Sonali think better. Or so she says. People question about these daily “thinking sessions”, mostly conducted on a comfortable couch or bed, while she claims that the long overdue best-seller she’s been working on (for quite some time now) will silence all the cynics. Till then she dreams on...
+&lt;/p&gt;</Text>
+  <WriterName>Sonali Chowdhury</WriterName>
+  <WriterEmail>media.sonali@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>bollywood-2012-the-year-that-was</URL>
+</Article>

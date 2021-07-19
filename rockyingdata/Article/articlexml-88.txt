@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>88</ID>
+  <Title>5 Bizarre Indian Dishes!</Title>
+  <MetaTitle>5 Bizarre Indian Dishes!</MetaTitle>
+  <OGImage>//rockying.com/art/Food/Bizzare/frog%20legs.jpg</OGImage>
+  <OGDescription>When it comes to studying the food plate globally, we might find all kinds of worms and birds being eaten around the world. That exactly sets the ball rolling for our next – studying the bizarre foods that India has to offer. It is time to get the shocker of a shocker. Read on, foodies!</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>13</Category>
+  <Tag>Bizzare Indian Dishes, Indian Food, Food, Food Story</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/Food/Bizzare/frog%20legs.jpg' alt='' /&gt;&lt;p&gt;When it comes to studying the food plate globally, we might find all kinds of worms and birds being eaten around the world. That exactly sets the ball rolling for our next – studying the bizarre foods that India has to offer. It is time to get the shocker of a shocker. Read on, foodies!&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    &lt;b&gt;W&lt;/b&gt;hen it comes to studying the food plate globally, we might find all kinds
+    of worms and birds being eaten around the world. That exactly sets the ball rolling
+    for our next – studying the bizarre foods that India has to offer. It is time to
+    get the shocker of a shocker. Read on, foodies!&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+    &lt;img src="//rockying.com/art/Food/Bizzare/Jadoh.jpg" title="Jadoh"
+        alt="" style="float: left; height: 300px;"&gt;&lt;b&gt;1.&lt;/b&gt; &lt;b&gt;CHICKEN'S BLOOD FOR CURRY?
+    &lt;/b&gt;:This is a scintillating food story. Ever heard of Jadoh? Cooked and eaten by
+    the Jaintia tribes of the North East, it is a dish that has pig intestines and blood
+    of the chicken as the ingredients. With this food on your plate, it sure does get
+    crazier!&lt;/p&gt;
+&lt;p&gt;
+    &lt;img src="//rockying.com/art/Food/Bizzare/steamed%20pig%20brain_Doh%20Khlieh.jpg"
+        title="Steamed Pig Brain" alt="" style="width: 300px; float: right;"&gt;&lt;br&gt;
+    &lt;b&gt;2.&lt;/b&gt; &lt;b&gt;PIG'S BRAIN GARNISHED&lt;/b&gt;: We play so safe with our usual dal and roti
+    that it is time we explore the weirder side of food in our own land! Doh Khlieh,
+    a Meghalayan cuisine, will definitely push you out of your comfort zone. Made of
+    pork and garnished with pig’s brain which is steamed, it is considered to be a delicacy.
+    Dare to eat?&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+    &lt;b&gt;3. DOGS! THE NAGA WAY&lt;/b&gt;: People in Nagaland love dogs and eat them too! Someone
+    surely said, “Indian food is like Indian dialect… it changes by the kilometers of
+    the land you cover”. This is true! We can take a dislike towards what we choose
+    to eat. But here is the best part. When we say British food, all sorts of breads
+    and croissants come to our mind, with India it is the spice and the curry that the
+    world is crazy about! The difference in eating habits spanning the nation makes
+    it so interesting.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+    &lt;img src="//rockying.com/art/Food/Bizzare/red%20ant%20chutney_chaprah.jpg"
+        title="Red Ant Chutney" alt="" style="width: 300px; float: left;"&gt;&lt;b&gt;4.&lt;/b&gt;
+    &lt;b&gt;CHILLY AS ANTS?&lt;/b&gt; :For those bravehearted hoggers, here is something new that
+    you can try. Make your dish spicy by garnishing it with small dried fish, tomatoes
+    and little Portuguese chillies. This sauce can be a sore for your nose but when
+    it comes to setting your tongue on fire, yes, it is guaranteed! Also, delicious
+    red ants cooked along with their eggs into heady and hot &lt;a href="http://en.wikipedia.org/wiki/Chutney"&gt;
+        chutney&lt;/a&gt;, Chaprah is Chattisgarh’s dish that the people are crazy about.
+    Ready for some unearthly experience?&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+    &lt;img src="//rockying.com/art/Food/Bizzare/frog%20legs.jpg" title="Frog for Food"
+        alt="" style="width: 300px; float: right;"&gt;&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;b&gt;5.&amp;nbsp;&lt;/b&gt; &lt;b&gt;FROG, THE MEDICATION&lt;/b&gt;: People in Sikkim eat frog legs to cure
+    dysentery and other related stomach ailments? Yes! Hold your breath, food just got
+    ruder and meaner.
+    &lt;br&gt;
+    &lt;b&gt;Here is another tantalizing food &lt;a href="http://en.wikipedia.org/wiki/Tadka"&gt;tadka&lt;/a&gt;
+        for you. Now, that we have the five most bizarre foods in India, it is time, I try
+        and forage for some Phan Pyut for dinner!&lt;/b&gt;&lt;/p&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>88</URL>
+</Article>

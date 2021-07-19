@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>EFQyOLGovDEA</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>C701A</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>EffxN</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;C701A&lt;/p&gt;</Description>
+  <Text>What university do you go to? http://rulertube.fun/ rulertube  The rising popularity of off-exchange activity has sparkedfresh debate over proposed caps on dark pool trading in the nextrevision of the European Union&amp;#39;s (EU) Markets in FinancialInstruments Directive (MiFID), under discussion in Brussels.</Text>
+  <WriterName>18VtUI</WriterName>
+  <WriterEmail>domenicpmq@aol.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>efqyolgovdea</URL>
+</Article>

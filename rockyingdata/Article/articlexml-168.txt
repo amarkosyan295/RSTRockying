@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>168</ID>
+  <Title>Best Clothing To Make Yourself Look Thin</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Lifestyle/Fashion/How-to-look-Slim/4.tight jeans.jpg</OGImage>
+  <OGDescription>Wearing the same color from head to toe will make your body appear thinner. Blacks tends to be the most slimming color. You can also add colors and create interesting visual with accessories...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>16</Category>
+  <Tag>Look Skinny</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;Initial content&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;/p&gt;&lt;div class="slideshow"&gt;
+&lt;div class="slide" style="text-align:center;"&gt;UNI COLOR DRESS: Wearing the same color from head to toe will make your body appear thinner. Blacks tends to be the most slimming color. You can also add colors and create interesting visual with accessories.
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;VERTICAL STRIPES: pulls the eye up and down, creating illusion of height. They Highlight your height and tone down your width. Be Sure that your vertical stripe clothes are perfectly fit, not too tight and not too loose. Avoid Horizontal Stripe Clothes since they only make your body appear wider.
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;DARK SHADES: Deeper color render the person appear to be slimmer, such as deep blue, black, grey etc.
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt; STAY AWAY FROM VERY TIGHT JEANS: &lt;br&gt;&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;No To Baggy Clothes
+
+Baggy Clothing Only makes you look larger ! choose clothing that gently skins your body so your figure is clearly defined. Also Avoid Tight Clothing.
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;/p&gt;</Text>
+  <SlideShowOn>true</SlideShowOn>
+  <WriterName>Vratika Singh</WriterName>
+  <WriterEmail>vratika@rudrasofttech.com</WriterEmail>
+  <Viewed>0</Viewed>
+</Article>

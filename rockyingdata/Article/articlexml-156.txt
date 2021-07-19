@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>156</ID>
+  <Title>Guilt Free Eating (5 Quick Dishes That Are Healthy and Low in Fat)</Title>
+  <MetaTitle>Guilt Free Eating (5 Quick Dishes That Are Healthy and Low in Fat)</MetaTitle>
+  <OGImage>//rockying.com/art/Food/Guilt-Free-Eating/Dalcha.jpg</OGImage>
+  <OGDescription>The summer is here in all its scorching glory, and the heat (as well as air-conditioned environments) takes a toll on one’s digestion, adversely affecting your health and productivity. Here are low fat recipes (some tried and tested, some new and whacky) that you can stir up in moments, and that won</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>13</Category>
+  <Tag>Eat Healthy, Fat free Food, Dalcha, Pasta, Salad</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/Food/Guilt-Free-Eating/Dalcha.jpg' alt='' /&gt;&lt;p&gt;The summer is here in all its scorching glory, and the heat (as well as air-conditioned environments) takes a toll on one’s digestion, adversely affecting your health and productivity. Here are low fat recipes (some tried and tested, some new and whacky) that you can stir up in moments, and that won&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    The summer is here in all its scorching glory, and the heat (as well as air-conditioned
+    environments) takes a toll on one’s digestion, adversely affecting your health and
+    productivity. However, summer is also the perfect time to lose all the kilos gained
+    during the winter, so if you’re careful about a few basic things such as eating
+    on time, eating fresh and seasonal, and cutting down on the fats while drinking
+    lots of fluids, you can fast track yourself on the road to stay fit and healthy.&lt;/p&gt;
+&lt;p&gt;
+    Here are low fat recipes (some tried and tested, some new and whacky) that you can
+    stir up in moments, and that won’t make you sluggish afterwards.&lt;br&gt;
+&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;
+        &lt;h5&gt;
+            Dalcha&lt;/h5&gt;
+        &lt;img src="//rockying.com/art/Food/Guilt-Free-Eating/Dalcha.jpg"
+            title="Dalcha" alt="" /&gt;&lt;p&gt;
+                Another name for a curry that combines meat or vegetables with lentils. While many
+                versions abound, it’s easily customized for the summer, made with the humble yellow
+                split peas (or chana dal if you so prefer) and summer vegetables like pumpkin and
+                tomatoes. The great thing is that it can be eaten by itself or with rice, roti or
+                even bread and can be made with ingredients at hand. Just like with the humble dal,
+                boil the split peas with some turmeric, bay leaf and cinnamon and pressure cook
+                till half done. Add bite sized vegetables, cook till tender, and temper with a tadka
+                of your choice to sit down to a quick and wholesome meal at the end of the day.
+                Low in fat, high on protein and with lots of veggies, this dish is easy, yummy and
+                filling. What more can one ask for?
+            &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Another great summer dish is this &lt;strong&gt;spicy peanut and chicken noodle&lt;/strong&gt;
+            recipe
+        &lt;/p&gt;
+        &lt;img src="//rockying.com/art/Food/Guilt-Free-Eating/Peanutty-noodles-with-chicken-and-veggies.jpg"
+            title="" alt="" width="600px" /&gt;&lt;p&gt;
+                This dish tweaks the good old Chinese-van noodle to great effect. Boil and drain
+                noodles of your choice to an al dente texture. Add a little oil (sesame is most
+                flavorful) to prevent the noodles from sticking. Meanwhile, cook and shred chicken
+                breasts into small pieces. In a non stick, stir fry thinly sliced veggies of your
+                choice (think cabbage, carrots, onions, spinach, broccoli, mushrooms, snow peas,
+                peppers) with some crushed green chillies and garlic. For the sauce, whisk peanut
+                butter, soy sauce and garlic and ginger sauce in a large bowl with adequate salt
+                and add to the veggies. Add chicken and drained noodles alongside half a cup of
+                (the drained) water and mix. You can even add a dash of lemon before serving to
+                reduce the amount of salt needed. This dish can be eaten hot or cold, so leftovers-if
+                any- are going to disappear from the fridge!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Who can survive a summer without salad? Whip up this super simple yet gourmet &lt;strong&gt;
+                Bean-tomato salad&lt;/strong&gt; that can impress your guests and the kids into eating
+            beans!&lt;/p&gt;
+        &lt;img src="//rockying.com/art/Food/Guilt-Free-Eating/Light-and-easy-bean-and-tomato-exotica.jpg"
+            title="" alt="" height="500px" /&gt;&lt;p&gt;
+                Cook tender French beans in boiling water 2 minutes or until crisp-tender. Drain
+                and rinse with cold water. Combine fresh fine chopped basil with 2 big spoons of
+                sour cream, some lemon juice, 2 teaspoons honey, two minced shallots and salt in
+                a large bowl, stirring with a whisk. Mix in beans and some halved cherry tomatoes
+                or cubed regular tomatoes and sprinkle with toasted almonds or pine nuts to finish.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Who doesn’t like &lt;strong&gt;Pasta&lt;/strong&gt;?&lt;/p&gt;
+        &lt;img src="//rockying.com/art/Food/Guilt-Free-Eating/Spicy-spaghetti-with-snow-peas-and-mushrooms.jpg"
+            title="" alt="" height="500px" /&gt;&lt;p&gt;
+                Here’s a twenty minute spicy pasta recipe that’s full of nutrients and low on fat,
+                yet doesn’t compromise on taste. Stir fry snow peas and mushrooms in one teaspoon
+                oil in a non-stick until softened. Add onions, chopped celery and garlic and fry
+                a bit more before taking off the heat and adding some chopped parsley. In another
+                pan, cook tomatoes with a little salt and a pinch of sugar, some red chilli and
+                a hint of basil till saucy. Add water in between if the tomatoes begin to dry. Meanwhile
+                boil the spaghetti, then drain. Toss with the sauce, top with the garlicky veggies,
+                then serve.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            To finish, we bring you a lovely, cooling, yet whacky &lt;strong&gt;musk melon salad dish&lt;/strong&gt;&lt;/p&gt;
+        &lt;img style="width: 600px;" src="//rockying.com/art/Food/Guilt-Free-Eating/Salad.jpg"
+            title="Musk Melon Salad" alt="" /&gt;&lt;p&gt;
+                This dish can be made with the one fruit you’ll spot everywhere right now. This
+                dish combines melon with bacon to create a great accompaniment to regular grilled
+                chicken or fish or can be eaten by itself with some fresh baked bread. Combine bite
+                sized melon pieces with coarsely chopped basil, some dried cranberries or raisins,
+                some cooked and chopped bacon, salt and a dash of balsamic vinegar. You can add
+                some feta cheese to make the dish even more appetizing. Refrigerate for about half
+                an hour before eating. This salad can be made without the bacon too-use olive oil
+                in addition with red onion and replace basil with mint for an even lighter version.&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4&gt;
+    These fun and quick recipes may be just the thing to keep you healthy and active
+    through the day. Try them-with your own variations and inventions- and tell us about
+    more about your own favorites.&lt;/h4&gt;</Text>
+  <WriterName>Bhuvi Gupta</WriterName>
+  <WriterEmail>gupta.bhuvi@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>156</URL>
+</Article>

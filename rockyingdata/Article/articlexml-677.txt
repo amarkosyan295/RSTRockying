@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>zgUSEkFBNZGCagGiAF</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>rvZoxVRIKmK</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>25</Category>
+  <Tag>QZuOSEfcfenXTXUFGA</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;rvZoxVRIKmK&lt;/p&gt;</Description>
+  <Text>&amp;lt;a href=&amp;quot; http://lasixtop.com/# &amp;quot;&amp;gt;generic lasix&amp;lt;/a&amp;gt; lasix generic
+lasix 100 mg tablet - http://lasixtop.com</Text>
+  <WriterName>tNpRAHOgqBLtbB</WriterName>
+  <WriterEmail>lasixto@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>zgusekfbnzgcaggiaf</URL>
+</Article>

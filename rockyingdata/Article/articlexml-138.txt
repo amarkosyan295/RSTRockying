@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>138</ID>
+  <Title>Imitated Art ! The Most Popular Copied Bollywood Posters.</Title>
+  <MetaTitle>Imitated Art ! The Most Popular Copied Bollywood Posters.</MetaTitle>
+  <OGImage>//www.rockying.com/art/bollywood/Copied%20Posters/poster.jpg</OGImage>
+  <OGDescription>Copied are, not just the movies but their posters too...Have a look at this exclusive collection of copied Bollywood posters.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Copied Posters, Bollywood Movie Posters, Copied Bollywood Posters.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/bollywood/Copied%20Posters/poster.jpg' alt='' /&gt;&lt;p&gt;Copied are, not just the movies but their posters too...Have a look at this exclusive collection of copied Bollywood posters.&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;button id="prevslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+        font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+        padding: 0px; background-color: transparent;'&gt;
+        &amp;lsaquo;
+    &lt;/button&gt;
+    &lt;button id="nextslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+        font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+        padding: 0px; background-color: transparent;'&gt;
+        &amp;rsaquo;
+    &lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="slideshow"&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;div class="thumbnail"&gt;
+            &lt;p&gt;
+                Captions By- &lt;a href="http://www.facebook.com/HajraKvetches"&gt;&lt;strong&gt;Hajra Khatoon&lt;/strong&gt;&lt;/a&gt;
+            &lt;/p&gt;
+            &lt;img src="//rockying.com/art/bollywood/Copied%20Posters/poster.jpg" title="Copied Poster of Zindagi Na Milegi Dobara"
+                alt="" /&gt;
+&lt;p&gt;
+                Copied are, not just movies but posters too. Have a look at the most popular Hollywood
+                posters turned into Bollywood ones. Worth it, is the imitation?
+            &lt;/p&gt;
+            &lt;p&gt;
+                You talked about second chances in life and you had the most original script; what
+                ever happened to original posters and giving the poster designer a second chance?
+            &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;div class="thumbnail"&gt;
+            &lt;img src="//rockying.com/art/bollywood/Copied%20Posters/ra-one-new-poster-pnp.jpg"
+                title="Copied Poster of Ra-One" alt="" /&gt;
+&lt;p&gt;
+                With a budget of about 150 Crores, Ra-One is the costliest movie ever; maybe they
+                did lose out on funds while designing the poster?
+            &lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;div class="thumbnail"&gt;
+            &lt;img src="//rockying.com/art/bollywood/Copied%20Posters/Kites.jpg" title="Copied Poster Of Kites"
+                alt="" /&gt;
+&lt;p&gt;
+                They could have at least changed Hrithik’s look in the movie; the story-line is different,
+                but everything else didn’t really need much effort... Junior and Senior Roshan,
+                are you listening?
+            &lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;div class="thumbnail"&gt;
+            
+            &lt;img src="//rockying.com/art/bollywood/Copied%20Posters/copied.jpg" title="Copied Poster of Anjaana Anjaani "
+                alt="" /&gt;
+&lt;p&gt;
+                Both the characters are lost and searching for life’s meaning; well, seems like
+                the poster designers were just as Anjaana and Anjaani!
+            &lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;div class="thumbnail"&gt;
+            
+            &lt;img src="//rockying.com/art/bollywood/Copied%20Posters/getimage.dll.jpg" title="RunWay Copied Poster"
+                alt="" /&gt;
+&lt;p&gt;
+                Like the movie, the posters were just as outdated and worn out. Doesn’t originality
+                mean anything anymore?
+            &lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;div class="thumbnail"&gt;
+            &lt;img src="//rockying.com/art/bollywood/Copied%20Posters/Himesh-Reshammiya-Damadamm.jpg"
+                title="Damadamm Copied Poster" alt="" /&gt;
+&lt;p&gt;
+                Now there’s something common, both are just as dumb, just as terrible and just as
+                awful. Luckily, the posters match too!
+            &lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;div class="thumbnail"&gt;
+            
+            &lt;img src="//rockying.com/art/bollywood/Copied%20Posters/mausam-titanic.gif"
+                title="Mausam Copied Poster" alt="" /&gt;
+&lt;p&gt;
+                One was the biggest movies ever; one was just the opposite. But they did have something
+                in common!
+            &lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide" style="text-align: center;"&gt;
+        &lt;div class="thumbnail"&gt;
+            &lt;img src="//rockying.com/art/bollywood/Copied%20Posters/phoonk02.jpg" title="Copied Poster of Phoonk-2"
+                alt="" /&gt;
+&lt;p&gt;
+                One thing we expected from the RGV was crappy films over and over again; but crappy
+                copied posters; well, there’s a start. 
+            &lt;/p&gt;
+&lt;p&gt;Do not miss out on our yet another version of &lt;a href="http://www.rockying.com/a/264"/&gt;Most Popular Copied Bollywood Posters&lt;/a&gt; in it's, second, &lt;a href="http://www.rockying.com/a/264"/&gt;Plagiarism Alert&lt;/a&gt; version. Some more copy cats, exposed!
+&lt;/p&gt; 
+&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <WriterName>Rohit Gupta</WriterName>
+  <WriterEmail>mailto.rohitgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>138</URL>
+</Article>

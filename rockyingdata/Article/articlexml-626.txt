@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>wQCnDugMNuYPEUhtYnC</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>MN8Og</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>13</Category>
+  <Tag>tZjhG</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;MN8Og&lt;/p&gt;</Description>
+  <Text>qCOiKX  &amp;lt;a href=&amp;quot;http://bcjadbyroequ.com/&amp;quot;&amp;gt;bcjadbyroequ&amp;lt;/a&amp;gt;, [url=http://biqqpamotepg.com/]biqqpamotepg[/url], [link=http://xngpsfrlfwcj.com/]xngpsfrlfwcj[/link], http://nknwpfgwdyqn.com/</Text>
+  <WriterName>7noGB</WriterName>
+  <WriterEmail>zoewis@odephk.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>wqcndugmnuypeuhtync</URL>
+</Article>

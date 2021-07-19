@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Golden Ages Of Hollywood Story-Telling!</Title>
+  <MetaTitle>The Best of Hollywood stories, genres and narratives</MetaTitle>
+  <OGImage>//www.rockying.com/art/Hollywood/Story-telling-Evolution/2000s-collage.jpg</OGImage>
+  <OGDescription>It is the story telling genres in Hollywood that has given us all our own personal favorites and golden ages of Hollywood, actor and actresses and here is a short recap of the evolution it has gone through over the years.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>12</Category>
+  <Tag>Hollywood, Hollywood Story Telling, Hollywood Film Genres, Best Hollywood Movies</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Hollywood/Story-telling-Evolution/2000s-collage.jpg' alt='' /&gt;&lt;p&gt;It is the story telling genres in Hollywood that has given us all our own personal favorites and golden ages of Hollywood, actor and actresses and here is a short recap of the evolution it has gone through over the years.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    We all have our picks when it comes to the movies. Some like the animated wonders
+    of Pixar while others prefer the superhero epics. It is the storytelling genres
+    in Hollywood that has given us all our own personal favorites and here is a short
+    recap of the evolution it has gone through over the years. See if you can find the
+    roots of your favorite genre!&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            The 30s &amp; the 40s&lt;/h4&gt;
+        &lt;img src="//rockying.com/art/HOllywood/Story-telling-Evolution/30s-40s-Collage.jpg"
+            alt="Hollywood Movies in 30s and 40s" style="width: 600px;" /&gt;
+        &lt;p&gt;
+            The Golden Age of Hollywood. Romance ruled the screens and gave us fine movies like
+            &lt;strong&gt;Gone with the Wind &lt;/strong&gt;that have stood the test of time. The studios also flirted
+            with every story telling genre there is and gave classics such as &lt;strong&gt;King Kong&lt;/strong&gt;
+            (Adventure), Citizen Kane &amp; Hells Angels (Drama) &amp; &lt;strong&gt;The Wizard of Oz&lt;/strong&gt; (fantasy).
+            This was the time when Disney first created the animation genre with classics like
+            &lt;strong&gt;Bambi, Fantasia&lt;/strong&gt; and &lt;strong&gt;Snow White &amp; the Seven Dwarfs&lt;/strong&gt;. With a wide variety
+            of movies being made in every possible storytelling genres, Hollywood was at its
+            best in its first years.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            The 50s &amp; 60s&lt;/h4&gt;
+        &lt;img src="//rockying.com/art/HOllywood/Story-telling-Evolution/50s-60s-collage.jpg"
+            alt="Hollywood Movies in 50s and 60s" style="width: 600px;" /&gt;
+        &lt;p&gt;
+            The studios had become totally bound by a formula (much like Bollywood in the 90s)and
+            the audience soon got bored with the same old heroic romances. It rejected big budget
+            flicks featuring stars like Elizabeth taylor in &lt;strong&gt;Cleopatra &lt;/strong&gt;and only a lucky
+            few survived these dull days which included Charlton Heston’s chariot driving antics
+            in the epic &lt;strong&gt;Ben-Hur &lt;/strong&gt;and the joyful Julie Andrews singing in the Swiss Alps
+            in &lt;strong&gt;Sound of Music&lt;/strong&gt;. Paul Newman-Robert Redford starrer &lt;strong&gt;Butch Cassidy &lt;/strong&gt;
+            and the Sundance Kid gave the “Western” genre a breath of fresh air, visionary director
+            Stanley Kubrick revitalised science fiction through a cult classic &lt;strong&gt;2001: A Space
+                Odyssey&lt;/strong&gt;.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            The 70s&lt;/h4&gt;
+        &lt;img src="//rockying.com/art/HOllywood/Story-telling-Evolution/70s-collage.jpg"
+            alt="Hollywood Movies in 70s" style="width: 600px;" /&gt;
+        &lt;p&gt;
+            The cinema storyteller’s dream decade changed it all. A new wave of maverick directors
+            like George Lucas and the now famous Steven Spielberg burst upon the scene and created
+            the genre of Hollywood Blockbuster making movies like &lt;strong&gt;Star Wars &amp; Jaws&lt;/strong&gt;. The
+            absolute masala entertainers - epic yet simple stories filled to the brim with big
+            special effects &amp;, bigger stars. Also born in this whacky decade was a second genre
+            of Realistic cinema which gave us complex classics such as &lt;strong&gt;The Godfather (Crime),
+                Taxi Driver (Drama) and Rocky (Sports/Drama)&lt;/strong&gt;. The cult of horror was also
+            revitalised with &lt;strong&gt;The Exorcist&lt;/strong&gt; smashing box office records the world over.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            The 80s&lt;/h4&gt;
+        &lt;img src="//rockying.com/art/HOllywood/Story-telling-Evolution/80s-collage.jpg"
+            alt="Hollywood Movies in 80s" style="width: 600px;" /&gt;
+        &lt;p&gt;
+            The blockbusters were here to stay and the Star Wars franchise ruled the box office
+            in the 80s. The studios were quick to cash in the success mantra and many more fantasy/sci-fi/adventure
+            movies like the &lt;strong&gt;Indiana Jones &lt;/strong&gt;movies, the &lt;strong&gt;Back to the Future&lt;/strong&gt; series,
+            &lt;strong&gt;Batman &lt;/strong&gt;and &lt;strong&gt;Ghostbusters &lt;/strong&gt;were presented to packed cinema halls. Hollywood
+            had discovered its “formula” ( like we did with DDLJ!) The decade was the time of
+            big hits but little adventure in storytelling methods and only a handful of directors
+            pleased the intelligent viewer with classics like &lt;strong&gt;Gandhi &lt;/strong&gt;(Historical Drama)
+            and the cult hit &lt;strong&gt;E.T &lt;/strong&gt;(the sci-fi classic which inspired our own Koi Mil Gaya).&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            The 90s&lt;/h4&gt;
+        &lt;img src="//rockying.com/art/HOllywood/Story-telling-Evolution/90s-collage.jpg"
+            alt="Hollywood Movies in 90s" style="width: 600px;" /&gt;
+        &lt;p&gt;
+            Computer Graphics were born. CGI or Computer Generated Imagery revolutionized the
+            industry by gifting hits such as &lt;strong&gt;Jurassic Park, Independence Day and Men in Black
+            &lt;/strong&gt;where technology empowered the storytellers to create a believable fantasy world.
+            The makers could depict almost anything on the screens now, their imagination being
+            their only boundary. Two major genres from the Golden Age were revived in a big
+            way in this decade. Disney and Pixar recreated the magic of animation movies with
+            &lt;strong&gt;Toy Story&lt;/strong&gt; while the romance genre was brought back to life by &lt;strong&gt;Titanic
+            &lt;/strong&gt;.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            2000 On...&lt;/h4&gt;
+        &lt;img src="//rockying.com/art/HOllywood/Story-telling-Evolution/2000s-collage.jpg"
+            alt="Hollywood Movies in 2000s" style="width: 600px;" /&gt;
+        &lt;p&gt;
+            The reign of the special effect blockbuster continued in Hollywood. &lt;strong&gt;The Harry Potter
+                series, Avatar, Lord of the Rings, Transformers and the Spider Man &lt;/strong&gt;movies
+            reinforced the studio’s faith in epic storytelling and lavish CGI effects. But the
+            decade also saw many gritty and realistic movies being made. &lt;strong&gt;Passion of the Christ,
+                Memento &amp; Inception &lt;/strong&gt;are shining examples of movies which respect their audience’s
+            intellect. Even the big studios took notice and the success of two “different” blockbusters-
+            &lt;strong&gt;The Matrix &amp; The Dark Knight &lt;/strong&gt;created a new storytelling method – the realistic
+            fantasy. Independent movies like &lt;strong&gt;Paranormal Activity, Pan’s Labyrinth and Little
+                Miss Sunshine &lt;/strong&gt;also created the strong “indie” genre of movie making and
+            its fans have only grown ever since.&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+    It took almost a hundred years for the story telling genres in Hollywood to reach
+    the status it enjoys today and there was similar evolution across the colourful
+    spectrum of Hollywood. &lt;a href="http://www.facebook.com/RockyingMag?ref=hl" target="_blank"&gt;
+        Rockying&lt;/a&gt; promises to take you through the evolution of the various aspects
+    of Hollywood film making. Stick around, &lt;a href="http://www.rockying.com/a/225"&gt;the evolution story of VFX (Visual Effects)&lt;/a&gt; comes next.
+    &lt;br /&gt;
+    &lt;br /&gt;
+    By the way, which story-telling era did you like the most?&lt;/p&gt;
+&lt;p class="well"&gt;
+&lt;img src="http://www.rockying.com/art/Writers/Sonali.jpg" class="pull-left"/&gt;
+&lt;b&gt;About the Author:&lt;/b&gt; Keeping her eyes closed, with long breaths and a gentle sound many mistake for snoring, actually helps Sonali think better. Or so she says. People question about these daily “thinking sessions”, mostly conducted on a comfortable couch or bed, while she claims that the long overdue best-seller she’s been working on (for quite some time now) will silence all the cynics. Till then she dreams on...
+&lt;/p&gt;</Text>
+  <WriterName>Sonali Chowdhury</WriterName>
+  <WriterEmail>media.sonali@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>201</URL>
+</Article>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Plagiarism Alert: Most Popular Copied Bollywood Posters-2</Title>
+  <OGImage>http://www.rockying.com/art/bollywood/Imitated-Art-2/Ramleela-Copied7-.jpg</OGImage>
+  <OGDescription>Plagiarism is all over now! In the second edition of Bollywood's copied posters, we bring to you some more popular Bollywood bills and their sources of origination.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Copied Bollywood Posters, Imitated Art, Popular Bollywood Posters, Poster Art.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Imitated-Art-2/Ramleela-Copied7-.jpg' alt='' /&gt;&lt;p&gt;Plagiarism is all over now! In the second edition of Bollywood's copied posters, we bring to you some more popular Bollywood bills and their sources of origination.&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+            font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+            padding: 0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+            font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+            padding: 0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="slideshow"&gt;
+        &lt;div class="slide"&gt;
+            &lt;p&gt;
+               Bollywood is notorious for a lot of things - melodramatic movies, over the top romance and action and &lt;a href="http://www.rockying.com/a/119" target="_blank"/&gt;inspired story lines&lt;/a&gt;. However, there's hope, the &lt;a href="http://www.rockying.com/a/111" target="_blank"/&gt;experimental Bollywood&lt;/a&gt; is on its way. Somehow, creativity while designing posters is still somewhat of a shaky ground - we showed you &lt;a href="http://www.rockying.com/a/138" target="_blank"/&gt;before&lt;/a&gt; and we are showing you more! Slide on...
+            &lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Imitated-Art-2/Imitated-Art-2.jpg" alt="Copid Posters Collage"/&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/bollywood/Imitated-Art-2/Bhaiyaji-Superhit-Johny-Depp-1.jpg" alt="Bhaiyaji-Super-Hit-Copied-Poster"/&gt;&lt;br&gt;
+            &lt;p&gt;
+                &lt;b&gt;&lt;i&gt;BHAIYYAJI SUPERHITT&lt;/i&gt;&lt;/b&gt; - Sunny Deol desperately needed an image make over, but is copying Depp the way to do it? Have a look at his look in his upcoming Bhaiyya ji Superhitt. There's hardly any difference between the two: the tattoo on the wrist, the shirt, the muffler and even the ripped pair of jeans. Guess the bicep-skull decided to stick to Depp through thick and thin!&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/bollywood/Imitated-Art-2/Hulchul-2.jpg" alt="Hulchul Poster"/&gt;&lt;br&gt;
+            &lt;p&gt;
+                &lt;b&gt;&lt;i&gt;HULCHUL&lt;/i&gt;&lt;/b&gt; -Hulchul was hilarious and donned a huge, original hit-star-cast, what ever happened to the poster idea?  
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/bollywood/Imitated-Art-2/hiss-poster-copied-king-arthur-3.jpg"
+                alt="Hisss"/&gt;&lt;br /&gt;
+            &lt;p&gt;
+ &lt;b&gt;&lt;i&gt;HISSS&lt;/i&gt;&lt;/b&gt; - The age old 'shape-shifting' Nagin (Female Snake) and the devil trying to obtain the Nagmani by force. There was hardly any scope for originality but for the bill board. Alas!
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/bollywood/Imitated-Art-2/Jab-Tak-Hai-Jaan-and-Special-Forces-4.jpg"
+                alt="Jab Tak Hai Jaan"/&gt;&lt;br /&gt;
+            &lt;p&gt;
+ &lt;b&gt;&lt;i&gt;JAB TAK HAI JAAN&lt;/i&gt;&lt;/b&gt; - We know he died after making it, we know he was one of the greatest, but does that exempt Yash Chopra from serving us the junk all these years? Jab Tak Hai Jaan was the best example of the worst he sent our way. And it all started with a copied poster.  
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/bollywood/Imitated-Art-2/Jism-2-Copied-5.jpg"
+                alt="Jism 2"/&gt;&lt;br /&gt;
+            &lt;p&gt;
+ &lt;b&gt;&lt;i&gt;JISM 2&lt;/i&gt;&lt;/b&gt; - Do we blame it on the Bhatts? 
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/bollywood/Imitated-Art-2/murder-3-poster-6.jpg"
+                alt="Murder 3"/&gt;&lt;br /&gt;
+            &lt;p&gt;
+ &lt;b&gt;&lt;i&gt;MURDER 3&lt;/i&gt;&lt;/b&gt; - Just too many cheats in here to actually put our head around this. This Murder 3 poster is not worth any acknowledgement.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/bollywood/Imitated-Art-2/Ramleela-Copied7-.jpg"
+                alt="Ramleela"/&gt;&lt;br /&gt;
+            &lt;p&gt;
+ &lt;b&gt;&lt;i&gt;RAMLEELA&lt;/i&gt;&lt;/b&gt; - The upcoming Bhansali movie marks the collaboration of India's two youth icons Ranvir Singh and Deepika Padukone with one of the best directors of the fraternity...Did they lose all their energies while designing the first look?
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/bollywood/Imitated-Art-2/Rowdy-Rathore-The-Replacement-Killers-8.jpg"
+                alt="Rowdy Rathore"/&gt;&lt;br /&gt;
+            &lt;p&gt;
+ &lt;b&gt;&lt;i&gt;ROWDY RATHORE&lt;/i&gt;&lt;/b&gt; -The 'Don't Angry Me' tag on top of this Rowdy Rathore poster is just in case someone raises questions about the similarities. 'Spotted the only difference', eh?
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/bollywood/Imitated-Art-2/Talaash-Poster-Copied-9.jpg"
+                alt="Talaash"/&gt;&lt;br /&gt;
+            &lt;p&gt;
+ &lt;b&gt;&lt;i&gt;TALAASH&lt;/i&gt;&lt;/b&gt; -The makers of Talaash probably searched for everything - a great story line, a better box office performance, more appreciation and yes, better poster designers. 
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="slide"&gt;
+            &lt;img src="http://www.rockying.com/art/bollywood/Imitated-Art-2/Ugly-pagli-Copied-10.jpg"
+                alt="Ugly aur Pagli"/&gt;&lt;br /&gt;
+            &lt;p&gt;
+ &lt;b&gt;&lt;i&gt;UGLY aur PAGLI&lt;/i&gt;&lt;/b&gt; -Mallika Sherawat, before pointing out a finger to "regressive India"", look back at your own career path - your movie guys weren't as progressive as you thought they would be!
+&lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>WideBlogTemplate</TemplateName>
+</Article>

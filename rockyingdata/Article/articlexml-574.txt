@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>SZwfdZnjOtsVBe</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>X2DYL</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>13</Category>
+  <Tag>DerZvH</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;X2DYL&lt;/p&gt;</Description>
+  <Text>Best Site Good Work http://femjoy.in.net/ femjoy models  The Jewish element of the club&amp;amp;rsquo;s supportership may also be reminded of the Passover ritual whereby a glass of wine is poured for the prophet Elijah, on the off chance that after several thousand years of absenteeism, this is the night the old boy decides to pop in.</Text>
+  <WriterName>enrNp</WriterName>
+  <WriterEmail>rogelio8h@aol.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>szwfdznjotsvbe</URL>
+</Article>

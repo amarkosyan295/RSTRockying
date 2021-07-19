@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>lJBwfrtFSnKMZTPUwt</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>73gAQ</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>20</Category>
+  <Tag>nMM8O</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;73gAQ&lt;/p&gt;</Description>
+  <Text>Please wait http://femjoy.in.net/ www.femjoy.com  The BBC also revealed that a senior member of the Fire Service was allowed to run a private business selling uniforms and other protective equipment at the same time that he was in charge of buying uniforms for the service. The man has since died.</Text>
+  <WriterName>z2DiiH</WriterName>
+  <WriterEmail>waynexhs@usa.net</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>ljbwfrtfsnkmztpuwt</URL>
+</Article>

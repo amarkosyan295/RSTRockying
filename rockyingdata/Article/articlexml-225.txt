@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>The Magical Ride of Hollywood Special Effects</Title>
+  <MetaTitle>Hollywood Movies with Best Special effects and CGI</MetaTitle>
+  <OGImage>//www.rockying.com/art/HOllywood/Hollywood-SFX/Avatar-Hollywood-SFX.jpg</OGImage>
+  <OGDescription>The camera tricks of Hollywood are the art of a master magician, Hollywood special and visual effect movies, massive action stunning character design. And the magic wand which empowers the movie-maker to wow us with his art is the special effect</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>12</Category>
+  <Tag>Hollywood, Special Effects, Visual Effects, Hollywood Film making, CGI (Computer Generated Imagery), SFX Evolution, Avatar, The Matrix, Star Wars, The Lost World.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/HOllywood/Hollywood-SFX/Avatar-Hollywood-SFX.jpg' alt='' /&gt;&lt;p&gt;The camera tricks of Hollywood are the art of a master magician, Hollywood special and visual effect movies, massive action stunning character design. And the magic wand which empowers the movie-maker to wow us with his art is the special effect&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    The camera tricks of Hollywood are the art of a master magician, conjuring up myriad
+    alien worlds, massive action set-pieces and stunning character design. And the magic
+    wand which empowers the movie-maker to wow us with his art is the special effects
+    department.&lt;/p&gt;
+&lt;p&gt;
+    Rockying takes a look at the evolution of what has become one of the most important
+    aspects of modern day movie making: The Special effects a.k.a. SFX (now CGI) by
+    showcasing ten of the most iconic movies that added a new dimension to this world
+    of smoke and mirrors.&lt;/p&gt;
+&lt;ol class="unstyled"&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            THE EXECUTION OF MARY QUEEN OF SCOTS (1895)
+        &lt;/h3&gt;
+        &lt;img src="http://rockying.com/art/HOllywood/Hollywood-SFX/The-Execution-Of-Mary-Quenn-Of-Scots-1.jpg"
+            alt="The Execution of Mary Quenn of Scots" /&gt;
+        &lt;p&gt;
+            A proof that special effects have been around for as long as there have been movies!
+            This 1895 movie had the first VFX (Visual Effects) shot of the beheading of the
+            titular character. It was done with a dummy and a simple piece of editing&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            GERTIE THE DINOSAUR (1914)
+        &lt;/h3&gt;
+        &lt;img src="http://rockying.com/art/HOllywood/Hollywood-SFX/Gertie-The-Dinosaur-2.jpg"
+            alt="Gerite the dinosaur" /&gt;
+        &lt;p&gt;
+            Winsor McCay created an affable cartoon dinosaur and then filmed himself with it!  A revolutionary step back in the day, this was the first time an animated and a real character shared screen space together.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            THE LOST WORLD (1925)
+        &lt;/h3&gt;
+        &lt;img src="http://rockying.com/art/HOllywood/Hollywood-SFX/The-lost-World-1925-3.jpg"
+            alt="The Lost Work 1925" /&gt;
+        &lt;p&gt;
+            A movie that had all the early techniques on display. Stop Motion Animation (using
+            large puppets and scale models filmed frame by frame) and Traveling Matte (the process
+            of adding a moving element to a frame so that it could be separated as an element
+            and combined with a different background) were widely used.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            METROPOLIS (1927)
+        &lt;/h3&gt;
+        &lt;img src="http://rockying.com/art/HOllywood/Hollywood-SFX/Metropolis-4.jpg"
+            alt="Metropolis Movie 1927" /&gt;
+        &lt;p&gt;
+            A cult classic that created the Schufftan process - an in-camera, optical special
+            effect which used mirrors to create the illusion of live actors in huge sets (that
+            were actually miniatures of scenery or painted or modelled backgrounds).&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            2001 : A SPACE ODYSSEY (1968)
+        &lt;/h3&gt;
+        &lt;img src="http://rockying.com/art/HOllywood/Hollywood-SFX/A-Space-Odyssey-5.jpg"
+            alt="2001 A Space Odeyssey Movie" /&gt;
+        &lt;p&gt;
+            Stanley Kubrick’s masterpiece gave us the best shots of outer space ever. With techniques
+            such as the use of miniature models and full sized props, manually-guided pre-motion
+            control cameras and rear-projection, it showcased the best of its time.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            THE STAR WARS TRILOGY (1977-83)
+        &lt;/h3&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span7"&gt;
+                &lt;img src="http://rockying.com/art/HOllywood/Hollywood-SFX/Star-Wars-I-6.png"
+                    alt="Star Wars 1 Movie" /&gt;&lt;/div&gt;
+            &lt;div class="span4"&gt;
+                &lt;img src="http://rockying.com/art/HOllywood/Hollywood-SFX/Star-Wars-II-7.png"
+                    alt="Star Wars 2 Movie" /&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;p&gt;
+            A movie series by George Lucas that changed it all. With massive sets and amazing
+            effects (each of the movies won the Oscar for visual effects) it is indeed a feat
+            of genius considering that they didn’t use computers for almost any of the scenes,
+            relying solely on the classic animation techniques.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            JURASSIC PARK (1993)
+        &lt;/h3&gt;
+        &lt;img src="http://rockying.com/art/HOllywood/Hollywood-SFX/Jurassic-Park-8.png"
+            alt="Jurasic Park Movie" /&gt;
+        &lt;p&gt;
+            The Steven Spielberg movie which introduced us to the world of CGI (Computer Generated
+            Imagery). Though most of the dinosaurs we all saw were animatronic models, the movie
+            also had some of the first photo realistic CGI characters in the form of the terrifying
+            Tyrannosaurs Rex. The technique of CGI would soon become the most dominant force
+            in Hollywood VFX.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            THE MATRIX (1999)
+        &lt;/h3&gt;
+        &lt;img src="http://rockying.com/art/HOllywood/Hollywood-SFX/The-Matrix-9.png"
+            alt="The Matrix Movie" /&gt;
+        &lt;p&gt;
+            Slow motion action, “bullet-time”, wall scaling, time freezing and a million other
+            techniques were showcased in this blockbuster. While everyone else merely used the
+            CGI, this was the movie that gave it a style and identity which makes it a favourite
+            with fans even today.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            THE LORD OF THE RINGS TRILOGY
+        &lt;/h3&gt;
+        &lt;div class="row-fluid"&gt;
+            &lt;div class="span7"&gt;
+                &lt;img src="http://rockying.com/art/HOllywood/Hollywood-SFX/The-Lord-of-the-rings.png"
+                    alt="The Lord Of The Rings Movie" /&gt;
+            &lt;/div&gt;
+            &lt;div class="span5"&gt;
+                &lt;img src="http://rockying.com/art/HOllywood/Hollywood-SFX/Lord-Of-The-Rings.png"
+                    alt="Lord Of The Rings Movie" /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;p&gt;
+            The character of Gollum was created using the facial expressions and body movements
+            of actor Andy Serkis to create a CGI masterpiece. The technique, called motion capture,
+            still remains a favourite with animators.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            AVATAR (2009)
+        &lt;/h3&gt;
+        &lt;img src="http://rockying.com/art/HOllywood/Hollywood-SFX/Avatar.png"
+            alt="Avatar Movie" /&gt;
+        &lt;p&gt;
+            While every other movie boasted of spectacular special effects, James Cameron’s
+            epic saga of an alien planet brought great new technology on board. With new ways
+            of shooting 3-D and some of the best use of motion capture, Avatar remains the gold
+            standard for VFX in Hollywood today.&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+    Hollywood has come a long way and in the coming years we are only going to witness
+    more such spectacular effects onscreen. Hollywood is betting heavily on this magic
+    wand and why not after all it transports us to a different world and leaves us gasping
+    for more.
+&lt;/p&gt;
+&lt;h5&gt;
+    From &lt;a href="http://www.rockying.com/a/201"&gt;story-telling&lt;/a&gt;, special effects, next in our series is make-up where Rockying
+    will unveil evolution of &lt;a href="http://rockying.com/a/230" target="_blank"&gt; the art of make-up in Hollywood &lt;/a&gt;film making. Stick about!
+&lt;/h5&gt;
+&lt;p class="well"&gt;
+&lt;img src="http://www.rockying.com/art/Writers/Sonali.jpg" class="pull-left"/&gt;
+&lt;b&gt;About the Author:&lt;/b&gt; Keeping her eyes closed, with long breaths and a gentle sound many mistake for snoring, actually helps Sonali think better. Or so she says. People question about these daily “thinking sessions”, mostly conducted on a comfortable couch or bed, while she claims that the long overdue best-seller she’s been working on (for quite some time now) will silence all the cynics. Till then she dreams on...
+&lt;/p&gt;</Text>
+  <WriterName>Sonali Chowdhury</WriterName>
+  <WriterEmail>media.sonali@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>225</URL>
+</Article>

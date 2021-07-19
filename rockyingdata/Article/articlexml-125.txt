@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>125</ID>
+  <Title>The Great Indian Sanitation System Vs Sulabh Shauchalaya!</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Initiative/Sulabh/Sulabh_Shauchalaya.JPG</OGImage>
+  <OGDescription>Thousands of manual scavengers, most of whom are women, have been rehabilitated into leading better lives by Sulabh Sanitation movement and this is why Rockying expresses gratitude to this sanitation guru. India really needed this!</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>14</Category>
+  <Tag>Delhi Toilet Museum, Sulabh Shauchalaya, Sanitation</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;p&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Initiative/Sulabh/Sulabh_Shauchalaya.JPG" title="Sulabh Shauchalaya" alt="" style="width: 150px; float: left;"&gt;Thousands of manual scavengers, most of whom are women, have been 
+rehabilitated into leading better lives by Sulabh Sanitation movement 
+and this is why Rockying expresses gratitude to this sanitation guru. 
+India really needed this!&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    India’s leading NGO started and led by Dr. Bindeshwar Pathak has been one of the
+    most successfully implemented initiative that has not only helped cure several sanitation
+    problems on public roads but has also fulfilled the dream that our Bapu first saw.
+    &lt;a href="http://www.facebook.com/RockyingMag"&gt;Rockying&lt;/a&gt; identifies this as the
+    next best initiative of our times that has been deep-rooted, effective and sustaining
+    over the years.&lt;/p&gt;
+&lt;p&gt;
+    Let us know a little more about the movement that has been the most noticeable initiative
+    of our times and has changed India’s perception and empathy towards sanitation:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Well, did you know this amazing journey started from a hut? Who knew it would gather
+            momentum in the coming years steadily and become what today it is.&amp;nbsp;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Yes, it was Dr. Bindeshwar Pathak’s initiative as the Bihar Gandhi
+            &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/Sulabh/Sulabh.jpg" title="Sulabh under construction"
+                alt="" style="width: 500px; float: right;"&gt;Centenary Committee entrusted him
+            with the responsibility of finding an alternative model to manual scavenging. The
+            result was a two-pit pourflush toilet which has been rated as the best so far by
+            the United Nations! It is the only sanitation practice that converts toilet gases
+            into biogas and heating gases to generate electricity for the rural.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Massively spread out over 7500 locations, Sulabh has now 11 million users who swear
+            by it. The slums in India are crowded and this was the perfect fit that completed
+            the sanitation puzzle in India.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Let us take an example from our very own capital city- Delhi. The area around R
+            K Puram has all the street dwellers excreting out in open without any hesitation.
+            It is not as if they love the idea of doing it but what they lack is a proper amenity.
+            Hats off to this proposal.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Beat this. 1.2 million Latrines in India have been installed and fully functioning
+            till date.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Sulabh is the only body to use 1.5 litres of water per flush whereas other flushes
+            take away up to 10 litres of water. Howzzat?&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            It has not only uplifted the sanitation structure in India but have also given proper,
+            better and stable jobs to people who were mere manual scavengers.
+        &lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    Thousands of manual scavengers, most of whom are women, have been rehabilitated
+    into leading better lives by Sulabh Sanitation movement and this is why Rockying
+    expresses gratitude to this sanitation guru. India really needed this!&lt;/p&gt;
+&lt;img src="http://rudrasofttech.com/rockying/art/Initiative/Sulabh/museum%20of%20toilets.jpg"
+    title="Museum Of Toilets" alt="" style="width: 600px;" /&gt;
+&lt;h6&gt;
+    Did you know? Sulabh Sauchalaya has their own museum of toilets in Delhi? Dr Pathak
+    was impressed by the one in London and created one out here in Delhi. Rockying calls
+    it a MUST visit!&lt;/h6&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

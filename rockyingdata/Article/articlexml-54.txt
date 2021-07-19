@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>54</ID>
+  <Title>The Royal Udaipur; Greatest Travel Destinations from India</Title>
+  <MetaTitle>The Royal Udaipur; Greatest Travel Destinations from India</MetaTitle>
+  <OGImage>//www.rockying.com/art/Travel/Udaipur/lake-palace.jpg</OGImage>
+  <OGDescription>Royal Udaipur; Greatest Tourist Destination in Rajasthan</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Udaipur, Travel Destinations in Rajasthan, Tourist attraction Udaipur</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Travel/Udaipur/lake-palace.jpg' alt='' /&gt;&lt;p&gt;Royal Udaipur; Greatest Tourist Destination in Rajasthan&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    Moving ahead with our travel interview series (the first being &lt;a href="http://www.rockying.com/a/47"&gt;
+        Maui&lt;/a&gt;), we caught up with Muriel who visited the beautiful Udaipur. Read
+    on to discover her exploration.&lt;/p&gt;
+&lt;p&gt;
+    &lt;a title="Muriel Jacques" href="http://www.frenchyummymummy.com/" target="_blank"&gt;&lt;b&gt;
+        Muriel Jacques&lt;/b&gt;&lt;/a&gt; is a French-born British resident. She has been an avid
+    traveler and is always on the lookout for an excuse to travel yet again. Her most
+    memorable visit has been her trip to the wonderful royal &lt;b&gt;&lt;i&gt;Udaipur&lt;/i&gt; in Rajasthan,
+        India.&lt;/b&gt; Since then she is fascinated by everything Indian!&lt;/p&gt;
+&lt;h5&gt;
+    About me&lt;/h5&gt;
+&lt;p&gt;
+    I am a self-proclaimed French-born Yummy Mummy. I caught the travel bug when I was
+    23 when going to Bali for the first time. I have traveled at every possible opportunity,
+    for work or for vacations. For some reason, I feel happy when I travel.&lt;/p&gt;
+&lt;h5&gt;
+    My special travel destination&lt;/h5&gt;
+&lt;p&gt;
+    A place that blew me away was &lt;a title="Udaipur" href="http://en.wikipedia.org/wiki/Udaipur"
+        target="_blank"&gt;Udaipur&lt;/a&gt; in &lt;a title="Rajasthan" href="http://en.wikipedia.org/wiki/Rajasthan"
+            target="_blank"&gt;Rajasthan&lt;/a&gt; This was my first trip to India and I actually
+    wasn’t too pleased to go because I was following my husband, who at the time was
+    working for an Indian company and had a work seminar while all the spouses were
+    supposed to visit Rajasthan together. I thought that it was going to be a bit of
+    a bore. I couldn’t have been more wrong!&lt;/p&gt;
+&lt;img src="//rockying.com/art/Travel/Udaipur/Hotel-Lake-Palace.jpg"
+    title="Lake Palace Hotel" alt="" style="width: 800px;" /&gt;
+&lt;p&gt;
+    The landscapes were stunning. To top it up, we were staying at the &lt;a href="http://en.wikipedia.org/wiki/Lake_Palace"&gt;
+        &lt;b&gt;lake Palace &lt;/b&gt;&lt;/a&gt;&lt;a href="http://en.wikipedia.org/wiki/Lake_Palace"&gt;&lt;b&gt;Hotel&lt;/b&gt;&lt;/a&gt;,
+    in the middle of &lt;b&gt;lake Pichola&lt;/b&gt;. You had to travel by boat to get to the hotel.
+    It was where the James Bond movie “Octopussy” had been shot, and I am a huge James
+    Bond fan. To me, it is simply the best hotel in the world. The white building seemed
+    to float on the water. The food was fantastic. As it kept coming in small pieces,
+    I was eating all the time. But the best part of the trip was that I was the only
+    European woman, and I got to talk to all the Indian wives. They explained to me
+    what their religion was about and we visited a&amp;nbsp;&lt;b&gt;Ganesh temple&lt;/b&gt; (Ganesh
+    has an elephant’s head and is known as the Obstacles remover). We all seem to be
+    very comfortable with each other’s company quite soon.
+&lt;/p&gt;
+&lt;h5&gt;
+    Places I visited&lt;/h5&gt;
+&lt;img src="//rockying.com/art/Travel/Udaipur/Lake-Hotel-Palace-Interior.jpg"
+    title="Hotel Lake Palace Interior" alt="" style="width: 800px;" /&gt;
+&lt;p&gt;
+    We drove around quite a lot and went to the &lt;b&gt;Monsoon Palace&lt;/b&gt;, the summer residence
+    of the Maharajas. It was huge and all the objects were fantastic and very colorful.
+    In one of the rooms, a huge peacock was drawn on the wall. It was bright yellow
+    and blue.&amp;nbsp;&amp;nbsp;Also, who could miss the shopping in Udaipur. I bought lots
+    of &lt;b&gt;embroidered scarves&lt;/b&gt; to give to friends and family and also fell for a
+    little &lt;b&gt;silver elephant&lt;/b&gt;, beautifully carved.&lt;/p&gt;
+&lt;h5&gt;
+    The best time to be there&lt;/h5&gt;
+&lt;p&gt;
+    &lt;img src="//rockying.com/art/Travel/Udaipur/monsoon_palace_.jpg"
+        title="Monsoon Palace" alt="" style="width: 400px;" class="pull-left" /&gt;The
+    best time to go to Udaipur is between September and March if you want to avoid the
+    heavy rains of the monsoon and the tropical heat of the summer.&lt;/p&gt;
+&lt;h5&gt;
+    Financial Issues&lt;/h5&gt;
+&lt;p&gt;
+    All types of hotels and guest-houses can be found in Udaipur. Pick the one that
+    falls within your budget. I would recommend, wherever you stay, to go to the Lake
+    palace Hotel for a meal or a drink even if you are not staying there.&lt;/p&gt;
+&lt;h5&gt;
+    One special tidbit&lt;/h5&gt;
+&lt;p&gt;
+    While in Udaipur, a fortuneteller told me that I was a very spiritual person (which
+    came to a surprise to be as I would like to think that I am quite pragmatic!) and
+    that I should consider fortunetelling as a new career. I haven’t acted upon his
+    recommendation yet.&lt;/p&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>54</URL>
+</Article>

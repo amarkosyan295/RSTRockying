@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>36</ID>
+  <Title>YOU, BOSS and STRESS!!!!</Title>
+  <MetaTitle>YOU, BOSS and STRESS!!!!</MetaTitle>
+  <OGImage>//www.rockying.com/art/Stress%20affects%20health.jpg</OGImage>
+  <OGDescription>Read on to know more about a few things that would keep you healthy and away from stress...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Healthy Living, Eat healthy, Health, Life</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Stress%20affects%20health.jpg' alt='' /&gt;&lt;p&gt;Read on to know more about a few things that would keep you healthy and away from stress...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    You&lt;img src="//www.rockying.com/art/Stress%20affects%20health.jpg"
+        title="Stress affects Health" alt="" style="max-height: 251px;" class="pull-right" /&gt;
+    finally realized that an argument with your boss on a regular basis is killing your
+    appetite and increasing your nicotine intake. Take a minute to think why your boss
+    always is at the pink of his health and boasts of a healthy lifestyle. Indeed, he
+    delegates tension and he delegates his work!&lt;/p&gt;
+&lt;p&gt;
+    Read on to know more about a few things that would keep you healthy and away from
+    stress while work:
+&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;Stop thinking post work&lt;/strong&gt;: You are like this ship of the desert and your boss
+            thinks you can manage to survive without water and food for 28 days. The work files
+            and data chips would be put on your two humps and you are supposed to wade through
+            the workload. This is exactly where you need to stop! Work but drop it when you
+            are back home. The best way to beat stress is to join a sports club and sweat it
+            out. Table tennis, simple cardios or plain socializing can be the best way to gain
+            your health back. Now scare your boss and you know how!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;Stop measuring your life in coffee spoons&lt;/strong&gt;:&amp;nbsp; A mug of coffee can be your
+            savior if you have been actually drooping over your keyboard post lunch. But you
+            must know where to draw a line. The god of poetry Sir T S Eliot must have meant
+            something when he said “Tired of measuring my life in coffee spoons”, eh? Coffee
+            can make you look worn down if you are consuming too much. So here is what you need
+            to do! Think herbal. Have green teas or organic tea the next time you are thinking
+            of beating coffee at home.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;Rediscover a special relationship with your pillow&lt;/strong&gt;: Sleep. You can actually
+            manage to reach office late, and still see that the earth did not fall apart. If
+            you worked overtime the previous night, it is high time that you learn to take liberties
+            at work. Let this be the mantra for those honest donkeys slaving at work.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;Eat healthy&lt;/strong&gt;: Each time you find yourself stealing a bite of those samosas
+            available near your workstation, stop yourself. Food provides you primary sustenance
+            and you must pause to think what is going wring in your diet. Even if you are not
+            a diet exert, try the basic. Replace fried stuff with fruits and you will feel the
+            energy come back to you.
+        &lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;
+    After all, there is a reason why Japanese people live longer!
+&lt;/h4&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>36</URL>
+</Article>

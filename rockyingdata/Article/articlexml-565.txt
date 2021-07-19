@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>BTxPNRHAEl</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>8F0zH</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>13</Category>
+  <Tag>U3WsZ</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;8F0zH&lt;/p&gt;</Description>
+  <Text>How many are there in a book? http://youjizz.in.net youjiz  The floods, stemming from days of incessant rain that began on Sept. 11, inundated roughly 2,000 square miles across 17 Colorado counties, nearly 2,000 homes and hundreds of businesses.&amp;#160; Eight people were killed, one person is missing and presumed dead, and six others are missing, state officials say.</Text>
+  <WriterName>Rd2ht</WriterName>
+  <WriterEmail>dillon6w@lycos.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>btxpnrhael</URL>
+</Article>

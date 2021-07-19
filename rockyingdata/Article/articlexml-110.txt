@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>110</ID>
+  <Title>Streaming Videos Vs The Cult Of The DVD</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/internet/dvd%20death/DVD%201.jpg</OGImage>
+  <OGDescription>It might sound eerie but sadly this has been silently happening for the past couple of years now- the death of the DVD culture. People not only have stopped buying DVDs that range from Rs 400 and above but also have considerably stopped hiring it on rent, as the trend goes in many localities. Well,</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>10</Category>
+  <Tag>Internet Videos, Videos, Streaming Videos, DVD Business, Death of DVDs</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;p&gt;&lt;b&gt;&lt;img src="http://rudrasofttech.com/rockying/art/internet/dvd%20death/RIP_DVD.jpg" title="RIP DVDs" alt="" style="width: 150px; float: left;"&gt;I&lt;/b&gt;t might sound eerie but sadly this has been silently 
+happening for the past couple of years now- the death of the DVD 
+culture. People not only have stopped buying DVDs that range from Rs 400
+ and above but also have considerably stopped hiring it on rent, as the 
+trend goes in many localities. Well, this is global and the venom 
+against the DVD cult seems to be spreading everywhere.&lt;span style="font-weight: bold;"&gt;..&lt;/span&gt;&lt;b&gt;&lt;br&gt;
+  &lt;/b&gt;&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;img src="http://rudrasofttech.com/rockying/art/internet/dvd%20death/DVD%201.jpg" title="DVD DEATH" alt="" style="width: 600px; height: 427px;"&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;I&lt;/b&gt;t might sound eerie but sadly this has been silently happening for the past couple of years now- the death of the DVD culture. People not only have stopped buying DVDs that range from Rs 400 and above but also have considerably stopped hiring it on rent, as the trend goes in many localities. Well, this is global and the venom against the DVD cult seems to be spreading everywhere. &lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;WHY?&lt;/b&gt; We analyze the whys of this vanishing culture:&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;DOWNLOADING OUR WAY TO SAVINGS:&lt;/b&gt; People prefer downloading their movies and videos rather than watching it on a DVD worth a couple of hundreds. Today the average cost of watching a movie or a video online is not even half the cost of watching it in a theatre or renting a DVD. The market in a way has created situations that encourage a consumer to download videos rather than investing on DVDs. &lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;LAZYBONES, AREN’T WE? &lt;/b&gt;Considering the market ration: buying a DVD involves visiting the store and selecting one; on the contrary an online video library makes the best of the videos available just a click away! This is why streaming videos seem like a convenient activity than buying a TV, buying a DVD player and then collect DVDs of films and songs because they encourage zero mobility on the part of the consumers. So, the digital age is sure ahead of CD rentals and discs. &lt;/li&gt;&lt;li&gt;&lt;b&gt;NO MORE STORAGE ON SHELVES:&lt;/b&gt; Tonnes of websites provide free downloading of songs and films. Computers have inbuilt data storage spaces, so downloading a video and storing it as a soft copy is also not a mammoth task. Nostalgic about that wooden shelf? Its GBs now!&lt;/li&gt;&lt;/ol&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;ANALYSIS:&lt;/b&gt; Not many of us have used our DVD players for a long time now. Websites such as &lt;a href="http://torrentz.eu/"&gt;Torrentz&lt;/a&gt;, &lt;a href="http://vimeo.com/"&gt;Vimeo&lt;/a&gt;, &lt;a href="http://www.putlocker.com/"&gt;Putlocker&lt;/a&gt;, &lt;a href="http://megavidmovie.com/"&gt;Megavid&lt;/a&gt;, &lt;a href="http://vidbox.net/"&gt;Vidbox&lt;/a&gt;, &lt;a href="http://www.youtube.com/"&gt;Youtube&lt;/a&gt; etc have been extremely popular and are followed steadily for regular downloads. Otherwise, If it is about watching a film on television, we use our pen drives as external connectors. The advent of Smart TVs has made it easier for us still. There are many such ways to push the DVD out of the market and we still won’t cry missing the old friend. So, does the missing case of the DVD make the consumer a little shakier? No! &lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;PIRACY AND ALL THAT?&lt;/b&gt; The current trends have merged the piracy market into the mainstream market that it is hard to question what is really non-ethical about piracy after all. &lt;/li&gt;&lt;/ul&gt;&lt;h5&gt;So think twice before you say “No to Piracy, buy DVD”! Do you really follow it yourself?&lt;br&gt;&lt;br&gt;&lt;/h5&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

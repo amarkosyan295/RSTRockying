@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Vinhomes launches VinCity Sportia project</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>VinCity</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>VinCity</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;VinCity&lt;/p&gt;</Description>
+  <Text>http://image.vietnamnews.vn//uploadvnnews/Article/2018/12/4/Anh2121114032AM.jpg 
+VinCity Sportia is the second project launched in HA NOI under the VinCity brand this year. — Photo courtesy of Vingroup 
+Viet Nam News 
+HA NOI — Vinhomes Joint Stock Company, a member of property developer Vingroup, officially launched the VinCity Sportia project on Tuesday. 
+Developed from the dynamic sports city concept of &amp;quot;Singapore and beyond,&amp;quot; VinCity Sportia is one of the most modern and dynamic outdoor sports complexes in Viet Nam. 
+The project is located at the axis of Thăng Long Avenue, in the area of T&amp;#226;y Mo - Đại Mo Ward. It covers 280 hectares; however, the construction density is only 14.7 per cent. 
+VinCity Sportia spends most of its space to develop public facilities including the largest outdoor sports park in Việt Nam with more than 1,000 gym machines, eight utility parks, 200 outdoor sports fields, eight indoor and outdoor swimming pools, more than 60 children’s playgrounds and 58 relaxing hubs with gardens and walking paths. 
+VinCity also owns a comprehensive system of education, health, entertainment and leisure facilities in accordance with Singaporean standards, including an education system from kindergarten to multidisciplinary school including Vinschool, Vinmec International Hospital, Vincom Centres, crowded commercial streets and three BBQ parks. 
+VinCity Sportia will also be managed in accordance with VinCity standards from Vinhomes investor to maintain the best environment and facilities. In particular, the security system includes security cameras, a secure elevator using resident cards and a fire safety system with shelters and fire doors. 
+In order to make the urban model of &amp;quot;Singapore and beyond&amp;quot; more accessible to the population, Vinhomes and Techcombank have combined to offer a financial solution for customers. Accordingly, customers buying in VinCity Sportia receive maximum financial support. With only 10 per cent of the apartment price, customers can sign a sale contract. The next 20 per cent are paid gradually over six months after signing the sale contract, and for the remaining 70 per cent customers are entitled to a 35-year loan. The payment is only several million VNĐ per month. 
+VinCity Sportia is the second project launched in HA NOI in 2018 under the VinCity brand. Modern and convenient, the outstanding point of the VinCity model is the large ecological space, honouring healthy lifestyles and the balance between an active lifestyle and nature. — VNS 
+ 
+https://vincity.bacvilla.com - vincity 
+https://vincity.bacvilla.com - vincity sportia</Text>
+  <WriterName>VinCity</WriterName>
+  <WriterEmail>lourdes@j.bangkok-mega.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>vinhomes-launches-vincity-sportia-project</URL>
+</Article>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>130</ID>
+  <Title>5 Things To Do In Jammu &amp; Kashmir</Title>
+  <MetaTitle>5 Things To Do In Jammu &amp; Kashmir</MetaTitle>
+  <OGImage>//www.rockying.com/art/Travel/Jammu n Kashmir/Vaishno-Devi.jpg</OGImage>
+  <OGDescription>What better place to run away to, if not the veritable ‘paradise on earth’- the beautiful state of Jammu &amp; Kashmir. Here are our recommendations of 5 must-do things when you are happily lost in the paradise...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Jammu and Kashmir, Travel India,Travel Destinations India</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Travel/Jammu n Kashmir/Vaishno-Devi.jpg' alt='' /&gt;&lt;p&gt;What better place to run away to, if not the veritable ‘paradise on earth’- the beautiful state of Jammu &amp; Kashmir. Here are our recommendations of 5 must-do things when you are happily lost in the paradise...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    Summer is here and with it is the insatiable urge of escaping somewhere that is
+    greener, cooler and prettier than the dusty concrete jungles of our daily lives.
+    What better place to run away to, if not the veritable ‘&lt;i&gt;&lt;b&gt;paradise on earth&lt;/b&gt;&lt;/i&gt;’-
+    the beautiful state of &lt;b&gt;&lt;a href="http://en.wikipedia.org/wiki/Jammu_and_Kashmir"
+        target="_blank"&gt;Jammu &amp;amp; Kashmir&lt;/a&gt;&lt;/b&gt;.
+&lt;/p&gt;
+&lt;p&gt;
+    Here are our recommendations of 5 must-do things when you are happily lost in the
+    paradise:
+&lt;/p&gt;
+&lt;h5&gt;
+    5. GO RELIGIOUS&lt;/h5&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="//rockying.com/art/Travel/Jammu%20n%20Kashmir/J.n.K.000.jpg" title="Go Religious in Jammu and Kashmir"
+        alt="" style="height: 394px;" class="pull-right" /&gt;
+    The state is a serene meeting place of India’s many religious beliefs. The famous
+    &lt;b&gt;Charar-e-Sharif&lt;/b&gt; mosque and the &lt;b&gt;Shankaracharya temple&lt;/b&gt; coexist in harmony
+    in Srinagar. The state is also steeped in Sufi mysticism and you will hear many
+    an old tale of miracles and divine compassion at one of the innumerable ‘dargahs’.
+    But the big ticket destinations here are the &lt;b&gt;Vaishno Devi Temple&lt;/b&gt; (at Katra,
+    54 km from Jammu) and the grand pilgrimage of &lt;b&gt;Amarnath&lt;/b&gt;.
+    &lt;br /&gt;
+    &lt;br /&gt;
+    &lt;b&gt;INSIDER'S TIP&lt;/b&gt;: Apart from temples, J&amp;amp;K h also has a myriad collection
+    of forts &amp;amp; palaces. The Hari Niwas (Jammu) and the Moti Mahal (Poonch) will
+    surprise you with hints of Irish in their architecture, whereas Leh will show you
+    how a fort made of mud (Zorawar Fort) can survive for centuries.
+&lt;/p&gt;
+&lt;h5&gt;
+    4. GO TO THE VALLEY&lt;/h5&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="//rockying.com/art/Travel/Jammu%20n%20Kashmir/J.n.K.Collage.jpg" title="Go to The Valley and Road Tripping"
+        alt="" style="width: 550px;" class="pull-right" /&gt;If there is a paradise on
+    earth, this must be it. Srinagar valley, though scarred by years of political turmoil
+    is still pretty as a picture. The &lt;b&gt;Dal Lake&lt;/b&gt; and its famous &lt;b&gt;shikaras&lt;/b&gt;,
+    the spectacular natural vistas, the exotic flavors of &lt;b&gt;Wazwan cuisine&lt;/b&gt; and
+    some swanky new hotels such as the &lt;b&gt;Taj Vivanta&lt;/b&gt; are once again attracting
+    hordes of tourists back to the paradise.&lt;br /&gt;
+    &lt;br /&gt;
+    &lt;b&gt;INSIDER'S TIP&lt;/b&gt;: if you are staying for long, try the various road trips to
+    places like Kargil. Not very touristy but the place is sure to make your heart swell
+    with pride at the sight of our brave jawaans.&lt;/p&gt;
+&lt;h5&gt;
+    3. GO ROAD TRIPPING!&lt;/h5&gt;
+&lt;p&gt;
+    If you like being behind the steering wheel and have an adventurous streak, J&amp;amp;K
+    is the place for you. Raid de Himalaya is India’s foremost rally held annually honoring
+    the challenging roads of the state.&amp;nbsp; The road trip to &lt;b&gt;&lt;a href="//rockying.com/a/206"&gt;
+        Leh&lt;/a&gt;&lt;/b&gt; via Manali is considered the Holy Grail for the many Enfield fanatics
+    of India. There is also the new Mughal road, which runs from Jammu to Poonch and
+    then on to Srinagar after crossing the magnificent Pir Panjal mountains.&lt;br /&gt;
+    &lt;br /&gt;
+    &lt;b&gt;INSIDER'S TIP&lt;/b&gt;: Mughal road was the route taken by the Mughal emperors&amp;nbsp;
+    en route to the valley for a summer break and so you will find many ruins of medieval
+    rest houses nestled amongst the absolutely unspoiled natural beauty of Poonch.&lt;/p&gt;
+&lt;h5&gt;
+    2. GO SKIING&lt;/h5&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="//rockying.com/art/Travel/Jammu%20n%20Kashmir/gulmarg.jpg" title="Skiing In Gulmarg"
+        alt="" style="width: 550px;" class="pull-right" /&gt;Gulmarg will surprise most
+    first time visitors. Jaws will drop, cameras will be whipped out and the inevitable
+    comparisons to the Swiss Alps will begin. The ski routes here are a treat for novices
+    and pros alike and the state deservedly serves as the hub of the sport in India.
+    &lt;br /&gt;
+    &lt;br /&gt;
+    &lt;b&gt;INSIDER'S TIP:&lt;/b&gt; Go exploring as well. The surrounding area is breathtakingly
+    beautiful. Pine trees, pristine white snow and a small temple where Rajesh Khanna
+    once sang ‘Jai Jai Shiv Shankar’, this is indeed a slice of heaven.&lt;/p&gt;
+&lt;h5&gt;
+    1. GO TO LADAKH&lt;/h5&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="//rockying.com/art/Travel/Jammu%20n%20Kashmir/Ladakh.jpg" title="Ladakh"
+        alt="" style="width: 550px;" class="pull-right" /&gt;
+    Simply put, there is no other place quite like &lt;a href="//rockying.com/a/206"&gt;
+        Ladakh&lt;/a&gt;. The famous ‘moonscape’ of one of India’s foremost tourist destination
+    is a surreal sight. Drive across the 18380 ft high Khardung-La pass (once the highest
+    road in the world), see the countless lakes in and around Ladakh (yes, the famous
+    one in 3 Idiots is here too), get ‘attracted’ to the inexplicable magnetic hill
+    and find some inner peace at the beautifully perched Shanti Stupa. Ladakh is the
+    trip of a lifetime.&lt;br /&gt;
+    &lt;br /&gt;
+    &lt;b&gt;INSIDER'S TIP&lt;/b&gt;: Don’t restrict your visit to Leh alone. Do cross over to the
+    Nubra valley and see amazing sand dunes among the highest mountains in India as
+    well as the rare twin-humped Bactrian camels.&lt;/p&gt;
+&lt;p&gt;
+    Photo by: &lt;a href="http://www.facebook.com/aman.jhorar" target="_blank"&gt;Aman Jhorar&lt;/a&gt;&lt;/p&gt;
+&lt;h6&gt;
+    With the travel magazine &lt;a href="http://www.lonelyplanet.com/india" target="_blank"&gt;
+        Lonely Planet India&lt;/a&gt; voting Jammu and Kashmir as the best destination-emerging
+    (India) for 2012, it's time that you shed all the concerns about the state and explore
+    the paradise on earth.&lt;/h6&gt;</Text>
+  <WriterName>Sonali Chowdhury</WriterName>
+  <WriterEmail>media.sonali@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>130</URL>
+</Article>

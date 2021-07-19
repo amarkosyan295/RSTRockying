@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>14</ID>
+  <Title>Relief for Vodafone !</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Vodafone.jpg</OGImage>
+  <OGDescription>Vodafone</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <Category>9</Category>
+  <Tag>Vodafone, Case, Supreme Court, Mobile network</Tag>
+  <Status>Inactive</Status>
+  <Description>&lt;p&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Vodafone.jpg" title="Vodafone " alt="" style="width: 150px; float: left;"&gt;&lt;b&gt;It came as a breather for UK-based Vodafone Group Plc, the parent 
+company of Vodafone Essar, which hailed Supreme Court's ruling to set 
+aside the Bombay High Court judgment asking the company to pay income 
+tax of Rs 11,000 crore.Read on to know more...&lt;br&gt;&lt;/b&gt;&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Vodafone.jpg" title="Vodafone " alt="" style="float: left;"&gt;It came as a breather for UK-based Vodafone Group Plc, the parent company of Vodafone Essar, which hailed Supreme Court's ruling to set aside the Bombay High Court judgment asking the company to pay income tax of Rs 11,000 crore.&lt;br&gt;&lt;br&gt;Being the second largest telecom operator, the judgment will strengthen its presence in the Indian market and to retain customer’s confidence. &lt;br&gt;&lt;br&gt;Commenting on the decision, Vittorio Colao said in a statement that they welcome the the Supreme Court's decision, underpins our confidence in India. We will continue to grow our Indian business - including making significant investments in rural areas and in 3G network coverage - for the benefit of Indian consumers. &lt;br&gt;&lt;br&gt;The Supreme Court today set aside the Bombay High Court judgement asking Vodafone International Holdings to pay Rs 11,000 crore to Income Tax department, on the ground that Indian authorities do not have jurisdiction on an overseas transaction.&lt;br&gt;&lt;br&gt;Further, the company said, "Vodafone has maintained consistently throughout the legal proceedings that this transaction was not taxable and we are pleased with today's judgement in the Supreme Court."&lt;br&gt;&lt;br&gt;The court also asked the IT department to return Rs 2,500 crore deposited by Vodafone, in compliance with its interim order, within two months along with 4% interest.&lt;br&gt;&lt;br&gt;It asked Supreme Court registry to return within four weeks, the bank guarantee of Rs 8,500 crore given by the telecom major.&lt;br&gt;&lt;br&gt;"We are a committed long-term investor in India and we have made clear all along that we have faith in the Indian judicial system...," Colao added.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;</Text>
+  <WriterName>Bhaskar Jha</WriterName>
+  <WriterEmail>bhaskar@mediaguru.in</WriterEmail>
+</Article>

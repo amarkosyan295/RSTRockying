@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Why household leakage serious issue- Save Water and the Earth</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>Don&amp;#39;t let leaks disrupt your daily life. With every single drop of water that leaks from your shower you will waste approximately more than 3000 gallons of water per year.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>20</Category>
+  <Tag>save water, save earth, household leakage,</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;Don&amp;#39;t let leaks disrupt your daily life. With every single drop of water that leaks from your shower you will waste approximately more than 3000 gallons of water per year.&lt;/p&gt;</Description>
+  <Text>A leaking roof or other fixtures and fittings are a serious issue. Any other issue in the household can be procrastinated but not this one. In the list of home maintenance, a leakage repair must be on top priority. Proper maintenance of your home will prevent your household from a lot of accidents and damages. Leakage in the house can be because of the bountiful of issues like leakage in the roof, leaky shower, poor maintenance, and storm or wind damage. Many people avoid leakage issues thinking that it is just a minor leakage without knowing the problem it could bring to your day-to-day life. The leaking water can go to the foundation from the attic causing costly damages to your building. Some leaks are readily visible like a leaking shower, faucet or tap but a few leaks go undetected for months or years. When leaks are undetected, water escapes are hidden which causes tremendous wastage of water. People should be aware of the seriousness of this issue. Have a look at the below-mentioned problems that a normal leakage in your house can cause:</Text>
+  <WriterName>Robert Allard</WriterName>
+  <WriterEmail>robertallard745@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>why-household-leakage-serious-issue--save-water-and-the-earth</URL>
+</Article>

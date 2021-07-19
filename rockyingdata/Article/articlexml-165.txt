@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>165</ID>
+  <Title>Useless Things Turned Into High Utility Gadgets!</Title>
+  <MetaTitle>Useless Things Turned Into High Utility Gadgets!</MetaTitle>
+  <OGImage>//rockying.com/art/Do-It-Yourself-Slide-Show/New-uses-for-old-things/dinner%20set%20table.jpg</OGImage>
+  <OGDescription>Use your oldest things for their best transformations ever. Find out tips...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>19</Category>
+  <Tag>Do it yourself, Good out of waste.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/Do-It-Yourself-Slide-Show/New-uses-for-old-things/dinner%20set%20table.jpg' alt='' /&gt;&lt;p&gt;Use your oldest things for their best transformations ever. Find out tips...&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px;  height:40px;
+            font-size: 50px; font-weight: 100; color: #000; border: none; text-align: center; margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px;height:40px;
+            font-size: 50px; font-weight: 100; color: #000;border: none; text-align: center;margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;&lt;div class="slideshow"&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;h3&gt;Make your old, not-so-necessary items into mind-blowingly functional gadgets. NOW ! &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/New-uses-for-old-things/0801-tissue-plastic_300.jpg" title="Use that tissue box" alt="" style="width: 600px;"&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/New-uses-for-old-things/corn-tooth-brush_300.jpg" title="Use your tooth brush for more than the tooth" alt="" style="width: 600px;"&gt;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/New-uses-for-old-things/dinner%20set%20table.jpg" title="Protect your precious..." alt="" style="width: 600px; height: 385px;"&gt;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/New-uses-for-old-things/gift-tag-ornaments-400a.jpg" title="Use those cardboard coasters for better" alt="" style="width: 600px;"&gt;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/New-uses-for-old-things/picture%20frame.jpg" title="Make use of that old frame" alt="" style="width: 600px;"&gt;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/New-uses-for-old-things/showercap4%281%29.jpg" title="The shower cap used for a great purpose" alt="" style="width: 600px;"&gt;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/New-uses-for-old-things/six%20pack%20holder.jpg" title="That drink carrier has a lot more utility" alt="" style="width: 600px;"&gt;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/New-uses-for-old-things/sol-new-colander_300.jpg" title="Want the melting water out of the ice? " alt="" style="width: 600px;"&gt;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/New-uses-for-old-things/twister%20mat.jpg" title="Protect your Dinner Table" alt="" style="width: 600px;"&gt;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/New-uses-for-old-things/vegetable%20oil%20and%20leather%20patent.jpg" title="Make your footwear shine literally!" alt="" style="width: 600px;"&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</Text>
+  <WriterName>Vratika Singh</WriterName>
+  <WriterEmail>vratika@rudrasofttech.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>165</URL>
+</Article>

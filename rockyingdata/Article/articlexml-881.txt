@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>aAJYkaNltWehfcwV</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>JfcbWzWM</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>12</Category>
+  <Tag>DOmdFMikwOfQU</Tag>
+  <Status>Inactive</Status>
+  <Description>&lt;p&gt;JfcbWzWM&lt;/p&gt;</Description>
+  <Text>prescription drugs online without doctor http://wellbutrin100.com/ or http://plaquenilcanada24.com/ or http://wellbutrin100.com/
+prescription drugs online without doctor</Text>
+  <WriterName>RnIpPlLilRJAUymI</WriterName>
+  <WriterEmail>jdssdijij@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>aajykanltwehfcwv</URL>
+</Article>

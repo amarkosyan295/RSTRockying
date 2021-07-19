@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>घरेलू आयुर्वेद से करें रूसी की समस्या का समाधान।</Title>
+  <OGImage>http://www.rockying.com/art/health/Home-made-Remedies/Coconut-Oil-and-Camphor.jpg</OGImage>
+  <OGDescription>Fix the dandruff problem with simple home Ayurveda...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Dandruff, Home Remedies, Natural, Ayurveda, Scalp, Hair, Ayurvedic treatment.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/health/Home-made-Remedies/Coconut-Oil-and-Camphor.jpg' alt='' /&gt;&lt;p&gt;Fix the dandruff problem with simple home Ayurveda...&lt;/p&gt;</Description>
+  <Text>&lt;h2&gt;सर में रूसी होना (Dandruff)- कारण और प्रभाव:&lt;/h2&gt;
+&lt;p&gt;
+डैंड्रफ या रूसी होना आम तौर पर तो कोई गंभीर &lt;img src="http://www.rockying.com/art/health/Home-made-Remedies/Dandruff.jpg" alt="Dandruff" title="डैंड्रफ या रूसी" class="pull-right" style="padding-left:10px;"&gt;अवस्था नहीं है पर लगातार खुजलाना और सर से सफ़ेद रूसी गिरना किसी के लिए शर्मिंदगी की वजह हो सकती है तो किसी के लिए चेहरे पर होने वाले मुहासों का मुख्य कारण। ये भी माना जाता है कि, लगातार महीन रूसी झड़ने से, नाक के रास्ते गन्दगी फेफड़ों में जाकर अस्थमा जैसी सांस की बीमारी को भी जन्म दे सकती है। तो इस आम सी समस्या, जिसके लिए न डॉक्टर की ज़रूरत मालूम देती है, न खुद ब खुद ठीक होने का नाम लेती है, आखिर किया क्या जाए ? इन सरल, आयुर्वेदिक उपायों को घर बैठे कर के देखिये। निश्चित लाभ होगा। 
+&lt;/p&gt; 
+
+&lt;h3&gt;रूसी भगाने के उपाय: &lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt; &lt;p&gt;&lt;b&gt;नारियल तेल&lt;/b&gt;: 100 ग्राम नारियल का तेल और 4 ग्राम कपूर को मिलाकर शीशी में रख लें।  दिन में दो बार, नहाने के बाद,  बाल सूख जाने पर और रात में सोने से पहले सर पर खूब मालिश कीजिये। दूसरे ही दिन रूसी कम होने लगेगी। इस तेल के इस्तेमाल से बालों में जूं भी पैदा नहीं होती हैं।&lt;/p&gt;&lt;/li&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/health/Home-made-Remedies/Coconut-Oil-and-Camphor.jpg" alt="Cocnut Oil and Camphor" title=" नारियल तेल और कपूर"&gt;
+&lt;hr&gt;
+&lt;li&gt;&lt;p&gt;&lt;b&gt;नींबू&lt;/b&gt;: बाल धोने से आधा घंटा पहले एक नींबू काटकर या नींबू का रस सिर पर मले और फिर हल्के गर्म पानी से सिर धो लें, ऐसा करने से रुसी साफ़ हो जाती है। या  दो-चार किलो पानी में दो नींबुओं का रस निचोड़कर एक हफ्ते तक रोज़ बालों  को अच्छी तरह धोएं, ऐसा करने से बालों में चमक आएगी रुसी दूर  होगी और यदि जुऐ हैं तो वह भी चली जाएँगी।
+&lt;/p&gt;&lt;/li&gt; 
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/health/Home-made-Remedies/lemons.jpg" alt="Lemons" title="नींबू"&gt;
+&lt;hr&gt;
+&lt;li&gt;&lt;p&gt;&lt;b&gt;रीठा&lt;/b&gt;: रीठे का शैम्पू रुसी हटाने में उतना ही कारगर है जितना की कोई भी आधुनिक शैम्पू। यदि बाल गिर रहे हों तो रीठे से धोने से फायदा होगा, हर चौथे दिन सिर धोएं। &lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;img src="http://www.rockying.com/art/health/Home-made-Remedies/Reetha.jpg" alt="Reetha" title="Reetha"&gt;
+&lt;p&gt;
+&lt;b&gt;रीठे के शैम्पू की विधि &lt;/b&gt;: रात में रीठे के छिलके के छोटे-छोटे टुकड़े करके पानी में भिगो दें।  सुबह उस पानी को मसलकर उससे सर धोने से बाल लम्बे और घने होते हैं।  इसके लिए बालों को पहले थोड़ा गुनगुना पानी डालकर धोइये।  उसके बाद रीठे के पानी के घोल की आधी मात्रा सर पर डालकर बालों को 5-10 मिनट तक मलिए। अब इसे धो डालिये।  फिर आधा बचा हुआ शैम्पू पहले की तरह डालकर मलिए, अच्छी तरह मलने के बाद धो डालिये।
+&lt;/p&gt;  
+&lt;p&gt;
+महंगे एंटी-डैंड्रफ शैम्पू खरीदते हुए थक गए हों तो ये सरल से उपाय करके देखिये। ज़रूर फ़ायदा होगा और अगर न भी हुआ तो प्राकृतिक चीज़ों से कभी कोई नुक्सान नहीं होगा। 
+&lt;/p&gt;
+&lt;style&gt;
+#article p {
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+}
+&lt;/style&gt;</Text>
+  <WriterName>Rockying</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>hindi/fix-the-dandruff-problem-right-now-with-home-ayurveda</URL>
+</Article>

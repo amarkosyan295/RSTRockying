@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>83</ID>
+  <Title>Pack Right, Travel Right !</Title>
+  <MetaTitle>Pack Right, Travel Right !</MetaTitle>
+  <OGImage>//www.rockying.com/art/Travel/travel-packing.jpg</OGImage>
+  <OGDescription>How many times have you unpacked your luggage in a new city / country and thought this “Darn, I forgot to pack this!” and you just go stomping around because you are in a new city, lost and not properly packed for it. Well, here is what we suggest; plan before hand and pack right...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Travel Packing Tips</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Travel/travel-packing.jpg' alt='' /&gt;&lt;p&gt;How many times have you unpacked your luggage in a new city / country and thought this “Darn, I forgot to pack this!” and you just go stomping around because you are in a new city, lost and not properly packed for it. Well, here is what we suggest; plan before hand and pack right...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;How many times have you unpacked your luggage in a new city / country and
+    thought this “Darn, I forgot to pack this!” and you just go stomping around because
+    you are in a new city, lost and not properly packed for it. Well, here is what we
+    suggest; plan before hand and pack right.
+&lt;/p&gt;
+&lt;p&gt;
+    Before you travel you need to make sure you carry along stuff that you will actually
+    need and accessories that will help you make the journey not only easier but enjoyable
+    too. Though the essentials will vary over the places which you are visiting; there
+    are some things which are just needed for every trip.
+&lt;/p&gt;
+&lt;h3&gt;THE RIGHT SHOES&lt;/h3&gt;
+&lt;p&gt;Though your 4 inchers look very pretty on your feet, they will be uncomfortable
+    when you are out site-seeing. A good pair of sneakers or sport shoes works fine
+    in any weather and any terrain. Get the right shoe, the right size and make sure
+    they are comfortable. Try them out for at least some days before they pack for the
+    trip; sore feet are the last thing you need on a vacation.
+&lt;/p&gt;
+&lt;h3&gt;THE MAP- KNOW YOUR WAY AROUND&lt;/h3&gt;
+&lt;p&gt; 
+It is a surprise how many people forget this basic thing on their vacation. In situations
+    where you don’t know the local language, getting around might be a challenge. Guides
+    work well but if you are planning on exploring places by yourself, then a local
+    detailed map might become very handy.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;img src="//rockying.com/art/Travel/Travel%20Packing.jpg" title="Travel Packing"
+            alt="" style="width: 500px;"&gt;
+&lt;hr&gt;
+    
+&lt;h3&gt;HOT OR COLD? ARE YOU READY FOR IT?&lt;/h3&gt;
+
+&lt;p&gt;Find out what the climate is before you freeze to your bones or burn your soul in
+    the heat! Pack a cardigan if weather changes are something of a norm in the city.
+    Make sure you carry your sunscreen and sunglasses if heat is at its peak. Packing
+    the right clothes will a long way in making sure that travelling around is comfortable.
+   &lt;/p&gt;
+&lt;h3&gt;THE GEEK ON VACATION&lt;/h3&gt;
+&lt;p&gt;
+    Sorry to the geeks out there, I really like you for what you are doing to the world;
+    but for the rest, stop being a geek even when you are on vacation. A smartphone is quite worthy and does everything you might need. But having to carry your iPads,
+    your laptops, your DVD players, your music players, the Kindles – limit yourself to what you might really need and really is worth putting on the extra luggage for.
+   &lt;/p&gt;
+&lt;h3&gt;THE FIRST AID BOX&lt;/h3&gt;
+&lt;p&gt;Your health comes first. Keeping the emergency numbers and the hospital locations
+    close is a smart choice, but not having a mini first aid kit might just be a big
+    blunder. Make sure you have a couple of the basic medical things you need – band
+    aids, pills for a headache, muscle relaxant for sprains, pulls or anything minor.
+    But make sure you know the numbers for the local hospital.
+&lt;/p&gt;
+&lt;p&gt;Chugging your luggage around will break your back. Travel light, keep it to a minimum.
+    You will shop and that will add on to your luggage. Make sure you just have enough
+    space not only for the extra shopping but also to stay within the luggage rules
+    at the airports. Do your travel research beforehand so that you are prepared for
+    almost all the surprises the vacation will throw onto you.
+&lt;/p&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>83</URL>
+</Article>

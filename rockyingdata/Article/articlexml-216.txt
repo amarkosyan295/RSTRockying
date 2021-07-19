@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Namaste India IV: Lucknow</Title>
+  <MetaTitle>Namaste India IV: Lucknow</MetaTitle>
+  <OGImage>//www.rockying.com/art/Travel/Namaste%20India/Lucknow/Bada-Imambara.jpg</OGImage>
+  <OGDescription>A Long Shot of the Bada Imaambara, built in 1784 by Asaf-ud-Daula, this is among the grandest buildings of Lucknow.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Namaste India IV, Travel India, Lucknow, Awadh</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Travel/Namaste%20India/Lucknow/Bada-Imambara.jpg' alt='' /&gt;&lt;p&gt;A Long Shot of the Bada Imaambara, built in 1784 by Asaf-ud-Daula, this is among the grandest buildings of Lucknow.&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;button id="prevslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+        font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+        padding: 0px; background-color: transparent;'&gt;
+        &amp;lsaquo;
+    &lt;/button&gt;
+    &lt;button id="nextslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+        font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+        padding: 0px; background-color: transparent;'&gt;
+        &amp;rsaquo;
+    &lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="slideshow" style="text-align: center;"&gt;
+    &lt;div class="slide"&gt;
+        &lt;h5&gt;
+            After the sun city &lt;a href="http://www.rockying.com/a/124"&gt;Jodhpur&lt;/a&gt;, the capital
+            &lt;a href="http://www.rockying.com/a/133"&gt;Delhi&lt;/a&gt; and the beachy &lt;a href="http://www.rockying.com/a/139"&gt;
+                Kerala&lt;/a&gt;, we move on to the city of nawaabs Lucknow. Get ready to be embraced
+            by the &lt;i&gt;nazaakat&lt;/i&gt; (softness) and &lt;i&gt;nafaasat&lt;/i&gt; (refinement) of the life and
+            times of Awadh.&lt;/h5&gt;
+        &lt;p&gt;
+            Photo Credits: &lt;a href="http://www.facebook.com/pages/Ashutosh-Kanaujia-Photography/138212026233972"&gt;
+                Ashutosh Kanaujiya&lt;/a&gt; and &lt;a href="(http://www.facebook.com/pages/Abhishek-Patel-Photography/130126400395924)"&gt;
+                    Abhishek Patel&lt;/a&gt;
+        &lt;/p&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Bada-Imambara.jpg"
+            title="Bada Imambara Long Shot" alt="" style="width: 600px;" /&gt;
+        &lt;h5&gt;
+            A Long Shot of the Bada Imaambara, built in 1784 by Asaf-ud-Daula, this is among
+            the grandest buildings of Lucknow.
+        &lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Bada-Imambara_Close-View.jpg"
+            title="Bada Imambara Close View" alt="" style="height: 600px;" /&gt;&lt;h5&gt;
+                Running up the stairs and entering the Imambara.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Bada-Imambara-Close.jpg"
+            title="Bada Imambara " alt="" style="width: 600px;" /&gt;&lt;h5&gt;
+                The under-construction pillars at Imambara.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Shahi-Bauli.jpg"
+            title="Shahi Bauli" alt="" style="height: 600px;" /&gt;&lt;h5&gt;
+                Shahi Baoli: The water storage space (a well) built by the then Nawaab Asaf-ud-daulah
+                was worked up so beautifully that it was later turned into a guest house. The Shahi
+                Mehmaan Khana.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Bada-Imambara-Sign-Board.jpg"
+            title="Sign Board Bada Imambara" alt="" style="width: 600px;" /&gt;&lt;h5&gt;
+                Watch out! The external sign board at Imambara says something!&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Bhool_Bhulaiya.jpg"
+            title="Bhool Bhulaiya" alt="" style="height: 600px;" /&gt;&lt;h5&gt;
+                One of the innumerous corridors built inside the Bada Imambara Bhool Bhulaiya.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Bhool-Bhulaiya.jpg"
+            title="Bhool Bhulaiya" alt="" style="height: 600px;" /&gt;&lt;h5&gt;
+                Inside the Bhool bhulaiya. Its dark, its horrifying. You daren&amp;#39;t be lost alone.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Ap.jpg" title="Residency"
+            alt="" style="height: 600px;" /&gt;&lt;h5&gt;
+                Somewhere inside the British Residency Museum. Once a beauty it was....Photo by:
+                Abhishek.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/A-p.jpg" title="Picture Gallery"
+            alt="" style="width: 600px;" /&gt;&lt;h5&gt;
+                The Husainabad Baradari, also called the Picture Gallery has real iron pillars in
+                the upper story of its building facing the talaab (tank).&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Art-Gallery.jpg"
+            title="Picture Gallery Door" alt="" style="height: 600px;" /&gt;
+        &lt;h5&gt;
+            A closed door to history...&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Ceiling.jpg" title="Jama Masjid Ceiling"
+            alt="" style="height: 700px;" /&gt;&lt;h5&gt;
+                A ceiling at the wondrous Jama Masjid.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Ceiling2.jpg" title="Jama Masjid Ceiling"
+            alt="" style="width: 600px;" /&gt;&lt;h5&gt;
+                Another roof, just a beauty! The place to pray is just as lovely as godly it is.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Chhota_Imambara.jpg"
+            title="Chhota Imambara" alt="" style="width: 600px;" /&gt;&lt;h5&gt;
+                Mirror image; At the Chhota Imambara.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Chhota-Imambara.jpg"
+            title="Chhota Imambara" alt="" style="height: 600px;" /&gt;&lt;h5&gt;
+                Inside the premises of Chhota Imambara, this mausoleum is also called a miniature-replica
+                of the Taj Mahal.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Chikan-Embroidery.jpg"
+            title="Chikan Embroidery" alt="" style="width: 600px;" /&gt;&lt;h5&gt;
+                The world famous Chikan embroidery originates in Lucknow. Buying a Chikan piece
+                is a must when you visit Lucknow!&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Chowk-Darwaaza.jpg"
+            title="Chowk Darwaza" alt="" style="height: 600px;" /&gt;&lt;h5&gt;
+                The gate to the real (old) lucknow and entailed an endless world of shopping at
+                Chowk. Itchy feet ladies?&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Clock_tower.jpg"
+            title="Clock Tower" alt="" style="height: 600px;" /&gt;&lt;h5&gt;
+                Twilight at the Husainabad Clock tower. Built by the British in the Victorian Gothic
+                style, this clock back then carried the largest clock in India.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Dilkusha_Garden.jpg"
+            title="Dilkusha Garden" alt="" style="width: 600px;" /&gt;&lt;h5&gt;
+                Home to remains of the Sepoy Mutiny 1857, the Dilkusha Kothi was originally built
+                for the sixth Nawaab of Awadh, Saadat Ali Khan.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Dilkusha-Garden.jpg"
+            title="Dilkusha Garden" alt="" style="width: 600px;" /&gt;&lt;h5&gt;
+                Said to be built an almost exact replica of Seaton Deiavel, an English building,
+                Dilkusha silently murmurs the stories of the Nawaabs and the Mutiny.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Food.jpg" title="Food"
+            alt="" style="height: 600px;" /&gt;&lt;h5&gt;
+                A local food shop, known best for its non-vegetarian delicacies. Salvating, eh?&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Saadat-Ali-Khans-Tomb.jpg"
+            title="Saadat" alt="" style="width: 600px;" /&gt;&lt;h5&gt;
+                Lie dead beneath, Nawaab Saadat Ali Khan and his favorite wife Murshid Zadi.
+            &lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Husainabad-Clock-Tower.jpg"
+            title="Husainabad Clock Tower" alt="" style="height: 600px;" /&gt;&lt;h5&gt;
+                The huge and high, high as 220 ft from the ground, Clock tower is said to be built
+                by the British as the symbol of their superiority.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/jama_Masjid.jpg"
+            title="Jama Masjid" alt="" style="height: 600px;" /&gt;&lt;h5&gt;
+                Serenity at Jama Masjid.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Jama_Masjid_Color.jpg"
+            title="Jama Masjid" alt="" style="width: 600px;" /&gt;&lt;h5&gt;
+                Jama Masjid from within, meant for a large congregation.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Jama_Masjid3.jpg"
+            title="Jama Masjid" alt="" style="height: 600px;" /&gt;&lt;h5&gt;
+                Intricate carvings on the walls of Jama Masjid.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Jama-Masjid.jpg"
+            title="Jama Masjid" alt="" style="height: 600px;" /&gt;&lt;h5&gt;
+                Built by Nawaab Mohammad Ali Shah before his death, Jama Masjid is still incomplete
+                but pure.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Jama-Masjid-Color.jpg"
+            title="Jama Masjid" alt="" style="height: 600px;" /&gt;&lt;h5&gt;
+                Complex carvings on these walls represent the lovely mughal architecture from back
+                then.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Kudiaghaat.jpg"
+            title="Satkhanda Tower" alt="" style="width: 600px;" /&gt;&lt;h5&gt;
+                Said to be conceived as a nine-storeyed building by Mohammad Ali Shah, this monument
+                is a dream unfulfilled and though constructed to seven-storeyed Satkhanda Tower
+                remains only a four-storeyed structure now.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Kudia-Ghaat.jpg"
+            title="Kudiaghaat" alt="" style="width: 600px;" /&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/La-Martiniere-College.jpg"
+            title="La Martniere College" alt="" style="width: 600px;" /&gt;
+        &lt;h5&gt;
+            Learn traditionally!&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Lko-Food.jpg" title="Lucknow Food"
+            alt="" style="height: 600px;" /&gt;&lt;h5&gt;
+                Some roasted meat guys?&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Lucknow.289.jpg"
+            title="Charbagh Railway Station" alt="" style="width: 600px;" /&gt;&lt;h5&gt;
+                The Charbagh Railway Station&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/moosa-bagh.jpg"
+            title="Moosa Bagh" alt="" style="height: 600px;" /&gt;&lt;h5&gt;
+                History haunts at Musa Bagh.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/mosque-inside-Residency.jpg"
+            title="Residency Mosque" alt="" style="width: 600px;" /&gt;&lt;h5&gt;
+                Broken here, mended there...&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Picture_gallery.jpg"
+            title="Picture Gallery" alt="" style="height: 600px;" /&gt;&lt;h5&gt;
+                Terracotta and pink, Picture gallery, a preserved monument it is!&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Residency.jpg" title="Residency"
+            alt="" style="height: 600px;" /&gt;&lt;h5&gt;
+                Residency is immense and is abode to thousands of rebels of the mutiny. We now call
+                them freedom fighters.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Residency_Statue.jpg"
+            title="Residency Statue" alt="" style="height: 600px;" /&gt;&lt;h5&gt;
+                Statue of a Britisher at Residency.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Residency-Bench.jpg"
+            title="Residency Bench" alt="" style="width: 600px;" /&gt;&lt;h5&gt;
+                &amp;quot;Reside&amp;quot; on this bench and rest in the lap of history. History of Indian-struggle
+                for Freedom.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Residency-Carving.jpg"
+            title="Residency Carving" alt="" style="width: 600px;" /&gt;&lt;h5&gt;
+                History engraved...&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Residency-Long.jpg"
+            title="Residency" alt="" style="width: 600px;" /&gt;&lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Residency-Stair-view.jpg"
+            title="Residency" alt="" style="width: 600px;" /&gt;&lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Residency-Trees.jpg"
+            title="Residency" alt="" style="width: 600px;" /&gt;&lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Rumi-Darwaaza.jpg"
+            title="Rumi Darwaaza" alt="" style="width: 600px;" /&gt;&lt;h5&gt;
+                The magnificient Rumi Darwaza from the front. Its two-faced form makes it unequaled
+                among the many gates built in the city. On the one side it looks like a beautiful
+                veiled lady...&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Rumi-Gate-Back_View.jpg"
+            title="Rumi Gate" alt="" style="width: 600px;" /&gt;&lt;h5&gt;
+                ...And that of an ugly warrior on the other. The Rumi gate from the back.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Saadats.jpg" title="Saadat"
+            alt="" style="width: 600px;" /&gt;&lt;h5&gt;
+                Maqbara of the sixth nawaab, Saadat Ali Khan.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/Satkhanda-Tower-Ghaat.jpg"
+            title="Satkhanda Tower Ghaat" alt="" style="width: 600px;" /&gt;&lt;h5&gt;
+                The Satkhanda as viewed from the Picture Gallery.&lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;img src="//rockying.com/art/Travel/Namaste%20India/Lucknow/The-Exotic-kebabs.jpg"
+            title="Kebabs" alt="" style="width: 600px;" /&gt;&lt;h5&gt;
+                One other priced possession of the city-its Kababs. Gelowti, Kakori, Shami, Patili,
+                Ghutwa and Seekh Kababs are a few of its known varieties. Explore a whole new world
+                of culinary here in lucknow.&lt;/h5&gt;
+        Source: &lt;a href="http://lucknow.me/"&gt;lucknow.me&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <WriterName>Preeti Singh</WriterName>
+  <WriterEmail>preeti.singh@rudrasofttech.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>216</URL>
+</Article>

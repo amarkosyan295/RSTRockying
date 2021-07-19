@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>49</ID>
+  <Title>Best Comedy Movies</Title>
+  <OGImage>http://www.sample.com/ass.jpg</OGImage>
+  <OGDescription>as sda ssd asdsd sdsd asd</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <Category>4</Category>
+  <Tag>Movies, Comedy</Tag>
+  <Status>Inactive</Status>
+  <Description>&lt;p&gt;Initial content sd f dsf&lt;br&gt;&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;Initial cos dfsf sfsdf sdfsdntent&lt;/p&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+</Article>

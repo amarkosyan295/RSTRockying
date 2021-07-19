@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>52</ID>
+  <Title>Killer Dialogues of Bollywood part-II</Title>
+  <OGImage>http://www.rockying.com/art/Killer 2/Kuch Kuch Hota hai Inscribed.jpg</OGImage>
+  <OGDescription>Filmein sirf 3 cheezon ki wajah se chalti hain...Skin show, skin show aur skin show aur maine bharpoor kiya hai !!!</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Bollywood, Dialogues, All time killer dialogues,</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Killer 2/Kuch Kuch Hota hai Inscribed.jpg' alt='' /&gt;&lt;p&gt;Filmein sirf 3 cheezon ki wajah se chalti hain...Skin show, skin show aur skin show aur maine bharpoor kiya hai !!!&lt;/p&gt;</Description>
+  <Text>&lt;p class="clearfix"&gt;
+    &lt;img src="http://rockying.com/art/Killer%202/Vidya%20Balan%20Inscribed.jpg"
+        title="Filmein sirf 3 cheezon ki wajah se chalti hain...Skin show, skin show aur skin show aur maine bharpoor kiya hai"
+        alt="Vidya Balan in The Dirty Picture" class="pull-left" style="max-width: 300px;" /&gt;&lt;strong&gt;Filmen
+            sirf 3 cheezon ki wajah se chalti hain, Entertainment, entertainment, entertainment...&lt;/strong&gt;,
+    voiced by Vidya Balan, Rajat Arora’s dialogue from The Dirty Picture {&lt;strong&gt;2011&lt;/strong&gt;}
+    conveys the true essence of the Indian Film Industry. We love it for its sheer melodrama,
+    awesome Music and killer Dialogues. Yes, dialogues that have carried the burden
+    of making films popular, single-handed.
+&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    This sequel of &lt;a title="" href="http://www.rockying.com/a/35"&gt;Killer Dialogues of Bollywood
+        part-I&lt;/a&gt; unfolds the most popular and mantrap talks from the 80s and onwards.
+    Read on...
+&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="http://rockying.com/art/Killer%202/Amitabh%20sharabi%20Inscribed.jpg"
+        title="Ghar me whisky ka kafi free stock ho gaya hai...Kyun na mil baithe chaar yar aur rat karen gulzaar???"
+        alt="Amitabh in Sharabi" style="max-height: 200px;" class="pull-left" /&gt;“&lt;i&gt;&lt;strong&gt;Moochhen
+            hon to Nathhulal ji jaisi hon, warna na hon&lt;/strong&gt;&lt;/i&gt;.” This hilarious
+    take on one of his employees nathhulaal’s mustache by Vicky Kapoor (Amitabh Bachchan)
+    is from my favourite Amitabh movie Sharaabi {&lt;strong&gt;1984&lt;/strong&gt;}. (Dialogue by
+    the Hilarious Kadar khan himself )
+&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="http://rockying.com/art/Killer%202/Mogambo%20Inscribed.jpg"
+        title="My costume...Aah...Awesome!!!" alt="Amrish puri in Mr. India" style="max-width: 300px;"
+        class="pull-left" /&gt;“&lt;strong&gt;Mogambo Khush hua&lt;/strong&gt;” …The Cult dialogue
+    by the cult Villain from a cult movie…Mogambo is more than happy in Shekhar Kapoor’s
+    one of its kind sci-fi film Mr. India {&lt;strong&gt;1987&lt;/strong&gt;}. I have watched it
+    100 times and still can’t get enough of the kids and the invisibility formula. (Dialogues
+    by Salim-Javed)&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    “&lt;strong&gt;Aj Shaam ko maut ke saath apna Apeentment hai, kya apeentment&lt;/strong&gt;…”
+    &lt;img src="http://rockying.com/art/Killer%202/Amitabh-Bachchan-Agneepath-Still%20Inscribed.jpg"
+        title="I've been trying hard to get this base in my voice...you better praise me."
+        alt="Amitabh in Agneepth" style="max-height: 200px;" class="pull-left" /&gt;
+    The rather husky Amitabh Bachchan (Vijay DeenaNath Chauhan) from Agneepath {&lt;strong&gt;1990&lt;/strong&gt;}
+    casts an irrational impact upon the audience. (Dialogue by Kadar Khan, did you know
+    this man was so versatilely talented? )&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="http://rockying.com/art/Killer%202/sunny-deol-ghayal-1990%20inscribed.jpg"
+        title="I am sick of screaming now...Time for the killing!!!" alt="Sunny Deol in Ghayal"
+        style="max-height: 220px;" class="pull-left" /&gt;“&lt;strong&gt;Utaar ke phenk do ye wardi aur
+            pehen lo balwant rai ka patta apne gale mein&lt;/strong&gt;…”&amp;nbsp; Trapped in
+    the cobweb of High-level corruption, Ajay Mehra (Sunny Deol) from Ghayal {&lt;strong&gt;1990&lt;/strong&gt;}
+    outbursts. &amp;nbsp;(Dialogue by Dilip Shukla)&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="http://rockying.com/art/Killer%202/darr-srk%20inscribed.jpg"
+        title="which hero dares to play negative? Hahaha...Im the real hero of Bollywood!!!"
+        alt="Shahrukh in Darr" style="max-height: 200px;" class="pull-left" /&gt;“ &lt;strong&gt;I love
+            you kkkiran&lt;/strong&gt;” The psycho lover antagonist Rahul Mehra (Shahrukh
+    Khan) from Darr {&lt;strong&gt;1993&lt;/strong&gt;}, scares the sh** out of us viewers. He better
+    be a hero. (Dialogue by Javed Siddiqui).&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="http://rockying.com/art/Killer%202/Sunny%20Damini%20Inscribed.jpg"
+        title="Mera itna chhota role? Tareeq pe tareeq dilata rahoonga." alt="Sunny Deol in Damini"
+        style="max-height: 225px;" class="pull-left" /&gt;“&lt;strong&gt;&lt;i&gt;Tareeq pe tareeq mili hai,
+            insaaf nai mila mylord&lt;/i&gt;…&lt;/strong&gt;” by Sunny Deol from Damini {&lt;strong&gt;1993&lt;/strong&gt;}
+    not only conveyed “Judgement Delayed is Judgement Denied” but also established the
+    actor as a strong pillar to be able to carry a film even for that minor role.&lt;br /&gt;
+    (Dialogue by Sutanu Gupta and Dilip Shukla)
+&lt;/p&gt;
+&lt;datasource name="boxaddatasource" /&gt;
+&lt;p class="clearfix"&gt;
+    “&lt;i&gt;&lt;strong&gt;Ye Hindu ka khoon ye &lt;/strong&gt;&lt;/i&gt;
+    &lt;img src="http://rockying.com/art/Killer%202/Nana%20Patekar%20---%20002%20Inscribed.jpg"
+        title="Top actor hone ka kya fayda...Meri ek dhang ki photo bhi nai laga sakte...Chhodunga nai!!!"
+        alt="Nana Patekar" style="max-width: 300px;" class="pull-left" /&gt;&lt;i&gt;&lt;strong&gt;Musalman
+            ka&lt;/strong&gt;&lt;/i&gt;&lt;i&gt;&lt;strong&gt; khoon&lt;/strong&gt;&lt;/i&gt;…”
+    &lt;br /&gt;
+    yet another madly entertaining performance by Nana from Krantiveer {&lt;strong&gt;1994&lt;/strong&gt;}
+    also bagged him the Filmfare Best Actor Award. (&lt;i&gt;Dialogue by K. K. Singh, Filmfare
+        Best Dialogue Winner&lt;/i&gt;)
+&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="http://rockying.com/art/Killer%202/Amrish%20DDLJ%20Inscribed.jpg"
+        title="Me turning good towards the climax? There was no choice,it had to be a happy ending!!!"
+        alt="Amrish Puri in DDLJ" style="max-height: 200px;" class="pull-left" /&gt;“&lt;strong&gt;Jaa
+            Simran jee le apni zindagi, is ladke se zyaada pyar tuje koi nai kar sakta…&lt;/strong&gt;”&lt;br /&gt;
+    by Amrish Puri from Dilwale Dulhaniya Le&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="http://rockying.com/art/Killer%202/Simran%20DDLJ%20Inscribed.jpg"
+        title="Are kahin se bhi chadh ja...Andar-andar aa jaiyo!!!" alt="kajol n Shahrukh in DDLJ"
+        style="max-height: 142px;" class="pull-left" /&gt;Jaenge {&lt;strong&gt;1995&lt;/strong&gt;}
+    kind of liberates every young girl in love from the cruel fangs of her anti-romance
+    Father. This sure was a Happy ending. (&lt;i&gt;Dialogues by Javed Siddiqui and Aditya Chopra,
+        Filmfare Best Dialogue Winner&lt;/i&gt;)&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="http://rockying.com/art/Killer%202/ddlj%20Inscribed.jpg"
+        title="Humne pehle bhi audience ko bot pakaya hai...Age bhi pakate rahenge...Cheers to Karan!!!"
+        alt="kajol n Shahrukh in DDLJ" style="max-width: 300px;" class="pull-left" /&gt;“&lt;i&gt;&lt;strong&gt;Bade-bade
+            shehron me aisi chhoti-2 baatein hoti rehti hain&lt;/strong&gt;&lt;/i&gt; &lt;i&gt;&lt;strong&gt;Senorita&lt;/strong&gt;&lt;/i&gt;”&lt;br /&gt;
+    Yes of course, just like this one, me compiling this huge article on Bollywood’s
+    dialogues. Anyway, this was about Shahrukh’s charm that sent girls into trance and
+    made each one of them feel like Senorita. (&lt;i&gt;Dialogue by Javed Siddiqui won him the
+        &lt;strong&gt;1995&lt;/strong&gt; Filmfare Best Dialogue Award)&lt;/i&gt;&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="http://rockying.com/art/Killer%202/Karan%20Arjun%20Stars%20Inscribed.jpg"
+        title="Main jab bot boodhi ho jaungi tab bhi tum log aise hi dikhoge...Aisa script main likha hai mere bachchon!!!"
+        alt="KAran Arjun Stars" style="max-width: 300px;" class="pull-left" /&gt;“&lt;i&gt;&lt;strong&gt;Mere
+            Karan Arjun Aenge&lt;/strong&gt;&lt;/i&gt;”…The eternal time lag and the Baddy waiting
+    to be murdered while the heroes re-incarnate. Surely determined is the Maa (Rakhi)
+    waiting for her sons since like forever. Karan-Arjun {&lt;strong&gt;1995&lt;/strong&gt;} had
+    to come back. (Dialogue by Anwar Khan)&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="http://rockying.com/art/Killer%202/Nana%20Yashwant%20Inscribed.jpg"
+        title="Ek machchar dengue, malaria, chicken guniya bhi phaila sakta hai...Ghar me ek kala Hit lake rakhne ka!"
+        alt="Nana Patekar in Yashwant" style="max-height: 147px;" class="pull-left" /&gt;
+    “&lt;i&gt;&lt;strong&gt;Ek Machchar saala Aadmi ko Hijda bana deta hai &lt;/strong&gt;&lt;/i&gt;”
+    &lt;br /&gt;
+    Mad are his characters and so are his dialogues. None other than Nana Patekar from
+    the film Yashwant {&lt;strong&gt;1997&lt;/strong&gt;}.&amp;nbsp; (Dialogue by Hriday Lani).&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;a href="http://www.rockying.com/a/265" target="_blank"/&gt;&lt;img src="http://rockying.com/art/Killer%202/Kuch%20Kuch%20Hota%20hai%20Inscribed.jpg"
+        title="Tum toote hue taare se chahe jitna maang lo...tum kabhi gori nai ho sakti..Olay se bhi nahin!!!"
+        alt="kajol n Shahrukh in KKHH" style="max-height: 200px;" class="pull-left" /&gt;“&lt;i&gt;&lt;strong&gt;Kuch
+            kuch hota hai Anjali tum nahin samjhogi...&lt;/a&gt;&lt;/strong&gt;&lt;/i&gt;”&amp;nbsp; another typical
+    college going romantic Rahul (Shahrukh Khan) explains love to his apparently naive
+    friend Anjali (Kajol), steals the hearts of millions through his dash in  &lt;a href="http://www.rockying.com/a/265" target="_blank"/&gt;Kuch Kuch
+    Hota Hai&lt;/a&gt; {&lt;strong&gt;1998&lt;/strong&gt;}. (Dialogue by the Director Karan Johar, himself)&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="http://rockying.com/art/Killer%202/sunny_deol_amrish_puri_gadar%20Inscribed.jpg"
+        title="Mere dole dekhke to sardaar bhi mere khilaaf protest nai karenge...Mai pagdi pehnu ya na pehnu...HUH!!!"
+        alt="Sunny and Amrish Puri in Gadar" style="max-height: 228px;" class="pull-left" /&gt;
+    “&lt;i&gt;&lt;strong&gt;Hindustan Zindabad tha, Hai , Aur Rahega&lt;/strong&gt;&lt;/i&gt;” another out roar
+    by Sunny Deol (Tara Singh) from the across border love story Gadar {&lt;strong&gt;2001&lt;/strong&gt;},
+    engraves Long Live India deep in the hearts of every Indian. (Dialogue by Shaktimaan)&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="http://rockying.com/art/Killer%202/rang_de_basanti_amir%20Inscibed.jpg"
+        title="Bahar jake kisi se mat kahiyo ki police ne mujhe encounter me mar diya!"
+        alt="Aamir in RDB" style="max-height: 200px;" class="pull-left" /&gt;“&lt;i&gt;&lt;strong&gt;University
+            ke bahar duniya hume nachati hai…&lt;/strong&gt;&lt;/i&gt;” The drunk otherwise fun
+    Daljeet (Amir Khan) from Rang De Basanti {&lt;strong&gt;2006&lt;/strong&gt;} utters the reality
+    of life admitting he does not have the courage to face it. This sure is hell of
+    a dialogue. (By Prasoon Joshi )&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="http://rockying.com/art/Killer%202/chakdendia_srk%20Inscribed.jpg"
+        title="Don't worry ye indian film hai...Achcha khelo ya bura jeetna tumhe hi hai...Happys Endings ;)"
+        alt="Shahrukh in Chak De" style="max-height: 200px;" class="pull-left" /&gt;
+    “&lt;i&gt;&lt;strong&gt;70 minute hain tumhare paas”&lt;/strong&gt;&lt;/i&gt; The Charming coach Kabir Khan
+    (Shahrukh Khan ) motivates his under rated Indian Womens’ Hockey Team to play the
+    game of their lives. They move on to win the world cup in Chak de! India {&lt;strong&gt;2007&lt;/strong&gt;}.
+    (Dialogue by Jaideep Sahni)&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="http://rockying.com/art/Killer%202/om%20shanti%20om%20team%20Inscribed.jpg"
+        title="Yaar Shanti to mili nai...Kyun na ye show piece hi rakh lun!!!" alt="Shahrukh n Shreyas in OSO"
+        style="max-height: 300px;" class="pull-left" /&gt;“&lt;i&gt;&lt;strong&gt;Agar kisi cheez ko dil se
+            chaho to saari qaynaat…&lt;/strong&gt;&lt;/i&gt;” an exaggerated version of our old
+    films, Om Shanti Om {&lt;strong&gt;2007&lt;/strong&gt;} had something good to offer too. Shahrukh’s
+    dialogues. They may be an extension of the film’s melodramatic element, we still
+    love them. (Dialogue by Mayur Puri)&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="http://rockying.com/art/Killer%202/Aamir-Khan-3-Idiots%20inscribed.jpg"
+        title="Wooohooo!!! Make-up makes me look way younger :) I will play a school drop out in my next."
+        alt="Aamir in 3 Idiots" style="max-width: 250px;" class="pull-left" /&gt;“&lt;i&gt;&lt;strong&gt;AAL
+            IS WELL&lt;/strong&gt;&lt;/i&gt;” Aamir’s make feel better monologue from 3 Idiots became
+    a rage and is truly a mantra to follow. (&lt;i&gt;Dialogue by RajKumar Hirani and Abhijat
+        Joshi bagged them the &lt;strong&gt;2009&lt;/strong&gt; Filmfare, IIFA and Star Screen Awards
+        for the best dialogues.&lt;/i&gt;)&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="http://rockying.com/art/Killer%202/salman-khan-and-wanted-%20Inscribed.jpg"
+        title="1 Bar jo maine girl friend bana li to phir wo meri kabhi nahi sunti hai"
+        alt="Salman in Wanted" style="max-height: 250px;" class="pull-left" /&gt;
+    &lt;i&gt;&lt;strong&gt;“Ek baar jo maine commitment kar di phir main apne apki bhi nai sunta…&lt;/strong&gt;&lt;/i&gt;”&amp;nbsp;
+    The trend of power packed one-liners in his 2nd innings rather began from Wanted
+    {&lt;strong&gt;2009&lt;/strong&gt;}. Salman wouldn’t listen to anyone now on, follows the trend
+    in Dabangg, Ready and Body Guard. (Dialogue by Shiraz Ahmed)&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="http://rockying.com/art/Killer%202/Salman%20khan%20in%20dabangg%20Inscribed.jpg"
+        title="Last me to shirt utarni hi hai...Tab tak zara dhang se ye uniform flaunt kar loon!!!"
+        alt="Salman In Dabangg" style="max-width: 265px;" class="pull-left" /&gt;
+    “&lt;strong&gt;Hum tumme itne chhed &lt;/strong&gt;&lt;strong&gt;karenge ki bhool jaoge ki saans kahan
+        se len aur paade kahan se&lt;/strong&gt;”
+    &lt;br /&gt;
+    Dabangg {&lt;strong&gt;2010&lt;/strong&gt;} is the word for Chulbul Pandey (Salman Khan) who
+    re-iterates the desi monologue through out the film to scare his opponents through
+    his exhibition of confidence.&lt;br /&gt;
+    (Dialogue by Dilip Shukla)
+&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="http://rockying.com/art/Killer%202/salman-khan___Ready%20Inscribed.jpg"
+        title="3 cheezen kabhi under-estimate mat karna...meri filmi history, top-less body, aur mera Bachelor status!!!"
+        alt="Salman in Ready" style="max-width: 300px;" class="pull-left" /&gt;“&lt;i&gt;&lt;strong&gt;3 cheezen
+            kabhi under estimate mat karna-I, me and myself&lt;/strong&gt;&lt;/i&gt;” this seems
+    to be a rather inspiring line for all of us to believe. Salman from Ready {&lt;strong&gt;2011&lt;/strong&gt;}
+    does it all for us.&lt;br /&gt;
+    &amp;nbsp;(Dialogue by Farhad-Sajid)&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    Asking for exemption from not mentioning "&lt;i&gt;&lt;strong&gt;Kutte-Kamine...&lt;/strong&gt;&lt;/i&gt;"
+    or "&lt;i&gt;&lt;strong&gt;Rahul, naam to suna hoga&lt;/strong&gt;&lt;/i&gt;" and many more of these (the
+    list is still endless), I come to an end of my list of favorites (from 80s and onwards)
+    here. Don't forget to comment on your favorite or mention one if i missed it. Just
+    in case you missed the preceding article, click here &lt;a href="http://www.rockying.com/a/35" target="_blank" title="Killer Dialogues of Bollywood on Rockying" alt="Killer Dialogues of Bollywood on Rockying" &gt;
+        Killer Dialogues of Bollywood-I &lt;/a&gt;and find out the ones prior to the 80s.&lt;/p&gt;
+
+&lt;div class="rstquestion rkyquestion1"&gt;
+    &lt;span class="qindex"&gt;Q&lt;/span&gt;
+    &lt;div class="row-fluid"&gt;
+        &lt;div class="span5"&gt;
+    &lt;img src="http://www.rockying.com/art/bollywood/Killer-Dialogues-Quiz/Yeshwant.jpg" alt="Yeshwant Still" title="Nana Patekar in a Yeshwant Still" /&gt;      
+        &lt;/div&gt;
+        &lt;div class="span6"&gt;
+  &lt;h4&gt; &lt;i&gt;“ Ek machchar sala aadmi ko hijda bana deta hai..." &lt;/i&gt;&lt;/h4&gt;
+&lt;p&gt; 
+This Nana Patekar monologue became a popular catchphrase in the 90s. Who is &lt;i&gt;&lt;b&gt;Yeshwant&lt;/b&gt;&lt;/i&gt; (Nana Patekar) calling "Machchar" here?
+&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+                 &lt;li&gt; Indian Judicial System&lt;/li&gt;
+                &lt;li data-anwser="correct"&gt; Indian Politician&lt;/li&gt;
+                &lt;li&gt; Indian Government&lt;/li&gt;
+                &lt;li&gt; Indian Policeman&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;&lt;a href="http://www.rockying.com/a/quiz-6-killer-dialogues-of-bollywood-ii" target="_blank"&gt;&lt;b&gt;PLAY THE COMPLETE QUIZ&lt;/b&gt; &lt;/a&gt;</Text>
+  <WriterName>Preeti Singh</WriterName>
+  <WriterEmail>preeti.singh@rudrasofttech.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>52</URL>
+</Article>

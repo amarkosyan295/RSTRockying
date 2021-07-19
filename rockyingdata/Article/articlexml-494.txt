@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>PWOHJpCCHiorEKp</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>dOqJ79</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>21</Category>
+  <Tag>5bKxW</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;dOqJ79&lt;/p&gt;</Description>
+  <Text>I saw your advert in the paper http://thisav.fun/ thisavcom  &amp;quot;We are very dissatisfied with the state of clarity,&amp;quot; Thomas Oppermann, the Social Democrat who chairs the Parliamentary Control Panel, said on Thursday. &amp;quot;The government has made very contradictory statements.&amp;quot;</Text>
+  <WriterName>y3mQ1F</WriterName>
+  <WriterEmail>bertramwsu@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>pwohjpcchiorekp</URL>
+</Article>

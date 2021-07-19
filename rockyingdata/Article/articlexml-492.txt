@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>dybkmeFpHfwHfXCR</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>rP3da</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>21</Category>
+  <Tag>SC4E8</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;rP3da&lt;/p&gt;</Description>
+  <Text>very best job http://al4a.fun/ al-4a  Oh, yeah, Big2Tex, we shall see. How much you wanna bet that taxpayers will be on the line to pay for the recovery? Whether I vote for it or not, I get stuck with the bill. Ain&amp;amp;#8217;t that the American way?</Text>
+  <WriterName>nz7Nb</WriterName>
+  <WriterEmail>daltonp65@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>dybkmefphfwhfxcr</URL>
+</Article>

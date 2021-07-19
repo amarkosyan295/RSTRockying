@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>XPEdndCQOHD</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>pW0KlB</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>8e9cXj</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;pW0KlB&lt;/p&gt;</Description>
+  <Text>How do you do? http://xvideos.doctor/ xvideos hd  Former Kenyan Prime Minister Raila Odinga told reporters that &amp;quot;quite a number&amp;quot; of people were being held hostage in two areas of the sprawling complex, which includes stores for such retail giants as Nike, Adidas and Bose. Many hostages were believed to be in a grocery and general department store called Nakumatt.</Text>
+  <WriterName>mG9WP</WriterName>
+  <WriterEmail>ricardoasb@usa.net</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>xpedndcqohd</URL>
+</Article>

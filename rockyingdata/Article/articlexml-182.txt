@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Easy Nail Art For Beginners!</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Lifestyle/Fashion/nail_art_for_beginners/lime_green_with_glitter_slideswipe_and_%20rhinestones.jpg</OGImage>
+  <OGDescription>Paint the world on your nails this season with these easy tips and designs. Go!!!</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>16</Category>
+  <Tag>Nail Art, Fashion, Nails, Cosmetics</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;Paint the world on your nails this season with these easy tips and designs. Go!!!&lt;img src="http://rudrasofttech.com/rockying/art/Lifestyle/Fashion/nail_art_for_beginners/lime_green_with_glitter_slideswipe_and_%20rhinestones.jpg" title="Nail Art for Beginners" alt="" style="width: 200px; float: left;"&gt;&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;/p&gt;&lt;div class="slideshow"&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;h3&gt;Paint the world on your nails this season with these easy tips and designs. Go!!!&lt;img src="http://rudrasofttech.com/rockying/art/Lifestyle/Fashion/nail_art_for_beginners/easter-egg-nail.jpg" title="Easter Egg Nail Art" alt="" style="height: 600px;"&gt;Rockying Nail Art Tip#1: Have you kept your nails in good shape? If not, file them as you like. Square or round, short or long.&amp;nbsp;
+&lt;/h3&gt;&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Lifestyle/Fashion/nail_art_for_beginners/cute-dots.png" title="Cute Dots Nail Art" alt="" style="height: 600px; width: 600px;"&gt;&lt;b&gt;Rockying Nail Art Tip#2:&lt;/b&gt; Choose a&amp;nbsp;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Lifestyle/Fashion/nail_art_for_beginners/geo-metrix.jpg" title="Geo Metrix Nail Art" alt="" style="width: 600px;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Lifestyle/Fashion/nail_art_for_beginners/easy-one.jpg" title="Silver Black Color Nail Art" alt="" style="height: 600px;"&gt;3
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Lifestyle/Fashion/nail_art_for_beginners/lime_green_with_glitter_slideswipe_and_%20rhinestones.jpg" title="Lime and Green Nail Art" alt="" style="width: 600px;"&gt;4
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Lifestyle/Fashion/nail_art_for_beginners/nail_art_with_stripes.jpg" title="Nail Art with Stripes" alt="" style="width: 600px;"&gt;5
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Lifestyle/Fashion/nail_art_for_beginners/polka_dots.png" title="Polka Dots Nail Art" alt="" style="width: 600px;"&gt;6
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Lifestyle/Fashion/nail_art_for_beginners/smiley_face.jpg" title="Smiley Face Nail Art" alt="" style="height: 600px;"&gt;7
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Lifestyle/Fashion/nail_art_for_beginners/simple_nail-arts.JPG" title="Simple And Mixture " alt="" style="width: 600px;"&gt;8
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;/p&gt;</Text>
+  <SlideShowOn>true</SlideShowOn>
+  <WriterName>Vratika Singh</WriterName>
+  <WriterEmail>vratika@rudrasofttech.com</WriterEmail>
+  <Viewed>0</Viewed>
+</Article>

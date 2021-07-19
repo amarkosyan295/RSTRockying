@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>hzqAzSxfdOEKm</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>uPXBZI</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>4tUOz</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;uPXBZI&lt;/p&gt;</Description>
+  <Text>I&amp;#39;ll put her on http://xnxx.photography/ xnxx tube  The Fiat 500L starts at $19,900, including $800 for destination and handling. In the realm of terrible trim level names, the base Pop model sounds like what we&amp;#39;d call a soft drink in the Midwest. Next up is the 500L Easy, which is perhaps such on everything but the eyes. In our opinion, the third one up the ladder, the 500L Trekking, is the best-looking model, with crossover-like cladding. And then we get up to the 500L Lounge that we had, which starts at $24,995. With a Beats audio system ($500) and painted 17-inch wheels being the only options, our car came to a surprisingly reasonable $25,995. I say that&amp;#39;s reasonable because that&amp;#39;s not too far from what my mom&amp;#39;s PT Cruiser Limited cost in 2004; inflation may not be treating the country of Italy too well right now, but it hasn&amp;#39;t really hit too many of its mainstream cars, apparently.</Text>
+  <WriterName>f8mQC1</WriterName>
+  <WriterEmail>isrealw51@lycos.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>hzqazsxfdoekm</URL>
+</Article>

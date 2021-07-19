@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>ये गुप्त नुस्खा अपनाएं और कमज़ोर याद्दाश्त से छुटकारा पाएँ।</Title>
+  <OGImage>http://www.rockying.com/art/health/Home-made-Remedies/Black-Pepper.jpg</OGImage>
+  <OGDescription>Cure Weak Memory with Secret Homemade...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>स्मरण शक्ति, Weak Memory, homemade remedies, Secret Remedies, Ayurveda,</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/health/Home-made-Remedies/Black-Pepper.jpg' alt='' /&gt;&lt;p&gt;Cure Weak Memory with Secret Homemade...&lt;/p&gt;</Description>
+  <Text>&lt;h4&gt;स्मरण शक्ति की कमज़ोरी (Weak Memory)&lt;/h4&gt; 
+&lt;p&gt;
+सात दाने बादाम गिरी शाम के समय पानी में भिगो दें। सुबह छील कर महीन-महीन पीस लें. यदि ऑंखें भी कमज़ोर हों तो साथ ही चार काली मिर्च पीस लें. इसे उबलते हुए 250 ग्राम दूध में मिलाएं।  जब तीन उफान आ जाएं तो नीचे उतार कर एक चम्मच देशी घी और दो चम्मच चीनी (या बूरा ) डाल कर ठंडा कर लें।  पीने लायक गरम रह जाने पर इसे ज़रूरत के अनुसार 15 - 40 दिन तक लें। यह दूध मस्तिष्क और स्मरण शक्ति की कमज़ोरी दूर करने के लिए अति उत्तम होने के साथ-साथ वीर्य बलवर्धक है। 
+&lt;/p&gt;
+
+&lt;p&gt;
+विशेष- यह बादाम का दूध सर्दियों में विशेष तौर पर लाभ कारी है और दिमागी मेहनत करने वाले एवं  स्टूडेंट्स के लिए अत्यंत उपयोगी है।  प्रातः खाली पेट इस दूध को लेने के बाद दो घंटे तक कुछ न खाएं-पियें। ये दूध आधे सर के दर्द में भी आराम देता है। 
+&lt;/p&gt; 
+
+&lt;p&gt;
+अन्य विधि - अगर इस तरीके से बादाम का दूध लेना न हो पा रहा हो तो सात भिगोई हुई बादाम की गिरियां छील कर (चार काली मिर्च के साथ घिसकर बारीक करके या ऐसे ही ) एक-एक बादाम को रोज़ सुबह चबा-चबाकर खाएं और ऊपर से गरम दूध पी लें।  याद्दाश्त अच्छी होने के साथ-साथ इससे आँखों के कई रोग जैसे - आँखों की कमज़ोरी, आँखों का थकना , आँखों से पानी गिरना, आँख आना आदि दूर हो जाते हैं।  
+&lt;/p&gt;</Text>
+  <WriterName>Rockying</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>hindi/cure-a-weak-memory-with-secret-homemade-remedies</URL>
+</Article>

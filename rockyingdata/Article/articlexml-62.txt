@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>62</ID>
+  <Title>Apples or Donuts?</Title>
+  <MetaTitle>Apples or Donuts?</MetaTitle>
+  <OGImage>//rockying.com/art/apple-a-day-2.jpg</OGImage>
+  <OGDescription>All these health write ups fall flat when it actually comes to choosing between an apple or your favorite hot chocolate donut. This is human weakness and even though we suffer from those guilt pangs, we eat it!</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Healthy eating</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/apple-a-day-2.jpg' alt='' /&gt;&lt;p&gt;All these health write ups fall flat when it actually comes to choosing between an apple or your favorite hot chocolate donut. This is human weakness and even though we suffer from those guilt pangs, we eat it!&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;img src="//rockying.com/art/apple-a-day-2.jpg" title="Apple or Donut" alt="" style="width: 300px; float: right; height: 225px;"&gt;&lt;b&gt;I&lt;/b&gt; mean… really? All these health write ups fall flat when it actually comes to choosing between an apple or your favorite hot chocolate donut. This is human weakness and even though we suffer from those guilt pangs, we eat it! Not one, but two of those sweet little hot donuts coated with sugar. So, how does one control it at all and for a change make the right decision?&lt;/p&gt;&lt;p&gt; Here is how you can&lt;img src="//rockying.com/art/donuts_edited.jpg" title="Chocolate Donuts" alt="" style="float: left; width: 149px; height: 188px;" height="188" width="149"&gt; master the art of controlling your taste buds:&lt;/p&gt;&lt;p&gt;&lt;b&gt;HUNGRY EYES&lt;/b&gt;: No, I’m not talking about the Richard Marx song here. Treat yourself with one donut a week if you are a true fan. There is no point in denying the desires of the heart. That ways you end up eating more! However, here is the catch. Ask someone to get one for you. That ways, you will truly relish what you have at hand and not crave for more. &lt;/p&gt;&lt;p&gt;&lt;b&gt;WATER'S THE TRICK&lt;/b&gt;: Every time you picture those hot donuts floating in front of your eyes, gulp down a litre of water. This is one of the safest antidotes to killing your temptation. This is the best reverse psychology trick that comes handy in the times of desire.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;img src="//rockying.com/art/Donut%20man.jpg" title="Health vs Taste Buds" alt="" style="width: 256px; float: left; height: 199px;"&gt;&lt;b&gt;THINK OF THE TREADMILL OR YOUR FAVORITE PAIR OF JEANS&lt;/b&gt;: You know that you are on a weight loss spree this weekend and you cannot afford to gulp those sugar discs. Think of the treadmill rigor that you are subjected to everyday. Think of how you eye the perfect body. If you have not been gymming , then it is time you bring out that slim fit jeans out of the dark corners of your cupboard and try it out. If you are pushing yourself into it, you know it is time to STOP!&lt;/p&gt;&lt;p&gt;&lt;b&gt;TIME FOR AN ALTERNATIVE&lt;/b&gt;: Try thinking healthy. According to studies, people who plan a healthy diet, end up buying health foods in bulk and then simply do not eat them! Know your diet. It is not as if one morning you get up and swear that you won’t touch donuts. According to researches, baked apples or apple stews are the best ways to beat donut cravings. If you are not a baked-apple- fan, then try the normal crunchy fresh ones.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h5&gt; It is a slow process and it is actually a long walk to FREEDOM!!!&lt;/h5&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>62</URL>
+</Article>

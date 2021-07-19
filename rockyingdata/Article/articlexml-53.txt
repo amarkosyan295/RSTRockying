@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>53</ID>
+  <Title>From Real to Reel; The Female Oscar Winners</Title>
+  <MetaTitle>The female oscar winner actress of all time</MetaTitle>
+  <OGImage>//www.rockying.com/art/oscars10_sandra_bullock2.jpg</OGImage>
+  <OGDescription>Meryl Streep got nominated for her portrayal of Margaret Thatcher in The Iron Lady...Lets discover the journey of real life female Oscar winner actress of all time.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>12</Category>
+  <Tag>Hollywood, Oscars, Female oscar winners,</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/oscars10_sandra_bullock2.jpg' alt='' /&gt;&lt;p&gt;Meryl Streep got nominated for her portrayal of Margaret Thatcher in The Iron Lady...Lets discover the journey of real life female Oscar winner actress of all time.&lt;/p&gt;</Description>
+  <Text>&lt;p class="clearfix"&gt;
+    With&lt;img src="//rockying.com/art/Iron_Lady_.jpg" title="Meryl Streep plays the only Female British Prime minister Margaret Thatcher In &amp;quot;The Iron Lady&amp;quot;"
+        alt="Meryl Streep in The Iron Lady" style="height: 225px;" class="pull-left" /&gt;
+    the Oscar just round the corner, I can’t stop gushing about everything Oscar. Yes,
+    that’s right, I am Oscar crazy just like most of the almost-40-million-viewers who
+    viewed it last year. The 84th Academy Awards will be telecast on February 26 and
+    &lt;br /&gt;
+    &lt;br /&gt;
+    This year &lt;strong&gt;Meryl Streep&lt;/strong&gt; has been nominated for her portrayal of
+    &lt;i&gt;Margaret Thatcher&lt;/i&gt; in “&lt;i&gt;&lt;strong&gt;The Iron Lady&lt;/strong&gt;&lt;/i&gt;”. Though Streep’s
+    performance is always better than what we thought best was; there have been some
+    other noteworthy performances depicting real life female heroes that made it all
+    the way to Oscar glory. Here’s our take on some of the best in the recent past:&lt;br&gt;
+&lt;/p&gt;
+&lt;h5&gt;
+    SANDRA BULLOCK : &lt;i&gt;LEIGH ANNETUOHY&lt;/i&gt;
+&lt;/h5&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="//rockying.com/art/oscar_sandra-bullock.jpg" title="Sandra Bullock won the Oscar for her role in The Blind Side "
+        alt="Sandra Bullock " style="width: 300px;" class="pull-right" /&gt;
+    &lt;img src="//rockying.com/art/Sandra_Blind%20Side.jpg" title="Sandra Bullock in The Blind Side"
+        alt="" style="width: 300px;" class="pull-left" /&gt;Although the movie “&lt;i&gt;&lt;strong&gt;The
+            Blind Side&lt;/strong&gt;&lt;/i&gt;” &lt;strong&gt;(2009)&lt;/strong&gt; was semi biographical;
+    Sandra Bullock had every woman reminded of what a hero she is capable of becoming.
+    Bullock plays Leigh Anne Tuohy who adopted Michael Oher, an offensive linesman who
+    plays for the NFL. She pulls him out of his poor upbringing and gives him just what
+    he deserves. A performance that delivers punch, power and just goes on to prove
+    why mom’s are just the best.&lt;/p&gt;
+&lt;h5&gt;
+    HELEN MIRREN : &lt;i&gt;THE QUEEN&lt;/i&gt;&lt;/h5&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="//rockying.com/art/helen-mirren-oscars-2007-06.jpg"
+        title="Helen Mirren won the Oscar for her role in The Queen" alt="Helen Mirren "
+        style="width: 200px;" class="pull-right" /&gt;
+    &lt;img src="//rockying.com/art/thequeen-743746.jpg" title="Helen's Portrayal of The Queen"
+        alt="" style="width: 300px;" class="pull-left" /&gt;Though people may have varied
+    opinions of the British monarchy, Helen Mirren just showed how to play &lt;i&gt;&lt;strong&gt;"The
+        Queen"&lt;/strong&gt;&lt;/i&gt; (&lt;strong&gt;2006&lt;/strong&gt;) the royal way! As Queen Elizabeth
+    the Second, Helen brought such intense drama to the portrayal of events following
+    the death of Princess Diana. Though the plot is fictional, Helen Mirren made an
+    Oscar worthy performance for a movie that was highly surrounded by controversy.&lt;/p&gt;
+&lt;h5&gt;
+    REESE WITHERSPOON : &lt;i&gt;JUNE CARTER CASH&lt;/i&gt;&lt;/h5&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img class="pull-left" style="width: 250px;" src="//rockying.com/art/reese-witherspoon-walk-the-line.jpg"
+        title="Reese in Walk The Line" alt="" /&gt;&lt;img src="//rockying.com/art/reese_witherspoon_and_oscar.jpg"
+            title="Reese won the Oscar for her performance in June Carter Cash" alt="Reese Witherspoon"
+            style="width: 206px;" class="pull-right" /&gt;Reese Witherspoon portrayed &lt;i&gt;June Carter
+                Cash&lt;/i&gt; in “&lt;strong&gt;&lt;i&gt;Walk the Line&lt;/i&gt;&lt;/strong&gt;”, a &lt;strong&gt;2005&lt;/strong&gt;
+    biopic of Johnny Cash. As June, Reese Witherspoon performed the vocals, and showing
+    us why we loved June Carter for the strong, determined and the no-nonsense woman
+    she actually was. In a movie dedicated to Joaquin Phoenix (playing Johnny Cash),
+    Reese Witherspoon manages to carve out her stand and yes, she did walk away with
+    the Oscar that year.
+&lt;/p&gt;
+&lt;h5&gt;
+    JULIA ROBERTS : &lt;i&gt;ERIN BROCKOVICH&lt;/i&gt;&lt;/h5&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="//rockying.com/art/Julia_oscar_Erin_Brokovich.jpg" title="Julia won the Oscar for Erin Brokowich"
+        alt="Julia Roberts " style="width: 250px;" class="pull-right" /&gt;&lt;img src="//rockying.com/art/Erin%20Brokowich.jpg"
+            title="Julia Roberts in Erin Brokovich" alt="" style="width: 200px;" class="pull-left" /&gt;As
+    the spunky and straight forward, in your face &lt;i&gt;&lt;strong&gt;"Erin Brockovich" (2000)&lt;/strong&gt;&lt;/i&gt;,
+    Julia Roberts actually proved why she and Erin are both made of steel! Julia Roberts
+    played the woman, who fought against a giant energy corporation and actually won
+    the case, the Oscar, the Golden Globe , the BAFTA and the Screen Actor’s Guild Award
+    for Best Actress.&lt;/p&gt;
+&lt;h5&gt;
+    SUSAN SARANDON : &lt;i&gt;HELEN PREJEAN&lt;/i&gt;&lt;/h5&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="//rockying.com/art/Oscar_sarandon.jpg" title="Susan won the Oscar for her performance in Dead Man Walking "
+        alt="" style="width: 200px;" class="pull-right" /&gt;
+    &lt;img src="//rockying.com/art/susan_sarandon_.jpg" title="Susan in Dead Man Walking"
+        alt="" style="width: 300px;" class="pull-left" /&gt;Playing the Sister who forms
+    a special bond with a man awaiting a lethal execution for six years, Susan Sarandon
+    showed what acceptance, forgiveness and redemption are truly capable of. &lt;i&gt;&lt;strong&gt;
+        Helen Prejean&lt;/strong&gt;&lt;/i&gt; has become the leading advocate for the abolition
+    of death penalty and this movie is a testament of her determination. Susan Sarandon
+    won the Oscar trophy for "&lt;i&gt;&lt;strong&gt;Dead Man Walking&lt;/strong&gt;&lt;/i&gt;" in &lt;strong&gt;1995&lt;/strong&gt;.&lt;/p&gt;
+&lt;h5&gt;
+    Real life still remains an inspiration for the reel life and these women, both real
+    and reel, have shown us why stories are real and what it takes to mark yourself
+    in history.
+&lt;/h5&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>53</URL>
+</Article>

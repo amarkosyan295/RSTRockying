@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Hollywood Wrap up 2012</Title>
+  <MetaTitle>Hollywoods best and worst movies of 2012 </MetaTitle>
+  <OGImage>http://www.rockying.com/art/HOllywood/Hollywood-Year-Ender-2012/Damp-Squibs.jpg</OGImage>
+  <OGDescription>The eventful year saw caped superheroes ruling the roost; blockbuster franchises reaching their epic conclusions and some over-hyped tales fall flat on their faces Wrap-up Hollywood best and worst movies of 2012 .</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>12</Category>
+  <Tag>Hollywood Year Ender 2012, Hollywood Movies, Best and Worst Hollywood Movies of 2012, Hollywood Movie Review.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/HOllywood/Hollywood-Year-Ender-2012/Damp-Squibs.jpg' alt='' /&gt;&lt;p&gt;The eventful year saw caped superheroes ruling the roost; blockbuster franchises reaching their epic conclusions and some over-hyped tales fall flat on their faces Wrap-up Hollywood best and worst movies of 2012 .&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+It has been a year of record-breaking hits in Hollywood. The industry earned a whopping $10.8 billion in the year and saw a huge surge in ticket sales after years of steady declines. The eventful year saw caped superheroes ruling the roost; blockbuster franchises reaching their epic conclusions and some over-hyped tales fall flat on their faces. We give you the annual Rockying Hollywood wrap up for the year that has passed us by.
+&lt;/p&gt;
+&lt;h3&gt; The Age Of The Super Hero&lt;/h3&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Hollywood-Year-Ender-2012/Age-of-the-Super-hero.jpg" alt="Hollywood Super Heroes"/&gt;
+&lt;p&gt;
+Comic book wonders ruled the silver screen this year. The two biggest blockbusters of the year &lt;b&gt;The Avengers&lt;/b&gt; and &lt;b&gt;The Dark Knight Rises&lt;/b&gt; are both testimony to the box office draw of the genre, earning over a billion dollars each in revenue and ending up as the two biggest movies of the year.
+&lt;/p&gt;
+&lt;h3&gt; Sequels and Reboots &lt;/h3&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Hollywood-Year-Ender-2012/Sequels-and-Reboots.jpg" alt="Hollywood Sequels"/&gt;
+&lt;p&gt;
+Hollywood continued its obsession with milking its successful franchises dry with their movie machines churning out innumerable sequels in 2012. The formula seems to be working for them though, with movies like &lt;b&gt;Men in Black 3, Madagascar 3 and Ice Age: Continental Drift&lt;/b&gt; all earning big bucks at the box office.&lt;b&gt;Sky fall&lt;/b&gt; continued the James Bond franchise forward and ended up as the third highest grosser of the year and even reboots of past successes like the Andrew Garfield starrer &lt;b&gt;Amazing Spider Man&lt;/b&gt; received audience approval.
+&lt;/p&gt;
+&lt;h3&gt; Beginnings and Endings &lt;/h3&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Hollywood-Year-Ender-2012/Beginnings-Endings.jpg" alt="Series Finale Movies"/&gt;
+&lt;p&gt;
+The year saw some movies that could well prove to be the starting point of blockbuster franchises in the future. &lt;b&gt;The Avengers&lt;/b&gt; already has two sequels lined up while the hit &lt;b&gt;Hunger Games&lt;/b&gt; and the long awaited &lt;b&gt;The Hobbit&lt;/b&gt; would also see more movies in the future. However, two of the biggest names in recent movie history reached their conclusion in 2012, with &lt;b&gt;The Dark Knight Rises and Twilight: Breaking Dawn 2&lt;/b&gt; drawing the curtains on their megahit movie series.
+&lt;/p&gt;
+&lt;h3&gt;The Damp Squibs&lt;/h3&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Hollywood-Year-Ender-2012/Damp-Squibs.jpg" alt="Damp Suibs of Hollywood 2012"/&gt;
+&lt;p&gt;
+Though the year was phenomenally successful, it had its own share of flops. The hugely hyped &lt;b&gt;John Carter&lt;/b&gt; proved to be a disaster for makers Disney early in the year, losing a whopping 164 million dollars for the studio. The Tom Hanks starrer &lt;b&gt;Cloud Atlas&lt;/b&gt; proved to be too complicated for its audience and died a quick death at the box office. The toast of Hollywood for the last few years, Johnny Depp, also saw his only release of the year &lt;b&gt;Dark Shadows&lt;/b&gt; tank within a week of release.
+&lt;/p&gt;
+&lt;h3&gt;Surprise Packages&lt;/h3&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Hollywood-Year-Ender-2012/Surprise-Packages.jpg" alt="HOllywood Surprise Packages of 2012"/&gt;
+&lt;p&gt;
+Like every other year, 2012 also brought along its own share of sleeper hits. Leading the pack is the Ben Affleck directed &lt;b&gt;Argo&lt;/b&gt;, a movie that could well go and prove itself in the Oscar race. The adult comedy &lt;b&gt;Ted&lt;/b&gt; also raked in big bucks at the box office while the year’s end saw the ace movie-maker Steven Spielberg  wowing the critics with his dramatic masterpiece &lt;b&gt;Lincoln&lt;/b&gt;.
+&lt;/p&gt;
+&lt;h3&gt;India at the Movies&lt;/h3&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Hollywood-Year-Ender-2012/India-in-Hollywood.jpg" alt="India at Hollywood Movies 2012"/&gt;
+&lt;p&gt;
+India and Indians have been surprisingly active in Hollywood this year. &lt;b&gt;Life of Pi&lt;/b&gt; was a huge global hit boasting of  an almost all-Indian cast while  &lt;b&gt;Best Exotic Marigold Hotel&lt;/b&gt;, set in India, became a quiet critical success. Irfaan Khan was a busy man this year, starring in two major hits - &lt;b&gt;Life of Pi and Amazing Spider Man &lt;/b&gt; while early next year we will get to see Big B finally make his Hollywood debut in the Great Gatsby.
+&lt;/p&gt;
+&lt;img src="http://www.rockying.com/art/HOllywood/Hollywood-Year-Ender-2012/Amitabh-Bachchan-The Great-Gatsby.jpg" alt="Amitabh's debut at Hollywood"/&gt;
+&lt;p&gt;
+With tantalising projects like &lt;b&gt;Man of Steel, Iron Man 3 and Star Trek: Into Darkness&lt;/b&gt; lined up for next year 2013 looks promising for the Hollywood movie buff. Till then you have this Rockying wrap up to help you catch up with the movies you have missed this year. 
+&lt;/p&gt;
+&lt;p class="well"&gt;
+&lt;img src="http://www.rockying.com/art/Writers/Sonali.jpg" class="pull-left"/&gt;
+&lt;b&gt;About the Author:&lt;/b&gt; Keeping her eyes closed, with long breaths and a gentle sound many mistake for snoring, actually helps Sonali think better. Or so she says. People question about these daily “thinking sessions”, mostly conducted on a comfortable couch or bed, while she claims that the long overdue best-seller she’s been working on (for quite some time now) will silence all the cynics. Till then she dreams on...
+&lt;/p&gt;</Text>
+  <WriterName>Sonali Chowdhury</WriterName>
+  <WriterEmail>media.sonali@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>235</URL>
+</Article>

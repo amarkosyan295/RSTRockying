@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>6</ID>
+  <Name>rockying-article-writing-contest</Name>
+  <Title>Rockying Article Writing Contest</Title>
+  <DateCreated>2013-01-16T07:40:48.333</DateCreated>
+  <CreatedByName>Preeti Singh</CreatedByName>
+  <CreatedBy>2</CreatedBy>
+  <Status>Publish</Status>
+  <ModifiedByName>Preeti Singh</ModifiedByName>
+  <ModifiedBy>2</ModifiedBy>
+  <Body>&lt;style&gt;
+    body
+    {
+        background-color: black;
+    }
+&lt;/style&gt;
+&lt;div class="row-fluid box"&gt;
+    &lt;div class="span12"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td valign="top" style="padding-top: 15px; width: 300px;"&gt;
+                    &lt;img src="http://www.rockying.com/art/Article-Writing-Contest/Bollywood-B-day-Bash-Contest/For-the-big-contest-page.jpg"
+                        alt="Rockying Article Writing Contest on Bollywoods 100th birthday" style="width: 300px;
+                        text-align: center;" /&gt;
+                &lt;/td&gt;
+                &lt;td style="padding-left: 10px;" valign="top"&gt;
+                    &lt;h1 style="color: Brown;"&gt;
+                        BOLLYWOOD BIRTH DAY BLAST&lt;/h1&gt;
+                    &lt;h3 style="text-align: right"&gt;
+                        (Rockying Bollywood Article Writing Contest)&lt;/h3&gt;
+                    &lt;p&gt;
+                        &lt;b&gt;26th January&lt;/b&gt; 2013 and a year to &lt;a href="http://www.rockying.com/" target="_blank" /&gt;
+                        Rockying&lt;/a&gt; has gone by. Yes! this day we not only fete the Indian Republic but
+                        also Rockying's first year online. A whole year of memorable experiences with our
+                        dearest team and you esteemed readers.&lt;img alt="Kiss and Thank You" width="70" height="50"
+                            src="http://www.sherv.net/cm/emoticons/thanks/kiss-and-thank-you-smiley-emoticon.gif"&gt;
+                    &lt;p&gt;
+                        So, we got to celebrate now, right? And what better than doing it with our very
+                        own &lt;a href="http://www.rockying.com/a/241" target="_blank" /&gt;Bollywood&lt;/a&gt; that
+                        turns 100 this year. So we bring to you this contest that will not only celebrate
+                        everything Bollywood but also reward you for being the biggest Bollywood writer
+                        (bug) ever.
+                    &lt;/p&gt;
+                    &lt;p&gt;
+                        A contest that is going to give you guys a little reward to indulge! Yes, you read
+                        that right and here's the biggie - there is PRIZE MONEY up for grabs! Yes, some
+                        hard cash you could earn for yourself.
+                    &lt;/p&gt;
+                    &lt;h3&gt;
+                        How to Take Part?&lt;/h3&gt;
+                    &lt;p&gt;
+                        All you have to do is write an article for us and promote it as much as you can.
+                        The most popular pieces bag the top prizes.
+                    &lt;/p&gt;
+                    &lt;h3&gt;
+                        But What Do I Win?&lt;/h3&gt;
+                    &lt;p&gt;
+                        Okay so you want to know the prizes, right?
+                    &lt;/p&gt;
+                    &lt;ul style="margin-left: 10px;"&gt;
+                        &lt;li&gt;&lt;span style="color: Green;"&gt;&lt;b&gt;1st Prize - INR 2000&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;span style="color: Blue;"&gt;&lt;b&gt;2nd Prize - INR 1000&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;span style="color: Red;"&gt;&lt;b&gt;3RD Prize - INR 500&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;h3&gt;
+                        When Does It Start?&lt;/h3&gt;
+                    &lt;p&gt;
+                        The Contest might have already started but it isn't too late to join! The sooner
+                        you get your article up the better chance you have at winning!
+                    &lt;/p&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt;&lt;b&gt;Start Date&lt;/b&gt;
+                            &lt;ul&gt;
+                                &lt;li&gt;January 26th, 2013&lt;/li&gt;&lt;/ul&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;&lt;b&gt;Article Entry Dead Line&lt;/b&gt;
+                            &lt;ul&gt;
+                                &lt;li&gt;February 10th, 2013&lt;/li&gt;&lt;/ul&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;&lt;b&gt;Promotions Closed&lt;/b&gt;
+                            &lt;ul&gt;
+                                &lt;li&gt;February 26th, 2013&lt;/li&gt;&lt;/ul&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;&lt;b&gt;Winners Announced&lt;/b&gt;
+                            &lt;ul&gt;
+                                &lt;li&gt;March 10th, 2013&lt;/li&gt;&lt;/ul&gt;
+                        &lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;h3&gt;
+                        Why Take Part?&lt;/h3&gt;
+                    &lt;p&gt;
+                        Well, It is a great excuse to write an article that you know a lot of people will
+                        be reading. You have a chance to share your experience (related to the topics given
+                        to you), writing ability, humor, and personality!
+                    &lt;/p&gt;
+                    &lt;p&gt;
+                        Plus – even if you don’t win? You still do by loads of exposure you get by posting
+                        the article on the world wide web!
+                    &lt;/p&gt;
+                    &lt;h3&gt;
+                        Here is how to it goes:&lt;/h3&gt;
+                    &lt;ol&gt;
+                        &lt;li&gt;
+                            &lt;p&gt;
+                                If you want to be part of the contest, get in touch with us. &lt;a href="Javascript: $('#Participatemsgmodal').modal();"&gt;Click here!&lt;/a&gt;
+                        &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+ Or simply send us a mail to preeti.singh [at] rudrasofttech.com.
+&lt;/p&gt;
+&lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;p&gt;
+                                You can also send us a message on our facebook page and enter the contest &lt;a href="http://www.facebook.com/RockyingMag"
+                                    target="facebook" /&gt;here&lt;/a&gt;.&lt;/p&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;p&gt;
+                                Once you register, we give you a suggestion of topics you could write on. You pick
+                                and write!&lt;/p&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;p&gt;
+                                Send us the article when finished.&lt;/p&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;p&gt;
+                                Once we approve it, your post goes live!&lt;/p&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;p&gt;
+                                Once your post goes live, promote it! Get people to comment on it, like it, tweet
+                                it, share it around and keep gaining points.&lt;/p&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;p&gt;
+                                The post with the most scores, wins! Simple!&lt;/p&gt;
+                        &lt;/li&gt;
+                    &lt;/ol&gt;
+                    &lt;h3&gt;
+                        Here are the rules / requirements you need to fulfil to be eligible to be part:&lt;/h3&gt;
+                    &lt;ol&gt;
+                        &lt;li&gt;
+                            &lt;p&gt;
+                                Like us on &lt;a href="http://www.facebook.com/RockyingMag" target="facebook" /&gt;Facebook&lt;/a&gt;&lt;/p&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;p&gt;
+                                Follow us on &lt;a href="http://www.twitter.com/rockyingmag" target="twitter"&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;p&gt;
+                                Subscribe to our newsletter &lt;a href="http://www.rockying.com/account/register" target="_blank"&gt;
+                                    here&lt;/a&gt;.&lt;/p&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;p&gt;
+                                Your post should be between 600 to 1000 words.&lt;/p&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;p&gt;
+                                Make sure your post is 100% original. Any plagiarised/duplicated post will be disqualified
+                                right away. 
+                            &lt;/p&gt;
+                        &lt;/li&gt;
+&lt;li&gt;
+                            &lt;p&gt;
+                                Every article posted would carry the writer's by-lines and would be owned by Rockying.com. 
+                            &lt;/p&gt;
+                        &lt;/li&gt;
+&lt;li&gt;
+                            &lt;p&gt;
+                                Any copyrighted material such as text or images would not be accepted. 
+                            &lt;/p&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;p&gt;
+                                You should promote your posts to gain scores.&lt;/p&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;p&gt;
+                                Make sure you don’t unlike / un-follow / unsubscribe before the contest ends. If
+                                you do, you will be disqualified.&lt;/p&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;p&gt;
+                                Your post will be accompanied by an author bio (30-50 words) - with links back to
+                                your FB page, blog (if any) and your twitter account.&lt;/p&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;p&gt;
+                                Your post should not contain more than two links.&lt;/p&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;p&gt;
+                                You should send accompanying images with your post. At least one photo is mandatory. No copy righted images please!&lt;/p&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;p&gt;
+                                Comments which add value to the conversation will be considered. Comments like Nice,
+                                great work won’t be counted for scores! We reserve the right to remove any content that might be found extremely offensive or threatening. So, please watch your language and respect other people's views, beliefs and emotions. &lt;/p&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;p&gt;
+                                Once the scores are locked, no matter of sharing
+                                or increase will count!&lt;/p&gt;
+                        &lt;/li&gt;
+ &lt;li&gt;
+                            &lt;p&gt;
+                                Rockying reserves the right of rejecting any entry in case of violation of the rules. The judges’ decision is final in case of any controversy.&lt;/p&gt;
+                        &lt;/li&gt;
+                    &lt;/ol&gt;
+                    &lt;h3&gt;
+                        Here’s how the scores will be counted:&lt;/h3&gt;
+                    &lt;ol&gt;
+                        &lt;li&gt;
+                            &lt;p&gt;
+                                &lt;strong&gt;Comments&lt;/strong&gt; - 50 points each - only comments that add value or are
+                                relevant.&lt;/p&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;p&gt;
+                                &lt;strong&gt;Facebook Likes&lt;/strong&gt; - 30 points each. &lt;b&gt;Participants found buying 'likes'
+                                    or using fake profiles to increase likes will be disqualified then and there.&lt;/b&gt;&lt;/p&gt;
+                        &lt;/li&gt;
+ &lt;li&gt;
+                            &lt;p&gt;
+                                &lt;strong&gt;Stumbles&lt;/strong&gt; - 30 points each &lt;/p&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;p&gt;
+                                &lt;strong&gt;Tweets&lt;/strong&gt; - 30 points each&lt;/p&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;p&gt;
+                                &lt;strong&gt;LinkedIn share&lt;/strong&gt; - 20 points each&lt;/p&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;p&gt;
+                                &lt;strong&gt;Pin It&lt;/strong&gt; - 20 points each&lt;/p&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;p&gt;
+                                &lt;strong&gt;Google Plus&lt;/strong&gt; - 20 points each&lt;/p&gt;
+                        &lt;/li&gt;
+                    &lt;/ol&gt;
+                    &lt;p&gt;
+                        Good Luck! And get in touch to send in your entries! &lt;/b&gt;&lt;/p&gt;
+&lt;h5&gt;The sooner you register, the more time you get for writing and promotions.&lt;/h5&gt;
+                    &lt;a href="Javascript: $('#Participatemsgmodal').modal();"&gt;
+                        &lt;h3&gt;
+                            Participate Now!&lt;/h3&gt;
+                    &lt;/a&gt;
+                    &lt;img alt="Giving Thumbs Up Winking" width="76" height="85" src="http://www.sherv.net/cm/emoticons/yes/giving-thumbs-up-winking-smiley-emoticon.gif"&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="modal hide" id="Participatemsgmodal" style="width: 500px;"&gt;
+    &lt;div class="modal-header"&gt;
+        &lt;button type="button" id="facebookmodalclosebtn" class="close" data-dismiss="modal"&gt;
+            ×&lt;/button&gt;
+        &lt;h3&gt;
+           Register now! &lt;/h3&gt; &lt;h4&gt;Send us your message.&lt;/h4&gt;
+
+    &lt;/div&gt;
+    &lt;div class="modal-body" style="height:400px;"&gt;
+        &lt;iframe src="http://www.rockying.com/form/ArticleContestParticipate.aspx" frameborder="0" noresize="noresize" scrolling="no" style="width: 95%; height:400px;  padding:0px; margin:0px;"&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Body>
+  <DateModified>2013-05-27T08:17:53.4916518-07:00</DateModified>
+  <Head />
+  <Sitemap>false</Sitemap>
+</CPage>

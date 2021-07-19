@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>dvwxrioNillUvhIFWeP</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>D28Mkm</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>14</Category>
+  <Tag>MlBEyJ</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;D28Mkm&lt;/p&gt;</Description>
+  <Text>I work with computers http://rockettube.fun/ rockettube  In addition, the proposed resolution squarely blames the &amp;amp;ldquo;Syrian authorities&amp;amp;rdquo; for carrying out the poison gas attacks that claimed hundreds of lives in Damascus on Aug 21. The French draft would also refer Syria to the International Criminal Court (ICC), opening the way for President Bashar al-Assad and his allies to be prosecuted for alleged war crimes.</Text>
+  <WriterName>A2r0j</WriterName>
+  <WriterEmail>lifestile@msn.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>dvwxrionilluvhifwep</URL>
+</Article>

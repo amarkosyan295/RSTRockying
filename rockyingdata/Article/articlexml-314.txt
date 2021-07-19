@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Calling-out to the Gods through the Bollywood Medium ; The Greatest Sufi Playlist of All Time</Title>
+  <MetaTitle>Calling-out to the Gods through the Bollywood Medium ; The Greatest Sufi Playlist of All Time</MetaTitle>
+  <OGImage>http://www.rockying.com/art/Music/Music-and-Mysticism/Sufi.jpg</OGImage>
+  <OGDescription>smc;lsm</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>15</Category>
+  <Tag>Sufi, Bollywood</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Music/Music-and-Mysticism/Sufi.jpg' alt='' /&gt;&lt;p&gt;smc;lsm&lt;/p&gt;</Description>
+  <Text>1.  Khwaja mere khwaja (Jodhaa Akbar)
+2.  Aya tere dar par deewana (Veer Zaara)
+3.  Noor-e-Khuda  (My Name is Khan)
+4.  Kun Faya Kun (Rockstar)
+5.  Bhar do jholi (Bajrangi Bhaijaan)
+6.  Bulleya (Sultan)
+7.  Piya Haji Ali (Fiza)
+8.  Arziyan (Dilli 6)
+9.  Man Ki Lagan
+10. Allah hi Rehem
+11. Fakiri (Hindi Medium)
+12.  Han Rehem Farma Ae Khuda (Aamir)
+13.  Ik lau (Aamir)
+14.  Sun Le Re (Madras Cafe)
+15. Maula Mere Le Le Meri Jan
+16.</Text>
+  <WriterName>Preeti Singh</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>calling-out-to-the-gods-through-the-bollywood-medium-the-greatest-sufi-playlist-of-all-time</URL>
+</Article>

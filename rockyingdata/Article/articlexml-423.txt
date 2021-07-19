@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>These could Literally Save Your Life Abroad; Top 10 Travel Tips for that Dream Foreign Trip</Title>
+  <MetaTitle>10 Travel Tips Required Before Any International Trip - Rockying.com</MetaTitle>
+  <OGImage>http://www.rockying.com/art/Travel/Tips-for-Travel-Abroad/Luggage.jpg</OGImage>
+  <OGDescription>Read our 10 travel tips required before any international trip, that you should bear in mind, before travelling abroad, for these could save your life.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Travel, Abroad, Trip, Passport, Documentation, Exchange Rate, Foreign, Health Insurance, Medications, Visa, Immigration.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Travel/Tips-for-Travel-Abroad/Luggage.jpg' alt='' /&gt;&lt;p&gt;Read our 10 travel tips required before any international trip, that you should bear in mind, before travelling abroad, for these could save your life.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+Some travel for business while others just for pleasure. Then, there are people who save for their big Euro trip so they can take a break to pamper themselves with the luxuries of a foreign land. Well, whatever might be your reason for getting away, while traveling abroad there are certain things that you need to be careful about. These things are trivial yet significant and help you enjoy your trip thoroughly. Read on for our tips to bear in mind before travelling abroad. Promise, after you are done taking care of these, your trip would be so much simpler and fun. 
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;#1   Passport &amp; other Documentation&lt;/h2&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Tips-for-Travel-Abroad/Passport-and-other-Documents-Rockying.jpg" alt="Passport and Documents" title="Passport and Documentation"&gt;
+Source: Pexels
+&lt;hr&gt;
+&lt;p&gt;
+While you are traveling abroad make sure that you carry copies of your passport along with you. Most of the people who travel abroad often face problems due to their passports being stolen or lost. So, in case of any such mishap, you would be ready for it. For further assurance, you can leave a copy of your passport back home or with someone you can contact in a state of emergency. You can also make electronic copies of your passport and store it on the cloud. Doing so ensures that you have access to your passport anytime and anywhere. You should also register with your embassy so if anything unfortunate occurs in the country you are traveling to, your government is able to contact you in order to safely bring you back home.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;#2    Health Insurance &lt;/h2&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Tips-for-Travel-Abroad/Health-Insurance-Rockying.jpg" alt="Health Insurance" title="Health Insurance"&gt;&lt;br&gt;
+Source: Freepik
+&lt;hr&gt;
+&lt;p&gt;
+Before traveling to a foreign country make sure that you have had all your necessary vaccinations. You should also renew all the essential prescriptions and make sure in case you get sick during your travel, your health insurance would cover all the expenses. However, there are certain insurance plans that do not cover any such expenses, so you should be double sure about that. If your insurance plan does not cover any such expense, then you should add extra cover for that. People consider this as unnecessary but this is strongly recommended as traveling to a foreign  country will expose you to a very different environment. There are chances you might get sick and not even know why. So it's better to be insured than sorry. ;)
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;#3   Money Matters&lt;/h2&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Tips-for-Travel-Abroad/Money-Matters-Rockying.jpg" alt="Money Abroad" title="Money Abroad"&gt;
+Source:Pexels
+&lt;hr&gt;
+&lt;p&gt;
+Always look for the conversion rate of the currency to the country you are traveling to. There are chances that you might get some awful surprises and you would not like them at all. After getting the idea of the conversion rate you must get some of your money converted to the currency of the country you are traveling to. It is also wise to make a rough budget for your travel and then make changes to it accordingly. This will help you get through your foreign trip without much hassle. Also, converting money in your home country will save you from varying exchange rates.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;#4  Local Research&lt;/h2&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Tips-for-Travel-Abroad/Local-Research-Rockying.jpg" alt="Local Foreign Research" title="Local Research"&gt;
+Source: Pexels
+&lt;hr&gt;
+&lt;p&gt;
+It is always good for you to do some local research on the place ahead of your travels. You can start by checking for the country's entry/exit fees as some countries impose one. The range may be between $25 and $200. Make sure that your credit/debit card works in the country you are visiting. Also, plan your travel and get your tickets in advance. This will save you from expensive last minute tickets and standing in long queues. It is advisory to get guidebooks as well. You should also research for the events going on in the while you are visiting. For example, China hosts the Canton Fair ( the biggest Import-Export trade Fair ) in April while Spain enjoys the Tomatina Festival in August. 
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;#5   Essential Electronics&lt;/h2&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Tips-for-Travel-Abroad/Essential-Electronics.jpg" alt="Essential Electronics" title="Essential Electronics"&gt;
+Source: Pexels
+&lt;hr&gt;
+&lt;p&gt;
+Carry all the important electronics you use on a daily basis. Also, carry a charger adapter as different countries have different plugs and voltage. Check for the power voltage of the electronics you are carrying. Most of the foreign countries have different default voltage level. So your electronics' voltage must be high enough to operate in that country. 
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;#6  International Roaming&lt;/h2&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Tips-for-Travel-Abroad/International-Roaming-Rockying.jpg" alt="International Roaming" title="International Roaming"&gt;
+&lt;hr&gt;
+&lt;p&gt;
+Make sure that you have an international calling and mobile data plan so that you never lose connectivity. Also, remember to unlock your phone's global capabilities. This would usually cost less than the roaming plan. You can opt for an international SIM if you are planning to stay a little longer. Also look for applications that might help you during your stay in a foreign country. Many apps provide great deals in a variety of countries.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;#7 Luggage&lt;/h2&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Tips-for-Travel-Abroad/Luggage.jpg" alt="Luggage" title="Luggage"&gt;
+Source: Pexels
+&lt;hr&gt;
+&lt;p&gt;
+You must do your packing wisely. Always carry a spare pair of clothing in your carry bag just in case that your luggage gets misplaced. You would not want your dream trip to be spoiled just because some officials misplaced your luggage. Also, try to keep your luggage to a minimum as checking in bags cost you more. Check for the amount of luggage you can carry to a country. Some foreign countries have strict restrictions regarding the weight of your luggage.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;#8  Packing Right&lt;/h2&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Tips-for-Travel-Abroad/Packing-Rockying.jpg" alt="Pack Right" title="Packing Right"&gt;
+Source: Pexels
+&lt;hr&gt;
+&lt;p&gt;
+Now you are thinking, is this the most redundant tip ever or what? You guys just spoke about luggage right? But make no mistake my friend, the above is in terms of the entire weight of the luggage you can carry while this one is about the teeny-tiny things you would not want to forget and repent later. There are chances that you may pack a little extra and that is okay. It is better to make a list of items that you will need. Just make sure that you do not skip the obvious. For example, if you are carrying a camera then make sure that you have packed its charger. Duh! I mean I wouldn't want to forget my binoculars, only to miss the close sight of the good-looking foreigners and their beautiful country. You get the drift ;)
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;#9   Meds and Prescriptions &lt;/h2&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Tips-for-Travel-Abroad/Meds-Rockying.jpg" alt="Meds" title="Medicines"&gt;
+Source: Pexels
+&lt;hr&gt;
+&lt;p&gt;
+If you have any chronic diseases, make sure that you are carrying medicines and also the prescriptions along with you. In some countries, the medicine stores will not give you medicines unless you have a prescription. And consulting a doctor in a foreign land will surely add up to your expense. That piece of paper won't hurt as much as a foreign doctor's hefty consultation fee will. Plus you would anyway want to be hail and hearty for that dream trip.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;#10  Beware of Fraudsters&lt;/h2&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Tips-for-Travel-Abroad/Fraudsters.jpg" alt="Fraudsters" title="Fraudsters"&gt;&lt;br&gt;
+Source: Freepik
+&lt;hr&gt;
+&lt;p&gt;
+As you are traveling to an unknown place, there are chances that you might come across people of different cultures. There is nothing wrong to try and mix up a little with them. However, try to be safe from fraudsters who are trying to dupe travelers in foreign countries. Also, do not fall prey to locals who try to overcharge you. You can avoid all this by doing a thorough research. 
+&lt;/p&gt;
+&lt;p&gt;
+Traveling abroad is the best way to unwind from your daily hustle and bustle. It is also a lifetime opportunity for some. Try to follow these simple tips to make your trip more enjoyable and problem free. While traveling if you find yourself hoping to study abroad and even work there afterward, you should check out this complete guide on &lt;a href="https://www.mim-essay.com/blog/post-study-work-visa-and-immigration" target="_blank"&gt;Post-Study Work Visa Immigration and Policies&lt;/a&gt;.  
+&lt;/p&gt;
+Image Credit: &lt;a href="https://www.pexels.com/" target="_blank"&gt;Pexels&lt;/a&gt; and &lt;a href="https://www.freepik.com/" target="_blank"&gt;Freepik &lt;/a&gt;.
+&lt;br&gt;
+&lt;br&gt;
+&lt;p class="well"&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Tips-for-Travel-Abroad/Abhyank-Srinet.jpg" class="pull-left"/&gt;
+&lt;b&gt;About the Author:&lt;/b&gt; Abhyank Srinet holds a Masters degree in Management from ESCP Europe &amp; has an engineering degree with a specialization in Instrumentation &amp; Control. His interest in the digital landscape motivated him to create an online startup for Masters in Management application consulting (&lt;a href="https://www.mim-essay.com" target=_blank"&gt;MiM-Essay.com&lt;/a&gt;), focused on spreading quality information about the MiM degree &amp; performing application consulting services for clients. He is the chief consultant of the company and takes care of Business Development and Digital Marketing side of the company. He is very passionate about writing and marketing.
+&lt;/p&gt;</Text>
+  <WriterName>Abhyank Srinet [Guest Post]</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>these-tips-could-literally-save-your-life-top-10-travel-tips-for-that-perfect-trip-abroad</URL>
+</Article>

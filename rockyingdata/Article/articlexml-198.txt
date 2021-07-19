@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Japanese Tow Truck</Title>
+  <OGImage>http://www.rudrasofttech.com/rockying/art/Automobiles/Japanese-Tow-Truck/image003333.jpg</OGImage>
+  <OGDescription>Japanese Tow Truck - You wont believe until you see it.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>21</Category>
+  <Tag>Automobile, Japan, Honda</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src="http://www.rudrasofttech.com/rockying/art/Automobiles/Japanese-Tow-Truck/image003333.jpg"
+                alt="" /&gt;
+&lt;p&gt;Japanese Tow Truck - You wont believe until you see it.&lt;/p&gt;</Description>
+  <Text>&lt;div class="carousel"&gt;
+                            &lt;a class="carousel-control left previousslide" href="Javascript:return false;"&gt;&amp;lsaquo;&lt;/a&gt;
+                            &lt;a class="carousel-control right nextslide" href="Javascript:return false;"&gt;&amp;rsaquo;&lt;/a&gt;&lt;div class="slideshow" style="padding-left:10%; padding-right:10%;"&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="thumbnail"&gt;
+            &lt;img src="http://www.rudrasofttech.com/rockying/art/Automobiles/Japanese-Tow-Truck/image001111.jpg"
+                alt="" /&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="thumbnail"&gt;
+            &lt;img src="http://www.rudrasofttech.com/rockying/art/Automobiles/Japanese-Tow-Truck/image002222.jpg"
+                alt="" /&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="thumbnail"&gt;
+            &lt;img src="http://www.rudrasofttech.com/rockying/art/Automobiles/Japanese-Tow-Truck/image003333.jpg"
+                alt="" /&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;div class="thumbnail"&gt;
+            &lt;img src="http://www.rudrasofttech.com/rockying/art/Automobiles/Japanese-Tow-Truck/image004444.jpg"
+                alt="" /&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</Text>
+  <SlideShowOn>true</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Vratika</WriterName>
+  <WriterEmail>vratika@rudrasofttech.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>3</ID>
+  <Name>about-rockying</Name>
+  <Title>About Us</Title>
+  <DateCreated>2012-12-04T03:22:03.347</DateCreated>
+  <CreatedByName>Raj Kiran Singh</CreatedByName>
+  <CreatedBy>1</CreatedBy>
+  <Status>Publish</Status>
+  <ModifiedByName>Preeti Singh</ModifiedByName>
+  <ModifiedBy>2</ModifiedBy>
+  <Body>&lt;div class="row-fluid box"&gt;
+        &lt;div class="span12"&gt;
+            &lt;h1&gt;
+                About Rockying&lt;/h1&gt;
+            &lt;p class="smalltxt"&gt;
+                &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;div class="row-fluid box"&gt;
+	&lt;div class="span12"&gt;
+		&lt;div id="article"&gt;
+			&lt;p&gt;
+                An e-magazine for creative young minds, Rockying is an amalgamation of information
+                and entertainment. We wish to reach young readers who vow to work for a cause and
+                stay updated with various developments across the world. Hungry for content, we
+                hope to spread fun. Come, explore the world with us!
+            &lt;/p&gt;
+            &lt;p&gt;
+                Rockying is branch-out of &lt;a href="http://www.rudrasofttech.com/" target="_blank"/&gt;RudraSofttech LLP&lt;/a&gt;, a software corporation based in Delhi
+                that was launched in 2009. We are fresh and we are promising! Over a short span,
+                Rudra Softtech has been engaged in providing a wide array of innovative technology
+                solutions and services to a broad base of consumers — Rockying being our newest
+                idea.
+            &lt;/p&gt;
+            &lt;p&gt;
+                You would come across all kinds of content here — travel, Bollywood Masalas, some
+                serious study on Hollywood cinema, food, internet, health, Fashion tips, etc (We
+                are on an expansion spree, so do not be surprised to see new stuff coming up from
+                our team of experienced bloggers and writers!)
+            &lt;/p&gt;
+            &lt;p&gt;
+                Our section Initiative is a perfect nom de plume for Rockying! This segment throws
+                light on real people, real stories and real initiatives. Big or small, if it is
+                an initiative towards a better society, &lt;a href="http://www.facebook.com/RockyingMag" title="Connect with Rockying on Facebook" target="_blank"/&gt;
+                    Rockying&lt;/a&gt; salutes
+                you!
+            &lt;/p&gt;
+            &lt;h2&gt;
+                Our Inspiration...&lt;/h2&gt;
+            &lt;p&gt;
+                To begin with Rockying is extremely choosy about filtering information. We do not
+                simply hunt for content, the content finds us! At Rockying, we are extremely fussy
+                about what we present to our reader. We do not simply throw information; our motto
+                is to find stories that are interesting, add value to life and increase our knowledge
+                base. We think differently, in a way that inspires our readers to learn more, do
+                more and create more.
+            &lt;/p&gt;
+            &lt;h3&gt;
+                So what keeps us going? Rocky himself!&lt;/h3&gt;
+            &lt;p&gt;&lt;img src="http://www.rockying.com/art/Rocky-Photo/rocky.jpg" class="pull-left" alt="Rocky" style="width:200px;"/&gt;
+                We have named the website after our little brown-eyed pup. We are here to do what
+                he does best — discover fun even in the drabbest of situations! Curiosity, thirst
+                for fun and a hunger to explore are a few qualities that we share with Rocky.
+            &lt;/p&gt;
+            &lt;h3&gt;
+                Words of Wisdom&lt;/h3&gt;
+            &lt;p&gt;
+                In today’s world our sole objective is to make the best use of time to stay abreast
+                with the blistering pace of the globe. We at Rockying hope to inspire our readers
+                to make the best use of their time and live life the fullest.
+            &lt;/p&gt;
+            &lt;p&gt;
+                Rockying will always endeavor to keep you interested!! So, stop by and. discover
+                fun.
+            &lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;</Body>
+  <DateModified>2013-01-16T09:47:05.4502461-07:00</DateModified>
+  <OGImage />
+  <OGDescription />
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <OGType>Article</OGType>
+  <MetaKeywords>Rockying.com, Rockying EMag</MetaKeywords>
+</CPage>

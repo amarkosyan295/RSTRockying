@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Why Breakfast Is The Best?</Title>
+  <OGImage>http://www.rockying.com/art/health/Breakfast-Is-The-Best/Breakfast-Home.JPG</OGImage>
+  <OGDescription>Many of us take the breakfast issue too lightly. But a study published in the American Journal of Clinical Nutrition says that skipping breakfast increases one’s risk of heart diseases and diabetes...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Breakfast, Meals, Fitness, Food, Weight Management, Health, Eating Habits.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/health/Breakfast-Is-The-Best/Breakfast-Home.JPG' alt='' /&gt;&lt;p&gt;Many of us take the breakfast issue too lightly. But a study published in the American Journal of Clinical Nutrition says that skipping breakfast increases one’s risk of heart diseases and diabetes...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;img src="http://www.rockying.com/art/health/Breakfast-Is-The-Best/breakfast.jpg" class="pull-right" /&gt;
+The rush to work, the hurry to reach office, the haste to get to school / college or just beginning too early - the common factor that links all? Not the hurry, but the fact that one very important meal is missed – breakfast! 
+&lt;/p&gt;
+&lt;p&gt;
+Many of us take the breakfast issue too lightly. But a study published in the American Journal of Clinical Nutrition says that skipping breakfast increases one’s risk of heart diseases and diabetes. So, technically people who don’t have breakfast tend to lead an unhealthy lifestyle. 
+&lt;/p&gt;
+&lt;p&gt;
+So, here’s looking into why you should be taking the time out for breakfast, and not just drinking coffee and running out the door!
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4&gt;BREAKING YOUR FAST &lt;/h4&gt;
+&lt;p&gt;Have you ever wondered about the literal meaning of breakfast. It means breaking your fast. What fast you might ask. It is the fast that you keep when you are sleeping. When you sleep your body slows down its metabolic rate. A healthy breakfast pumps the metabolism back into action - not only helping you in providing energy but also helping in maintaining a healthy body weight. Breakfast is like the key in the ignition of your metabolism at the beginning of the day.
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;EAT MORE, WEIGH LESS&lt;/h4&gt;
+&lt;p&gt;
+Technically this is true for breakfast only. When you skip the morning meal, you tend to be very hungry during lunch. So much so that you will eat more than required and to maintain the decreased sugar levels, you might have an urge to eat sugary products. So in addition to all the sugar you are putting in, you are eating a huge portion of food for lunch. Breakfast moderates your hunger throughout the day and reduces the urge to have heavy meals further on.
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;PERFORM BETTER&lt;/h4&gt;
+&lt;p&gt;
+Besides weight management, a healthy breakfast has been linked to a better cognitive and academic performance for students. Also, students with healthy and regular breakfast eating routines tend to have sharper memory, an increased physical energy, show improved psychosocial functions, alertness and better concentration levels.
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;A HEALTHY YOU&lt;/h4&gt; 
+&lt;p&gt;
+Breakfast is simply too good for everyone.  Regular breakfast eaters consume higher intakes of fibre, calcium, vitamin A, vitamin C, riboflavin, zinc and iron as well as fewer calories, and less dietary fat and cholesterol. These are nutrients which are usually missed out during other meals of the day. Not only in catching up to nutrients, but breakfast helps in lowering cholesterol which in turn helps in preventing heart related diseases. 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;MANAGE YOUR MOOD &lt;/h4&gt;
+&lt;p&gt;
+Reflect on how you felt when you were too hungry - irritable, grouchy, snappy, maybe even sarcastic and just a bad mood overall? Well, it happens - hunger makes you a grinch! Having a healthy balanced breakfast helps in reducing hunger pangs throughout the day, not only making you have a feeling of being full but also helping in an overall better mood throughout the day.
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+So, here is the breakfast benefit, right in front of you. So next time you are skipping breakfast for whatever reason - losing weight, hurrying to office or college or simply being forgetful - remember, you are doing yourself more harm than good. Those hours at the gym and the diet really won’t work if you aren’t putting the right fuel into your body every morning.
+&lt;/p&gt;
+&lt;h6&gt;Come on, tell us about your favorite breakfast recipe. What do you have for breakfast?&lt;/h6&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>nckEMpVTdKMUywuBV</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>h8wu0</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>14</Category>
+  <Tag>puSQYL</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;h8wu0&lt;/p&gt;</Description>
+  <Text>I&amp;#39;d like to open an account http://9taxi.in.net/ 9taxi  Lane had already scheduled a hearing to approve the planwhen the Justice Department filed an antitrust lawsuit onTuesday seeking to block the merger. The lawsuit said the mergerwould reduce competition and increase fares.</Text>
+  <WriterName>KvmIp</WriterName>
+  <WriterEmail>michal5s@aol.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>nckempvtdkmuywubv</URL>
+</Article>

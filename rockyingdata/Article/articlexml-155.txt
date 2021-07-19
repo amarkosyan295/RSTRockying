@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>155</ID>
+  <Title>The Ultimate Corporate Style Directory for Men!</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Lifestyle/Fashion/Fashion-For-Men/Jackets.N.Suits.jpg</OGImage>
+  <OGDescription>This week it is all about men’s fashion. With a very limited set of accessories a man’s wardrobe can offer, here are a few corporate must-haves...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>16</Category>
+  <Tag>Fashion, Style tips, Fashion for Men, Men's Clothing, Male Accessories</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://rudrasofttech.com/rockying/art/Lifestyle/Fashion/Fashion-For-Men/Jackets.N.Suits.jpg' alt='' /&gt;&lt;p&gt;This week it is all about men’s fashion. With a very limited set of accessories a man’s wardrobe can offer, here are a few corporate must-haves...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    This week it is all about men’s fashion. With a very limited set of accessories
+    a man’s wardrobe can offer, here are a few corporate must-haves:&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            UNDERSTANDING CUFFLINKS:&lt;/h3&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Fashion-For-Men/cufflinks.jpg"
+        title="Cufflinks" alt="" style="width: 700px;"&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+    &amp;nbsp;A sexy and a suave cuff link can add unprecedented charm to a French sleeve
+    or any formal gathering. Men who are up for the corporate setup cannot afford to
+    look casual or flamboyant for that matter. All they can experiment with is detailing
+    making some individual fashion statements. Be it French cuffs, torpedo cufflinks,
+    chain cufflinks or silk knots, these are the cleverest and the smartest accessories
+    any man can have. &lt;a href="http://everyguyed.com/howto/buy-wear-cufflinks/"&gt;Read more&lt;/a&gt;
+    about cufflinks and its variety.
+    &lt;br&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            NECK-TIES:&amp;nbsp;
+            &lt;br&gt;
+        &lt;/h3&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Fashion-For-Men/Neck.Ties.jpg"
+        title="Neck-Ties" alt="" style="width: 700px;"&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+    If you are a fresher to the corporate setup, a thin black tie is a strong recommendation
+    for your workstation. Wear it to work and loosen it up for the party later, a black
+    tie will definitely make corporate dressing more fun! Apart from that, invest in
+    blue ties, specifically striped ones. As a rule, men avoid patterns and an interesting
+    match of colors. The corporates won’t kill you if you occasionally flirt with colors.
+    Will they?&lt;br&gt;
+    &lt;br&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            BELTS:
+        &lt;/h3&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Fashion-For-Men/Belts-For-men.jpg"
+        title="Belts" alt="" style="width: 700px;"&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+    A belt is the perfect culmination of your look. A black and a brown leather belt
+    (buy those reversible ones) should never be missing from your wardrobe. A belt no
+    more is just meant to hold up your pants from slipping! It is totally subtle on
+    style and a real eye-catcher.&lt;br&gt;
+    &lt;br&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            OFFICE BAGS:&lt;/h3&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Fashion-For-Men/Bags.jpg"
+        title="Office Bags" alt="" style="width: 700px;"&gt;&lt;br&gt;
+&lt;/p&gt;
+&amp;nbsp;It is time for some change. Do away with boring backpacks and invest in some
+leather laptop cases and bags. It is totally upswing and speaks volumes about one’s
+classic tastes. Tan brown leather or chequered black leather bags with smart buckles
+will inspire your everyday corporate wardrobe. Here’s a tip match your bags with
+your shoes and belts. An office bag is worth an investment and is something that
+combines style and functionality at ease!&lt;ul&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            JACKETS &amp;amp; SUITS:&lt;/h3&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Fashion-For-Men/Jackets.N.Suits.jpg"
+        title="Jackets-n-Suits" alt="" style="width: 700px;"&gt;&lt;br&gt;
+&lt;/p&gt;
+&amp;nbsp;Keep a few light blue and beige linen jackets for a lousy Friday at work.
+Team it up with brown trousers and spruce up that boring image of yours into a fashion
+avatar without much ado! For daily wear suits, a black suit is an essential apart
+from a mute blue suit. Make sure the fabrics you choose for your suits are not flashy,
+dressy and go well with all shirts.&lt;br&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;h3&gt;
+            CARD HOLDERS:&amp;nbsp;
+        &lt;/h3&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Fashion-For-Men/card.Holders.jpg"
+        title="Card Holders" alt="" style="width: 700px;"&gt;&lt;br&gt;
+&lt;/p&gt;
+Well, Mont Blanc card holders are way too materialistic for men and usually they
+go out of their way to possess one of those uniquely hand-crafted beauties. If that
+does not suit your budget, a leather card holder will boost your confidence manifold
+each time you reach out for it to pull your card out!&lt;br&gt;
+&lt;ul&gt;
+    &lt;li&gt;Well….. &lt;b&gt;this&lt;/b&gt; will probably be one of the most important fashion &lt;b&gt;accessory&lt;/b&gt;
+        for any man, hands down!&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Fashion-For-Men/Woman-smiling-computer.jpg"
+        title="Working Woman" alt="" style="height: 600px;"&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;b&gt;TO SUM IT ALL UP&lt;/b&gt;: Here is the Before-After look. Find out what you lack and
+        what all you desire to balance professionalism with panache!&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;
+    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Fashion-For-Men/Poorly_Dressed.jpg"
+        title="Poorly Dressed in Suit" alt="" style="height: 500px;"&gt;&lt;/p&gt;
+&lt;p&gt;
+    Somehow this guy emanates a lot of lousiness, (though he seems to be glad the way
+    he is) doesn’t he?Observe as you keep in mind the style mantras given above.&lt;/p&gt;
+&lt;p&gt;
+    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Fashion-For-Men/HN%20own%20label%202%20-%20classic%20wool%20suit,%20%C2%A3395.jpg"
+        title="Classic Corporate Clothing" alt="" style="width: 700px;"&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    Now see this. Some oozing professionalism, sexy, stylish and yet simplistic!&amp;nbsp;&lt;/p&gt;
+&lt;h5&gt;
+    Make your workstation your fashion mecca and we will make sure that you never go
+    out of style!
+    &lt;br&gt;Any fashion suggestions or you think you need help fixing the right suits with your
+        shirts? Write in for instant replies.&lt;/br&gt;
+&lt;/h5&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Never stop dreaming</Title>
+  <MetaTitle>Never stop dreaming</MetaTitle>
+  <OGImage />
+  <OGDescription>A poor penniless David living with his sick dad.They have nothing in common to prepare for Christmas.But Christmas is the day when all your dreams come true.In other words, you should never stop dreaming even big things.You just diligently desire.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>29</Category>
+  <Tag>A poor boy, Christmas, Santa Claus,Christmas gift, amazing event</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='' alt='' /&gt;&lt;p&gt;A poor penniless David living with his sick dad.They have nothing in common to prepare for Christmas.But Christmas is the day when all your dreams come true.In other words, you should never stop dreaming even big things.You just diligently desire.&lt;/p&gt;</Description>
+  <Text>"It is snowing. Wow! What date is today? 20th December! Christmas is coming! What should I do now? Let's go and buy a Christmas tree, decorations, candles, lights, stockings...But..we don't have any money. Dad is not working anywhere, mum has gone abroad. This year might be as boring as in the past" sighed David looking at the Christmas tree in the city center, Chicago.
+     Everyone was happy singing merrily except David. He, was so displeased by his life, wanted to go away and away, but he can't. He should look after his poor and sick father as usual. But..anywhere in his body, he relies on something that changes his life at all. But when?
+     At school, his friends began boasting. Steve said that his father bought an untamed Dragon; Jack showed his merge cube; Thomas was proud of his Percy train set. Everyone is having fun except David. He has nothing to show to his friends. He clearly remembers the old watch showing Santa Claus and his present gifted to him three years ago. At that time his father worked, his mother worked, they lived happily. But what now? He has wanted to own a space projector lamp for himself because he adored multi-shining lights. That's his dream for three years but never came true.
+     "At Christmas, surprising things happen as my mum says" Lily broke the silence. David thought: every Christmas he dreams about this lamp but can't again anyway. Never! "Christmas is nonsense and Santa Claus is fake! It can't change my life at all" shouted David suddenly and went out.
+     Mr. Wilson(his father)was hanging old candles, lights(though the lights couldn't shine at all). Here is their Christmas tree, a small unpleasant one. These are not what David wants. He doesn't believe in Santa Claus anymore.
+    Today is Christmas day! Everywhere is shiny, beautiful and the Christmas tree looks amazing! In every corner of the streets, there are Fathers Christmas and their ladies. He was disgusted: "All are fake, nonsense. They can't surprise you at all. All tell us lies, hate them. Never will my dreams come true. Nor will my dad become healthy again. I'm too miserable, oh".
+ He was so unhappy returning to his house because the new year is coming in a few hours. Then again looked at the old candles, shabby tree, some eggs, bread, candies and lied on his bed. He was sorry that they live miserably, at the moment, others are eating turkey, burning candles, and waiting for a New Year.
+    But..suddenly something went shiny, in the gloomy room something began to burn. There were different lights with bright colors! "How amazing? What's happening?" He couldn't believe in his eyes. Then a jolly,white-bearded man wearing a red coat and a red hat appeared with his lady! Is this tricky or not?
+   "My dear David said Santa Claus vigorously, I came from remote places to give children Christmas gifts, er, also for you," smiled and pointed at his lady. She immediately got what he meant and began searching for something from the sack, then took the lamp he was dreaming during many years! Wow! "Is this for me, really?" he couldn't believe in his eyes."Yes, my little friend. I will thank you for your being a clever, hard-working, and sincere boy and not forgetting about me. You deserve a great present!. I am aware of your life, your feelings, sorry for being late, my dear. This is another present for your dad. Your dad is said to have been ill for several years, isn't he? This is a perfect remedy for him, helping to feel good and recover again".Then he looked everywhere and changed the scenery and the tree into a perfect one. What a good house now! "Well, my dear, sorry, it's high time I went to others to give their present too. I hope you will enjoy your presents! Merry Christmas!" said Santa and flew with his deer.
+  "Wow, that's amazing. That isn't fake, tricky! Everything is real! Thanks, Santa", he cried merrily and ran into his father.
+  From now on, their lifestyle changed to a better way.No matter does anything happens, never stop dreaming, dears.
+                                         (676words)</Text>
+  <WriterName>Gulrukh</WriterName>
+  <WriterEmail>missteacherguli@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>never-stop-dreaming</URL>
+</Article>

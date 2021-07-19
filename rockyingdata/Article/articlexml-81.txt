@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>81</ID>
+  <Title>The Dining Trends In India</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Food/Dining trends/food-trends.jpg</OGImage>
+  <OGDescription>What a day to do this! Rockying completes two months and we introduce our Food section today.  Read on and enjoy the best from the world of culinary."DON'T FORGET TO LIVE TO EAT NOW ON"...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>13</Category>
+  <Tag>Indian Food Trends, Dining trends, Food, Indian Food</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://rudrasofttech.com/rockying/art/Food/Dining trends/food-trends.jpg' alt='' /&gt;&lt;p&gt;What a day to do this! Rockying completes two months and we introduce our Food section today.  Read on and enjoy the best from the world of culinary."DON'T FORGET TO LIVE TO EAT NOW ON"...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    There
+    &lt;img src="http://rockying.com/art/Food/Dining%20trends/food-trends.jpg"
+        title="Dining trends In india" alt="" style="max-height: 174px;" class="pull-right" /&gt;
+    is something about this summer. After strong winter chills, the first few months
+    are always gleeful and we do not usually mind the sun. So, here we are predicting
+    the dining trends in India for 2012. Now make that usual platter of yours special!
+&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="http://rockying.com/art/Food/Dining%20trends/Spicy-Food.jpg"
+        title="Hot n Spicy" alt="" style="max-height: 150px;" class="pull-left" /&gt;
+    &lt;strong&gt;THE '&lt;i&gt;GARMA GARAM&lt;/i&gt;' CONCEPT&lt;/strong&gt;: Indian food habits have indeed
+    come a long way. From those garam garam paranthas, we have learnt to appreciate
+    cornflakes with cold milk for our breakfast. But this passionate mix and match of
+    flavors do not come true with every household. We might still crave for that steaming
+    bowl of poha or dosas for our breakfast. Our prediction says that Indians will not
+    get over with the garam garam concept, not this year at least.&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="http://rockying.com/art/Food/Dining%20trends/apple_logo_rainbow_fruit.jpg"
+        title="Fruits" alt="" style="max-height: 200px;" class="pull-right" /&gt;
+    &lt;strong&gt;FRUIT CONSUMPTION&lt;/strong&gt;: Our 2012 prediction says that the chomp-chomp
+    sound might still be on an all-time-high. By this we mean, the fast-food consumption
+    does not seem to decrease. However, we do see a lot of fruit consumption on the
+    table this season. Many exotic fruits are being imported this year and guilty people
+    will purge themselves of their sins by taking a bite or two!
+&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="http://rockying.com/art/Food/Dining%20trends/rice.jpg" title="Rice n Curry"
+        alt="" style="max-height: 150px;" class="pull-left" /&gt;
+    &lt;strong&gt;RICE IT UPTO THE BRIM&lt;/strong&gt;: Burrrp factor. When it comes to India, our
+    gastronomy has always been our priority. And it is not something new. Started with
+    the Mughals, it is a tradition to overeat and maybe even threaten guests with another
+    ladle full of steamed rice and curry. Well, this is what makes the dining experience
+    in India complete.
+&lt;/p&gt;
+&lt;p class="clearfix"&gt;
+    &lt;img src="http://rockying.com/art/Food/Dining%20trends/wine.jpeg" title="Wine and Dine"
+        alt="" style="max-width: 200px;" class="pull-right" /&gt;
+    &lt;strong&gt;BEER BUBBLES CALLING?&lt;/strong&gt; : Let us hail Bacchus this year. With a good
+    kick start to the New Year, the fun and frolic is just setting in. Some are still
+    suffering from their year en ds while some are still grappling with their last year
+    targets at work. How would this affect your appetite? For most, it would be all
+    about wine and other ethanol products!
+&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;SHARE IT, SAVE THE BUCK&lt;/strong&gt;: Recovering from the hard-hit reality.
+            With the budget comes the price-rise monster. So does that mean people would stop
+            dining out and cut corners? Nah! Indians would still be in their comfort zone. But
+            the difference being, they would order a plate and share.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;strong&gt;GO GLOBAL&lt;/strong&gt;: Every individual would be talking global this season.
+            And you won’t remain unaffected by it for long. People will open up to global cuisines
+            and multi-cuisine restaurants will be the most infested place on earth for hoggers
+            and progressive experimentalists. Now, have you tasted Galantine yet?&lt;br /&gt;
+            Let us glorify food and its chamber of secrets this year and marinate ourselves
+            in that Epicurean feast!&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>vXpFKxclxSl</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>1Fgk7q</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>18</Category>
+  <Tag>nIpTF9</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;1Fgk7q&lt;/p&gt;</Description>
+  <Text>I&amp;#39;m not working at the moment http://12yo.icu/ 12yo nn  The game also routinely struggles to tell you where to go. Areas are drawn so they feel open-ended, but you can only follow one path, jump off one rooftop, or venture down one alleyway. Thing is, this isn&amp;#226;t always properly indicated, so you spend too much time &amp;#226;exploring&amp;#226; invisible walls, pointlessly searching for your next move.</Text>
+  <WriterName>98cWw</WriterName>
+  <WriterEmail>freddien51@usa.net</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>vxpfkxclxsl</URL>
+</Article>

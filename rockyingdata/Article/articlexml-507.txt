@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>SxEBDZhFKo</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>8fwZWK</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>26</Category>
+  <Tag>DgMOE</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;8fwZWK&lt;/p&gt;</Description>
+  <Text>Your cash is being counted http://imagefap.in.net/ beta.imagefap.com  The impasse has revived threats of a government shutdown after the current budget year ends Sept. 30 and, more economically damaging, a default if Congress can&amp;#226;t agree to raise the debt ceiling later in October.</Text>
+  <WriterName>WDBIip</WriterName>
+  <WriterEmail>barry9e@lycos.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>sxebdzhfko</URL>
+</Article>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Awesome Babies; Also That Don't Suck!</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-06.jpg</OGImage>
+  <OGDescription>The awesomest babies around. Send in your clicks if you think your baby doesn't suck as much...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>18</Category>
+  <Tag>Funny, Kids</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-06.jpg' alt='' /&gt;&lt;p&gt;The awesomest babies around. Send in your clicks if you think your baby doesn't suck as much...&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+            font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+            padding: 0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+            font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+            padding: 0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="slideshow"&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-1.jpg"
+                title="Awesome Babies" alt="" style="width: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-02.jpg"
+                title="Awesome Babies" alt="" style="height: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-03.jpg"
+                title="Awesome Babies" alt="" style="width: 600px;"&gt;&lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-04.jpg"
+                title="Awesome Babies" alt="" style="height: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-05.jpg"
+                title="Awesome Babies" alt="" style="height: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-06.jpg"
+                title="Awesome Babies" alt="" style="width: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-07.jpg"
+                title="Awesome Babies" alt="" style="height: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-08.jpg"
+                title="Awesome Babies" alt="" style="height: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-09.jpg"
+                title="Awesome Babies" alt="" style="width: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-10.jpg"
+                title="Awesome Babies" alt="" style="height: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-11.jpg"
+                title="Awesome Babies" alt="" style="height: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-12.jpg"
+                title="Awesome Babies" alt="" style="height: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-13.jpg"
+                title="Awesome Babies" alt="" style="width: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-14.jpg"
+                title="Awesome Babies" alt="" style="width: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-15.jpg"
+                title="Awesome Babies" alt="" style="width: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-16.jpg"
+                title="Awesome Babies" alt="" style="width: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-17.jpg"
+                title="Awesome Babies" alt="" style="width: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-18.jpg"
+                title="Awesome Babies" alt="" style="height: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-19.jpg"
+                title="Awesome Babies" alt="" style="height: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-20.jpg"
+                title="Awesome Babies" alt="" style="height: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-21.jpg"
+                title="Awesome Babies" alt="" style="width: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-22.jpg"
+                title="Awesome Babies" alt="" style="width: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-23.jpg"
+                title="Awesome Babies" alt="" style="width: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-24.jpg"
+                title="Awesome Babies" alt="" style="height: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-25.jpg"
+                title="Awesome Babies" alt="" style="width: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-26.jpg"
+                title="Awesome Babies" alt="" style="width: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-27.jpg"
+                title="Awesome Babies" alt="" style="height: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-28.jpg"
+                title="Awesome Babies" alt="" style="width: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-29.jpg"
+                title="Awesome Babies" alt="" style="width: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-30.jpg"
+                title="Awesome Babies" alt="" style="width: 600px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://www.rockying.com/art/Humor%20Slide%20Show/Babies-that-dont-suck/awesome-babies-31.jpg"
+                title="Awesome Babies" alt="" style="height: 600px;"&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <SlideShowOn>true</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Vratika Singh</WriterName>
+  <WriterEmail>vratika@rudrasofttech.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

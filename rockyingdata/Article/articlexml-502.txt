@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>hgkDjjvXdYMdNc</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>ZyjacA</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>9zF75</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;ZyjacA&lt;/p&gt;</Description>
+  <Text>Could you please repeat that? http://egotastic.in.net/ egotastic all-stars photos  One group served as the control group and was told to carry on with their normal lifestyle. The second group was put on a light exercise program which involved 30 to 60 minutes of jogging or fast walking every day. The third group was put on the same exercise program but was also put on a calorie-restricted diet.</Text>
+  <WriterName>qumK6t</WriterName>
+  <WriterEmail>arnulfoagb@aol.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>hgkdjjvxdymdnc</URL>
+</Article>

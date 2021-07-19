@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>4GB USB Super Drives Now on Rockying Store!</Title>
+  <OGImage>http://www.rockying.com/art/India-Bobbles/Rockying-Super-Drives.jpg</OGImage>
+  <OGDescription>4GB USB Drives in the shape of your Favorite Super Heroes!</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>21</Category>
+  <Tag>India Bobbles, Super Hero Drives, 4GB USB Drives, Indian Bobbles, Indian Bobble heads, Gifts, Unusual Gifts, India, Bobble heads India.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/India-Bobbles/Rockying-Super-Drives.jpg' alt='' /&gt;&lt;p&gt;4GB USB Drives in the shape of your Favorite Super Heroes!&lt;/p&gt;</Description>
+  <Text>&lt;a href="http://www.rockying.com/store/"&gt;&lt;img src="http://www.rockying.com/art/India-Bobbles/Rockying-Super-Drives.jpg"&gt;&lt;/a&gt;
+&lt;h3&gt;Showcasing, Limited Edition Super Hero Memorabilia- &lt;a href="http://www.indiabobbles.com/" target="_blank"&gt;&lt;b&gt;India Bobbles&lt;/b&gt;&lt;/a&gt;, super cool and all too collectible, Super Drives. Exclusively available on &lt;b&gt;Rockying&lt;/b&gt;. &lt;a href="http://www.rockying.com/store/"&gt;BUY NOW!&lt;/a&gt; &lt;/h3&gt;</Text>
+  <WriterName>IB Team</WriterName>
+  <WriterEmail>preeti@indiabobbles.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>WideBlogTemplate</TemplateName>
+</Article>

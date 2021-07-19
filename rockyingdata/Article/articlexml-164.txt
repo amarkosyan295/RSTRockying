@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>164</ID>
+  <Title>Learn To Prevent Password Theft</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/internet/Password-Protection/cyber-crime.jpg</OGImage>
+  <OGDescription>Almost 550, 000 user passwords on Yahoo are hacked in an annual basis, 6 million LinkedIn accounts are hacked and Facebook account-hacking figures are unbelievably staggering.What should one do to avoid such security breaches? Read on. The tips are simple and just demand a little caution...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>10</Category>
+  <Tag>Password Security, Cyber Crime, Hacked Accounts, Internet Security, Anti-viruses,</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;p&gt;&lt;img src="http://rudrasofttech.com/rockying/art/internet/Password-Protection/cyber-crime.jpg" title="Beware of Cyber Crime" alt="" style="width: 150px; float: left;"&gt;Almost 550, 000 user passwords on Yahoo are hacked in an annual basis, 6
+ million LinkedIn accounts are hacked and Facebook account-hacking 
+figures are unbelievably staggering.What should one do to avoid such security breaches? Read on. &lt;b&gt;The tips are simple and just demand a little caution during your online presence.&lt;/b&gt;&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    A password getting hacked is the biggest threat for online data storage and privacy.&lt;img
+        src="http://rudrasofttech.com/rockying/art/internet/Password-Protection/gmail-password-hacked.jpg"
+        title="Password Hacked" alt="" style="width: 300px;" class="pull-left" /&gt;
+    Every individual’s account gets compromised at least once in their lifetime. And
+    the repercussions do not present a very pretty picture.
+&lt;/p&gt;
+&lt;p&gt;
+    Almost 550, 000 user passwords on Yahoo are hacked in an annual basis, 6 million
+    LinkedIn accounts are hacked and Facebook account-hacking figures are unbelievably
+    staggering.&lt;/p&gt;
+&lt;p&gt;
+    What should one do to avoid such security breaches?&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+    Read on. The tips are simple and just demand a little caution during your online
+    presence.&lt;/p&gt;
+&lt;h4&gt;
+    DOs:&lt;/h4&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Always keep passwords that have &lt;b&gt;special characters&lt;/b&gt; such as @, *, # and comprise
+            of at least two to three numbers. For example, AB*12#@ would be a difficult password
+            to hack than simple ones such as XYZ123. While deciding on a password, online profiles
+            do highlight password strength indicator. Do follow that!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Ensure that you &lt;b&gt;change your passwords&lt;/b&gt; every two months. If you are dealing
+            with high-profile or critical data, modifying passwords every month is advisable.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &amp;nbsp;Buy &lt;b&gt;total internet security anti-viruses&lt;/b&gt; and keep them up-to-date.
+            Malwares also steal passwords.&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;
+    DON'Ts:&lt;/h4&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;b&gt;Never close &lt;/b&gt;the web page from the close button that is situated next to minimize
+            and maximize button. Always Log Off from your account before you close the page
+            or shut your laptop down. Direct closing of pages can leave passwords saved in the
+            server and lead to anyone stealing them.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;b&gt;Do not keep the same password&lt;/b&gt; for different social and official accounts
+            you hold online. This is a gross mistake and hackers find it extremely easy to hack
+            such accounts. For easy remembering, remember a pattern in your mind and choose
+            passwords accordingly. For example, flower name sequences,country sequences etc.
+            can help you remember passwords at ease. The strategy should be easy to remember
+            and hard to speculate!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            &lt;b&gt;Avoid using public computers&lt;/b&gt; or working on anyone’s else’s PC. If compulsion
+            is the call of the time, then do not save passwords and ask if the network or the
+            WI-fi connection is secure enough or not. Hackers always seize or capture password
+            images in unsecured networks.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Bible rule: &lt;b&gt;Never share your passwords&lt;/b&gt;. You would be digging your own pit!&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;
+    See the following video for more information:&lt;/h4&gt;
+&lt;iframe src="http://www.youtube.com/embed/HTOj1nxx6R0" allowfullscreen="" frameborder="0"
+    height="315" width="560"&gt;&lt;/iframe&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

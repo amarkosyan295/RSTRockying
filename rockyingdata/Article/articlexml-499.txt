@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>fdSWJidQek</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>fMWsX</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>14</Category>
+  <Tag>eixATs</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;fMWsX&lt;/p&gt;</Description>
+  <Text>I sing in a choir http://yuvututube.fun/ yuvutu  &amp;#226;We would like to take this opportunity to apologise to those of our customers who were on the ride at the time of the incident and their families for what must have been a very frightening incident,&amp;#226; they added</Text>
+  <WriterName>zQ5Fkb</WriterName>
+  <WriterEmail>emmanuel8s@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>fdswjidqek</URL>
+</Article>

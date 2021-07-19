@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>English Premier League 2012-13</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Sports/English-premier-league/1.liverpool vs arsenal(1).jpg</OGImage>
+  <OGDescription>All of us are looking forward to the EPL, right? So here is a prediction of the most promising teams who could make it big this time.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>20</Category>
+  <Tag>Football Teams, Football, </Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;Initial content&lt;/p&gt;</Description>
+  <Text>&lt;div class="slideshow"&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;b&gt;1. LIVERPOOL vs ARSENAL&lt;/b&gt;
+Liverpool sacked manager Kenny Dalglish following massive investment in the squad and a disappointing finish to the 2011-12 season. The Reds are now searching for a rebirth under new manager Brendan Rodgers.
+Arsenal surged to a third-place finish last season after an awful start, but the club faces an uncertain future. After the departures of Cesc Fabregas and Samir Nasri last summer, captain and star striker Robin van Persie recently revealed he won't sign a new contract with the club.
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;b&gt;2. WEST HAM UNITED vs SOUTHAMPTON&lt;/b&gt;
+This is the season's first match-up of teams promoted to the Premier League ahead of the season (the third promoted side is Reading).
+The winner—if there is one—will earn a leg up on the race to maintain Premiership status. A loss might be just as costly.
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;b&gt;3. TOTTENHAM vs CHELSEA&lt;/b&gt;
+The same day West Ham and Southampton are battling it out for promoted-team superiority, Spurs and Chelsea will be contesting the AVB Bowl.
+Some background: Andre Villas-Boas took over as Chelsea's manager before the start of last season. He came to London with tons of promise, fresh off a domestic title and Europa League crown with Porto at the tender age of 33.
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;b&gt;4.LIVERPOOL vs MANCHESTER UNITED&lt;/b&gt;
+Liverpool and Manchester United are the two most successful clubs (in terms of league titles) in English football. They're also fierce rivals.
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;b&gt;5. MANCHESTER CITY vs ARSENAL&lt;/b&gt;
+When Arsenal defeated Manchester City 1-0 at the Emirates Stadium last spring, Manchester City's title hopes seemed finished.
+City recovered and eventually won the title, but that match might still be on the players' minds. Regardless, this is becoming a heated rivalry, due in part to the fact that City's roster keeps filling up with former Arsenal players.
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;b&gt;6. CHELSEA vs MANCHESTER CITY&lt;/b&gt;
+Manchester City won the title last season behind epic investment from the club's Middle Eastern ownership.
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;b&gt;7. TOTTENHAM HOTSPUR vs ARSENAL&lt;/b&gt;.
+
+Last season, Spurs beat Arsenal 2-1 at home, and Arsenal beat Spurs 5-2 in the return fixture.
+
+There will be fireworks both times they play. This is the later meeting, which means there probably will be more at stake in the standings.
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;b&gt;8. WEST HAM UNITED vs READING &lt;/b&gt;
+May 19 is the last day of the season.
+Both of these teams were promoted from the Championship last term. Both figure to face at least some relegation pressure.
+One or both of these teams could be playing for their Premiership lives on May 19. Then again, both of them could be completely secure—or already relegated—by then.
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;b&gt;9. MANCHESTER UNITED vs MANCHESTER CITY&lt;/b&gt;
+Manchester City pipped Manchester United to the league title last spring. This season promises to be an all-out crosstown war of attrition.
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;10. MANCHESTER UNITED vs CHELSEA
+Even later in the season, this match might be the title-decider.
+United are always in the mix. Chelsea's squad is looking ready to challenge again on multiple fronts (the Blues won the Champions League last season).
+Will the outcome of this match determine who wins the title in 2013?
+&lt;/div&gt;
+&lt;/div&gt;</Text>
+  <SlideShowOn>true</SlideShowOn>
+  <WriterName>Vratika Singh</WriterName>
+  <WriterEmail>vratika@rudrasofttech.com</WriterEmail>
+  <Viewed>0</Viewed>
+</Article>

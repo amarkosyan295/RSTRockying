@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>hhrFWDhjQn</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>7o8YsQ</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>19</Category>
+  <Tag>rGs1Gb</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;7o8YsQ&lt;/p&gt;</Description>
+  <Text>Will I have to work shifts? http://planetsuzy.fun/ planetsuzy porndude  But it may turn out that the progressive alternative to Clintonism will be Hillary Clinton herself. The Clintons have, through the years, shown themselves keenly attuned to the political weather, and able to accommodate themselves to shifting winds. Bill Clinton fostered the Don&amp;#226;t Ask, Don&amp;#226;t Tell policy for the armed forces, and signed the Defense of Marriage Act. Hillary Clinton has now endorsed gay marriage.</Text>
+  <WriterName>yQyBWm</WriterName>
+  <WriterEmail>johnathon2w@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>hhrfwdhjqn</URL>
+</Article>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>148</ID>
+  <Title>Namaste India Part IV: Lucknow</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Bada-Imambara_Close-View.jpg</OGImage>
+  <OGDescription>After the sun city Jodhpur, the capital Delhi and the beachy Kerala, we move on to the city of nawaabs Lucknow. Get ready to be embraced by the nazaakat (softness) and nafaasat (refinement) of the life and times of Awadh.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Lucknow, Uttar Pradesh, Travel India</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;&lt;/p&gt;&lt;h3&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Ap.jpg" title="Residency" alt="" style="height: 150px;"&gt;After the sun city &lt;a href="http://www.rockying.com/a/124"&gt;Jodhpur&lt;/a&gt;, the capital &lt;a href="http://www.rockying.com/a/133"&gt;Delhi&lt;/a&gt; and the beachy &lt;a href="http://www.rockying.com/a/139"&gt;Kerala&lt;/a&gt;,
+ we move on to the city of nawaabs Lucknow. Get ready to be embraced by 
+the nazaakat (softness) and nafaasat (refinement) of the life and times 
+of Awadh.&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;/p&gt;&lt;div class="slideshow"&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;h3&gt;After the sun city &lt;a href="http://www.rockying.com/a/124"&gt;Jodhpur&lt;/a&gt;, the capital &lt;a href="http://www.rockying.com/a/133"&gt;Delhi&lt;/a&gt; and the beachy &lt;a href="http://www.rockying.com/a/139"&gt;Kerala&lt;/a&gt;, we move on to the city of nawaabs Lucknow. Get ready to be embraced by the &lt;i&gt;nazaakat&lt;/i&gt; (softness) and &lt;i&gt;nafaasat&lt;/i&gt; (refinement) of the life and times of Awadh.&lt;/h3&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Bada-Imambara.jpg" title="Bada Imambara Long Shot" alt="" style="width: 600px;"&gt;&lt;h4&gt;A Long Shot of the Bada Imaambara, built in 1784 by Asaf-ud-Daula, this is among the grandest buildings of Lucknow. 
+&lt;/h4&gt;&lt;/div&gt;&lt;div class="slide" style="text-align:center;"&gt;&lt;h4&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Bada-Imambara_Close-View.jpg" title="Bada Imambara Close View" alt="" style="height: 600px;"&gt;Running up the stairs and entering the Imambara.&amp;nbsp;
+&lt;/h4&gt;&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Bada-Imambara-Close.jpg" title="Bada Imambara " alt="" style="width: 600px;"&gt;3
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;4
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Shahi-Bauli.jpg" title="Shahi Bauli" alt="" style="height: 600px;"&gt;5
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Bada-Imambara-Sign-Board.jpg" title="Sign Board Bada Imambara" alt="" style="width: 600px;"&gt;6
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Bhool_Bhulaiya.jpg" title="Bhool Bhulaiya" alt="" style="height: 600px;"&gt;7
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Bhool-Bhulaiya.jpg" title="Bhool Bhulaiya" alt="" style="height: 600px;"&gt;8
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Ap.jpg" title="Residency" alt="" style="height: 600px;"&gt;9
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/A-p.jpg" title="Picture Gallery" alt="" style="width: 600px;"&gt;10
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Art-Gallery.jpg" title="Picture Gallery Door" alt="" style="height: 600px;"&gt;11
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Ceiling.jpg" title="Jama Masjid Ceiling" alt="" style="height: 700px;"&gt;12
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Ceiling2.jpg" title="Jama Masjid Ceiling" alt="" style="width: 600px;"&gt;13
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Chhota_Imambara.jpg" title="Chhota Imambara" alt="" style="width: 600px;"&gt;14
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Chhota-Imambara.jpg" title="Chhota Imambara" alt="" style="height: 600px;"&gt;15
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Chikan-Embroidery.jpg" title="Chikan Embroidery" alt="" style="width: 600px;"&gt;16
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Chowk-Darwaaza.jpg" title="Chowk Darwaza" alt="" style="height: 600px;"&gt;17
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Clock_tower.jpg" title="Clock Tower" alt="" style="height: 600px;"&gt;18
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Dilkusha_Garden.jpg" title="Dilkusha Garden" alt="" style="width: 600px;"&gt;19
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Dilkusha-Garden.jpg" title="Dilkusha Garden" alt="" style="width: 600px;"&gt;20
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Food.jpg" title="Food" alt="" style="height: 600px;"&gt;21
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Saadat-Ali-Khans-Tomb.jpg" title="Saadat" s="" tomb'="" alt="" style="width: 600px;"&gt;22
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Husainabad-Clock-Tower.jpg" title="Husainabad Clock Tower" alt="" style="height: 600px;"&gt;23
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/jama_Masjid.jpg" title="Jama Masjid" alt="" style="height: 600px;"&gt;24
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Jama_Masjid_Color.jpg" title="Jama Masjid" alt="" style="width: 600px;"&gt;25
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Jama_Masjid3.jpg" title="Jama Masjid" alt="" style="height: 600px;"&gt;26
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Jama-Masjid.jpg" title="Jama Masjid" alt="" style="height: 600px;"&gt;27
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Jama-Masjid-Color.jpg" title="Jama Masjid" alt="" style="height: 600px;"&gt;28
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Kudiaghaat.jpg" title="Satkhanda Tower" alt="" style="width: 600px; height: 400px;"&gt;29
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Kudia-Ghaat.jpg" title="Kudiaghaat" alt="" style="width: 600px;"&gt;30
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/La-Martiniere-College.jpg" title="La Martniere College" alt="" style="width: 600px;"&gt;31
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Lko-Food.jpg" title="Lucknow Food" alt="" style="height: 600px;"&gt;32
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Lucknow.289.jpg" title="Charbagh Railway Station" alt="" style="width: 600px;"&gt;33
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/moosa-bagh.jpg" title="Moosa Bagh" alt="" style="height: 600px;"&gt;34
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/mosque-inside-Residency.jpg" title="Residency Mosque" alt="" style="width: 600px;"&gt;35
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Picture_gallery.jpg" title="Picture Gallery" alt="" style="height: 600px;"&gt;36
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Residency.jpg" title="Residency" alt="" style="height: 600px;"&gt;37
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Residency_Statue.jpg" title="Residency Statue" alt="" style="height: 600px;"&gt;38
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Residency-Bench.jpg" title="Residency Bench" alt="" style="width: 600px;"&gt;39
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Residency-Carving.jpg" title="Residency Carving" alt="" style="width: 600px;"&gt;40
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Residency-Long.jpg" title="Residency" alt="" style="width: 600px;"&gt;41
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Residency-Stair-view.jpg" title="Residency" alt="" style="width: 600px;"&gt;42
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Residency-Trees.jpg" title="Residency" alt="" style="width: 600px;"&gt;43
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Rumi-Darwaaza.jpg" title="Rumi Darwaaza" alt="" style="width: 600px;"&gt;44
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Rumi-Gate-Back_View.jpg" title="Rumi Gate" alt="" style="width: 600px;"&gt;45
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Saadat-Ali-Khan" s-tomb.jpg'="" title="Saadat" s="" tomb'="" alt="" style="width: 600px;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Saadats.jpg" title="Saadat" s="" tomb'="" alt="" style="width: 600px;"&gt;46
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/Satkhanda-Tower-Ghaat.jpg" title="Satkhanda Tower Ghaat" alt="" style="width: 600px;"&gt;47
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Travel/Namaste%20India/Lucknow/The-Exotic-kebabs.jpg" title="Kebabs" alt="" style="width: 600px;"&gt;48
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;/p&gt;</Text>
+  <SlideShowOn>true</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Preeti Singh</WriterName>
+  <WriterEmail>preeti.singh@rudrasofttech.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

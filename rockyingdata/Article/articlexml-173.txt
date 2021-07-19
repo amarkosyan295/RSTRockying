@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>173</ID>
+  <Title>Mc Donalds And Why Every One Loves It!</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Food/Mc-Donalds/mac-donalds.jpg.png</OGImage>
+  <OGDescription>It has been criticized for its “killer fries”.Serving over 68 million customers a day, Rockying gets behind a little of the McDonald magic.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>13</Category>
+  <Tag>Fast Food, Burgers, Mc Donalds</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://rudrasofttech.com/rockying/art/Food/Mc-Donalds/mac-donalds.jpg.png' alt='' /&gt;&lt;p&gt;It has been criticized for its “killer fries”.Serving over 68 million customers a day, Rockying gets behind a little of the McDonald magic.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    It has been criticized for its “killer fries”, for using beef and for being one
+    of the reasons for obesity. But one thing's for sure, McDonald's
+    &lt;img src="http://rockying.com/art/Food/Mc-Donalds/mc-d-fries.gif" title="Mc-Donalds-Fries"
+        alt="" style="float: right;" height="193" width="148"&gt;still remains to fight
+    all that controversy and hit right back and claims its spot as the number one hamburger
+    fast food restaurant in the world. Serving over 68 million customers a day, &lt;a href="http://www.facebook.com/RockyingMag"&gt;
+        Rockying&lt;/a&gt; gets behind a little of the McDonald magic.
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;img src="http://rockying.com/art/Food/Mc-Donalds/mac-donalds.jpg.png"
+        title="Mc Donalds Around The World" alt="" style="float: left;" height="366"
+        width="568"&gt;Brothers Richard and Maurice McDonald opened the McDonald business
+    in 1940. The restaurant now has branches in over 199 countries, including the 56
+    branches in India alone. Offering employment to about 1.5 million customers, McDonalds
+    offers a variety of restaurant types - cafes, drive through, counter services, indoor
+    and outdoor seating.
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    One thing most lovable about McDonald is well, the menu. Offering just the “right”
+    kind of food to entice the junk food lover in all of us. Having a wide range of
+    selection from burgers, iced teas, ice creams, sundaes, sandwiches, salads and shakes,
+    the brand just has hit the right notes in kids and adults alike.
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    The menu usually varies across countries and regions. For example, one extremely
+    popular dish in India is the &lt;b&gt;Mc Aloo Tikki&lt;/b&gt; which isn’t found in countries
+    elsewhere.
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    Claiming to be made of 100% pure ingredients, McDonald's has done a lot to create
+    the balance for a healthier lifestyle. Seems like an irony given the fact that no
+    health expert will actually advise you that McDonald's or the menu it serves is
+    really “okay” if you are trying for a healthy lifestyle. Watch the film, &lt;a href="http://www.youtube.com/watch?v=H-eRXuuH9AI"&gt;
+        Super Size Me&lt;/a&gt; to know more.&lt;/p&gt;
+&lt;p&gt;
+    Here’s a look at the little claims that actually suggest that they might be bending
+    towards a healthy outlook or so as to
+    &lt;img src="http://rockying.com/art/Food/Mc-Donalds/Mcaloo-tikki.jpg"
+        title="McAloo Tikki" alt="" style="float: right; height: 300px;"&gt;say:&lt;br&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;The&lt;b&gt; oil used&lt;/b&gt; is said to be Canola blend. This makes the fried items into
+        0 trans fat per serving.&lt;/li&gt;&lt;li&gt;Their meat are 100% &lt;b&gt;&lt;a href="http://www.usda.gov/wps/portal/usda/usdahome"&gt;
+            USDA&lt;/a&gt; inspected.&lt;/b&gt; This helps in maintaining the quality and safety in terms
+            of good meat consumption.&lt;/li&gt;&lt;li&gt;Every single &lt;b&gt;egg is inspected&lt;/b&gt;. Every egg is
+                washed and inspected visually and electronically before they are ready for being
+                used at the big M.&lt;/li&gt;&lt;li&gt;They offer &lt;b&gt;non fat milk for their McCafe coffee&lt;/b&gt; drinks.
+                    You can always choose to go the non fat way.&lt;/li&gt;&lt;li&gt;McDonald’s Triple Thick Shakes,
+                        Sundaes and McFlurry desserts use &lt;b&gt;reduced fat ice cream&lt;/b&gt;, which is made from
+                        fresh quality cream, whole milk, and skim milk solids.&lt;br&gt;
+                    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+    Their &lt;a href="http://www.mcdonaldsindia.com/"&gt;website&lt;/a&gt; offers a great deal on
+    what really is going behind the McDonald's story and how it works. Videos, articles
+    and stories about how the big M is trying to work out the healthy issues.
+    &lt;br&gt;
+    Having said all that, McDonalds, the largest food-chain in the world, still remains
+    the most lip smacking burger and nuggets fest there is ever to be.&lt;/p&gt;
+&lt;h5&gt;
+    Though it may be a little tough on the hips, it would be wonderful on the lips.
+    What do you say?
+&lt;/h5&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>spiti tours and travel</Title>
+  <OGImage />
+  <OGDescription>This article is a detailed explanation about Spiti Valley in Himachal Pradesh. Our expert guides from journeytoexplore will help make a dream travel come true.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Himachal, Spiti, Lahaul, Kaza, leh, Nurba Valley,</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;This article is a detailed explanation about Spiti Valley in Himachal Pradesh. Our expert guides from journeytoexplore will help make a dream travel come true.&lt;/p&gt;</Description>
+  <Text>This vast, desolate corner of Himachal Pradesh is also one of the most sparsely populated regions on earth. Lahaul is a relatively green valley north of the Rohtang La, but as you travel east into Spiti the landscape transforms into a rugged network of interlocking river valleys hidden in the rain shadow of the Himalaya. It’s 12,000 sq km of snow-topped mountains and high-altitude desert, punctuated by tiny patches of greenery and villages of whitewashed mud-brick houses clinging to the sides of rivers and meltwater streams. As in Zanskar and Ladakh, Buddhism is the dominant religion, though there are small pockets of Hinduism in Lahaul, where many temples are sacred to Buddhist and Hindu deities. According to legend, some monasteries in Lahaul were founded personally by Padmasambhava, the Indian  monk who converted Tibet to Buddhism in the 8th century AD. Manali is the main gateway to Lahaul and Spiti. A seasonal highway runs north over the Rohtang La (3978m) to Keylong, the capital of Lahaul, continuing to Ladakh over the mighty Baralacha La (4950m) and Tanglang La (5328m). Side roads branch west to the
+
+little-visited Pattan Valley and east to Spiti over the 4551m Kunzum La. Growing numbers of travelers are visiting Lahaul and Spiti as part of the Great Himalayan Circuit from Kashmir to Kinnaur. The Rohtang La, Baralacha La and Tanglang La are normally open from June to late October, while the Kunzum La to Spiti is accessible from July to October, with exact dates depending on snow conditions. At other times, the entire region is virtually cut off from the outside world, except for the rugged Hindustan–Tibet Hwy from Kinnaur. To know more about the tour please visit our spiti page here.
+
+Lahaul
+
+Separated from the Kullu Valley by the 3978m Rohtang La and from Spiti by 4551m Kunzum La, Lahaul is greener and more developed than Ladakh and Spiti, but most travellers whistle straight through on the road between Manali and Leh, missing most of what Lahaul has to offer. The capital, Keylong, is an easy stop on the popular Leh to Manali bus trip and you can detour to a number of mountain villages and medieval monasteries that are blissfully untouched by mass tourism. Normally, government buses between Manali and Leh run from mid-July to mid September; at the time of research, these services were suspended due to catastrophic landslides. By the time you read this, we expect them to be up and running again. Private buses and shared minivans operate from late June to mid-October. Services as far as Keylong continue until the Rohtang La closes in November, and buses east to Kaza stop when the Kunzum La closes in October. Check the status of the passes before visiting late in the season – once the snows arrive, you might be stuck for the winter.
+
+MANALI TO KEYLONG
+
+From Manali the road to Leh strikes north along the Beas River valley and climbs slowly through pine forests and switchbacks to the bare rocky slopes below snow-clad Rohtang La (3978m). The name literally translates as ‘pile of dead bodies’ – a reference to the hundreds of travellers who have frozen to death here over the centuries. At the pass, look out for the small, dome-shaped temple that marks the source of the Beas River. On the far side of the pass, the road plunges spectacularly down into the awesome. Lahaul Valley, a rugged landscape of soaring crags, alpine meadows and mesmerising waterfalls plunging from glacial heights. About 66km northwest of Manali, the tiny hamlet of Gramphu marks the turn-off to Spiti. There is only one building in Gramphu  a rustic stone dhaba beside a stream where you’ll have to wait for the bus if you’re heading to Kaza from Keylong. Khoksar, 5km northwest of Gramphu, has several dhabas and a police checkpoint where foreigners must show their passports. The road passes through a sheer-sided valley,hemmed in by skyscraping rocky peaks. About 18km before Keylong, Gondla is famous for its eight-storey tower fort, built from alternating layers of stone and timber. Once the home of the local thakur, the fort is no longer occupied, but it’s still an impressive sight. Try to visit during the lively Gondla Fair in July. From Gondla, you can hike 4km to the village of Tupchiling to visit historic Guru Ghantal Gompa, allegedly founded by Padmasambhava. Although crumbling, the gompa contains ancient murals and wooden statues of bodhisattvas
+
+Spiti:
+
+Separated from the fertile Lahaul Valley by the soaring 4551m  Kunzum La, Spiti is another piece of Tibet transported to India. Villages are few and far between in this serrated, rocky landscape and they arrive like mirages –clusters of whitewashed homes nestled on the arid valley floor or perched in nooks on the slopes a thousand feet up. Even more impressive are the Buddhist monasteries built high on the sides of the valley and dwarfed by the sheer scale of the surrounding terrain. Local farmers eke out a living on the small strip of greenery that hugs the banks of the Spiti River and in isolated hamlets far above it. In many ways Spiti is even more rugged and remote than Ladakh, but buses run over the Kunzum La from Manali from July to October, and the Hindustan–Tibet Hwy to Tabo is theoretically open all year. A steady stream of motorcyclists and mountain bikers pit their machines against some of the most challenging roads in India. Most people start in Manali or Keylong and exit the valley at Rekong Peo in Kinnaur, but a few travellers go against the flow and travel west to Keylong or Ladakh. Sections of the road are frequently washed away by floods and landslides, especially between Nako and Rekong Peo, so build some extra time into your itinerary in case of delays.
+
+ 
+Kaza:
+
+The capital of Spiti, Kaza sits on the eroded floodplain of the Spiti River and is the biggest settlement you’ll encounter in this empty corner of the state. Still, it’s relatively small, feeling like a frontier town with an easygoing pace. The setting is wonderfully rugged – jagged mountains rise on either side and the river coils across the valley floor like twisted locks of Medusa’s hair. The colourful new Sakya Gompa dominates the high road in New Kaza – where the town’s administrative centre is located – while the ramshackle bazaar and whitewashed buildings of Old Kaza spread out on the other side of the stream that divides the town. Most people stay at least one night to arrange the inner line permit for travel beyond Tabo. Kaza is also the starting point for trips to Ki Gompa and Kibber and treks into the mountains.  Travellers can hire taxi or a bike for a tour to Kaza. For pre booking please call or write to us.
+
+DHANKAR
+
+spiti-dhankarSoutheast of Kaza, the snaking Spiti River merges with the Pin River, creating a single ribbon of grey in the midst of dust-coloured badlands. Perched high above the confluence is the tiny village of Dhankar, the former capital of the Nono kings of Spiti. The 1200-year-old Dhankar Gompa (admission ₹125; 8am-6pm) hangs on the edge of a cliff , wedged surreally between rocky pinnacles above the village. The lower monastery building has a silver statue of Vajradhara (the Diamond Being), and there’s a second prayer hall on the hilltop, with exquisite medieval murals of Sakyamuni, Tsongkhapa and Lama Chodrag. Just downhill is a small museum (admission ₹125; h8am-6pm) with costumes, instruments, old saddles and Buddhist devotional objects. In November, Dhankar monks celebrate the Guktor Festival with energetic masked dances. Above the gompa are the ruins of the mud-brick fort that sheltered the entire population of the Nono kingdom during times of war, and an hour’s climb uphill is the scenic lake of Dhankar Tso, offering epic views towards the twin peaks of Mane Rang.
+
+PIN VALLEY NATIONAL PARK
+
+Running south from the Spiti Valley, the wind-scoured Pin Valley National Park (1875sq km) is famous as the ‘land of ibex and snow leopards’, though sightings of either species are rare. From July to October, a popular eight-day trek runs from here over the 5319m Pin-Parvati Pass to the Parvati Valley near Kullu. The road to the Pin Valley branches off the Kaza–Tabo Hwy about 10km before Sichling, climbing through winter meadows to the cluster of whitewashed farmhouses at Gulling. About 2km above Gulling at Kungri, the 600-year-old Ugyen Sanag Choling Gompa has old prayer rooms and a huge new monastery with vivid murals of protector deities, including the many-eyed archer Rahula and one-eyed Ekajati, the Guardian.
+
+TABO
+
+About 47km east of Kaza, tiny Tabo is the only other town in the Spiti Valley. The setting,hemmed in by scree slopes, is windblown and dramatic, and the ridge above town is riddled with caves used as meditation cells by local lamas. The village is completely dominated by Tabo Gompa (admission by donation; 6am- 10pm), a World Heritage Site preserving some of the finest Indo-Tibetan art in the world. Founded in AD 996, the gompa’s fantastically adorned sanctuaries, which are generally open from 9am to 5pm, were painted by some of the best Buddhist muralists of the era. Beyond the intricate mandalas and scenes of gods and demons, the moody chambers are graced with life-size stucco statues of bodhisattvas and detailed wood carvings. The modern gompa outside the ancient compound has a well-attended morning puja at 6.30am, and the monastery guesthouse contains a Buddhist library.
+
+For booking and tour, please call or write to us and we’ll be more than happy to customize the tour for you.</Text>
+  <WriterName>Gaurav Kumar</WriterName>
+  <WriterEmail>journeytoexplore1@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>spiti-tours-and-travel</URL>
+</Article>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>CcXvLALsTAaQRoEy</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>IN5808</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>7bDTO</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;IN5808&lt;/p&gt;</Description>
+  <Text>Is it convenient to talk at the moment? http://boobs.pet/ small boobs  (c)  require, prevent, materially delay or restrict a divestiture or alter the terms envisaged for any proposed divestiture by any member of the Wider Markel Group or by any member of the Wider Abbey Protection Group, in any such case, of all or any part of their respective businesses, assets or properties or impose any material limitation on the ability of any of them to conduct their businesses (or any part thereof) or to own, control or manage, use or operate all or any part of their respective businesses, assets or properties owned by, or the use or operation of which is enjoyed by any of them;</Text>
+  <WriterName>hXUsr</WriterName>
+  <WriterEmail>jarrod8e@lycos.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>ccxvlalstaaqroey</URL>
+</Article>

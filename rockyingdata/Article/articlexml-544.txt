@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>EBJfTxxlguWNgDPLoRt</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>GuTrh</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>26</Category>
+  <Tag>Cmffj8</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;GuTrh&lt;/p&gt;</Description>
+  <Text>I work with computers http://efukt.fun/ efukt.com  &amp;quot;I would encourage other third level colleges to follow their lead. By working together we can achieve our aim of being tobacco free by 2025,&amp;quot; he added.Develop and introduce legislation to prohibit smoking within the campuses of primary schools, secondary schools and child care facilities.</Text>
+  <WriterName>qtutjS</WriterName>
+  <WriterEmail>elliotl71@lycos.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>ebjftxxlguwngdplort</URL>
+</Article>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>151</ID>
+  <Title>Beat The Heat With The Coolest Summer Drinks.</Title>
+  <MetaTitle>Beat The Heat With The Coolest Summer Drinks.</MetaTitle>
+  <OGImage>//rockying.com/art/Food/Cool-Drinks/DSCN5768.jpg</OGImage>
+  <OGDescription>As the mercury soars this summer, Rockying presents some easy-to-prepare thirst quenchers and ways to beat the heat. We get totally exclusive for our readers with some special tips to become that Ice, Ice Baby in this hot weather!</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>13</Category>
+  <Tag>Summer Drinks, Mint, Cool Thirst Quenchers</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/Food/Cool-Drinks/DSCN5768.jpg' alt='' /&gt;&lt;p&gt;As the mercury soars this summer, Rockying presents some easy-to-prepare thirst quenchers and ways to beat the heat. We get totally exclusive for our readers with some special tips to become that Ice, Ice Baby in this hot weather!&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    As the mercury soars this summer, &lt;a href="//www.facebook.com/RockyingMag"&gt;Rockying&lt;/a&gt;
+    presents some easy-to-prepare thirst quenchers and ways to beat the heat. We get
+    totally exclusive for our readers with some special tips to become that Ice, Ice
+    Baby in this hot weather!&lt;br&gt;
+    Summers can remind one of summer vacations, snow-capped peaks and may be tonnes
+    of unpleasant holiday homework from school. With all of this piling on our heads,
+    health can reasonably take a toll. The next logical step? Say goodbye to teas and
+    coffees. Let not the weather dampen your spirits!&lt;br&gt;
+&lt;/p&gt;
+&lt;h3&gt;
+    PERFECT SUMMER DRINKS&lt;br&gt;
+&lt;/h3&gt;
+&lt;b&gt;1.&amp;nbsp;&amp;nbsp;&amp;nbsp; COCONUT WATER&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;img src="//rockying.com/art/Food/Cool-Drinks/Coconut.jpg" title="Coconut Water"
+    alt="" style="width: 500px;"&gt;&lt;br&gt;
+&lt;br&gt;
+No doubt a bottle of Pepsi is far cheaper than coconut water. But a perfect summer
+drink is something that makes you feel less acidic and quenches your thirst at the
+same time. Let coconut water be your tonic this season and save your intestines
+from some hot-food hell fire!&lt;p&gt;
+    &lt;b&gt;2.&amp;nbsp;&amp;nbsp;&amp;nbsp; CHAANCH WITH MINT&lt;br&gt;
+    &lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;img src="//rockying.com/art/Food/Cool-Drinks/Chaach-with-mint.jpg"
+        title="Chaach with Mint" alt="" style="width: 500px;"&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    Now spice up that unexciting chaanch of yours by adding crushed mint leaves (a handful
+    of these would do) and add it before pouring in chaanch. Do not stir the magic potion
+    and refrigerate it for an hour or so. Pour some crushed ice from top and just sip
+    your way to Nirvana!!!&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+    &lt;b&gt;3.&amp;nbsp;&amp;nbsp;&amp;nbsp; GREEN ORB&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+    &lt;b&gt;&lt;/b&gt;
+    &lt;img src="//rockying.com/art/Food/Cool-Drinks/DSCN5768.jpg" title="Green Orb"
+        alt="" style="width: 500px;"&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    You would require curd, a few mint leaves, cumin (zeera) seeds a pinch of black
+    salt and coriander leaves. Hotelier industry biggies such as Hilton enlist this
+    in their carte du jour. So why not try this at home? Roast cumin seeds and crush
+    it along with mint leaves in that kitchen okhli (mortar) you have left unused for
+    long and mix it with the rest of the ingredients. Add plain water or soda water
+    and refrigerate it for half hour. Now rim the glass with salt and a slice of lemon
+    and serve this green orb. Are you set to change your destiny this summer? Cheers
+    to good health!&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+    &lt;b&gt;4.&amp;nbsp;&amp;nbsp;&amp;nbsp; DON'T FEAR SHAKESPEARE (The Ginger-Lemongrass Drink) !!!&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+    &lt;b&gt;
+        &lt;img src="//rockying.com/art/Food/Cool-Drinks/Ginger-Lemongrass-Drink.jpg"
+            title="Ginger-Lemongrass Drink" alt="" style="width: 500px;"&gt;&lt;br&gt;
+    &lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    Well with all that logic Shakespeare was out to set through his plays, this drink
+    has a similar temperament to change what is long been studied or consumed! Change
+    history, change your gastronomical pattern with this drink. What more? It is not
+    as complicated as Shakespeare, blahaha!!! Take a slice of ginger, a few strands
+    of lemon grass and soda. Crush ginger and lemon grass and boil it for 15 minutes.
+    Let it cool and add soda to it. Grate some unpeeled lemon from top and crushed ice.
+    Sweeten it as you like and aaaah! Beat the heat.
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;b&gt;OPTIONS AVAILABLE IN THE MARKETS:&lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    Packed lassis, Coco berry stores, ice cream parlors, iced teas, lemon drinks, soda
+    water and other coolers and mocktails that eating joints have can be that perfect
+    replacement for hot teas. Also...&lt;/p&gt;
+&lt;p&gt;
+    &lt;b&gt;STAY COOL AND SWEAT FREE WITH THE FOLLOWING TIPS:&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Take bath at least twice a day and avoid using excess of deodorants and roll-ons.
+        They do not do any good to the skin (it can lead to cysts in armpits) or save you
+        from a sweaty day. Summers do make us sweat like pigs and deos won’t make it any
+        better!&lt;/li&gt;&lt;li&gt;Avoid onion and garlic consumption to get rid of that stinky underarm.
+            These foods warm the body up.&lt;/li&gt;&lt;li&gt;Include pudina (mint) leaves (whole or crushed)
+                in your diet.&lt;/li&gt;&lt;li&gt;Have fruits that have water-content in it. Water melons, kiwis,
+                    cantaloupes, yellow melons, passion fruits, apricots to name a few can keep you
+                    sinfully cool this summer.&lt;br&gt;
+                &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;
+    Make best use of the weather and eat healthy to stay fit. Embrace the season with
+    a smile. Cheers!&lt;/h5&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>151</URL>
+</Article>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>10 Biggest Bollywood 'Damp Squibs' of Recent Times</Title>
+  <OGImage>http://www.rockying.com/art/bollywood/Biggest-Damp-Squibs/Kites_Movie.jpg</OGImage>
+  <OGDescription>whenever the B-town gets us all excited about an upcoming release, we are often handed a movie so bland, so mind numbingly boring that we are force to ask the one question distressed fans have been asking for ages now...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Bollywood Damp Squibs, Recent Bollywood Damp Squibs, Joker, Love Story 2050, Mangal Pandey, Raavan, Kites, Saawariya, Mausam, Blue, Drona.</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Biggest-Damp-Squibs/Kites_Movie.jpg' alt='' /&gt;&lt;p&gt;whenever the B-town gets us all excited about an upcoming release, we are often handed a movie so bland, so mind numbingly boring that we are force to ask the one question distressed fans have been asking for ages now...&lt;/p&gt;</Description>
+  <Text>&lt;h5 class="text:align-centre;"&gt;Bollywood Article Writing Contest Post #3&lt;/h5&gt;
+&lt;p&gt;
+    We are loony fans when it comes to loving the insane plot twists, the mushy love stories, the silly jokes and the bawdy item numbers that come with a staple Bollywood movie. However, it seems that lately, whenever the B-town gets us all excited about an upcoming release, we are often handed a movie so bland, so mind numbingly boring that we are force to ask the one question distressed fans have been asking for ages now “ why on earth was THAT movie made?” Here is the list of movies when Bollywood stars had you pulling at your hair in a rabid frenzy, in the hope that it does not happen any time soon again!&lt;/p&gt;
+&lt;p&gt;
+Of course there have been roles where the woman of substance has emerged from the chrysalis, thanks to strong-willed film-makers who have broken fresh ground. Read on for my list of favorite woman oriented Hindi flicks: 
+&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            MOTHER INDIA (1957)&lt;/h4&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Female-Centric-Films/Mother-India-Nargis.jpg" alt="Mother India"/&gt;
+        &lt;p&gt;
+            The first woman-oriented film that comes to mind unanimously is this Mehboob Khan magnum-opus, a remake of his earlier Aurat, with transparent titles. India’s official nomination at the Oscar’s, this socially-relevant film par excellence, was much ahead in thought and an epic classic. It made a powerful impact, representing India in the aftermath of Independence, being pioneer in reinforcing the internal strength of a woman who rises like the Phoenix from the ashes of circumstances. An idealist, this role essayed by Nargis with consummate ease of a veteran, is watershed; a benchmark role. There has perhaps been no other woman-centric film not compared with this (complete melodramatic package) to judge its relevance and potency. A much-lauded and decorated film it lived up to its title with grace and dignity.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            BHUMIKA (1977) &lt;/h4&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Female-Centric-Films/Bhumika-Smita-Patil.jpg" alt="Bhumika"/&gt;
+        &lt;p&gt;
+           Coming from the connoisseur of meaningful and unconventional films, Shyam Benegal, this gem from New Age Cinema, touched the core of my heart even while rattling the insides. One of the best performances of the earthy Smita Patil who gave her all and more to this ‘arty’ classic. This fiery feminist role seemed tailor-made for her where she is on a soul-searching trip in the sojourn called life. 
+        &lt;/p&gt;
+&lt;p&gt;
+Scarily real, supposedly based on the life of Marathi actress Hansa Wadekar, this celebrated film won two National Awards and Film fare Best Movie Award.
+&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            ARTH (1982)&lt;/h4&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Female-Centric-Films/Arth.jpg" alt="Arth"/&gt;
+        &lt;p&gt;
+            Coming from the bold Mahesh Bhatt, supposedly a slice of his personal life, Arth was an off-beat subject that hit bull’s eye. This product of parallel cinema in its infancy, was the talking point in high-class social circuit, office gup-shup, canteen talk and coffee table conversations. It was a melodramatic saga of the internal struggle of two women who make one man pivot of their existence. The man appears spineless as Bhatt makes Shabana rise above her situation and in fact reject every male appendage to lead an independent life. Even the hysterical character essayed with skilled finesse by the late Smita Patil ditches the man after self-introspection. Here, the subject of domestic violence in the lower strata was touched upon maturely sans being judgemental which earned extra brownie points. Megaphone-wielding Bhatt scored as women here are winners.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+           MIRCH MASALA (1987)&lt;/h4&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Female-Centric-Films/Mirch-Masala.jpg" alt="Mirch Masala"/&gt;
+        &lt;p&gt;
+            Women power at its supreme best! This Ketan Mehta powerhouse has cream of the crop actors pitching in to make it soar. Smita Patil’s gutsy character of Son bai has remained with me with unparalleled impact. Other scenes apart, recount when women throw fists full of spice on the rogue Subedar and you know why this is pick of the genre of women-centric films. Female camaraderie at its best!&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+         AASTHA: In the Prison of Spring (1997)&lt;/h4&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Female-Centric-Films/aastha.jpg" alt="Aastha"/&gt;
+        &lt;p&gt;
+            Maestro Basu Bhattacharya’s off-beat catapulted the woman protagonist to another realm when a bored home-maker turns to moonlighting as a prostitute to fill the chasm of materialistic provisions in life’s humdrum. This film carried an unequivocally bold message to be lauded for its sheer ingenuity for treading unchartered territory.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+           ASTITVA (2000)&lt;/h4&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Female-Centric-Films/astitva.jpg" alt="Astitva"/&gt;
+        &lt;p&gt;
+            This much-acclaimed bi-lingual made in Hindi and Marathi, had Mahesh Manjrekar at the helm. It centred on the protagonist ably-played by Tabu in search of her ‘astitva’ (identity). The film liberates the woman from male chauvinism she has long given and forgiven, but not any more. You empathize with the lady despite adultery and herein lay the crux of this indelible celluloid masterpiece.
+        &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            LAJJA (2001)&lt;/h4&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Female-Centric-Films/Lajja-Rekha.jpg" alt="Lajja"/&gt;
+        &lt;p&gt;
+            This Rajkumar Santoshi film is contemporary tour de force depicting sharp contrast in a land where women worshipped as Shakti are tortured, humiliated and killed for being just that, women. Poignant female bonding made this memorable, building on experiences to highlight societal malpractices and their never-say-die attitude. &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            DOR (2006)&lt;/h4&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Female-Centric-Films/ayesha-gul-Dor.jpg" alt="Dor"/&gt;
+        &lt;p&gt;
+            This fairly-recent one by Nagesh Kukunoor not given its due warmed the cockles of my heart witnessing female ties.  The pathos interwoven as one woman connects with another is touching. The joie de vivre that Gul Panag’s character infuses into the colourless life of widowed Ayesha Takia is moving. The scenes where the latter breaks into full-throated laughter in the company of the former is a precursor of things to come. Recall the scene where the latter’s paternal grandmother urges her to leave for a better world. This scene has etched itself forever in my mind as giving strength to the protagonist’s wings to fly towards self-redemption.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+           KAHAANI (2012)&lt;/h4&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Female-Centric-Films/Kahaani.jpg" alt="Kahaani"/&gt;
+        &lt;p&gt;
+            This much-acclaimed Sujoy Ghosh film was singular in the way it dealt with highlighting the inner reserves of a woman’s strength. Despite being heavily pregnant, the protagonist (Vidya Balan in a compelling performance) goes about her mission with unadulterated fervor and zeal. Never before has Hindi cinema portrayed a lead actor thus and won accolades from classes and masses alike. Kahaani broke all previous records in establishing the fact that good cinema draw audiences to the theatre.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;h4&gt;
+            THE DIRTY PICTURE (2011)&lt;/h4&gt;
+&lt;img src="http://www.rockying.com/art/bollywood/Female-Centric-Films/the-dirty-picture.jpg" alt="The Dirty Picture"/&gt;
+        &lt;p&gt;
+            Vidya, Vidya and Vidya was the USP of this Milan Luthra biopic allegedly based on Southern siren Silk Smitha with Vidya again turning in a sterling act. Here was on display (pun intended) erotic and sensual power of a woman who made no bones about her physicality and in fact flaunts it, to hell with inhibitions and repressed sexuality. In an era of size-zero, Vidya carried her weight lightly, shone like a lode star and looked a bomb, rightly bagging among others, the National Award for what I consider performance with aplomb. Take a bow, Vidya for it’s not often that one combines power, elan and grit in one role and walks away with all respect an artiste deserves and is hailed as a female hero.&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+   Within the ambit of choosing 10 best women-centric films this is the list I have finally compiled after much deliberation. Of course, there are other films with varying degree of women-orientation like Basu Bhattacharya’s &lt;b&gt;Anubhav (1971)&lt;/b&gt;, Shyam Benegal’s &lt;b&gt;Ankur (1973)&lt;/b&gt;, Gulzar’s &lt;b&gt;Aandhi (1975)&lt;/b&gt;, Goutam Ghose’s &lt;b&gt;Paar (1984)&lt;/b&gt;, Raj Kumar Santoshi’s &lt;b&gt;Damini (1993)&lt;/b&gt;, Shekhar Kapur’s &lt;b&gt;Bandit Queen (1994)&lt;/b&gt;, Prakash Jha’s &lt;b&gt;Mrityudand(1997)&lt;/b&gt;, Dwivedi’s &lt;b&gt;Pinjar (2003)&lt;/b&gt;, Shimit Amin’s &lt;b&gt;Chak De! India (2007)&lt;/b&gt;, Bhandarkar’s &lt;b&gt;Fashion(2008)&lt;/b&gt; and Heroine (2012), Vishal Bhardwaj’s &lt;b&gt;7 Khoon Maaf (2011)&lt;/b&gt;, Alankita Srivastav’s &lt;b&gt;Turning 30 (2011)&lt;/b&gt;, Rajkumar Gupta’s &lt;b&gt;No One Killed Jessica (2011)&lt;/b&gt; etc. etc. &lt;/p&gt;
+&lt;p&gt;
+    While one cannot strait-jacket films favoring women, one can certainly hope more intrepid film-makers come forward to take us on a wonderful journey that explores hidden avenues of a woman’s resilience and reaches the darkest recesses of her heart and soul.  Here’s wishing for more such roles so the next time I am not compelled to limit my observation to only 10 such films (said tongue firmly in-cheek!)
+&lt;/p&gt;
+&lt;H5  class="text:align-center;"&gt;Want to write an article and win your self some hard cash?&lt;/h5&gt;
+&lt;h4 class="text:align-center;"&gt;&lt;a href="http://www.rockying.com/rockying/rockying-article-writing-contest" target="_blank"/&gt;PARTICIPATE NOW!&lt;/a&gt;&lt;/h4&gt;</Text>
+  <SlideShowOn>false</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Annie Biswas</WriterName>
+  <WriterEmail>media.sonali@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>166</ID>
+  <Title>Mad Youth Of Bollywood!</Title>
+  <MetaTitle>Mad Youth Of Bollywood!</MetaTitle>
+  <OGImage>//www.rockying.com/art/bollywood/rang-de-basanti.jpg</OGImage>
+  <OGDescription>This week it is about thematising youth in films the Bollywood way. The youth as represented in Bollywood scream out to say that “Maturity isn't measured by the number of candles on your cake.” Read on and go nuts with young India...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Youth, Rang de basanti, haasil, socha na tha, Bollywood, young india, Yuva, Swades, Wake Up Sid, Arjun, 3 Idiots, Dil, Dosti, etc</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/bollywood/rang-de-basanti.jpg' alt='' /&gt;&lt;p&gt;This week it is about thematising youth in films the Bollywood way. The youth as represented in Bollywood scream out to say that “Maturity isn't measured by the number of candles on your cake.” Read on and go nuts with young India...&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;button id="prevslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+        font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+        padding: 0px; background-color: transparent;'&gt;
+        &amp;lsaquo;
+    &lt;/button&gt;
+    &lt;button id="nextslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+        font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+        padding: 0px; background-color: transparent;'&gt;
+        &amp;rsaquo;
+    &lt;/button&gt;
+&lt;/div&gt;
+&lt;div class="slideshow" style="margin: 0 auto; width: 700px;"&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;p&gt;
+                        This week it is about thematising youth in films the Bollywood way. The youth as
+                        represented in Bollywood scream out to say that “Maturity isn't measured by the
+                        number of candles on your cake”. We bring you some of the most critically acclaimed
+                        films on youth in India. Now, pop a popcorn and go nuts with YOUTH INDIA!&lt;/p&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;iframe src="http://www.youtube-nocookie.com/embed/AK28V4FjqMc?rel=0" allowfullscreen=""
+                        frameborder="0" height="380" width="600"&gt;&lt;/iframe&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        RANG DE BASANTI (2006)&lt;/h4&gt;
+                    A provocative view of the tenacious lifestyle of four men who find themselves stumbling
+                    upon nationalism in the most unfamiliar situations. The turbulent historical past
+                    of the nation is brilliantly juxtaposed against a dawning realization of the characters
+                    that almost become synonymous with REFORM while trying to save the nation from mindless
+                    corruption.
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        SWADES (2004)&lt;/h4&gt;
+                    Mohan is one of the most typical cases of brain drain who leaves the nation and
+                    his Kaveri Amma for a better life in America. The American stereotype is brilliantly
+                    illustrated in the film where the disillusioned hopes of being an Indian and inheriting
+                    citizenship in America are questioned with gravity. Watch this most disturbing scene
+                    of the film, when Mohan gives a Re 1 coin to a child for a small glass of water.
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;iframe src="http://www.youtube-nocookie.com/embed/ITBc-mu-pz4?rel=0" allowfullscreen=""
+                        frameborder="0" height="380" width="600"&gt;&lt;/iframe&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        YUVA (2004)&lt;/h4&gt;
+                    Hot-blooded youth, Howrah Bridge and politics, this film was made to encourage Gen-X
+                    to enter politics and clean the grit of the nation. The lives of three men are brilliantly
+                    tied into one fateful event that creates a furor for “change”. Abhishek’s kick-butt
+                    acting and Rehman's music are the drool-points of the film.
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;iframe src="http://www.youtube-nocookie.com/embed/dqPfOXMH0kI?rel=0" allowfullscreen=""
+                        frameborder="0" height="380" width="600"&gt;&lt;/iframe&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        WAKE UP SID (2009)&lt;/h4&gt;
+                    An ordinary story of a purposeless rich guy who has just graduated from college
+                    and lacks some real opportunities in life until Konkona Sen (Remember her editorial
+                    “A New Girl in the City”?) helps him find precious ways to achieve a better life!
+                    &lt;b&gt;Why do we love it&lt;/b&gt;? Coz it is our story and we all relate to it. We know transitional
+                    phases suck!
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;iframe src="http://www.youtube-nocookie.com/embed/mgsoALlxQeY?rel=0" allowfullscreen=""
+                        frameborder="0" height="380" width="600"&gt;&lt;/iframe&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        SARFAROSH (1999)&lt;/h4&gt;
+                    A rich and a complex portrayal of cross border terrorism, this was a release when
+                    the Kargil conflict was at its peak! Aamir’s inspiring acting in the film still
+                    leaves us with a lingering taste of patriotism and youth.
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;iframe src="http://www.youtube-nocookie.com/embed/culMeNxWupQ?rel=0" allowfullscreen=""
+                        frameborder="0" height="380" width="600"&gt;&lt;/iframe&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        ARJUN (1985)&lt;/h4&gt;
+                    Way back in 1985, Arjun’s TRP is Sunny Deol who is poor and gets misused by people
+                    in politics until he finds a way to avenge and settle scores with evil times. Hindi
+                    cinema cannot survive without Sunny Deol’s films and this is a classic punch that
+                    celebrates the fervor of the youth blood.
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;iframe src="http://www.youtube-nocookie.com/embed/w_ys11Cayg0?rel=0" allowfullscreen=""
+                        frameborder="0" height="380" width="600"&gt;&lt;/iframe&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        3 IDIOTS (2009)&lt;/h4&gt;
+                    Youngsters laugh, youngsters cry, youngsters are impulsive but they have their own
+                    ways of solving problems at hand. Rancho and Sahastrabuddhe are the pivot of the
+                    film who question certain educational values present in the social order. &lt;b&gt;Why do
+                        we love this?&lt;/b&gt; It reminds the youth of their sacred duty: gaining knowledge
+                    anywhere and being innovative.
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;iframe src="http://www.youtube-nocookie.com/embed/MRD9f4oaoQ0?rel=0" allowfullscreen=""
+                        frameborder="0" height="380" width="600"&gt;&lt;/iframe&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        SOCHA NA THA (2005)&lt;/h4&gt;
+                    The film highlights the frivolous nature of youth who do stray in love at times
+                    but yes, happy endings are inevitable! &lt;b&gt;Why do we love this?&lt;/b&gt; Abhay’s transformation
+                    mirrors almost every other love-struck Romeo today. Infatuation versus love is something
+                    that most of us are still not clear about and Socha Na Tha gives a picture of it
+                    brilliantly in Abhay’s character. Love is and will always be experimental and unanticipated!
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;iframe src="http://www.youtube-nocookie.com/embed/iYo4UYicn6w?rel=0" allowfullscreen=""
+                        frameborder="0" height="380" width="600"&gt;&lt;/iframe&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        DIL, DOSTI, ETC (2007)&lt;/h4&gt;
+                    Politicization of education in the current times, has made unthinkable difference
+                    to approaches that the youth takes. It is not simply about textbooks and knowledge.
+                    A film where the “etc” becomes the take-off point! Dark, gory, sexual and political-
+                    The Shreyas and Imaad duo sure left a thinking spot for youth in India.&lt;b&gt;Why we love
+                        this? &lt;/b&gt;The film is extremely volatile in nature… just like us YOUTH!
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;iframe src="http://www.youtube-nocookie.com/embed/g56lVb-6ioI?rel=0" allowfullscreen=""
+                        frameborder="0" height="380" width="600"&gt;&lt;/iframe&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        HAASIL (2003)&lt;/h4&gt;
+                    Paan Singh Tomar famed director Tigmanshu Dhulia’s initial film on love and relationships
+                    weaved well into it, the most intricate insights on love, sex, relationships, rival
+                    political gangs and jealousy! Why do we love this? For Irfaan Khan’s power-packed,
+                    Allahabadi performance(that also fetched him the filmfare for being the best villain).&lt;i&gt;"&lt;b&gt;Gorilla
+                        waar kiya jaega, dekhen jo hota hai so&lt;/b&gt;"&lt;/i&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;iframe src="http://www.youtube-nocookie.com/embed/uPMUCHbW2-A?rel=0" allowfullscreen=""
+                        frameborder="0" height="380" width="600"&gt;&lt;/iframe&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        LAKSHYA (2004)&lt;/h4&gt;
+                    Passion lost and found, this Hrithik Roshan starrer film voices its dilemma of hundreds
+                    of teenagers who grapple to find focus in life. No plans, no goals, Karan is not
+                    keen on joining his father’s business and also drops out of the army. The turning
+                    point comes when his girl friend, our bubbly Priety Zinta ditches him seeing his
+                    aimlessness and the lack of zeal to make it big in life.
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;iframe src="http://www.youtube-nocookie.com/embed/jYNkQL1xgh8?rel=0" allowfullscreen=""
+                        frameborder="0" height="380" width="600"&gt;&lt;/iframe&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        DIL CHAHTA HAI (2001)&lt;/h4&gt;
+                    Akash, Sameer and Sid- they are colorful, witty and so-not-prepared-to-face-the-world
+                    until they find the practical world knocking at their doors. It is about the rise,
+                    the spark and the possibilities that the world of youth entails. Shankar-Ehsaan-Loy’s
+                    music emanates freshness even today! The theme still remains crisp and is a perfect
+                    cocktail of emotions, fragility, love and life!
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;iframe src="http://www.youtube-nocookie.com/embed/fZtWMdhsRPI?rel=0" allowfullscreen=""
+                        frameborder="0" height="380" width="600"&gt;&lt;/iframe&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>166</URL>
+</Article>

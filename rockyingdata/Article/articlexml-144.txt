@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>144</ID>
+  <Title>Mehdi Hassan; A Remembrance</Title>
+  <MetaTitle>Mehdi Hassan; A Remembrance</MetaTitle>
+  <OGImage>//www.rockying.com/art/bollywood/Mehdi-Hassan.jpg</OGImage>
+  <OGDescription>A Collection of (Videos) Rockying's Ten Mehdi Hassan favorite Ghazals.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>15</Category>
+  <Tag>Mehdi Hassan, Ghazals, Music</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/bollywood/Mehdi-Hassan.jpg' alt='' /&gt;&lt;p&gt;A Collection of (Videos) Rockying's Ten Mehdi Hassan favorite Ghazals.&lt;/p&gt;</Description>
+  <Text>&lt;div class="carousel"&gt;
+                            &lt;a class="carousel-control left previousslide" href="Javascript:return false;"&gt;&amp;lsaquo;&lt;/a&gt;
+                            &lt;a class="carousel-control right nextslide" href="Javascript:return false;"&gt;&amp;rsaquo;&lt;/a&gt;&lt;div class="slideshow"&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;h3&gt;Bliss personified; Ustad Mehdi Hassan's voice is none but the God's himself. Listen to our pick of ten of the maestro's best ghazal renditions.&lt;/h3&gt;
+&lt;iframe src="http://www.youtube-nocookie.com/embed/FLfQ_Vy7JKI" allowfullscreen="" frameborder="0" height="480" width="700"&gt;&lt;/iframe&gt;
+&lt;h4&gt;Ranjish hi sahi dil hi dukhane ke liye aa...Mehdi sings as Faraaz himself reads his poetry.&lt;br&gt;This is one of the best compositions in raag Yaman. &lt;/h4&gt;&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;iframe src="http://www.youtube-nocookie.com/embed/sw6E4ZSHYBo" allowfullscreen="" frameborder="0" height="480" width="700"&gt;&lt;/iframe&gt;&lt;h4&gt;Aake sajjada nasheen kaise hua mere baad...Meer Taqi Meer's poetry just so beautifully sung by Ustaad.&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;iframe src="http://www.youtube-nocookie.com/embed/O9SDhB1oD4k" allowfullscreen="" frameborder="0" height="480" width="700"&gt;&lt;/iframe&gt;&lt;h4&gt;Baat Karni mujhe mushkil kabhi aisi to na thi...This Bahadur Shah Zafar poetry composed by Mehdi Hassan in Raag Pahadi is heavenly.&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;iframe src="http://www.youtube-nocookie.com/embed/gSzOKjXQius" allowfullscreen="" frameborder="0" height="480" width="700"&gt;&lt;/iframe&gt;&lt;h4&gt;Dekh to dil ke jaan se uthta hai, ye dhuan kahan se uthta hai...Interesting Fact: The film Saat Khoon MAaf has the ghazal played in the background while Priyanka Chopra learns urdu from his one of the 7 husbands played by Irfaan Khan. &lt;/h4&gt;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;iframe src="http://www.youtube-nocookie.com/embed/d9XmRrBnZQE" allowfullscreen="" frameborder="0" height="480" width="700"&gt;&lt;/iframe&gt;&lt;h4&gt;Mohabbat karne wale kam na honge, teri mehfil me lekin hum na honge...Hafeez Hoshiarpuri's poetry, composition based on Raag Khamaj is one of the oldest performances of ustad's. &lt;/h4&gt;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;iframe src="http://www.youtube-nocookie.com/embed/dgNf4xxGr0o" allowfullscreen="" frameborder="0" height="480" width="700"&gt;&lt;/iframe&gt;&lt;h4&gt;A godly rendition of Ahmad Faraaz's poetry "Abke hum bichhde to shayad kabhi khaabon me milen..." In a live concert Khan Sahib says"this raaga is made with a komal dhaivat in bhupaali .. isee dhaivat mein saare bichadne ka dukh saamne aa jaata hai" Reminds you of the lost love, doesn't it?&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;iframe src="http://www.youtube-nocookie.com/embed/RsLZvkMhi1c" allowfullscreen="" frameborder="0" height="480" width="700"&gt;&lt;/iframe&gt;&lt;h4&gt;Khan Sahib's divine singing of Syed Razi Tirmazi's ghazal "Bhooli bisri chand ummeedein chand fasane yaad ae..." is said to be based on the melodious Raag Kedar&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;iframe src="http://www.youtube-nocookie.com/embed/AfBS-8Fs5sI" allowfullscreen="" frameborder="0" height="480" width="700"&gt;&lt;/iframe&gt;&lt;h4&gt;Words of the legendary Qateel Shifai combined with the magic of Raag Bheempalasi. Ustaad's voice seems just the icing in "Zindagi me to sabhi pyaar kiya karte hain..."&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;iframe src="http://www.youtube-nocookie.com/embed/tj2HfliHnlk" allowfullscreen="" frameborder="0" height="480" width="700"&gt;&lt;/iframe&gt;&lt;h4&gt;Yet another Qateel Shifai ghazal, Mehdi Hassan Saheb says he has combined the Raagas Sohni, Marwa and Pooriya to compose "Garmiye hasrat-e-naqaam se jal jaate hain, Hum charagon ki tarah shaam se jal jate hain..."&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div class="slide" style="text-align:center;"&gt;&lt;iframe src="http://www.youtube-nocookie.com/embed/SeuTVBo3sic" allowfullscreen="" frameborder="0" height="480" width="700"&gt;&lt;/iframe&gt;&lt;h4&gt;"Roshan jamaal-e-yaar se hai anjuman tamaam..." The poet of this ghazal Hasrat Mohani was a revolutionary poet and a freedom fighter. This exceptional rendition by Ustaad is based on Raag Patdeep. 
+&lt;/h4&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</Text>
+  <WriterName>Preeti Singh</WriterName>
+  <WriterEmail>preeti.singh@rudrasofttech.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>144</URL>
+</Article>

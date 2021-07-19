@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Hollywood’s Best Zombie Entertainment !!!</Title>
+  <MetaTitle>Hollywood’s Best Zombie Movies of all time</MetaTitle>
+  <OGImage>//www.rockying.com/art/HOllywood/Zombified/Zombified-Home-Page.jpg</OGImage>
+  <OGDescription>They look gross, are pretty dumb and their vocabulary is limited to different kinds of growling alone, Hollywood’s Best Zombie movies and films!</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>12</Category>
+  <Tag>Zombie Movies, Hollywood Zombies, Night of The Living Dead, 28 Days Later, Zombieland, Resident Evil, I Am Legend.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/HOllywood/Zombified/Zombified-Home-Page.jpg' alt='' /&gt;&lt;p&gt;They look gross, are pretty dumb and their vocabulary is limited to different kinds of growling alone, Hollywood’s Best Zombie movies and films!&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+        They look gross, are pretty dumb and their vocabulary is limited to different kinds
+        of growling alone, but zombies are always fun! Over several decades these undead
+        have always entertained their audience with their own brand of low-intelligence,
+        fast paced high entertainment. Here is the &lt;a href="http://www.rockying.com"&gt;Rockying&lt;/a&gt;
+        take on the absolute best of zombie entertainment. Prepare to get Zombified.
+    &lt;/p&gt;
+    &lt;ul style="list-style-type: none;"&gt;
+        &lt;li&gt;
+            &lt;h3&gt;
+                Resident Evil&lt;/h3&gt;
+                &lt;img src="//rockying.com/art/HOllywood/Zombified/Resident-Evil.jpg" alt="Resident Evil" /&gt;
+            &lt;p&gt;
+                The big daddy of the zombie universe. Almost a dozen games across three platforms
+                that gave rise to six movies and counting and yet this zombie masterpiece shows
+                no signs of slowing down. The movies are fast paced with stylized action and even
+                though one might feel that off late they are rehashing the same old stuff, there
+                is always the lovely Milia Jovovich to stare at!!&lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;h3&gt;
+                28 Days Later&lt;/h3&gt;
+            &lt;img src="//rockying.com/art/HOllywood/Zombified/28_Days_later.jpg"
+                alt="28 Days Later" /&gt;
+            &lt;p&gt;
+                Pure zombie horror, this Brit flick is a treat for those who love their movies scary.
+                Directed by the famous Danny Boyle (of “Slumdog” fame) it is a disturbing and bloody
+                flick in the true tradition of the zombie genre.&lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+        &lt;h3&gt;
+            Night of the Living Dead&lt;/h3&gt;
+            &lt;img src="//rockying.com/art/HOllywood/Zombified/N-O-T-L-D.jpg"
+                alt="Night of the Living Dead" /&gt;
+            &lt;p&gt;
+                A B-grade 1968 flick in this list? Don’t be amazed, for this George A Romero directed
+                flick not only made him a star director overnight but is also credited with having
+                started the whole zombie-horror movie genre. A good old fashioned horror flick,
+                you should forget the polish and special effects of modern cinema for a while and
+                enjoy this slice of zombie history for a change!&lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;&lt;h3&gt;
+            Zombieland&lt;/h3&gt;
+            &lt;img src="//rockying.com/art/HOllywood/Zombified/Zombie-Land.jpg"
+                alt="Zombieland" /&gt;
+            &lt;p&gt;
+                It is a ride across a wasted America with a neurotic teenager, a vengeful redneck
+                and a pair of street smart sisters and is definitely one of the wittiest features
+                in this list. Stylish, intelligent and surprisingly funny, this 2009 movie is a
+                pure entertainer.
+            &lt;/p&gt;
+            &lt;/li&gt;
+            &lt;li&gt;
+            &lt;h3&gt;
+                I Am Legend&lt;/h3&gt;
+                &lt;img src="//rockying.com/art/HOllywood/Zombified/I-Am-Legend.jpg"
+                    alt="I Am Legend" /&gt;
+                &lt;p&gt;
+                    Based on the Richard Matheson novel of the same name this is a zombie movie with
+                    a difference. It is not the blood thirsty zombies who hold the center stage but
+                    a solid, praiseworthy performance by the charismatic Will Smith. He is fantastic
+                    as the “last man on earth“and gives this 2007 movie an identity of its own. For
+                    those who are already fans, check out &lt;a href="http://www.youtube.com/watch?v=MhY2-D3Lwto&amp;feature=related"&gt;here&lt;/a&gt;
+                    for an alternate ending which not many in India have seen yet!
+                &lt;/p&gt;
+            &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;p&gt;
+        With this little edition of zombie entertainment for you, we at Rockying promise to hold you abreast with the Hollywood film industry. Stay with us to know
+        Hollywood inside-out. Coming up is the Hollywood evolution series. We have already
+        revived the &lt;a href="http://www.rockying.com/a/201"&gt;golden story telling ages of Hollywood&lt;/a&gt;.
+        Stick around to see what’s cooking!&lt;/p&gt;
+&lt;p class="well"&gt;
+&lt;img src="http://www.rockying.com/art/Writers/Sonali.jpg" class="pull-left"/&gt;
+&lt;b&gt;About the Author:&lt;/b&gt; Keeping her eyes closed, with long breaths and a gentle sound many mistake for snoring, actually helps Sonali think better. Or so she says. People question about these daily “thinking sessions”, mostly conducted on a comfortable couch or bed, while she claims that the long overdue best-seller she’s been working on (for quite some time now) will silence all the cynics. Till then she dreams on...
+&lt;/p&gt;</Text>
+  <WriterName>Sonali Chowdhury</WriterName>
+  <WriterEmail>media.sonali@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>209</URL>
+</Article>

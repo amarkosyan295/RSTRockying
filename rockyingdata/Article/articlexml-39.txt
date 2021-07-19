@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>39</ID>
+  <Title>Three Basic Blogging Steps; Start Your Own Now !!!</Title>
+  <MetaTitle>Three Basic Blogging Steps; Start Your Own Now !!!</MetaTitle>
+  <OGImage>//www.rockying.com/art/Rockying/Bloggingtips.jpg</OGImage>
+  <OGDescription>Blogging Tips</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>10</Category>
+  <Tag>Blog, Blogging Tips, Weblog, Web Blog,</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Rockying/Bloggingtips.jpg' alt='' /&gt;&lt;p&gt;Blogging Tips&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;img src="//www.rockying.com/art/Rockying/Bloggingtips.jpg" title="Blogging Tips" alt="" style="float: left; width: 188px; height: 201px;"&gt;&amp;nbsp; &lt;b&gt;W&lt;/b&gt;e did talk about why blogs are the new craze in our previous post &lt;a href="http://www.rockying.com/a/38"&gt;(&lt;/a&gt;&lt;a href="http://www.rockying.com/a/38"&gt;WEB+LOG= WE 'BLOG'&lt;/a&gt;&lt;a href="http://www.rockying.com/a/38"&gt;)&lt;/a&gt; and how they just keep growing by the minute. An apt follow up would be how to start a blog. &lt;br&gt;&lt;/p&gt;&lt;p&gt;There are loads of technical terms you need to understand before blogging but we will keep it minimal and deal with the primary. We talk about the basic three steps to a blog construction: &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;1. &lt;b&gt;Choose a niche&lt;/b&gt;: What do you want to be blogging about? &lt;img src="../../rockying/art/Niche.jpg" title="Choose Your Niche" alt="" style="float: right;" height="149" width="186"&gt;The topics and general realm of your blog constitutes your niche. What niche do you want to focus on? Do you want something professional, something personal, a blog about business, a photo blog. There are many things to choose from; make sure you know what you want to be doing.&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;2.&amp;nbsp; &lt;b&gt;Choose the host&lt;/b&gt;: Whether you want a word press blog &lt;img src="http://rockying.com/rockying/art/web-host%20%281%29.jpg" title="Choose Your Web Host" alt="" style="width: 200px; float: left; height: 150px;"&gt;(&lt;a href="http://www.wordpress.com/" title="WordPress" target="_blank"&gt;wordpress.com&lt;/a&gt;) or a blogspot blog (&lt;a href="http://www.blogspot.com" title="Blogspot or Blogger.com" target="_blank"&gt;blogspot.com&lt;/a&gt;) or any other hosting services. There are wide ranges of hosting services to choose from. Hosting services are like platforms on which are blogs are set up. Do thorough researches of what different hosting services have to offer before you actually start yours. &lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;img src="../../rockying/art/domain-name.jpg" title="Domain Name" alt="" style="float: right; width: 225px; height: 194px;"&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;3.&amp;nbsp; &lt;b&gt;Choose a domain name&lt;/b&gt;: domain names are nothing but the name of your blog. For example, our domain name is &lt;a href="http://www.rockying.com"&gt;ROCKYING&lt;/a&gt;. Pick out a name, see if it is available and has not already been taken and secure it. While choosing the domain name, you could either have a free blog or a paid domain. For example a free word press blog would be like this: www.yourblogname.wordpress.com and a self hosted one would be www.yourblogname.com. it is always advisable that you go for the self hosted ones; they do cost you but the prices are minimal and it is always safer. Once this is done; you have a blog to your name!&lt;/p&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;You can check for domain name availability at&amp;nbsp;&lt;a href="http://www.godaddy.com" title="Godaddy Domain Search" target=""&gt;godaddy.com&lt;/a&gt;.&lt;br&gt;&lt;br&gt;After all these technical issues are dealt with, you are all set to start with posting. All the blogs have an easy guideline structure that helps you through the adding of a post and making other changes to the look, design and theme selection of your blog. The guidelines are easy to understand are much easier to follow. Make sure you see their help sections, read the guidelines and the security and privacy matters before taking the plunge. Start posting and visiting other blogs and remember blogging is an everyday learning experience.&lt;br&gt;&lt;br&gt;&lt;/p&gt;</Text>
+  <WriterName>Hajra Khatoon</WriterName>
+  <WriterEmail>hajraks@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>39</URL>
+</Article>

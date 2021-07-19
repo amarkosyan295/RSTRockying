@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>109</ID>
+  <Title>The Scariest Monsters Of Hollywood</Title>
+  <MetaTitle>Scariest Monsters Based Hollywood movies</MetaTitle>
+  <OGImage>//www.rockying.com/art/HOllywood/Movie%20monsters/the%20fly1.jpg</OGImage>
+  <OGDescription>Several creatures in cinemas like the dinosaurs in JURRASIC PARK and the shark in JAWS have terrified us, you can check out the Hollywood movies which are based on scariest monsters.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>12</Category>
+  <Tag>Hollywood, Monster Movies, Hollywood Movies</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/HOllywood/Movie%20monsters/the%20fly1.jpg' alt='' /&gt;&lt;p&gt;Several creatures in cinemas like the dinosaurs in JURRASIC PARK and the shark in JAWS have terrified us, you can check out the Hollywood movies which are based on scariest monsters.&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+    &lt;b&gt;S&lt;/b&gt;o, who doesn’t like a good monster movie? Shots of buildings being decimated,
+    people running for their lives, cars being flung like toys and military weapons
+    being reduced to nothing are clichés that have survived the test of time in the
+    battle for box office glory. While several creatures in cinemas like the dinosaurs
+    in JURRASIC PARK and the shark in JAWS have terrified us, we steer clear of real
+    life monster (alive or extinct) in this list and bring you the movies with the most
+    terrifying, and sometimes bizarre, monsters that can only be created in a Hollywood
+    studio. Here are the best of Hollywood’s Monster Madness.&lt;br&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;b&gt;THE FLY&lt;/b&gt;“&lt;i&gt; be afraid… be very afraid&lt;/i&gt;”&lt;img style="width: 400px; float: right;"
+        title="The Fly Monster" alt="" src="//rockying.com/art/HOllywood/Movie%20monsters/the%20fly1.jpg"&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;
+    The 1986 Jeff Goldblum and Geena Davis starrer is a tale of a brilliant and disturbed
+    a scientist who is researching teleportation. When he conducts his experiment on himself,
+    he is accidentally merged with a housefly on a genetic level. It is then that this
+    little known classic transforms into a genuine and horrifying masterpiece. The monster
+    of THE FLY does not destroy entire cities like some others in this list but is without
+    a doubt the creepiest among all of them. Director David Cronenberg’s remake of a
+    1958 horror movie of the same name went on to win accolades, millions of dollars
+    on the box office and even an Oscar for its gruesome makeup. A series of forgettable
+    sequels followed but none matched the success of the original. Watch it for Jeff
+    Goldblum’s brilliant performance, the disturbing man-fly effects, and the creepy
+    feeling that is going to linger on for a long, long time.&lt;br&gt;
+    &lt;iframe src="http://www.youtube-nocookie.com/embed/9MDFan__QXg?rel=0" allowfullscreen=""
+        frameborder="0" height="300" width="500"&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;b&gt;CLOVERFIELD&amp;nbsp;&lt;/b&gt;&lt;b&gt;&lt;img style="width: 400px; float: right;" title="The Cloverfield Monster"
+        alt="" src="//rockying.com/art/HOllywood/Movie%20monsters/Cloverfield%20monster.jpg"&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;
+    Produced by J. J. Abrams (the man who created the hit TV series LOST) and directed
+    by Matt Reeves, this 2008 summer blockbuster featured a host of little known actors
+    playing a group of friends in New York at a party when an unnamed monster attacks
+    the city. One of the characters named Hud is recording the party through his Handycam
+    and it is through this camera the rest of the movie is shown, giving it a unique
+    documentary-cum-Youtube feel (as seen in movies like THE BLAIR WITCH PROJECT&amp;nbsp;
+    &amp;amp; PARANORMAL ACTIVITY). CLOVERFIELD brilliantly combines elements from the classic
+    monster-attacking-city movies of the past with a radical new cinematography technique
+    and modern-day special effects and is credited with having brought back to life
+    the monster movie genre. Best watched on the largest screen you can manage with
+    the sound turned all the way up!&lt;br&gt;
+&lt;/p&gt;
+&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;img style="height: 300px; float: left;" title="The Alien Monster" alt=""
+    src="//rockying.com/art/HOllywood/Movie%20monsters/alien_monster.jpg"&gt;&lt;b&gt;ALIEN&lt;/b&gt;
+“&lt;i&gt;in space no one can hear you scream&lt;/i&gt;”&lt;br&gt;
+&lt;p&gt;
+    Call it horror, sci-fi, or monster movie, Ridley Scott’s 1979 genre-defying masterpiece
+    will still send a chill down your spine. The movie told us the harrowing tale of
+    a group of miners on the space ship Nostromo who are summoned by a distress call
+    from an unknown planetoid. They gradually end up as prey for a grisly alien creature
+    that rips apart the team, one member at a time. The slow creeping horror of the
+    the movie combined with some brilliant design work done by the twisted Swedish artist
+    H R Giger created the fearsome Alien that is still counted as the best movie monster
+    of all time and a movie that features in every all-time greatest movie list. The
+    unforgettable face-hugging alien, its horrific chest busting spawn, and the fully
+    grown monster is the stuff of nightmares and ensures that despite four more successful
+    movies have, including one made by none other than James Cameron, you never forget
+    your first time with the ALIEN.&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;b&gt;
+        &lt;br&gt;
+    &lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;b&gt;
+        &lt;br&gt;
+    &lt;/b&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;b&gt;KING KONG&lt;/b&gt; “&lt;i&gt;it was beauty that killed the beast&lt;/i&gt;”&lt;img style="width: 400px;
+        float: right;" title="King Kong Monster" alt="" src="//rockying.com/art/HOllywood/Movie%20monsters/King_Kong_2005.jpg"&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;
+    The greatest monster movie of all time is also one of the very earliest.&amp;nbsp;
+    Writer-director Merian C Cooper created this cinematic masterpiece way back in 1933
+    and his stop motion animation created giant ape is still more evocative and believable
+    than many CGI monsters of present-day Hollywood. A movie renowned for its vision,
+    its outstanding background score, its sensitive screenplay of a monster besotted
+    by a beautiful woman and its groundbreaking special effects, KING KONG has inspired
+    scores of moviemakers down the years. Though the story has seen many remakes, the
+    The most notable one being the recent faithful adaptation of the black and white classic
+    by Peter Jackson in 2005 (that is the version you will find on most movie channels),
+    the original is still considered to be the best. Watch the iconic scene involving
+    Kong climbing the Empire State building and you will agree that despite the dated
+    special effects and the grainy images, KING KONG remains one of the most powerful
+    of all monster movies.&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+    &lt;b&gt;GODZILLA&lt;/b&gt; “&lt;i&gt;size does matter&lt;/i&gt;!”&lt;img style="height: 300px; float: left;"
+        title="Godzilla" alt="" src="//rockying.com/art/HOllywood/Movie%20monsters/Godzilla%20hollywood.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;
+    &lt;br&gt;
+    Not just the 1998 Hollywood version of the monster but the original giant lizard
+    we all know and love from the classic Japanese movies, Godzilla is the god of monster
+    flicks.&amp;nbsp; Called Gojira in Japan the iconic movie monster has starred in a total
+    of 28 films since its screen debut in 1954 fighting some of the most outlandish
+    monsters on the screen including a giant butterfly MOTHRA, a robotic MECHAGODZILLA and
+    even the giant ape KING KONG himself! Japan’s monster specialist Toho Studio’s (we
+    could do a list of weirdest movie monsters based solely on their productions) best
+    known creation is a hit with fans all over the world with his characteristic roar,
+    gigantic frame and atomic breath (YEAH!!) Starting as an out and out monster, Godzilla
+    has transformed into a hero of sorts in his recent appearances in Japan and has
+    even earned his own star on the famous Hollywood Walk of Fame in the process!&amp;nbsp;&amp;nbsp;
+    &lt;br&gt;
+&lt;/p&gt;
+&lt;h5&gt;
+    Scary, aren't they? We still loved the thrill and excitement they gave us. Tell
+    us who your favorite (spine-chillingly) is? Go scare the comment box away !&lt;br&gt;
+&lt;/h5&gt;
+&lt;p class="well"&gt;
+&lt;img src="http://www.rockying.com/art/Writers/Sonali.jpg" class="pull-left"/&gt;
+&lt;b&gt;About the Author:&lt;/b&gt; Keeping her eyes closed, with long breaths and a gentle sound many mistakes for snoring, actually helps Sonali think better. Or so she says. People question about these daily “thinking sessions”, mostly conducted on a comfortable couch or bed, while she claims that the long overdue best-seller she’s been working on (for quite some time now) will silence all the cynics. Till then she dreams on...
+&lt;/p&gt;</Text>
+  <WriterName>Sonali Chowdhury</WriterName>
+  <WriterEmail>media.sonali@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>the-scariest-monsters-of-hollywood</URL>
+</Article>

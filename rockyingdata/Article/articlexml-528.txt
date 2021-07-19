@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>CJvilxzIPVohwRolavA</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>30YEv</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>14</Category>
+  <Tag>3EIsFD</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;30YEv&lt;/p&gt;</Description>
+  <Text>How many would you like? http://planetsuzy.fun/ planetsuzy hd  &amp;quot;I don&amp;#39;t like Rudd, to be honest. But frankly people outhere are sick to death of politics and we don&amp;#39;t trust any ofthem anymore,&amp;quot; said Jim Baker, 86, grabbing a bite at afast-food restaurant near hard-scrabble western Blacktown.</Text>
+  <WriterName>5VNYvc</WriterName>
+  <WriterEmail>patricia3w@aol.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>cjvilxzipvohwrolava</URL>
+</Article>

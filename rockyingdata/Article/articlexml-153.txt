@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>153</ID>
+  <Title>Nude Human Bodies Used For Creating Art.</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/Art-Created-By-Human-Bodies/6.jpg</OGImage>
+  <OGDescription>Los Angeles-based Cecelia Webber takes nude photos of the human body and assembles them in the shape of flowers and butterflies, to create some of the most stunning images you’ve ever seen...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>21</Category>
+  <Tag>Nude Humans, Flowers, Body Art.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;p&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/Art-Created-By-Human-Bodies/6.jpg" title="Art-Created-By-Human-Bodies" alt="" style="width: 150px; float: left;"&gt;Los Angeles-based Cecelia Webber takes nude photos of the human body and assembles them in the shape of flowers and butterflies, to create some of the most stunning images you’ve ever seen...&lt;/p&gt;</Description>
+  <Text>&lt;div class="carousel"&gt;
+    &lt;a class="carousel-control left previousslide" href="Javascript:return false;"&gt;&amp;lsaquo;&lt;/a&gt;
+    &lt;a class="carousel-control right nextslide" href="Javascript:return false;"&gt;&amp;rsaquo;&lt;/a&gt;&lt;div
+        class="slideshow"&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h4&gt;
+                Los Angeles-based &lt;i&gt;Cecelia Webber&lt;/i&gt; takes nude photos of the human body and
+                assembles them in the shape of flowers and butterflies.&lt;/h4&gt;
+            &lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/Art-Created-By-Human-Bodies/1.jpg"
+                title="Art-Created-By-Human-Bodies" alt="" style="width: 700px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                Three years ago, Cecelia Webber was a neuroscience graduate indulging in photography
+                in her spare time...&lt;/h5&gt;
+            &lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/Art-Created-By-Human-Bodies/2.jpg"
+                title="Art-Created-By-Human-Bodies" alt="" style="width: 700px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                One fine day, she shot a nude figure against a black background and it looked so
+                much like a petal that she just went with it.&lt;/h5&gt;
+            &lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/Art-Created-By-Human-Bodies/3.jpg"
+                title="Art-Created-By-Human-Bodies" alt="" style="width: 700px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                Ain't these some of the most stunning images you’ve ever seen?&lt;/h5&gt;
+            &lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/Art-Created-By-Human-Bodies/4.jpg"
+                title="Art-Created-By-Human-Bodies" alt="" style="width: 700px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                Cecelia uses Photoshop to create these stunning images,but this work isn’t as easy
+                as you might think...&lt;/h5&gt;
+            &lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/Art-Created-By-Human-Bodies/5.jpg"
+                title="Art-Created-By-Human-Bodies" alt="" style="width: 700px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                The production process requires serious sketching and planning to figure out exactly
+                what kind of poses are needed for each project.&lt;/h5&gt;
+            &lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/Art-Created-By-Human-Bodies/6.jpg"
+                title="Art-Created-By-Human-Bodies" alt="" style="width: 700px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                Layering hundreds of photographs she shot into a single piece to create vibrantly
+                colored flowers made up entirely of the human body, hell of a job isn't it?&lt;/h5&gt;
+            &lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/Art-Created-By-Human-Bodies/7.jpg"
+                title="Art-Created-By-Human-Bodies" alt="" style="width: 700px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                Legs became petals, arms became stamen, and she kept finding new ways of turning
+                instances of the human form into parts of her unique flowers. Just like this more
+                than pretty sunflower.&lt;/h5&gt;
+            &lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/Art-Created-By-Human-Bodies/8.jpg"
+                title="Art-Created-By-Human-Bodies" alt="" style="width: 700px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                Cecelia often takes over 50 photos of a single pose to make sure she achieves the
+                perfect form.&lt;/h5&gt;
+            &lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/Art-Created-By-Human-Bodies/9.jpg"
+                title="Art-Created-By-Human-Bodies" alt="" style="height: 700px;"&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                Then comes the hard part – digitally cutting, rotating, coloring and assembling
+                the human nudes into complex flowers.&lt;/h5&gt;
+            &lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/Art-Created-By-Human-Bodies/10.jpg"
+                title="Art-Created-By-Human-Bodies" alt="" style="width: 700px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                She layers up to 700 images to achieve the desired effect and sometimes works as
+                long as two months on a single piece.&lt;/h5&gt;
+            &lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/Art-Created-By-Human-Bodies/11.jpg"
+                title="Art-Created-By-Human-Bodies" alt="" style="width: 700px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                Wasn't all that hard work worth it? Look at the stunning results...&lt;/h5&gt;
+            &lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/Art-Created-By-Human-Bodies/12.jpg"
+                title="Art-Created-By-Human-Bodies" alt="" style="height: 700px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                "The most difficult part is orchestrating the relationships between the different
+                poses, and thinking of the human body as a three dimensional object collapsed into
+                a 2D plane to form a shape", Webber says.&lt;/h5&gt;
+            &lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/Art-Created-By-Human-Bodies/13.jpg"
+                title="Art-Created-By-Human-Bodies" alt="" style="width: 700px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                Look at this breath-takingly stunning Lotus.&lt;/h5&gt;
+            &lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/Art-Created-By-Human-Bodies/14.jpg"
+                title="Art-Created-By-Human-Bodies" alt="" style="height: 700px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                The reds and blacks in this picture, make this piece gorgeous. Don't miss the use
+                of the head of hair in the center.&lt;/h5&gt;
+            &lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/Art-Created-By-Human-Bodies/15.jpg"
+                title="Art-Created-By-Human-Bodies" alt="" style="width: 700px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                Bet! When watched from a distance no one including you can tell this isn't a real
+                flower.&lt;/h5&gt;
+            &lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/Art-Created-By-Human-Bodies/16.jpg"
+                title="Art-Created-By-Human-Bodies" alt="" style="height: 700px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                What use of human bodies!!! Yes, those little flowers hanging over there.&lt;/h5&gt;
+            &lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/Art-Created-By-Human-Bodies/17.jpg"
+                title="Art-Created-By-Human-Bodies" alt="" style="width: 700px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                Cecelia hasn't stopped working by the way. Just as this combination of millions
+                of humans layered one over other...&lt;/h5&gt;
+            &lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/Art-Created-By-Human-Bodies/18.jpg"
+                title="Art-Created-By-Human-Bodies" alt="" style="width: 700px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                She has recently created series on birds and butterflies out of human nudes and
+                plans an entire exhibition. Waiting already?&lt;/h5&gt;
+            &lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/Art-Created-By-Human-Bodies/19.jpg"
+                title="Art-Created-By-Human-Bodies" alt="" style="width: 700px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h5&gt;
+                The best preserved for the last. A peacock out of human bodies? This is what we
+                call dazzingly beautiful.&lt;/h5&gt;
+            &lt;img src="http://rudrasofttech.com/rockying/art/Humor%20Slide%20Show/Art-Created-By-Human-Bodies/20.jpg"
+                title="Art-Created-By-Human-Bodies" alt="" style="width: 700px;" /&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <SlideShowOn>true</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Raj Kiran Singh</WriterName>
+  <WriterEmail>rajkiran.singh@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

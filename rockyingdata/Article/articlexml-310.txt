@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>He came, He Acted, He Slayed; Year 2017 and Raj Kummar Rao's Here-to-Stay Bollywood Success</Title>
+  <OGImage>http://www.rockying.com/art/bollywood/Bollywood-2012/Box-office-Kings.jpg</OGImage>
+  <OGDescription>kasj</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Bollywood</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Bollywood-2012/Box-office-Kings.jpg' alt='' /&gt;&lt;p&gt;kasj&lt;/p&gt;</Description>
+  <Text>"I didn't use Fair and Lovely. I was very proud of my skin colour. I am an actor. I am not here to sell my fairness. I used to laugh, actually. I found those people so ignorant. So regressive. They are still stuck in that era - hero matlab gora chitta, 6 foot."
+
+2017	Trapped	Shaurya	Filmfare Critics Award for Best Actor
+Raabta	Muwaqqit	Cameo appearance
+Behen Hogi Teri	Shiv Kumar Nautiyal (Gattu)	
+Bareilly Ki Barfi	Pritam Vidrohi	Filmfare Award for Best Supporting Actor
+Newton	Newton Kumar	Asia Pacific Screen Award for Best Performance by an Actor
+Nominated–Filmfare Critics Award for Best Actor
+Shaadi Mein Zaroor Aana	IAS Satyendra Mishra	
+Bose: Dead/Alive	Subhas Chandra Bose	Web series
+Omerta</Text>
+  <WriterName>rockying</WriterName>
+  <WriterEmail>preeti@rockying.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>year-2017-and-raj-kummar-raos-here-to-stay-bollywood-success</URL>
+</Article>

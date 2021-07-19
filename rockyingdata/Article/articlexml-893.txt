@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Fog of the Heart</Title>
+  <MetaTitle>Fog of the Heart</MetaTitle>
+  <OGImage>//www.rockying.com/art/public/romance/love-story.jpg</OGImage>
+  <OGDescription>A sweet enemies to lover short story</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>35</Category>
+  <Tag>Romance, pride, prejudice, misunderstanding, love, enemies</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/public/romance/love-story.jpg' alt='' /&gt;&lt;p&gt;A sweet enemies to lover short story&lt;/p&gt;</Description>
+  <Text>Today was a bad day. Sitting in a restaurant, slowly sipping on my drink, I relive the weirdness while waiting for my friend to arrive.
+
+I had been up since 5 AM and had to spend the whole day shooting an advertisement because the millionaire football player couldn’t act to save his life. I have no idea why they even bring these non-actor celebrities to screw up a perfectly well-written ad. The worst part is that these talentless people (talentless in things besides what they are actually talented in) end up making way more money than the professional actors or models who have years of experience doing this!
+
+From my frustration, it can be safely assumed that I am an actor, one of those small-time side-roles in a long-running sitcom sort of actor. I mean, I am famous. People do recognize me from time to time on the streets, but I can freely roam around in the grocery store without added security too. And believe me, I am not complaining. 
+
+Coming back to the shooting, we were provided the scripts a few weeks ago and technically had plenty of time to learn the lines. But apparently, technicality doesn’t apply to you when you are a famous athlete, because we had to give twenty takes for the first scene itself as the star himself kept forgetting the lines. This was when the scene only had two five-word dialogues! 
+
+Just to be clear, I do understand it can be difficult to act in front of the camera, especially for those who are not used to it, and I was all in for helping him out. I even sought him out to run through the lines before the formal rehearsals, just for his sake, but he just stared back at me. Like I was suggesting something insane! After facing his blank expression for what felt like an hour, I just walked away.
+
+So, he had money, fame, and talent (only in football. Apparently his stats are unmatchable), the only thing missing was manners. But I guess that is the outcome of having all those other things. When everyone has always catered to your every whim, you are ought to develop a sense of entitlement. 
+
+All his smugness vaporized when we actually started shooting. He was underprepared and didn’t have any talent for acting. I can understand, though, no one will care for the robotic recitation of the lines when his face and body are representing the brand. I just think it is unfair. It is also unfair that his face and body were not just famous, but were gorgeous too! I had to take a minute to calm myself down every time I approached him, and even after that, it was really hard to look directly at him. 
+
+Anyway, after ten hours of cold looks and botched scenes, I was completely worn down. And as it happens, out of all the other days in the week, I was supposed to meet my best friend for dinner today. This brings us back to the restaurant.
+
+It is a pretty private place, just one of the perks of having a famous friend and being partially famous yourself. As usual, Sylvie was late. If it wasn’t for my obsession with being punctual, I would have taken a quick nap before coming, but no point in regretting it now. I am not generally an overly extroverted person, so I don’t even try to talk to many familiar faces on the other tables. I am silently scrolling through my phone when a body halts right in front of me. I drag my eyes away from the phone to look at the intruder, who definitely wasn’t Sylvie. When our gazes meet, I freeze and a chill runs down my spine. Looking down at me standing in front of my table is the subject of my psychoanalysis since the morning. 
+
+“Hey,” Ron, the famous football player says, looking at me confused, or was it surprised?
+
+“Hi,” I say, without any intention of continuing the conversation. I have no idea why he would even approach me. We didn’t have to be polite and could have very easily ignored each other!
+
+“You waiting for someone?” he asks, looking around suspiciously. It was a revelation for me that he could muster up different expressions. 
+
+“Yes,” I go with a one-word answer again.
+
+“As in a date?” he asks with the cold expression back on his face.
+
+“What?” I ask, mostly just to confirm he actually asked what I thought he did. Because this is definitely not a normal thing to ask a barely-acquaintance. 
+
+“Are you here on a date?” he asks, spelling each word out in a condescending tone. 
+
+I close my eyes and take long breaths in an attempt to settle down my pent-up anger, which was pretty much on the brim now. “Why do you want to know?” I ask, as calmly as possible.
+
+“Umm... I don’t know. Weren’t you swooning all over me all day today?” he says, looking amused. 
+
+I lost it then. “WHAT!” I almost shout, but since the restaurant is pretty noisy, no one pays any attention.
+
+“Hey, I am not complaining! I take it as a compliment,” he says with a half-smile. He perfectly knows what he is doing and is enjoying it.
+
+Before I can form any sort of response, Sylvie arrives and sits on the chair in front of me. 
+
+“Oh hey, you are Ron!” she says in a monotone. She has hung out with celebrities almost all her life, so she doesn’t get star-struck anymore. “Lilly, what is Ron Watts doing at our table?” 
+
+Although the question was directed at me, it was Ron who takes it upon himself to answer, “Oh! I was just messing with your friend here. We shot an ad together today, and I couldn’t even get words out of my mouth, let alone act since I saw her for the first time. I was gathering up the courage to ask her out.” 
+
+That makes me spray the big sip of drink I had just taken all over the table. Both of them look at me a little grossed out and a little hopeful. I process his words and think about everything that happened today. If not for anything else, he was at least right about being tongue-tied. He barely spoke to me the whole day. 
+
+Growing tired of my silence, Sylvie answers on my behalf, “Yes, she would go out with you, if you still want to after that reaction, that is,” she points at the now wet tablecloth for evidence. I still haven’t gathered the courage to look at my apparent-admirer, so I just glower at Sylvie. “What? Do you wanna say no?” she asks me.
+
+I try to make up my mind, but my brain seems to have frozen. 
+
+“Nah! She is completely head over heels for me!” says Ron. 
+
+That certainly brings my voice back. “No, I am not!” I whine.
+
+“So, I’ll pick you up for dinner Saturday at 6?” he asks, ignoring my temper tantrum.
+
+“Sure,” I hear myself saying.
+
+Before I can rethink what I just agreed to, he walks away and I just sit there dumbstruck watching him.</Text>
+  <WriterName>Tanya Shrivastava</WriterName>
+  <WriterEmail>tanya7shrivastava@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>fog-of-the-heart</URL>
+</Article>

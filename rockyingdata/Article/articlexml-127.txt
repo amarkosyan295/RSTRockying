@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>127</ID>
+  <Title>Dress To Kill- Living The LBD Life</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Lifestyle/Fashion/LBD/Annex%20-%20Hayworth,%20Rita%20%28Gilda%29_03.jpg</OGImage>
+  <OGDescription>A Brief History of the Little Black Dress and as it is today...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>16</Category>
+  <Tag>The Little Black Dress, Fashion, LBD History</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://rudrasofttech.com/rockying/art/Lifestyle/Fashion/LBD/Annex%20-%20Hayworth,%20Rita%20%28Gilda%29_03.jpg' alt='' /&gt;&lt;p&gt;A Brief History of the Little Black Dress and as it is today...&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px;  height:40px;
+            font-size: 50px; font-weight: 100; color: #000; border: none; text-align: center; margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px;height:40px;
+            font-size: 50px; font-weight: 100; color: #000;border: none; text-align: center;margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="slideshow" style="width: 70%; margin: 0 auto; text-align:center;"&gt;
+        &lt;div class="slide"&gt;
+            &lt;p&gt;
+                Once upon a time, the fabric black was meant to be worn by housemaids in the mansions
+                of America that made them look all covered up...
+            &lt;/p&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/LBD/maids%201.jpg"
+                title="Maids " alt="" style="width: 500px;" /&gt;
+            &lt;p&gt;
+                The white laces pronounced the curves of the sleeves and their waists but that was
+                it. Calf-lengthed, short sleeved pieced with white aprons, this was oh-so-boring
+                and old school!&lt;/p&gt;
+            &lt;p&gt;
+                This was prior to the 1920s where black symbolized only mourning.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/LBD/Widows-in-Black.png"
+                title="Widows in Black" alt="" style="width: 400px; height: 532px;" /&gt;
+            &lt;h4&gt;
+                The First World War changed the scenario as more and more women became widows and
+                wearing black became “public”!
+            &lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/LBD/Coco-chanel-LBD.png"
+                title="Coco chanel" alt="" style="width: 400px; height: 540px;" /&gt;
+            &lt;p&gt;
+                Coco Chanel’s Little Black Dress changed the perception of the LBD completely! Women
+                were swept off their feet to see Vogue’s cover picturing a woman in a cal-length-ed
+                black dress which was a slash-neck, simple, finely cut and fitted. It was so simple
+                and stunning that this changed the face of the Little Black dress for ever. What
+                more? The LBD gets fascinatingly shorter and the woman gets to be the femme fatale.
+                With this, Coco captured the tone of the times. Interesting to see how a garment
+                changes history!&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/LBD/4th.slide.jpg"
+                title="The LBD worn by a woman " alt="" style="width: 400px; height: 556px;" /&gt;
+            &lt;p&gt;
+                In the meantime, the black dress being worn publicly was criticized a lot and women
+                who wore it in public gatherings were either treated as advocators of Puritanism,
+                infamous and or mourning for the dead.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/LBD/Annex%20-%20Hayworth,%20Rita%20%28Gilda%29_03.jpg"
+                itle="Annex Hayworth" alt="" style="width: 400px; height: 488px;" /&gt;
+            &lt;p&gt;
+                Hollywood re-defined the chequered past of LBD forever. Black was now the color
+                of high street fashionistas. Rita Hayworth’s &lt;a href="http://en.wikipedia.org/wiki/Gilda"
+                    target="_blank"&gt;Gilda&lt;/a&gt; left the audience breathless and opened a new horizon
+                as to what the LBD could do! Kan LBD with killer black satin gloves, America saw
+                many divorces during the Gilda-phase.
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/LBD/Audrey%20Hepburn.jpg"
+                title="Audrey Hepburn" alt="" style="width: 400px; height: 579px;" /&gt;
+            &lt;p&gt;
+                Audrey Hepburn continued to set the screen on fire with the LBD. The World War,
+                America and men across the globe suffered catastrophes of the humble heart to see
+                the women dressed in gorgeous black. Hepburn’s movie &lt;a target="_blank" href="http://en.wikipedia.org/wiki/Breakfast_at_Tiffany%27s_%28film%29"&gt;
+                    Breakfast at Tiffany’s&lt;/a&gt; saw the auction of the LBD at $800,000 beating Marilyn
+                Monroe’s white dress! Anything for fashion, eh?
+            &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center; height: 200px; vertical-align: middle;"&gt;
+            &lt;h2&gt;
+                The Little Black Dress and as it is today...
+            &lt;/h2&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;h4&gt;
+                Liz Hurley’s LBD which is a safety pin dress&lt;/h4&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/LBD/liz-hurley-pin.jpg"
+                title="Liz Hurley" alt="" style="width: 400px; height: 636px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;h4&gt;
+                Elizabeth Banks’ LBD which is daring, very chic and futuristic.
+            &lt;/h4&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/LBD/Elizabeth%20Banks_LBD.jpg"
+                title="Elizabeth Bank in the LBD" alt="" style="width: 400px; height: 522px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;h4&gt;
+                Emma Watson set the stakes high with this new-definition LBD.
+            &lt;/h4&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/LBD/Emma%20Watson.jpg"
+                title="Emma Watson" alt="" style="width: 400px; height: 522px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;h4&gt;
+                Drew Barrymore’s LBD is a perfect compliment for her curves.
+            &lt;/h4&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/LBD/drew%20barrymore.jpg"
+                title="Drew Barrymore " alt="" style="width: 400px; height: 522px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;h4&gt;
+                Heidi Klum’s LBD gives a richer look. As royal as it can get, this LBD sure does
+                not need any jewelry.
+            &lt;/h4&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/LBD/heidi%20Klum.jpg"
+                title="Heidi Klum" alt="" style="width: 400px; height: 522px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;h4&gt;
+                Mitchell Obama in LBD? It cannot get more sophisticated. A perfect style statement
+                put forward simplistically.
+            &lt;/h4&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/LBD/Mitchell-Obama.png"
+                title="Mitchell Obama " alt="" style="width: 400px; height: 532px;" /&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;h4&gt;
+                Her LBD is as gorgeous as her smile. Teamed up with a chain neck piece, it sure
+                works magic for the evening.
+            &lt;/h4&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/LBD/julia-roberts.jpg"
+                title="Julia Roberts in The LBD" alt="" style="width: 400px; height: 585px;" /&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <SlideShowOn>true</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

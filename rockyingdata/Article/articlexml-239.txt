@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>History of The Shoe!</Title>
+  <MetaTitle>History of The Shoe!</MetaTitle>
+  <OGImage>//www.rockying.com/art/Lifestyle/Fashion/History-of-shoes/9-chopine shoe.jpg</OGImage>
+  <OGDescription>History of the shoe...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>16</Category>
+  <Tag>Shoes, Footwear, History of Shoes</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//www.rockying.com/art/Lifestyle/Fashion/History-of-shoes/9-chopine shoe.jpg' alt='' /&gt;&lt;p&gt;History of the shoe...&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px;  height:40px;
+            font-size: 50px; font-weight: 100; color: #000; border: none; text-align: center; margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px;height:40px;
+            font-size: 50px; font-weight: 100; color: #000;border: none; text-align: center;margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="slideshow" style="text-align: center;"&gt;
+        &lt;div class="slide"&gt;
+            &lt;h3&gt;
+                Sandals&lt;/h3&gt;
+            &lt;img src="//rockying.com/art/Lifestyle/Fashion/History-of-shoes/1-fort-rock-cave-oregon-USA.jpg"
+                alt="Fort Rock Cave, Oregon, USA" /&gt;
+            &lt;p&gt;
+                The earliest known shoes are sandals dating from approximately 7,000 or 8,000 B.C.,
+                found in the Fort Rock Cave in the US state of Oregon. In 1938.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;h3&gt;
+                Oldest Leather Shoe&lt;/h3&gt;
+            &lt;img src="//rockying.com/art/Lifestyle/Fashion/History-of-shoes/2-the oldest know leather shoe about 5500 years old found in armenia.jpg"
+                alt="the oldest know leather shoe about 5500 years old found in armenia" /&gt;
+            &lt;p&gt;
+                The world's oldest leather shoe, made from a single piece of cowhide laced with
+                a leather cord along seams at the front and back, was found in a cave in Armenia
+                in 2008 and is believed to date to 3,500 B.C.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h3&gt;
+                Iceman Shoe&lt;/h3&gt;
+            &lt;img src="//rockying.com/art/Lifestyle/Fashion/History-of-shoes/3-Ötzi the Iceman shoe.jpg"
+                alt="Ötzi the Iceman shoe" /&gt;
+            &lt;p&gt;
+                Otzi the Iceman's shoes, dating to 3,300 BC, featured brown bearskin bases, deerskin
+                side panels, and a bark-string net, which pulled tight around the foot.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;h3&gt;
+                Moccasin&lt;/h3&gt;
+            &lt;img src="//rockying.com/art/Lifestyle/Fashion/History-of-shoes/4-Soft_moccasin.jpg"
+                alt="Soft Moccasin" style="width: 400px;" /&gt;
+            &lt;p&gt;
+                Many early natives in North America wore a similar type of footwear known as the
+                moccasin. These are tight-fitting, soft-soled shoes typically made out of leather
+                or bison hides. Moccasins were not designed to get wet, and in wet weather and warm
+                summer months, most Native Americans went barefoot.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;h3&gt;
+                Thong Sandals&lt;/h3&gt;
+            &lt;img src="//rockying.com/art/Lifestyle/Fashion/History-of-shoes/5-thong sandals.jpg"
+                alt="Thong Sandals" /&gt;
+            &lt;p&gt;
+                As civilizations began to develop, thong sandals were worn. This practice dates
+                back to pictures of them in ancient Egyptians murals from 4,000 B.C. Thong sandals
+                were worn by many civilizations and made from a wide variety of materials.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="padding: 0px 0px 0px 50px;"&gt;
+            &lt;h3&gt;
+                Thong Sandals&lt;/h3&gt;
+            &lt;ol&gt;
+                &lt;li&gt;One pair found in Europe was made of papyrus leaves and dated to be approximately,
+                    1500 years old. They were also worn in Jerusalem during the time of Jesus Christ.
+                &lt;/li&gt;
+                &lt;li&gt;The Masai of Africa made them out of rawhide.&lt;/li&gt;
+                &lt;li&gt;
+                    &lt;img src="//rockying.com/art/Lifestyle/Fashion/History-of-shoes/5-indian thong sandals.jpg"
+                        alt="" style="height: 248px; width: 318px" /&gt;&lt;br /&gt;
+                    In India, they were made from wood. &lt;/li&gt;
+                &lt;li&gt;In china and Japan rice straw was used to make thong sandals.&lt;/li&gt;
+                &lt;li&gt;The leaves of the sisal plant were used to make twine for sandals in South America,
+                    while the natives of Mexico used the yucca plant.&lt;/li&gt;
+            &lt;/ol&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;h3&gt;
+                Espadrille&lt;/h3&gt;
+            &lt;img src="//rockying.com/art/Lifestyle/Fashion/History-of-shoes/6-espadrille.jpg"
+                alt="" /&gt;
+            &lt;p&gt;
+                A common casual shoe in the Pyrenees during the Middle Ages are espadrilles. These
+                are sandals with braided jute soles and a fabric upper portion, and often include
+                fabric laces that tie around the ankle. The shoes originate in the Catalonian region
+                of Spain as early as the 13th century, and were commonly worn by peasants in the
+                farming communities in the area.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;h3&gt;
+                Patten Shoe&lt;/h3&gt;
+            &lt;img src="//rockying.com/art/Lifestyle/Fashion/History-of-shoes/7-patten shoe.jpg"
+                alt="" /&gt;
+            &lt;p&gt;
+                By the 15th Century, pattens became popular by both men and women in Europe. These
+                are commonly seen as the predecessor of the modern high-heeled shoe, while the poor
+                and lower classes in Europe, as well as slaves in the New World, and were barefoot.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;h3&gt;
+                Crakow Shoe&lt;/h3&gt;
+            &lt;img src="//rockying.com/art/Lifestyle/Fashion/History-of-shoes/8-crakow shoe.jpg"
+                alt="" /&gt;
+            &lt;p&gt;
+                In the 15th century, the Crakow was fashionable in Europe. This style of shoe is
+                named because it is thought to have originated in Krakow, the capitol of Poland.
+                The style is characterized by the point of the shoe, known as the "polaine", which
+                often was supported by a whalebone tied to the knee to prevent the point getting
+                in the way while walking.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;h3&gt;
+                Chopine Shoe&lt;/h3&gt;
+            &lt;img src="//rockying.com/art/Lifestyle/Fashion/History-of-shoes/9-chopine shoe.jpg"
+                alt="" /&gt;
+            &lt;p&gt;
+                Also during the 15th century, chopines were created in Turkey, and were usually
+                7-8 inches (17.7-20.3 cm) high. These shoes became popular in Venice and throughout
+                Europe, as a status symbol revealing wealth and social standing. During the 16th
+                century, royalty started wearing high-heeled shoes to make them look taller or larger
+                than life, such as Catherine de Medici or Mary I of England. By 1580, even men wore
+                them, and a person with authority or wealth was often referred to as, "well-heeled".&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;h3&gt;
+                Turn Shoe Method&lt;/h3&gt;
+            &lt;img src="//rockying.com/art/Lifestyle/Fashion/History-of-shoes/11-welted method shoe.gif"
+                alt="" /&gt;
+            &lt;p&gt;
+                Many medieval shoes were made using the turnshoe method of construction, in which
+                the upper was turned flesh side out, and was lasted onto the sole and joined to
+                the edge by a seam. The shoe was then turned inside-out so that the grain was outside.
+                Some shoes were developed with toggled flaps or drawstrings to tighten the leather
+                around the foot for a better fit. The turn shoe method was replaced by the welted
+                method around 1500.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="slide"&gt;
+            &lt;h3&gt;
+                Modern Shoe&lt;/h3&gt;
+            &lt;p&gt;
+                Eventually the modern shoe, with a sewn-on sole, was devised. Since the 17th century,
+                most leather shoes have used a sewn-on sole. This remains the standard for finer-quality
+                dress shoes today. Until around 1800, shoes were made without differentiation for
+                the left or right foot. Such shoes are now referred to as "straights". Only gradually
+                did the modern foot-specific shoe become standard.&lt;/p&gt;
+            &lt;p&gt;
+                Since the mid-20th Century, advances in rubber, plastics, synthetic cloth, and industrial
+                adhesives have allowed manufacturers to create shoes that stray considerably from
+                traditional crafting techniques. Leather, which had been the primary material in
+                earlier styles, has remained standard in expensive dress shoes, but athletic shoes
+                often have little or no real leather. Soles, which were once laboriously hand-stitched
+                on, are now more often machine stitched or simply glued on. Many of these newer
+                materials, such as rubber and plastics, have made shoes less biodegradable. It is
+                estimated that most mass-produced shoes require 1000 years to degrade in a landfill.
+                In the late 2000s, some shoemakers picked up on the issue and began to produce shoes
+                made entirely from degradable materials.&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <WriterName>Vratika Singh</WriterName>
+  <WriterEmail>vratika@rudrasofttech.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>239</URL>
+</Article>

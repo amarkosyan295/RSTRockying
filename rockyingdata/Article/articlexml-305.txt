@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Himalaya Travel – Surrendering to Leh’s Magnificent Beauty</Title>
+  <OGImage>http://www.rockying.com/art/Travel/Lost-in-Ladakh/pangong-tso.jpg</OGImage>
+  <OGDescription>It’s genuinely easy to fall in love with Leh. However, prior to venturing towards the rocky city, you are advised to...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>Travel, Himalaya, Leh, Ladakh, India, Magnetic Hill, Pangong Tso Lake, Nubra Valley, Tsomoriri Lake, Lamayuru Trek, Shanti Stupa.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Travel/Lost-in-Ladakh/pangong-tso.jpg' alt='' /&gt;&lt;p&gt;It’s genuinely easy to fall in love with Leh. However, prior to venturing towards the rocky city, you are advised to...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+Very few places in the world are just as beautiful as Leh in Ladakh, Himalaya. Surrounded by mud-brick houses and stupas, Leh is a wonder town where the places of interest are still all-natural and untouched by urbanism. The magnificent beauty of this place is highlighted by the imposing Tibetan styled fort and palace in the Old Town. Right next to the fort, there’s a crowded bazaar filled with tandoori-pizza bistros and souvenir shops; all around the place the vibe is outstanding. The narrow footpaths lead to traditional styled homes and lodging places with ornate window frames made of wood and sturdy walls. It’s genuinely easy to fall in love with Leh. 
+&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;
+However, prior to venturing towards the rocky city, you are advised to drink lots of water. The location is at a high altitude, so some travelers might experience physical discomfort. Regardless, as soon as you’re there you’ll never want to leave. Leh is breathtaking, traditional and mind-blowingly beautiful. Among several of the most notable places you can explore in Leh, we must mention Pangong Lake, Magnetic Hill, Nubra Valley, Tsomoriri Lake, Lamayuru Trek and Shanti Stupa. Check them all out and have the time of your life admiring one of Himalaya’s finest territories.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Pangong Lake &lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Himalaya%20Travel%20%E2%80%93%20Surrendering%20to%20Leh%E2%80%99s%20magnificent%20beauty/pangong-lake-Himalaya.jpg"&gt;
+&lt;p&gt;
+Located roughly 160 km from Ladakh, Pangong Lake is one of Leh’s best travel spots. Even the trekking experience to the lake is exciting. On your path you’ll have the chance to admire the most alluring landscapes. The crystal-clear water and pleasant weather conditions all year long makes this place a must-see on your travel itinerary to Leh. Enjoy the solitude, admire the scenic views and make sure to take hundreds of photos. Situated at an astounding height of 4,350 m, Lake Pangong is a perfect breeding ground for numerous migratory birds indigenous to China. Relish in the experience and admire this place as it is one of the most beautiful natural attractions you’ll ever see in your life. 
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Magnetic Hill&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Himalaya%20Travel%20%E2%80%93%20Surrendering%20to%20Leh%E2%80%99s%20magnificent%20beauty/Magnetic-hill-ladakh.jpg"&gt;
+&lt;p&gt;
+Also known as Gravity Hill, many travelers are amazed by the “powers” of this travel spot. Due to its incredible magnetic powers, the hill can pull cars uphill and even make aircraft fly higher. At a first glimpse one might say there’s nothing special about the location. But then again, it is a once-in-a-lifetime opportunity to see a car drive up a hill on its own. 
+&lt;/p&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;h3&gt;Nubra Valley&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Himalaya%20Travel%20%E2%80%93%20Surrendering%20to%20Leh%E2%80%99s%20magnificent%20beauty/Nubra-valley-Ladakh.jpg"&gt;
+&lt;p&gt;
+Located on the old Silk Road, Nubra Valley is best admired as a trekking trip. It packs colossal trails and amazing sceneries. On your itinerary you’ll come across the Nubra River, and you’ll get the unique chance to admire its pure banks and surrounding natural habitat. Also known as “the valley of the flower”, this place is home to some amazing flowers; the plains are colorful and vibrant, and the landscape is absolutely fascinating. Travelers hunting for sheer tranquility in Leh must include Nubra Valley on your journey. 
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Tsomoriri Lake&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Himalaya%20Travel%20%E2%80%93%20Surrendering%20to%20Leh%E2%80%99s%20magnificent%20beauty/Tsomoriri-Lake-Ladakh.jpg"&gt;
+&lt;p&gt;
+Another beautiful Lake Worth exploring while in Ladakh is Tsomoriri Lake. Located at 60 km from Leh, the best way to explore this region is on foot. The trekking route takes about 6-7 hours, but at the experience will exceed all your expectations. The rugged paths, beautiful landscapes and secluded Valley of Rupshu are just incredible; and when you finally reach your destination the wonders of Tsomoriri will leave you speechless.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Lamayuru Trek&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Himalaya%20Travel%20%E2%80%93%20Surrendering%20to%20Leh%E2%80%99s%20magnificent%20beauty/darcha-lamayuru-trek-Ladakh.jpg"&gt;
+&lt;p&gt;
+Travelers looking to explore the Himalayas are usually hikers and trekkers. They’re not visiting this place to lodge in luxurious hotels and sip margaritas all they; they’re in for the adventure. Lamayuru is a trekking route located a 125 km from Leh. It is rugged, adventurous and dusty; but at the same time picturesque, wild and stunning. Onsite you can admire the scenic snow-capped mountains tops of the region, as well as the surrounding greenery and supreme tranquility. If there’s one place in Leh where you can meditate and find inner peace, Lamayuru is the answer. 
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Shanti Stupa&lt;/h3&gt;
+&lt;hr&gt;
+&lt;img src="http://www.rockying.com/art/Travel/Himalaya%20Travel%20%E2%80%93%20Surrendering%20to%20Leh%E2%80%99s%20magnificent%20beauty/Leh-Shanti-Stupa-Ladakh.jpg"&gt;
+&lt;p&gt;
+Shanti Stupa is Leh’s most famous white domed shrine. This sacred place is a genuine masterpiece or ancient and royal beauty. The spectacular Buddha statues at the entrance, as well as sealed holy relics and books will definitely intrigue you. The monastery was erected in honor of the Buddhist religion, and it is a mark that Buddhism has been around for 2500 years. 
+&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;
+There’s a lot to see and do in Leh. The best way to explore the city and its surrounding regions is by foot. However, before venturing into the wild you need to be prepared. Proper gear is mandatory to be able to trek the rugged paths and survive in the wilderness. Even though it is more accessible than other Himalayan regions, Leh is still located at a really high altitude. Stay safe and you’ll have the time of your life exploring it!
+&lt;/p&gt;
+
+&lt;p&gt;
+With help from &lt;a href="http://www.shaktihimalaya.com/"&gt;shaktihimalaya.com&lt;/a&gt;. Check them out, for the love of mountains and more!
+&lt;/p&gt;</Text>
+  <WriterName>Christopher Austin [Guest Post]</WriterName>
+  <WriterEmail>christopheraustin439@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>himalaya-travel---surrendering-to-lehs-magnificent-beauty</URL>
+</Article>

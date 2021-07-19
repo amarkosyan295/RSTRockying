@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>QiQEgMrSpQ</Title>
+  <MetaTitle />
+  <OGImage />
+  <OGDescription>KxwXj</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>2AEmJ</Tag>
+  <Status>Draft</Status>
+  <Description>&lt;p&gt;KxwXj&lt;/p&gt;</Description>
+  <Text>Three years http://ghettotube.in.net/ ghettotube.com  SIR &amp;amp;ndash; If fracking in the North does happen, the revenue should stay in the area to rebalance the bias that exists towards the bloated South East. This revenue should be used to invest in renewables that will last when fossil fuels run out, in infrastructure projects, in manufacturing and not, as North Sea oil was in the Thatcher years, wasted on keeping three million on the dole and millions more on Invalidity Benefit to massage the dole queue figures.</Text>
+  <WriterName>3krD1F</WriterName>
+  <WriterEmail>refugio3m@lycos.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>qiqegmrspq</URL>
+</Article>

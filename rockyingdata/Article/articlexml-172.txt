@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>172</ID>
+  <Title>Make Home Decor An Inexpensive Affair!</Title>
+  <MetaTitle>Make Home Decor An Inexpensive Affair!</MetaTitle>
+  <OGImage>//rockying.com/art/Do-It-Yourself-Slide-Show/DIY-Home-Decor/7.jpg</OGImage>
+  <OGDescription>Gone are the days when people hired interior decorators for embellishing home spaces. Find these amazing do-it-yourself tips and make those old nooks and corners look new and inviting!</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>19</Category>
+  <Tag>Home Decor, DIY, Home Making, Home Improvement</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='//rockying.com/art/Do-It-Yourself-Slide-Show/DIY-Home-Decor/7.jpg' alt='' /&gt;&lt;p&gt;Gone are the days when people hired interior decorators for embellishing home spaces. Find these amazing do-it-yourself tips and make those old nooks and corners look new and inviting!&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px;  height:40px;
+            font-size: 50px; font-weight: 100; color: #000; border: none; text-align: center; margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px;height:40px;
+            font-size: 50px; font-weight: 100; color: #000;border: none; text-align: center;margin:0px; padding:0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td colspan="2"&gt;
+                    &lt;h4&gt;
+                        Gone are the days when people hired interior decorators for embellishing home spaces.
+                        Find these amazing do-it-yourself tips and make those old nooks and corners look
+                        new and inviting!
+                    &lt;/h4&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/DIY-Home-Decor/1.jpg"
+                        title="The Ribbon Curtain" alt="" /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        THE RIBBON CURTAIN:&lt;/h4&gt;
+                    It is simple, easy to make and gives a dramatic effect to a drab window pane hands
+                    down. Let every day have a fairy tale beginning!
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/DIY-Home-Decor/2.jpg"
+                        title="Graffiti Shoes" alt="" /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        OLD BORING SHOES?&lt;/h4&gt;
+                    Let the felt pen be your armor of revolution! Draw graffiti, tattoo it with a Kaballah
+                    symbol or simply color it up. This will be the most innovative thing in your wardrobe,
+                    guaranteed.
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/DIY-Home-Decor/3.jpg"
+                        title="Glass Etch" alt="" /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        ETCHING&lt;/h4&gt;
+                    : Etch on shot glasses, your center table or a window pane to add sublimity and
+                    coziness to the rooms. Etching can make a piece of glass look extremely artistic
+                    and ethnic. The process is simple. Read more on etching &lt;a href="http://www.allthingsthrifty.com/2010/05/tutorial-how-to-give-glass-furniture.html"&gt;
+                        here&lt;/a&gt;. Go on. Add character to your room.
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/DIY-Home-Decor/4_art%20from%20cardboard%20tubes.jpg"
+                        title="Art from Cardboard Tubes" alt="" /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        YEAH&lt;/h4&gt;
+                    ! These are thinly sliced and cut cardboard pieces. Roll them into flower petals,
+                    stems and add life to the dark crevices in your room. Proper lighting effects can
+                    also enhance this abstract art manifold.
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/DIY-Home-Decor/5.jpg"
+                        title="Bangle Curtain Dividers" alt="" /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        Bangle Curtain Room Dividers&lt;/h4&gt;
+                    can be the most feminine thing a girl can opt for. Collect cheap and colorful bangles
+                    and tie it all up in a color sequence with a thread. Hang them in your room as a
+                    divider or a partition. This will not reduce space in the room unlike wooden panels
+                    and will add drama to your living space.
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/DIY-Home-Decor/6_cabinet-tray.jpg"
+                        title="Cabinet Tray" alt="" /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        CABINET DOOR AS YOUR SERVING TRAY&lt;/h4&gt;
+                    ? Try it. This will be the coolest thing ever and will definitely leave your guests
+                    impressed with your hospitality.
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/DIY-Home-Decor/7.jpg"
+                        title="Denim Pockets" alt="" /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        DISCARDING YOUR OLD DENIMS?&lt;/h4&gt;
+                    Cut out its pockets and stitch it on to your cushion. The perfect place to find
+                    your TV remote, this idea will save many sibling fights during TV sessions!
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/DIY-Home-Decor/8_drink-place-holder.jpg"
+                        title="Drink Place Holder" alt="" /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        Now this is what we call as a personalized touch.&lt;/h4&gt;
+                    Place name plates on your stirrer and claim your drink with style. Now no more confusion
+                    over empty glasses and refills!
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/DIY-Home-Decor/9.jpg"
+                        title="Pen Flower Vase" alt="" /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        PEN FLOWER VASE&lt;/h4&gt;
+                    : Take a thick-fat pen and empty the refill. Put its cap below for base support
+                    and fill it with water. Put your favorite flower in it and feel proud about this
+                    new flower vase you just created! Perfectly sleek for cluttered desks, this is going
+                    to set all eyes rolling at work.
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/DIY-Home-Decor/10.jpg"
+                        title="Innovative Softboard" alt="" /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    If you have been wondering what this is, then here it goes: This &lt;b&gt;easy-to-make soft-board&lt;/b&gt;
+                    is very innovative! All you need is a thick flat cardboard or a thin wooden plank
+                    and a few nails or board pins. Nail them on both sides of the plank at an equal
+                    distance and wrap it with rubber-bands. You can pin your favorite things or lists-to-do
+                    out here.
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/DIY-Home-Decor/11.jpg"
+                        title="ColorFul Innovative Side-Stool" alt="" /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    All you need is a colorful stool, a side table or any piece of furniture that you
+                    think will fit this style. Buy fevi quick and paste some colorful buttons on its
+                    sides. Choose your style: contrast or funk and show it off to your guests!
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/DIY-Home-Decor/12.jpg"
+                        title="Ladder Book Shelf" alt="" /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    This will work best for your study room, a terrace garden or small-compact houses.
+                    &lt;b&gt;A ladder bookshelf&lt;/b&gt; where you can keep your favorite books, a money plant
+                    and a photo frame- there cannot be a better way to beautify your house.
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/DIY-Home-Decor/13.jpg"
+                        title="Woolen Cloth Coasters" alt="" /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    Wondering what to do with your woolens? Here it goes. Cut out different shapes from
+                    the discarded sweaters. Wash it in hot water and then let it dry on your pair of
+                    jeans. Jean-cloth acts as an agitator. The wool will turn felt-like after three
+                    washes and you are good to go! Let your coffee mug look its best with these &lt;b&gt;easy-to-make
+                    coasters.
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class="slide"&gt;
+        &lt;table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/DIY-Home-Decor/14.jpg"
+                        title="Ball Key-Holder" alt="" /&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h4&gt;
+                        Your kid is a cricket freak?&lt;/h4&gt;
+                    Take a cosco ball and slit open it from the middle keeping the edges intact. Do
+                    it tactfully and cut it in such a way which is enough for a metal piece to enter
+                    and hold itself. He kid can put his drawer keys or his piggy-bank keys in there.
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>172</URL>
+</Article>

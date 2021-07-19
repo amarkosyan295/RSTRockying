@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>The Bobble-headed Indian and other Quirky baubles; Survival tips for the Maiden Indian Trip</Title>
+  <OGImage>http://www.rockying.com/art/Travel/Bobble-Headed-Indian-Survival-Tips/Hrithik-Bobble.gif</OGImage>
+  <OGDescription>India is an expansive, dizzying and chaotic country and every nook and cranny of it is crammed with exotic locales, even more exotic and interesting traditions, spice-laden foods that can make the blandest of taste-buds sit up and take notice...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>17</Category>
+  <Tag>India Bobbles, Indian Bobble Head, Maiden Trip to India, Indian Head Wiggle, Travel Tips, Indian Standard Time.</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://www.rockying.com/art/Travel/Bobble-Headed-Indian-Survival-Tips/Hrithik-Bobble.gif' alt='' /&gt;&lt;p&gt;India is an expansive, dizzying and chaotic country and every nook and cranny of it is crammed with exotic locales, even more exotic and interesting traditions, spice-laden foods that can make the blandest of taste-buds sit up and take notice...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;
+India is an expansive, dizzying and chaotic country and every &lt;img src="http://www.rockying.com/art/Travel/Bobble-Headed-Indian-Survival-Tips/Travel-India.jpg" alt="Quirky-Indian-Baubles"  class="pull-right" style="margin-left:5px;"/&gt;nook and cranny of it is crammed with exotic locales, even more exotic and interesting traditions, spice-laden foods that can make the blandest of taste-buds sit up and take notice and some very peculiar habits that make Indians what they are. A warm and welcoming lot that still haven’t learnt to handle the attention they get from foreign tourists. Here are a few interesting insights that will throw the shock quotient out the window, so that you can enjoy the spice that India offers you, but in a toned down version!
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h2&gt;Your Share of Stare&lt;/h2&gt;
+&lt;p&gt;
+In most western countries, passersby will hardly glance at anyone else. And so, it will definitely be a culture shock to land in a country where the general feeling will be that EVERYONE is staring at you. On the roads, restaurants, hotel lobby, buses and trains, no matter where you go, a hundred pairs of eyes will be trained on you. And to top it all, you might even hear a snigger or two and you won’t know what to make of it.
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2&gt;Ward-off Everything Chilly with Chilly and Lime&lt;/h2&gt;
+&lt;p&gt;
+Chillies and lime are the Indian version of the Turkish blue nazar boncugu. Be ready to see them swinging triumphantly on mile-long limousines and tut-tutting Autorickshaw rearview mirrors. They will be hung in the frame of every shop doorway and many a home. It’s a quirk that is totally unexpected and once you notice them, you will start seeing them absolutely everywhere. 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2&gt;The Indian Standard Time&lt;/h2&gt;
+&lt;p&gt;
+Those with the punctual streak- please don’t freak! The world can run on any time it pleases, but India will operate on Indian Standard Time (IST has some distinctly jocular and insulting shades all at once), but Indians take it in their stride. They will very casually blame any delay on the traffic, the weather, their upset stomach or their mother ... which can definitely make the average super-punctual westerner’s mind go into a tizzy.
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2&gt;Bobble Trouble&lt;/h2&gt;
+&lt;p&gt;
+The world-renowned Indian bobble head also called &lt;a href="http://www.indiabobbles.com/blog/the-bobble-head-and-the-great-indian-head-wobble-connection" title="India-Bobbles" target="_blank"&gt;&lt;b&gt; the Indian head wobble&lt;/b&gt; &lt;/a&gt;or the Indian head wiggle will elicit morethan a giggle from a foreigner. The four plus centuries of being ruled by the British has left an indelible bobble on Indians. That and the monarchy that existed in the country before its &lt;img src="http://www.rockying.com/art/Travel/Bobble-Headed-Indian-Survival-Tips/Hrithik-Bobble.gif" alt="Hrithik-and-the-Indian-Head-Bobble"  class="pull-right" style="margin-left:5px;"/&gt; colonization left the average Indian afraid to say “no”. And so, this is one cloak that the modern-day Indian has not been able to shed even more than six decades post the country’s independence. You will never get a strong ‘no’ as an answer to any question. The unique nod that the Indian will give you definitely suffers from an identity crisis- it’s not too sure whether it’s a ‘no’, a ‘yes’ or just a ‘leave it there’. It’s like a nationwide brand that is amusing, intriguing and glorious all at once.
+&lt;/p&gt;
+&lt;/li&gt; 
+&lt;li&gt;
+&lt;h2&gt;The Love: Hate Relationship&lt;/h2&gt;
+&lt;p&gt;
+And these are not the only interesting insights to the vibrant country that is India. A traveler will find that toilet paper is either a novelty or just went extinct here. Traffic follows its own rules and ‘traffic’ can range from range-rovers to cows and elephants (even in the metropolitan cities). Seat-belts are rare and queues exist, but are meant to be broken. 
+&lt;/p&gt;
+&lt;p&gt;
+You can spend weeks in this country and still will not be able to claim that you understand, know, love it or hate it. No matter how much you read up about India before you actually travel there, the dichotomies will leave you surprised, a little bewildered and much more fascinated that you ever believed possible! 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</Text>
+  <WriterName>Priti Desai</WriterName>
+  <WriterEmail>pdes17@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+</Article>

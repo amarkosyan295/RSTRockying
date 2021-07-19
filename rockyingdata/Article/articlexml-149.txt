@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>149</ID>
+  <Title>Skeleton Accessories In Vogue !</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Lifestyle/Fashion/Accessories/Skeleton-rings.png</OGImage>
+  <OGDescription>It’s time to let your skeletons out of the closet—literally— and start wearing them on your wrists, necks, and outside of your bodies. Yea, we know skeletons can be scary...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>16</Category>
+  <Tag>Fashion, Accessories, Skeletal Accessories</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;img src='http://rudrasofttech.com/rockying/art/Lifestyle/Fashion/Accessories/Skeleton-rings.png' alt='' /&gt;&lt;p&gt;It’s time to let your skeletons out of the closet—literally— and start wearing them on your wrists, necks, and outside of your bodies. Yea, we know skeletons can be scary...&lt;/p&gt;</Description>
+  <Text>&lt;div&gt;
+    &lt;div&gt;
+        &lt;button id="prevslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+            font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+            padding: 0px; background-color: transparent;'&gt;
+            &amp;lsaquo;
+        &lt;/button&gt;
+        &lt;button id="nextslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
+            font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
+            padding: 0px; background-color: transparent;'&gt;
+            &amp;rsaquo;
+        &lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="slideshow"&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;h4&gt;
+                It’s time to let your skeletons out of the closet—literally— and start wearing them
+                on your wrists, necks, and outside of your bodies.&lt;/h4&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Accessories/Skeleton-Neckpiece.png"
+                title="Skeleton Neck piece" alt="" style="height: 500px;"&gt;&lt;h5&gt;
+                    Yes, we know skeletons can be scary, but who made the rule that skeletons were only
+                    cool during Halloween? We don’t make rules here (unless they’re from your parents),
+                    we break ‘em! Add some skeleton touches to your wardrobe for that pretty girl edge.
+                    We took some cues and picked out some of our favorite Skell-essories.
+                &lt;/h5&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Accessories/Skeleton-rings.png"
+                title="Skeleton Earrings" alt="" style="height: 600px; width: 480px;"&gt;&lt;h4&gt;
+                    Pretty skull rose two -Finger Ring; Scare the hell out of 'em with that punch.
+                &lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Accessories/Large-Rib-Necklace.png"
+                title="Large Rib Necklace" alt="" style="height: 600px; width: 377px;"&gt;&lt;h4&gt;
+                    Large rib necklace; Let the ghosts ride along in your necks ;)
+                &lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Accessories/Skull-Earings.png"
+                title="Skull Earrings" alt="" style="height: 600px; width: 481px;"&gt;&lt;h4&gt;
+                    Skull earrings; Scary and Chick, aren't they? Let the devil within, out !
+                    &lt;br&gt;
+                &lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Accessories/Leopard-Print-wrap-bracelet.png"
+                title="Leopard Print Bracelet" alt="" style="height: 600px; width: 416px;"&gt;&lt;h4&gt;
+                    Leopard print wrap bracelet. As wild as you.&amp;nbsp;
+                &lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class="slide" style="text-align: center;"&gt;
+            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Accessories/Skull-Pearl-Neckpiece.png"
+                title="Skull Pearl Necklace" alt="" style="height: 600px; width: 384px;"&gt;&lt;h4&gt;
+                    Skull pearl flower necklace. Have you met a cute skeleton as this, ever?&amp;nbsp;
+                &lt;/h4&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Text>
+  <SlideShowOn>true</SlideShowOn>
+  <QuestionOn>false</QuestionOn>
+  <WriterName>Chandni Malik</WriterName>
+  <WriterEmail>chandni.malik@ymail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <Promotion />
+</Article>

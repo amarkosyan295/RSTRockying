@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>9</ID>
+  <Name>advertise-on-rockying</Name>
+  <Title>Advertise on Rockying</Title>
+  <DateCreated>2013-05-12T20:37:28.987</DateCreated>
+  <CreatedByName>Raj Kiran Singh</CreatedByName>
+  <CreatedBy>1</CreatedBy>
+  <Status>Publish</Status>
+  <ModifiedByName>Raj Kiran Singh</ModifiedByName>
+  <ModifiedBy>1</ModifiedBy>
+  <Body>&lt;div class="row-fluid box"&gt;
+    &lt;div class="span12"&gt;
+        &lt;h1&gt;
+            Advertise On Rockying&lt;/h1&gt;
+        &lt;p class="smalltxt"&gt;
+            Best place to showcase your Products, Effective and Inexpensive&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="row-fluid box"&gt;
+    &lt;div class="span12"&gt;
+        &lt;p&gt;
+            We have following advertising options available on our articles and photos.&lt;/p&gt;
+        &lt;h2&gt;
+            Option 1 : Top banner
+        &lt;/h2&gt;
+        &lt;ul&gt;
+            &lt;li&gt;
+                &lt;p&gt;
+                    Always the first thing people see when they visit the website.&lt;/p&gt;
+            &lt;/li&gt;
+            &lt;li&gt;
+                &lt;p&gt;
+                    Ad Spot dimensions 800px width x 90px height (ideal)&lt;/p&gt;
+            &lt;/li&gt;
+            &lt;li&gt;
+                &lt;p&gt;
+                    Subscription minimum length of 1 month and can be cancelled at any time at no additional
+                    charge.&lt;/p&gt;
+            &lt;/li&gt;
+            &lt;li&gt;
+                &lt;p&gt;
+                    Ad link can be made "do follow"&lt;/p&gt;
+            &lt;/li&gt;
+            &lt;li&gt;
+                &lt;p&gt;
+                    You will get dedicated spot, this ad space only host a single ad.&lt;/p&gt;
+            &lt;/li&gt;
+            &lt;li&gt;
+                &lt;p&gt;
+                    Send the banner image / swf file and target link to us at pree&lt;a href="http://www.google.com/recaptcha/mailhide/d?k=01LQ8JDzrMjvKqYbuSOcgAVw==&amp;amp;c=pyiEgZYGcuvQwMZsNWb5sR652hQKT0gNxAGrLuzgefo="
+                        onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501LQ8JDzrMjvKqYbuSOcgAVw\75\75\46c\75pyiEgZYGcuvQwMZsNWb5sR652hQKT0gNxAGrLuzgefo\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;"
+                        title="Reveal this e-mail address"&gt;...&lt;/a&gt;@rudrasofttech.com&lt;/p&gt;
+            &lt;/li&gt;
+            &lt;li&gt;
+                &lt;p&gt;
+                    Pay via Paypal&lt;/p&gt;
+                &lt;form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"&gt;
+                &lt;input type="hidden" name="cmd" value="_s-xclick"&gt;
+                &lt;input type="hidden" name="hosted_button_id" value="DUM4MWZ9LMYU2"&gt;
+                &lt;table&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;
+                            &lt;input type="hidden" name="on0" value="Time Span"&gt;Time Span
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;
+                            &lt;select name="os0"&gt;
+                                &lt;option value="1 Month"&gt;1 Month $250.00 USD&lt;/option&gt;
+                                &lt;option value="3 Months"&gt;3 Months $700.00 USD&lt;/option&gt;
+                                &lt;option value="6 Months"&gt;6 Months $1,400.00 USD&lt;/option&gt;
+                            &lt;/select&gt;
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+                &lt;input type="hidden" name="currency_code" value="USD"&gt;
+                &lt;input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_buynowCC_LG.gif"
+                    border="0" name="submit" alt="PayPal – The safer, easier way to pay online."&gt;
+                &lt;img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif"
+                    width="1" height="1"&gt;
+                &lt;/form&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;h2&gt;
+            Option 2: Right Side Bar (Best Value)&lt;/h2&gt;
+        &lt;ul&gt;
+            &lt;li&gt;
+                &lt;p&gt;
+                    Right Sidebar Ad Spot (displayed on every page on the blog) – Dimensions 300px width
+                    x 100px height (see example ads below)&lt;/p&gt;
+            &lt;/li&gt;
+            &lt;li&gt;
+                &lt;p&gt;
+                    Subscription minimum length of 1 month and can be cancelled at any time at no additional
+                    charge.&lt;/p&gt;
+            &lt;/li&gt;
+            &lt;li&gt;
+                &lt;p&gt;
+                    Send the banner image / swf file and target link to us at pree&lt;a href="http://www.google.com/recaptcha/mailhide/d?k=01LQ8JDzrMjvKqYbuSOcgAVw==&amp;amp;c=pyiEgZYGcuvQwMZsNWb5sR652hQKT0gNxAGrLuzgefo="
+                        onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501LQ8JDzrMjvKqYbuSOcgAVw\75\75\46c\75pyiEgZYGcuvQwMZsNWb5sR652hQKT0gNxAGrLuzgefo\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;"
+                        title="Reveal this e-mail address"&gt;...&lt;/a&gt;@rudrasofttech.com&lt;/p&gt;
+            &lt;/li&gt;
+            &lt;li&gt;
+                &lt;p&gt;
+                    Pay via PayPal&lt;/p&gt;
+                &lt;form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"&gt;
+                &lt;input type="hidden" name="cmd" value="_s-xclick"&gt;
+                &lt;input type="hidden" name="hosted_button_id" value="P2RRNKDY3ZCWJ"&gt;
+                &lt;table&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;
+                            &lt;input type="hidden" name="on0" value="TimeSpan"&gt;TimeSpan
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;
+                            &lt;select name="os0"&gt;
+                                &lt;option value="1 Month"&gt;1 Month $50.00 USD&lt;/option&gt;
+                                &lt;option value="3 Months"&gt;3 Months $130.00 USD&lt;/option&gt;
+                                &lt;option value="6 Months"&gt;6 Months $250.00 USD&lt;/option&gt;
+                            &lt;/select&gt;
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+                &lt;input type="hidden" name="currency_code" value="USD"&gt;
+                &lt;input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_buynowCC_LG.gif"
+                    border="0" name="submit" alt="PayPal – The safer, easier way to pay online."&gt;
+                &lt;img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif"
+                    width="1" height="1"&gt;
+                &lt;/form&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;img src="http://www.rudrasofttech.com/bootstrap/img/Ad/Modalbox-1.png" class="img-polaroid" alt="" /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;br /&gt;</Body>
+  <DateModified>2013-05-12T21:19:31.7792924-07:00</DateModified>
+  <Head />
+  <Sitemap>false</Sitemap>
+</CPage>

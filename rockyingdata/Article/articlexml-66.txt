@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>66</ID>
+  <Title>Shine Pharmaceuticals: The Entrepreneur Diaries-III</Title>
+  <OGImage>http://rudrasofttech.com/rockying/art/Initiative/Entrepreneurs/Shine%20logo.jpg</OGImage>
+  <OGDescription>With over 197 products and 325 medical representatives, Shine Pharma is known for its specialization in Psychiatry, Neurology, Diabetology, Gastroentology and Cardiology...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <Category>14</Category>
+  <Tag>Entrepreneurs Of India</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;p&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Initiative/Entrepreneurs/Shine%20logo.jpg" title="Shine Pharmaceuticals" alt="" style="float: left; width: 300px; height: 49px;"&gt;With over 197 products and 325 medical representatives, &lt;b&gt;Shine Pharma&lt;/b&gt; is 
+known for its specialization in Psychiatry, Neurology, Diabetology, 
+Gastroentology and Cardiology...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Initiative/Entrepreneurs/logo%20Shine.jpg" title="Shine Pharmaceuticals " alt="" style="float: left;" height="187" width="201"&gt;3.&amp;nbsp; &lt;b&gt;BEHIND THE TABLET&lt;/b&gt;: Dr Hiranmay Saha, the man behind &lt;b&gt;Shine Pharmaceuticals &lt;/b&gt;has indeed made it big today. World renowned psychologist, his way entrepreneurial skills was purely based on passion. He started early with creative thinking and market exploration. It began with 8 products and 5 medical representatives and has never looked back since then. With over 197 products and 325 medical representatives, Shine Pharma is known for its specialization in Psychiatry, Neurology, Diabetology, Gastroentology and Cardiology.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;INTERESTING FACTS:&lt;/b&gt;&lt;br&gt;•&amp;nbsp;&amp;nbsp; &amp;nbsp;They sell over 1 Billion tablets a year, 30 million bottles of liquid orals and 120 million capsules annually.&lt;br&gt;•&amp;nbsp;&amp;nbsp; &amp;nbsp;They are venturing into exports in just 18 years of being in business.&lt;br&gt;•&amp;nbsp;&amp;nbsp; &amp;nbsp;Few of the Shine Pharma brands entered the Top 20 Brand bracket in their respective curative segments, according to the ORG report!&lt;br&gt;&lt;b&gt;WHY A SUCCESS&lt;/b&gt;?&lt;img src="http://rudrasofttech.com/rockying/art/Initiative/Entrepreneurs/Shine%20logo.jpg" title="Shine Pharmaceuticals" alt="" style="float: right; width: 300px;"&gt;&lt;br&gt;•&amp;nbsp;&amp;nbsp; &amp;nbsp;They specialize in disease-related medicines with special focus on psychiatric medicines that limited companies in India manufacture.&lt;br&gt;•&amp;nbsp;&amp;nbsp; &amp;nbsp;His little recipe for spirited entrepreneurship is simple. He tweets, “It is very important for every person to have correct idea about his own skill and ability”.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Diaries&lt;/b&gt; &lt;b&gt;&lt;a href="http://www.rockying.com/a/64"&gt;1&lt;/a&gt; &lt;a href="http://www.rockying.com/a/65"&gt;2&lt;/a&gt; &lt;a href="http://www.rockying.com/a/67"&gt;4&lt;/a&gt; &lt;a href="http://www.rockying.com/a/68"&gt;5&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;</Text>
+  <WriterName>Aditi Dasgupta</WriterName>
+  <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+</Article>
