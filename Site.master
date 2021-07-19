@@ -1,0 +1,164 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="SiteMaster" %>
+
+<%@ Import Namespace="Rockying" %>
+<%@ Import Namespace="Rockying.Models" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en">
+<head>
+    <asp:ContentPlaceHolder ID="TopContent" runat="server">
+    </asp:ContentPlaceHolder>
+    <%if (NoTemplate == false)
+        { %>
+    <%= Utility.GetSiteSetting("CommonHeadContent")%>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-421743-5"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-421743-5');
+    </script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="//www.rockying.com/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="//www.rockying.com/bootstrap/css/bootstrap-responsive.css" rel="stylesheet" type="text/css" />
+    <link href="//www.rockying.com/bootstrap/css/custom.css" rel="stylesheet" type="text/css" />
+    <link href="//www.rudrasofttech.com/js-tools/modal/modal.css" rel="stylesheet" type="text/css" />
+    <link href="//www.rudrasofttech.com/js-tools/modal/modal-darktheme.css" rel="stylesheet" type="text/css" />
+    <!--[if lt IE 9]>
+   <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+    <script src="//code.jquery.com/jquery-1.10.1.min.js" type="text/javascript"></script>
+    <script src="//www.rudrasofttech.com/js-tools/modal/modal.js" type="text/javascript"></script>
+    <!--<script src="//www.rockying.com/bootstrap/js/jquery.cookie.js" type="text/javascript"></script>-->
+    <script src="//www.rockying.com/bootstrap/js/bootstrap.js" type="text/javascript"></script>
+    <!--<script type="text/javascript" src="//www.rudrasofttech.com/js-tools/dataupdate/dataupdate.js"></script>-->
+    <%} %>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <%if (NoTemplate == false)
+        { %>
+    <%= Utility.GetSiteSetting("SiteHeader") %>
+    <div class="container">
+        <div id="fb-root"></div>
+        <script type="text/javascript">(function (d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&autoLogAppEvents=1&version=v3.1&appId=279558142098641';
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));</script>
+        <div class="row-fluid header">
+            <div class="span12">
+                <div class="thumbnail no-border" style="text-align: center;">
+                    <a href="https://www.rockying.com" id="logohomelink">
+                        <img src="//www.rockying.com/bootstrap/img/logo.gif" alt="Rockying Logo" title="<%: Utility.SiteName %> <%: Utility.SiteTitle %>"
+                            class="no-border" />
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="row-fluid">
+            <div class="span12">
+                <div class="navbar">
+                    <div class="navbar-inner no-radius rockying">
+                        <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                            <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+                        </button>
+                        <div class="nav-collapse collapse">
+                            <ul class="nav">
+                                <li><a title="Travel" href="//www.rockying.com/Travel/index">Travel</a> </li>
+                                <li><a title="Bollywood, Hindi Movies, Hindi Cinema, Indian Movies" href="//www.rockying.com/Bollywood/index">Bollywood</a> </li>
+                                <li><a title="Hollywood Movies" href="//www.rockying.com/Hollywood/index">Hollywood</a> </li>
+                                <li><a title="Browse Categories" href="//www.rockying.com/more-categories">More Stories</a> </li>
+                                <%if (!Request.IsAuthenticated)
+                                    { %>
+                                <!--<li><a title="Write For Us" href="//www.rockying.com/write-for-us">Write For Us</a> </li>-->
+                                <li><a title="Log in" href="//www.rockying.com/account/login">Login</a> </li>
+                                <li><a title="Sign up" href="//www.rockying.com/account/register">Signup</a> </li>
+                                <%}
+                                    else
+                                    {
+                                        if (CurrentUser.UserType == (byte)MemberTypeType.Author)
+                                        { %>
+                                <li><a title="My Stories" href="//www.rockying.com/admin/default.aspx">My Stories</a> </li>
+                                <li><a title="Post Story" href="//www.rockying.com/admin/simpleedit.aspx">Post Story</a> </li>
+                                <li><a title="My Drive" href="//www.rockying.com/admin/managedrive.aspx">My Drive</a> </li>
+                                <%}
+                                    if (CurrentUser.UserType == (byte)MemberTypeType.Admin)
+                                    { %>
+                                <li><a title="My Articles" href="//www.rockying.com/admin/default.aspx">Admin</a> </li>
+                                <%} %>
+                                <li><a title="My Account" href="//www.rockying.com/account/myaccount">My Account</a> </li>
+                                <li><a title="Log Out" href="//www.rockying.com/logout">Log out</a> </li>
+                                <%} %>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row-fluid">
+            <div class="span12">
+                <div class="box">
+                    <%} %>
+                    <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+                    <%if (NoTemplate == false)
+                        { %>
+                    <%= Utility.GetSiteSetting("SiteFooter") %>
+                </div>
+            </div>
+        </div>
+        <div class="row-fluid">
+            <div class="span12">
+                <div class="footer">
+                    <div>
+                        <a title="Home" href="//www.rockying.com">Home</a> <a title="Privacy Policy"
+                            href="//www.rockying.com/PrivacyPolicy">Privacy</a> <a title="Terms and Conditions Of Use"
+                                href="//www.rockying.com/Terms-Of-Use">Terms of Use</a>
+                        <a title="About Rockying" href="//rockying.com/about-rockying">About Us</a>
+                    </div>
+                    <p>
+                        <a href="//www.facebook.com/rockyingmag">
+                            <img alt="Facebook" src="//www.rockying.com/bootstrap/img/icons/social_facebook_box_white_32.png" /></a>
+
+                        <!--<a href="//www.twitter.com/rockyingmag" target="_blank">
+                            <img alt="twitter" src="//www.rockying.com/bootstrap/img/icons/social_twitter_box_white_32.png" /></a>-->
+                        <a href="//www.rockying.com/rss">
+                            <img alt="twitter" src="//www.rockying.com/bootstrap/img/icons/social_rss_box_white_32.png" /></a>
+                    </p>
+                    <p>
+                        <strong>© Rudra Softtech™ LLP, Owner of <%: Utility.SiteName %></strong>
+                    </p>
+                    <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        var vt_root = "//rudrasofttech.com/vtracker/";
+        var vt_website_id = "1";
+        var vt_wvri = "";
+        var VTInit = /** @class */ (function () {
+            function VTInit() {
+            }
+            VTInit.prototype.initialize = function () {
+                var seed = document.createElement("script");
+                seed.setAttribute("src", vt_root + "rv/getjs/" + vt_website_id);
+                if (document.getElementsByTagName("head").length > 0) {
+                    document.getElementsByTagName("head")[0].appendChild(seed);
+                }
+            };
+            return VTInit;
+        }());
+        var _vtInit = new VTInit();
+        _vtInit.initialize();
+    </script>
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b07a3c59abc8fd5"></script>
+    <%} %>
+    <script type="text/javascript" src="//<%: Request.Url.Host %>/handlers/routine.ashx"></script>
+</body>
+</html>
