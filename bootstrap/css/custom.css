@@ -300,3 +300,7 @@ div[id="article"] > p:nth-child(1)::first-letter {
     .thumbnails .thumbnail a {
         color: #333333;
     }
+
+a {
+    color: #E3313A;
+}
