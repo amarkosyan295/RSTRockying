@@ -75,21 +75,6 @@
                         <% if (CurrentUser.UserType == (byte)MemberTypeType.Admin)
                             { %>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Comic<b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="<%= Page.ResolveClientUrl("~/admin/SplashList.aspx") %>">List</a></li>
-                                <li><a href="<%= Page.ResolveClientUrl("~/admin/ManageSplash.aspx") %>">Post</a></li>
-                            </ul>
-                        </li>
-                        <%} %>
-                        <% if (CurrentUser.UserType == (byte)MemberTypeType.Author)
-                            { %>
-                        <li><a href="<%= Page.ResolveClientUrl("~/admin/SplashList.aspx") %>">My Comics</a></li>
-                        <li><a href="<%= Page.ResolveClientUrl("~/admin/ManageSplash.aspx") %>">Post Comic</a></li>
-                        <%} %>
-                        <% if (CurrentUser.UserType == (byte)MemberTypeType.Admin)
-                            { %>
-                        <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data Source <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="<%= Page.ResolveClientUrl("~/admin/") %>CustomDataSourceList.aspx">List</a></li>
