@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>100 Years Of Indian Cinema: How it All Began!</Title>
-  <OGImage>http://www.rockying.com/art/bollywood/100-Years-of-Indian-Cinema/Raja_Harishchandra.jpg</OGImage>
+  <MetaTitle>100 Years Of Indian Cinema: How it All Began!</MetaTitle>
+  <OGImage>//rockying.com/art/bollywood/100-Years-of-Indian-Cinema/Raja_Harishchandra.jpg</OGImage>
   <OGDescription>This is celebration time for Indian Cinema. With Dada Saheb Phalke making Raja Harishchandra in 1913, it's going to be a century since films in India actually began to be made. Yes, a whole century of how the whole process of film-making began...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,7 +13,7 @@
   <Category>4</Category>
   <Tag>Bollywood, Indian Cinema, 100 Years Of Indian Cinema.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/bollywood/100-Years-of-Indian-Cinema/Raja_Harishchandra.jpg' alt='' /&gt;&lt;p&gt;This is celebration time for Indian Cinema. With Dada Saheb Phalke making Raja Harishchandra in 1913, it's going to be a century since films in India actually began to be made. Yes, a whole century of how the whole process of film-making began...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/bollywood/100-Years-of-Indian-Cinema/Raja_Harishchandra.jpg' alt='' /&gt;&lt;p&gt;This is celebration time for Indian Cinema. With Dada Saheb Phalke making Raja Harishchandra in 1913, it's going to be a century since films in India actually began to be made. Yes, a whole century of how the whole process of film-making began...&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
     This is celebration time for Indian Cinema. With &lt;b&gt;Dada Saheb Phalke&lt;/b&gt; making
     &lt;i&gt;Raja Harishchandra&lt;/i&gt; in &lt;b&gt;1913&lt;/b&gt;
@@ -25,7 +26,7 @@ how it came about to being as it is now known.
 &lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;
     &lt;b&gt;The first Indian feature film &lt;/b&gt;(silent)&lt;/li&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/100-Years-of-Indian-Cinema/Raja_Harishchandra.jpg"
+&lt;img src="//rockying.com/art/bollywood/100-Years-of-Indian-Cinema/Raja_Harishchandra.jpg"
     alt="Raja HarishChandra" style="width: 500px" /&gt;
 &lt;p&gt;Made by an Indian and shown to the
     public was &lt;b&gt;Raja Harishchandra&lt;/b&gt; on May 3, 1913. Though the first film that went into
@@ -35,7 +36,7 @@ how it came about to being as it is now known.
     movie were played by male actors!&lt;/p&gt;
 &lt;li&gt;
     &lt;b&gt;Then crept in social realism in 1925 with Savkari Pash.&lt;/b&gt;&lt;/li&gt; 
-&lt;img src="http://www.rockying.com/art/bollywood/100-Years-of-Indian-Cinema/V-Shantaram.jpg"
+&lt;img src="//rockying.com/art/bollywood/100-Years-of-Indian-Cinema/V-Shantaram.jpg"
     alt="V Shantaram" style="height: 400px" /&gt;
 &lt;p&gt;
 Directed by Marathi film-maker Baburao Painter, it tells of a greedy moneylender who cheats a peasant and his family
@@ -44,7 +45,7 @@ Directed by Marathi film-maker Baburao Painter, it tells of a greedy moneylender
 &lt;/p&gt;
 &lt;li&gt; Two major production companies opened in 1929;&lt;b&gt;The Prabhat Film Company&lt;/b&gt;, based
     in Kolhapur, and &lt;b&gt;The Ranjit Film Company&lt;/b&gt;, in Bombay. &lt;/li&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/100-Years-of-Indian-Cinema/Prabhat-Film-Company.jpg"
+&lt;img src="//rockying.com/art/bollywood/100-Years-of-Indian-Cinema/Prabhat-Film-Company.jpg"
     alt="" style="width: 500px" /&gt;
 &lt;p&gt;The Prabhat Film Company produced
     45 films in a span of 27 years, while the Ranjit Film Company was far more successful,
@@ -52,7 +53,7 @@ Directed by Marathi film-maker Baburao Painter, it tells of a greedy moneylender
 &lt;/p&gt;
 &lt;li&gt;
     The first Indian sound film was Ardesir Irani’s &lt;b&gt;Alam Ara&lt;/b&gt;.&lt;/li&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/100-Years-of-Indian-Cinema/Alam-Ara.jpg"
+&lt;img src="//rockying.com/art/bollywood/100-Years-of-Indian-Cinema/Alam-Ara.jpg"
     alt="Alam Ara" style="width: 500px" /&gt;
 &lt;p&gt; A huge commercial success, the movie opened at the Majestic Theatre in Mumbai on March 12, 1931. Using the
     Tanar sound System, the movie ran for two hours and four minutes. The Tanar single
@@ -66,7 +67,7 @@ Directed by Marathi film-maker Baburao Painter, it tells of a greedy moneylender
 
  &lt;li&gt;1933 was a scandalous year for Indian cinema, The first English language film &lt;b&gt;Karma&lt;/b&gt;,
     was released.&lt;/li&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/100-Years-of-Indian-Cinema/devika-rani - Himanshu Roy KARMA 1933.jpgKarma-Kissing-Scene.jpg"
+&lt;img src="//rockying.com/art/bollywood/100-Years-of-Indian-Cinema/devika-rani - Himanshu Roy KARMA 1933.jpgKarma-Kissing-Scene.jpg"
     alt="" style="width: 500px" /&gt;
 &lt;p&gt;
     Himanshu Rai produced and starred in the movie along with his wife,
@@ -77,7 +78,7 @@ Directed by Marathi film-maker Baburao Painter, it tells of a greedy moneylender
 &lt;li&gt;
     One of the strongest aspects of Indian movies is their music. &lt;b&gt;Playback singing&lt;/b&gt; still
     remains the heart of the movies.&lt;/li&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/100-Years-of-Indian-Cinema/Dhoop-Chhaon.jpg"
+&lt;img src="//rockying.com/art/bollywood/100-Years-of-Indian-Cinema/Dhoop-Chhaon.jpg"
     alt="" style="width: 500px" /&gt;
 &lt;p&gt; Introduced in 1935 by &lt;b&gt;Nitin Bose&lt;/b&gt; in Bhagya Chakra,
     a Bengali film; playback singing came to Hindi cinema in the same year in &lt;b&gt;Dhoop
@@ -86,7 +87,7 @@ Directed by Marathi film-maker Baburao Painter, it tells of a greedy moneylender
 
 &lt;li&gt;
  The honor of bringing the story to colored representation is taken by &lt;b&gt;Kisan Kanya&lt;/b&gt;.&lt;/li&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/100-Years-of-Indian-Cinema/Kisan-kanya.jpg"
+&lt;img src="//rockying.com/art/bollywood/100-Years-of-Indian-Cinema/Kisan-kanya.jpg"
     alt="" style="width: 300px" /&gt;
 &lt;p&gt;
     India’s first indigenously made color film, released in the year 1937. Though the
@@ -95,7 +96,7 @@ Directed by Marathi film-maker Baburao Painter, it tells of a greedy moneylender
 &lt;/p&gt;
 &lt;li&gt;
  1937 was also the year in which Indian movies bagged international awards.&lt;/li&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/100-Years-of-Indian-Cinema/Sant-tukaram-1936.jpg"
+&lt;img src="//rockying.com/art/bollywood/100-Years-of-Indian-Cinema/Sant-tukaram-1936.jpg"
     alt="" style="width: 500px" /&gt;
 &lt;p&gt;
     Vishnupant
@@ -104,10 +105,10 @@ Directed by Marathi film-maker Baburao Painter, it tells of a greedy moneylender
     of Cinematographic Art at the Venice Film Festival in 1937.
 &lt;/p&gt;
 &lt;li&gt;Longest Running Film Kismet.&lt;/li&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/100-Years-of-Indian-Cinema/kismet-1943.jpg"
+&lt;img src="//rockying.com/art/bollywood/100-Years-of-Indian-Cinema/kismet-1943.jpg"
     alt="" style="width: 500px" /&gt;
 &lt;p&gt;
-    Long before Hum Apke Hain Kaun broke records, Gyan Mukherjee's 1943 film &lt;a href="http://www.rockying.com/a/60?title=cult-classics-of-bollywood-i&amp;ref=category" target="_blank"/&gt;&lt;b&gt;Kismet&lt;/b&gt;&lt;/a&gt;, a romantic crime-drama, becomes the longest running film
+    Long before Hum Apke Hain Kaun broke records, Gyan Mukherjee's 1943 film &lt;a href="//rockying.com/a/60?title=cult-classics-of-bollywood-i&amp;ref=category" target="_blank"/&gt;&lt;b&gt;Kismet&lt;/b&gt;&lt;/a&gt;, a romantic crime-drama, becomes the longest running film
     in Kolkata, where it played in the same theatre continuously for three and a half
     years. The movie followed the life of a con man who falls hopelessly in love.
 &lt;/p&gt;
@@ -118,13 +119,13 @@ Directed by Marathi film-maker Baburao Painter, it tells of a greedy moneylender
 &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;The 1950s saw filmmakers like &lt;b&gt;Bimal Roy and Satyajit Ray&lt;/b&gt;.&lt;/li&gt; 
-&lt;img src="http://www.rockying.com/art/bollywood/100-Years-of-Indian-Cinema/Pather-Panchali.jpg"
+&lt;img src="//rockying.com/art/bollywood/100-Years-of-Indian-Cinema/Pather-Panchali.jpg"
     alt="" style="width: 500px" /&gt;
-&lt;p&gt;Their movies focused on the real world and mostly revolved around lives of people from the lower classes. Mrinal Sen, Ritwik Ghatak were also film makers of the same league. Bimal Roy’s movies saw a good balance between commercial movies (mainly escapist fare) and the emerging parallel cinema. His &lt;i&gt;&lt;a href="http://www.rockying.com/a/60?title=cult-classics-of-bollywood-i&amp;ref=category" target="_blank"/&gt;Do Beegha Zameen&lt;/a&gt;, Madhumati, Bandini, &lt;a href="http://www.rockying.com/a/75?title=cult-classics-of-bollywood-ii&amp;ref=category" target="_blank"/&gt;Devdas&lt;/i&gt;&lt;/a&gt; and many others are milestones of Indian Cinema.  
+&lt;p&gt;Their movies focused on the real world and mostly revolved around lives of people from the lower classes. Mrinal Sen, Ritwik Ghatak were also film makers of the same league. Bimal Roy’s movies saw a good balance between commercial movies (mainly escapist fare) and the emerging parallel cinema. His &lt;i&gt;&lt;a href="//rockying.com/a/60?title=cult-classics-of-bollywood-i&amp;ref=category" target="_blank"/&gt;Do Beegha Zameen&lt;/a&gt;, Madhumati, Bandini, &lt;a href="//rockying.com/a/75?title=cult-classics-of-bollywood-ii&amp;ref=category" target="_blank"/&gt;Devdas&lt;/i&gt;&lt;/a&gt; and many others are milestones of Indian Cinema.  
 &lt;/p&gt;
 &lt;li&gt;
 Then came the wave of the typical Bollywood masala film as we know it now.&lt;/li&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/100-Years-of-Indian-Cinema/Amar-Akbar-Anthony.jpg"
+&lt;img src="//rockying.com/art/bollywood/100-Years-of-Indian-Cinema/Amar-Akbar-Anthony.jpg"
     alt="" style="width: 500px" /&gt;
 &lt;p&gt;
      Lots of action, melodrama, family values mixed within passionate and hopeless romance
@@ -142,10 +143,9 @@ Then came the wave of the typical Bollywood masala film as we know it now.&lt;/l
     A lot of experimentation can still be seen. Though, at heart, Bollywood remains the masala loving kinds!
 &lt;/p&gt;
 &lt;h6&gt;Stick around! &lt;a href="http://www.facebook.com/RockyingMag" target="_blank"/&gt;Rockying&lt;/a&gt; brings you some exotic facts from Bollywood in the "100 Years of Indian Cinema" celebration series. &lt;/h6&gt;</Text>
-  <SlideShowOn>false</SlideShowOn>
-  <QuestionOn>false</QuestionOn>
   <WriterName>Hajra Khatoon</WriterName>
   <WriterEmail>hajraks@gmail.com</WriterEmail>
   <Viewed>0</Viewed>
-  <Promotion />
+  <TemplateName />
+  <URL>241</URL>
 </Article>

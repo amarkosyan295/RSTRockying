@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>The Bobble-headed Indian and other Quirky baubles; Survival tips for the Maiden Indian Trip</Title>
-  <OGImage>http://www.rockying.com/art/Travel/Bobble-Headed-Indian-Survival-Tips/Hrithik-Bobble.gif</OGImage>
+  <MetaTitle>The Bobble-headed Indian and other Quirky baubles; Survival tips for the Maiden Indian Trip</MetaTitle>
+  <OGImage>//rockying.com/art/Travel/Bobble-Headed-Indian-Survival-Tips/Hrithik-Bobble.gif</OGImage>
   <OGDescription>India is an expansive, dizzying and chaotic country and every nook and cranny of it is crammed with exotic locales, even more exotic and interesting traditions, spice-laden foods that can make the blandest of taste-buds sit up and take notice...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,9 +13,9 @@
   <Category>17</Category>
   <Tag>India Bobbles, Indian Bobble Head, Maiden Trip to India, Indian Head Wiggle, Travel Tips, Indian Standard Time.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/Travel/Bobble-Headed-Indian-Survival-Tips/Hrithik-Bobble.gif' alt='' /&gt;&lt;p&gt;India is an expansive, dizzying and chaotic country and every nook and cranny of it is crammed with exotic locales, even more exotic and interesting traditions, spice-laden foods that can make the blandest of taste-buds sit up and take notice...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/Travel/Bobble-Headed-Indian-Survival-Tips/Hrithik-Bobble.gif' alt='' /&gt;&lt;p&gt;India is an expansive, dizzying and chaotic country and every nook and cranny of it is crammed with exotic locales, even more exotic and interesting traditions, spice-laden foods that can make the blandest of taste-buds sit up and take notice...&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
-India is an expansive, dizzying and chaotic country and every &lt;img src="http://www.rockying.com/art/Travel/Bobble-Headed-Indian-Survival-Tips/Travel-India.jpg" alt="Quirky-Indian-Baubles"  class="pull-right" style="margin-left:5px;"/&gt;nook and cranny of it is crammed with exotic locales, even more exotic and interesting traditions, spice-laden foods that can make the blandest of taste-buds sit up and take notice and some very peculiar habits that make Indians what they are. A warm and welcoming lot that still haven’t learnt to handle the attention they get from foreign tourists. Here are a few interesting insights that will throw the shock quotient out the window, so that you can enjoy the spice that India offers you, but in a toned down version!
+India is an expansive, dizzying and chaotic country and every &lt;img src="//rockying.com/art/Travel/Bobble-Headed-Indian-Survival-Tips/Travel-India.jpg" alt="Quirky-Indian-Baubles"  class="pull-right" style="margin-left:5px;"/&gt;nook and cranny of it is crammed with exotic locales, even more exotic and interesting traditions, spice-laden foods that can make the blandest of taste-buds sit up and take notice and some very peculiar habits that make Indians what they are. A warm and welcoming lot that still haven’t learnt to handle the attention they get from foreign tourists. Here are a few interesting insights that will throw the shock quotient out the window, so that you can enjoy the spice that India offers you, but in a toned down version!
 &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -38,7 +39,7 @@ Those with the punctual streak- please don’t freak! The world can run on any t
 &lt;li&gt;
 &lt;h2&gt;Bobble Trouble&lt;/h2&gt;
 &lt;p&gt;
-The world-renowned Indian bobble head also called &lt;a href="http://www.indiabobbles.com/blog/the-bobble-head-and-the-great-indian-head-wobble-connection" title="India-Bobbles" target="_blank"&gt;&lt;b&gt; the Indian head wobble&lt;/b&gt; &lt;/a&gt;or the Indian head wiggle will elicit morethan a giggle from a foreigner. The four plus centuries of being ruled by the British has left an indelible bobble on Indians. That and the monarchy that existed in the country before its &lt;img src="http://www.rockying.com/art/Travel/Bobble-Headed-Indian-Survival-Tips/Hrithik-Bobble.gif" alt="Hrithik-and-the-Indian-Head-Bobble"  class="pull-right" style="margin-left:5px;"/&gt; colonization left the average Indian afraid to say “no”. And so, this is one cloak that the modern-day Indian has not been able to shed even more than six decades post the country’s independence. You will never get a strong ‘no’ as an answer to any question. The unique nod that the Indian will give you definitely suffers from an identity crisis- it’s not too sure whether it’s a ‘no’, a ‘yes’ or just a ‘leave it there’. It’s like a nationwide brand that is amusing, intriguing and glorious all at once.
+The world-renowned Indian bobble head also called &lt;a href="http://www.indiabobbles.com/blog/the-bobble-head-and-the-great-indian-head-wobble-connection" title="India-Bobbles" target="_blank"&gt;&lt;b&gt; the Indian head wobble&lt;/b&gt; &lt;/a&gt;or the Indian head wiggle will elicit morethan a giggle from a foreigner. The four plus centuries of being ruled by the British has left an indelible bobble on Indians. That and the monarchy that existed in the country before its &lt;img src="//rockying.com/art/Travel/Bobble-Headed-Indian-Survival-Tips/Hrithik-Bobble.gif" alt="Hrithik-and-the-Indian-Head-Bobble"  class="pull-right" style="margin-left:5px;"/&gt; colonization left the average Indian afraid to say “no”. And so, this is one cloak that the modern-day Indian has not been able to shed even more than six decades post the country’s independence. You will never get a strong ‘no’ as an answer to any question. The unique nod that the Indian will give you definitely suffers from an identity crisis- it’s not too sure whether it’s a ‘no’, a ‘yes’ or just a ‘leave it there’. It’s like a nationwide brand that is amusing, intriguing and glorious all at once.
 &lt;/p&gt;
 &lt;/li&gt; 
 &lt;li&gt;
@@ -55,4 +56,5 @@ You can spend weeks in this country and still will not be able to claim that you
   <WriterEmail>pdes17@gmail.com</WriterEmail>
   <Viewed>0</Viewed>
   <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>280</URL>
 </Article>

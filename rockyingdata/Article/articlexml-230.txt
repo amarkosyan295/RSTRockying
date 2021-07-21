@@ -3,7 +3,7 @@
   <ID>0</ID>
   <Title>The Magical Brush: Evolution of Make-up in Hollywood</Title>
   <MetaTitle>Evolution of the art of make-up in Hollywood movies</MetaTitle>
-  <OGImage>http://www.rockying.com/art/HOllywood/Make-up-Evolution/Brad-Pitt-Button.jpg</OGImage>
+  <OGImage>//rockying.com/art/HOllywood/Make-up-Evolution/Brad-Pitt-Button.jpg</OGImage>
   <OGDescription>An essential part of movie making and one of the most powerful visual tools in the hand of the makers is the subtle and often underrated art of make-up evolution in Hollywood movies and films.</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -13,15 +13,15 @@
   <Category>12</Category>
   <Tag>Art of make-up, Make up evolution, Make-up evolution in Hollywood, Movies, Hollywood, Curious Case of Benjamin Button.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/HOllywood/Make-up-Evolution/Brad-Pitt-Button.jpg' alt='' /&gt;&lt;p&gt;An essential part of movie making and one of the most powerful visual tools in the hand of the makers is the subtle and often underrated art of make-up evolution in Hollywood movies and films.&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/HOllywood/Make-up-Evolution/Brad-Pitt-Button.jpg' alt='' /&gt;&lt;p&gt;An essential part of movie making and one of the most powerful visual tools in the hand of the makers is the subtle and often underrated art of make-up evolution in Hollywood movies and films.&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
     An essential part of movie making and one of the most powerful visual tools in the
     hand of the makers is the subtle and often underrated art of make-up. From simple
     beginnings it has evolved into a modern day hybrid of prosthetics and graphics.
-    After &lt;a href="http://www.rockying.com/a/225" target=_blank"&gt;the magical ride of Hollywood special effects &lt;/a&gt;Rockying brings to you a rare focus on the evolution of the art of movie make-up.&lt;/p&gt;
+    After &lt;a href="//rockying.com/a/225" target=_blank"&gt;the magical ride of Hollywood special effects &lt;/a&gt;Rockying brings to you a rare focus on the evolution of the art of movie make-up.&lt;/p&gt;
 &lt;h4&gt;
     THE EARLY ERA&lt;/h4&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Make-up-Evolution/Karloff-and-Pierce-The-Mummy-MMW.jpg"
+&lt;img src="//rockying.com/art/HOllywood/Make-up-Evolution/Karloff-and-Pierce-The-Mummy-MMW.jpg"
     alt="Boris Karloff as the Mummy" /&gt;
 &lt;p style="text-align:center; font-weight:bold;"&gt;
     Boris Karloff as the Mummy&lt;/p&gt;
@@ -34,12 +34,12 @@
     on almost 2/3rds of all movies produced during the silent era! Also significant
     were the early horror classics such as THE MUMMY where make-up turned actor Boris
     Karloff into a monster with ease.&lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Make-up-Evolution/greta-garbo.jpg"
+&lt;img src="//rockying.com/art/HOllywood/Make-up-Evolution/greta-garbo.jpg"
     alt="Greta Garbo: the first style icon" /&gt;
 &lt;p style="text-align:center; font-weight:bold;"&gt;Greta Garbo: the first style icon&lt;/p&gt;
 &lt;h4&gt;
     BEAUTIFUL PEOPLE&lt;/h4&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Make-up-Evolution/Audrey-hepburn.jpg"
+&lt;img src="//rockying.com/art/HOllywood/Make-up-Evolution/Audrey-hepburn.jpg"
     alt="Audrey Hepburn getting her make up on" /&gt;
 &lt;p  style="text-align:center; font-weight:bold;"&gt;Audrey Hepburn getting her make up on&lt;/p&gt;
 &lt;p&gt;
@@ -51,12 +51,12 @@
     most copy their styles. Be it Jennifer Aniston’s hairdo in FRIENDS or the carefully
     puffed up hair-do of Elvis Presley during his heydays, Hollywood became the altar
     at which fashion fans worshipped.&lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Make-up-Evolution/elvis-haircut.jpg"
+&lt;img src="//rockying.com/art/HOllywood/Make-up-Evolution/elvis-haircut.jpg"
     alt="Elvis and his famous hair do" /&gt;
 &lt;p  style="text-align:center; font-weight:bold;"&gt;Elvis and his famous hair do&lt;/p&gt;
 &lt;h4&gt;
     CHARACTER CREATION&lt;/h4&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Make-up-Evolution/planet-of-apes.jpg"
+&lt;img src="//rockying.com/art/HOllywood/Make-up-Evolution/planet-of-apes.jpg"
     alt="Creating lifelike apes in PLANET OF THE APES" /&gt;
 &lt;p  style="text-align:center; font-weight:bold;"&gt;Creating lifelike apes in PLANET OF THE APES&lt;/p&gt;
 &lt;p&gt;
@@ -72,12 +72,12 @@
     will live on in our memory forever. Later winners included Robin Williams’ cross
     dressing act in MRS DOUBTFIRE (that ‘inspired’ Kamal Hassan’s CHACHI 420) and even
     the subtle, period make up in TITANIC.&lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Make-up-Evolution/Mrs-Doubtfire.jpg"
+&lt;img src="//rockying.com/art/HOllywood/Make-up-Evolution/Mrs-Doubtfire.jpg"
     alt="Robin Williams as MRS DOUBTFIRE" /&gt;
 &lt;p  style="text-align:center; font-weight:bold;"&gt;Robin Williams as MRS DOUBTFIRE&lt;/p&gt;
 &lt;h4&gt;
     DIGITAL MASCARA&lt;/h4&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Make-up-Evolution/pirates-of-carribean.jpg"
+&lt;img src="//rockying.com/art/HOllywood/Make-up-Evolution/pirates-of-carribean.jpg"
     alt="Bill Nighy in PIRATES OF THE CARRIBEAN" /&gt;
 &lt;p  style="text-align:center; font-weight:bold;"&gt;Bill Nighy in PIRATES OF THE CARRIBEAN&lt;/p&gt;
 &lt;p&gt;
@@ -90,7 +90,7 @@
     Jones in the PIRATES OF CARRIBEAN franchise and the amazing prosthetic and CGI combo
     on Brad Pitt in CURIOUS CASE OF BENJAMIN BUTTON are sterling examples of this bold
     new step in Hollywood make up history.&lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Make-up-Evolution/Brad-Pitt-Button.jpg"
+&lt;img src="//rockying.com/art/HOllywood/Make-up-Evolution/Brad-Pitt-Button.jpg"
     alt="Curious Case of Benjamin Button" /&gt;
     &lt;h6&gt;Nothing is beyond possibility on the silver screen and the movie maker’s imagination
     is now the only boundary!&lt;/h6&gt;

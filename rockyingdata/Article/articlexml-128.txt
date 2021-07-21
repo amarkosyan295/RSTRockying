@@ -123,7 +123,7 @@
     the normal course of living. Do you have a story to share? We are all ears.
 &lt;/p&gt;
 &lt;p class="well"&gt;
-&lt;img src="http://www.rockying.com/art/Writers/Aditi.jpg" class="pull-left"/&gt;
+&lt;img src="//rockying.com/art/Writers/Aditi.jpg" class="pull-left"/&gt;
 &lt;b&gt;About the Author:&lt;/b&gt; An explorer guided by deep sense of intellectual inquiry is something that defines Aditi as a whole. Currently employed with the Branding division of The Mahindra Group, she spans an unconventional career path of 5.7 years. She is well acquainted with the publishing industry, online publishing industry, branding, communication and so forth. She has also helped numerous websites develop search-friendly content.
 &lt;/p&gt;</Text>
   <WriterName>Aditi Dasgupta</WriterName>

@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>13 Ways to Move More!</Title>
-  <OGImage>http://www.rockying.com/art/health/13-Ways-to-move-more/im-dancing-13.jpg</OGImage>
+  <MetaTitle>13 Ways to Move More!</MetaTitle>
+  <OGImage>//rockying.com/art/health/13-Ways-to-move-more/im-dancing-13.jpg</OGImage>
   <OGDescription>The easiest way to lose weight is, probably, to be active. Every time we take a vow to lose weight, be healthy and just prevent those extra calories from piling up there is one thing we should be doing in addition to more exercise and careful diet...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,7 +13,7 @@
   <Category>5</Category>
   <Tag>Ways to Stay Active, Move more, Healthy Living, Fitness, Exercises.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/health/13-Ways-to-move-more/im-dancing-13.jpg' alt='' /&gt;&lt;p&gt;The easiest way to lose weight is, probably, to be active. Every time we take a vow to lose weight, be healthy and just prevent those extra calories from piling up there is one thing we should be doing in addition to more exercise and careful diet...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/health/13-Ways-to-move-more/im-dancing-13.jpg' alt='' /&gt;&lt;p&gt;The easiest way to lose weight is, probably, to be active. Every time we take a vow to lose weight, be healthy and just prevent those extra calories from piling up there is one thing we should be doing in addition to more exercise and careful diet...&lt;/p&gt;</Description>
   <Text>&lt;div&gt;
     &lt;div&gt;
         &lt;button id="prevslide" type='button' style='width: 40px;  height:40px;
@@ -38,79 +39,79 @@ So, how do we get more active, how do we get to walking more, without any of it 
 
         &lt;/div&gt;
         &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/13-Ways-to-move-more/Park-Far-Away-1.jpg" alt="Park Far Away" style="padding-down";/&gt;&lt;br&gt;
+            &lt;img src="//rockying.com/art/health/13-Ways-to-move-more/Park-Far-Away-1.jpg" alt="Park Far Away" style="padding-down";/&gt;&lt;br&gt;
             &lt;p&gt;
                &lt;b&gt;1. FAR AWAY &lt;/b&gt; - If you use your vehicle to get to work / college then park a little away and walk to the destination. If you take the bus to work / college then get down a stop before your actual one and walk the extra length. You can try this at malls - park in a parking spot a little far away from the main entrance and walk to the mall.&lt;/p&gt;
         &lt;/div&gt;
  &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/13-Ways-to-move-more/Stairs-2.jpg" alt="Take The Stairs" style="padding-down";/&gt;&lt;br&gt;
+            &lt;img src="//rockying.com/art/health/13-Ways-to-move-more/Stairs-2.jpg" alt="Take The Stairs" style="padding-down";/&gt;&lt;br&gt;
             &lt;p&gt;
                &lt;b&gt;2. STEP UP &lt;/b&gt; - We will talk about dance later, these are the actual steps if we are talking about. Take the stairs as much as you can. Begin with just three steps and keep increasing as much as you can. Not only do they help you shed calories, it helps in cardiovascular functions and lowers your blood pressure and cholesterol!&lt;/p&gt;
         &lt;/div&gt;
         &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/13-Ways-to-move-more/walk-talk-3.jpg"
+            &lt;img src="//rockying.com/art/health/13-Ways-to-move-more/walk-talk-3.jpg"
                 alt="Walk and Talk" style="padding-down";/&gt;&lt;br/&gt;
             &lt;p&gt;
 &lt;b&gt;3. WALK THE TALK &lt;/b&gt; -We spend hours talking on our mobiles. Walk while you are talking. Not only does it keep you active but you don’t realize that you have walked so much because you were so busy talking! 
                &lt;/p&gt;
         &lt;/div&gt;
  &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/13-Ways-to-move-more/Colleagues-4.jpg"
+            &lt;img src="//rockying.com/art/health/13-Ways-to-move-more/Colleagues-4.jpg"
                 alt="Go Talk" style="padding-down";/&gt;&lt;br&gt;
             &lt;p&gt;
 &lt;b&gt;4. GO TALK &lt;/b&gt;- At work if you have something to discuss with a colleague, go over and do it rather than sending out an email or dialling their extension. Walking a few cubicles will give you the extra activity and time to move those muscles!
                &lt;/p&gt;
         &lt;/div&gt;
  &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/13-Ways-to-move-more/mall-walkers-5.jpg"
+            &lt;img src="//rockying.com/art/health/13-Ways-to-move-more/mall-walkers-5.jpg"
                 alt="Walk in the Mall" style="padding-down";/&gt;&lt;br&gt;
             &lt;p&gt;
 &lt;b&gt;5. WALK IN THE MALL &lt;/b&gt;- We usually complain bad weather for not being able to go out for a walk. There is an easy way out - go to the nearest mall. Not only are they spacious and air conditioned, they have stairs too! To avoid getting tempted to go shopping or to eat at the fast food outlets there, leave your cash and credit card at home!
                &lt;/p&gt;
         &lt;/div&gt;
 &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/13-Ways-to-move-more/Boys-friends-6.JPG" alt="Have a friend" style="padding-down";/&gt;&lt;br&gt;
+            &lt;img src="//rockying.com/art/health/13-Ways-to-move-more/Boys-friends-6.JPG" alt="Have a friend" style="padding-down";/&gt;&lt;br&gt;
             &lt;p&gt;
 &lt;b&gt;6. HAVE A FRIEND&lt;/b&gt;- Having a friend will make it more fun - you talk while you walk and it doesn’t feel like a boring workout session. Also, having a friend makes you more accountable - they will drag you out every time you feel lazy!
                &lt;/p&gt;
         &lt;/div&gt;
 &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/13-Ways-to-move-more/all-work-and-no-play-7.jpg" alt="All work and no play" style="padding-down";/&gt;&lt;br&gt;
+            &lt;img src="//rockying.com/art/health/13-Ways-to-move-more/all-work-and-no-play-7.jpg" alt="All work and no play" style="padding-down";/&gt;&lt;br&gt;
             &lt;p&gt; 
 &lt;b&gt;7. BE A KID FOR THE DAY &lt;/b&gt;- Once a week or whenever you find time, go play! Football, gully cricket or just plain ol’ badminton. It will make you pump that heart up and will be a great day out - away from the TV and computer and all things that make you idle!
                &lt;/p&gt;
         &lt;/div&gt;
 &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/13-Ways-to-move-more/using-pedometer-8.jpg" alt="Use Pedometer" style="padding-down";/&gt;&lt;br&gt;
+            &lt;img src="//rockying.com/art/health/13-Ways-to-move-more/using-pedometer-8.jpg" alt="Use Pedometer" style="padding-down";/&gt;&lt;br&gt;
             &lt;p&gt;
 &lt;b&gt;8. KEEP TRACK&lt;/b&gt;- The health experts say 10,000 steps; but how do you keep track? Buy a pedometer. They are reasonably priced and tell you the number of steps you took during the day, is small and easy to use. It helps motivate you to walk more if you didn’t reach your desired goal!
                &lt;/p&gt;
         &lt;/div&gt;
 &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/13-Ways-to-move-more/walking-grocery-9.jpg" alt="On foot" style="padding-down";/&gt;&lt;br&gt;
+            &lt;img src="//rockying.com/art/health/13-Ways-to-move-more/walking-grocery-9.jpg" alt="On foot" style="padding-down";/&gt;&lt;br&gt;
             &lt;p&gt;
 &lt;b&gt; 9. ERRANDS ON FOOT&lt;/b&gt;- Want to do a quick grocery shopping. Ditch the car, forget home delivery just walk to it! Also, while walking back you have a little load, it will be like lifting loads while walking - mini exercise! Also, go to the ATM on foot, pay your bills in the nearest office, go to the salon on foot!
                &lt;/p&gt;
         &lt;/div&gt;
 &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/13-Ways-to-move-more/watch-tv-treadmilling-10.jpg" alt="TV and Treadmill" style="padding-down";/&gt;&lt;br&gt;
+            &lt;img src="//rockying.com/art/health/13-Ways-to-move-more/watch-tv-treadmilling-10.jpg" alt="TV and Treadmill" style="padding-down";/&gt;&lt;br&gt;
             &lt;p&gt;
 &lt;b&gt;10. TV AND TREADMILL  &lt;/b&gt;-Work on the treadmill while watching the TV. It keeps you distracted to begin with and you catch up on your favorite programs while being active!
         &lt;/div&gt;
 &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/13-Ways-to-move-more/Walk-with-music-11.jpg" alt="Music" style="padding-down";/&gt;&lt;br&gt;
+            &lt;img src="//rockying.com/art/health/13-Ways-to-move-more/Walk-with-music-11.jpg" alt="Music" style="padding-down";/&gt;&lt;br&gt;
             &lt;p&gt;
 &lt;b&gt;11. LISTEN TO MUSIC &lt;/b&gt; - Playing your favorite tune while walking. It helps you walk more, cover more distance and you enjoy the walk. Researchers speculate that listening to music made the participants feel less hindered by shortness of breath and distracted them from possible boredom and fatigue.
 &lt;/p&gt;
         &lt;/div&gt;
 &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/13-Ways-to-move-more/feel-bloated-12.jpeg" alt="Walk after Dinner" style="padding-down";/&gt;&lt;br&gt;
+            &lt;img src="//rockying.com/art/health/13-Ways-to-move-more/feel-bloated-12.jpeg" alt="Walk after Dinner" style="padding-down";/&gt;&lt;br&gt;
             &lt;p&gt;
 &lt;b&gt;12. WALK AFTER DINNER&lt;/b&gt; - Fat levels are highest right after a meal so a post meal walk benefits the most. The movement helps in keeping the digestive juices flowing and prevents acidity, indigestion and gastric problems.
 &lt;/p&gt;
         &lt;/div&gt;
 &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/13-Ways-to-move-more/im-dancing-13.jpg" alt="Dance" style="padding-down";/&gt;&lt;br&gt;
+            &lt;img src="//rockying.com/art/health/13-Ways-to-move-more/im-dancing-13.jpg" alt="Dance" style="padding-down";/&gt;&lt;br&gt;
             &lt;p&gt;
 &lt;b&gt; 13. DANCE&lt;/b&gt;- Turn on the latest item numbers and get yourself moving. Dance like no one is watching! It helps burn calories, music can have a refreshing effect and your joints got the extra &lt;i&gt;matkas&lt;/i&gt; and &lt;i&gt;jhatkas&lt;/i&gt; for the day!
 &lt;/p&gt;
@@ -118,19 +119,18 @@ So, how do we get more active, how do we get to walking more, without any of it 
 The best thing is to follow a mixed bag approach - it is practically not feasible to eat each of these fruits every day. So make sure, you strike a good balance, make sure you do catch up on filling yourself with these super fruits, doing good for yourself! &lt;b&gt;Have a healthy 2013!&lt;/b&gt; 
 &lt;/p&gt;
 &lt;h3&gt;You Might Like:&lt;/h3&gt;
-&lt;h4&gt;&lt;a href="http://www.rockying.com/a/30?title=loose-weight-while-you-eat-potatoes-and-bananas&amp;ref=category"&gt;Loose Weight While You Eat Potatoes and Bananas.&lt;/a&gt;&lt;/h4&gt;
-&lt;h4&gt;&lt;a href="http://www.rockying.com/a/29?title=nine-successful-ways-to-stick-to-your-diet-even-when-eating-out&amp;ref=category"&gt;9 Successful Ways to Stick to Your Diet Even When Eating Out!&lt;/a&gt;&lt;/h4&gt;
-&lt;h4&gt;&lt;a href="http://www.rockying.com/a/100?title=six-secrets-to-shed-pounds-as-you-shop&amp;ref=category"&gt;6 Secrets to Shed Pounds as You Shop.&lt;/a&gt;&lt;/h4&gt;
-&lt;h4&gt;&lt;a href="http://www.rockying.com/a/169?title=eating-less-why-it-can-be-grossly-wrong&amp;ref=category"&gt;Eating Less: Why it can be Grossly Wrong!&lt;/a&gt;&lt;/h4&gt;
-&lt;h4&gt;&lt;a href="http://www.rockying.com/a/257?title=9-fun-ways-to-burn-calories&amp;ref=category"&gt;9 Fun Ways to Burn Calories!&lt;/a&gt;&lt;/h4&gt;
-&lt;h4&gt;&lt;a href="http://www.rockying.com/a/213?title=they-did-it-so-can-you-celebrity-weight-loss-and-how-they-did-it&amp;ref=category"&gt;They Did it, So Can You! Celebrity Weight Loss and How They Did It.&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href="//rockying.com/a/30?title=loose-weight-while-you-eat-potatoes-and-bananas&amp;ref=category"&gt;Loose Weight While You Eat Potatoes and Bananas.&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href="//rockying.com/a/29?title=nine-successful-ways-to-stick-to-your-diet-even-when-eating-out&amp;ref=category"&gt;9 Successful Ways to Stick to Your Diet Even When Eating Out!&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href="//rockying.com/a/100?title=six-secrets-to-shed-pounds-as-you-shop&amp;ref=category"&gt;6 Secrets to Shed Pounds as You Shop.&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href="//rockying.com/a/169?title=eating-less-why-it-can-be-grossly-wrong&amp;ref=category"&gt;Eating Less: Why it can be Grossly Wrong!&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href="//rockying.com/a/257?title=9-fun-ways-to-burn-calories&amp;ref=category"&gt;9 Fun Ways to Burn Calories!&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href="//rockying.com/a/213?title=they-did-it-so-can-you-celebrity-weight-loss-and-how-they-did-it&amp;ref=category"&gt;They Did it, So Can You! Celebrity Weight Loss and How They Did It.&lt;/a&gt;&lt;/h4&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;</Text>
-  <SlideShowOn>true</SlideShowOn>
-  <QuestionOn>false</QuestionOn>
   <WriterName>Hajra Khatoon</WriterName>
   <WriterEmail>hajraks@gmail.com</WriterEmail>
   <Viewed>0</Viewed>
-  <Promotion />
+  <TemplateName />
+  <URL>242</URL>
 </Article>

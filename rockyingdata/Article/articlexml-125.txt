@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>125</ID>
   <Title>The Great Indian Sanitation System Vs Sulabh Shauchalaya!</Title>
-  <OGImage>http://rudrasofttech.com/rockying/art/Initiative/Sulabh/Sulabh_Shauchalaya.JPG</OGImage>
+  <MetaTitle>The Great Indian Sanitation System Vs Sulabh Shauchalaya!</MetaTitle>
+  <OGImage>//rockying.com/art/Initiative/Sulabh/Sulabh_Shauchalaya.JPG</OGImage>
   <OGDescription>Thousands of manual scavengers, most of whom are women, have been rehabilitated into leading better lives by Sulabh Sanitation movement and this is why Rockying expresses gratitude to this sanitation guru. India really needed this!</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,10 +13,7 @@
   <Category>14</Category>
   <Tag>Delhi Toilet Museum, Sulabh Shauchalaya, Sanitation</Tag>
   <Status>Publish</Status>
-  <Description>&lt;p&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Initiative/Sulabh/Sulabh_Shauchalaya.JPG" title="Sulabh Shauchalaya" alt="" style="width: 150px; float: left;"&gt;Thousands of manual scavengers, most of whom are women, have been 
-rehabilitated into leading better lives by Sulabh Sanitation movement 
-and this is why Rockying expresses gratitude to this sanitation guru. 
-India really needed this!&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/Initiative/Sulabh/Sulabh_Shauchalaya.JPG' alt='' /&gt;&lt;p&gt;Thousands of manual scavengers, most of whom are women, have been rehabilitated into leading better lives by Sulabh Sanitation movement and this is why Rockying expresses gratitude to this sanitation guru. India really needed this!&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
     India’s leading NGO started and led by Dr. Bindeshwar Pathak has been one of the
     most successfully implemented initiative that has not only helped cure several sanitation
@@ -35,7 +33,7 @@ India really needed this!&lt;/p&gt;</Description>
     &lt;li&gt;
         &lt;p&gt;
             Yes, it was Dr. Bindeshwar Pathak’s initiative as the Bihar Gandhi
-            &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/Sulabh/Sulabh.jpg" title="Sulabh under construction"
+            &lt;img src="//rockying.com/art/Initiative/Sulabh/Sulabh.jpg" title="Sulabh under construction"
                 alt="" style="width: 500px; float: right;"&gt;Centenary Committee entrusted him
             with the responsibility of finding an alternative model to manual scavenging. The
             result was a two-pit pourflush toilet which has been rated as the best so far by
@@ -76,16 +74,15 @@ India really needed this!&lt;/p&gt;</Description>
     Thousands of manual scavengers, most of whom are women, have been rehabilitated
     into leading better lives by Sulabh Sanitation movement and this is why Rockying
     expresses gratitude to this sanitation guru. India really needed this!&lt;/p&gt;
-&lt;img src="http://rudrasofttech.com/rockying/art/Initiative/Sulabh/museum%20of%20toilets.jpg"
+&lt;img src="//rockying.com/art/Initiative/Sulabh/museum%20of%20toilets.jpg"
     title="Museum Of Toilets" alt="" style="width: 600px;" /&gt;
 &lt;h6&gt;
     Did you know? Sulabh Sauchalaya has their own museum of toilets in Delhi? Dr Pathak
     was impressed by the one in London and created one out here in Delhi. Rockying calls
     it a MUST visit!&lt;/h6&gt;</Text>
-  <SlideShowOn>false</SlideShowOn>
-  <QuestionOn>false</QuestionOn>
   <WriterName>Aditi Dasgupta</WriterName>
   <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
   <Viewed>0</Viewed>
-  <Promotion />
+  <TemplateName />
+  <URL>125</URL>
 </Article>

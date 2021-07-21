@@ -16,7 +16,7 @@
   <Description>&lt;img src='//www.rockying.com/art/HOllywood/Movies%20on%20books%20II/jurassic%20park%20-%20book.jpg' alt='' /&gt;&lt;p&gt;After talking about how many movies in Books on The Big Screen: 1, we published another Hollywood Big Hits Movies based on Books and Novels.&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
     &lt;b&gt;A&lt;/b&gt;fter talking about how many famous movies were actually based on books in
-    &lt;a href="http://www.rockying.com/a/93"&gt;Books on The Big Screen: 1&lt;/a&gt;, here’s another
+    &lt;a href="//rockying.com/a/93"&gt;Books on The Big Screen: 1&lt;/a&gt;, here’s another
     dose of blockbusters that have their scripts based on best sellers.
     &lt;br&gt;
     &lt;br&gt;

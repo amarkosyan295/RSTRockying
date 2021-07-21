@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>The Modern Indian Inventors</Title>
-  <OGImage>http://www.rudrasofttech.com/rockying/art/Initiative/Modern-Inventors/Dr-Kalam-Home-page.jpg</OGImage>
+  <MetaTitle>The Modern Indian Inventors</MetaTitle>
+  <OGImage>//rockying.com/art/Initiative/Modern-Inventors/Dr-Kalam-Home-page.jpg</OGImage>
   <OGDescription>Life gave them lemons. And they turned them into as perfect lemonades. They are the ones that felt the necessity to invent. They took the initiative to not only mend their own torn shoes but also the society’s.</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,7 +13,7 @@
   <Category>14</Category>
   <Tag>Inventors, Indian Inventors, A.P.J. Abdul Kalam (India Bobbles), Ajay Bhatt, Vinod Dham, Udhhab Bharali, Susant Pattnaik</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rudrasofttech.com/rockying/art/Initiative/Modern-Inventors/Dr-Kalam-Home-page.jpg' alt='' /&gt;&lt;p&gt;Life gave them lemons. And they turned them into as perfect lemonades. They are the ones that felt the necessity to invent. They took the initiative to not only mend their own torn shoes but also the society’s.&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/Initiative/Modern-Inventors/Dr-Kalam-Home-page.jpg' alt='' /&gt;&lt;p&gt;Life gave them lemons. And they turned them into as perfect lemonades. They are the ones that felt the necessity to invent. They took the initiative to not only mend their own torn shoes but also the society’s.&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
     Life gave them lemons. And they turned them into as perfect lemonades. They are
     the ones that felt the necessity to invent. They took the initiative to not only
@@ -22,7 +23,7 @@
     is history in the making...&lt;/p&gt;
 &lt;h3&gt;
     UDDHAB BHARALI&lt;/h3&gt;
-&lt;img src="http://www.rudrasofttech.com/rockying/art/Initiative/Modern-Inventors/Udhhab-Collage.jpg"
+&lt;img src="//rockying.com/art/Initiative/Modern-Inventors/Udhhab-Collage.jpg"
     alt="UDDHAB BHARALI" style="max-width: 95%" /&gt;
 &lt;p&gt;
     An incredible rural innovator from Assam, Udhhab is a mechanical engineer through
@@ -78,7 +79,7 @@
     Chief Platform Architect at Intel, Ajay Bhatt is the co-inventor of several technologies
     such as &lt;b&gt;USB (Universal Serial Bus)&lt;/b&gt;, AGP (Accelerated Graphic Port), PCI Express,
     etc.&lt;/p&gt;
-&lt;img src="http://www.rudrasofttech.com/rockying/art/Initiative/Modern-Inventors/Ajay-bhatt-Collage.jpg"
+&lt;img src="//rockying.com/art/Initiative/Modern-Inventors/Ajay-bhatt-Collage.jpg"
     alt="AJAY BHATT" style="max-width: 95%" /&gt;
 &lt;h5&gt;
     The Idea&lt;/h5&gt;
@@ -108,7 +109,7 @@
     to the Super sensor technology for the disabled, has proved to the world that sensitivity
     is no age-phenomenon. A desire for good can lead to incredible innovation to make
     the world a better place.&lt;/p&gt;
-&lt;img src="http://www.rudrasofttech.com/rockying/art/Initiative/Modern-Inventors/Sushant-Collage.jpg"
+&lt;img src="//rockying.com/art/Initiative/Modern-Inventors/Sushant-Collage.jpg"
     alt="SUSANT PATTNAIK" style="max-width: 95%" /&gt;
 &lt;p&gt;
     Susant has founded the &lt;strong&gt;Scientific Innovation Foundation (SIF)&lt;/strong&gt; to
@@ -165,7 +166,7 @@
 &lt;hr /&gt;
 &lt;h3&gt;
     VINOD DHAM&lt;/h3&gt;
-&lt;img src="http://www.rudrasofttech.com/rockying/art/Initiative/Modern-Inventors/Vinod-Dham-Collage.jpg"
+&lt;img src="//rockying.com/art/Initiative/Modern-Inventors/Vinod-Dham-Collage.jpg"
     alt="VINOD DHAM" style="max-width: 95%" /&gt;
 &lt;p&gt;
     Vinod Dham, born and brought up in Pune, India, who did his Bachelor’s course from
@@ -198,7 +199,7 @@
     Avul Pakir Jainulabdeen Abdul Kalam, born and raised in Rameshvaram in Tamil Nadu
     served as 11th President of India (2002-2007). Ask him, he says “I have orbited
     around the sun 80 times”. (Yes! He is 80 years old.)&lt;/p&gt;
-&lt;img src="http://www.rudrasofttech.com/rockying/art/Initiative/Modern-Inventors/kalam-Collage.jpg"
+&lt;img src="//rockying.com/art/Initiative/Modern-Inventors/kalam-Collage.jpg"
     alt="A.P.J. ABDUL KALAM" style="max-width: 95%; width:700px;" /&gt;
 &lt;h5&gt;
     Recognition&lt;/h5&gt;
@@ -235,9 +236,10 @@
         his mission&lt;/a&gt;, has dedicated his entire life to the nation.&lt;/p&gt;
 &lt;p&gt;
     Mission: He aims at transforming India into a developed nation by 2020.&lt;/p&gt;
-&lt;h6&gt;Don't miss our second article &lt;a href="http://www.rockying.com/a/259"&gt;Modern Indian Inventors Part II&lt;/a&gt; in the series. Discover another five Indians that made a difference to lives, not only theirs but also ours, forever!&lt;/h6&gt;</Text>
+&lt;h6&gt;Don't miss our second article &lt;a href="//rockying.com/a/259"&gt;Modern Indian Inventors Part II&lt;/a&gt; in the series. Discover another five Indians that made a difference to lives, not only theirs but also ours, forever!&lt;/h6&gt;</Text>
   <WriterName>Preeti Singh</WriterName>
   <WriterEmail>vratika@rudrasofttech.com</WriterEmail>
   <Viewed>0</Viewed>
   <TemplateName />
+  <URL>207</URL>
 </Article>

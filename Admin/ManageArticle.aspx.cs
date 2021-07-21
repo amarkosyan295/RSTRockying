@@ -55,14 +55,15 @@ public partial class Admin_ManageArticle : AdminPage
 
             try
             {
-                a = Utility.Deserialize<Article>(System.IO.File.ReadAllText(Server.MapPath(string.Format("{1}/articlexml-{0}.txt", ID, Utility.ArticleFolder))));
-                if (string.IsNullOrEmpty(a.MetaTitle))
-                {
-                    a.MetaTitle = a.Title;
-                }
                 Post p = (from t in dc.Posts where t.ID == ID select t).SingleOrDefault();
                 if (p != null)
                 {
+                    a = Utility.Deserialize<Article>(p.Article); //Utility.Deserialize<Article>(System.IO.File.ReadAllText(Server.MapPath(string.Format("{1}/articlexml-{0}.txt", ID, Utility.ArticleFolder))));
+                    if (string.IsNullOrEmpty(a.MetaTitle))
+                    {
+                        a.MetaTitle = a.Title;
+                    }
+
                     a.URL = p.URL;
                 }
             }
@@ -92,7 +93,6 @@ public partial class Admin_ManageArticle : AdminPage
                     try
                     {
                         a.Text = System.IO.File.ReadAllText(Server.MapPath(string.Format("{1}/article-{0}.txt", p.ID, Utility.ArticleFolder)));
-
                     }
                     catch (Exception ex2)
                     {
@@ -170,9 +170,10 @@ public partial class Admin_ManageArticle : AdminPage
                         a.WriterName, string.Format("{0}/a/{1}", Utility.SiteURL, a.URL), Utility.AdminName, a.Status.ToString());
                     }
 
-                    dc.SubmitChanges();
                     string str = Utility.Serialize<Article>(a);
-                    System.IO.File.WriteAllText(Server.MapPath(string.Format("{1}/articlexml-{0}.txt", p.ID, Utility.ArticleFolder)), str);
+                    //System.IO.File.WriteAllText(Server.MapPath(string.Format("{1}/articlexml-{0}.txt", p.ID, Utility.ArticleFolder)), str);
+                    p.Article = str;
+                    dc.SubmitChanges();
 
                     if (!string.IsNullOrEmpty(notifyEmail))
                     {
@@ -183,8 +184,7 @@ public partial class Admin_ManageArticle : AdminPage
                 }
                 else
                 {
-                    
-                    
+                    string str = Utility.Serialize<Article>(a);
                     Post p = new Post();
                     p.Category = a.Category;
                     p.DateCreated = DateTime.Now;
@@ -197,16 +197,16 @@ public partial class Admin_ManageArticle : AdminPage
                     p.WriterName = a.WriterName;
                     p.OGDescription = a.OGDescription;
                     p.OGImage = a.OGImage;
-                    p.Article = string.Empty;
+                    p.Article = str;
                     p.URL = a.URL;
 
                     dc.Posts.InsertOnSubmit(p);
                     dc.SubmitChanges();
-                    string str = Utility.Serialize<Article>(a);
-                    System.IO.File.WriteAllText(Server.MapPath(string.Format("{1}/articlexml-{0}.txt", p.ID, Utility.ArticleFolder)), str);
+
+                    //System.IO.File.WriteAllText(Server.MapPath(string.Format("{1}/articlexml-{0}.txt", p.ID, Utility.ArticleFolder)), str);
 
                     notifyEmail = string.Format("Dear {0},<br/> Your article is posted in {3} mode. Check it here <a href='{1}'>{1}</a>. <br/><br/>Thanks,<br/>{2}",
-                    a.WriterName, string.Format("{0}/a/{1}", Utility.SiteURL, a.URL), Utility.AdminName,a.Status.ToString());
+                    a.WriterName, string.Format("{0}/a/{1}", Utility.SiteURL, a.URL), Utility.AdminName, a.Status.ToString());
 
 
                     EmailManager.SendMail(Utility.ContactEmail, a.WriterEmail, Utility.AdminName, a.WriterName, notifyEmail,

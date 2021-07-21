@@ -183,6 +183,8 @@
     <% }
         }%>
     <script>
-        setTimeout(function () { $("#subscribeBtn").click(); }, 5000);
+        if (sessionStorage.getItem("subscribeshown") == null) {
+            setTimeout(function () { $("#subscribeBtn").click(); sessionStorage.setItem("subscribeshown", "true"); }, 5000);
+        }
     </script>
 </asp:Content>

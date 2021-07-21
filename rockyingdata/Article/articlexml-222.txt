@@ -29,7 +29,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Cheeni-Kum-1.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Cheeni-Kum-1.jpg"
                         alt="Cheeni Kum" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -69,7 +69,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Balraj-Sahni-Waqt-2.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Balraj-Sahni-Waqt-2.jpg"
                         alt="Balraj Sahni Waqt" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -109,7 +109,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Koi-Mil-Gaya-3.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Koi-Mil-Gaya-3.jpg"
                         alt="Koi Mil Gaya" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -149,7 +149,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Taare-Zameen-Par-4.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Taare-Zameen-Par-4.jpg"
                         alt="Taare Zameen Par" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -190,7 +190,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Jaya-Bachchan-Kal-Ho-na-ho-5.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Jaya-Bachchan-Kal-Ho-na-ho-5.jpg"
                         alt="Kal Ho Na Ho" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -230,7 +230,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/veer-zaara-Shahrukh-6.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/veer-zaara-Shahrukh-6.jpg"
                         alt="Veer Zaara Shahrukh Khan Yash Chopra" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -270,7 +270,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Shahrukh-And-Kajol-In-My-Name-Is-Khan-7.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Shahrukh-And-Kajol-In-My-Name-Is-Khan-7.jpg"
                         alt="Shahrukh and Kajol in My Name Is Khan" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -310,7 +310,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Preity-Zinta-Kya-Kehna-8.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Preity-Zinta-Kya-Kehna-8.jpg"
                         alt="Preity Zinta Kya Kehna" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -350,7 +350,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Kajol-9.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Kajol-9.jpg"
                         alt="Kajol" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -390,7 +390,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Hritik-Roshan-10.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Hritik-Roshan-10.jpg"
                         alt="Hritik Roshan" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -430,7 +430,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Om-Jai-Jagdish-Waheeda-Rehman-11.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Om-Jai-Jagdish-Waheeda-Rehman-11.jpg"
                         alt="Om Jai Jagdish Qaheeda Rehman" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -470,7 +470,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/khamoshi-Manisha-12.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/khamoshi-Manisha-12.jpg"
                         alt="Khamoshi Manisha Koerala" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -510,7 +510,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Devdas-Shahrukh-Smita-13.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Devdas-Shahrukh-Smita-13.jpg"
                         alt="Devdas Shahrukh Smita" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -550,7 +550,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Hritik-Jodhaa-Akbar-14.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Hritik-Jodhaa-Akbar-14.jpg"
                         alt="Hritik Jodhaa Akbar" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -590,7 +590,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Mother-India-Nargis-Raaj-Kumar-15.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Mother-India-Nargis-Raaj-Kumar-15.jpg"
                         alt="Mother India Nargis Raaj Kumar" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -630,7 +630,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/urmila-masoom-16.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/urmila-masoom-16.jpg"
                         alt="Urmila Masoom" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -670,7 +670,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Vaastav-Sanjay-Dutt-17.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Vaastav-Sanjay-Dutt-17.jpg"
                         alt="Vaastav Sanjay Dutt" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -711,7 +711,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/tabu-hu-tu-tu-18.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/tabu-hu-tu-tu-18.jpg"
                         alt="Vaastav Sanjay Dutt" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -751,7 +751,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Prithvi-raj-kapoor-Mughal-e-azam-19.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Prithvi-raj-kapoor-Mughal-e-azam-19.jpg"
                         alt="Prithvi Raj Kapoor Mughal-E-Azam" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -792,7 +792,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Golmaal-1979-20.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/The-Mothers-Quiz/Golmaal-1979-20.jpg"
                         alt="Golmaal 1979" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;

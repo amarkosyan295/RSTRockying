@@ -235,7 +235,7 @@
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="slide"&gt;
-        Are you the biggest bollywood bug? Take the &lt;a href="http://www.rockying.com/a/220"&gt;
+        Are you the biggest bollywood bug? Take the &lt;a href="//rockying.com/a/220"&gt;
             Rockying Dialogue Quiz&lt;/a&gt;, now!
     &lt;/div&gt;
 &lt;/div&gt;</Text>

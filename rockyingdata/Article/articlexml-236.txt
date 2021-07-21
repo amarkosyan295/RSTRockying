@@ -3,7 +3,7 @@
   <ID>0</ID>
   <Title>New Year Traditions Around The World</Title>
   <MetaTitle>New Year Traditions Around The World</MetaTitle>
-  <OGImage>http://www.rockying.com/art/Festival/New-Year-Traditions/christmas-trees-Netherlands1.jpg</OGImage>
+  <OGImage>//rockying.com/art/Festival/New-Year-Traditions/christmas-trees-Netherlands1.jpg</OGImage>
   <OGDescription>The Dutch burn bonfires of Christmas tree on the street and launch fireworks. The             fires are meant to purge the old and welcome the new.</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -13,12 +13,12 @@
   <Category>25</Category>
   <Tag>New Year</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/Festival/New-Year-Traditions/christmas-trees-Netherlands1.jpg' alt='' /&gt;&lt;p&gt;The Dutch burn bonfires of Christmas tree on the street and launch fireworks. The             fires are meant to purge the old and welcome the new.&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/Festival/New-Year-Traditions/christmas-trees-Netherlands1.jpg' alt='' /&gt;&lt;p&gt;The Dutch burn bonfires of Christmas tree on the street and launch fireworks. The             fires are meant to purge the old and welcome the new.&lt;/p&gt;</Description>
   <Text>&lt;ul class="unstyled"&gt;
     &lt;li&gt;
         &lt;h3&gt;
             Scotland (Hogmanay)&lt;/h3&gt;
-            &lt;img src="http://www.rockying.com/art/Festival/New-Year-Traditions/first-footing-in-scotland-with-two-pictures-first-foot-kit .jpg" alt="" /&gt;
+            &lt;img src="//rockying.com/art/Festival/New-Year-Traditions/first-footing-in-scotland-with-two-pictures-first-foot-kit .jpg" alt="" /&gt;
         &lt;p&gt;
             One of the traditions is –“ First Footing”, shortly after midnight on New year’s
             eve, neighbors pay visit to each other and impart new year’s wishes. Traditionally,
@@ -29,7 +29,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             Japan ( oshogatsu)&lt;/h3&gt;
-            &lt;img src="http://www.rockying.com/art/Festival/New-Year-Traditions/in-right-oshogatsu-and-in-left-otoshidama.jpg" alt="" /&gt;
+            &lt;img src="//rockying.com/art/Festival/New-Year-Traditions/in-right-oshogatsu-and-in-left-otoshidama.jpg" alt="" /&gt;
         &lt;p&gt;
             The New Year is the most important holiday in Japan, and is a symbol of renewal.
             In December, various Bonenkai or “forget-the-parties” are held to bid farewell to
@@ -42,7 +42,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             Spain&lt;/h3&gt;
-            &lt;img src="http://www.rockying.com/art/Festival/New-Year-Traditions/12-grapes-in spain.jpg" alt="" /&gt;
+            &lt;img src="//rockying.com/art/Festival/New-Year-Traditions/12-grapes-in spain.jpg" alt="" /&gt;
         &lt;p&gt;
             A Spanish ritual on New Year’s Eve is to eat 12 grapes at midnight. The tradition
             is meant to secure 12 happy months in the coming year.&lt;/p&gt;
@@ -50,7 +50,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             The Netherland&lt;/h3&gt;
-            &lt;img src="http://www.rockying.com/art/Festival/New-Year-Traditions/christmas-trees-Netherlands1.jpg" alt="" /&gt;
+            &lt;img src="//rockying.com/art/Festival/New-Year-Traditions/christmas-trees-Netherlands1.jpg" alt="" /&gt;
         &lt;p&gt;
             The Dutch burn bonfires of Christmas tree on the street and launch fireworks. The
             fires are meant to purge the old and welcome the new.&lt;/p&gt;
@@ -58,7 +58,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             Greece&lt;/h3&gt;
-            &lt;img src="http://www.rockying.com/art/Festival/New-Year-Traditions/vassilopita-greek-new-year-cake.jpg" alt="" /&gt;
+            &lt;img src="//rockying.com/art/Festival/New-Year-Traditions/vassilopita-greek-new-year-cake.jpg" alt="" /&gt;
         &lt;p&gt;
             In Greece, New Year’s Day is also the festival of St. Basil, one of the founders
             of the Greek Orthodox Church. One of the traditional foods served is – Vasilopitta
@@ -69,7 +69,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             United States&lt;/h3&gt;
-            &lt;img src="http://www.rockying.com/art/Festival/New-Year-Traditions/in-left-dropping-of-new-year-in-times-square-and-in-right-john-black-eyed-peas.jpg" alt="" /&gt;
+            &lt;img src="//rockying.com/art/Festival/New-Year-Traditions/in-left-dropping-of-new-year-in-times-square-and-in-right-john-black-eyed-peas.jpg" alt="" /&gt;
         &lt;p&gt;
             The most famous tradition in the United States is the dropping of the New Year ball
             in Times Square, New York City at 11:59 pm. The tradition first began 1907. The

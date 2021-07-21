@@ -39,7 +39,7 @@
     &lt;li&gt;
         &lt;h4&gt;
             JUST BAG IT&lt;/h4&gt;
-        &lt;img src="http://rockying.com/art/Initiative/Earth%20HOur/Paper_bags.jpg" title="Paper Bags"
+        &lt;img src="//rockying.com/art/Initiative/Earth%20HOur/Paper_bags.jpg" title="Paper Bags"
             alt="" style="width: 300px; float: right; height: 226px;" /&gt;
         &lt;p&gt;
             Though this message might have been relayed to you a million times; there is nothing
@@ -63,7 +63,7 @@
             RECYCLE&lt;/h4&gt;
         &lt;p&gt;
             You contribute to the planet’s energy consumptions and save considerably
-            &lt;img src="http://rockying.com/art/Initiative/Earth%20HOur/recycling.jpg" title="Recycle to Save the Earth"
+            &lt;img src="//rockying.com/art/Initiative/Earth%20HOur/recycling.jpg" title="Recycle to Save the Earth"
                 alt="" style="float: right; height: 300px;" /&gt;on your electricity bills.&lt;/p&gt;
         &lt;p&gt;
             You have used a lot, now what? Be informed, find the nearest recycling centers (almost
@@ -90,7 +90,7 @@
 &lt;/ol&gt;
 &lt;p&gt;
     All of the techniques mentioned here are easy to do, practical and
-    &lt;img src="http://rockying.com/art/Initiative/Earth%20HOur/Switch_off_Earth_hour.jpg"
+    &lt;img src="//rockying.com/art/Initiative/Earth%20HOur/Switch_off_Earth_hour.jpg"
         title="Switch Off during the Earth Hour" alt="" style="width: 300px; float: right;" /&gt;will
     help change the planet for the better. Do your bit, switch off lights when not needed,
     work with energy-saving methods. The planet isn’t really our dump yard, it is time

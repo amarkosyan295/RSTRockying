@@ -3,7 +3,7 @@
   <ID>0</ID>
   <Title>Hollywood's Spoofy Stuff: The Most Hilarious Parody Movies Ever Made!</Title>
   <MetaTitle>Best Hollywood Spoof movies: The most hilarious and re-watchable</MetaTitle>
-  <OGImage>http://www.rockying.com/art/HOllywood/Spoof-Films/Scary-Movie-Home-page.jpg</OGImage>
+  <OGImage>//rockying.com/art/HOllywood/Spoof-Films/Scary-Movie-Home-page.jpg</OGImage>
   <OGDescription>We love everything about our movies; the clichés, the stars, the mindless action set pieces and the unbelievable love stories. Best Hollywood spoof movies: The most hilarious movies</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -13,7 +13,7 @@
   <Category>12</Category>
   <Tag>Hollywood Spoof Films, Best Spoof Movies, Naked Gun, Scary Movie, Hot Shots, Meet The Spartans.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/HOllywood/Spoof-Films/Scary-Movie-Home-page.jpg' alt='' /&gt;&lt;p&gt;We love everything about our movies; the clichés, the stars, the mindless action set pieces and the unbelievable love stories. Best Hollywood spoof movies: The most hilarious movies&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/HOllywood/Spoof-Films/Scary-Movie-Home-page.jpg' alt='' /&gt;&lt;p&gt;We love everything about our movies; the clichés, the stars, the mindless action set pieces and the unbelievable love stories. Best Hollywood spoof movies: The most hilarious movies&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
     We love the clichés, the stars, the mindless action set pieces and the unbelievable love stories. Almost everything about our movies. But we also love making fun of the things we love so much! Spoofs, the not so subtle art of sticking your tongue out at Hollywood staples, have been around for as long as there have been movies and the style has hit a zenith with the distinct genre-bound movie-making of Hollywood today. Blockbusters in their own right, here is the Rockying guide to spoof stories!&lt;/p&gt;
 &lt;ul&gt;
@@ -22,8 +22,8 @@
         &lt;h4&gt;
            SCARY MOVIE&lt;/h4&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Spoof-Films/The-Ring-Scary-Movie-001.jpg" alt="Scary Movie"/&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Spoof-Films/scary-movie-005.jpg" alt="Scary Movie 4"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Spoof-Films/The-Ring-Scary-Movie-001.jpg" alt="Scary Movie"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Spoof-Films/scary-movie-005.jpg" alt="Scary Movie 4"/&gt;
         &lt;p&gt;
             A hilarious take on &lt;i&gt;Scream&lt;/i&gt; and other slasher/horror movies of the last two decades mixed with random, whacky jokes targeted at all that is famous and successful in Hollywood gives you this  absolute &lt;i&gt;baap&lt;/i&gt; of all spoof movies. You have as much fun rolling over the aisles with laughter as you have identifying the movies/celebs the movie is spoofing. From ghosts re-enacting chase scenes from &lt;i&gt;Mission Impossible 2&lt;/i&gt; with wheelchairs to a lead character fighting in &lt;i&gt;Matrix&lt;/i&gt; motion with the little girl ghost from &lt;i&gt;The Ring&lt;/i&gt;, this utterly whacky and over the top series has it all!&lt;/p&gt;
     &lt;/li&gt;
@@ -32,8 +32,8 @@
         &lt;h4&gt;
            HOT SHOTS &lt;/h4&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Spoof-Films/Hot-Shots.jpg" alt="Hot Shots"/&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Spoof-Films/Hot-Shots-Rambo.jpg" alt="Hot Shots 2"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Spoof-Films/Hot-Shots.jpg" alt="Hot Shots"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Spoof-Films/Hot-Shots-Rambo.jpg" alt="Hot Shots 2"/&gt;
         &lt;p&gt;
            Star Charlie Sheen and the makers of this comedy classic took hilarious pot shots at Hollywood action blockbusters like &lt;i&gt;Rambo&lt;/i&gt; and “Top Gun” in this 1991 hit. The movie is famous for its slapstick comedy routines: a climactic scene where you have a &lt;i&gt;Rambo&lt;/i&gt; styled hero killing the villain with a bow and a chicken and another sequence where a boat load of people are overcome by underwater farts! Think we’re joking when we call this a classic? Check out the movie and see for yourself!
         &lt;/p&gt;
@@ -43,8 +43,8 @@
         &lt;h4&gt;
             MEET THE SPARTANS&lt;/h4&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Spoof-Films/Thats-Sparta.jpg" alt="Meet the Spartans"/&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Spoof-Films/Sparta-The-Enemy.jpg" alt="Meet the Spartans"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Spoof-Films/Thats-Sparta.jpg" alt="Meet the Spartans"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Spoof-Films/Sparta-The-Enemy.jpg" alt="Meet the Spartans"/&gt;
         &lt;p&gt;
             "Zack Snyder's 300 was the ultimate male power trip- an uber-macho story of Greek super soldiers destroying waves of attackers in glorious CGI created sets. You would think that this Gerard Butler starrer was as serious as serious could get. But no! This 2008 released spoof of the blockbuster movie converted the Spartan soldiers into a bunch of bumbling fools with strong gay tones battling against a fat midget! With generous dollops of tongue in cheek humor, and hilarious jokes directed at Hollywood clichés, celebs like Britney Spears and Simon Cowell and even the super-hit video game Grand Theft Auto, this movie goes on an all-out assault on your funny bone."
 &lt;/p&gt;
@@ -54,7 +54,7 @@
         &lt;h4&gt;
            THE NAKED GUN SERIES&lt;/h4&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Spoof-Films/Naked-Gun-001.jpg" alt="Naked Gun"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Spoof-Films/Naked-Gun-001.jpg" alt="Naked Gun"/&gt;
         &lt;p&gt;
            Leslie Nielsen as the most inept and unintentionally funny cop ever makes this entire series a must see. The comic legend is at his peak in this three movie series that pokes fun at all cops and robber stories. Legendary scenes from classics like “Ghost” are contorted in a way even their original makers would have difficulty not laughing at .&lt;/p&gt;
     &lt;/li&gt;
@@ -63,7 +63,7 @@
         &lt;h4&gt;
          MONTY PYTHON AND THE HOLY GRAIL&lt;/h4&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Spoof-Films/monty-python-holy-grail-001.jpg" alt="Monty Python"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Spoof-Films/monty-python-holy-grail-001.jpg" alt="Monty Python"/&gt;
         &lt;p&gt;
             Perhaps the silliest funniest movie ever! The cast and crew of the Monty Python series take on the historical action adventure genre and turn it into an absolute laugh riot. Heralded as a cult classic today the movie gave us classic characters like the Insulting Frenchman and the very weird Knights who say “NEEH!” and also some scenes immortalized by their silliness like the “coconut horse” and the “bunny monster”. And if you find yourself confused by what we are talking about, don’t ask us. Just watch the movie. Even the opening credits make the experience totally worth it!&lt;/p&gt;
     &lt;/li&gt;
@@ -71,7 +71,7 @@
     There are many more movies that deserved to be on this list. The National Lampoons series, movies by the unmatchable Mel Brooks and the recent wave of “movie” movies (Epic Movie, Superhero Movie, Disaster Movie, Vampires Suck, etc.) are all stellar torchbearers of all that is silly, funny and the absolutely inappropriate. Spoofing, like we said, is an art and do let Rockying know what got you hooked to it!
 &lt;/p&gt;
 &lt;p class="well"&gt;
-&lt;img src="http://www.rockying.com/art/Writers/Sonali.jpg" class="pull-left"/&gt;
+&lt;img src="//rockying.com/art/Writers/Sonali.jpg" class="pull-left"/&gt;
 &lt;b&gt;About the Author:&lt;/b&gt; Keeping her eyes closed, with long breaths and a gentle sound many mistake for snoring, actually helps Sonali think better. Or so she says. People question about these daily “thinking sessions”, mostly conducted on a comfortable couch or bed, while she claims that the long overdue best-seller she’s been working on (for quite some time now) will silence all the cynics. Till then she dreams on...
 &lt;/p&gt;</Text>
   <WriterName>Sonali Chowdhury</WriterName>

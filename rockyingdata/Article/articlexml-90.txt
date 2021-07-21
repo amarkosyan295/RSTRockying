@@ -15,7 +15,7 @@
   <Status>Publish</Status>
   <Description>&lt;img src='//www.rockying.com/art/Travel/Abu%20Dhabi/emirates_palace_Hotel.jpg' alt='' /&gt;&lt;p&gt;Close to its famous “cousin” Dubai; Abu Dhabi is the capital of United Arab Emirates. Though the city is located mostly on an island; it has been connected to the mainland through a network of bridges and continues to expand...&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
-    &lt;b&gt;A&lt;/b&gt;fter &lt;a href="http://www.rockying.com/a/56"&gt;Turkey&lt;/a&gt; ; off to another
+    &lt;b&gt;A&lt;/b&gt;fter &lt;a href="//rockying.com/a/56"&gt;Turkey&lt;/a&gt; ; off to another
     famous Arab City!&lt;img src="//rockying.com/art/Travel/Abu%20Dhabi/united_arab_emirates_uae_map.jpg"
         title="Abu Dhabi" alt="" style="float: right; height: 300px;"&gt;&lt;br&gt;
     &lt;br&gt;

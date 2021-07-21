@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>Top 9 Bollywood Celebrities Who Did Movies for Free.</Title>
-  <OGImage>http://www.rockying.com/art/bollywood/Celebrities-who-did-movies-free-of-cost/Shahid-Haider.jpg</OGImage>
+  <MetaTitle>Top 9 Bollywood Celebrities Who Did Movies for Free.</MetaTitle>
+  <OGImage>//rockying.com/art/bollywood/Celebrities-who-did-movies-free-of-cost/Shahid-Haider.jpg</OGImage>
   <OGDescription>Remember we had come across a news where Shahid Kapoor had decided that he would not...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,12 +13,12 @@
   <Category>4</Category>
   <Tag>Bollywood, Bollywood celebrities, Bollywood movies</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Celebrities-who-did-movies-free-of-cost/Shahid-Haider.jpg' alt='' /&gt;&lt;p&gt;Remember we had come across a news where Shahid Kapoor had decided that he would not...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/bollywood/Celebrities-who-did-movies-free-of-cost/Shahid-Haider.jpg' alt='' /&gt;&lt;p&gt;Remember we had come across a news where Shahid Kapoor had decided that he would not...&lt;/p&gt;</Description>
   <Text>&lt;p&gt; Remember we had come across a news where Shahid Kapoor had decided that he would not charge anything for the movie Haider, as he did not want the movie budget to suffer. And the result to this is visible. The movie went ahead and won several accolades at various functions, including five national awards for best direction, best costume, best choreography and more. Though we cannot say the entire success was due to Shahid Kapoor who played a major role in it when he decided to let go the pay the producers got benefitted. Following are the Bollywood actors who did a film for free. Let&amp;#39;s have a look at them below. &lt;/p&gt;
 
 &lt;br&gt;
 
-&lt;img src="http://www.rockying.com/art/bollywood/Celebrities-who-did-movies-free-of-cost/Amitabh_Deepak Sawant.jpg" alt=" Amitabh Bachchan with Deepak Sawant and the Team of The Great Leader" title=" Amitabh Bachchan with Deepak Sawant and Team"&gt;
+&lt;img src="//rockying.com/art/bollywood/Celebrities-who-did-movies-free-of-cost/Amitabh_Deepak Sawant.jpg" alt=" Amitabh Bachchan with Deepak Sawant and the Team of The Great Leader" title=" Amitabh Bachchan with Deepak Sawant and Team"&gt;
 
 &lt;br&gt;
 
@@ -29,7 +30,7 @@
 &lt;/p&gt;
 &lt;br&gt;
 
-&lt;img src="http://www.rockying.com/art/bollywood/Celebrities-who-did-movies-free-of-cost/Salman-Khan-in-Tees-Maar_Khan.jpg" alt="Salman Khan in Tees Maar Khan" title="Salman-Khan-in-Tees-Maar_Khan "&gt;
+&lt;img src="//rockying.com/art/bollywood/Celebrities-who-did-movies-free-of-cost/Salman-Khan-in-Tees-Maar_Khan.jpg" alt="Salman Khan in Tees Maar Khan" title="Salman-Khan-in-Tees-Maar_Khan "&gt;
 
 &lt;br&gt;
 &lt;p&gt;
@@ -42,7 +43,7 @@
 &lt;strong&gt;Shahrukh Khan&lt;/strong&gt;: This is a man who charges crores for his films. The actor appeared for a guest appearance in the movie Bhoothnaath returns, which was an extended role from the version Bhoothnaath. &lt;/p&gt;
 &lt;br&gt;
 
-&lt;img src="http://www.rockying.com/art/bollywood/Celebrities-who-did-movies-free-of-cost/Shahrukh-khan-Juhi-in-Bhootnath.jpg" alt=" Shahrukh-Khan-Juhi-Chawla-in-Bhootnath" title=" Shahrukh-Khan-Juhi-Chawla-in-Bhootnath"&gt;
+&lt;img src="//rockying.com/art/bollywood/Celebrities-who-did-movies-free-of-cost/Shahrukh-khan-Juhi-in-Bhootnath.jpg" alt=" Shahrukh-Khan-Juhi-Chawla-in-Bhootnath" title=" Shahrukh-Khan-Juhi-Chawla-in-Bhootnath"&gt;
 
 &lt;br&gt;
 &lt;p&gt;
@@ -54,7 +55,7 @@
 &lt;strong&gt;Ranveer Singh&lt;/strong&gt;: Following the example of his girlfriend even Ranveer Singh decided to take up the step. For his movie Bajirao Mastani, the actor did not even charge a single rupee for his role in the movie. Now how much benefit they would gain we will know in the future only. 
 &lt;/p&gt;
 &lt;br&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Celebrities-who-did-movies-free-of-cost/Ranveer-in-Bajirao.jpg" alt=" Ranveer Singh in Bajirao Mastani" title=" Ranveer Singh in Bajirao Mastani"&gt;
+&lt;img src="//rockying.com/art/bollywood/Celebrities-who-did-movies-free-of-cost/Ranveer-in-Bajirao.jpg" alt=" Ranveer Singh in Bajirao Mastani" title=" Ranveer Singh in Bajirao Mastani"&gt;
 &lt;br&gt;
 &lt;p&gt;
 This trend of fee-less acting in order to be able to become part of huge profits in future so far looks like a win-win for our stars. If you ask me, it takes confidence in your work and popularity to be able to make a decision of that order.  If a movie does not do well at the box office, it's an irreparable loss for the actor. What do you think? Let us know in the comments below. 

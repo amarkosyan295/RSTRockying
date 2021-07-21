@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>The Modern Indian Inventors: Part II (Indians who show you why being Innovative helps!)</Title>
-  <OGImage>http://www.rockying.com/art/Initiative/Modern-Indian-Inventors-2/Remya-.jpg</OGImage>
+  <MetaTitle>The Modern Indian Inventors: Part II (Indians who show you why being Innovative helps!)</MetaTitle>
+  <OGImage>//rockying.com/art/Initiative/Modern-Indian-Inventors-2/Remya-.jpg</OGImage>
   <OGDescription>We hear about success stories all the time..They not only inspire, they make you stand up, take notice and reconfirm our belief that creativity is not passe.In line with our series of Indian innovators, we bring to you some more...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,22 +13,22 @@
   <Category>14</Category>
   <Tag>Modern Indian Inventors, Innovators of India, Anadish Pal, Ashok Gadgil, Remya Jose, Jahangir Ahmad, Shiva Ayyadurai.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/Initiative/Modern-Indian-Inventors-2/Remya-.jpg' alt='' /&gt;&lt;p&gt;We hear about success stories all the time..They not only inspire, they make you stand up, take notice and reconfirm our belief that creativity is not passe.In line with our series of Indian innovators, we bring to you some more...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/Initiative/Modern-Indian-Inventors-2/Remya-.jpg' alt='' /&gt;&lt;p&gt;We hear about success stories all the time..They not only inspire, they make you stand up, take notice and reconfirm our belief that creativity is not passe.In line with our series of Indian innovators, we bring to you some more...&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
 We hear success stories all the time. These success stories come from various parts of the world, from different cultures, ranging from varied strata of the society. They not only inspire, they make you stand up, take notice and reconfirm our belief that creativity is not passe.
 &lt;/p&gt;
 &lt;p&gt;
-In line with our series of &lt;a href="http://www.rockying.com/a/207"&gt;Indian Inventors&lt;/a&gt;, we bring to you some more innovators who not only made a difference in the field of science technology and creativity but also managed changing the lives of thousands for the better.
+In line with our series of &lt;a href="//rockying.com/a/207"&gt;Indian Inventors&lt;/a&gt;, we bring to you some more innovators who not only made a difference in the field of science technology and creativity but also managed changing the lives of thousands for the better.
 &lt;/p&gt;
 &lt;h3&gt;ANADISH PAL&lt;/h3&gt;
-&lt;img src="http://www.rockying.com/art/Initiative/Modern-Indian-Inventors-2/Anadish-Pal.jpg"&gt;
+&lt;img src="//rockying.com/art/Initiative/Modern-Indian-Inventors-2/Anadish-Pal.jpg"&gt;
 &lt;p&gt;
 When you look at the website of this self taught electronic designer hailing from Bengal; it will leave you agape. Not only does his list of inventions a long one but he seems to be brimming with brilliant ideas. Having dropped out of the prestigious All India Institute of Medical Sciences in 1982; Anadish directed all his energies into prototyping in electronics, something which he claims to be his hobby!
 &lt;/p&gt;
 &lt;p&gt;
 &lt;b&gt;A car smaller than the Nano and more...&lt;/b&gt;His patented inventions include a three dimensional computer mouse, a motor pump alarm, robotic platform, pollution free engine, and an electrical powered personal vehicle (Personal Mobility Vehicle, PMV) which is even smaller than the world's smallest, Tata's Nano car. Have a look at his patented model.
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/Initiative/Modern-Indian-Inventors-2/Anadish-Patent-Design.jpg"&gt;
+&lt;img src="//rockying.com/art/Initiative/Modern-Indian-Inventors-2/Anadish-Patent-Design.jpg"&gt;
 &lt;p&gt;
 As he claims, the PMV that he patented in 2006, can offer a good solution to short distance transportation on congested streets in India, China and Indochina. Especially, in Delhi, it can be used as a personal transport to and from Delhi Metro. This PMV is  a  zero-turning radius vehicle with a very small footprint.
 &lt;/p&gt;
@@ -39,7 +40,7 @@ And it isn’t over. He manages to find time to raise awareness about environmen
 &lt;p&gt;
 &lt;b&gt;The geek from IIT, cliche!&lt;/b&gt;When you are from IIT, Kanpur; people expect big things out of you. Well, Ashok Gadgil just went on to reconfirm that notion. With a M.Sc in Physics from the prestigious Indian Institute of Technology, Kanpur and a  Ph.D. in Physics from the University of California, Berkeley; Ashok Gadgil is changing the way we drink water and cook food!
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/Initiative/Modern-Indian-Inventors-2/Ashok-Gadgil.jpg"&gt;
+&lt;img src="//rockying.com/art/Initiative/Modern-Indian-Inventors-2/Ashok-Gadgil.jpg"&gt;
 &lt;p&gt;
 Among his many inventions, the one that he is best known for UV Waterworks" (an effective and inexpensive water disinfection system), and the Berkeley-Darfur Stove (a low-cost stove for internally displaced persons camps in Darfur, Sudan).
 &lt;/p&gt;
@@ -67,11 +68,11 @@ Currently, Dr. Ashok is Director of the Energy and Environmental Technologies Di
 &lt;p&gt;
 What happens when you have to do the laundry and study for your boards? Well, Remya Jose, from Kerala, went on to score 90%. The girl from South, is making washing clothes in a machine easier, cheaper and healthy!
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/Initiative/Modern-Indian-Inventors-2/Remya-.jpg"&gt;
+&lt;img src="//rockying.com/art/Initiative/Modern-Indian-Inventors-2/Remya-.jpg"&gt;
 &lt;p&gt;
 Remya’s mother fell ill during her board exams; her father was undergoing cancer treatment. As, there was no washing machine at home, she had to do all the chores including the washing.  So instead of just wishing futilely for a washing machine, she decided to go ahead with making one for herself during the vacations.
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/Initiative/Modern-Indian-Inventors-2/pedal-operated-Washing-Machine.jpg"&gt;
+&lt;img src="//rockying.com/art/Initiative/Modern-Indian-Inventors-2/pedal-operated-Washing-Machine.jpg"&gt;
 &lt;p&gt;
 The whole machine costs about 2000 INR to put together and is run mechanically and looks like an exercise cycle. Requiring an around 20 minutes to perform the whole process of soaking, pedaling and draining, this product is making laundry easier for people who cannot afford to get the electrical version. Because it is run mechanically, it is an energy saver and can be used if you are out of electricity. In 2003, her product was patented nationally. In 2005, her innovation was judged the best at the NIF's Third National Grassroots Technological Innovations and Traditional Knowledge competition.
 &lt;/p&gt;
@@ -80,18 +81,18 @@ The whole machine costs about 2000 INR to put together and is run mechanically a
 &lt;p&gt;
 This young man from Anantnag was only 19 when he came up with this brilliant life saver of an idea for painters. After seeing local painters struggling with buckets and brushes while perched on a ladder, Jahangir came up with the idea of an electric painting brush. “The painters looked shabby with paint staining their bodies and clothes, plus dipping the brush again and again into the bucket resulted in the wastage of paint. I pitied them and the idea of devising an Electrical Painting Brush struck my mind”, narrates a proud Jahangir.
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/Initiative/Modern-Indian-Inventors-2/Jahangir-Ahmad.jpg"&gt;
+&lt;img src="//rockying.com/art/Initiative/Modern-Indian-Inventors-2/Jahangir-Ahmad.jpg"&gt;
 &lt;p&gt;
 The product as Jahangir explains it is a motorized device attached to a paint brush with a pipe connecting it with a bucket. The system uses 1 hp motor to pump paint from the bucket directly into the brush. Once the paint travels the pipe and reaches the handle, a distributor splits it into four parts so that the paint is evenly distributed in the bristles. There is a button for regulating the amount of paint flowing into the bristles. When you need more paint to flow in, you just press the button for the boost.
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/Initiative/Modern-Indian-Inventors-2/Jahangir-Ahmad-Pratibha-Patil.jpg"&gt;
+&lt;img src="//rockying.com/art/Initiative/Modern-Indian-Inventors-2/Jahangir-Ahmad-Pratibha-Patil.jpg"&gt;
 &lt;p&gt;
 "The painter will not need to carry a paint bucket while balancing precariously on top of a ladder. He just needs his brush" ,Jahangir said about his invention while receiving an award from the President for his contribution to innovation.
 &lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;SHIVA AYYADURAI&lt;/h3&gt;
 &lt;p&gt;More commonly known as the man who invented EMAIL.&lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/Initiative/Modern-Indian-Inventors-2/VA-Shiva-Ayyadurai.jpg"&gt;
+&lt;img src="//rockying.com/art/Initiative/Modern-Indian-Inventors-2/VA-Shiva-Ayyadurai.jpg"&gt;
 &lt;p&gt;
 Based in USA, this Mumbai born Tamilian developed a full-scale emulation of the interoffice mail system, which he called "EMAIL" and copyrighted in 1982. He did this when he was in high school. He holds four degrees from MIT, is a Fulbright Scholar, Lemelson-MIT Awards Finalist and Westinghouse Science Talent Honors Award recipient.
 &lt;/p&gt;
@@ -110,10 +111,9 @@ Today, VA Shiva, teaches a pioneering new course at MIT called Systems Visualiza
 The thing that binds these innovators, besides their Indian origins, is the fact that they took up simple thing and infused creativity into them. From making painting easier, to cheaper washing machines for all, cleaner drinking water for every, smaller cars to the very addicted and extremely useful e-mail. 
 &lt;/p&gt;
 &lt;h6&gt;These people changed the world and continue to do so, everyday. &lt;/h6&gt;</Text>
-  <SlideShowOn>false</SlideShowOn>
-  <QuestionOn>false</QuestionOn>
   <WriterName>Hajra Khatoon</WriterName>
   <WriterEmail>hajraks@gmail.com</WriterEmail>
   <Viewed>0</Viewed>
-  <Promotion />
+  <TemplateName />
+  <URL>259</URL>
 </Article>

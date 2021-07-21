@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>Itchy Scalp and How to Cure It</Title>
-  <OGImage>http://www.rockying.com/art/health/Itchy-Scalp-Remedies/frustrated-woman.jpg</OGImage>
+  <MetaTitle>Itchy Scalp and How to Cure It</MetaTitle>
+  <OGImage>//rockying.com/art/health/Itchy-Scalp-Remedies/frustrated-woman.jpg</OGImage>
   <OGDescription>If you have had itchy scalp, then you know how irritating the urge to scratch can be-not to mention embarrassing, especially in...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,9 +13,9 @@
   <Category>5</Category>
   <Tag>Itchy Scalp, Home Remedies, Dandruff, Flakes, Itchy Scalp Cure, Nourishing Hair.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/health/Itchy-Scalp-Remedies/frustrated-woman.jpg' alt='' /&gt;&lt;p&gt;If you have had itchy scalp, then you know how irritating the urge to scratch can be-not to mention embarrassing, especially in...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/health/Itchy-Scalp-Remedies/frustrated-woman.jpg' alt='' /&gt;&lt;p&gt;If you have had itchy scalp, then you know how irritating the urge to scratch can be-not to mention embarrassing, especially in...&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
-If you have had itchy scalp, then you know how irritating the urge to scratch can be-not to mention embarrassing, especially in public! &lt;img src="http://www.rockying.com/art/health/Itchy-Scalp-Remedies/Itchy-Scalp.jpg" alt="Itchy-Scalp" class="pull-right" style="margin-left:5px;"/&gt;An &lt;a href="http://www.localhealth.com/article/itchy-scalp"&gt;itchy scalp&lt;/a&gt; can also be harmful in the long run, especially if the underlying problems worsen over time.
+If you have had itchy scalp, then you know how irritating the urge to scratch can be-not to mention embarrassing, especially in public! &lt;img src="//rockying.com/art/health/Itchy-Scalp-Remedies/Itchy-Scalp.jpg" alt="Itchy-Scalp" class="pull-right" style="margin-left:5px;"/&gt;An &lt;a href="http://www.localhealth.com/article/itchy-scalp"&gt;itchy scalp&lt;/a&gt; can also be harmful in the long run, especially if the underlying problems worsen over time.
 &lt;/p&gt;
 &lt;p&gt;
 Unless caused by lice which are relatively easily eliminated, &lt;a href="http://edition.cnn.com/2010/HEALTH/expert.q.a/10/25/itchy.scalp.shu/"&gt;itchy scalps&lt;/a&gt; often show no other obvious signs. Before picking an adequate course of action, it is important to understand what could be causing the trouble. A few possible underlying conditions that could cause an itchy scalp are &lt;b&gt;&lt;a href="http://www.betterhealth.vic.gov.au/bhcv2/bhcarticles.nsf/pages/Dandruff_and_itching_scalp"&gt;dandruff&lt;/a&gt; &lt;/b&gt;(characterized by fine or large flakes on the scalp), &lt;b&gt;psoriasis&lt;/b&gt; (uneven patches of dry scaly skin, likely to appear elsewhere on the body as well) or &lt;b&gt;seborrhoeic dermatitis&lt;/b&gt;(red itchy scales, often caused by allergies or immuno-deficiencies). 
@@ -26,12 +27,12 @@ Unless any of these are extremely severe, there are no medications required. In 
 &lt;p&gt;
 In medium to severe cases, get a consult on your scalp health, especially if there are visible signs of infection such as sores or severe scaling despite a good cleansing routine. This will let you assess the need for topical treatments and act accordingly. Incorporating a few drops of tea tree oil in your shampoo can be extremely helpful for treating fungal causes. In addition, remove other factors such as stress, pollution, etc., to some extent by taking time out for yourself.
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/health/Itchy-Scalp-Remedies/Oil-Hair.jpg" alt="Oiling-Hair-for-Itchiness" class="pull-left" style="margin-right:5px;"/&gt;&lt;h4&gt;Cleansing your Scalp:&lt;/h4&gt;
+&lt;img src="//rockying.com/art/health/Itchy-Scalp-Remedies/Oil-Hair.jpg" alt="Oiling-Hair-for-Itchiness" class="pull-left" style="margin-right:5px;"/&gt;&lt;h4&gt;Cleansing your Scalp:&lt;/h4&gt;
 &lt;p&gt;
 While we tend to focus too much on symptomatic treatment these days, it is equally important to treat our bodies as a whole as worthy of care.  To cleanse your scalp, incorporate ingredients such as apple cider, lemon juice, baking soda, witch hazel and tea tree oil into your daily regimen. Leave small quantities of these in your hair before washing for an extremely clean scalp. For those with dry skin, mix these in oils of coconut, sesame or olive for great volume and soft hair. Washing with &lt;i&gt;neem&lt;/i&gt; powder is also an effective remedy for itching. Remember to drink lots of water through the day to help flush out toxins.
 &lt;/p&gt;
 &lt;br&gt;
-&lt;img src="http://www.rockying.com/art/health/Itchy-Scalp-Remedies/Healthy-Hair-Diet.jpg" alt="Healthy-Hair-Diet" class="pull-right" style="margin-left:5px;"/&gt; 
+&lt;img src="//rockying.com/art/health/Itchy-Scalp-Remedies/Healthy-Hair-Diet.jpg" alt="Healthy-Hair-Diet" class="pull-right" style="margin-left:5px;"/&gt; 
 &lt;h4&gt;Nourishing your Hair and Body:&lt;/h4&gt;
 &lt;p&gt;
 However many conditioners and serums you use, none protect the hair and scalp like regular oiling does.Try to condition your hair with oils of coconut, sesame or olive at least once a week. You could even use ripe bananas, avocados and aloe-Vera gel for conditioning. Add a few drops of tea tree oil or &lt;i&gt;neem&lt;/i&gt; oil to your chosen conditioner for immediate relief from itching. In addition to these remedies, make sure you eat lots of greens in your diet as mineral deficiencies make scalp problems worse. You could also eat a few leaves of &lt;i&gt;neem&lt;/i&gt; first thing in the morning to help eradicate scalp and skin infections!
@@ -39,10 +40,9 @@ However many conditioners and serums you use, none protect the hair and scalp li
 &lt;p&gt;
 All you need to treat an itchy scalp is some patience, and to ensure that you follow our three step routine: eliminate, cleanse, nourish. Do this and not only will your itchy troubles go away, you will also be blessed with lovely and strong tresses for a long time to come!
 &lt;/p&gt;</Text>
-  <SlideShowOn>false</SlideShowOn>
-  <QuestionOn>false</QuestionOn>
   <WriterName>Bhuvi Gupta</WriterName>
   <WriterEmail>gupta.bhuvi@gmail.com</WriterEmail>
   <Viewed>0</Viewed>
-  <Promotion />
+  <TemplateName />
+  <URL>278</URL>
 </Article>

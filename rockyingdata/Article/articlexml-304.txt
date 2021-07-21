@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>Worst Bollywood Directors Ever; Famous Film Technicians that Turned-out to be the Worst Hindi Filmmakers of All Time</Title>
-  <OGImage>http://www.rockying.com/art/bollywood/Worst-Bollywood-Directors/Subhash-Ghai.jpg</OGImage>
+  <MetaTitle>Worst Bollywood Directors Ever; Famous Film Technicians that Turned-out to be the Worst Hindi Filmmakers of All Time</MetaTitle>
+  <OGImage>//rockying.com/art/bollywood/Worst-Bollywood-Directors/Subhash-Ghai.jpg</OGImage>
   <OGDescription>Why? Why do we let them do that, over and over again? Does that make sense? Have we not had...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,14 +13,14 @@
   <Category>4</Category>
   <Tag>Bollywood, Directors, Films, Film Directors, Hindi Films, Hindi Filmmakers, Direction.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Worst-Bollywood-Directors/Subhash-Ghai.jpg' alt='' /&gt;&lt;p&gt;Why? Why do we let them do that, over and over again? Does that make sense? Have we not had...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/bollywood/Worst-Bollywood-Directors/Subhash-Ghai.jpg' alt='' /&gt;&lt;p&gt;Why? Why do we let them do that, over and over again? Does that make sense? Have we not had...&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
 All right, before I let the hate out, let me make it very clear that this list is an extremely personal rant and nobody except me endorses it. I might appear kinda sick to loathe these people but they wasted a lot of our times and young energy and after you are done reading this, I hope you begin to feel me. This article will talk about famous film technicians who, when became directors either flopped at their first or kept making shitty films one after another despite having to save their previous image. Some of the films these directors made may have been cinematically (Lights-Camera-Action!) great but were definitely the most regressive stories of all time. These directors are the &lt;b&gt;&lt;i&gt;Ekta Kapoors&lt;/i&gt;&lt;/b&gt; of the film industry, collectively responsible for making us retards over the years. If it wasn't for these people, we'd be way ahead in cinema and society. So, let's avenge these people, now!
 &lt;/p&gt;
  &lt;hr&gt;
     &lt;h4&gt;1. SATISH KAUSHIK &lt;/h4&gt;
  &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Worst-Bollywood-Directors/Satish-Kaushik.jpg" alt="Satish Kaushik" title="Satish Kaushik"&gt;
+&lt;img src="//rockying.com/art/bollywood/Worst-Bollywood-Directors/Satish-Kaushik.jpg" alt="Satish Kaushik" title="Satish Kaushik"&gt;
 &lt;hr&gt;
 &lt;p&gt; 
 He was adorable as Calendar in Mr. India and so many other characters in so-so many hilarious comedies along with Govinda and other great actors. We loved the actor. Right? Why did he start making films then? Starting with &lt;i&gt;&lt;b&gt;Roop Ki Rani Choron Ka Raja&lt;/b&gt; &lt;/i&gt; which was a major flop, by the way, he moved on to make more and more stupid cinema for another 20 years. He not only directed but was part of most of his films- (which is ironic because the parts he played were actually good) the copy-pasted &lt;i&gt;&lt;b&gt;Hum Aapke Dil Mein Rehte Hain &lt;/b&gt;&lt;/i&gt;(1999), Aishwarya's dullest film &lt;i&gt;&lt;b&gt;Hamara Dil Aapke Paas Hain &lt;/b&gt;(2000)&lt;/i&gt;, Tushar Kapoor's stupid debut &lt;i&gt;&lt;b&gt;Mujhe Kucch Kehna Hai &lt;/b&gt;&lt;/i&gt;(2001), the loud and more stupid family drama &lt;i&gt;&lt;b&gt;Badhaai Ho Badhaai&lt;/b&gt;&lt;/i&gt;,  Himesh Reshammiya's debut &lt;i&gt;&lt;b&gt;Karzzzz&lt;/b&gt;&lt;/i&gt;, &lt;b&gt;Milenge-Milenge&lt;/b&gt; (2010), the stupidest kids' love story where a 15-year old gets pregnant, &lt;i&gt;&lt;b&gt;Teree Sang&lt;/b&gt;&lt;/i&gt;(2009) and the latest not funny at all, horror-comedy with a huge cast, &lt;i&gt; &lt;b&gt;Gang of Ghosts &lt;/b&gt;&lt;/i&gt;(2014). Why, Satish Ji, Why? 
@@ -27,7 +28,7 @@ He was adorable as Calendar in Mr. India and so many other characters in so-so m
  &lt;hr&gt;
     &lt;h4&gt;2. SUBHASH GHAI&lt;/h4&gt;
  &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Worst-Bollywood-Directors/Subhash-Ghai1.jpg" alt="Subhash Ghai" title="Subhash Ghai"&gt;
+&lt;img src="//rockying.com/art/bollywood/Worst-Bollywood-Directors/Subhash-Ghai1.jpg" alt="Subhash Ghai" title="Subhash Ghai"&gt;
 &lt;hr&gt;
 &lt;p&gt; 
 Did you know Subhash Ghai started his career as an actor? Later on, he took up direction and years later I don't know who gave him this part 2 of a title called "Showman" earlier supposed to be nomenclature-d for Raj Kapoor. The terrible film-maker has so much disgusting cinema to his credit that you begin to wonder, why, why all the recognition? I mean films like &lt;i&gt;&lt;b&gt;Krodhi &lt;/b&gt;(1981), &lt;b&gt;Vidhaata&lt;/b&gt; (1982), &lt;b&gt;Hero &lt;/b&gt;(1983), &lt;b&gt;Ram Lakhan&lt;/b&gt; (1989), &lt;b&gt;Saudagar&lt;/b&gt; (1991), &lt;b&gt;Khalnayak&lt;/b&gt; (1993), &lt;b&gt;Taal&lt;/b&gt; (1999), &lt;b&gt;Yaadein&lt;/b&gt; (2001), &lt;b&gt;Kisna &lt;/b&gt;(2005), &lt;b&gt;Yuvvraaj &lt;/b&gt;(2008)&lt;/i&gt; and the latest joke &lt;i&gt;&lt;b&gt;Kaanchi &lt;/b&gt;&lt;/i&gt;(2014), spanning over a career of over 4 decades, really? Why? We let him do that, over and over again? Does that make sense? The only good films, I believe, he was associated with were &lt;i&gt;&lt;b&gt;Iqbal &lt;/b&gt;(2005) and &lt;b&gt;Joggers' Park &lt;/b&gt;(2003) &lt;/i&gt;and well he only produced them. Okay, &lt;i&gt;&lt;b&gt;Pardes&lt;/b&gt;&lt;/i&gt; wasn't so bad but great? Naaah! &lt;i&gt; Ganga&lt;/i&gt; can now go, rock &lt;i&gt;Pardes&lt;/i&gt; ;) 
@@ -35,7 +36,7 @@ Did you know Subhash Ghai started his career as an actor? Later on, he took up d
 &lt;hr&gt;
     &lt;h4&gt;3. PANKAJ KAPOOR&lt;/h4&gt;
  &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Worst-Bollywood-Directors/Pankaj-Kapoor.jpg" alt="Pankaj Kapoor" title="Pankaj Kapoor"&gt;
+&lt;img src="//rockying.com/art/bollywood/Worst-Bollywood-Directors/Pankaj-Kapoor.jpg" alt="Pankaj Kapoor" title="Pankaj Kapoor"&gt;
 &lt;hr&gt;
 &lt;p&gt; 
 He is and will always be one of the most iconic actors of the Hindi Film and T.V. industry. Who can forget television like &lt;i&gt;&lt;b&gt;Karamchand &lt;/b&gt;(1985)&lt;/i&gt;,&lt;i&gt; &lt;b&gt;Neem Ka Ped &lt;/b&gt;(1991)&lt;/i&gt;, &lt;i&gt;&lt;b&gt;Zabaan Samhaal Ke&lt;/b&gt; (1993)&lt;/i&gt;, &lt;i&gt;&lt;b&gt;Office-Office&lt;/i&gt;&lt;/b&gt; (2000) and even recent films like &lt;i&gt;&lt;b&gt;Dus, Maqbool&lt;/b&gt;&lt;/i&gt; and &lt;i&gt;&lt;b&gt;Chala Musaddi Office Office&lt;/b&gt;&lt;/i&gt;, not to mention all of the remarkable cinema he did in the 80s until now? His characters have been around forever. He made his debut at directing in 1998 with &lt;i&gt;&lt;b&gt;Mohandas B.A.L.L.B.&lt;/b&gt;&lt;/i&gt; trying to replicate the success of &lt;i&gt;&lt;b&gt;Karamchand&lt;/b&gt;&lt;/i&gt; but failed miserably. Not realizing the fate of his directorial work, in 2010 Kapoor decided to make &lt;i&gt;&lt;b&gt;Mausam&lt;/b&gt;&lt;/i&gt; starring son Shahid Kapoor and Sonam Kapoor. And all of you who have watched the disaster, now know why Pankaj Kapoor never directed another film till date. 
@@ -43,7 +44,7 @@ He is and will always be one of the most iconic actors of the Hindi Film and T.V
  &lt;hr&gt;
     &lt;h4&gt; 4. DEV ANAND&lt;/h4&gt;
  &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Worst-Bollywood-Directors/Dev-Anand.jpg" alt="Dev Anand" title="Dev Anand"&gt;
+&lt;img src="//rockying.com/art/bollywood/Worst-Bollywood-Directors/Dev-Anand.jpg" alt="Dev Anand" title="Dev Anand"&gt;
 &lt;hr&gt;
 &lt;p&gt; 
 Dev Saab was the greatest film icon, not only in India but in all the world. He acted in some of the greatest films made from the 1940s until recently. But his directorial work is just a shame. Movies he directed before the 80s were bad. I mean just badly directed! I say that because the subjects he chose to direct may have been relevant back then, so no complaints. But his work after the 80s was nothing short of torturous. He made terrible flops like &lt;b&gt;Lootmaar &lt;/b&gt;(1980), &lt;b&gt;Swami Dada&lt;/b&gt; (1982), &lt;b&gt;Anand Aur Anand&lt;/b&gt; (1984), &lt;b&gt;Hum Naujawan&lt;/b&gt; (1985), &lt;b&gt;Sachché Ká Bol-Bálá &lt;/b&gt;(1989), the Aamir Khan starrer &lt;b&gt;Awwal Number &lt;/b&gt;(1990), &lt;b&gt;Sau Crore &lt;/b&gt;(1991), &lt;b&gt;Pyaar Ka Tarana&lt;/b&gt; (1993), &lt;b&gt;Gangster &lt;/b&gt;(1994), &lt;b&gt;Main Solah Baras Ki &lt;/b&gt;(1998), &lt;b&gt;Censor&lt;/b&gt; (2001), &lt;b&gt;Love at Times Square &lt;/b&gt;(2003), &lt;b&gt;Mr. Prime Minister&lt;/b&gt; (2005) and his latest &lt;b&gt;Chargesheet &lt;/b&gt;(2011) which was said to be loosely based on the life and death of actress Divya Bharti. And this is just post-80s, the list is endless and I wouldn't even want to begin talking of the movies prior to that. It is almost unbelievable that an actor of that stature, who also happens to be Vijay Anand's (one of the greatest directors of all time) brother, directed so many bad films.  
@@ -51,7 +52,7 @@ Dev Saab was the greatest film icon, not only in India but in all the world. He 
 &lt;hr&gt;
     &lt;h4&gt; 5. KISHORE KUMAR&lt;/h4&gt;
  &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Worst-Bollywood-Directors/Kishore-Kumar.jpg" alt="Kishore Kumar" title="Kishore Kumar"&gt;
+&lt;img src="//rockying.com/art/bollywood/Worst-Bollywood-Directors/Kishore-Kumar.jpg" alt="Kishore Kumar" title="Kishore Kumar"&gt;
 &lt;hr&gt;
 &lt;p&gt; 
 We all know what a great singer and musician this man was. I mean he sang for 1,198 films which came to a total of 2678 Hindi songs including his released and unreleased ones. GREAT! Right? Then why the acting and direction? I guess all movie people who have made a shit load of money just wanna do this once in their lives or something? But twice, thrice...? Kishore Kumar produced and directed movies in the late 70s and early 80s: &lt;b&gt;Pyar Zindagi Hai, Badhti Ka Naam Dadhi&lt;/b&gt; (1978), &lt;b&gt;Sabaash Daddy&lt;/b&gt;, &lt;b&gt;Zindagi &lt;/b&gt;(1981) and &lt;b&gt;Door Wadiyon Mein Kahin &lt;/b&gt;(1980)—his last appearance as an actor. All of these movies were flops and were just terrible. Don't believe me? Watch them and find out. The only explanation? With that kind of a great music career, I guess he had nothing to lose. 
@@ -60,7 +61,7 @@ We all know what a great singer and musician this man was. I mean he sang for 1,
 &lt;hr&gt;
     &lt;h4&gt; 6. FARAH KHAN&lt;/h4&gt;
  &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Worst-Bollywood-Directors/Farah-Khan.jpg"alt="Farah Khan" title="Farah Khan"&gt;
+&lt;img src="//rockying.com/art/bollywood/Worst-Bollywood-Directors/Farah-Khan.jpg"alt="Farah Khan" title="Farah Khan"&gt;
 &lt;hr&gt;
 &lt;p&gt; 
 &lt;i&gt;&lt;b&gt;Pehla Nasha, Pehla Khumaar&lt;/b&gt;...&lt;/i&gt; that's how refreshing her choreography was, for the Indian film industry. In the 90s she became THE name in film choreography, alongside Saroj Khan, and she earned it. Just look at the dance sequences she has designed. Just wow! Then I'm guessing money happened and she had to direct, not dances but movies altogether. So she decided to make &lt;i&gt;&lt;b&gt;Main Hoon Na&lt;/b&gt; (2004)&lt;/i&gt;, stupid and senseless but not bad for a first attempt. She does not stop here. The torture intensifies with &lt;i&gt;&lt;b&gt;Om Shanti Om&lt;/b&gt; (2007)&lt;/i&gt; and then the deadly &lt;i&gt;&lt;b&gt;Tees Mar Khan &lt;/b&gt;(2010)&lt;/i&gt;. She goes on to produce husband Shirish Kunder's &lt;i&gt;&lt;b&gt;Joker&lt;/b&gt; (2012)&lt;/i&gt; and then the final nail in the coffin, the biggest disaster of the century: &lt;i&gt;&lt;b&gt;Happy New Year &lt;/b&gt;(2014). Farah ji&lt;/i&gt;, no more directing, please! Let's get those moves back! Yo! 
@@ -68,7 +69,7 @@ We all know what a great singer and musician this man was. I mean he sang for 1,
 &lt;hr&gt;
     &lt;h4&gt; 7. SAJID KHAN &lt;/h4&gt;
  &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Worst-Bollywood-Directors/Sajid-Khan.jpg" alt="Sajid Khan" title="Sajid Khan"&gt;
+&lt;img src="//rockying.com/art/bollywood/Worst-Bollywood-Directors/Sajid-Khan.jpg" alt="Sajid Khan" title="Sajid Khan"&gt;
 &lt;hr&gt;
 &lt;p&gt; 
 He was one of the most hilarious entertainers we saw on television in the 90s. His superb shows &lt;i&gt;Ikke Pe Ikka (musical countdown show host)&lt;/i&gt;, the hilarious &lt;i&gt;Kehne Me Kya harj Hai&lt;/i&gt; (triple role) and the stand-up Sajid No.1 were milestones for television humour back then. And then the man grew up and left his humour behind. Became stupid and began believing that &lt;i&gt;"Darna Zaruri Hai"&lt;/i&gt;(pun intended). All of his work post that just stopped making sense. You could still bear with &lt;i&gt;&lt;b&gt;Heyy Babyy &lt;/b&gt;(2007)&lt;/i&gt; but all of the &lt;i&gt;&lt;b&gt;Housefulls, Himmatwalas and Humshakals&lt;/b&gt;&lt;/i&gt;. Let's not even talk about these. And Sajid? Just that the mutually inspired directorial career for the brother-sister duo has kinda ended now. Yes! Let's hope so! 
@@ -77,7 +78,7 @@ He was one of the most hilarious entertainers we saw on television in the 90s. H
 &lt;hr&gt;
 &lt;h4&gt; 8. PRABHU DEVA&lt;/h4&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Worst-Bollywood-Directors/Prabhudeva.jpg" alt="Prabhudeva" title="Prabhudeva"&gt;
+&lt;img src="//rockying.com/art/bollywood/Worst-Bollywood-Directors/Prabhudeva.jpg" alt="Prabhudeva" title="Prabhudeva"&gt;
 &lt;hr&gt;
 &lt;p&gt; 
 He is India's &lt;i&gt;Michael Jackson&lt;/i&gt;. He has acted in hundreds of Tamil, Telugu, Malayalam, Kannada and Hindi films. After starting off with private albums and cameo appearances in songs, Prabhu got his first big break in 1994 and he hasn't looked back. After tasting tremendous success in his acting career Deva decided to direct in 2005 with a Telugu film, &lt;i&gt;&lt;b&gt;Wanted&lt;/b&gt;&lt;/i&gt; being his Hindi directorial debut. And then came &lt;i&gt;&lt;b&gt;Rowdy Rathore, Ramaiya Vastavaiya &lt;/b&gt;(2013), &lt;b&gt;R... Rajkumar &lt;/b&gt;(2013), &lt;b&gt;Action Jackson&lt;/b&gt; (2014) and &lt;b&gt;Singh is Bling&lt;/b&gt; (2015)&lt;/i&gt;. All disasters. Do you know he is all set to release &lt;i&gt;&lt;b&gt;Dabangg 3 &lt;/b&gt;&lt;/i&gt;in 2019? I wonder if these South Indian-Hindi movie directors even know what happens to their films after release in the north? I guess if "Bhaai" is in a movie, its a hit already. Right? 
@@ -85,7 +86,7 @@ He is India's &lt;i&gt;Michael Jackson&lt;/i&gt;. He has acted in hundreds of Ta
 &lt;hr&gt;
     &lt;h4&gt; 9. SOORAJ BARJATYA&lt;/h4&gt;
  &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Worst-Bollywood-Directors/Sooraj-Barjatya.jpg" alt="Sooraj Barjatya" title="Sooraj Barjatya"&gt;
+&lt;img src="//rockying.com/art/bollywood/Worst-Bollywood-Directors/Sooraj-Barjatya.jpg" alt="Sooraj Barjatya" title="Sooraj Barjatya"&gt;
 &lt;hr&gt;
 &lt;p&gt; 
 Rajshri Productions have been the trademark of &lt;i&gt;Sanskaar&lt;/i&gt; in the country since 1947. They have made family dramas since when we can possibly remember. It's not that they didn't try to experiment but, when they did go astray, the audience shunned them. It was like they couldn't do anything else. And they chose to stick to the verdict of their target audiences, the &lt;i&gt;gharelu &lt;/i&gt;one. And their latest torchbearer, Mr. Sooraj Barjatya stuck to the genre and started off with &lt;i&gt;&lt;b&gt;Maine Pyaar Kiya&lt;/b&gt;&lt;/i&gt;(1989) which was different and worked well but really was a lot of stupid. I mean a foreign return, MBA, starts working at a construction site, as a fourth class labour, in order to get the girl? Well! He went ahead and made &lt;i&gt;&lt;b&gt;Hum Apke Hain Koun? &lt;/b&gt;&lt;/i&gt;(1994) and &lt;i&gt;&lt;b&gt;Hum Saath-Saath Hain &lt;/b&gt;&lt;/i&gt;(1999) which are still considered the most successful Indian films of all time but they too were more drama and stupid. And then this guy lost his relevance and made &lt;b&gt;&lt;i&gt;Main Prem Ki Diwani Hoon&lt;/i&gt;&lt;/b&gt; (2003) {the stupidest movie of all time}, Vivah (2006), and the latest formula number &lt;b&gt;&lt;i&gt;Prem Ratan Dhan Payo&lt;/i&gt;&lt;/b&gt;(2015). He also produced the blunder of a movie called &lt;i&gt;&lt;b&gt;Ek Vivaah Aisa Bhi &lt;/b&gt;&lt;/i&gt;(2008). Is this "formula film-making" ever going to end? Whatever happened to story-telling? 

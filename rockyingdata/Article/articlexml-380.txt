@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>पीड़ादायक माइग्रेन: कारण और प्राकृतिक इलाज</Title>
-  <OGImage>http://www.rockying.com/art/health/Home-made-Remedies/Cow-Ghee.jpg</OGImage>
+  <MetaTitle>पीड़ादायक माइग्रेन: कारण और प्राकृतिक इलाज</MetaTitle>
+  <OGImage>//rockying.com/art/health/Home-made-Remedies/Cow-Ghee.jpg</OGImage>
   <OGDescription>Put an end to painful migraine with these home...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,9 +13,9 @@
   <Category>5</Category>
   <Tag>आधे सर का दर्द, आधासीसी, माइग्रेन, लक्षण और कारण, Naturral Remedies.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/health/Home-made-Remedies/Cow-Ghee.jpg' alt='' /&gt;&lt;p&gt;Put an end to painful migraine with these home...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/health/Home-made-Remedies/Cow-Ghee.jpg' alt='' /&gt;&lt;p&gt;Put an end to painful migraine with these home...&lt;/p&gt;</Description>
   <Text>&lt;h2&gt;आधे सर का दर्द (आधासीसी या माइग्रेन) : लक्षण और कारण &lt;/h2&gt;
-&lt;img src="http://www.rockying.com/art/health/Home-made-Remedies/Hasta-Mudra-for-Migraine.jpg" alt="Hasta Mudra Yog for Migraine" title="हस्त-मुद्रा का योग माइग्रेन" class="pull-right" style="padding-left:10px;"&gt;
+&lt;img src="//rockying.com/art/health/Home-made-Remedies/Hasta-Mudra-for-Migraine.jpg" alt="Hasta Mudra Yog for Migraine" title="हस्त-मुद्रा का योग माइग्रेन" class="pull-right" style="padding-left:10px;"&gt;
 &lt;p&gt;
 आधे सर के दर्द से जो पीड़ित है वही जान सकता है कि इसमें कितनी तकलीफ़ होती है। सर के किसी एक भाग में तेज़ दर्द के साथ आँखों के आगे धुंधला दिखना, कभी-कभी उलटी आना या पेट खराब होना भी इस बीमारी के लक्षण हैं। इस दर्द से प्रभावित व्यक्ति जैसे असहाय हो जाता है और किसी भी कार्य पर ध्यान नहीं दे पाता यहाँ तक की उसकी सामान दिनचर्या भी बाधित हो जाती है । डॉक्टर कई दवाएं लिख देते हैं जिनसे समय पर आराम तो मिल जाता है पर जड़ से ये बीमारी ख़त्म नहीं हो पाती। अगर थोड़ा धैर्य रख कर हम अपनी जीवन शैली पर ध्यान देते हुए  कुछ प्राकृतिक इलाज करें तो संभव है की ये दर्द जड़ से जा सकता है।  
 &lt;p&gt;
@@ -24,13 +25,13 @@
 &lt;h3&gt;(आधासीसी या माइग्रेन ) उपाय:&lt;/h3&gt;  
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;गाय का ताज़ा घी सुबह-शाम दो-चार बूँद नाक में रुई से टपकाने या सूंघते रहने से आधे सर का दर्द जड़ से ख़त्म होने लगता है।  साथ ही इससे नाक से खून आने की समस्या से भी आराम मिल जाता है। सात दिन तक ये उपाय करने के बाद असर दिखना शुरू हो जाएगा।  &lt;/p&gt;&lt;/li&gt;
-&lt;img src="http://www.rockying.com/art/health/Home-made-Remedies/Cow-Ghee.jpg" alt="Cow Ghee" title="गाय का ताज़ा घी"&gt; 
+&lt;img src="//rockying.com/art/health/Home-made-Remedies/Cow-Ghee.jpg" alt="Cow Ghee" title="गाय का ताज़ा घी"&gt; 
 &lt;hr&gt;
 
 &lt;li&gt;&lt;p&gt;सर के जिस तरफ के भाग में दर्द हो उस तरफ के नथुने (नाक का छेद ) में 7-8 बूँद सरसों का तेल डालने या सूंघने से दर्द एक दम बंद हो जाता है। 4-5 दिन तक, दिन में 2-3 बार इसी तरह सूंघने से दर्द हमेशा के लिए मिट जाता है। &lt;/p&gt;&lt;/li&gt;
 &lt;hr&gt;
 
-&lt;img src="http://www.rockying.com/art/health/Home-made-Remedies/Mustard-Oil-Sarson-Ka-Tel.jpg" alt="Mustard Oil" title="सरसों का तेल"&gt;
+&lt;img src="//rockying.com/art/health/Home-made-Remedies/Mustard-Oil-Sarson-Ka-Tel.jpg" alt="Mustard Oil" title="सरसों का तेल"&gt;
 &lt;/ol&gt; 
 &lt;p&gt;
 हस्त-मुद्रा का योग भी कई लोगों का मानना है कि माइग्रेन में आराम देह साबित होता है। ऊपर की तस्वीर में दिखाई गई हस्त मुद्रा को दोनों हाथों से, योग/व्यायाम में शामिल करके, नियमतः करके देखिये । पीड़ादायक माइग्रेन समय पर सिर्फ़ दवा न खाकर बल्कि जड़ से नष्ट करने का प्रयास कीजिये। 

@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>Staying Ahead of the YOGAme</Title>
-  <OGImage>http://www.rockying.com/art/health/Yoga-me/yoga-extreme-sport.jpg</OGImage>
+  <MetaTitle>Staying Ahead of the YOGAme</MetaTitle>
+  <OGImage>//rockying.com/art/health/Yoga-me/yoga-extreme-sport.jpg</OGImage>
   <OGDescription>The Millennials will fret and fume even as they lug around their ...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,9 +13,9 @@
   <Category>5</Category>
   <Tag>Yoga, Pranayam, Asanas, Health, Fitness,</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/health/Yoga-me/yoga-extreme-sport.jpg' alt='' /&gt;&lt;p&gt;The Millennials will fret and fume even as they lug around their ...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/health/Yoga-me/yoga-extreme-sport.jpg' alt='' /&gt;&lt;p&gt;The Millennials will fret and fume even as they lug around their ...&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
-&lt;img src="http://www.rockying.com/art/health/Yoga-me/yoga-extreme-sport.jpg" alt="Yoga Cartoon" title="Yoga Extreme Sport?" class="pull-right"&gt;
+&lt;img src="//rockying.com/art/health/Yoga-me/yoga-extreme-sport.jpg" alt="Yoga Cartoon" title="Yoga Extreme Sport?" class="pull-right"&gt;
 The Millennials will fret and fume even as they lug around their snazzy and jazzy smart-glasses, watches and phones and then one fine day, enlightenment strikes and they realize that it was all phony. 
 &lt;/p&gt;
 &lt;p&gt;
@@ -56,4 +57,5 @@ Yoga will iron out those layers of lard and unless you decide to pile on a tub-f
   <WriterEmail>preeti@rockying.com</WriterEmail>
   <Viewed>0</Viewed>
   <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>300</URL>
 </Article>

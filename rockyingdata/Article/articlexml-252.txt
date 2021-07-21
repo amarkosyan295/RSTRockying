@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>The Great Indian 'Oscar' Tamasha!</Title>
-  <OGImage>http://www.rockying.com/art/bollywood/India-Failed-Oscar-Entries/barfi-move-scene.jpg</OGImage>
+  <MetaTitle>The Great Indian 'Oscar' Tamasha!</MetaTitle>
+  <OGImage>//rockying.com/art/bollywood/India-Failed-Oscar-Entries/barfi-move-scene.jpg</OGImage>
   <OGDescription>It is more than 55 years since our films started going to the Oscars to compete in the Best Foreign Language Film category, but the wait for the coveted statue is still not over. In fact, only three of our films have ever been nominated...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,16 +13,16 @@
   <Category>4</Category>
   <Tag>Oscars, India at Oscars, Jeans, Paheli, Barfi, Eklavya, Devdas.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/bollywood/India-Failed-Oscar-Entries/barfi-move-scene.jpg' alt='' /&gt;&lt;p&gt;It is more than 55 years since our films started going to the Oscars to compete in the Best Foreign Language Film category, but the wait for the coveted statue is still not over. In fact, only three of our films have ever been nominated...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/bollywood/India-Failed-Oscar-Entries/barfi-move-scene.jpg' alt='' /&gt;&lt;p&gt;It is more than 55 years since our films started going to the Oscars to compete in the Best Foreign Language Film category, but the wait for the coveted statue is still not over. In fact, only three of our films have ever been nominated...&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
-    The Oscar award given by the US Academy of Motion Picture Arts and Sciences every year,has eluded movies created in the largest movie industry in the world; apna own Bollywood. It is more than 55 years since our films started going to the Oscars to compete in the Best Foreign Language Film category, but the wait for the coveted statue is still not over. In fact, only three of our films have ever been nominated in this category; which are &lt;b&gt;Mother India (1956), Salaam Bombay (1989) and Lagaan (2001)&lt;/b&gt;. Usually, our hopes for an Oscar are dashed because of the bizarre choices we make while selecting our entries. &lt;a href="http://www.rockying.com/" target="_blank/"&gt;Rockying&lt;/a&gt; takes you through the most talked about Bollywood films which have been criticized for its entry to Oscars.
+    The Oscar award given by the US Academy of Motion Picture Arts and Sciences every year,has eluded movies created in the largest movie industry in the world; apna own Bollywood. It is more than 55 years since our films started going to the Oscars to compete in the Best Foreign Language Film category, but the wait for the coveted statue is still not over. In fact, only three of our films have ever been nominated in this category; which are &lt;b&gt;Mother India (1956), Salaam Bombay (1989) and Lagaan (2001)&lt;/b&gt;. Usually, our hopes for an Oscar are dashed because of the bizarre choices we make while selecting our entries. &lt;a href="//rockying.com/" target="_blank/"&gt;Rockying&lt;/a&gt; takes you through the most talked about Bollywood films which have been criticized for its entry to Oscars.
 &lt;/p&gt;
 &lt;hr&gt;
         &lt;h4&gt;
            JEANS (1998)
         &lt;/h4&gt;
 &lt;hr&gt;
-        &lt;img src="http://www.rockying.com/art/bollywood/India-Failed-Oscar-Entries/Jeans-Movie.jpg"
+        &lt;img src="//rockying.com/art/bollywood/India-Failed-Oscar-Entries/Jeans-Movie.jpg"
             alt="Jeans"/&gt;
         &lt;p&gt;
            This figures at the top of our list not only because it left everyone bewildered and surprised but also because its selection was nothing short of a joke. It was Aishwarya Rai’s second Tamil film and the most expensive one made during that time. Jeans was a commercial hit in the south because of which it was dubbed in Hindi later in 1999 but remained a flop and never truly deserved the right to go to Oscars. &lt;b&gt;Satya&lt;/b&gt;, one of the finest movies made by Ram Gopal Varma was released in the same year but it was left behind in the race to the Oscars.&lt;/p&gt;
@@ -31,7 +32,7 @@
             DEVDAS (2002)
         &lt;/h4&gt;
 &lt;hr&gt;
-        &lt;img src="http://www.rockying.com/art/bollywood/India-Failed-Oscar-Entries/madhuri-and-sharukh-in-devdas.jpg"
+        &lt;img src="//rockying.com/art/bollywood/India-Failed-Oscar-Entries/madhuri-and-sharukh-in-devdas.jpg"
             alt="Devdas" /&gt;
         &lt;p&gt;
             Next is the blockbuster made in 2002 by Sanjay Leela Bhansali. The remake of the old classic was a movie full of richness, class and opulence. However,Devdas’ selection created a controversy for being given preference over Mani Ratnam's soulful cinematic gem &lt;b&gt;Kannathil Muthammitaal&lt;/b&gt;. Though the Tamil masterpiece, which was sent against the backdrop of the Sri Lankan crisis, went on to win a National Award, it surprisingly failed to impress the jurists for an Oscar entry. The entry highlighted the lobbying done for Bollywood movies and raised accusations for keeping regional films at bay. 
@@ -40,7 +41,7 @@
         &lt;h4&gt;
           PAHELI (2005)&lt;/h4&gt;
 &lt;hr&gt;
-        &lt;img src="http://www.rockying.com/art/bollywood/India-Failed-Oscar-Entries/Paheli-Still.jpg"
+        &lt;img src="//rockying.com/art/bollywood/India-Failed-Oscar-Entries/Paheli-Still.jpg"
             alt="Paheli" /&gt;
         &lt;p&gt;
             ShahRukh Khan’s and Rani Mukherjee starrer Paheli remained a riddle forever. This Amol Palekar directed flick was chosen over strong contenders like &lt;b&gt;Parineeta, Mangal Pandey, Swades &lt;/b&gt;and even the critically acclaimed &lt;b&gt;Black&lt;/b&gt;.The choice of this unremarkable movie which had ordinary acting and a tepid screenplay over such cinematic gems once again cast a serious doubt over the entire selection process for the Oscars. Panned by critics, rejected by the viewers and yet strangely selected for the Oscars. Now that’s a Paheli for you!
@@ -49,7 +50,7 @@
         &lt;h4&gt;
             EKLAVYA- The Royal Guard (2007)&lt;/h4&gt;
 &lt;hr&gt;
-        &lt;img src="http://www.rockying.com/art/bollywood/India-Failed-Oscar-Entries/eklavya-Amit-Saif.jpg"
+        &lt;img src="//rockying.com/art/bollywood/India-Failed-Oscar-Entries/eklavya-Amit-Saif.jpg"
             alt="Eklavya" /&gt;
         &lt;p&gt;
             Next in the line to create a wave of controversy was the choice of the Amitabh Bachhan starrer Eklavya. In that year the committee headed by Sudhir  Misra was adamant on sending Eklavya-The Royal Guard, keeping aside the other popular movies such as Dharm and Guru. As it turned out, Vidhu Vinod Chopra’s Eklavya not only bombed at the box-office but it fizzled out in the Oscar race as well. The South-North debate erupted once more as there were three brilliant Tamil films-&lt;b&gt;Paruthiveeran, Mozhi and Veyil,&lt;/b&gt; which were vying for a place on the Oscar nominee.
@@ -59,7 +60,7 @@
         &lt;h4&gt;
            BARFI (2012)&lt;/h4&gt;
 &lt;hr&gt;
-        &lt;img src="http://www.rockying.com/art/bollywood/India-Failed-Oscar-Entries/barfi-move-scene.jpg"
+        &lt;img src="//rockying.com/art/bollywood/India-Failed-Oscar-Entries/barfi-move-scene.jpg"
             alt="Barfi" /&gt;
         &lt;p&gt;
             The latest movie to hit the headlines for wrong reasons was Barfi. It was selected to represent India out of 20 films. Although the movie was a treat to watch because of its impeccable cinematography and sensitive storytelling, it received a lot of flak because of the allegations of scenes copied from famous foreign movies. Critics claimed that many of the scenes were lifted directly from Charlie Chaplin’s &lt;b&gt;The Adventurer&lt;/b&gt;, Buster Keaton’s &lt;b&gt;City Lights&lt;/b&gt; and the plot copied from &lt;b&gt;Benny &amp; Joon&lt;/b&gt;. The movie did not even make it to the nominations, once again making us question the process and wonder why  movie being accused of plagiarism was selected over original masterpieces like &lt;b&gt;Kahaani, Gangs of Wasseypur and Paan Singh Tomar&lt;/b&gt;? &lt;/p&gt;
@@ -70,10 +71,9 @@
 &lt;p class="well"&gt;
 &lt;b&gt;About the Author:&lt;/b&gt; Keeping her eyes closed, with long breaths and a gentle sound many mistake for snoring, actually helps Sonali think better. Or so she says. People question about these daily “thinking sessions”, mostly conducted on a comfortable couch or bed, while she claims that the long overdue best-seller she’s been working on (for quite some time now) will silence all the cynics. Till then she dreams on...
 &lt;/p&gt;</Text>
-  <SlideShowOn>false</SlideShowOn>
-  <QuestionOn>false</QuestionOn>
   <WriterName>Sonali Chowdhury</WriterName>
   <WriterEmail>media.sonali@gmail.com</WriterEmail>
   <Viewed>0</Viewed>
-  <Promotion />
+  <TemplateName />
+  <URL>252</URL>
 </Article>

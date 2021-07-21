@@ -3,7 +3,7 @@
   <ID>0</ID>
   <Title>10 Tips for a Healthy Lifestyle</Title>
   <MetaTitle>10 tips for healthy lifestyle</MetaTitle>
-  <OGImage>&lt; img src= "http://www.rockying.com/art/health/Healthy.jpg" alt= "Yoga"&gt;</OGImage>
+  <OGImage>//rockying.com/art/health/Healthy.jpg</OGImage>
   <OGDescription>This article gives an insight about the benefits of living healthy life and the tips associated with it . Those who will follow the basic tips mentioned in the article will definitely improve their physical and mental health.</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -13,7 +13,7 @@
   <Category>5</Category>
   <Tag>Healthy lifestyle, balanced diet, exercise, quality sleep, sedentary lifestyle, ill effects of smoking and drinking</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='&lt; img src= "http://www.rockying.com/art/health/Healthy.jpg" alt= "Yoga"&gt;' alt='' /&gt;&lt;p&gt;This article gives an insight about the benefits of living healthy life and the tips associated with it . Those who will follow the basic tips mentioned in the article will definitely improve their physical and mental health.&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/health/Healthy.jpg' alt='' /&gt;&lt;p&gt;This article gives an insight about the benefits of living healthy life and the tips associated with it . Those who will follow the basic tips mentioned in the article will definitely improve their physical and mental health.&lt;/p&gt;</Description>
   <Text>TEN TIPS FOR A HEALTHY LIFESTYLE
 
 A healthy lifestyle is very imperative to stay fit and energetic. There was a time when physical fitness alone was considered important, however, both body and mind are equally important and the basis of having a healthy lifestyle. Several diseases automatically get alleviated if you follow a healthy lifestyle. It is a key to self-happiness, self-motivation, and self-determination. Many celebrities these days follow health tips to reduce aging and stay fit. Here are the top 10 tips for your healthy life:

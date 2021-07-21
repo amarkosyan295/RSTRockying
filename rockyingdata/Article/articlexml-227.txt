@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>Breast Cancer Awareness: Time To Go Pink!</Title>
-  <OGImage>http://www.rockying.com/art/health/Breast-Cancer-Awareness/Breast-Awareness-Go-Pink.jpg</OGImage>
+  <MetaTitle>Breast Cancer Awareness: Time To Go Pink!</MetaTitle>
+  <OGImage>//rockying.com/art/health/Breast-Cancer-Awareness/Breast-Awareness-Go-Pink.jpg</OGImage>
   <OGDescription>October is known for many things - for global hand-washing day, for Mahatma Gandhi’s birthday, but what it will be now known for is probably being the Pink Month!</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,12 +13,12 @@
   <Category>20</Category>
   <Tag>Breast Cancer, Breast Cancer Awareness, Pinktober, Breast Cancer Month October, Go Pink.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/health/Breast-Cancer-Awareness/Breast-Awareness-Go-Pink.jpg' alt='' /&gt;&lt;p&gt;October is known for many things - for global hand-washing day, for Mahatma Gandhi’s birthday, but what it will be now known for is probably being the Pink Month!&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/health/Breast-Cancer-Awareness/Breast-Awareness-Go-Pink.jpg' alt='' /&gt;&lt;p&gt;October is known for many things - for global hand-washing day, for Mahatma Gandhi’s birthday, but what it will be now known for is probably being the Pink Month!&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
     October is known for many things - for global handwashing day, for Mahatma Gandhi’s
     birthday, but what it will be now known for is probably being the Pink Month!
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/health/Breast-Cancer-Awareness/Breast-Awareness-Go-Pink.jpg"
+&lt;img src="//rockying.com/art/health/Breast-Cancer-Awareness/Breast-Awareness-Go-Pink.jpg"
     alt="" /&gt;
 &lt;p&gt;
     Pink Month is associated with the Breast Cancer Awareness Month. A whole month dedicated
@@ -52,7 +53,7 @@
     that starts in the parts of the breasts called lobules which produce milk.&lt;/p&gt;
 &lt;h4&gt;
     WHAT SHOULD I BE DOING?&lt;/h4&gt;
-&lt;img src="http://www.rockying.com/art/health/Breast-Cancer-Awareness/Go-Pink.jpg"
+&lt;img src="//rockying.com/art/health/Breast-Cancer-Awareness/Go-Pink.jpg"
     alt="" /&gt;
 &lt;p&gt;
     Here are some facts, mixed with information to make sure you are more aware about
@@ -119,10 +120,9 @@
     still runs into a lot of awareness issues in our country. Be aware, get yourself
     and encourage your family and friends to go for their screening too. It only takes
     a short time and it helps you take the first step towards beating cancer!&lt;/p&gt;</Text>
-  <SlideShowOn>false</SlideShowOn>
-  <QuestionOn>false</QuestionOn>
   <WriterName>Hajra Khatoon</WriterName>
   <WriterEmail>hajraks@gmail.com</WriterEmail>
   <Viewed>0</Viewed>
-  <Promotion />
+  <TemplateName />
+  <URL>227</URL>
 </Article>

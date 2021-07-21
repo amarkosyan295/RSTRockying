@@ -3,7 +3,7 @@
   <ID>9</ID>
   <Title>7 Most Interesting Facts About Republic Day!</Title>
   <MetaTitle>7 Most Interesting Facts About Republic Day!</MetaTitle>
-  <OGImage>http://www.rockying.com/art/India-is-Great.jpg</OGImage>
+  <OGImage>//rockying.com/art/India-is-Great.jpg</OGImage>
   <OGDescription>7 Most Interesting Facts About Republic Day</OGDescription>
   <DateCreated>2012-01-25T13:41:59.023</DateCreated>
   <DateModified>2012-01-29T22:22:49.797</DateModified>
@@ -13,8 +13,8 @@
   <Category>25</Category>
   <Tag>Republic Day, Interesting, Facts, Funny, India, Republic, India, nation, national, 26th January</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/India-is-Great.jpg' alt='' /&gt;&lt;p&gt;7 Most Interesting Facts About Republic Day&lt;/p&gt;</Description>
-  <Text>&lt;img src="http://www.rockying.com/art/Festival/Republic-Day-2013/republic-day-2012.jpg" title="Happy Republic Day" class="pull-right";/&gt;
+  <Description>&lt;img src='//rockying.com/art/India-is-Great.jpg' alt='' /&gt;&lt;p&gt;7 Most Interesting Facts About Republic Day&lt;/p&gt;</Description>
+  <Text>&lt;img src="//rockying.com/art/Festival/Republic-Day-2013/republic-day-2012.jpg" title="Happy Republic Day" class="pull-right";/&gt;
 &lt;p&gt;
 	To every Indian, India is like a memoir that is still incomplete. Everybody has their own version of history, politics and social interpretation but tolerance and brotherhood unite us. Every Indian is funnily cynical and yet they would run to kill if someone hurls abuses about their “Khandaan”. These extraordinary moments make India what it is today.
 &lt;/p&gt;

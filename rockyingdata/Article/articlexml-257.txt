@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>9 Fun Ways to Burn Calories!</Title>
-  <OGImage>http://www.rockying.com/art/health/Fun-to-burn-Calories/kick-boxing.jpg</OGImage>
+  <MetaTitle>9 Fun Ways to Burn Calories!</MetaTitle>
+  <OGImage>//rockying.com/art/health/Fun-to-burn-Calories/kick-boxing.jpg</OGImage>
   <OGDescription>Rockying decides to up the fun factor in losing weight. Why not find out more interesting ways to burn calories and manage to keep weight loss fun?</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,7 +13,7 @@
   <Category>5</Category>
   <Tag>Burn Calories, Weight Loss, Swimming, Hulla-hoops, Boxing, Kick Boxing, Salsa, Hiking, Rope-Jumping, Yoga, Pilates.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/health/Fun-to-burn-Calories/kick-boxing.jpg' alt='' /&gt;&lt;p&gt;Rockying decides to up the fun factor in losing weight. Why not find out more interesting ways to burn calories and manage to keep weight loss fun?&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/health/Fun-to-burn-Calories/kick-boxing.jpg' alt='' /&gt;&lt;p&gt;Rockying decides to up the fun factor in losing weight. Why not find out more interesting ways to burn calories and manage to keep weight loss fun?&lt;/p&gt;</Description>
   <Text>&lt;div&gt;
     &lt;div&gt;
         &lt;button id="prevslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
@@ -28,7 +29,7 @@
     &lt;/div&gt;
     &lt;div class="slideshow"&gt;
         &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/Fun-to-burn-Calories/fun.jpg" alt="Fun while exercising" /&gt;&lt;br&gt;
+            &lt;img src="//rockying.com/art/health/Fun-to-burn-Calories/fun.jpg" alt="Fun while exercising" /&gt;&lt;br&gt;
             &lt;p&gt;
                 Let’s admit it. Its tiring and very very boring to keep running on the treadmill
                 and keep doing the elliptical and that monotonous cycling. Even the regular aerobic
@@ -43,7 +44,7 @@
             &lt;/p&gt;
         &lt;/div&gt;
         &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/Fun-to-burn-Calories/hula-hoop.jpg"
+            &lt;img src="//rockying.com/art/health/Fun-to-burn-Calories/hula-hoop.jpg"
                 alt="Hula hoops" /&gt;&lt;br&gt;
             &lt;p&gt;
                 &lt;b&gt;HULA HOOPS&lt;/b&gt; - Yes, you must have played these as kids. But have you ever realized
@@ -55,7 +56,7 @@
                 can be too tight and small.&lt;/p&gt;
         &lt;/div&gt;
         &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/Fun-to-burn-Calories/salsa-dance.jpg"
+            &lt;img src="//rockying.com/art/health/Fun-to-burn-Calories/salsa-dance.jpg"
                 alt="Salsa" /&gt;&lt;br&gt;
             &lt;p&gt;
                 &lt;b&gt;SALSA DANCING&lt;/b&gt; - Salsa is quite the rage everywhere now. Just like the elliptical,
@@ -67,7 +68,7 @@
             &lt;/p&gt;
         &lt;/div&gt;
         &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/Fun-to-burn-Calories/hikiing.jpg" alt="Hiking" /&gt;&lt;br /&gt;
+            &lt;img src="//rockying.com/art/health/Fun-to-burn-Calories/hikiing.jpg" alt="Hiking" /&gt;&lt;br /&gt;
             &lt;p&gt;
                 &lt;b&gt;HIKING&lt;/b&gt; - Instead of lifting weights and doing the whole weight training;
                 try filling your bag with stuff (maybe even your books!). Not only walking with
@@ -78,7 +79,7 @@
             &lt;/p&gt;
         &lt;/div&gt;
         &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/Fun-to-burn-Calories/Skipping-rope.jpg"
+            &lt;img src="//rockying.com/art/health/Fun-to-burn-Calories/Skipping-rope.jpg"
                 alt="Rope Jumping" /&gt;&lt;br&gt;
             &lt;p&gt;
                 &lt;b&gt;ROPE JUMPING&lt;/b&gt;- Another favorite activity as a kid but did you know that just
@@ -90,7 +91,7 @@
             &lt;/p&gt;
         &lt;/div&gt;
         &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/Fun-to-burn-Calories/yoga.jpg" alt="Yoga" /&gt;&lt;br&gt;
+            &lt;img src="//rockying.com/art/health/Fun-to-burn-Calories/yoga.jpg" alt="Yoga" /&gt;&lt;br&gt;
             &lt;p&gt;
                 &lt;b&gt;YOGA&lt;/b&gt;- Probably one of the oldest forms of exercises and still loved by the
                 weight loss experts. Yoga can be wondrous to work out - ranging from low intensity
@@ -105,7 +106,7 @@
             &lt;/p&gt;
         &lt;/div&gt;
         &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/Fun-to-burn-Calories/Pilates.jpg" alt="Pilates" /&gt;&lt;br&gt;
+            &lt;img src="//rockying.com/art/health/Fun-to-burn-Calories/Pilates.jpg" alt="Pilates" /&gt;&lt;br&gt;
             &lt;p&gt;
                 &lt;b&gt;PILATES&lt;/b&gt;- A system of physical fitness developed by Joseph Pilates in the
                 early 20th century. Pilates called his method Contrology (from Control). Pilates
@@ -118,7 +119,7 @@
             &lt;/p&gt;
         &lt;/div&gt;
         &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/Fun-to-burn-Calories/Swimming-.jpg"
+            &lt;img src="//rockying.com/art/health/Fun-to-burn-Calories/Swimming-.jpg"
                 alt="Swimming" /&gt;&lt;br&gt;
             &lt;p&gt;
                 &lt;b&gt;SWIMMING&lt;/b&gt;- Perfect for summers, swimming is another whole body exercise which
@@ -130,7 +131,7 @@
             &lt;/p&gt;
         &lt;/div&gt;
         &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/Fun-to-burn-Calories/kick-boxing.jpg"
+            &lt;img src="//rockying.com/art/health/Fun-to-burn-Calories/kick-boxing.jpg"
                 alt="Kick Boxing" /&gt;&lt;br&gt;
             &lt;p&gt;
                 &lt;b&gt;KICK-BOXING&lt;/b&gt;- It is exactly what you are thinking - you have to kick and box
@@ -144,7 +145,7 @@
             &lt;/p&gt;
         &lt;/div&gt;
         &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/Fun-to-burn-Calories/boxing-Born-.jpg"
+            &lt;img src="//rockying.com/art/health/Fun-to-burn-Calories/boxing-Born-.jpg"
                 alt="Boxing" /&gt;&lt;br&gt;Source:www.themetapicture.com
             &lt;p&gt;
                 &lt;b&gt;BOXING&lt;/b&gt;- If you can’t find kick boxing training nearby, just go boxing. It
@@ -167,12 +168,12 @@
                 Losing weight is easy if you are having fun while at it.
             &lt;/h6&gt;
 &lt;h3&gt;You Might Like:&lt;/h3&gt;
-&lt;h4&gt;&lt;a href="http://www.rockying.com/a/30?title=loose-weight-while-you-eat-potatoes-and-bananas&amp;ref=category"&gt;Loose Weight While You Eat Potatoes and Bananas.&lt;/a&gt;&lt;/h4&gt;
-&lt;h4&gt;&lt;a href="http://www.rockying.com/a/29?title=nine-successful-ways-to-stick-to-your-diet-even-when-eating-out&amp;ref=category"&gt;9 Successful Ways to Stick to Your Diet Even When Eating Out!&lt;/a&gt;&lt;/h4&gt;
-&lt;h4&gt;&lt;a href="http://www.rockying.com/a/100?title=six-secrets-to-shed-pounds-as-you-shop&amp;ref=category"&gt;6 Secrets to Shed Pounds as You Shop.&lt;/a&gt;&lt;/h4&gt;
-&lt;h4&gt;&lt;a href="http://www.rockying.com/a/169?title=eating-less-why-it-can-be-grossly-wrong&amp;ref=category"&gt;Eating Less: Why it can be Grossly Wrong!&lt;/a&gt;&lt;/h4&gt;
-&lt;h4&gt;&lt;a href="http://www.rockying.com/a/242?title=13-ways-to-move-more&amp;ref=category"&gt;13 Ways to Move More.&lt;/a&gt;&lt;/h4&gt;
-&lt;h4&gt;&lt;a href="http://www.rockying.com/a/213?title=they-did-it-so-can-you-celebrity-weight-loss-and-how-they-did-it&amp;ref=category"&gt;They Did it, So Can You! Celebrity Weight Loss and How They Did It.&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href="//rockying.com/a/30?title=loose-weight-while-you-eat-potatoes-and-bananas&amp;ref=category"&gt;Loose Weight While You Eat Potatoes and Bananas.&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href="//rockying.com/a/29?title=nine-successful-ways-to-stick-to-your-diet-even-when-eating-out&amp;ref=category"&gt;9 Successful Ways to Stick to Your Diet Even When Eating Out!&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href="//rockying.com/a/100?title=six-secrets-to-shed-pounds-as-you-shop&amp;ref=category"&gt;6 Secrets to Shed Pounds as You Shop.&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href="//rockying.com/a/169?title=eating-less-why-it-can-be-grossly-wrong&amp;ref=category"&gt;Eating Less: Why it can be Grossly Wrong!&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href="//rockying.com/a/242?title=13-ways-to-move-more&amp;ref=category"&gt;13 Ways to Move More.&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href="//rockying.com/a/213?title=they-did-it-so-can-you-celebrity-weight-loss-and-how-they-did-it&amp;ref=category"&gt;They Did it, So Can You! Celebrity Weight Loss and How They Did It.&lt;/a&gt;&lt;/h4&gt;
 &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;</Text>
@@ -180,4 +181,5 @@
   <WriterEmail>hajraks@gmail.com</WriterEmail>
   <Viewed>0</Viewed>
   <TemplateName>WideBlogTemplate</TemplateName>
+  <URL>257</URL>
 </Article>

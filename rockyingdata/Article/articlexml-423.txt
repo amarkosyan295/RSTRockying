@@ -3,7 +3,7 @@
   <ID>0</ID>
   <Title>These could Literally Save Your Life Abroad; Top 10 Travel Tips for that Dream Foreign Trip</Title>
   <MetaTitle>10 Travel Tips Required Before Any International Trip - Rockying.com</MetaTitle>
-  <OGImage>http://www.rockying.com/art/Travel/Tips-for-Travel-Abroad/Luggage.jpg</OGImage>
+  <OGImage>//rockying.com/art/Travel/Tips-for-Travel-Abroad/Luggage.jpg</OGImage>
   <OGDescription>Read our 10 travel tips required before any international trip, that you should bear in mind, before travelling abroad, for these could save your life.</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -13,14 +13,14 @@
   <Category>17</Category>
   <Tag>Travel, Abroad, Trip, Passport, Documentation, Exchange Rate, Foreign, Health Insurance, Medications, Visa, Immigration.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/Travel/Tips-for-Travel-Abroad/Luggage.jpg' alt='' /&gt;&lt;p&gt;Read our 10 travel tips required before any international trip, that you should bear in mind, before travelling abroad, for these could save your life.&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/Travel/Tips-for-Travel-Abroad/Luggage.jpg' alt='' /&gt;&lt;p&gt;Read our 10 travel tips required before any international trip, that you should bear in mind, before travelling abroad, for these could save your life.&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
 Some travel for business while others just for pleasure. Then, there are people who save for their big Euro trip so they can take a break to pamper themselves with the luxuries of a foreign land. Well, whatever might be your reason for getting away, while traveling abroad there are certain things that you need to be careful about. These things are trivial yet significant and help you enjoy your trip thoroughly. Read on for our tips to bear in mind before travelling abroad. Promise, after you are done taking care of these, your trip would be so much simpler and fun. 
 &lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;#1   Passport &amp; other Documentation&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Tips-for-Travel-Abroad/Passport-and-other-Documents-Rockying.jpg" alt="Passport and Documents" title="Passport and Documentation"&gt;
+&lt;img src="//rockying.com/art/Travel/Tips-for-Travel-Abroad/Passport-and-other-Documents-Rockying.jpg" alt="Passport and Documents" title="Passport and Documentation"&gt;
 Source: Pexels
 &lt;hr&gt;
 &lt;p&gt;
@@ -29,7 +29,7 @@ While you are traveling abroad make sure that you carry copies of your passport 
 &lt;hr&gt;
 &lt;h2&gt;#2    Health Insurance &lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Tips-for-Travel-Abroad/Health-Insurance-Rockying.jpg" alt="Health Insurance" title="Health Insurance"&gt;&lt;br&gt;
+&lt;img src="//rockying.com/art/Travel/Tips-for-Travel-Abroad/Health-Insurance-Rockying.jpg" alt="Health Insurance" title="Health Insurance"&gt;&lt;br&gt;
 Source: Freepik
 &lt;hr&gt;
 &lt;p&gt;
@@ -38,7 +38,7 @@ Before traveling to a foreign country make sure that you have had all your neces
 &lt;hr&gt;
 &lt;h2&gt;#3   Money Matters&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Tips-for-Travel-Abroad/Money-Matters-Rockying.jpg" alt="Money Abroad" title="Money Abroad"&gt;
+&lt;img src="//rockying.com/art/Travel/Tips-for-Travel-Abroad/Money-Matters-Rockying.jpg" alt="Money Abroad" title="Money Abroad"&gt;
 Source:Pexels
 &lt;hr&gt;
 &lt;p&gt;
@@ -47,7 +47,7 @@ Always look for the conversion rate of the currency to the country you are trave
 &lt;hr&gt;
 &lt;h2&gt;#4  Local Research&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Tips-for-Travel-Abroad/Local-Research-Rockying.jpg" alt="Local Foreign Research" title="Local Research"&gt;
+&lt;img src="//rockying.com/art/Travel/Tips-for-Travel-Abroad/Local-Research-Rockying.jpg" alt="Local Foreign Research" title="Local Research"&gt;
 Source: Pexels
 &lt;hr&gt;
 &lt;p&gt;
@@ -56,7 +56,7 @@ It is always good for you to do some local research on the place ahead of your t
 &lt;hr&gt;
 &lt;h2&gt;#5   Essential Electronics&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Tips-for-Travel-Abroad/Essential-Electronics.jpg" alt="Essential Electronics" title="Essential Electronics"&gt;
+&lt;img src="//rockying.com/art/Travel/Tips-for-Travel-Abroad/Essential-Electronics.jpg" alt="Essential Electronics" title="Essential Electronics"&gt;
 Source: Pexels
 &lt;hr&gt;
 &lt;p&gt;
@@ -65,7 +65,7 @@ Carry all the important electronics you use on a daily basis. Also, carry a char
 &lt;hr&gt;
 &lt;h2&gt;#6  International Roaming&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Tips-for-Travel-Abroad/International-Roaming-Rockying.jpg" alt="International Roaming" title="International Roaming"&gt;
+&lt;img src="//rockying.com/art/Travel/Tips-for-Travel-Abroad/International-Roaming-Rockying.jpg" alt="International Roaming" title="International Roaming"&gt;
 &lt;hr&gt;
 &lt;p&gt;
 Make sure that you have an international calling and mobile data plan so that you never lose connectivity. Also, remember to unlock your phone's global capabilities. This would usually cost less than the roaming plan. You can opt for an international SIM if you are planning to stay a little longer. Also look for applications that might help you during your stay in a foreign country. Many apps provide great deals in a variety of countries.
@@ -73,7 +73,7 @@ Make sure that you have an international calling and mobile data plan so that yo
 &lt;hr&gt;
 &lt;h2&gt;#7 Luggage&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Tips-for-Travel-Abroad/Luggage.jpg" alt="Luggage" title="Luggage"&gt;
+&lt;img src="//rockying.com/art/Travel/Tips-for-Travel-Abroad/Luggage.jpg" alt="Luggage" title="Luggage"&gt;
 Source: Pexels
 &lt;hr&gt;
 &lt;p&gt;
@@ -82,7 +82,7 @@ You must do your packing wisely. Always carry a spare pair of clothing in your c
 &lt;hr&gt;
 &lt;h2&gt;#8  Packing Right&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Tips-for-Travel-Abroad/Packing-Rockying.jpg" alt="Pack Right" title="Packing Right"&gt;
+&lt;img src="//rockying.com/art/Travel/Tips-for-Travel-Abroad/Packing-Rockying.jpg" alt="Pack Right" title="Packing Right"&gt;
 Source: Pexels
 &lt;hr&gt;
 &lt;p&gt;
@@ -91,7 +91,7 @@ Now you are thinking, is this the most redundant tip ever or what? You guys just
 &lt;hr&gt;
 &lt;h2&gt;#9   Meds and Prescriptions &lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Tips-for-Travel-Abroad/Meds-Rockying.jpg" alt="Meds" title="Medicines"&gt;
+&lt;img src="//rockying.com/art/Travel/Tips-for-Travel-Abroad/Meds-Rockying.jpg" alt="Meds" title="Medicines"&gt;
 Source: Pexels
 &lt;hr&gt;
 &lt;p&gt;
@@ -100,7 +100,7 @@ If you have any chronic diseases, make sure that you are carrying medicines and 
 &lt;hr&gt;
 &lt;h2&gt;#10  Beware of Fraudsters&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Tips-for-Travel-Abroad/Fraudsters.jpg" alt="Fraudsters" title="Fraudsters"&gt;&lt;br&gt;
+&lt;img src="//rockying.com/art/Travel/Tips-for-Travel-Abroad/Fraudsters.jpg" alt="Fraudsters" title="Fraudsters"&gt;&lt;br&gt;
 Source: Freepik
 &lt;hr&gt;
 &lt;p&gt;
@@ -113,7 +113,7 @@ Image Credit: &lt;a href="https://www.pexels.com/" target="_blank"&gt;Pexels&lt;
 &lt;br&gt;
 &lt;br&gt;
 &lt;p class="well"&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Tips-for-Travel-Abroad/Abhyank-Srinet.jpg" class="pull-left"/&gt;
+&lt;img src="//rockying.com/art/Travel/Tips-for-Travel-Abroad/Abhyank-Srinet.jpg" class="pull-left"/&gt;
 &lt;b&gt;About the Author:&lt;/b&gt; Abhyank Srinet holds a Masters degree in Management from ESCP Europe &amp; has an engineering degree with a specialization in Instrumentation &amp; Control. His interest in the digital landscape motivated him to create an online startup for Masters in Management application consulting (&lt;a href="https://www.mim-essay.com" target=_blank"&gt;MiM-Essay.com&lt;/a&gt;), focused on spreading quality information about the MiM degree &amp; performing application consulting services for clients. He is the chief consultant of the company and takes care of Business Development and Digital Marketing side of the company. He is very passionate about writing and marketing.
 &lt;/p&gt;</Text>
   <WriterName>Abhyank Srinet [Guest Post]</WriterName>

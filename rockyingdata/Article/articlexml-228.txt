@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>Why Breakfast Is The Best?</Title>
-  <OGImage>http://www.rockying.com/art/health/Breakfast-Is-The-Best/Breakfast-Home.JPG</OGImage>
+  <MetaTitle>Why Breakfast Is The Best?</MetaTitle>
+  <OGImage>//rockying.com/art/health/Breakfast-Is-The-Best/Breakfast-Home.JPG</OGImage>
   <OGDescription>Many of us take the breakfast issue too lightly. But a study published in the American Journal of Clinical Nutrition says that skipping breakfast increases one’s risk of heart diseases and diabetes...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,8 +13,8 @@
   <Category>5</Category>
   <Tag>Breakfast, Meals, Fitness, Food, Weight Management, Health, Eating Habits.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/health/Breakfast-Is-The-Best/Breakfast-Home.JPG' alt='' /&gt;&lt;p&gt;Many of us take the breakfast issue too lightly. But a study published in the American Journal of Clinical Nutrition says that skipping breakfast increases one’s risk of heart diseases and diabetes...&lt;/p&gt;</Description>
-  <Text>&lt;p&gt;&lt;img src="http://www.rockying.com/art/health/Breakfast-Is-The-Best/breakfast.jpg" class="pull-right" /&gt;
+  <Description>&lt;img src='//rockying.com/art/health/Breakfast-Is-The-Best/Breakfast-Home.JPG' alt='' /&gt;&lt;p&gt;Many of us take the breakfast issue too lightly. But a study published in the American Journal of Clinical Nutrition says that skipping breakfast increases one’s risk of heart diseases and diabetes...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;img src="//rockying.com/art/health/Breakfast-Is-The-Best/breakfast.jpg" class="pull-right" /&gt;
 The rush to work, the hurry to reach office, the haste to get to school / college or just beginning too early - the common factor that links all? Not the hurry, but the fact that one very important meal is missed – breakfast! 
 &lt;/p&gt;
 &lt;p&gt;
@@ -57,10 +58,9 @@ Reflect on how you felt when you were too hungry - irritable, grouchy, snappy, m
 So, here is the breakfast benefit, right in front of you. So next time you are skipping breakfast for whatever reason - losing weight, hurrying to office or college or simply being forgetful - remember, you are doing yourself more harm than good. Those hours at the gym and the diet really won’t work if you aren’t putting the right fuel into your body every morning.
 &lt;/p&gt;
 &lt;h6&gt;Come on, tell us about your favorite breakfast recipe. What do you have for breakfast?&lt;/h6&gt;</Text>
-  <SlideShowOn>false</SlideShowOn>
-  <QuestionOn>false</QuestionOn>
   <WriterName>Hajra Khatoon</WriterName>
   <WriterEmail>hajraks@gmail.com</WriterEmail>
   <Viewed>0</Viewed>
-  <Promotion />
+  <TemplateName />
+  <URL>228</URL>
 </Article>

@@ -3,7 +3,7 @@
   <ID>0</ID>
   <Title>Hollywood’s Playtime: Video Games and their Movie Versions</Title>
   <MetaTitle>Hollywood movies based on video games</MetaTitle>
-  <OGImage>http://www.rockying.com/art/HOllywood/Hollywood-Video-Games/Resident-Evil-the-game-jpg.jpg</OGImage>
+  <OGImage>//rockying.com/art/HOllywood/Hollywood-Video-Games/Resident-Evil-the-game-jpg.jpg</OGImage>
   <OGDescription>Video Games have been around ever since some geeks rigged up a computer to play a sort of digital table tennis and named it “Pong”.Rockying has minutely scanned to bring you the story of the most talked of video game movie adaptions.</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -13,19 +13,19 @@
   <Category>12</Category>
   <Tag>Hollywood Video Games, Best Video Games and Hollywood, Max Payne, Hitman, The Resident Evil Series, The Silent Hill Series,  Mortal Kombat, The Lara Croft Series, Prince of Persia: Sands of Time.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/HOllywood/Hollywood-Video-Games/Resident-Evil-the-game-jpg.jpg' alt='' /&gt;&lt;p&gt;Video Games have been around ever since some geeks rigged up a computer to play a sort of digital table tennis and named it “Pong”.Rockying has minutely scanned to bring you the story of the most talked of video game movie adaptions.&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/HOllywood/Hollywood-Video-Games/Resident-Evil-the-game-jpg.jpg' alt='' /&gt;&lt;p&gt;Video Games have been around ever since some geeks rigged up a computer to play a sort of digital table tennis and named it “Pong”.Rockying has minutely scanned to bring you the story of the most talked of video game movie adaptions.&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
-Video Games have been around ever since some geeks rigged up a computer to play a sort of digital table tennis and named it “Pong”. With an exponentially increasing popularity, it was only natural that Hollywood soon decided to cash in and make movies out of some best games in the market. The relationship has been tumultuous, with both big hits and horrendous flops in the list, which &lt;a href="http://www.rockying.com/default"&gt;Rockying&lt;/a&gt; has scanned minutely to bring you the story of the most talked of video game movie adaptations.
+Video Games have been around ever since some geeks rigged up a computer to play a sort of digital table tennis and named it “Pong”. With an exponentially increasing popularity, it was only natural that Hollywood soon decided to cash in and make movies out of some best games in the market. The relationship has been tumultuous, with both big hits and horrendous flops in the list, which &lt;a href="//rockying.com/default"&gt;Rockying&lt;/a&gt; has scanned minutely to bring you the story of the most talked of video game movie adaptations.
 &lt;/p&gt;
 &lt;hr&gt;
         &lt;h4&gt;
            Max Payne (2008)&lt;/h4&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Hollywood-Video-Games/Max-Payne-the-Game.jpg" alt="Max-Payne-The-Game"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Hollywood-Video-Games/Max-Payne-the-Game.jpg" alt="Max-Payne-The-Game"/&gt;
         &lt;p&gt;
           The dark and brooding game that gave player the power of “Matrix” style slow-mo fighting and boasted of a brilliant crime noir storyline was transformed into a strange Hollywood kitschy action flick starring the ever angry Mark Wahlberg (Dude! He is so angry that he seems to be frowning even when smiling!) 
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Hollywood-Video-Games/Max-payne-the-movie.jpg" alt="Max Payne The Movie"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Hollywood-Video-Games/Max-payne-the-movie.jpg" alt="Max Payne The Movie"/&gt;
 &lt;p&gt;
 The movie was rejected by fans, critics and the box office alike. 
 &lt;/p&gt;
@@ -33,11 +33,11 @@ The movie was rejected by fans, critics and the box office alike.
         &lt;h4&gt;
            Hitman (2007)&lt;/h4&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Hollywood-Video-Games/Hitman-Wallpaper.jpg" alt="Hitman the Game"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Hollywood-Video-Games/Hitman-Wallpaper.jpg" alt="Hitman the Game"/&gt;
         &lt;p&gt;
           A legendary game in its own right, Hitman was about playing an assassin and completing you “supari” contracts while remaining undetected by the security staff. With its brilliant stealth schemes and addictive gameplay, it was only a matter of time before it was made into a movie.
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Hollywood-Video-Games/Hitman-CloseUp-.jpg" alt="Hitman The Movie"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Hollywood-Video-Games/Hitman-CloseUp-.jpg" alt="Hitman The Movie"/&gt;
 &lt;p&gt;
 Starring the oddly named Timothy Olyphant as the iconic bald assassin, the movie, sadly was again transformed into a pure actioner, with none of that tense, stealthy game play transformed on the silver screen. Time magazineeven put the movie on their list of worst video game movies ever!
         &lt;/p&gt;
@@ -45,11 +45,11 @@ Starring the oddly named Timothy Olyphant as the iconic bald assassin, the movie
         &lt;h4&gt;
             The Resident Evil Series (2002-till date) &lt;/h4&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Hollywood-Video-Games/Resident-Evil-game-jpg.jpg" alt="Resident Evil The Game"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Hollywood-Video-Games/Resident-Evil-game-jpg.jpg" alt="Resident Evil The Game"/&gt;
         &lt;p&gt;
            Well, this movie seems to pop up in almost every other list we do! Apart from being a post-apocalyptic, zombie hunting, action fest; this Milla Jovovich starrer is also an adaption of the 1995 Japanese survival horror game of the same name. The games are one of the scariest experiences in video gaming but the movie series strangely evolved into an out and out action series, evoking a lot of criticism from fan-boys despite being commercial hits. 
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Hollywood-Video-Games/Resident-Evil-the-movie.jpg" alt="Resident Evil The Movie"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Hollywood-Video-Games/Resident-Evil-the-movie.jpg" alt="Resident Evil The Movie"/&gt;
 &lt;p&gt;
 With horrifying zombie dogs, blood thirsty undead walking the earth and evil corporate honchos as villains, we are happy that Milia is there to soothe everyone’s nerves! 
 &lt;/p&gt;
@@ -57,10 +57,10 @@ With horrifying zombie dogs, blood thirsty undead walking the earth and evil cor
         &lt;h4&gt;
            The Silent Hill Series (2006 and 2012)&lt;/h4&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Hollywood-Video-Games/Silent-Hill-The-Game.jpg" alt="Silent Hill The Game"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Hollywood-Video-Games/Silent-Hill-The-Game.jpg" alt="Silent Hill The Game"/&gt;
         &lt;p&gt;
            Haven’t heard of the movie or the game? Do yourself a favour and check the game out because it is the most freakishly scary experience you will ever have. Remember how scared movies like “The Ring” and “Grudge” left you? Now imagine yourself in that story, living out that fear! That is the effect this Japanese game has and is rightly credited as the best horror game ever made. With nine scary games in the franchise, the Silent Hill series is not for the faint hearted but is an absolute must for horror fans who like to be scared out of their minds. &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Hollywood-Video-Games/Silent-Hill-The-Movie.jpg" alt="Silent Hill The Game"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Hollywood-Video-Games/Silent-Hill-The-Movie.jpg" alt="Silent Hill The Game"/&gt;
 &lt;p&gt;
 And yes, the movie series is pretty decent with the first installment being particularly creepy!
 &lt;/p&gt;
@@ -68,11 +68,11 @@ And yes, the movie series is pretty decent with the first installment being part
         &lt;h4&gt;
        Mortal Kombat &lt;/h4&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Hollywood-Video-Games/Mortal-Kombat-The-Game.jpg" alt="Mortal Kombat The Game"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Hollywood-Video-Games/Mortal-Kombat-The-Game.jpg" alt="Mortal Kombat The Game"/&gt;
 &lt;p&gt;
     This was perhaps the first video game adaption we ever saw on the screen (if you haven’t, you must!) Based on the uber-violent fighting game that was famous for its gory finishing moves called ‘fatalities’ , the movie released at a time when games weren’t the big business they are today and despite starring some unknown actors, went to be a box office success. 
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Hollywood-Video-Games/MOrtal-Kombat-The-Movie.jpg" alt="Mortal Kombat The Movie"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Hollywood-Video-Games/MOrtal-Kombat-The-Movie.jpg" alt="Mortal Kombat The Movie"/&gt;
 &lt;p&gt;
 A true masala movie with a story about a lost &lt;i&gt;bhai and badle ki aag&lt;/i&gt; with some outlandish villains thrown in for good measure, Mortal Kombat truly deserves its cult favorite reputation.
 &lt;/p&gt;
@@ -80,11 +80,11 @@ A true masala movie with a story about a lost &lt;i&gt;bhai and badle ki aag&lt;
         &lt;h4&gt;
        The Lara Croft Series (2001 &amp; 2003)&lt;/h4&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Hollywood-Video-Games/lara-croft-The-Game.jpg" alt="Lara Croft The Game"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Hollywood-Video-Games/lara-croft-The-Game.jpg" alt="Lara Croft The Game"/&gt;
 &lt;p&gt;
     Who can forget Angelina Jolie in that iconic “tank top- hot pants” outfit with two badass guns smoking in her hands.  The movie made her a household name and was inspired by the equally successful video game, starring perhaps the most famous female gaming character ever. The story is about a flamboyant female treasure hunter who goes after some of the most dangerous ancient relics in the world and Angelina bought the sexy, adventure loving British aristocrat to life in the movies, raking in a lot of moolah from the box-office.
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Hollywood-Video-Games/Lara-Croft-The-Movie.jpg" alt="Lara Croft The Movie"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Hollywood-Video-Games/Lara-Croft-The-Movie.jpg" alt="Lara Croft The Movie"/&gt;
 &lt;p&gt;
  The game recently got a fresh lease of life in the form of an awesome reboot and we believe that it is time that someone did it with the movies too. 
 &lt;/p&gt;
@@ -92,16 +92,16 @@ A true masala movie with a story about a lost &lt;i&gt;bhai and badle ki aag&lt;
         &lt;h4&gt;
        Prince of Persia: Sands of Time (2010)&lt;/h4&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Hollywood-Video-Games/Prince-Of-Persia-The-Game.jpg" alt="Prince Of Persia The Game"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Hollywood-Video-Games/Prince-Of-Persia-The-Game.jpg" alt="Prince Of Persia The Game"/&gt;
 &lt;p&gt;
     The highest earning video game movie of all time, Prince of Persia is based on a game franchise that is almost as old as we are! From the side scrolling game of the early 90s to the fast paced, 3D wonder on today’s consoles, Prince of Persia is known for its time-bending storyline and its parkour inspired actions. 
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Hollywood-Video-Games/Prince-Of-persia-The-Movie.jpg" alt="Prince Of Persia The Movie"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Hollywood-Video-Games/Prince-Of-persia-The-Movie.jpg" alt="Prince Of Persia The Movie"/&gt;
 &lt;p&gt;
  The movie didn’t disappoint either, with great production values, furious action scenes and a yummy Gemma Arterton in the lead along with Jake Gyllenhaal as the Prince. 
 &lt;/p&gt;
 &lt;p&gt;
-Hollywood has returned the favor as well, with most big movies these days being accompanied by their video game interpretations. Wondered how it would feel to swing around like Spiderman and fight alongside blue aliens as an Avatar? &lt;a href="http://www.rockying.com/default"&gt;Rockying&lt;/a&gt; will bring that tale to you shortly!
+Hollywood has returned the favor as well, with most big movies these days being accompanied by their video game interpretations. Wondered how it would feel to swing around like Spiderman and fight alongside blue aliens as an Avatar? &lt;a href="//rockying.com/default"&gt;Rockying&lt;/a&gt; will bring that tale to you shortly!
 &lt;/p&gt;
 &lt;p class="well"&gt;
 &lt;b&gt;About the Author:&lt;/b&gt; Keeping her eyes closed, with long breaths and a gentle sound many mistake for snoring, actually helps Sonali think better. Or so she says. People question about these daily “thinking sessions”, mostly conducted on a comfortable couch or bed, while she claims that the long overdue best-seller she’s been working on (for quite some time now) will silence all the cynics. Till then she dreams on...

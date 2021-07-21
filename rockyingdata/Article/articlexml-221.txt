@@ -29,7 +29,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Saif-Dil-Chahta-Hai-1.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Saif-Dil-Chahta-Hai-1.jpg"
                         alt="Saif Ali Khan in Dil Chahta Hai" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -70,7 +70,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Shakti-kapoor-2.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Shakti-kapoor-2.jpg"
                         alt="Shakti Kapoor" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -110,7 +110,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Suhasini-3.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Suhasini-3.jpg"
                         alt="Suhasini" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -150,7 +150,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Andaz-Apna-Apna-4.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Andaz-Apna-Apna-4.jpg"
                         alt="Andaz Apna Apna" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -191,7 +191,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Dil-Chahta-Hai-5.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Dil-Chahta-Hai-5.jpg"
                         alt="Dil Chahta Hai" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -231,7 +231,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Ashutosh-Gowarikar-6.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Ashutosh-Gowarikar-6.jpg"
                         alt="Ashutosh Gowarikar" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -271,7 +271,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Taare-Zameen-Par-Vipin-Sharma-7.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Taare-Zameen-Par-Vipin-Sharma-7.jpg"
                         alt="Taare Zameen Par Vipin Sharma" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -311,7 +311,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Lagaan-8.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Lagaan-8.jpg"
                         alt="Lagaan" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -352,7 +352,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Taare-Zameen-Par-9.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Taare-Zameen-Par-9.jpg"
                         alt="Taare Zameen Par" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -392,7 +392,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="offset1 span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Mission-Kashmir-10.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Bollywood-Quiz-2/Mission-Kashmir-10.jpg"
                         alt="Mission Kashmir" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;

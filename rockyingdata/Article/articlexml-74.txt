@@ -15,7 +15,7 @@
   <Status>Publish</Status>
   <Description>&lt;img src='//www.rockying.com/art/Hollywood%20dialogues%202/rockybalboa.jpg' alt='' /&gt;&lt;p&gt;You can read all the best Hollywood romantic movie dialogues &amp; quotes in this article and also get updated about which are the best hollywood romantic movies.&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
-    So, here we are as promised in &lt;a href="http://www.rockying.com/a/63"&gt;Hollywood's favorite
+    So, here we are as promised in &lt;a href="//rockying.com/a/63"&gt;Hollywood's favorite
         Movie quotes-I&lt;/a&gt; ,with the next batch of Hollywood’s best said dialogues .
     What is special about them you would say? Well, many things- the context, the amazing
     delivery, the power behind them and for the fact that they fail to leave our movie
@@ -24,7 +24,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             "&lt;i&gt;I’ll be back&lt;/i&gt;" (Terminator, 1984)&lt;/h3&gt;
-        &lt;img src="http://rockying.com/art/Hollywood%20dialogues%202/ill%20be%20back.jpg"
+        &lt;img src="//rockying.com/art/Hollywood%20dialogues%202/ill%20be%20back.jpg"
             title="Arnold in Terminator" alt="" style="width: 300px;" /&gt;
         &lt;p&gt;
             Terminator is remembered for many things but the primary reason remains this – Arnold
@@ -36,7 +36,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             &lt;i&gt;A martini. Shaken, not stirred&lt;/i&gt; (Goldfinger, 1964)&lt;/h3&gt;
-        &lt;img src="http://rockying.com/art/Hollywood%20dialogues%202/james%20bond.jpg" title="Sean Connery in Goldfinger"
+        &lt;img src="//rockying.com/art/Hollywood%20dialogues%202/james%20bond.jpg" title="Sean Connery in Goldfinger"
             alt="" style="width: 300px;" /&gt;
         &lt;p&gt;
             Sean Connery remains the favorite Bond and his phrases deserve the same honor.Though
@@ -47,7 +47,7 @@
         &lt;h3&gt;
             &lt;i&gt;Carpe diem. Seize the day, boys. Make your lives extraordinary&lt;/i&gt; (Dead Poet’s
             Society, 1989)&lt;/h3&gt;
-        &lt;img src="http://rockying.com/art/Hollywood%20dialogues%202/carpe%20diem.jpg" title="Robin Williams In Dead Poet"
+        &lt;img src="//rockying.com/art/Hollywood%20dialogues%202/carpe%20diem.jpg" title="Robin Williams In Dead Poet"
             alt="" style="width: 300px;" /&gt;
         &lt;p&gt;
             Carpe Diem is a Latin phrase that means to pick or to gather but has extensively
@@ -58,7 +58,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             &lt;i&gt;"I’m the King of the World"&lt;/i&gt; (Titanic, 1997)&lt;/h3&gt;
-        &lt;img src="http://rockying.com/art/Hollywood%20dialogues%202/im%20the%20king%20of%20the%20world.jpg"
+        &lt;img src="//rockying.com/art/Hollywood%20dialogues%202/im%20the%20king%20of%20the%20world.jpg"
             title="Di Caprio In Titanic" alt="" style="height: 300px;" /&gt;
         &lt;p&gt;
             Besides everything the movie is remembered for, this dialogue captures the true
@@ -67,7 +67,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             &lt;i&gt;"Well, nobody's perfect"&lt;/i&gt; (Some like it hot, 1959)&lt;/h3&gt;
-        &lt;img src="http://rockying.com/art/Hollywood%20dialogues%202/some%20like%20it%20hot.jpg"
+        &lt;img src="//rockying.com/art/Hollywood%20dialogues%202/some%20like%20it%20hot.jpg"
             title="J. E. Brown in some Like It Hot" alt="" style="width: 300px;" /&gt;
         &lt;p&gt;
             The dialogue which made every one stand up and take notice that after all, we are
@@ -77,7 +77,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             "&lt;i&gt;We rob banks&lt;/i&gt;" (Bonnie and Clyde, 1967)&lt;/h3&gt;
-        &lt;img src="http://rockying.com/art/Hollywood%20dialogues%202/bonnie%20and%20clyde.jpg"
+        &lt;img src="//rockying.com/art/Hollywood%20dialogues%202/bonnie%20and%20clyde.jpg"
             title="Bonnie and Clyde 1967" alt="" style="width: 300px;" /&gt;
         &lt;p&gt;
             The movie was considered landmark for “breaking many cinematic taboos” but this
@@ -87,7 +87,7 @@
         &lt;h3&gt;
             "&lt;i&gt;Badges? We ain't got no badges! We don't need no badges! I don't have to show you
                 any stinking badges&lt;/i&gt;!" (The Treasure of the Sierra Madre, 1948)&lt;/h3&gt;
-        &lt;img src="http://rockying.com/art/Hollywood%20dialogues%202/badges.jpg" title="The Treasure of the Sierra 1948"
+        &lt;img src="//rockying.com/art/Hollywood%20dialogues%202/badges.jpg" title="The Treasure of the Sierra 1948"
             alt="" style="width: 300px;" /&gt;
         &lt;p&gt;
             Though the quote is actually a misquote, It is based on a line of dialog from a
@@ -97,7 +97,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             "&lt;i&gt;May the Force be with you&lt;/i&gt;" (Star Wars, 1977)&lt;/h3&gt;
-        &lt;img src="http://rockying.com/art/Hollywood%20dialogues%202/may%20the%20force%20be%20with%20you.jpg"
+        &lt;img src="//rockying.com/art/Hollywood%20dialogues%202/may%20the%20force%20be%20with%20you.jpg"
             title="Star Wars" alt="" style="width: 300px;" /&gt;
         &lt;p&gt;
             You can’t be a movie fan and not have watched Star Wars; further, you can’t be a
@@ -107,7 +107,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             "&lt;i&gt;E.T. phone home&lt;/i&gt;" (E.T The extra terrestrial, 1982)&lt;/h3&gt;
-        &lt;img src="http://rockying.com/art/Hollywood%20dialogues%202/e.t.jpg" title="E.T The Extra Terrestrial 1982"
+        &lt;img src="//rockying.com/art/Hollywood%20dialogues%202/e.t.jpg" title="E.T The Extra Terrestrial 1982"
             alt="" style="width: 223px;" /&gt;
         &lt;p&gt;
             The E.T Craze still lingers and the dialogue to phone home just got bigger than
@@ -116,7 +116,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             "&lt;i&gt;You talkin to me&lt;/i&gt;" (Taxi Driver, 1976)&lt;/h3&gt;
-        &lt;img src="http://rockying.com/art/Hollywood%20dialogues%202/you%20talkin%20to%20me.jpg"
+        &lt;img src="//rockying.com/art/Hollywood%20dialogues%202/you%20talkin%20to%20me.jpg"
             title="Robert Di Niro in Taxi Driver 1976" alt="" style="width: 300px;" /&gt;
         &lt;p&gt;
             This dialogue delivered by Robert Di Niro became the pop culture and has since then,
@@ -127,7 +127,7 @@
         &lt;h3&gt;
             “&lt;i&gt;But it ain't how hard you hit; it's about how hard you can get hit, and keep moving
                 forward&lt;/i&gt;”. (Rocky Balboa, 2006)&lt;/h3&gt;
-        &lt;img src="http://rockying.com/art/Hollywood%20dialogues%202/rockybalboa.jpg" title="Rocky Balboa 2006"
+        &lt;img src="//rockying.com/art/Hollywood%20dialogues%202/rockybalboa.jpg" title="Rocky Balboa 2006"
             alt="" style="width: 300px;" /&gt;
         &lt;p&gt;
             And last but not the least, the editor’s choice, When senior Rocky says this to
@@ -138,7 +138,7 @@
 &lt;/ol&gt;
 &lt;h6&gt;
     So, our take on the twenty one most favorite quotes that still remain a cinematic
-    favorite. Just in case you missed it, &lt;a href="http://www.rockying.com/a/63"&gt;click here&lt;/a&gt;
+    favorite. Just in case you missed it, &lt;a href="//rockying.com/a/63"&gt;click here&lt;/a&gt;
     for the first ten. Do add in yours, tell us what your favorite movie quote to date
     remains!&lt;/h6&gt;</Text>
   <WriterName>Hajra Khatoon</WriterName>

@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>Nashik, a Confluence of Culture and Modernity; and a Perfect weekend Getaway!</Title>
-  <OGImage>http://www.rockying.com/art/Travel/Nashik/Sula-vineyard-resort.jpg</OGImage>
+  <MetaTitle>Nashik, a Confluence of Culture and Modernity; and a Perfect weekend Getaway!</MetaTitle>
+  <OGImage>//rockying.com/art/Travel/Nashik/Sula-vineyard-resort.jpg</OGImage>
   <OGDescription>monsoon road trips are not something usually recommended by travel gurus. Contrarily as I drove down from the arid waste lands of Rajasthan to the lush green Western Ghats in Maharashtra, I realised that may be even the travel gurus...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,11 +13,11 @@
   <Category>17</Category>
   <Tag>Nashik, Travel India, Nashik Wine Yards, Way to Shirdi.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/Travel/Nashik/Sula-vineyard-resort.jpg' alt='' /&gt;&lt;p&gt;monsoon road trips are not something usually recommended by travel gurus. Contrarily as I drove down from the arid waste lands of Rajasthan to the lush green Western Ghats in Maharashtra, I realised that may be even the travel gurus...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/Travel/Nashik/Sula-vineyard-resort.jpg' alt='' /&gt;&lt;p&gt;monsoon road trips are not something usually recommended by travel gurus. Contrarily as I drove down from the arid waste lands of Rajasthan to the lush green Western Ghats in Maharashtra, I realised that may be even the travel gurus...&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
 It's monsoons in India and what a relief it is from the scorching heat that strikes us the 'May-time' of the year.
 &lt;img alt="Big grin" width="30" height="40" src="http://www.sherv.net/cm/emo/happy/big-grin-smiley-emoticon.gif"&gt; &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Nashik/Road-Monsoon.jpg"&gt;
+&lt;img src="//rockying.com/art/Travel/Nashik/Road-Monsoon.jpg"&gt;
 &lt;p&gt;
 Though monsoon road trips are not something usually recommended by travel gurus as I drove down from the arid waste lands of Rajasthan to the lush green Western Ghats in Maharashtra, I realized that may be even the travel gurus we rely on can get it wrong at times. Beautiful scenery all around, excellent roads (Gujarat and Rajasthan have some of the best roads in the country) and the wonderful wet, mist, monsoon feel are an unbeatable mix. I reached Nashik after three days of bliss on the roads and was immediately taken by its beautiful surroundings. The wine capital of India is situated on the banks of the legendary Godavari, surrounded by the impeccable beauty of the ghats. Table-top mountains dotted with tall, white, windmills greet you as you drive into one of the prettiest locales in the country.  
 &lt;/p&gt;
@@ -26,29 +27,29 @@ Though monsoon road trips are not something usually recommended by travel gurus 
 &lt;p&gt;
 Nashik has its roots deep in the mythological golden era of India. 
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Nashik/panchwati.jpg"&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Nashik/Lakshman-cutting-nose-Panchvati.JPG"&gt;
+&lt;img src="//rockying.com/art/Travel/Nashik/panchwati.jpg"&gt;
+&lt;img src="//rockying.com/art/Travel/Nashik/Lakshman-cutting-nose-Panchvati.JPG"&gt;
 &lt;p&gt;
 It is believed that Ram had stayed with Sita at this very place during his exile and it was here that Lakshman had cut off the nose of Surpanakha, the demon sister of Ravana (depicted in the images above). The Sanskrit word for “nose” is “Nashik” and the name has stuck through the ages.
 &lt;/p&gt;
 &lt;hr&gt;
 &lt;h4&gt;The Historical Connect&lt;/h4&gt; 
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Nashik/Pandavleni_Caves_Nashik.jpg"&gt;
+&lt;img src="//rockying.com/art/Travel/Nashik/Pandavleni_Caves_Nashik.jpg"&gt;
 &lt;p&gt;
 Nashik’s historic connect goes beyond the mythological tales. It is home to the famous Pandu lena caves- also known as the Trirashmi Caves. These beautifully preserved caves are the remains of ancient “vihaars” for the wandering Buddhist monks in the days gone by and one can still see extensive stories written on the cave walls in the old Brahmi script.
 &lt;/p&gt;
 &lt;hr&gt;
 &lt;h4&gt;Temple City&lt;/h4&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Nashik/Shirdi-Sai-Baba.jpg"&gt;
+&lt;img src="//rockying.com/art/Travel/Nashik/Shirdi-Sai-Baba.jpg"&gt;
 &lt;p&gt;
 Millions of devotees descend upon the city for the journey to the abode of the most revered Sai Baba of Shirdi. The holy town is 112 km away from Nashik and is a popular destination all year round where devotees start queuing up since the early hours of dawn for an entry in the holy inner sanctum. Anjaneri and Panchvati are two more important spiritual destinations near the city, making it truly the City of Temples.
 &lt;/p&gt;
 &lt;hr&gt;
 &lt;h4&gt;Deolali&lt;/h4&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Nashik/Deolali-Army-Base.jpg"&gt;
+&lt;img src="//rockying.com/art/Travel/Nashik/Deolali-Army-Base.jpg"&gt;
 &lt;p&gt;
 Nestled in the mountains of Sahyadri ranges, Deolali is one of the Army’s oldest training schools, set up by the British back in 1861.  Home to the Artillery Training School of our Army, Devlali is a quaint little cantonment town with shops in its charming marketplace that are more than a hundred years old. One of the major landmarks is the Temple Hill nestled inside the camp where Lord Khandoba is worshipped by the locals. According to one interesting legend, back in the times of the Raj, soldiers who could not handle stress were referred to a military hospital in Deolali cantonment and this gave birth to the English idiom "to go doolally", meaning to become mad or freakish. 
 &lt;/p&gt;
@@ -58,22 +59,21 @@ Nestled in the mountains of Sahyadri ranges, Deolali is one of the Army’s olde
 &lt;p&gt;
 Nashik is truly India’s wine country. Of the country's total 92 wineries, Maharashtra's share is 74 and Nashik alone has around 36 of them. The temperature and climate makes this the most fertile ground for table grapes and Nashik has emerged as the biggest producer of wine in the country. One of the first wineries set up in Nashik, back in 1999, is the famous Sula.
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Nashik/Sula-Vineyard.jpg" &gt;
-&lt;img src="http://www.rockying.com/art/Travel/Nashik/How-wine-is-made.JPG"&gt;
+&lt;img src="//rockying.com/art/Travel/Nashik/Sula-Vineyard.jpg" &gt;
+&lt;img src="//rockying.com/art/Travel/Nashik/How-wine-is-made.JPG"&gt;
 &lt;p&gt;
 The wines made here have found their way the world over even as the vineyards themselves have become the most sought-after getaway for discerning visitors, who come to enjoy wines and the scenic beauty of this picturesque destination. Sula conducts a wonderful tour where along with tasting different variety of wines you also get to know about kind of grapes and the process used for manufacturing wines. December-February is the harvesting season when they organise the Sula Fest where you can enjoy world class music along with some unique moments like crushing the fresh grapes with your feet (just like in the picture above ;)).
 &lt;/p&gt;
 &lt;hr&gt;
 &lt;h4&gt;A chilled out getaway!&lt;/h4&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Nashik/Sula-vineyard-resort.jpg"&gt;
+&lt;img src="//rockying.com/art/Travel/Nashik/Sula-vineyard-resort.jpg"&gt;
 &lt;p&gt;
 Nashik is easily connected to the rest of India through road, rail and air. Its proximity to Mumbai makes sit an easy weekend getaway for the denizens of the metropolis’ urban jungle. Its old world charm, the spiritual haunts, beautiful mountain drives all around and the beautiful vineyards make it a destination for laying back and taking it easy. Sitting on Sula’s wine tasting deck with a glass of bubbly in your hand and a wonderful sunset painting the vineyards and lake in front of you- chilling out just can’t get better than this.
 &lt;/p&gt;</Text>
-  <SlideShowOn>false</SlideShowOn>
-  <QuestionOn>false</QuestionOn>
   <WriterName>Sonali Chowdhury</WriterName>
   <WriterEmail>media.sonali@gmail.com</WriterEmail>
   <Viewed>0</Viewed>
-  <Promotion />
+  <TemplateName />
+  <URL>263</URL>
 </Article>

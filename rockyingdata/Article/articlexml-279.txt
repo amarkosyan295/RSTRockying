@@ -3,7 +3,7 @@
   <ID>0</ID>
   <Title>Dead and loving it: Hollywood and its Vampires (Part I)</Title>
   <MetaTitle>Best vampire Movies &amp; series in hollywood</MetaTitle>
-  <OGImage>http://www.rockying.com/art/HOllywood/Vampires-1/the-cullens.jpg</OGImage>
+  <OGImage>//rockying.com/art/HOllywood/Vampires-1/the-cullens.jpg</OGImage>
   <OGDescription>Dracula, The blade series. The twilight series, the underworld series are some Best vampire Movies &amp; series in hollywood.</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -13,7 +13,7 @@
   <Category>12</Category>
   <Tag>Vampires, Hollywood Vampires, The Blade Series, Dracula, The Twilight Series, The Underworld Series, Abraham Lincoln: Vampire Hunter, Van Helsing, Hotel Transylvania.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/HOllywood/Vampires-1/the-cullens.jpg' alt='' /&gt;&lt;p&gt;Dracula, The blade series. The twilight series, the underworld series are some Best vampire Movies &amp; series in hollywood.&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/HOllywood/Vampires-1/the-cullens.jpg' alt='' /&gt;&lt;p&gt;Dracula, The blade series. The twilight series, the underworld series are some Best vampire Movies &amp; series in hollywood.&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
 Hollywood and its Monsters have a special bond. Perhaps the oldest of the clan of on screen horrors have been the creepy-yet-sexy Vampires: the blood sucking, never dying, sunlight hating breed of creepy, pale faced movie monsters. Starting from the era of silent movies to the modern day special effects blockbusters, the Vampires have maintained their place on the tinsel screen, staying alive through decades of change just like their fictional undying status warrants. After the series on their distant cousins, the Zombies; Rockying now focuses on Dracula’s spawn and brings to you a list of the Vampire movies you must watch before you die (and hopefully are not born again as a blood thirsty creature of the night!)
 &lt;/p&gt;
@@ -21,9 +21,9 @@ Hollywood and its Monsters have a special bond. Perhaps the oldest of the clan o
 &lt;hr&gt;
 &lt;h3&gt;The Legend of the Night: History of the Vampire&lt;/h3&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Vampires-1/Dracula1st-Book-Bram-Stoker.jpg" alt="Dracula-by-Bram-Stoker" class="pull-left" style="margin-right:5px;"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Vampires-1/Dracula1st-Book-Bram-Stoker.jpg" alt="Dracula-by-Bram-Stoker" class="pull-left" style="margin-right:5px;"/&gt;
 &lt;p&gt;
-The legend of the Vampire  &lt;img src="http://www.rockying.com/art/HOllywood/Vampires-1/decaris.jpg" alt="Vampire-HIstory" class="pull-right" style="margin-left:5px;"/&gt;was rife in Europe during the MiddleAges and historians lay the blame on a particularly evil dude called Vlad the Third, the Prince of Wallachia in modern day Romania during the mid-15th century. Vlad was not the kind of person you would like to hang out with in a bar because he was a vile aristocrat who reportedly loved impaling people and bathe in their blood. His family used the moniker Dracul, meaning Son of the Dragon, and Vlad lived up to the name, reportedly responsible for killing tens of thousands of people during his reign.
+The legend of the Vampire  &lt;img src="//rockying.com/art/HOllywood/Vampires-1/decaris.jpg" alt="Vampire-HIstory" class="pull-right" style="margin-left:5px;"/&gt;was rife in Europe during the MiddleAges and historians lay the blame on a particularly evil dude called Vlad the Third, the Prince of Wallachia in modern day Romania during the mid-15th century. Vlad was not the kind of person you would like to hang out with in a bar because he was a vile aristocrat who reportedly loved impaling people and bathe in their blood. His family used the moniker Dracul, meaning Son of the Dragon, and Vlad lived up to the name, reportedly responsible for killing tens of thousands of people during his reign.
 &lt;/p&gt;
 &lt;p&gt;
 The legends around this creepy Dark Ages monster prince inspired Bram Stoker, an Irish author who used it as the basis for his famous 1897 novel, Dracula. The novel was a blockbuster of its time and started the craze for the vampire genre, establishing the image of handsome, aristocratic, pale and mysterious men who were secretly vampires- a story line that is used till this day. The traditional legends and the new wave of vampire fiction created &lt;b&gt;the rules of the vampire&lt;/b&gt;- their allergy to the sun, immortal life, the ability to turn into bats, fatal weakness towards garlic, holy water and Christian crosses becoming trademarks of their stories. 
@@ -44,7 +44,7 @@ The Blade Series
 &lt;/h4&gt;
 &lt;/li&gt;
 &lt;h6&gt;The power of an immortal. The soul of a human. The heart of a hero&lt;/h6&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Vampires-1/Blade-Vampires.jpg" alt="Blade Movie"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Vampires-1/Blade-Vampires.jpg" alt="Blade Movie"/&gt;
 &lt;p&gt;
 Based on the Marvel comic series from the 70s, Blade is the story of its titular character, who is notorious as the Daywalker among the Vampire clans because he loves nothing more than hunting down the blood suckers who bit his mother, killed her and made him half vampire. The story sticks to the original legends, killing vampires through holy water, chopped heads and exposure to sunlight. Action star Wesley Snipes shines as the titular dhampir (a human with vampire genes) and the fast martial arts inspired action scenes coupled with some slick script writing and dark humour makes Blade a must watch in the genre. An amazing first movie (with an awesome opening scene in a Vampire disco) and an even better sequel make this an amazing series. Just stay clear of the terrible third movie. You have been warned.
 &lt;/p&gt;
@@ -56,7 +56,7 @@ The Twilight Series
             &lt;h6&gt;
 When you can live forever what do you live for?
             &lt;/h6&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Vampires-1/Twilight.jpg" alt="Edward-Bella-Twilight"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Vampires-1/Twilight.jpg" alt="Edward-Bella-Twilight"/&gt;
 &lt;p&gt;
 Stephanie Myers’ books divided the vampire fans in two parts: those who loved the old fashioned, blood thirsty creatures and those who favored the new, romantic, Mills &amp; Boons styled shiny lover boys. The movies made a huge amount of money and divided the fans even more despite being panned by critics as some of the worst movies ever made. Twilight tells the story of the awkward teenager Bella who moves to a new town and falls in love with a boy in her class, who by the way is a hundred year old vampire. Her childhood friend, who also develops a crush on her, is secretly a werewolf and this triangle becomes the core of the story. The movie did away with many vampire clichés and the bloodsuckers were shown shining like diamonds in the sunlight instead of dying. Post the gazillions of dollars the movie minted at the box office, Robert Pattinson has moved on to more serious cinema while Kirsten Stewart is frozen in her career, much like her expressions were for the entire series. 
 &lt;/p&gt;
@@ -66,7 +66,7 @@ The Underworld Series
 &lt;/h4&gt;
 &lt;/li&gt;
 &lt;h6&gt;An immortal battle for supremacy&lt;/h6&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Vampires-1/Underworld-Vampires-Werewolves.jpg" alt="Underworld"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Vampires-1/Underworld-Vampires-Werewolves.jpg" alt="Underworld"/&gt;
 &lt;p&gt;
 Kate Beckinsale in a skin tight leather dress was reason enough for fans to crowd the theaters for the many movies in this epic action series. Based on the novel of the same name, the movie chronicles the centuries old battle between Lycans (werewolves) and Vampires (now you know where Twilight got its “inspiration” from). One of those movies which stuck with the old legends, Underworld followed the rules like sunlight hating but it was the unique master-slave relation between the two mythological creatures that makes it stand out from the rest of the crowd. The action scenes involving the two, the amazing story of the three Vampire Elders and Bill Nighy’s portrayal of Viktor make it an absolute popcorn delight.
 &lt;/p&gt;
@@ -76,7 +76,7 @@ Abraham Lincoln: Vampire Hunter (2012)
 &lt;/h4&gt;
 &lt;/li&gt;
 &lt;h6&gt;President by day. Hunter by night.&lt;/h6&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Vampires-1/Vampire-Hunter_03.jpg" alt="Abraham Lincoln Vampire Hunter"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Vampires-1/Vampire-Hunter_03.jpg" alt="Abraham Lincoln Vampire Hunter"/&gt;
 &lt;p&gt;
 The latest in the genre saw America turn to its favorite President and turn him into an axe wielding, head chopping, fist punching hunter of the undead. Ridiculously fun and utterly ignorant to all historical accuracy, the movie, like the novel it was based on, became a huge hit. Abe Lincoln is shown secretly battling hordes of vampires even as he leads a normal life, finds love and gets married and also presides over a country embroiled in a deadly civil war. Steven Spielberg gave us a more serious story on the President later that year but sorry Steve, we like the ass-kicking version better!
 &lt;/p&gt;
@@ -86,7 +86,7 @@ The latest in the genre saw America turn to its favorite President and turn him 
 &lt;b&gt;Van Helsing&lt;/b&gt;- Vampires, werewolves, Dracula, Frankenstein’s monster and Kate Beckinsale in a skin tight leather dress (again!) made this &lt;i&gt;masala&lt;/i&gt; potboiler of a movie a smash hit.
 &lt;/p&gt;
 &lt;/li&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Vampires-1/Hotel-Transylvania.jpg" alt="Hotel Transylvania"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Vampires-1/Hotel-Transylvania.jpg" alt="Hotel Transylvania"/&gt;
 &lt;li&gt;
 &lt;p&gt;
 &lt;b&gt;Hotel Transylvania&lt;/b&gt;-An animated caper featuring the voices of Adam Sandler and Selena Gomez, this cute tale of vampires falling in love is a refreshing change from all the bloodshed common to the genre.

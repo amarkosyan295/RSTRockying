@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>Brief history of Ice Cream</Title>
-  <OGImage>http://www.rockying.com/art/Food/Ice Cream/ice-cream1.jpg</OGImage>
+  <MetaTitle>Brief history of Ice Cream</MetaTitle>
+  <OGImage>//rockying.com/art/Food/Ice Cream/ice-cream1.jpg</OGImage>
   <OGDescription>Origin of Ice Cream</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,7 +13,7 @@
   <Category>13</Category>
   <Tag>Ice cream, Father of the ice cream industry, First ice cream parlour</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/Food/Ice Cream/ice-cream1.jpg' alt='' /&gt;&lt;p&gt;Origin of Ice Cream&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/Food/Ice Cream/ice-cream1.jpg' alt='' /&gt;&lt;p&gt;Origin of Ice Cream&lt;/p&gt;</Description>
   <Text>&lt;div&gt;
     &lt;button id="prevslide" type='button' style='width: 40px; height: 40px; font-size: 50px;
         font-weight: 100; color: #000; border: none; text-align: center; margin: 0px;
@@ -27,33 +28,32 @@
 &lt;/div&gt;
 &lt;div class="slideshow"&gt;
     &lt;div class="slide" style="text-align: center;"&gt;
-        &lt;img src="http://www.rockying.com/art/Food/Ice Cream/ice-cream1.jpg" alt="Ice Cream" /&gt;
+        &lt;img src="//rockying.com/art/Food/Ice Cream/ice-cream1.jpg" alt="Ice Cream" /&gt;
     &lt;/div&gt;
     &lt;div class="slide" style="text-align: center;"&gt;
-        &lt;img src="http://www.rockying.com/art/Food/Ice Cream/ice-cream2.jpg" alt="Origin of Ice Cream"
+        &lt;img src="//rockying.com/art/Food/Ice Cream/ice-cream2.jpg" alt="Origin of Ice Cream"
             title="Origin of Ice cream" /&gt;
     &lt;/div&gt;
     &lt;div class="slide" style="text-align: center;"&gt;
-        &lt;img src="http://www.rockying.com/art/Food/Ice Cream/ice-cream3.jpg" alt="How ice cream was made before electricity was invented."
+        &lt;img src="//rockying.com/art/Food/Ice Cream/ice-cream3.jpg" alt="How ice cream was made before electricity was invented."
             title="How ice cream was made before electricity was invented." /&gt;
     &lt;/div&gt;
     &lt;div class="slide" style="text-align: center;"&gt;
-        &lt;img src="http://www.rockying.com/art/Food/Ice Cream/ice-cream4.jpg" alt="In 1843, Nancy M.Jhonson received a patent for the first hand-cranked ice cream freezer."
+        &lt;img src="//rockying.com/art/Food/Ice Cream/ice-cream4.jpg" alt="In 1843, Nancy M.Jhonson received a patent for the first hand-cranked ice cream freezer."
             title="In 1843, Nancy M.Jhonson received a patent for the first hand-cranked ice cream freezer." /&gt;
     &lt;/div&gt;
     &lt;div class="slide" style="text-align: center;"&gt;
-        &lt;img src="http://www.rockying.com/art/Food/Ice Cream/ice-cream5.jpg" alt="First ice cream parlor open in 1776, New York City."
+        &lt;img src="//rockying.com/art/Food/Ice Cream/ice-cream5.jpg" alt="First ice cream parlor open in 1776, New York City."
             title="First ice cream parlor open in 1776, New York City." /&gt;
     &lt;/div&gt;
     &lt;div class="slide" style="text-align: center;"&gt;
-        &lt;img src="http://www.rockying.com/art/Food/Ice Cream/ice-cream6.jpg" alt="Jacob Fussell, the Father of the ice cream industry, opened the first commercial ice cream plant in the US in 1851."
+        &lt;img src="//rockying.com/art/Food/Ice Cream/ice-cream6.jpg" alt="Jacob Fussell, the Father of the ice cream industry, opened the first commercial ice cream plant in the US in 1851."
             title="Cafe procope - the world's first restaurant to serve ice cream in 1686" /&gt;
     &lt;/div&gt;
 &lt;/div&gt;</Text>
-  <SlideShowOn>true</SlideShowOn>
-  <QuestionOn>false</QuestionOn>
   <WriterName>Vratika Singh</WriterName>
   <WriterEmail>vratika@rudrasofttech.com</WriterEmail>
   <Viewed>0</Viewed>
-  <Promotion />
+  <TemplateName />
+  <URL>232</URL>
 </Article>

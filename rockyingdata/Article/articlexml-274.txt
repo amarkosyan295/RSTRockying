@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>10 Best Hindi Films based on the Lives of India's Legendary Freedom Fighters; (Listed with Incredible related Facts)</Title>
-  <OGImage>http://www.rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Legend-Court.jpg</OGImage>
+  <MetaTitle>10 Best Hindi Films based on the Lives of India's Legendary Freedom Fighters; (Listed with Incredible related Facts)</MetaTitle>
+  <OGImage>//rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Legend-Court.jpg</OGImage>
   <OGDescription>Know crazy incredible facts about our most loved freedom fighters this Independence Day.Courtesy: Bollywood.</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,7 +13,7 @@
   <Category>4</Category>
   <Tag>Bollywood and Indian Freedom Fighters, The Legend Of Bhagat Singh, Mangal Pandey, Sardar, Bose The Forgotten Hero, Chittagong.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Legend-Court.jpg' alt='' /&gt;&lt;p&gt;Know crazy incredible facts about our most loved freedom fighters this Independence Day.Courtesy: Bollywood.&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Legend-Court.jpg' alt='' /&gt;&lt;p&gt;Know crazy incredible facts about our most loved freedom fighters this Independence Day.Courtesy: Bollywood.&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
     The Independence of our nation deeply reminisces of those martyrs whose sacrifices bestowed us with the freedom we, today, live in. We at Rockying salute those legends and feel proud of their courage. On the eve of Independence Day, presenting a recoup of yesteryear epics dedicated to those heroic freedom fighters of our great country, India to relive the guts and glory yet again. &lt;/p&gt;
 &lt;ol&gt;
@@ -22,13 +23,13 @@
             Mangal Pandey: The Rising (2005)&lt;/h3&gt;
 &lt;hr&gt;
 &lt;h5&gt;The Hero:&lt;/h5&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Freedom-Fighters-Bollywood/mangal_pandey.jpg" alt="Mangal Pandey" class="pull-left"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Freedom-Fighters-Bollywood/mangal_pandey.jpg" alt="Mangal Pandey" class="pull-left"/&gt;
         &lt;p&gt;
             Mangal Pandey was a daring soldier whose initiatives fueled the "The First War of Indian Independence" of 1857. The principal justification behind Mangal Pandey's sudden fierceness at Barrackpore in Bengal division against British-raj is conveyed to be a new type of bullet cartridge used in the Enfield P-53 rifle that was supposed to be plugged in the Bengal Army in 1857. The cartridge was perceived to be lubricated with animal fat, mainly from pigs and cows, consumption of which is against the Muslim and Hindu religions respectively. The cartridges were required to be nibbled at one end prior to use. The Indian troop opined that this was done deliberately by the British, with the objective of tainting the Muslim and Hindu religions. This ousted the sudden wrath towards the British forces in the minds of Mangal and his aides. The attack then by Pandey to Lieutenant Baugh, and punishment faced by him, is widely viewed as the beginning of the Indian Rebellion of 1857.
 &lt;/p&gt;
 &lt;br&gt;
 &lt;h5&gt;The Movie:&lt;/h5&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Mangal-Pandey-Movie.jpg" alt="Mangal Pandey the Rising"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Mangal-Pandey-Movie.jpg" alt="Mangal Pandey the Rising"/&gt;
 &lt;p&gt;
 Mangal Pandey: The Rising starring Aamir Khan as Mangal Pandey, Rani Mukherjee as a prostitute and Amisha Patel as a woman about to die under “Sati pratha” and saved later, was ace director Ketan Mehta’s attempt to unroll real life incidences of the first freedom revolutionary of the nation. 
 &lt;/p&gt;
@@ -43,13 +44,13 @@ The Bharatiya Janata Party had sought a ban on the film, saying it depicts fabri
             Shaheed (1965)&lt;/h3&gt;
 &lt;hr&gt;
 &lt;h4&gt;The Hero:&lt;/h4&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Bhagat-Singh.jpg" alt="Bhagat Singh" class="pull-left"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Bhagat-Singh.jpg" alt="Bhagat Singh" class="pull-left"/&gt;
         &lt;p&gt;
             In the year 1916 in India when Sardar Kishan Singh and his family, as well as son Bhagat, are upset when Sardar's brother, Ajit Singh, is detained for getting vocal in opposition to the British. He then strangely vanishes after allegedly evading from prison and is never to be heard then after. This motivates young Bhagat Singh's mind who participates the freedom fighting movement spearheaded by Chandrashekar Azad. Bhagat, Chandrashekar Azad, Rajguru, Sukhdev, and Jaygopal decide to retaliate on the death of a defenseless protester against Simon Commission by killing Assistant Commissioner Saunders. They successfully kill him and run away to avoid the huge police quest drive. Bhagat is the one termed as a major infer but he then takes away his turban, shaves his beard and changes his appearance to return to the freedom movement. As time lapses, &lt;a href="http://www.indiabobbles.com/bhagat-singh-figurine" target="_blank" &gt;Bhagat Singh&lt;/a&gt; and his aide Batukeshwar Dutt detonate a bomb in the Central Assembly of the British Parliament to showcase their act of protest. Bhagat and his best friend Sukhdev along with others get arrested and put on trial while in a prison. Bhagat and his fellow freedom fighters declare a hunger strike after witnessing the bad treatment of Indian prisoners leading to Yatindranath’s death. The trial culminates with Bhagat Singh, Rajguru and Sukhdev hanged to death sentences. The men chant: "Inquilab zindabad’ (Long live the Revolution)!" prior to their execution. Accepting death with a smile, the legendary freedom fighter apart from shivering the foundations’ of the British Empire also inspired millions with his daring guts of confidence. 
 &lt;/p&gt;
 &lt;br&gt;
 &lt;h4&gt;The Movie:&lt;/h4&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Shaheed-Movie.jpg" alt="Shaheed"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Shaheed-Movie.jpg" alt="Shaheed"/&gt;
 &lt;p&gt;
 Shaheed is a 1965 Hindi film starring Manoj Kumar depicting Bhagat Singh's life. At the 13th National Film Awards, Shaheed claimed the award for Best Feature Film in Hindi, the Nargis Dutt Award for Best Feature Film on National Integration and the award for Best Screenplay for B. K. Dutt and Din Dayal Sharma. 
 &lt;/p&gt;
@@ -65,13 +66,13 @@ The screenplay inputs in this version of the film were in fact contributed by Bh
             The Legend of Bhagat Singh (2002)&lt;/h3&gt;
 &lt;hr&gt;
 &lt;h4&gt;The Heroes:&lt;/h4&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Bhagat-Singh-aides.jpg" alt="Bhagat Singh and Aides"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Bhagat-Singh-aides.jpg" alt="Bhagat Singh and Aides"/&gt;
         &lt;p&gt;
            Bhagat Singh, an Indian socialist influenced by the anarchist, Marxist ideologies, was among the most influential revolutionaries of Indian independence movement and was one of the core leaders of Hindustan Socialist Republican Association (HSRA) in 1928. Bhagat Singh developed the freedom instincts from his Sikh family’s heroic contribution in revolutionary activities opposing the British Raj in India. Bhagat had a deep influence of Arya Samaj (Hindu reformist movement), is still an immortal idol of modern Indian youth. Bhagat Singh became popular owing to his retaliation to the death of Lala Lajpat Rai and the honor of Rai’s vindication. This amassed the positive popularity of the nation. He became a symbol of the voice of the Indian youth and soul. The popularity grew amazingly high followed by a bombing in the Central Legislative Assembly by Bhagat and his aide Dutt with the chants of ‘Inquilaab Zindabaad’. The shoot by Bhagat and Rajguru lead to the death of British Police Officer John Saunders’ for which Bhagat was convicted and got hanged at the age of 23. He, however, used the platform of the Court to publicize his quest for the Independence of India. 
 &lt;/p&gt;
 &lt;br&gt;
 &lt;h4&gt;The Movie:&lt;/h4&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Legend-Court.jpg" alt="The Legend of Bhagat Singh"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Legend-Court.jpg" alt="The Legend of Bhagat Singh"/&gt;
 &lt;p&gt;
 The Legend of Bhagat Singh, a Rajkumar Santoshi film, starring Ajay Devgan as Bhagat Singh was released in the year 2002. The film was praised critically. The epic won two National Film Awards, the National Film Award for Best Feature Film in Hindi, and three Filmfare Awards, including the Filmfare Critics Award for Best Movie. It is one of the select bio-pics in Indian cinema that conveys a decent story-line while trying to furnish facts as they are.
 &lt;/p&gt;
@@ -86,14 +87,14 @@ Bhagat’s court trial was nothing but the launch of his much-publicized revolut
            23rd March 1931: Shaheed (2002)&lt;/h3&gt;
 &lt;hr&gt;
 &lt;h4&gt;The Heroes:&lt;/h4&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Freedom-Fighters-Bollywood/The-Heroes.jpg" alt="Bhagat Singh and Aides" class="pull-left"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Freedom-Fighters-Bollywood/The-Heroes.jpg" alt="Bhagat Singh and Aides" class="pull-left"/&gt;
         &lt;p&gt;
            Bhagat Singh is furious when his idol Lala Lajpat Rai is cruelly beaten to death by the police, and he decides to even the score of his death. He and his aides successively kill one of the officials responsible, but they get noticed and as a result, Bhagat and Rajguru get arrested and pushed in prison. During their court trial, they confess to the killing and convey that it was done in the name of Freedom (Aazaadi). The judge and the public prosecutor do not consider this reasonable and they are sentenced to life in prison. They attract conviction with sedition and assassination and get ruled to Immortality.
 &lt;/p&gt;
 &lt;br&gt;
 &lt;h4&gt;The Movie:&lt;/h4&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Shaheed-Bobby.jpg" alt="Shaheed" /&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Sunny-Shaheed.jpg" alt="Sunny as Chandra Shekhar Azad" /&gt; 
+&lt;img src="//rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Shaheed-Bobby.jpg" alt="Shaheed" /&gt;
+&lt;img src="//rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Sunny-Shaheed.jpg" alt="Sunny as Chandra Shekhar Azad" /&gt; 
 &lt;div class="clearfix"&gt; &lt;/div&gt;
 &lt;p&gt;
 This is a 2002 film directed by Guddu Dhanoa that reels the events leading up to the hanging of Indian freedom fighter Bhagat Singh and his aides Rajguru and Sukhdev on 23 March 1931. The cast of this epic saga includes Bobby Deol as Bhagat Singh, Sunny Deol as Chandrashekhar Azad and Amrita Singh as Bhagat’s mother. 
@@ -108,13 +109,13 @@ This film is one of the eight films based on the life and times of martyrs Bhaga
         &lt;h3&gt;Sardar (1993)&lt;/h3&gt;
 &lt;hr&gt;
 &lt;h4&gt;The Hero:&lt;/h4&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Sardar-Patel.jpg" alt="Sardar Patel" class="pull-left"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Sardar-Patel.jpg" alt="Sardar Patel" class="pull-left"/&gt;
         &lt;p&gt;
            Sardar Vallabhbhai Patel carried strong political spirit of a great man, since he steered the nation through the gravest crisis state of Indian history, the partition, and also thrived in it. Sardar Vallabhbhai Patel got involved in the freedom struggle of India after his introduction to Mahatma Gandhi which led him to begin Satyagrahas throughout Gujarat. The British government after becoming strong in the nation announced confiscation of all the lands of farmers. Sardar compelled the British government to update the rules and assembled the farmers and motivated them and it was this trait that lead to him being given the title of 'Sardar'. 
 &lt;/p&gt;
 &lt;br&gt;
 &lt;h4&gt;The Movie:&lt;/h4&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Sardar-Movie.jpg" alt="Sardar"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Sardar-Movie.jpg" alt="Sardar"/&gt;
 &lt;p&gt;
 Another gem from director Ketan Mehta, this classic film illustrates Paresh Rawal portraying the life of India's Iron Man. Paresh Rawal pours his heart in a rare historic role. Sardar got his ruggedness harnessed with the rough times he spent in schools he went to as a boy, and the courts where he defended alleged criminals, that stimulated his mental muscles and strict appearance.
 &lt;/p&gt;
@@ -124,20 +125,20 @@ It is due to Sardar and his efforts that we are today, a united nation. In the t
 &lt;/p&gt;
 &lt;/li&gt;
 &lt;hr&gt;
-&lt;h4&gt;Related Article:&lt;a href="http://www.rockying.com/a/best-new-age-indian-patriotic-songs-playlist" target="_blank"&gt;
+&lt;h4&gt;Related Article:&lt;a href="//rockying.com/a/best-new-age-indian-patriotic-songs-playlist" target="_blank"&gt;
 This Independence, get Pumped with these New-age Patriotic Hindi Songs&lt;/a&gt;&lt;/h4&gt;
 &lt;li&gt;
 &lt;hr&gt;
         &lt;h3&gt;Chittagong (2012)&lt;/h3&gt;
 &lt;hr&gt;
 &lt;h4&gt;The Hero:&lt;/h4&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Subodh_roy.jpg" alt="Subodh Roy" class="pull-left"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Subodh_roy.jpg" alt="Subodh Roy" class="pull-left"/&gt;
         &lt;p&gt;
            Surjya Sen -- MasterDa -- decided in 1930 to tempest the British armoury in the Bengali town of Chittagong with an extremely skilled and motivated band of youngsters. The group rips the armoury, damage the telephone and telegraph offices thereby attracting the British Government attention and signalling a powerful gust for the freedom struggle. Jhunku (&lt;b&gt;Subodh Roy&lt;/b&gt;) gets arrested and is beaten badly during questioning however he stays determined and gets sentenced to Kaala-Paani for life custody. This is a traditionally unique achievement that is illegitimately unnoticed by most national textbooks, this apart from being a cinematic feed also is an essential story we must convey.
 &lt;/p&gt;
 &lt;br&gt;
 &lt;h4&gt;The Movie:&lt;/h4&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Chittagong.jpg" alt="Chittagong"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Chittagong.jpg" alt="Chittagong"/&gt;
 &lt;p&gt;
 This film directed by Bedabrata Pain starring Manoj Bajpai in the role of Surya Sen is plotted upon real-life events of India's (now in Bangladesh) Chittagong Uprising. This film claimed the 60th National Film Award for the Best Debut Film of a Director. The perished with time saga of 1930s British colonial India (present day Bangladesh) is well depicted in this classic movie. It is the story of a timid 14 year old boy, the worlds’ youngest rebel leader, Jhunku (real name &lt;b&gt;Subodh Roy&lt;/b&gt;, played by Delzad Hiwale) who is flounced up into this apparently impossible mission where he fights with his own self-doubts to attain an unlikely victory. The rage of the quit-India shouts is what is unique in Pain's inexorably stirring Chittagong. 
 &lt;/p&gt;
@@ -152,13 +153,13 @@ The film, at its end, has a little message from the martyr Subodh Roy himself ly
            Khelen Hum Jee Jaan Se (2010)&lt;/h3&gt;
 &lt;hr&gt;
 &lt;h4&gt;The Hero:&lt;/h4&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Surya-Sen.jpg" alt="Surjya Sen" class="pull-left"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Surya-Sen.jpg" alt="Surjya Sen" class="pull-left"/&gt;
         &lt;p&gt;
            Sen, who carried a burning panache for Swaraj and Independence that forever changed and awakened all of Chittagong leading to inspiring the entire nation. A group of teenagers convey their willingness to participate with Surya Sen in a mission to wipe-out the British out of the nation. Surjya solicits them and trains them in martial arts, shooting and bomb-making. MasterDa weaves the plan to shiver the British Empire by scheduling a raid on police lines Armoury, Cantonment, Telegraph office and Railway lines. Enraged British Army attacks on a calculative basis all these revolutionaries finished them one by one. MasterDa, however, initially manages to escape but other members get arrested or killed in encounters with police while some assume self-death to avoid brutal torture by police. MasterDa finally gets surrounded and caught by police troopers, gets trialled before the court and sentenced to be hanged to death. Surya Sen contentedly accepts the decision and the glorious life of revolutionary legends’, who gave up their lives’ fighting for India's independence, assumes an end.
 &lt;/p&gt;
 &lt;br&gt;
 &lt;h4&gt;The Movie:&lt;/h4&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Khelen-Hum-Jee-Jaan-se.jpg" alt="Khelen Hum Jee Jaan Se"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Khelen-Hum-Jee-Jaan-se.jpg" alt="Khelen Hum Jee Jaan Se"/&gt;
 &lt;p&gt;
 This film is a period piece directed by Ashutosh Gowariker, starring Abhishek Bachchan and Deepika Padukone in the main roles. The film represents the journey of the Chittagong Uprising, from the awakening to its result. The role of Surjya Sen or MasterDa is played by Abhishek Bachchan who is a well-known revolutionary leader of the Indian Republican Army Chittagong. 
 &lt;/p&gt;
@@ -173,13 +174,13 @@ The film is a book to movie adaptation of a best-seller called Do &amp; Die by M
            Netaji Subhash Chandra Bose: The forgotten Hero (2004)&lt;/h3&gt;
 &lt;hr&gt;
 &lt;h4&gt;The Hero:&lt;/h4&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Freedom-Fighters-Bollywood/nethaji.jpg" alt="Subhash Chandra Bose" class="pull-left"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Freedom-Fighters-Bollywood/nethaji.jpg" alt="Subhash Chandra Bose" class="pull-left"/&gt;
         &lt;p&gt;
            Subhash Chandra Bose was one of India's greatest freedom fighter. He was the founder of 'Azad Hind Fauj' with support from Japan. He was strongly influenced by Swami Vivekananda's life preaching’s and was known for his patriotic zeal as a student. Bose is still reminisced by his saying, “tum muje khoon do, main tumhe aazaadi dunga” (&lt;b&gt;‘you give me blood, I will give you freedom’&lt;/b&gt;). Bose crossed the Indian border in Afghanistan to enter Russia and developed an Indian independence Army to move-out the British. His efforts went in vain, but he managed to persuade the Nazis. He recruited the Indian-born British Army POWs, who had been captured in the Battle of Singapore by the Japanese, and began the independence movement. 
 &lt;/p&gt;
 &lt;br&gt;
 &lt;h4&gt;The Movie:&lt;/h4&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Bose-The-Film.jpg" alt="Bose:The Forgotten Hero"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Freedom-Fighters-Bollywood/Bose-The-Film.jpg" alt="Bose:The Forgotten Hero"/&gt;
 &lt;p&gt;
 This iconic portrayal is depicted in the shining performance of Sachin Khedekar in Shyam Benegal’s (2004) Netaji Subhas Chandra Bose: The Forgotten Hero (aka Bose: The Forgotten Hero). The film begins with Netaji giving up the post of president of the Indian National Congress, then heads to Europe to meet Hitler requesting the latter’s support and his success in forming the Indian National Army comprising Indian POWs with the support of Japan. The film culminates with India gaining freedom on 15th August 1947, but the legend to which India had due so much, vanished.
 &lt;/p&gt;
@@ -194,7 +195,7 @@ Bose’s posthumous Bharat Ratna Award (1992) was withdrawn due to lack of evide
            Veer Savarkar(2001)&lt;/h3&gt;
 &lt;hr&gt;
 &lt;h4&gt;The Hero:&lt;/h4&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Freedom-Fighters-Bollywood/veer_savarkar.jpg" alt="Veer Savarkar" class="pull-left"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Freedom-Fighters-Bollywood/veer_savarkar.jpg" alt="Veer Savarkar" class="pull-left"/&gt;
         &lt;p&gt;
            Vinayak Damodar Savarkar (1883 to 1966) was a revolutionary who exhausted many years in prison in the Andamans. He advocated the philosophy of Hindutva and was associated to Mahatma Gandhi's assassination, but was not established culpable. He was born on May 28, 1883, in Bhagpur village near Nashik. The incident in 1898, when the British hanged the Chapekar brothers in Pune for killing a British officer had deeply affected Savarkar, who decided to resort to armed struggle against the British. In 1901, he at the Ferguson College in Pune, set up the Abhinav Bharat Society, which advocated a revolutionary struggle against the British. In Britain, Savarkar organised students and preached an armed struggle to throw the British out of India. He also wrote a book on the 1857 Sepoy Mutiny called India's First War of Independence, a term the Indian government consented after Independence. The book was printed in Holland and copies of it were privately smuggled into India. 
 &lt;/p&gt;
@@ -203,7 +204,7 @@ The book was a great success, giving Indians a strong intellect of pride, giving
 &lt;/p&gt;
 &lt;br&gt;
 &lt;h4&gt;The Movie:&lt;/h4&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Freedom-Fighters-Bollywood/vhp-veer-savarker-dvd-front.jpg" alt="Veer Savarkar"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Freedom-Fighters-Bollywood/vhp-veer-savarker-dvd-front.jpg" alt="Veer Savarkar"/&gt;
 &lt;p&gt;
 Veer Savarkar, film was directed by Ved Rahi and was released on November 16, 2001, starring Shailendra Gaur in the lead and commanding role. The film opens with Veer heading to England to become a barrister and he enrols support for his revolutionary activities in London. It also portrays Veer opposing the British raj openly and getting arrested, attempted escaping while being transferred to India and finishes with India's Independence. The film earned a silver jubilee status at Plaza cinema, Mumbai and Prabhat cinema in Pune. 
 &lt;/p&gt;
@@ -217,13 +218,13 @@ Veer was the first Indian to launch a bonfire of foreign (English) clothes in 19
         &lt;h3&gt;Rang De Basanti (2006)&lt;/h3&gt;
 &lt;hr&gt;
 &lt;h4&gt;The Heroes:&lt;/h4&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Freedom-Fighters-Bollywood/RDB.jpg" alt="Bhagat Singh Aides" class="pull-left"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Freedom-Fighters-Bollywood/RDB.jpg" alt="Bhagat Singh Aides" class="pull-left"/&gt;
         &lt;p&gt;
            Chandra Shekhar Azad and his aides Ashfaqullah Khan, Bhagat Singh, Ram Prasad Bismil lead the light of the armed-freedom struggle in the 1920s. Ram Prasad Bismil who formed the HRA met Azad and executed the famous Kakori train robbery. Azad later re-organized HRA (Hindustan Republican Association) after Ashfaqullah Khan and Bismil were hanged to death by the British. Azad last lead the HRA in 1928 in their operation of killing J.P. Saunders to avenge the killing of Lala Lajpat Rai. 
 &lt;/p&gt;
 &lt;br&gt;&lt;br&gt;
 &lt;h4&gt;The Movie:&lt;/h4&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Freedom-Fighters-Bollywood/RDB (2).jpg" alt="Rang De Basanti"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Freedom-Fighters-Bollywood/RDB (2).jpg" alt="Rang De Basanti"/&gt;
 &lt;p&gt;
 A young British filmmaker Sue (Alice Patten) marches to India to make a film on the young radicals who impressed her grandfather, an angrezon ke zamaane ke jailor, with their tranquil even in the facade of impending death. In Delhi, Sue meets Sonia (Soha Ali Khan), who introduces her to DJ (Aamir Khan), Karan (Siddharth), Sukhi (Sharman Joshi), and Aslam (Kunal Kapoor) the cast of her dream film. This along with the saffron-tint Laxman Pandey (Atul Kulkarni), as a political activist, she anticipates her dream becoming a reality of making a self-financed documentary film on the Indian freedom legends like &lt;b&gt;Bhagat Singh, Chandrasekhar Azad, Rajguru, Ram Prasad Bismil and Ashfaqullah Khan&lt;/b&gt;. Sue, however, bumps on to obstacles emanating from the desi youth who carry no stance for their own country on one hand and desi system of Indian bureaucracy having unchecked corruption on the other. 
 &lt;/p&gt;
@@ -243,7 +244,7 @@ We hope having raised your independence syndrome by now, so move on and lose con
     &lt;span class="qindex"&gt;Q&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-    &lt;img src="http://www.rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Chandra-Shekhar-Azad.jpg" alt="Chandra Shekhar Azad" title="Chandra Shekhar Azad"&gt;      
+    &lt;img src="//rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Chandra-Shekhar-Azad.jpg" alt="Chandra Shekhar Azad" title="Chandra Shekhar Azad"&gt;      
         &lt;/div&gt;
         &lt;div class="span6"&gt;
   &lt;h4&gt;What is the real name of Chandra Shekhar 'Azad'?&lt;/h4&gt;
@@ -258,7 +259,7 @@ In December 1921, when Mahatma Gandhi launched the Non-Cooperation Movement, Cha
                 &lt;li&gt; Chandra Shekhar Pandey&lt;/li&gt;
                 &lt;li&gt; Chandrashekhar Mishra&lt;/li&gt;
     &lt;/ul&gt;
-&lt;/div&gt;&lt;a href="http://www.rockying.com/a/quiz/indias-legendary-freedom-fighters-quiz-do-we-really-know-our-martyrs" target="_blank"&gt;&lt;b&gt;PLAY THE COMPLETE QUIZ NOW!&lt;/b&gt; &lt;/a&gt;</Text>
+&lt;/div&gt;&lt;a href="//rockying.com/a/quiz/indias-legendary-freedom-fighters-quiz-do-we-really-know-our-martyrs" target="_blank"&gt;&lt;b&gt;PLAY THE COMPLETE QUIZ NOW!&lt;/b&gt; &lt;/a&gt;</Text>
   <WriterName>Ranjan Yadav</WriterName>
   <WriterEmail>yadava.ranjan@gmail.com</WriterEmail>
   <Viewed>0</Viewed>

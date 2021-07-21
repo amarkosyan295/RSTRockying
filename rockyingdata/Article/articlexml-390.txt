@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>10 Exhilarating Destinations Every Girl-gang must Explore in Europe</Title>
-  <OGImage>http://www.rockying.com/art/Travel/Europe-with-Girl-Gang/Belgium-Brussels.jpg</OGImage>
+  <MetaTitle>10 Exhilarating Destinations Every Girl-gang must Explore in Europe</MetaTitle>
+  <OGImage>//rockying.com/art/Travel/Europe-with-Girl-Gang/Belgium-Brussels.jpg</OGImage>
   <OGDescription>Longing for that girls-trip you always planned to do but could never really decide on the destination? Fret not, girl, we are going to tell you about the best trip you will ever take with your girlfriends...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,17 +13,17 @@
   <Category>17</Category>
   <Tag>Travel, Europe, Girl-trip, Wanderlust, Amsterdam, Prague, Slovenia, Portugal, Ireland, Spain, Prague, Estonia, Cardiff.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/Travel/Europe-with-Girl-Gang/Belgium-Brussels.jpg' alt='' /&gt;&lt;p&gt;Longing for that girls-trip you always planned to do but could never really decide on the destination? Fret not, girl, we are going to tell you about the best trip you will ever take with your girlfriends...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/Travel/Europe-with-Girl-Gang/Belgium-Brussels.jpg' alt='' /&gt;&lt;p&gt;Longing for that girls-trip you always planned to do but could never really decide on the destination? Fret not, girl, we are going to tell you about the best trip you will ever take with your girlfriends...&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
 Have been longing for that girls-trip you always planned to do but could never really decide on the destination? Obviously, the budget, accommodation, traveling and especially safety are a huge concern for you? Fret not, girl, we are going to tell you about the perfect destination for the best trip you will ever take with your girlfriends. Europe, by far, is the safest place for women to travel. Some cities can be expensive but mostly all cities can be explored on foot and are very friendly and safe. So here are 10 exhilarating destinations every girl-gang or solo traveler must explore in Europe.
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Europe-with-Girl-Gang/10-Exhilarating-Destinations-Every-Girl-gang-must-Explore-In-Europe.jpg" alt="Europe Tour with Girl Gang"&gt;
+&lt;img src="//rockying.com/art/Travel/Europe-with-Girl-Gang/10-Exhilarating-Destinations-Every-Girl-gang-must-Explore-In-Europe.jpg" alt="Europe Tour with Girl Gang"&gt;
 &lt;br&gt;
 Courtesy: &lt;a href="https://www.canva.com/en_in/create/photo-collages/" target="_blank"&gt;Canva&lt;/a&gt;
 &lt;hr&gt;
 &lt;h3&gt;1. Amsterdam, Netherlands&lt;/h3&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Europe-with-Girl-Gang/Amsterdam-Rockying.jpg" alt="Amsterdam-Netherlands"&gt;
+&lt;img src="//rockying.com/art/Travel/Europe-with-Girl-Gang/Amsterdam-Rockying.jpg" alt="Amsterdam-Netherlands"&gt;
 &lt;hr&gt;
 &lt;p&gt;
 This city is extremely liberal, chill and laidback in its vibe. Home to some of the best museums in the world, Amsterdam is easily reachable and will provide you a hassle-free stay. It’s a very bike friendly place to rent a bike to experience the local scenery more. It is safe for women so either travel solo or travel with your girl gang for a relaxing and men free vacation. Nearly everyone speaks English so communication is easy too. The other language that is spoken the most here is Dutch.
@@ -31,7 +32,7 @@ This city is extremely liberal, chill and laidback in its vibe. Home to some of 
 &lt;hr&gt;
 &lt;h3&gt;2. Edinburgh, Scotland&lt;/h3&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Europe-with-Girl-Gang/Edinburgh-Scotland.jpg" alt="Edinburgh-Scotland"&gt;
+&lt;img src="//rockying.com/art/Travel/Europe-with-Girl-Gang/Edinburgh-Scotland.jpg" alt="Edinburgh-Scotland"&gt;
 &lt;hr&gt;
 &lt;p&gt;
 It’s an ideal place for your first solo trip as English is the primary language here and it's very easy to get around and explore the city. The old and the new town has tourist zone where people can easily walk or take a bus to explore the various tourist attractions. The royal mile has pubs, coffee shops, and other shops and is brimming with people; also there are many group tours that you can join if you feel like having company. To know the rich and exciting history of Edinburgh, try the big museum like Scottish National Gallery and National Museum of Scotland which are free for everyone. There are also rich green lands for hiking. The Edinburgh castle is the best place to catch a sunset.
@@ -39,7 +40,7 @@ It’s an ideal place for your first solo trip as English is the primary languag
 &lt;hr&gt;
 &lt;h3&gt;3. Ljubljana, Slovenia&lt;/h3&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Europe-with-Girl-Gang/Slovenia.jpg" alt="Ljubljana-Slovenia"&gt;
+&lt;img src="//rockying.com/art/Travel/Europe-with-Girl-Gang/Slovenia.jpg" alt="Ljubljana-Slovenia"&gt;
 &lt;hr&gt;
 &lt;p&gt;
 The capital of Slovenia is the perfect place if you want to discover the culture of Eastern Europe. Also, not many people know about this mesmerizing city so it’s in its natural and pristine form. It’s not easy to navigate here but it’s very cheap so for short budget, this is definitely a go. You can reach here easily through air or rail from any European country. The main attractions here are the Central Square, where the Franciscan church of the Annunciation is located, Ljubljana castle, town hall, and the Cathedral.
@@ -47,7 +48,7 @@ The capital of Slovenia is the perfect place if you want to discover the culture
 &lt;hr&gt;
 &lt;h3&gt;4. The Azores, Portugal&lt;/h3&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Europe-with-Girl-Gang/Azores-Portugal.jpg" alt="The-Azores-Portugal"&gt;
+&lt;img src="//rockying.com/art/Travel/Europe-with-Girl-Gang/Azores-Portugal.jpg" alt="The-Azores-Portugal"&gt;
 &lt;hr&gt;
 &lt;p&gt;
 Outdoor activity is the main attraction of this place for your girl gang. It has a beautiful island named Sao Miguel. The scenic beauty of the island along with beaches, mountains, hot springs, cliff farms, and volcanoes are easily the best sight for any traveler. With a low population and crime rate, it’s a great place to relax and enjoy the serenity.
@@ -55,7 +56,7 @@ Outdoor activity is the main attraction of this place for your girl gang. It has
 &lt;hr&gt;
 &lt;h3&gt;5.  Dublin, Ireland&lt;/h3&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Europe-with-Girl-Gang/Dublin-Ireland.jpg" alt="Dublin-Ireland"&gt;
+&lt;img src="//rockying.com/art/Travel/Europe-with-Girl-Gang/Dublin-Ireland.jpg" alt="Dublin-Ireland"&gt;
 &lt;hr&gt;
 &lt;p&gt;
 You will find that most of the top attractions here are in central Dublin, hence the whole city can be covered in a single day and that too on foot. The city has so many museums and churches to visit that are easy to find through navigation. The nightlife at pubs with live music is great entertainment and there are a ton of hostels, bread and breakfast places to choose from.
@@ -64,7 +65,7 @@ You will find that most of the top attractions here are in central Dublin, hence
 &lt;hr&gt;
 &lt;h3&gt;6.  Girona, Spain&lt;/h3&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Europe-with-Girl-Gang/Girona-Spain.jpg" alt="Girona-Spain"&gt;
+&lt;img src="//rockying.com/art/Travel/Europe-with-Girl-Gang/Girona-Spain.jpg" alt="Girona-Spain"&gt;
 &lt;hr&gt;
 &lt;p&gt;
 Located between the coastal region and mountain ranges of northern Catalonia, Spain, this city is mesmerizing with its cobbled lanes and medieval lanes. Although a modern city, it has a rich culture, history, architecture and a variety of dining options. The hidden gardens and the epic red Eiffel bridge of Girona are the must-visit spots. It is also famous for its ice cream Wonka-Esque. Don’t forget to check the local museum to find trivia about the various filming locations of &lt;i&gt;Games of Thrones&lt;/i&gt;.
@@ -72,7 +73,7 @@ Located between the coastal region and mountain ranges of northern Catalonia, Sp
 &lt;hr&gt;
 &lt;h3&gt;7.  Prague, Czech Republic&lt;/h3&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Europe-with-Girl-Gang/Prague.jpg" alt="Prague-Czech Republic"&gt;
+&lt;img src="//rockying.com/art/Travel/Europe-with-Girl-Gang/Prague.jpg" alt="Prague-Czech Republic"&gt;
 &lt;hr&gt;
 &lt;p&gt;
 Friendly people all around and getting to explore the city coz of so much going on at every corner? Yes, Prague is way too happening. The city also has rich culture and history of the 20th century, when many of the current tourist destinations were destroyed. The main attractions include Prague Castle, Charles Bridge, old town square and St. Vitus Cathedral.
@@ -81,7 +82,7 @@ Friendly people all around and getting to explore the city coz of so much going 
 &lt;hr&gt;
 &lt;h3&gt;8. Tallinn, Estonia&lt;/h3&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Europe-with-Girl-Gang/Tallinn-Estonia.jpg" alt="Tallinn-Estonia"&gt;
+&lt;img src="//rockying.com/art/Travel/Europe-with-Girl-Gang/Tallinn-Estonia.jpg" alt="Tallinn-Estonia"&gt;
 &lt;hr&gt;
 &lt;p&gt;
 The capital city boasts both modern innovations and history and this mixture makes it the perfect place for not only vacation but startups as well. The diverse history of Tallinn has many architectural wonders that is heaven for photographers. Budget accommodation and easy transport also make this a welcoming place to visit. Baroque style Kadriorg palace and the narrow, quaint, colorful streets of the Old Town are must-visit spots.
@@ -90,7 +91,7 @@ The capital city boasts both modern innovations and history and this mixture mak
 &lt;hr&gt;
 &lt;h3&gt;9.  Brussels, Belgium&lt;/h3&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Europe-with-Girl-Gang/Belgium-Brussels.jpg" alt="Brussels-Belgium"&gt;
+&lt;img src="//rockying.com/art/Travel/Europe-with-Girl-Gang/Belgium-Brussels.jpg" alt="Brussels-Belgium"&gt;
 &lt;hr&gt;
 &lt;p&gt;
 From beautiful old buildings to mesmerizing flower markets, it’s one of the best city to explore on your next girls trip. It’s expensive but you can easily roam the whole city on foot. Go on, explore and burn those calories at the same time! 
@@ -99,7 +100,7 @@ From beautiful old buildings to mesmerizing flower markets, it’s one of the be
 &lt;hr&gt;
 &lt;h3&gt;10. Cardiff, Wales &lt;/h3&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Europe-with-Girl-Gang/cardiff-bay.jpg" alt="Cardiff-Bay-Beach"&gt;
+&lt;img src="//rockying.com/art/Travel/Europe-with-Girl-Gang/cardiff-bay.jpg" alt="Cardiff-Bay-Beach"&gt;
 &lt;hr&gt;
 &lt;p&gt;
 Cardiff is easily accessible via London on train and since the city is not that big it can be explored on foot and in a day too. It has beautiful hills and mountains and is perfect for those who love nature. Also, do not miss the Cardiff Bay. 
@@ -109,7 +110,7 @@ So girls are you ready to explore, the beauty that is, Europe? Call the gang, pa
 &lt;/p&gt;
 
 &lt;p class="well"&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Europe-with-Girl-Gang/Prince-Kapoor.jpg" class="pull-left"/&gt;
+&lt;img src="//rockying.com/art/Travel/Europe-with-Girl-Gang/Prince-Kapoor.jpg" class="pull-left"/&gt;
 &lt;b&gt;About the Author: &lt;/b&gt;Prince Kapoor is an Independent Marketing Analyst and Blogger. &lt;br&gt;While not working, you can find him in the gym or giving random health advises to his colleagues which no one agrees on :D. &lt;br&gt;
 If you too want some of his advises (on health or on marketing), reach him out at @imprincekapur
 &lt;/p&gt;</Text>

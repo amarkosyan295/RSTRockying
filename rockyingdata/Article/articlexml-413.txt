@@ -3,7 +3,7 @@
   <ID>0</ID>
   <Title>Getting Away: Explore Vietnam’s Out of the World Hiking Getaways</Title>
   <MetaTitle>Getting Away: Explore Vietnam’s Out of the World Hiking Getaways</MetaTitle>
-  <OGImage>http://www.rockying.com/art/Travel/Vietnam/Vietnam.jpeg</OGImage>
+  <OGImage>//rockying.com/art/Travel/Vietnam/Vietnam.jpeg</OGImage>
   <OGDescription>Vietnam is full of hiking getaways that will bring you peace of mind. Majestic highland valleys, terraced rice paddies, dramatic mountain paths and remarkable underneath towering limestone mountain ranges are the...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -13,8 +13,8 @@
   <Category>17</Category>
   <Tag>Vietnam, Travel, Hiking, Mountains, Valleys, Asia, Southeast Asia, Sapa, Ha Giang, Hang En Cave, Cao Bang</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/Travel/Vietnam/Vietnam.jpeg' alt='' /&gt;&lt;p&gt;Vietnam is full of hiking getaways that will bring you peace of mind. Majestic highland valleys, terraced rice paddies, dramatic mountain paths and remarkable underneath towering limestone mountain ranges are the...&lt;/p&gt;</Description>
-  <Text>&lt;img src="http://www.rockying.com/art/Travel/Vietnam/Vietnam.jpeg" alt="HIking in Vietnam" title="Hiking Getaways in Vietnam"&gt;
+  <Description>&lt;img src='//rockying.com/art/Travel/Vietnam/Vietnam.jpeg' alt='' /&gt;&lt;p&gt;Vietnam is full of hiking getaways that will bring you peace of mind. Majestic highland valleys, terraced rice paddies, dramatic mountain paths and remarkable underneath towering limestone mountain ranges are the...&lt;/p&gt;</Description>
+  <Text>&lt;img src="//rockying.com/art/Travel/Vietnam/Vietnam.jpeg" alt="HIking in Vietnam" title="Hiking Getaways in Vietnam"&gt;
 Image Source: https://www.pexels.com/photo/woman-with-beige-sunhat-1079052/
 &lt;br&gt;&lt;br&gt;
 &lt;p&gt;

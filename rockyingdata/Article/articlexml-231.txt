@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>Most Beautiful Buildings in the World</Title>
-  <OGImage>http://www.rockying.com/art/HOllywood/Most-Beautiful-Buildings/Burj-al-arab-HOme.jpg</OGImage>
+  <MetaTitle>Most Beautiful Buildings in the World</MetaTitle>
+  <OGImage>//rockying.com/art/HOllywood/Most-Beautiful-Buildings/Burj-al-arab-HOme.jpg</OGImage>
   <OGDescription>What comes to your mind when we say beautiful buildings? Do you instantly think of Taj Mahal or the Red Fort or the Pantheon?</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,7 +13,7 @@
   <Category>17</Category>
   <Tag>Architecture, Buildings, Travel, World, Most Beautiful Buildings, Taj Mahal</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/HOllywood/Most-Beautiful-Buildings/Burj-al-arab-HOme.jpg' alt='' /&gt;&lt;p&gt;What comes to your mind when we say beautiful buildings? Do you instantly think of Taj Mahal or the Red Fort or the Pantheon?&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/HOllywood/Most-Beautiful-Buildings/Burj-al-arab-HOme.jpg' alt='' /&gt;&lt;p&gt;What comes to your mind when we say beautiful buildings? Do you instantly think of Taj Mahal or the Red Fort or the Pantheon?&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
     What comes to your mind when we say beautiful buildings? Do you instantly think
     of Taj Mahal or the Red Fort or the Pantheon? A hundred years ago, naming the most
@@ -24,9 +25,9 @@
     &lt;li&gt;
         &lt;h3&gt;
             Burj Al Arab, Dubai&lt;/h3&gt;
-        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/burj-al-arab-Exterior_drago.jpg"
+        &lt;img src="//rockying.com/art/Travel/Most-Beautiful-Buildings/burj-al-arab-Exterior_drago.jpg"
             style="height: 500px;" alt="Burj Al Arab Exterior" /&gt;
-        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/burj-al-arab-interior.jpeg"
+        &lt;img src="//rockying.com/art/Travel/Most-Beautiful-Buildings/burj-al-arab-interior.jpeg"
             style="height: 500px;" alt="Burj Al Arab interior" /&gt;
         &lt;p&gt;
             Opened in 1999 and often referred to as the world’s seven star hotel (though often
@@ -38,9 +39,9 @@
     &lt;li&gt;
         &lt;h3&gt;
             Netherlands Institute of Sound and Vision, Netherlands&lt;/h3&gt;
-        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/I-O-S-A-V-Netherlands.jpg"
+        &lt;img src="//rockying.com/art/Travel/Most-Beautiful-Buildings/I-O-S-A-V-Netherlands.jpg"
             alt="Netherlands Institute of Sound and Vision" style="height: 370px;" /&gt;
-        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/Institute-of-Sound-And-Vision-Netherlands.jpg"
+        &lt;img src="//rockying.com/art/Travel/Most-Beautiful-Buildings/Institute-of-Sound-And-Vision-Netherlands.jpg"
             alt="Netherlands Institute of Sound and Vision" style="height: 370px;" /&gt;
         &lt;p&gt;
             Conceived as a perfect cube, half of which is underground, this building is the
@@ -52,9 +53,9 @@
     &lt;li&gt;
         &lt;h3&gt;
             St Mark’s Square, Venice&lt;/h3&gt;
-        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/st-marks-square.jpg"
+        &lt;img src="//rockying.com/art/Travel/Most-Beautiful-Buildings/st-marks-square.jpg"
             alt="St. Mark's Square in Venice" style="height:350px;" /&gt;
-        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/Piazza.jpg"
+        &lt;img src="//rockying.com/art/Travel/Most-Beautiful-Buildings/Piazza.jpg"
             alt="Piazza" style="height:350px;" /&gt;
         &lt;p&gt;
             Piazza San Marco, known as St. Mark’s Square in English or more popularly as the
@@ -64,9 +65,9 @@
     &lt;li&gt;
         &lt;h3&gt;
             The Guggenheim, Bilbao Spain&lt;/h3&gt;
-        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/Guggenheim-Spain.JPG"
+        &lt;img src="//rockying.com/art/Travel/Most-Beautiful-Buildings/Guggenheim-Spain.JPG"
             alt="The Guggenheim, Bilbao Spain" style="height:300px;" /&gt;
-            &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/The-Guggenheim-Bilbao-Spain.jpg" alt="The Guggenheim, Bilbao Spain" style="height:300px;" /&gt;
+            &lt;img src="//rockying.com/art/Travel/Most-Beautiful-Buildings/The-Guggenheim-Bilbao-Spain.jpg" alt="The Guggenheim, Bilbao Spain" style="height:300px;" /&gt;
         &lt;p&gt;
             When this building was opened in 1997, it was described as the most important building
             of its time. Built of limestone, glass and titanium, the museum features exhibitions
@@ -78,9 +79,9 @@
     &lt;li&gt;
         &lt;h3&gt;
             Hagia Sophia, Istanbul&lt;/h3&gt;
-        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/Hagia-Sofia.jpg"
+        &lt;img src="//rockying.com/art/Travel/Most-Beautiful-Buildings/Hagia-Sofia.jpg"
             alt="Hagia Sophia, Istanbul" style="height:350px;" /&gt;
-        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/Hagia-Sofia-Interior2.jpg"
+        &lt;img src="//rockying.com/art/Travel/Most-Beautiful-Buildings/Hagia-Sofia-Interior2.jpg"
             alt="Interiors of Hagia Sophia, Istanbul" style="height:350px;" /&gt;
         &lt;p&gt;
             Initially started as a Church, then a mosque and now a museum, this building is
@@ -91,9 +92,9 @@
     &lt;li&gt;
         &lt;h3&gt;
             Shwedagon Pagoda, Myanmar&lt;/h3&gt;
-        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/Shwedagon-Pagoda.jpg"
+        &lt;img src="//rockying.com/art/Travel/Most-Beautiful-Buildings/Shwedagon-Pagoda.jpg"
             alt="Shwedagon Pagoda in Myanmar" style="height:350px;" /&gt;
-        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/Shwedagon-Pagoda-Aerial-View.jpg"
+        &lt;img src="//rockying.com/art/Travel/Most-Beautiful-Buildings/Shwedagon-Pagoda-Aerial-View.jpg"
             alt="Aerial views of Shwedagon Pagoda in Myanmar" style="height:350px;" /&gt;
         &lt;p&gt;
             The oldest historical pagoda, standing for over 2,600 years, the pagoda is 99 mts
@@ -105,11 +106,11 @@
     &lt;li&gt;
         &lt;h3&gt;
             King Ludwig’s Castle, Bavaria&lt;/h3&gt;
-        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/King-Ludwigs-Castle.jpg"
+        &lt;img src="//rockying.com/art/Travel/Most-Beautiful-Buildings/King-Ludwigs-Castle.jpg"
             alt="King Ludwig’s Castle in Bavaria" style="height:250px;" /&gt;
-        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/King-Ludwigs-Castle2.jpg"
+        &lt;img src="//rockying.com/art/Travel/Most-Beautiful-Buildings/King-Ludwigs-Castle2.jpg"
             alt="King Ludwig’s Castle in Bavaria" style="height:250px;" /&gt;
-        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/ludwigs-castle.jpg"
+        &lt;img src="//rockying.com/art/Travel/Most-Beautiful-Buildings/ludwigs-castle.jpg"
             alt="King Ludwig’s Castle in Bavaria" style="height:250px;" /&gt;
         &lt;p&gt;
             Famously known as the Sleeping Beauty’s Castle, Kind Ludwig’s Castle or Neuschwanstein
@@ -122,7 +123,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             Sistine Chapel, Rome&lt;/h3&gt;
-        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/Sistine-Chapel.jpg"
+        &lt;img src="//rockying.com/art/Travel/Most-Beautiful-Buildings/Sistine-Chapel.jpg"
             alt="Sistine Chapel in Rome Italy" /&gt;
         &lt;p&gt;
             The official residence of the Pope in the Vatican City, the Sistine Chapel is best
@@ -138,7 +139,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             The Taj Mahal&lt;/h3&gt;
-        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/taj.jpg" alt="The Taj Mahal in India" /&gt;
+        &lt;img src="//rockying.com/art/Travel/Most-Beautiful-Buildings/taj.jpg" alt="The Taj Mahal in India" /&gt;
         &lt;p&gt;
             We cannot do a list of beautiful buildings without mentioning India’s pride - The
             Taj Mahal. Known for its beauty for the love, Taj Mahal is the epitome of Mughal
@@ -151,9 +152,9 @@
     &lt;li&gt;
         &lt;h3&gt;
             The Pantheon, Rome&lt;/h3&gt;
-        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/Pantheon.jpg"
+        &lt;img src="//rockying.com/art/Travel/Most-Beautiful-Buildings/Pantheon.jpg"
             alt="The Pantheon in Rome Italy" style="height:350px;" /&gt;
-        &lt;img src="http://www.rockying.com/art/Travel/Most-Beautiful-Buildings/pantheon_aerial_view.jpg"
+        &lt;img src="//rockying.com/art/Travel/Most-Beautiful-Buildings/pantheon_aerial_view.jpg"
             alt="Aerial view of Pantheon in Rome Italy" style="height:350px;" /&gt;
         &lt;p&gt;
             A Roman Temple built for the Gods of Ancient Rome, Pantheon is over 2000 years old.
@@ -168,10 +169,9 @@
     to the list. As they say, beauty lies in the eyes of the beholder. Do tell us what
     your favorites among the list or any that you would like to mention. &lt;strong&gt;And if
         you got the time and money go visit them and find out for yourself!&lt;/strong&gt;&lt;/p&gt;</Text>
-  <SlideShowOn>false</SlideShowOn>
-  <QuestionOn>false</QuestionOn>
   <WriterName>Hajra Khatoon</WriterName>
   <WriterEmail>hajraks@gmail.com</WriterEmail>
   <Viewed>0</Viewed>
-  <Promotion />
+  <TemplateName />
+  <URL>231</URL>
 </Article>

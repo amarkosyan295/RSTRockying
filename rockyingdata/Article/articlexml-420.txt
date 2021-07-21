@@ -3,7 +3,7 @@
   <ID>0</ID>
   <Title>Wear Designer Sunglasses and Protect Your Eyes in Style</Title>
   <MetaTitle>How To Protect Your Eyes With Fashionable Sunglasses Available Online</MetaTitle>
-  <OGImage>http://www.rockying.com/art/Lifestyle/Fashion/Designer-Sunglasses-for-Eye-Protection/Ball-shaped-beach-blur.jpeg</OGImage>
+  <OGImage>//rockying.com/art/Lifestyle/Fashion/Designer-Sunglasses-for-Eye-Protection/Ball-shaped-beach-blur.jpeg</OGImage>
   <OGDescription>Wearing protective sunglasses is mandatory after Lasik surgery to protect your eyes from dust. Read on how to protect your eyes with designer sunglasses...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -13,12 +13,12 @@
   <Category>16</Category>
   <Tag>Fashion, Glares, Sunglasses, Designer Sunglasses, Style, Vision, Eyesight, Eye Defects, UV Protection, Eye Fashion.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/Lifestyle/Fashion/Designer-Sunglasses-for-Eye-Protection/Ball-shaped-beach-blur.jpeg' alt='' /&gt;&lt;p&gt;Wearing protective sunglasses is mandatory after Lasik surgery to protect your eyes from dust. Read on how to protect your eyes with designer sunglasses...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/Lifestyle/Fashion/Designer-Sunglasses-for-Eye-Protection/Ball-shaped-beach-blur.jpeg' alt='' /&gt;&lt;p&gt;Wearing protective sunglasses is mandatory after Lasik surgery to protect your eyes from dust. Read on how to protect your eyes with designer sunglasses...&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
 Eyes are precious, no proof required for that. They call them the windows to our soul and boy do they need care and protection. Owning a pair of good quality sunglasses is a worthy investment in protecting your eyes from the harsh sun rays and dust. Also, wearing protective sunglasses is mandatory after Lasik surgery to protect your eyes from daily wear and tear. Read on for more on how to care for your eyes with designer sunglasses available nowhere else but online! 
 &lt;hr&gt;
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/Lifestyle/Fashion/Designer-Sunglasses-for-Eye-Protection/Ball-shaped-beach-blur.jpeg" alt="Ball-shaped-beach-blur Glasses"&gt;
+&lt;img src="//rockying.com/art/Lifestyle/Fashion/Designer-Sunglasses-for-Eye-Protection/Ball-shaped-beach-blur.jpeg" alt="Ball-shaped-beach-blur Glasses"&gt;
 Source: Pexels
 &lt;hr&gt;
 &lt;h2&gt;Here’s the Catch:&lt;/h2&gt;

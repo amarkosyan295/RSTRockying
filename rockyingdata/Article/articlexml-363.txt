@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>कोक स्टूडियो सुनो, बस खो जाओ !</Title>
-  <OGImage>http://www.rockying.com/art/Music/Coke-Studio-Season-10.png</OGImage>
+  <MetaTitle>कोक स्टूडियो सुनो, बस खो जाओ !</MetaTitle>
+  <OGImage>//rockying.com/art/Music/Coke-Studio-Season-10.png</OGImage>
   <OGDescription>Best Coke Studio Season 10 Selection People...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,7 +13,7 @@
   <Category>15</Category>
   <Tag>Music, Coke Studio, India, Pakistan, Ghazals, Sufi.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/Music/Coke-Studio-Season-10.png' alt='' /&gt;&lt;p&gt;Best Coke Studio Season 10 Selection People...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/Music/Coke-Studio-Season-10.png' alt='' /&gt;&lt;p&gt;Best Coke Studio Season 10 Selection People...&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
 
 दिलों का शूटर, लव चार्जर सुनकर अगर कान से खूंट निकल चुका हो तो इधर आओ , तुमको बताऐं पाकिस्तान के कोक स्टूडियो के म्यूज़िक के बारे में, सीज़न 10 आया  है, एक से एक  सुरीले नगमें कि जेहनी रूह खुसरो हो जाएगा गुरू,

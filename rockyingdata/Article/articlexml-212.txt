@@ -59,7 +59,7 @@
 &lt;p&gt;
     &lt;strong&gt;BEST TIME TO VISIT&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
-    &lt;a href="http://www.rockying.com/"&gt;Rockying&lt;/a&gt; says that the best time to visit
+    &lt;a href="//rockying.com/"&gt;Rockying&lt;/a&gt; says that the best time to visit
     Pondicherry would be in the months of October to January. Occasional showers and
     a visible relief from the scorching heat, you would love this place. The roads are
     perfectly clean and walking alongside the pavement with an umbrella can simply inspire

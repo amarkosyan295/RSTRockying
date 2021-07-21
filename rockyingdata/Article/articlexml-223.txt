@@ -31,7 +31,7 @@
         &lt;div class="slide" style="margin-bottom: 20px;"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span6"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/rare-young-photo-yash-chopra-1.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/rare-young-photo-yash-chopra-1.jpg"
                         alt="Yash Chopra Young Photo" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -72,7 +72,7 @@
         &lt;div class="slide" style="margin-bottom: 20px;"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span6"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Rajkumar-Waqt-2.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Rajkumar-Waqt-2.jpg"
                         alt="Rajkumar Waqt Movie" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -113,7 +113,7 @@
         &lt;div class="slide" style="margin-bottom: 20px;"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span6"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Shashi-Kapoor-dharmputra-3.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Shashi-Kapoor-dharmputra-3.jpg"
                         alt="Shashi Kapoor in Dharmputra" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -157,7 +157,7 @@
         &lt;div class="slide" style="margin-bottom: 20px;"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span6"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Rajesh-Khanna-Daag-4.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Rajesh-Khanna-Daag-4.jpg"
                         alt="Rajesh Khanna Daag" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -198,7 +198,7 @@
         &lt;div class="slide" style="margin-bottom: 20px;"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span6"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Yash-chopra-5.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Yash-chopra-5.jpg"
                         alt="Yash Chopra" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -239,7 +239,7 @@
         &lt;div class="slide" style="margin-bottom: 20px;"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span6"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Yash-Chopra-Kabhi-Kabhi-Team-6.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Yash-Chopra-Kabhi-Kabhi-Team-6.jpg"
                         alt="Yash Chopra Kabhi Kabhi" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -280,7 +280,7 @@
         &lt;div class="slide" style="margin-bottom: 20px;"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span6"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Rang-Barse-Silsila-7.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Rang-Barse-Silsila-7.jpg"
                         alt="Rang Barse Silsila" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -320,7 +320,7 @@
         &lt;div class="slide" style="margin-bottom: 20px;"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span6"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Yashji-8.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Yashji-8.jpg"
                         alt="Yash Chopra" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -361,7 +361,7 @@
         &lt;div class="slide" style="margin-bottom: 20px;"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span6"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Yashji-Filmfare-9.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Yashji-Filmfare-9.jpg"
                         alt="Yash Chopra FilmFare" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -402,7 +402,7 @@
         &lt;div class="slide" style="margin-bottom: 20px;"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span6"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Dilip-Kumar-Yash-Chopra-Mashaal-10.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Dilip-Kumar-Yash-Chopra-Mashaal-10.jpg"
                         alt="Dilip Kumar Yash Chopra Mashaal Movie" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -444,7 +444,7 @@
         &lt;div class="slide" style="margin-bottom: 20px;"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span6"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Rishi-Vinod-11.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Rishi-Vinod-11.jpg"
                         alt="Rishi Kapoor Vinod Khanna" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -485,7 +485,7 @@
         &lt;div class="slide" style="margin-bottom: 20px;"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span6"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/kaala-pathar-12.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/kaala-pathar-12.jpg"
                         alt="Kaala Pathar Movie" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -527,7 +527,7 @@
         &lt;div class="slide" style="margin-bottom: 20px;"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span6"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Sridev-Yashji-Lamhe-13.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Sridev-Yashji-Lamhe-13.jpg"
                         alt="Sridevi Yash Chopra Lamhe Movie" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -569,7 +569,7 @@
         &lt;div class="slide" style="margin-bottom: 20px;"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span6"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/darr-Shahrukh-Juhi-14.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/darr-Shahrukh-Juhi-14.jpg"
                         alt="Darr Movie Shahrukh Khan Juhi Chawla" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -611,7 +611,7 @@
         &lt;div class="slide" style="margin-bottom: 20px;"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span6"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Chandni-15.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Chandni-15.jpg"
                         alt="Chandni Movie" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -654,7 +654,7 @@
         &lt;div class="slide" style="margin-bottom: 20px;"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span6"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/yash-Chopra-16.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/yash-Chopra-16.jpg"
                         alt="Yash Chopra" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -696,7 +696,7 @@
         &lt;div class="slide" style="margin-bottom: 20px;"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span6"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Veer-Zaara-17.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Veer-Zaara-17.jpg"
                         alt="Veer Zaara" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -738,7 +738,7 @@
         &lt;div class="slide" style="margin-bottom: 20px;"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span6"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Ittefaq-Rajesh_khanna-Iftekhhar-18.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Ittefaq-Rajesh_khanna-Iftekhhar-18.jpg"
                         alt="Ittefaq Rajesh Khanna Iftekhar" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -780,7 +780,7 @@
         &lt;div class="slide" style="margin-bottom: 20px;"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span6"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/padma-bhushan-19.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/padma-bhushan-19.jpg"
                         alt="Padma Bhushan Yash Chopra" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -823,7 +823,7 @@
         &lt;div class="slide" style="margin-bottom: 20px;"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span6"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Challa-Jab-Tak-Hai-Jaan-20.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Quiz-5-Yash-Chopra/Challa-Jab-Tak-Hai-Jaan-20.jpg"
                         alt="Challa-Song-Jab-Tak-Hai-Jaan" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;

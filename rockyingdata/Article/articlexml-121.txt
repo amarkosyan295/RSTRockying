@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>121</ID>
   <Title>Style Tips For Men; Straight From Italy</Title>
-  <OGImage>http://www.rockying.com/art/Lifestyle/Fashion/Style tips for the HUsband/Plaid.png</OGImage>
+  <MetaTitle>Style Tips For Men; Straight From Italy</MetaTitle>
+  <OGImage>//rockying.com/art/Lifestyle/Fashion/Style tips for the HUsband/Plaid.png</OGImage>
   <OGDescription>Usually it’s the girls who are the more fashion-forward , but here guys put the ladies’ outfits to shame, hitting the streets in bold colors, rolled up cuffs, daring prints (camouflage!), and tailored blazers. Here are some takeaway fashion tips straight from Italy...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,7 +13,7 @@
   <Category>16</Category>
   <Tag>Fashion, Style tips, Fashion for Men, Men's Clothing</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/Lifestyle/Fashion/Style tips for the HUsband/Plaid.png' alt='' /&gt;&lt;p&gt;Usually it’s the girls who are the more fashion-forward , but here guys put the ladies’ outfits to shame, hitting the streets in bold colors, rolled up cuffs, daring prints (camouflage!), and tailored blazers. Here are some takeaway fashion tips straight from Italy...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/Lifestyle/Fashion/Style tips for the HUsband/Plaid.png' alt='' /&gt;&lt;p&gt;Usually it’s the girls who are the more fashion-forward , but here guys put the ladies’ outfits to shame, hitting the streets in bold colors, rolled up cuffs, daring prints (camouflage!), and tailored blazers. Here are some takeaway fashion tips straight from Italy...&lt;/p&gt;</Description>
   <Text>&lt;div&gt;
     &lt;div&gt;
         &lt;button id="prevslide" type='button' style='width: 40px;  height:40px;
@@ -30,7 +31,7 @@
                 &lt;b&gt;Usually it’s the girls that are the fashion-freaks , but here guys put the
                 ladies’ outfits to shame, Here are some takeaway fashion tips straight from Italy...&lt;/b&gt;&amp;nbsp;
             &lt;/p&gt;
-            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Style%20tips%20for%20the%20HUsband/Tailored-Blazers.png"
+            &lt;img src="//rockying.com/art/Lifestyle/Fashion/Style%20tips%20for%20the%20HUsband/Tailored-Blazers.png"
                 title="Tailored Blazers" alt="" /&gt;
             &lt;h4&gt;
                 Tailored blazers&lt;/h4&gt;
@@ -42,7 +43,7 @@
         &lt;div class="slide"&gt;
             &lt;h4&gt;
                 Plaid&lt;/h4&gt;
-            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Style%20tips%20for%20the%20HUsband/Plaid.png"
+            &lt;img src="//rockying.com/art/Lifestyle/Fashion/Style%20tips%20for%20the%20HUsband/Plaid.png"
                 title="Plaid" alt="" /&gt;
             &lt;p&gt;
                 Plaid was a hot pattern at Pitti: coats, shirts, ties—you name it. a crisp green
@@ -53,7 +54,7 @@
         &lt;div class="slide"&gt;
             &lt;h4&gt;
                 Bold colors&lt;/h4&gt;
-            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Style%20tips%20for%20the%20HUsband/Bold-Colors.png"
+            &lt;img src="//rockying.com/art/Lifestyle/Fashion/Style%20tips%20for%20the%20HUsband/Bold-Colors.png"
                 title="Bold Colors" alt="" /&gt;
             &lt;p&gt;
                 A bold-colored pant, blazer, or tie will add some Italian flair to your boyfriend’s
@@ -63,7 +64,7 @@
         &lt;div class="slide"&gt;
             &lt;h4&gt;
                 Layers layers layers&lt;/h4&gt;
-            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Style%20tips%20for%20the%20HUsband/Layers-Layers-Layers.png"
+            &lt;img src="//rockying.com/art/Lifestyle/Fashion/Style%20tips%20for%20the%20HUsband/Layers-Layers-Layers.png"
                 title="Layer It Up" alt="" /&gt;
             &lt;p&gt;
                 When in doubt, layer it up! Layers are great for the cold-weather months—when you
@@ -73,7 +74,7 @@
         &lt;div class="slide"&gt;
             &lt;h4&gt;
                 Pops of colors&lt;/h4&gt;
-            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Style%20tips%20for%20the%20HUsband/Pops-of-Colors.png"
+            &lt;img src="//rockying.com/art/Lifestyle/Fashion/Style%20tips%20for%20the%20HUsband/Pops-of-Colors.png"
                 title="Pops Of Colors" alt="" /&gt;
             &lt;p&gt;
                 The tie, the hanging scarf, the socks, and the shoes. Deep, rich colors like orange,
@@ -83,7 +84,7 @@
         &lt;div class="slide"&gt;
             &lt;h4&gt;
                 Rolled-up cuffs&lt;/h4&gt;
-            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Style%20tips%20for%20the%20HUsband/Rolled-Up-Cuffs.png"
+            &lt;img src="//rockying.com/art/Lifestyle/Fashion/Style%20tips%20for%20the%20HUsband/Rolled-Up-Cuffs.png"
                 title="Rolled-Up Cuffs" alt="" /&gt;
             &lt;p&gt;
                 Rolled-up cuffs were seen on countless ankles, and we’re totally on board with the
@@ -94,7 +95,7 @@
         &lt;div class="slide"&gt;
             &lt;h4&gt;
                 Camouflage&lt;/h4&gt;
-            &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Style%20tips%20for%20the%20HUsband/Camouflage.png"
+            &lt;img src="//rockying.com/art/Lifestyle/Fashion/Style%20tips%20for%20the%20HUsband/Camouflage.png"
                 title="Camouflage" alt="" /&gt;
             &lt;p&gt;
                 This guy’s not blending in anywhere with this flashy camo print. Skilled in the
@@ -106,10 +107,9 @@
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;</Text>
-  <SlideShowOn>true</SlideShowOn>
-  <QuestionOn>false</QuestionOn>
   <WriterName>Chandni Malik</WriterName>
   <WriterEmail>chandni.malik@ymail.com</WriterEmail>
   <Viewed>0</Viewed>
-  <Promotion />
+  <TemplateName />
+  <URL>121</URL>
 </Article>

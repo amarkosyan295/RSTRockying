@@ -17,13 +17,13 @@
   <Text>&lt;p&gt;
     Bollywood completes its 100th year this 2013, Rockying has a reason to celebrate
     and give you a different tadka of Bollywood starting today- thoda hatke! After the
-    &lt;a href="http://www.rockying.com/a/60"&gt;evergreen classic series&lt;/a&gt;, &lt;a href="http://www.rockying.com/a/87"&gt;
-        Bollywood and Sportology&lt;/a&gt; and some &lt;a href="http://www.rockying.com/a/35"&gt;pathbreaking
+    &lt;a href="//rockying.com/a/60"&gt;evergreen classic series&lt;/a&gt;, &lt;a href="//rockying.com/a/87"&gt;
+        Bollywood and Sportology&lt;/a&gt; and some &lt;a href="//rockying.com/a/35"&gt;pathbreaking
             dialogues of Indian cinema&lt;/a&gt;, we present to you the portrayal of professions
     dealt the celluloid way. You got the passion for profession? Read on...
 &lt;/p&gt;
 &lt;p class="clearfix"&gt;
-    &lt;img src="http://rockying.com/art/bollywood/Professions-Bollywood/MeraNaamJoker.jpg"
+    &lt;img src="//rockying.com/art/bollywood/Professions-Bollywood/MeraNaamJoker.jpg"
         title="Raj Kapoor in Mera Naam Joker" alt="" style="max-width: 300px;" class="pull-left" /&gt;
     &lt;strong&gt;MERA NAAM JOKER (1970)&lt;/strong&gt;: We rate this as a lucid and passionate professional
     representation. A child just wanting to be like his father- a clown, Mera Naam Joker
@@ -35,7 +35,7 @@
     water for a true professional enthusiast!
 &lt;/p&gt;
 &lt;p class="clearfix"&gt;
-    &lt;img src="http://rockying.com/art/bollywood/Professions-Bollywood/Disco_Dancer.jpg"
+    &lt;img src="//rockying.com/art/bollywood/Professions-Bollywood/Disco_Dancer.jpg"
         title="Mithun in Disco Dancer" alt="" style="max-height: 250px;" class="pull-right" /&gt;&lt;strong&gt;DISCO
             DANCER (1982)&lt;/strong&gt;: Who does not remember Mithun’s Indian style pelvic thrust?
     Anil aka Mithun Chakravarty is noticeably passionate about dancing in the movie
@@ -48,7 +48,7 @@
     that comes from the heart and that’s why Rockying calls him the Joshua Berger of
     Bollywood.&lt;/p&gt;
 &lt;p class="clearfix"&gt;
-    &lt;img src="http://rockying.com/art/bollywood/Professions-Bollywood/Lakshya.jpg"
+    &lt;img src="//rockying.com/art/bollywood/Professions-Bollywood/Lakshya.jpg"
         title="Hrithik Roshan in Lakshya" alt="" style="max-width: 300px;" class="pull-left" /&gt;
     &lt;strong&gt;LAKSHYA (2004)&lt;/strong&gt;: Passion lost and found, this Hrithik Roshan starrer film
     voices its dilemma of hundreds of teenagers who grapple to find focus in life.&amp;nbsp;
@@ -60,7 +60,7 @@
     lakshya. But nevertheless, this movie has something that every youth can relate
     to. Hence, this goes into our list of favorites as well.&lt;/p&gt;
 &lt;p class="clearfix"&gt;
-    &lt;img src="http://rockying.com/art/bollywood/Professions-Bollywood/Rock_on.jpg"
+    &lt;img src="//rockying.com/art/bollywood/Professions-Bollywood/Rock_on.jpg"
         title="Arjun Rampal, Farhan Akhtar and Luke Kenny in Rock On" alt="" style="max-height: 235px;"
         class="pull-left" /&gt;
     &lt;strong&gt;ROCK ON (2008)&lt;/strong&gt;:&amp;nbsp; Farhan Akhtar’s raw voice that he shares with three
@@ -74,7 +74,7 @@
     assured Rock On!!!
 &lt;/p&gt;
 &lt;p class="clearfix"&gt;
-    &lt;img src="http://rockying.com/art/bollywood/Professions-Bollywood/Fashion_.jpg"
+    &lt;img src="//rockying.com/art/bollywood/Professions-Bollywood/Fashion_.jpg"
         title="Kangana Ranaut and Priyanka Chopra in Fashion" alt="" style="max-width: 300px;"
         class="pull-left" /&gt;&lt;strong&gt;FASHION (2008)&lt;/strong&gt;: Priyanka Chopra’s fanaticism to walk
     the ramp and her prowess for modeling parallels Kangana Ranaut’s success in the
@@ -84,7 +84,7 @@
     this is about being at the bottom of the fashion food chain, go through hell and
     bring back to life. We all go through this, don’t we?&lt;/p&gt;
 &lt;p class="clearfix"&gt;
-    &lt;img src="http://rockying.com/art/bollywood/Professions-Bollywood/Aarakshan2.jpg"
+    &lt;img src="//rockying.com/art/bollywood/Professions-Bollywood/Aarakshan2.jpg"
         title="Saif Ali Khan, Deepika Padukone, Amitabh Bachchan and Tanvi Azmi in Aarakshan"
         alt="" style="max-width: 300px;" class="pull-left" /&gt;&lt;strong&gt;AARAKSHAN (2011)&lt;/strong&gt;:
     Saif Ali Khan and Amitabh Bachchan fight it out for the education industry at large

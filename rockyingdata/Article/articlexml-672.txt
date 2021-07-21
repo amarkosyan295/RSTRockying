@@ -14,7 +14,7 @@
   <Tag>Kids Stories, Fiction</Tag>
   <Status>Publish</Status>
   <Description>&lt;img src='//www.rockying.com/art/Fiction/Kids/lego-house.jpg' alt='' /&gt;&lt;p&gt;Missing Lego Box of Rishi&lt;/p&gt;</Description>
-  <Text>&lt;p style="text-align: center;"&gt;&lt;img style="max-wdith: 80%;" src="http://www.rockying.com/art/Fiction/Kids/lego-house.jpg" alt="Lego House" width="500" height="281" /&gt;&lt;/p&gt;
+  <Text>&lt;p style="text-align: center;"&gt;&lt;img style="max-wdith: 80%;" src="//rockying.com/art/Fiction/Kids/lego-house.jpg" alt="Lego House" width="500" height="281" /&gt;&lt;/p&gt;
 &lt;p style="text-align: center;"&gt;सुबह का समय था और ऋषि गहरी नींद में था। थोड़ी देर बाद उसकी आँख खुली और उसको एक बहुत सुन्दर lego house बनाने का आईडिया आया , जो की उसने अपने सपने में देखा था।&lt;/p&gt;
 &lt;p style="text-align: center;"&gt;वह उठकर अपना लेगो का डिब्बा ढूंढ़ने लगा। किन्तु बहुत देर ढूंढ़ने पर भी जब डिब्बा नहीं मिला तो ऋषि ने अपनी माँ से पूछा -&lt;/p&gt;
 &lt;p style="text-align: center;"&gt;"माँ डिब्बा कहाँ रखा है। "&lt;/p&gt;
@@ -22,7 +22,7 @@
 &lt;p style="text-align: center;"&gt;अचानक से ऋषि की माँ के पास उसके दोस्त मनन की माँ का फ़ोन आया। वह फ़ोन पर बोली की ऋषि का अपना लेगा का डिब्बा मनन के पास भूल आया है।&lt;/p&gt;
 &lt;p style="text-align: center;"&gt;तब ऋषि को याद आया की वह कल मनन के साथ लेगो खेल रहा था। ऋषि की माँ ने फ़ोन पर मनन को धन्यवाद दिया और उसके घर जाकर लेगा का डिब्बा ले आईं।&lt;/p&gt;
 &lt;p style="text-align: center;"&gt;ऋषि ने फिर अपना सोचा हुआ घर बनाया।&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;img style="border-width: 5px solid beige; max-width: 80%;" src="http://www.rockying.com/art/Fiction/Kids/lego-box.jpg" alt="Lego Box" width="400" height="344" /&gt;&lt;/p&gt;</Text>
+&lt;p style="text-align: center;"&gt;&lt;img style="border-width: 5px solid beige; max-width: 80%;" src="//rockying.com/art/Fiction/Kids/lego-box.jpg" alt="Lego Box" width="400" height="344" /&gt;&lt;/p&gt;</Text>
   <WriterName>Manu</WriterName>
   <WriterEmail>rajkiran.singh@gmail.com</WriterEmail>
   <Viewed>0</Viewed>

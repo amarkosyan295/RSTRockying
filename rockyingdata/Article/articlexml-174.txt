@@ -17,7 +17,7 @@
   <Text>&lt;p&gt;
     &lt;a href="http://very.late-bloomers.net/"&gt;Barbara Klein&lt;/a&gt;, lives and works in Basel,
     Switzerland and loves to share her life of food and recipes, travels, writing and
-    photography. The following is an interview in her own words as told to &lt;a href="http://www.rockying.com/a/139"&gt;
+    photography. The following is an interview in her own words as told to &lt;a href="//rockying.com/a/139"&gt;
         Rockying&lt;/a&gt;. Lets dive into her introspective voyage to India:&lt;br&gt;
     &lt;br&gt;
     I have always been fascinated with India, its people and history and when my friend
@@ -54,7 +54,7 @@
     I have also decided to refrain from smoking. It is advised to stay out of the sun
     and swimming in the pool or in the sea is not recommended.&lt;/p&gt;
 &lt;p&gt;
-    &lt;a href="http://www.rockying.com/a/139"&gt;
+    &lt;a href="//rockying.com/a/139"&gt;
         &lt;img src="//rockying.com/art/Travel/Kerala-India/Backwaters-Kerala.jpeg"
             title="BackWaters Kerala Beach Resort" alt="" style="width: 600px;"&gt;&lt;/a&gt;&lt;br&gt;
     &lt;br&gt;
@@ -119,7 +119,7 @@
     in our hearts.&lt;b&gt; I will be back!&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;
     So that was Barbara, with her revelation of experiences, good and bad. Kerala is
-    unwinding indeed. We suggest you undertake our &lt;a href="http://www.rockying.com/a/139"&gt;
+    unwinding indeed. We suggest you undertake our &lt;a href="//rockying.com/a/139"&gt;
         exclusive photographic journey &lt;/a&gt;to the place and accomplish mission Kerala!&lt;br&gt;
     &lt;br&gt;
 &lt;/p&gt;</Text>

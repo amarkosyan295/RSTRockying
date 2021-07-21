@@ -3,7 +3,7 @@
   <ID>0</ID>
   <Title>The Oscars; A Journey Since 1927!</Title>
   <MetaTitle>Oscar Awards and everything you want to know about it</MetaTitle>
-  <OGImage>http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Oscars.jpg</OGImage>
+  <OGImage>//rockying.com/art/HOllywood/Road-to-the-Oscars/Oscars.jpg</OGImage>
   <OGDescription>Rockying is here to take you through the evolution of this grand award ceremony, it’s amazing history and everything that you always wanted to know about...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -13,18 +13,18 @@
   <Category>12</Category>
   <Tag>Oscars 2013, History of the Oscars, Oscar Golden Statuette, Golden Oscar Facts.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Oscars.jpg' alt='' /&gt;&lt;p&gt;Rockying is here to take you through the evolution of this grand award ceremony, it’s amazing history and everything that you always wanted to know about...&lt;/p&gt;</Description>
-  <Text>&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Oscars-Article.jpg" /&gt;
+  <Description>&lt;img src='//rockying.com/art/HOllywood/Road-to-the-Oscars/Oscars.jpg' alt='' /&gt;&lt;p&gt;Rockying is here to take you through the evolution of this grand award ceremony, it’s amazing history and everything that you always wanted to know about...&lt;/p&gt;</Description>
+  <Text>&lt;img src="//rockying.com/art/HOllywood/Road-to-the-Oscars/Oscars-Article.jpg" /&gt;
 &lt;p&gt;
     It’s that time of the year again! The countdown to the most prestigious award ceremony
     in the world of Cinema has come to an end. Everyone eagerly waits for the Oscars;
     for a night that is full of pomp, show, glamour and surprise, and before we bring
-    to you this year’s winners, &lt;a href="http://www.rockying.com/"&gt;Rockying&lt;/a&gt; is here
+    to you this year’s winners, &lt;a href="//rockying.com/"&gt;Rockying&lt;/a&gt; is here
     to take you through the evolution of this grand award ceremony, it’s amazing history
     and everything that you always wanted to know about it.
 &lt;/p&gt;
 &lt;p class="well well-small clearfix" style="width: 70%"&gt;
-    &lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/walt_disney.jpg"
+    &lt;img src="//rockying.com/art/HOllywood/Road-to-the-Oscars/walt_disney.jpg"
         class="pull-left" /&gt;
     &lt;span style="color: Red;"&gt;&lt;b&gt;Did You Know? &lt;/b&gt;&lt;/span&gt;
     &lt;br&gt;
@@ -47,7 +47,7 @@
     directors, writers and technicians and has spread its root to 15 branches now.
 &lt;/p&gt;
 &lt;p class="well well-small clearfix" style="width: 70%"&gt;
-    &lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Jack-Nicholson.jpg"
+    &lt;img src="//rockying.com/art/HOllywood/Road-to-the-Oscars/Jack-Nicholson.jpg"
         class="pull-left" /&gt;
     &lt;span style="color: Red;"&gt;&lt;b&gt;Did You Know?&lt;/b&gt;&lt;/span&gt;&lt;br&gt;
     The male actor with the most Oscar nominations is &lt;b&gt;Jack Nicholson&lt;/b&gt;, who has
@@ -66,7 +66,7 @@
     each.
 &lt;/p&gt;
 &lt;p class="well well-small clearfix" style="width: 70%"&gt;
-    &lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/meryl-streep.jpg"
+    &lt;img src="//rockying.com/art/HOllywood/Road-to-the-Oscars/meryl-streep.jpg"
         class="pull-left" /&gt;
     &lt;span style="color: Red;"&gt;&lt;b&gt;Did You Know? &lt;/b&gt;&lt;/span&gt;
     &lt;br&gt;
@@ -86,7 +86,7 @@
     fostering cooperation among the creative members of the industry etc.
 &lt;/p&gt;
 &lt;p class="well well-small clearfix" style="width: 70%"&gt;
-    &lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/katharine-Hepburn.jpg"
+    &lt;img src="//rockying.com/art/HOllywood/Road-to-the-Oscars/katharine-Hepburn.jpg"
         class="pull-left" /&gt;
     &lt;span style="color: Red;"&gt;&lt;b&gt;Did You Know? &lt;/b&gt;&lt;/span&gt;
     &lt;br&gt;
@@ -107,7 +107,7 @@
     Members usually get an invitation from the Academy to become part of the society.
 &lt;/p&gt;
 &lt;p class="well well-small clearfix" style="width: 70%"&gt;
-    &lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Daniel-Day-Lewis.jpg"
+    &lt;img src="//rockying.com/art/HOllywood/Road-to-the-Oscars/Daniel-Day-Lewis.jpg"
         class="pull-left" /&gt;
     &lt;span style="color: Red;"&gt;&lt;b&gt;Did You Know? &lt;/b&gt;&lt;/span&gt;
     &lt;br&gt;
@@ -130,7 +130,7 @@
     part is the main shows; which is what we see every year and call the Academy Awards.
 &lt;/p&gt;
 &lt;p class="well well-small clearfix" style="width: 70%"&gt;
-    &lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Tatum-o-neal.jpg"
+    &lt;img src="//rockying.com/art/HOllywood/Road-to-the-Oscars/Tatum-o-neal.jpg"
         class="pull-left" /&gt;
     &lt;span style="color: Red;"&gt;&lt;b&gt;Did You Know? &lt;/b&gt;&lt;/span&gt;
     &lt;br&gt;
@@ -152,7 +152,7 @@
     broadcast internationally, now reaching movie fans in over 200 countries.
 &lt;/p&gt;
 &lt;p class="well well-small clearfix" style="width: 70%"&gt;
-    &lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Henry-Fonda.jpg"
+    &lt;img src="//rockying.com/art/HOllywood/Road-to-the-Oscars/Henry-Fonda.jpg"
         class="pull-left" /&gt;
     &lt;span style="color: Red;"&gt;&lt;b&gt;Did You Know? &lt;/b&gt;&lt;/span&gt;
     &lt;br&gt;
@@ -161,7 +161,7 @@
     The oldest actor to win the Oscar for Best Actor was &lt;b&gt;Henry Fonda&lt;/b&gt;, for "On
     Golden Pond" in 1982, at age 76.
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Oscar-Trophy-award-photo.jpg"
+&lt;img src="//rockying.com/art/HOllywood/Road-to-the-Oscars/Oscar-Trophy-award-photo.jpg"
     class="pull-left clearfix" /&gt;
 &lt;h4&gt;
     What’s with that Statue of a Golden dude with a Sword?&lt;/h4&gt;
@@ -175,7 +175,7 @@
     R.S. Owens &amp; Company, a Chicago-based awards manufacturer.
 &lt;/p&gt;
 &lt;p class="well well-small" style="width: 70%"&gt;
-    &lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Oscar-Final-Story.jpg"
+    &lt;img src="//rockying.com/art/HOllywood/Road-to-the-Oscars/Oscar-Final-Story.jpg"
         class="pull-left clearfix" /&gt;
     &lt;span style="color: Red;"&gt;&lt;b&gt;Did You Know? &lt;/b&gt;&lt;/span&gt;
     &lt;br&gt;
@@ -205,27 +205,27 @@
     &lt;b&gt;Daniel Day Lewis&lt;/b&gt; for being Best Actor playing the title role in &lt;b&gt;&lt;i&gt;Lincoln&lt;/i&gt;&lt;/b&gt;.
 &lt;/p&gt;
 &lt;hr /&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/lincoln-daniel-day-lewis.jpg"
+&lt;img src="//rockying.com/art/HOllywood/Road-to-the-Oscars/lincoln-daniel-day-lewis.jpg"
     alt="Lincon Daniel Day Lewis" /&gt;
 &lt;hr /&gt;
 &lt;p style="text-align:center;"&gt;
     &lt;b&gt;Jennifer Lawrence&lt;/b&gt; for playing the Best Actress in &lt;b&gt;&lt;i&gt;Silver Linings Playbook&lt;/i&gt;&lt;/b&gt;.
 &lt;/p&gt;
 &lt;hr /&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Jennifer-Lawrence.jpg"
+&lt;img src="//rockying.com/art/HOllywood/Road-to-the-Oscars/Jennifer-Lawrence.jpg"
     alt="Jennifer Lawernce" /&gt;
 &lt;hr /&gt;
 &lt;p style="text-align:center;"&gt;
     &lt;b&gt;Christoph Waltz&lt;/b&gt;, Best Supporting Actor for &lt;b&gt;&lt;i&gt;Django Unchained&lt;/i&gt;&lt;/b&gt;
 &lt;/p&gt;
 &lt;hr /&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/django-unchained-christoph-waltz.jpg"&gt;
+&lt;img src="//rockying.com/art/HOllywood/Road-to-the-Oscars/django-unchained-christoph-waltz.jpg"&gt;
 &lt;hr /&gt;
 &lt;p style="text-align:center;"&gt;
     &lt;b&gt;Anne Hathaway&lt;/b&gt;, for being the Best Supporting Actress in &lt;b&gt;&lt;i&gt;Les Miserables&lt;/i&gt;&lt;/b&gt;.
 &lt;/p&gt;
 &lt;hr /&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Anne-Hathaway.jpg"
+&lt;img src="//rockying.com/art/HOllywood/Road-to-the-Oscars/Anne-Hathaway.jpg"
     alt="Anne Hathaway" /&gt;
 &lt;hr /&gt;
 &lt;p style="text-align:center;"&gt;
@@ -233,54 +233,54 @@
     of 2012, &lt;b&gt;&lt;i&gt;Argo&lt;/i&gt;&lt;/b&gt;.
 &lt;/p&gt;
 &lt;hr /&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Argo-Winner-Producers.jpg"
+&lt;img src="//rockying.com/art/HOllywood/Road-to-the-Oscars/Argo-Winner-Producers.jpg"
     alt="Argo Winner Producers" /&gt;
 &lt;hr /&gt;
 &lt;p style="text-align:center;"&gt;
     &lt;b&gt;Ang Lee&lt;/b&gt;,Best Director for &lt;b&gt;&lt;i&gt;Life of Pi&lt;/i&gt;&lt;/b&gt;.
 &lt;/p&gt;
 &lt;hr /&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Lif-of-Pi-Ang-Lee.jpg" /&gt;
+&lt;img src="//rockying.com/art/HOllywood/Road-to-the-Oscars/Lif-of-Pi-Ang-Lee.jpg" /&gt;
 &lt;hr /&gt;
 &lt;p style="text-align:center;"&gt;
     &lt;b&gt;Amour&lt;/b&gt;, from Austria, the Best Foreign Language Film.
 &lt;/p&gt;
 &lt;hr /&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Amour-Best-Foreign-Language-Film.jpg" /&gt;
+&lt;img src="//rockying.com/art/HOllywood/Road-to-the-Oscars/Amour-Best-Foreign-Language-Film.jpg" /&gt;
 &lt;hr /&gt;
 &lt;p style="text-align:center;"&gt;
     &lt;b&gt;Mark Andrews&lt;/b&gt; and &lt;b&gt;Brenda Chapman&lt;/b&gt; for directing the Best Animated Feature
     Film &lt;b&gt;&lt;i&gt;Brave&lt;/i&gt;&lt;/b&gt;.
 &lt;/p&gt;
 &lt;hr /&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Brave-Oscar.jpg" /&gt;
+&lt;img src="//rockying.com/art/HOllywood/Road-to-the-Oscars/Brave-Oscar.jpg" /&gt;
 &lt;hr /&gt;
 &lt;p style="text-align:center;"&gt;
     &lt;b&gt;Claudio Miranda, &lt;/b&gt;Best Cinematography for &lt;b&gt;&lt;i&gt;Life of Pi&lt;/i&gt;&lt;/b&gt;.
 &lt;/p&gt;
 &lt;hr /&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Claudio-Miranda.jpg"
+&lt;img src="//rockying.com/art/HOllywood/Road-to-the-Oscars/Claudio-Miranda.jpg"
     alt="Caludio Miranda" /&gt;
 &lt;hr /&gt;
 &lt;p style="text-align:center;"&gt;
     &lt;b&gt;Jacqueline Durran&lt;/b&gt; for designing the Best Costumes for &lt;b&gt;&lt;i&gt;Anna Karenina&lt;/i&gt;&lt;/b&gt;.
 &lt;/p&gt;
 &lt;hr /&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Anna-Karenina-Best-Costume.jpg"
+&lt;img src="//rockying.com/art/HOllywood/Road-to-the-Oscars/Anna-Karenina-Best-Costume.jpg"
     alt="Anna Karenina Best Costume" /&gt;
 &lt;hr /&gt;
 &lt;p style="text-align:center;"&gt;
     &lt;b&gt;William Goldenberg&lt;/b&gt;, Best Editing for &lt;b&gt;&lt;i&gt;Argo&lt;/i&gt;&lt;/b&gt;.
 &lt;/p&gt;
 &lt;hr /&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Best-Editing-William-Goldenberg.jpg"
+&lt;img src="//rockying.com/art/HOllywood/Road-to-the-Oscars/Best-Editing-William-Goldenberg.jpg"
     alt="Best Editing William Goldenberg" /&gt;
 &lt;hr /&gt;
 &lt;p style="text-align:center;"&gt;
     &lt;b&gt;Mychael Danna&lt;/b&gt;, Best Music (Original Score), for &lt;b&gt;&lt;i&gt;Life of Pi&lt;/i&gt;&lt;/b&gt;
 &lt;/p&gt;
 &lt;hr /&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Road-to-the-Oscars/Mychael-Danna.jpg"
+&lt;img src="//rockying.com/art/HOllywood/Road-to-the-Oscars/Mychael-Danna.jpg"
     alt="Mychael Danna" /&gt;
 &lt;p&gt;
     Visit &lt;a href="http://oscar.go.com/nominees" target="_blank" /&gt;here&lt;/a&gt; for further

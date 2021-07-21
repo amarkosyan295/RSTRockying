@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>The 3 Day Juice Cleanse – I Tried it and Lived to Tell the Tale</Title>
-  <OGImage>http://www.rockying.com/art/health/Juice-Cleanse/Juice-Cleanse-Tale.jpg</OGImage>
+  <MetaTitle>The 3 Day Juice Cleanse – I Tried it and Lived to Tell the Tale</MetaTitle>
+  <OGImage>//rockying.com/art/health/Juice-Cleanse/Juice-Cleanse-Tale.jpg</OGImage>
   <OGDescription>Before all you folks out there think, I’m a fitness or nutrition freak; let’s get this in the right perspective. The snag was that I am not really the kind who...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,8 +13,8 @@
   <Category>5</Category>
   <Tag>Juice Cleanse, Vegan Diet, Organic Living, Fitness, Nutrition, Health Management, 3-Day Juice Cleanse.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/health/Juice-Cleanse/Juice-Cleanse-Tale.jpg' alt='' /&gt;&lt;p&gt;Before all you folks out there think, I’m a fitness or nutrition freak; let’s get this in the right perspective. The snag was that I am not really the kind who...&lt;/p&gt;</Description>
-  <Text>&lt;p&gt;&lt;img src="http://www.rockying.com/art/health/Juice-Cleanse/Juicing.jpg" class="pull-right" /&gt;
+  <Description>&lt;img src='//rockying.com/art/health/Juice-Cleanse/Juice-Cleanse-Tale.jpg' alt='' /&gt;&lt;p&gt;Before all you folks out there think, I’m a fitness or nutrition freak; let’s get this in the right perspective. The snag was that I am not really the kind who...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;img src="//rockying.com/art/health/Juice-Cleanse/Juicing.jpg" class="pull-right" /&gt;
 Celebrities will be celebrities and fans and groupies will follow every one of their fads blindly. I do not belong to either category, but kept reading about how Gwyneth Paltrow, Beyonce, Miranda Kerr, Joe Cross and a host of other celebrities were celebrating their newly-found health mantra- the Juice Cleanse. And for all those who must have a branded product- the branded version of the 3-Day Juice cleanse is called the Blue Print Cleanse. 
 &lt;/p&gt;
 &lt;ul&gt;
@@ -50,7 +51,7 @@ I had cheated, but today my energy-levels seemed fine and my hunger was manageab
 &lt;/p&gt;
 &lt;li&gt;
 &lt;h2&gt;THE TRIBULATIONS &amp; THE TRIUMPH &lt;/h2&gt;
-&lt;img src="http://www.rockying.com/art/health/Juice-Cleanse/Juice-Cleanse-Tale.jpg" class="pull-right" style="width: 400px; float:left;"/&gt;
+&lt;img src="//rockying.com/art/health/Juice-Cleanse/Juice-Cleanse-Tale.jpg" class="pull-right" style="width: 400px; float:left;"/&gt;
 &lt;p&gt;Despite all my infidelities with food, I believe that my 3-Day Juice Cleanse was an overall success. My cravings turned over a new leaf. Today, as a habit, I have switched from my customary morning coffee to a green juice and my energy levels are 10X higher. I am able to pass up the Tim Tams and the John Dory fillets – which makes me feel triumphant and powerful. 
 &lt;/p&gt;
 &lt;p&gt;
@@ -60,4 +61,5 @@ Ah, and yes- the statistics, for those who care. I did not lose the stipulated 7
   <WriterEmail>pdes17@gmail.com</WriterEmail>
   <Viewed>0</Viewed>
   <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>299</URL>
 </Article>

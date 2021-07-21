@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>Ankit Tiwari's Journey from a Small Town to Bollywood Film Industry</Title>
-  <OGImage>http://www.rockying.com/art/Music/Ankit-Tiwari-Story/Ankit-Tiwari-with-his-father-holding-the-Filmfare.jpg</OGImage>
+  <MetaTitle>Ankit Tiwari's Journey from a Small Town to Bollywood Film Industry</MetaTitle>
+  <OGImage>//rockying.com/art/Music/Ankit-Tiwari-Story/Ankit-Tiwari-with-his-father-holding-the-Filmfare.jpg</OGImage>
   <OGDescription>A special mention in the life of Ankit Tiwari, brother Ankur (Tiwari) has always been a constant support. Taking care of all the management, Ankur made sure his brother could focus entirely on his singing career.</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,8 +13,8 @@
   <Category>15</Category>
   <Tag>Ankit Tiwari, Ankit Tiwari Brother, Ankur Tiwari, Inspiring Story, Brotherhood Entertainement, Bollywood Playback Singer</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/Music/Ankit-Tiwari-Story/Ankit-Tiwari-with-his-father-holding-the-Filmfare.jpg' alt='' /&gt;&lt;p&gt;A special mention in the life of Ankit Tiwari, brother Ankur (Tiwari) has always been a constant support. Taking care of all the management, Ankur made sure his brother could focus entirely on his singing career.&lt;/p&gt;</Description>
-  <Text>&lt;img src="http://www.rockying.com/art/Music/Ankit-Tiwari-Story/Ankit-Tiwari-with-his-father-holding-the-Filmfare.jpg" alt="Ankit and HIs Father" title="Ankit Tiwari with Father"&gt;
+  <Description>&lt;img src='//rockying.com/art/Music/Ankit-Tiwari-Story/Ankit-Tiwari-with-his-father-holding-the-Filmfare.jpg' alt='' /&gt;&lt;p&gt;A special mention in the life of Ankit Tiwari, brother Ankur (Tiwari) has always been a constant support. Taking care of all the management, Ankur made sure his brother could focus entirely on his singing career.&lt;/p&gt;</Description>
+  <Text>&lt;img src="//rockying.com/art/Music/Ankit-Tiwari-Story/Ankit-Tiwari-with-his-father-holding-the-Filmfare.jpg" alt="Ankit and HIs Father" title="Ankit Tiwari with Father"&gt;
 &lt;p&gt;
 &lt;b&gt;‘Sun Raha Hai Na Tu’&lt;/b&gt; is a song that was on every Indian youngster’s lips in 2013 and it was through this that singer Ankit Tiwari made a place in everyone’s hearts. Hailing from a middle-class family in Kanpur, Ankit has raised a big fan base since his debut. 
 
@@ -22,7 +23,7 @@
 With his soulful voice and unique sense of music, the music-maker started his career with jingle compositions. There on, he was offered to compose music for the film Do Dooni Chaar (2010) and Saheb Biwi Aur Gangster (2011), which also turned out to be his singing debut. Since then, the small town boy who had set out with big dreams in his eyes has never looked back.  
 &lt;/p&gt;
 
-&lt;img src="http://www.rockying.com/art/Music/Ankit-Tiwari-Story/Mahesh-Bhatt-Tweet-about-Ankit.png" alt="Mahesh Bhatt's Tweet about Ankit Tiwari" title="Mahesh Bhatt's Tweet about Ankit Tiwari"&gt;
+&lt;img src="//rockying.com/art/Music/Ankit-Tiwari-Story/Mahesh-Bhatt-Tweet-about-Ankit.png" alt="Mahesh Bhatt's Tweet about Ankit Tiwari" title="Mahesh Bhatt's Tweet about Ankit Tiwari"&gt;
  
 &lt;h4&gt;Inspiring Journey in every sense&lt;/h4&gt;
 
@@ -37,7 +38,7 @@ Ankit's journey is inspiring in every sense, and his story cannot be completed w
 
 &lt;/p&gt;
 
-&lt;img src="http://www.rockying.com/art/Music/Ankit-Tiwari-Story/Ankit-Kapil-Sharma-Show.jpg" alt="Ankit Tiwari at Kapil Sharma's Show" title="Ankit Tiwari at Kapil Sharma's Show"&gt; 
+&lt;img src="//rockying.com/art/Music/Ankit-Tiwari-Story/Ankit-Kapil-Sharma-Show.jpg" alt="Ankit Tiwari at Kapil Sharma's Show" title="Ankit Tiwari at Kapil Sharma's Show"&gt; 
 
 &lt;h4&gt;Foundation of Brotherhood Entertainment&lt;/h4&gt;
 
@@ -51,7 +52,7 @@ From his early days in the Mayanagri, singer &lt;a href="http://ankittiwari.in/"
 
 &lt;/p&gt;
 
-&lt;img src= "http://www.rockying.com/art/Music/Ankit-Tiwari-Story/Aiyaari.jpg" alt="Aiyaary" title="Aiyaary"&gt;
+&lt;img src= "//rockying.com/art/Music/Ankit-Tiwari-Story/Aiyaari.jpg" alt="Aiyaary" title="Aiyaary"&gt;
 &lt;p&gt;
 Apart from the list of multiple Bollywood hits, Ankit’s music has also earned him the reputation of a music director. The long list of movies, including &lt;b&gt;Aashiqui 2 &lt;/b&gt;(2013), &lt;b&gt;Singham Returns&lt;/b&gt;(2014), &lt;b&gt;Airlift&lt;/b&gt; (2016), &lt;b&gt;Rustom&lt;/b&gt; (2016), &lt;b&gt;Rocky Handsome&lt;/b&gt; (2016), &lt;b&gt;Baaghi&lt;/b&gt; (2016), &lt;b&gt;Tum Bin II &lt;/b&gt;(2016), &lt;b&gt;Beiimaan Love&lt;/b&gt; (2016), &lt;b&gt;Baadshaho &lt;/b&gt;(2017) and more are the proof of love his fans and followers have showered upon him. The year 2018 has also given the fans something to cherish with the music of the film &lt;b&gt;Aiyaary&lt;/b&gt;, which also has been composed by Ankit.  
 

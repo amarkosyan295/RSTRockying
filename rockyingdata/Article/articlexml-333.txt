@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>When an Indian Visits the War Museum in Jaisalmer</Title>
-  <OGImage>http://www.rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Hunter-Jet-1971-War.jpeg</OGImage>
+  <MetaTitle>When an Indian Visits the War Museum in Jaisalmer</MetaTitle>
+  <OGImage>//rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Hunter-Jet-1971-War.jpeg</OGImage>
   <OGDescription>I have always wondered why, when it comes to matters of my nation, the heart seems to...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,20 +13,20 @@
   <Category>17</Category>
   <Tag>Jaisalmer, War Museum, 1971 Indo pak War, Sherman tank, Vijayant tank, Travel, Rajasthan.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Hunter-Jet-1971-War.jpeg' alt='' /&gt;&lt;p&gt;I have always wondered why, when it comes to matters of my nation, the heart seems to...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Hunter-Jet-1971-War.jpeg' alt='' /&gt;&lt;p&gt;I have always wondered why, when it comes to matters of my nation, the heart seems to...&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
 I have always wondered why, when it comes to matters of my nation, the heart seems to burst out of emotions. Whenever I witness the tricolor, rippling proudly like it always does, I cannot help but feel the pain of the dead and living brothers of my country who prioritised the motherland over everything else in their lives. It is a strong emotion: being proud of your soldier, the rage for war, hatred for politics, concern for the families and the urge to shed tears for them. The war museum in Jaisalmer is one place in India where you get to experience it all at once. The museum was inaugurated in 2015,  the year of the Golden Jubilee Commemoration of 1965 Indo-Pak War. 
 
 &lt;/p&gt;
 
-&lt;img src="http://www.rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Jaisalmer-War-Museum_Entrance.png" alt="The Jaisalmer War Museum Entrance" title="The Entrance of the Museum, the feels man!"&gt;
+&lt;img src="//rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Jaisalmer-War-Museum_Entrance.png" alt="The Jaisalmer War Museum Entrance" title="The Entrance of the Museum, the feels man!"&gt;
 
 &lt;p&gt; When travelling to Jaisalmer by road, The War Museum built on the outskirts of the city is the first property you will notice by the highway. Visit while entering the city (if you have the energy) or plan and come back for at least two hours. The museum has two large Information Display Halls a.k.a The Indian Army Hall and The Laungewala Hall, an Audio Visual Room, and a souvenir shop.  There are a large number of captured war trophies and own vintage equipment on display to include tanks, guns and military vehicles. &lt;/p&gt;
 
 &lt;p&gt; 
 1) The War Documentary Movie (Duration: 12 minutes): They do not allow filming or photography inside the theatre so just sit back, relax and watch the movie compiled with original images and videos from the Indo-Pak War of 1965 describing the events that lead to the war and how the Indian army counterattacked Pakistan's Operation Gibraltar, which was designed to infiltrate forces into Jammu and Kashmir to precipitate an insurgency against Indian rule. 
 &lt;/p&gt; 
-&lt;img src="http://www.rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Jaisalmer-War-Museum.jpeg" alt="War Museum Ticket Counter" title="So cool that signature! That's the wife right there ;)"&gt;
+&lt;img src="//rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Jaisalmer-War-Museum.jpeg" alt="War Museum Ticket Counter" title="So cool that signature! That's the wife right there ;)"&gt;
 
 &lt;p&gt; 2) Captured Tanks from the war of 1971 and 1965: War trophies in the form of Pakistani tanks and vehicles are displayed all over the museum area. Each display item is labelled with names and details of when and how the weapon was used. 
 &lt;/p&gt; 
@@ -33,34 +34,34 @@ I have always wondered why, when it comes to matters of my nation, the heart see
 3) Indian Tanks, A Fighter Jet, and Anti Tank Guns: An oasis in the desert of Thar, this museum premise is designed a combination of indoor display rooms for images, documents, scale models, etc and an outdoor assemblage for heavy war equipment in the green. Managed by army men themselves, you'd wonder where all the water for the drenching of plants comes from? They tell you due to a shortage of water in the place, they use waste water from the premise and around the city to irrigate the green. Now let us show you around. 
 &lt;/p&gt;
 
-&lt;img src="http://www.rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Anti-Tank-Gun.jpeg" alt="Anti-tank Gun"&gt;
+&lt;img src="//rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Anti-Tank-Gun.jpeg" alt="Anti-tank Gun"&gt;
 
 &lt;p&gt;This is the anti-tank gun that played a pivotal role defending Longewala Post in the war of 1971. The same vehicle was mounted by &amp;quot; Company JCO Naib Subedar Mathura Das&amp;quot;, if you remember the movie &amp;quot;Border&amp;quot; Sudesh Beri portrayed the role of Naib Subedar.&lt;/p&gt;
 
-&lt;img src="http://www.rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Armoured-Vehichle-Indian-Army.jpeg" alt="Armoured vehicle"&gt;
+&lt;img src="//rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Armoured-Vehichle-Indian-Army.jpeg" alt="Armoured vehicle"&gt;
 &lt;p&gt;Armoured vehicles from Indian Army, these machines were used in the 1965 war against Pakistan.&lt;/p&gt;
 
-&lt;img src="http://www.rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Captured-Pakistani-Tank-from-1965-War.jpeg" alt="A Captured Pakistani Tank at Jaisalmer War Museum" title"Captured Pakistani Tank"&gt;
+&lt;img src="//rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Captured-Pakistani-Tank-from-1965-War.jpeg" alt="A Captured Pakistani Tank at Jaisalmer War Museum" title"Captured Pakistani Tank"&gt;
 &lt;p&gt;A captured Pakistani tank from the war of 1965. These tanks were provided to them by the United States at the time. &lt;/p&gt;
 
-&lt;img src="http://www.rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Captured-Pakistani-Tank-With-Gun-Pointing-Down.jpeg" alt="Pakistani Tank with gun barrel pointing down"&gt;
+&lt;img src="//rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Captured-Pakistani-Tank-With-Gun-Pointing-Down.jpeg" alt="Pakistani Tank with gun barrel pointing down"&gt;
 &lt;p&gt;Fun fact here: All captured tanks from the defeated side have their gun barrels pointed downward. &lt;/p&gt;
 
-&lt;img src="http://www.rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Captured-Pakistani-Tanks.jpeg"&gt;
+&lt;img src="//rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Captured-Pakistani-Tanks.jpeg"&gt;
 &lt;p&gt;More tanks captured in 1971 war.&lt;/p&gt;
 
-&lt;img src="http://www.rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Captured-Sharmen-Tank-1971-War.jpeg" alt="The Sherman Tank" &gt;
+&lt;img src="//rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Captured-Sharmen-Tank-1971-War.jpeg" alt="The Sherman Tank" &gt;
 &lt;p&gt;This is the invincible Sherman Tank which Pakistan used in the war of 1971. As we told earlier, Pakistan bought these tanks from the USA.&lt;/p&gt;
 
-&lt;img src="http://www.rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Celebrations-After-defending-longewala-post.JPG" alt="Celebration after 1971 War win"&gt;
+&lt;img src="//rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Celebrations-After-defending-longewala-post.JPG" alt="Celebration after 1971 War win"&gt;
 &lt;p&gt;An artistic impression, inside the Longewala hall, of soldiers celebrating after they successfully defended the post of Longewala.&lt;/p&gt;
 
-&lt;img src="http://www.rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Hunter-Jet-1971-War.jpeg" alt="An Indian Hunter Jet"&gt;
+&lt;img src="//rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Hunter-Jet-1971-War.jpeg" alt="An Indian Hunter Jet"&gt;
 &lt;p&gt;Hunter jets were deployed by Indian Airforce on the western front. They converted the western front into a graveyard of Pakistani tanks. Pakistan lost half of its tank division, all thanks to these jets.&lt;/p&gt;
 
-&lt;img src="http://www.rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Proud-Vijayant-Tank.jpeg" alt="Vijayant Tank"&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Vijayant-Tank.jpeg" alt="Vijayant Tank"&gt;
-&lt;img src="http://www.rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Winner-Vijayant-Tank.jpeg" alt="Vijayant Tank"&gt;
+&lt;img src="//rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Proud-Vijayant-Tank.jpeg" alt="Vijayant Tank"&gt;
+&lt;img src="//rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Vijayant-Tank.jpeg" alt="Vijayant Tank"&gt;
+&lt;img src="//rockying.com/art/Travel/Jaisalmer/Jaisalmer-War-Museum/Winner-Vijayant-Tank.jpeg" alt="Vijayant Tank"&gt;
 
 &lt;p&gt;Vijayant tank standing proud amongst the captured tanks.&lt;/p&gt;
 

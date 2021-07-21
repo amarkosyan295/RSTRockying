@@ -3,7 +3,7 @@
   <ID>0</ID>
   <Title>They Lived, They Fought for the Nation and Died; India's Legendary Freedom Fighters (Do We Really Know Them?)</Title>
   <MetaTitle>10 India's unknown Legendary Freedom Fighters - Rockying.com</MetaTitle>
-  <OGImage>http://www.rockying.com/art/bollywood/Freedom-Fighters-Bollywood/The-Heroes.jpg</OGImage>
+  <OGImage>//rockying.com/art/bollywood/Freedom-Fighters-Bollywood/The-Heroes.jpg</OGImage>
   <OGDescription>They fought and died for the sake of us. 10 unknown India's Legendary Freedom Fighters. Do we really even know them?</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -13,7 +13,7 @@
   <Category>20</Category>
   <Tag>Indian Freedom Fighters, Mangal Pandey, Bhagat Singh, Chandra Shekhar Azad, Subhash Chandra Bose, Veer Sawarkar, Sukhdev, Rajguru, Ram Prasad Bismil, Ashfaqullah Khan, Sardar Patel</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Freedom-Fighters-Bollywood/The-Heroes.jpg' alt='' /&gt;&lt;p&gt;They fought and died for the sake of us. 10 unknown India's Legendary Freedom Fighters. Do we really even know them?&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/bollywood/Freedom-Fighters-Bollywood/The-Heroes.jpg' alt='' /&gt;&lt;p&gt;They fought and died for the sake of us. 10 unknown India's Legendary Freedom Fighters. Do we really even know them?&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
 Nothing was more dear to these men than the independence of our nation. Independence, that we so casually take for granted, was once a forbidden fruit. For our revolutionaries, it was like breathing every moment of the day, as was getting the country freedom as soon as possible. Thousands died, and are still dying, in the path of freedom of our motherland. Some we are aware of and many we are not. Let us pledge to try and bring back the emotion that made these martyrs leave behind every comfort of life to get us the free &lt;i&gt;&lt;b&gt;Bharat&lt;/b&gt;&lt;/i&gt; we live in today. Jai Hind! 
 
@@ -23,7 +23,7 @@ Nothing was more dear to these men than the independence of our nation. Independ
     &lt;span class="qindex"&gt;1&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-            &lt;img src="http://www.rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/mangal_pandey.jpg" alt="Mangal-Pandey" title="Mangal-Pandey" /&gt;
+            &lt;img src="//rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/mangal_pandey.jpg" alt="Mangal-Pandey" title="Mangal-Pandey" /&gt;
         &lt;/div&gt;
         &lt;div class="span6"&gt;
   &lt;h4&gt;Which place was the Bengal Native Infantry sepoy, Mangal Pandey, originally from?&lt;/h4&gt;
@@ -44,7 +44,7 @@ There was a wide range of factors causing apprehension and mistrust in the Benga
     &lt;span class="qindex"&gt;2&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-            &lt;img src="http://www.rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Ram-Prasad-Bismil.jpg" alt="Ram-Prasad-Bismil" title="Ram Prasad Bismil" /&gt;
+            &lt;img src="//rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Ram-Prasad-Bismil.jpg" alt="Ram-Prasad-Bismil" title="Ram Prasad Bismil" /&gt;
         &lt;/div&gt;
         &lt;div class="span6"&gt;
   &lt;h4&gt;&lt;i&gt;Sarfaroshi ki tamanna ab hamare dil me hai, dekhna hai zor kitna bazu-e-qatil me hai..."&lt;/i&gt; Who wrote this patriotic poem, back in 1921? &lt;/h4&gt;
@@ -65,7 +65,7 @@ The poem was used as a freedom war cry during the British Raj period in India. I
     &lt;span class="qindex"&gt;3&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-            &lt;img src="http://www.rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Chandra-Shekhar-Azad.jpg" alt="Chandra Shekhar Azad" title="Chandra Shekhar Azad" /&gt;
+            &lt;img src="//rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Chandra-Shekhar-Azad.jpg" alt="Chandra Shekhar Azad" title="Chandra Shekhar Azad" /&gt;
         &lt;/div&gt;
         &lt;div class="span6"&gt;
   &lt;h4&gt;What is the real name of Chandra Shekhar 'Azad'? &lt;/h4&gt;
@@ -85,7 +85,7 @@ In December 1921, when Mahatma Gandhi launched the Non-Cooperation Movement, Cha
     &lt;span class="qindex"&gt;4&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-            &lt;img src="http://www.rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Jatindra-Nath-Das.jpg" alt="Jatindra Nath Das" title="Jatin Da" /&gt;
+            &lt;img src="//rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Jatindra-Nath-Das.jpg" alt="Jatindra Nath Das" title="Jatin Da" /&gt;
         &lt;/div&gt;
         &lt;div class="span6"&gt;
   &lt;h4&gt;Which revolutionary and comrade of Bhagat Singh's died in jail after a 63-day hunger strike ?&lt;/h4&gt;
@@ -106,7 +106,7 @@ On 13 July 1929, Bhagat Singh and his aides began a hunger strike demanding equa
     &lt;span class="qindex"&gt;5&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-            &lt;img src="http://www.rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Batukeshwar_dutt.jpg" alt="Batukeshwar Dutt" title="Batukeshwar Dutt" /&gt;
+            &lt;img src="//rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Batukeshwar_dutt.jpg" alt="Batukeshwar Dutt" title="Batukeshwar Dutt" /&gt;
         &lt;/div&gt;
         &lt;div class="span6"&gt;
   &lt;h4&gt;Who aided Bhagat Singh in the Central assembly bombing incident, that led to his final arrest before his death?&lt;/h4&gt;
@@ -127,7 +127,7 @@ The British government passed the Defence of India Act to give more power to the
     &lt;span class="qindex"&gt;6&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-            &lt;img src="http://www.rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Lala-Lajpat-Rai.jpg" alt="Lala Lajpat Rai" title="Lala Lajpat Rai" /&gt;
+            &lt;img src="//rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Lala-Lajpat-Rai.jpg" alt="Lala Lajpat Rai" title="Lala Lajpat Rai" /&gt;
         &lt;/div&gt;
         &lt;div class="span6"&gt;
   &lt;h4&gt;Which British official was responsible for the death of Lala Lajpat Rai?&lt;/h4&gt;
@@ -148,7 +148,7 @@ In 1928, the British set up the Simon Commission, to report on the political sce
     &lt;span class="qindex"&gt;7&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-            &lt;img src="http://www.rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Durgawati-Devi.jpg" alt="Durgawati Devi with Son" title="Durga Bhabhi with Son" /&gt;
+            &lt;img src="//rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Durgawati-Devi.jpg" alt="Durgawati Devi with Son" title="Durga Bhabhi with Son" /&gt;
         &lt;/div&gt;
         &lt;div class="span6"&gt;
   &lt;h4&gt;Which woman revolutionary played Bhagat Singh's wife to help the escape of Bhagat Singh and Rajguru after the planned killing of a British policeman? &lt;/h4&gt;
@@ -169,7 +169,7 @@ On 19 December 1928, Sukhdev called the wife of HSRA member, Bhagwati Charan Voh
     &lt;span class="qindex"&gt;8&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-            &lt;img src="http://www.rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Bhagwati_Charan_Vohra.jpg" alt="Bhagwati Charan Vora" title="Bhagwati Vora " /&gt;
+            &lt;img src="//rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Bhagwati_Charan_Vohra.jpg" alt="Bhagwati Charan Vora" title="Bhagwati Vora " /&gt;
         &lt;/div&gt;
         &lt;div class="span6"&gt;
   &lt;h4&gt; 
@@ -192,7 +192,7 @@ In December 1929, a bomb exploded under the Viceroy Irwin’s special train, whi
     &lt;span class="qindex"&gt;9&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-            &lt;img src="http://www.rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Aruna_Asaf_Ali.jpg" alt="Aruna Asaf Ali" title="Aruna Asaf Ali" /&gt;
+            &lt;img src="//rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Aruna_Asaf_Ali.jpg" alt="Aruna Asaf Ali" title="Aruna Asaf Ali" /&gt;
         &lt;/div&gt;
         &lt;div class="span6"&gt;
   &lt;h4&gt;Who presided over the AICC session, on 9th August 1942, after the arrest of all major political leaders during the Quit India Movement? &lt;/h4&gt;
@@ -213,7 +213,7 @@ After the arrest of major leaders of the Indian National Congress, this revoluti
     &lt;span class="qindex"&gt;10&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-            &lt;img src="http://www.rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Udham-Singh.jpg" alt="Sardar Udham Singh Ji" title="Sardar Udham Singh" /&gt;
+            &lt;img src="//rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Udham-Singh.jpg" alt="Sardar Udham Singh Ji" title="Sardar Udham Singh" /&gt;
         &lt;/div&gt;
         &lt;div class="span6"&gt;
   &lt;h4&gt; Which British army officer did Sardar Udham Singh assassinate, in London, as a retaliation for the Amritsar Jallianwala Bagh massacre? &lt;/h4&gt;

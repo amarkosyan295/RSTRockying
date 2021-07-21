@@ -92,7 +92,7 @@
     &lt;br&gt;
 &lt;/p&gt;
 &lt;p&gt;
-    &lt;img src="http://www.rockying.com/art/bollywood/Cult-Classics-2/Pyasa.jpg" title="Pyaasa 1957; Guru Dutt n Waheeda Rehman"
+    &lt;img src="//rockying.com/art/bollywood/Cult-Classics-2/Pyasa.jpg" title="Pyaasa 1957; Guru Dutt n Waheeda Rehman"
         alt="Pyaasa" style="float: right; height: 300px;"&gt;&lt;br&gt;
     &lt;b&gt;4. PYAASA (1957)&lt;/b&gt;: Yes, this is what I meant when I said that 1950s was the
     Golden Age of Bollywood truly defining the status of Classics in the history of
@@ -133,7 +133,7 @@
 &lt;/p&gt;
 &lt;h6&gt;
     A classic is original in its own right and inspires the Modern. A classic is forever.
-    &lt;a href="http://www.rockying.com/a/197"&gt;Click here&lt;/a&gt; to read about the best of
+    &lt;a href="//rockying.com/a/197"&gt;Click here&lt;/a&gt; to read about the best of
     60s and 70s of Bollywood. Classics just have it in them, right?&lt;/h6&gt;
 &lt;p&gt;
     &lt;br&gt;

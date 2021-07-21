@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>समय से पहले नहीं पकेंगे बाल: आँवला और उसके प्राकृतिक उपयोग</Title>
-  <OGImage>http://www.rockying.com/art/health/Home-made-Remedies/gooseberry-1.jpg</OGImage>
+  <MetaTitle>समय से पहले नहीं पकेंगे बाल: आँवला और उसके प्राकृतिक उपयोग</MetaTitle>
+  <OGImage>//rockying.com/art/health/Home-made-Remedies/gooseberry-1.jpg</OGImage>
   <OGDescription>Use Aamla in these Ayurvedic remedies to treat all your hair problems including pre-mature...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,9 +13,9 @@
   <Category>5</Category>
   <Tag>आँवला, आयुर्वेद , आयुर्वेदिक उपचार, प्राकृतिक इलाज, बालों का असमय सफ़ेद होना, Pre-mature Graying, Home-Remedies, No Side Effects.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/health/Home-made-Remedies/gooseberry-1.jpg' alt='' /&gt;&lt;p&gt;Use Aamla in these Ayurvedic remedies to treat all your hair problems including pre-mature...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/health/Home-made-Remedies/gooseberry-1.jpg' alt='' /&gt;&lt;p&gt;Use Aamla in these Ayurvedic remedies to treat all your hair problems including pre-mature...&lt;/p&gt;</Description>
   <Text>&lt;h2&gt;बालों का समय से पहले सफ़ेद होना (Pre-mature Graying of Hair) &lt;/h2&gt;
-&lt;img src="http://www.rockying.com/art/health/Home-made-Remedies/Pre-mature-Graying.jpg" alt="Pre-Mature-Graying of Hair" title="Pre-mature graying of Hair" class="pull-right" style="padding-left:10px;"&gt;
+&lt;img src="//rockying.com/art/health/Home-made-Remedies/Pre-mature-Graying.jpg" alt="Pre-Mature-Graying of Hair" title="Pre-mature graying of Hair" class="pull-right" style="padding-left:10px;"&gt;
 &lt;p&gt;
 हमारी मम्मियों के बाल शायद अभी भी सफ़ेद न हुए हों। आप विश्वास नहीं करेंगे पर जब मेरी नानी की डेथ हुई थी तो उनके ज़्यादातर बाल काले थे. हाँ वाक़ई ! मेरी तो, इन फैक्ट, सारी फ्रेंड्स अभी से ही कलर करती हैं और वो सिर्फ शौक़िया नहीं, उनके बाल असल में सफ़ेद होने लगे थे। और अब तो हर महीने का उनका ये एक बड़ा ख़र्चा है। तो क्या वजह है कि हमारे, जान से प्यारे, ख़ूबसूरत, बाल वक़्त से पहले ही पकने लगे हैं?  प्रदूषण, आज कल की भाग-दौड़ की ज़िन्दगी और उससे जुड़ा तनाव, अनुवांशिक (यानि हेरिडिटरी),  शैम्पू और कई सारे और हेयर-प्रोडक्ट्स में मिले हुए केमिकल, आदि कई ऐसे कारण हैं जो हमें वक़्त से पहले बढ़ती उम्र का एहसास, बालों के द्वारा, दिला देते हैं। आज रॉकीइंग पर हम कुछ ऐसे घरेलू नुस्खों के बारे में बताएँगे जो न केवल प्राकृतिक हैं बल्कि बालों के असमय सफ़ेद होने में कारगर साबित हुए हैं। 
 &lt;/p&gt;
@@ -37,7 +38,7 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/health/Home-made-Remedies/gooseberry-1.jpg" alt="Uses of Indian-Gooseberry-आँवला" title="आँवला और उसके अनगिनत प्राकृतिक उपयोग "&gt;
+&lt;img src="//rockying.com/art/health/Home-made-Remedies/gooseberry-1.jpg" alt="Uses of Indian-Gooseberry-आँवला" title="आँवला और उसके अनगिनत प्राकृतिक उपयोग "&gt;
 &lt;hr&gt;
 &lt;p&gt;
 इस आंवले के पानी द्वारा सर धोने से बालों का कालापन दिन पर दिन बढ़ता जाता है और सालों तक यह ख़ूबसूरत और मज़बूत बने रहते हैं। बाल काले, घने, साफ़, चमकीले  और रेशम की तरह मुलायम हो जाते हैं।  इस दवा से सर दर्द और आँखों की तकलीफ में भी फ़ायदा मिलता है। दिमाग में ताज़गी रहती है और सर के सभी रोग दूर होते हैं। अगर नज़ले के कारण बाल गिर रहे हों तो इस नुस्खे से निश्चित ही लाभ होता है। 

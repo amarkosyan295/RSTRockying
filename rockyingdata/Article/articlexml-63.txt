@@ -25,7 +25,7 @@
         &lt;h5&gt;
             &lt;i&gt;Frankly my dear, I don’t give a damn&lt;/i&gt; (Gone with the Wind, 1939)&lt;/h5&gt;
         &lt;p class="clearfix"&gt;
-            &lt;img src="http://rockying.com/art/Dialogues-1/gone%20with%20the%20wind.jpg"
+            &lt;img src="//rockying.com/art/Dialogues-1/gone%20with%20the%20wind.jpg"
                 title="Gone With The Wind" alt="" style="width: 250px;" class="pull-left" /&gt;Probably,
             the most powerful dialogue of all times that just doesn’t seem to let go from our
             memory. Spoken by Clark Gable as his last words to Scarlett O’Hara; it not only
@@ -37,7 +37,7 @@
         &lt;h5&gt;
             "&lt;i&gt;Bond, James Bond&lt;/i&gt;" (Dr. No, 1962)&lt;/h5&gt;
         &lt;p class="clearfix"&gt;
-            &lt;img src="http://rockying.com/art/Dialogues-1/bond%20-%20dr.no.jpg"
+            &lt;img src="//rockying.com/art/Dialogues-1/bond%20-%20dr.no.jpg"
                 title="James Bond" alt="" style="width: 296px;" class="pull-right" /&gt;
             First said in the Bond movie Dr. No; this continues to be a favorite among all Bond
             fans alike. Said by Sean Connery, this introduction became the catch phrase and
@@ -50,7 +50,7 @@
             "&lt;i&gt;Mama always said life was like a box of chocolates. You never know what you're gonna
                 get.&lt;/i&gt;" (Forrest Gump, 1994)&lt;/h5&gt;
         &lt;p class="clearfix"&gt;
-            &lt;img src="http://rockying.com/art/Dialogues-1/forrest%20gump%20and%20the%20box%20of%20chocolates.jpg"
+            &lt;img src="//rockying.com/art/Dialogues-1/forrest%20gump%20and%20the%20box%20of%20chocolates.jpg"
                 title="Forrest Gump" alt="" style="height: 250px;" class="pull-left" /&gt;The movie
             which will always be remembered for its many powerful dialogues and the amazingly
             superb performance of Tom Hanks; Forrest Gump maintains to be a cinematic favorite.
@@ -62,7 +62,7 @@
         &lt;h5&gt;
             "&lt;i&gt;I am going to make him an offer he can’t refuse&lt;/i&gt;" (The Godfather, 1972)&lt;/h5&gt;
         &lt;p class="clearfix"&gt;
-            &lt;img src="http://rockying.com/art/Dialogues-1/godfather.jpg" title="God Father"
+            &lt;img src="//rockying.com/art/Dialogues-1/godfather.jpg" title="God Father"
                 alt="" style="width: 250px;" class="pull-right" /&gt;
             Don Vito Corleone's line "I'm gonna make him an offer he can't refuse" was voted
             as the second most memorable line in cinema history in AFI's 100 Years... 100 Movie
@@ -73,7 +73,7 @@
         &lt;h5&gt;
             "&lt;i&gt;Go ahead, make my day&lt;/i&gt;" (Sudden Impact , 1983)&lt;/h5&gt;
         &lt;p class="clearfix"&gt;
-            &lt;img src="http://rockying.com/art/Dialogues-1/sudden%20imapct%20-%20clint%20eastwood.jpg"
+            &lt;img src="//rockying.com/art/Dialogues-1/sudden%20imapct%20-%20clint%20eastwood.jpg"
                 title="Sudden Impact" alt="" style="width: 250px;" class="pull-left" /&gt;The phrase
             "go ahead make my day" was written by Charles B. Pierce an independent film maker
             who wrote the screen play Sudden Impact as a project for himself. One day Eastwood
@@ -86,7 +86,7 @@
         &lt;h5&gt;
             "&lt;i&gt;Show me the Money&lt;/i&gt;" (Jerry Maguire, 1996)&lt;/h5&gt;
         &lt;p class="clearfix"&gt;
-            &lt;img src="http://rockying.com/art/Dialogues-1/cuba%20gooding%20jr%20-%20show%20me%20the%20money.jpg"
+            &lt;img src="//rockying.com/art/Dialogues-1/cuba%20gooding%20jr%20-%20show%20me%20the%20money.jpg"
                 title="Jerry Maguire" alt="" style="width: 300px;" class="pull-right" /&gt;
             When Cuba Gooding Jr. screamed Show me the Money little did he know that it would
             be the role that would drive him to Oscar glory! But it did and it lead to the best
@@ -97,7 +97,7 @@
         &lt;h5&gt;
             &lt;i&gt;"I see dead people"&lt;/i&gt; (The Sixth Sense, 1999)&lt;/h5&gt;
         &lt;p class="clearfix"&gt;
-            &lt;img src="http://rockying.com/art/Dialogues-1/i%20see%20dead%20people.jpg"
+            &lt;img src="//rockying.com/art/Dialogues-1/i%20see%20dead%20people.jpg"
                 title="The Sixth Sense" alt="" style="width: 250px;" class="pull-left" /&gt;When
             little Harry Joel Osment utters his terrible confession, not only does it initiate
             a sense of horror in the audience but it brings about a bout of empathy for the
@@ -107,7 +107,7 @@
         &lt;h5&gt;
             "&lt;i&gt;Love means never having to say you’re sorry&lt;/i&gt;" (Love Story, 1970)&lt;/h5&gt;
         &lt;p class="clearfix"&gt;
-            &lt;img src="http://rockying.com/art/Dialogues-1/love-story_l.jpeg" title="Love Story 1970"
+            &lt;img src="//rockying.com/art/Dialogues-1/love-story_l.jpeg" title="Love Story 1970"
                 alt="" style="height: 250px;" class="pull-right" /&gt;Probably one of the best
             love dialogues that still remains a favorite among the romantics. Based on the best
             selling Eric Segal novel, the movie had the dialogue twice - once when Jennifer
@@ -118,7 +118,7 @@
         &lt;h5&gt;
             "&lt;i&gt;Hasta la vista, baby"&lt;/i&gt; (Terminator 2 : Judgment Day, 1991)&lt;/h5&gt;
         &lt;p class="clearfix"&gt;
-            &lt;img src="http://rockying.com/art/Dialogues-1/terminator.jpg" title="Terminator"
+            &lt;img src="//rockying.com/art/Dialogues-1/terminator.jpg" title="Terminator"
                 alt="" width="200" class="pull-left" /&gt;
             Basically a Spanish farewell, that means something on the lines of See you Later;
             the phrase caught on. The term was used in the popular hit song in 1987 and finds
@@ -130,7 +130,7 @@
             "&lt;i&gt;Hello, Gorgeous&lt;/i&gt;" (Funny Girl, 1968)&lt;/h5&gt;
         &lt;p class="clearfix"&gt;
             Barbara Streisand said the famous words not only in
-            &lt;img src="http://rockying.com/art/Dialogues-1/babra%20streisand%20receiving%20oscar%20for%20funny%20firl.jpg"
+            &lt;img src="//rockying.com/art/Dialogues-1/babra%20streisand%20receiving%20oscar%20for%20funny%20firl.jpg"
                 title="Babra streisand receiving oscar for funny Girl" alt="" style="width: 250px;"
                 class="pull-right" /&gt;the movie, but it also was her first comment after receiving
             the Oscar statuette for Best Actress. It has since then been used in many movies
@@ -140,7 +140,7 @@
 &lt;p&gt;
     So, here’s our first take on the best Hollywood movie dialogues; though there are
     so many more to add, we just can’t go on and on. So, stay on because we do come
-    with our next batch (&lt;a href="http://www.rockying.com/a/74"&gt;Hollywood's Favorite Movie
+    with our next batch (&lt;a href="//rockying.com/a/74"&gt;Hollywood's Favorite Movie
         quotes-II&lt;/a&gt;) of favorite quotes that make for compelling dialogues.&lt;/p&gt;</Text>
   <WriterName>Hajra Khatoon</WriterName>
   <WriterEmail>hajraks@gmail.com</WriterEmail>

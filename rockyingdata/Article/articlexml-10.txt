@@ -3,7 +3,7 @@
   <ID>10</ID>
   <Title>100% Desi Indians</Title>
   <MetaTitle>100% Desi Indians</MetaTitle>
-  <OGImage>http://www.rockying.com/art/Festival/Republic-Day-2013/protest.jpg</OGImage>
+  <OGImage>//rockying.com/art/Festival/Republic-Day-2013/protest.jpg</OGImage>
   <OGDescription>It all started with the Mayan's declaring 21st December 2012 as the doomsday...</OGDescription>
   <DateCreated>2012-01-25T13:46:53.023</DateCreated>
   <DateModified>2012-01-29T22:23:33.073</DateModified>
@@ -13,8 +13,8 @@
   <Category>25</Category>
   <Tag>Republic Day, India, Republic, India, nation, national, 26th January,</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/Festival/Republic-Day-2013/protest.jpg' alt='' /&gt;&lt;p&gt;It all started with the Mayan's declaring 21st December 2012 as the doomsday...&lt;/p&gt;</Description>
-  <Text>&lt;p&gt;&lt;br&gt;&lt;img src="http://www.rockying.com/art/Festival/Republic-Day-2013/protest.jpg" title="Happy Republic Day India" alt="" style="float: left;"&gt;
+  <Description>&lt;img src='//rockying.com/art/Festival/Republic-Day-2013/protest.jpg' alt='' /&gt;&lt;p&gt;It all started with the Mayan's declaring 21st December 2012 as the doomsday...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;br&gt;&lt;img src="//rockying.com/art/Festival/Republic-Day-2013/protest.jpg" title="Happy Republic Day India" alt="" style="float: left;"&gt;
 It all started with the Mayan's declaring 21st December 2012 as the doomsday that would have marked the end of the earth. However, we did manage to survive and step on to 2013 with skepticism, faith, fun, outdated resolutions, and hopes for a crime free India. 
 &lt;/p&gt;
 &lt;p&gt;

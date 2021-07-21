@@ -18,8 +18,8 @@
     &lt;img src="//rockying.com/art/Travel/Hawaii/The_Hawaiin_Islands.jpg"
         title="The Hawaiian Islands" alt="" style="width: 400px; float: right;"&gt;&lt;/p&gt;
 &lt;p&gt;
-    &lt;b&gt;A&lt;/b&gt;fter taking you through the seductive &lt;a href="http://www.rockying.com/a/47"&gt;
-        Maui&lt;/a&gt; with a storyteller we take you to Hawaii in general.&amp;nbsp;&lt;a href="http://www.rockying.com/a/47"&gt;Maui&lt;/a&gt;
+    &lt;b&gt;A&lt;/b&gt;fter taking you through the seductive &lt;a href="//rockying.com/a/47"&gt;
+        Maui&lt;/a&gt; with a storyteller we take you to Hawaii in general.&amp;nbsp;&lt;a href="//rockying.com/a/47"&gt;Maui&lt;/a&gt;
     was one of the largest islands of Hawaii and here's talking to &lt;a href="http://www.browsingrome.com"&gt;
         Diana&lt;/a&gt;, the Rome-blogger, about Hawaii in all!
     &lt;br&gt;

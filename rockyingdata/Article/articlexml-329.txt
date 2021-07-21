@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>Salman Khan Is Back As Tiger and Fans are Going Crazy About His Stunts</Title>
-  <OGImage>http://www.rockying.com/art/bollywood/Tiger-Zinda-Hai-Movie-Review/Salman-Khan-in-Tiger-Zinda-Hai.jpg</OGImage>
+  <MetaTitle>Salman Khan Is Back As Tiger and Fans are Going Crazy About His Stunts</MetaTitle>
+  <OGImage>//rockying.com/art/bollywood/Tiger-Zinda-Hai-Movie-Review/Salman-Khan-in-Tiger-Zinda-Hai.jpg</OGImage>
   <OGDescription>Tiger Zinda Hai is among those fantasy movies which contain a simple story but highly rely on...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,7 +13,7 @@
   <Category>4</Category>
   <Tag>Tiger Zinda hai movie review, Tiger Zinda hai review, Salman Khan, Bollywood Movie Reviews</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Tiger-Zinda-Hai-Movie-Review/Salman-Khan-in-Tiger-Zinda-Hai.jpg' alt='' /&gt;&lt;p&gt;Tiger Zinda Hai is among those fantasy movies which contain a simple story but highly rely on...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/bollywood/Tiger-Zinda-Hai-Movie-Review/Salman-Khan-in-Tiger-Zinda-Hai.jpg' alt='' /&gt;&lt;p&gt;Tiger Zinda Hai is among those fantasy movies which contain a simple story but highly rely on...&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
 Based on a true story, &lt;i&gt;Tiger Zinda Hai&lt;/i&gt; brought Salman Khan back to his original action habitat. The film is inspired by the real-life incident of the rescue of nurses taken hostage by terrorists in Iraq. Salman Khan plays the role of Indian Raw Agent Tiger who rescues them from the clutches of the terrorists accompanied by ISI Agent Zoya, played by Katrina Kaif. The movie is the sequel to the film Ek Tha Tiger released in 2012. 
 &lt;/p&gt;
@@ -30,7 +31,7 @@ Tiger Zinda Hai carries a splendid collection of backgrounds most of which are h
 &lt;/p&gt;
 &lt;br&gt;
 
-&lt;img src="http://www.rockying.com/art/bollywood/Tiger-Zinda-Hai-Movie-Review/Salman-Khan-in-Tiger-Zinda-Hai.jpg" title="Salman in Tiger Zinda Hai" alt="Salman in a still from Tiger Zinda Hai"&gt;
+&lt;img src="//rockying.com/art/bollywood/Tiger-Zinda-Hai-Movie-Review/Salman-Khan-in-Tiger-Zinda-Hai.jpg" title="Salman in Tiger Zinda Hai" alt="Salman in a still from Tiger Zinda Hai"&gt;
 
 &lt;br&gt;
 &lt;p&gt;

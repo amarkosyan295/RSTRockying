@@ -60,7 +60,13 @@ public partial class _Article : BasePage
                 Article a = new Article();
                 try
                 {
-                    a = Utility.Deserialize<Article>(System.IO.File.ReadAllText(Server.MapPath(string.Format("{1}/articlexml-{0}.txt", item.ID, Utility.ArticleFolder))));
+                    if (!string.IsNullOrWhiteSpace(item.Article)) {
+                        a = Utility.Deserialize<Article>(item.Article);
+                    }
+                    //else
+                    //{
+                    //    a = Utility.Deserialize<Article>(System.IO.File.ReadAllText(Server.MapPath(string.Format("{1}/articlexml-{0}.txt", item.ID, Utility.ArticleFolder))));
+                    //}
                 }
                 catch (Exception ex)
                 {

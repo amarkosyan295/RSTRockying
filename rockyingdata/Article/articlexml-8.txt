@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>8</ID>
   <Title>Why Do I Need a Good Well-Being?</Title>
-  <OGImage>http://www.rockying.com/art/Healthy-Living.jpg</OGImage>
+  <MetaTitle>Why Do I Need a Good Well-Being?</MetaTitle>
+  <OGImage>//rockying.com/art/Healthy-Living.jpg</OGImage>
   <OGDescription>Jogging Vs Liposuction</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,9 +13,9 @@
   <Category>5</Category>
   <Tag>Health, Fitness, Well being, Weight, Good Health, Health Care,Exercise Benefits</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/Healthy-Living.jpg' alt='' /&gt;&lt;p&gt;Jogging Vs Liposuction&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/Healthy-Living.jpg' alt='' /&gt;&lt;p&gt;Jogging Vs Liposuction&lt;/p&gt;</Description>
   <Text>&lt;p class="clearfix"&gt;
-    No,&lt;img class="pull-left" title="Healthy Living" alt="" src="http://rudrasofttech.com/rockying/art/Healthy-Living.jpg" /&gt;
+    No,&lt;img class="pull-left" title="Healthy Living" alt="" src="//rockying.com/art/Healthy-Living.jpg" /&gt;
     we aren’t talking about your career or your love life! We are talking about you.
     We won’t be getting into the philosophical benefits of exercising and maintaining
     a good heart and losing that flab. You have probably heard that a million times
@@ -72,5 +73,5 @@
   <WriterEmail>hajraks@gmail.com</WriterEmail>
   <Viewed>0</Viewed>
   <TemplateName />
-  <URL>why-do-i-need-a-good-well-being</URL>
+  <URL>8</URL>
 </Article>

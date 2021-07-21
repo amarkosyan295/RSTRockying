@@ -103,7 +103,7 @@
 &lt;h6&gt;
     Did the black and white colors of bollywood not mesmerise you? Read on to know more
     about the Golden Era of bollywood. Rockying does a whole series on the cult classics.
-    &lt;a href="http://www.rockying.com/a/75"&gt;Cult Classics-II&lt;/a&gt; comes next.
+    &lt;a href="//rockying.com/a/75"&gt;Cult Classics-II&lt;/a&gt; comes next.
 &lt;/h6&gt;</Text>
   <WriterName>Aditi Dasgupta</WriterName>
   <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>

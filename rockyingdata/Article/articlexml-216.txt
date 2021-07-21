@@ -29,8 +29,8 @@
 &lt;div class="slideshow" style="text-align: center;"&gt;
     &lt;div class="slide"&gt;
         &lt;h5&gt;
-            After the sun city &lt;a href="http://www.rockying.com/a/124"&gt;Jodhpur&lt;/a&gt;, the capital
-            &lt;a href="http://www.rockying.com/a/133"&gt;Delhi&lt;/a&gt; and the beachy &lt;a href="http://www.rockying.com/a/139"&gt;
+            After the sun city &lt;a href="//rockying.com/a/124"&gt;Jodhpur&lt;/a&gt;, the capital
+            &lt;a href="//rockying.com/a/133"&gt;Delhi&lt;/a&gt; and the beachy &lt;a href="//rockying.com/a/139"&gt;
                 Kerala&lt;/a&gt;, we move on to the city of nawaabs Lucknow. Get ready to be embraced
             by the &lt;i&gt;nazaakat&lt;/i&gt; (softness) and &lt;i&gt;nafaasat&lt;/i&gt; (refinement) of the life and
             times of Awadh.&lt;/h5&gt;

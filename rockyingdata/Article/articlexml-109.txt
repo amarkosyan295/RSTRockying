@@ -129,7 +129,7 @@
     us who your favorite (spine-chillingly) is? Go scare the comment box away !&lt;br&gt;
 &lt;/h5&gt;
 &lt;p class="well"&gt;
-&lt;img src="http://www.rockying.com/art/Writers/Sonali.jpg" class="pull-left"/&gt;
+&lt;img src="//rockying.com/art/Writers/Sonali.jpg" class="pull-left"/&gt;
 &lt;b&gt;About the Author:&lt;/b&gt; Keeping her eyes closed, with long breaths and a gentle sound many mistakes for snoring, actually helps Sonali think better. Or so she says. People question about these daily “thinking sessions”, mostly conducted on a comfortable couch or bed, while she claims that the long overdue best-seller she’s been working on (for quite some time now) will silence all the cynics. Till then she dreams on...
 &lt;/p&gt;</Text>
   <WriterName>Sonali Chowdhury</WriterName>

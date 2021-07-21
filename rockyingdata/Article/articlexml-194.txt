@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>Most Beautiful Sarees Around The Country</Title>
-  <OGImage>http://www.rockying.com/art/Lifestyle/Fashion/Sarees/jamdani-saree-style-collage.jpg</OGImage>
+  <MetaTitle>Most Beautiful Sarees Around The Country</MetaTitle>
+  <OGImage>//rockying.com/art/Lifestyle/Fashion/Sarees/jamdani-saree-style-collage.jpg</OGImage>
   <OGDescription>Rs. 50,00,000 (100,000$) Saree</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,7 +13,7 @@
   <Category>16</Category>
   <Tag>Sarees, Expensive Sarees, Indian Clothing, Regional Indian Sarees</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/Lifestyle/Fashion/Sarees/jamdani-saree-style-collage.jpg' alt='' /&gt;&lt;p&gt;Rs. 50,00,000 (100,000$) Saree&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/Lifestyle/Fashion/Sarees/jamdani-saree-style-collage.jpg' alt='' /&gt;&lt;p&gt;Rs. 50,00,000 (100,000$) Saree&lt;/p&gt;</Description>
   <Text>&lt;div&gt;
     &lt;div&gt;
         &lt;button id="prevslide" type='button' style='width: 40px;  height:40px;
@@ -28,7 +29,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span7"&gt;
-                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/history-saree-collage.jpg"
+                    &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sarees/history-saree-collage.jpg"
                         alt="" style="width: 100%" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span5"&gt;
@@ -59,7 +60,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span7"&gt;
-                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/chanderi-saree-style-collage.jpg"
+                    &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sarees/chanderi-saree-style-collage.jpg"
                         alt="" style="width: 100%" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span5"&gt;
@@ -91,7 +92,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span7"&gt;
-                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/maheshwari-saree-style-collage.jpg"
+                    &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sarees/maheshwari-saree-style-collage.jpg"
                         alt="" style="width: 100%" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span5"&gt;
@@ -120,7 +121,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span7"&gt;
-                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/tussar-saree-style-collage.jpg"
+                    &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sarees/tussar-saree-style-collage.jpg"
                         alt="" style="width: 100%" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span5"&gt;
@@ -149,7 +150,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span7"&gt;
-                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/Sambalpuri-saree-style-collage.jpg"
+                    &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sarees/Sambalpuri-saree-style-collage.jpg"
                         alt="" style="width: 100%" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span5"&gt;
@@ -176,7 +177,7 @@
                 &lt;div class="span12" style="text-align: center;"&gt;
                     &lt;h3&gt;
                         EAST IS EAST&lt;/h3&gt;
-                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/jamdani-saree-style-collage.jpg"
+                    &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sarees/jamdani-saree-style-collage.jpg"
                         alt="" /&gt;
                     &lt;h4&gt;
                         Jamdani Sarees&lt;/h4&gt;
@@ -200,7 +201,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span7"&gt;
-                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/kantha-saree-style-Collage.jpg"
+                    &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sarees/kantha-saree-style-Collage.jpg"
                         alt="" style="width: 100%" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span5"&gt;
@@ -225,7 +226,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span7"&gt;
-                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/Baluchari-saree-style-Collage.jpg"
+                    &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sarees/Baluchari-saree-style-Collage.jpg"
                         alt="" style="width: 100%" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span5"&gt;
@@ -248,7 +249,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span7"&gt;
-                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/tangail-saree-style-collage.jpg"
+                    &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sarees/tangail-saree-style-collage.jpg"
                         alt="" style="width: 100%" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span5"&gt;
@@ -275,7 +276,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span7"&gt;
-                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/Mekhla-Collage.jpg"
+                    &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sarees/Mekhla-Collage.jpg"
                         alt="" style="width: 100%" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span5"&gt;
@@ -313,7 +314,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span7"&gt;
-                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/Bandhni-saree-style-Collage.jpg"
+                    &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sarees/Bandhni-saree-style-Collage.jpg"
                         alt="" style="width: 100%" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span5"&gt;
@@ -342,7 +343,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span7"&gt;
-                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/kota-doria-saree-style-Collage.jpg"
+                    &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sarees/kota-doria-saree-style-Collage.jpg"
                         alt="" style="width: 100%" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span5"&gt;
@@ -370,7 +371,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span7"&gt;
-                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/nauvaree-saree-style-Collage.jpg"
+                    &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sarees/nauvaree-saree-style-Collage.jpg"
                         alt="" style="width: 100%" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span5"&gt;
@@ -393,7 +394,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span7"&gt;
-                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/paithani-saree-style-collage.jpg"
+                    &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sarees/paithani-saree-style-collage.jpg"
                         alt="" style="width: 100%" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span5"&gt;
@@ -424,7 +425,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span7"&gt;
-                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/banarsi-saree-style-collage.jpg"
+                    &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sarees/banarsi-saree-style-collage.jpg"
                         alt="" style="width: 100%" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span5"&gt;
@@ -454,7 +455,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span7"&gt;
-                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/shalu-saree-style-collage.jpg"
+                    &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sarees/shalu-saree-style-collage.jpg"
                         alt="" style="width: 100%" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span5"&gt;
@@ -474,7 +475,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span7"&gt;
-                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/chikan-saree-style-collage.jpg"
+                    &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sarees/chikan-saree-style-collage.jpg"
                         alt="" style="width: 100%" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span5"&gt;
@@ -498,7 +499,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span7"&gt;
-                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/kalamkari-saree-style-Collage2.jpg"
+                    &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sarees/kalamkari-saree-style-Collage2.jpg"
                         alt="" style="width: 100%" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span5"&gt;
@@ -527,7 +528,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span7"&gt;
-                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/kanchivaram-saree-style-collage.jpg"
+                    &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sarees/kanchivaram-saree-style-collage.jpg"
                         alt="" style="width: 100%" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span5"&gt;
@@ -554,7 +555,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span7"&gt;
-                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/mundum-saree-style-collage.jpg"
+                    &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sarees/mundum-saree-style-collage.jpg"
                         alt="" style="width: 100%" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span5"&gt;
@@ -577,7 +578,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span7"&gt;
-                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/venkat-saree-style-collage.jpg"
+                    &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sarees/venkat-saree-style-collage.jpg"
                         alt="" style="width: 100%" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span5"&gt;
@@ -607,7 +608,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span7"&gt;
-                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/Pochampally-saree-style-Collage.jpg"
+                    &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sarees/Pochampally-saree-style-Collage.jpg"
                         alt="" style="width: 100%" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span5"&gt;
@@ -636,7 +637,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span7"&gt;
-                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/balarampuram-saree-style-Collage.jpg"
+                    &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sarees/balarampuram-saree-style-Collage.jpg"
                         alt="" style="width: 100%" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span5"&gt;
@@ -664,7 +665,7 @@
         &lt;div class="slide"&gt;
             &lt;div class="row-fluid"&gt;
                 &lt;div class="span7"&gt;
-                    &lt;img src="http://rockying.com/art/Lifestyle/Fashion/Sarees/Mysore-saree-style-Collage.jpg"
+                    &lt;img src="//rockying.com/art/Lifestyle/Fashion/Sarees/Mysore-saree-style-Collage.jpg"
                         alt="" style="width: 100%" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span5"&gt;
@@ -696,4 +697,5 @@
   <WriterEmail>preeti.singh@rudrasofttech.com</WriterEmail>
   <Viewed>0</Viewed>
   <TemplateName />
+  <URL>194</URL>
 </Article>

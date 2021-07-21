@@ -15,7 +15,7 @@
   <Status>Publish</Status>
   <Description>&lt;img src='//www.rockying.com/art/Turkey/ihlara-valley.jpg' alt='' /&gt;&lt;p&gt;Magical Landscape, Cappadocia, Turkey&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
-    The third&lt;a href="https://twitter.com/#%21/CilginkizMary"&gt;&lt;img src="http://www.rockying.com/art/Turkey/Christmas_Turkey_Tour.jpg"
+    The third&lt;a href="https://twitter.com/#%21/CilginkizMary"&gt;&lt;img src="//rockying.com/art/Turkey/Christmas_Turkey_Tour.jpg"
         title="Cappacodia; Turkey" alt="Turkey Map" style="width: 230px;" class="pull-right" /&gt;&lt;/a&gt;
     in the travel interview series, we explore the ravisher &lt;a href="http://en.wikipedia.org/wiki/Cappadocia"&gt;
         Cappadocia&lt;/a&gt; in Turkey. Mary Nolan, an Ireland resident reveals her sojourn...&lt;/p&gt;

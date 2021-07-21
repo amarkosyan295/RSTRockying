@@ -3,7 +3,7 @@
   <ID>0</ID>
   <Title>Everything You Need to Know About Plastic Pollution and How India is Fighting It to Save Mother Earth</Title>
   <MetaTitle>Plastic Pollution on Earth; Is India Doing anything About It? </MetaTitle>
-  <OGImage>http://www.rockying.com/art/Awareness/Plastic-Pollution/Plastic-Junk-inside-Marine-Life.jpg</OGImage>
+  <OGImage>//rockying.com/art/Awareness/Plastic-Pollution/Plastic-Junk-inside-Marine-Life.jpg</OGImage>
   <OGDescription>The theme of World Environment Day (organized by the United Nations on 5th of June every year) hosted by India in 2018 was #BeatPlasticPollution. The message to protect our Environment was communicated as, “if you can’t reuse it, refuse...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -13,7 +13,7 @@
   <Category>20</Category>
   <Tag>Plastic pollution, India, Earth Day, World Environment Day, Carbon Footprint, Recycling Plastic Waste, Plastic Waste Management.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/Awareness/Plastic-Pollution/Plastic-Junk-inside-Marine-Life.jpg' alt='' /&gt;&lt;p&gt;The theme of World Environment Day (organized by the United Nations on 5th of June every year) hosted by India in 2018 was #BeatPlasticPollution. The message to protect our Environment was communicated as, “if you can’t reuse it, refuse...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/Awareness/Plastic-Pollution/Plastic-Junk-inside-Marine-Life.jpg' alt='' /&gt;&lt;p&gt;The theme of World Environment Day (organized by the United Nations on 5th of June every year) hosted by India in 2018 was #BeatPlasticPollution. The message to protect our Environment was communicated as, “if you can’t reuse it, refuse...&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
 Plastic pollution is a global phenomenon that has turned into a menace simply because of our careless usage patterns and irresponsible disposal behaviours. Where we are actually
 supposed to be able to differentiate between single-use and reusable plastic bags, we simply utilise them and then dump the plastic waste, carelessly, everywhere we can.
@@ -22,7 +22,7 @@ supposed to be able to differentiate between single-use and reusable plastic bag
 Our plastic waste gets dumped into the oceans, at the parks, near the seashores, and even outside of the garbage cans. Yes, it’s ridiculous that we don’t even care to dump the plastic items—street food wrappers, disposables, chopsticks, knives, spoons, forks, bottles, cups, cutlery, straws, and plates—inside the designated garbage cans. This must change. Every act of responsible plastic management, no matter how small, matters.
 &lt;/p&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Awareness/Plastic-Pollution/plastic-waste.jpg" alt="Discarded Plastic Bottles" title="Discarded Plastic Bottle Waste"&gt;
+&lt;img src="//rockying.com/art/Awareness/Plastic-Pollution/plastic-waste.jpg" alt="Discarded Plastic Bottles" title="Discarded Plastic Bottle Waste"&gt;
 &lt;hr&gt;
 &lt;p&gt;
 Plastic pollution involves (single-use or reusable) plastic objects (plastic bottles and straws, plastic bags and toys, packaging plastics, etc.) present in the Earth&amp;#39;s environment, resulting in adversely influencing wildlife, flora, fauna, oceans and seafood, landscapes and humans. When plastic mistakenly gets consumed by animals (terrestrial and aquatic), it enters our food-chain. It’s also known to congest the drainage systems, causing troubles of massive magnitude in our daily lives.
@@ -31,7 +31,7 @@ Plastic pollution involves (single-use or reusable) plastic objects (plastic bot
 The theme of World Environment Day (organized by the United Nations on 5th of June every year) hosted by India in 2018 was #BeatPlasticPollution. The message to protect our Environment was communicated as “if you can’t reuse it, refuse it.” 
 &lt;/p&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Awareness/Plastic-Pollution/Cant-Re-use-Refuse.jpg" alt="Can't Re-Use-Refuse" title="Can't Re-Use, Refuse"&gt;
+&lt;img src="//rockying.com/art/Awareness/Plastic-Pollution/Cant-Re-use-Refuse.jpg" alt="Can't Re-Use-Refuse" title="Can't Re-Use, Refuse"&gt;
 &lt;hr&gt;
 &lt;p&gt;
 With over 8 million tonnes of plastic finding its place in the oceans worldwide, the magnitude of damage
@@ -43,7 +43,7 @@ To tackle this worrying reality, in February 2017, the UN Environment launched i
 civil society, and the private sector for combating marine plastic litter. The CleanSeas campaign aims to achieve its objectives by way of implementing a five-year strategy to educate and engage the citizens, ensure government and private sector partnerships, and strengthen the continuation of plastic waste management around the world. 
 &lt;/p&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Awareness/Plastic-Pollution/Plastic-Waste-in-Oceans.jpg" alt="Plastic Waste in Oceans" title="Plastic Waste in Oceans"&gt;
+&lt;img src="//rockying.com/art/Awareness/Plastic-Pollution/Plastic-Waste-in-Oceans.jpg" alt="Plastic Waste in Oceans" title="Plastic Waste in Oceans"&gt;
 &lt;hr&gt;
 &lt;p&gt;
 The &lt;b&gt;CleanSeas&lt;/b&gt; campaign is essentially inspired by the removal of 4.9 million kgs of trash under the beach clean-up initiative implemented by the Versova Residents Volunteers (VRV) along with the efforts of the local residents and fishermen at the Versova beach, Mumbai, India. This led to the launch of a similar initiative for cleaning the archipelago of Indonesia, where the CleanSeas campaign was launched by the UN Environment on the occasion of the Economist World Ocean Summit.
@@ -98,7 +98,7 @@ India has a coastline of around 7,500 kms. The commitment of the Government to m
 development. 
 &lt;/p&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Awareness/Plastic-Pollution/PLASTIC-WASTE-NEW-DELHI.jpg" title="Plastic Waste New Delhi India" alt="Plastic Waste New Delhi India"&gt;
+&lt;img src="//rockying.com/art/Awareness/Plastic-Pollution/PLASTIC-WASTE-NEW-DELHI.jpg" title="Plastic Waste New Delhi India" alt="Plastic Waste New Delhi India"&gt;
 &lt;hr&gt;
 &lt;p&gt;
 With the same spirit, the ambitious &amp;#39; Swachh Bharat Mission (SBM)&amp;#39; was also launched, having plastic
@@ -128,7 +128,7 @@ reusing plastic material in other infrastructural activities—viz. road constru
 plus national monuments to be no-litter zones.
 &lt;/p&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Awareness/Plastic-Pollution/Waste-Management-by-Segregation.JPG" alt="Waste Segregation" title="Waste Management by Segregation"&gt;
+&lt;img src="//rockying.com/art/Awareness/Plastic-Pollution/Waste-Management-by-Segregation.JPG" alt="Waste Segregation" title="Waste Management by Segregation"&gt;
 &lt;hr&gt;
 &lt;h2&gt;What We Can Do About the Menace at Hand &lt;/h2&gt;
 &lt;hr&gt;
@@ -148,10 +148,10 @@ The small actions, behavioural and attitudinal alternations that we can inculcat
 &lt;li&gt;Don’t use single-serving cups for fruits, snacks, yogurt, etc. &lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/Awareness/Plastic-Pollution/litterbug.jpg"  alt="Don't Litter" title="Don't Litter"&gt;
+&lt;img src="//rockying.com/art/Awareness/Plastic-Pollution/litterbug.jpg"  alt="Don't Litter" title="Don't Litter"&gt;
 &lt;hr&gt;
 &lt;p class="well"&gt;
-&lt;b&gt;About Ranjan Yadav: &lt;/b&gt; La Excellence. The Superlative Man of Words &amp; Worth. A Learner for Life. This intact copywriter is a realist, uniquely positioned as an AIO writer, editor, researcher, and proofreader. He owns a consolidated experience of over a decade in industry and nonprofits, core content and SEO optimised writing, academic and professional research. He has studied economics, public administration, and policy, at the graduate and postgraduate levels. His writing variety includes Business and Management, Finance and Economy, Health and Emotional Wellness, Trends and Technology (Blockchain), Entertainment, Socioeconomics, &amp; more. His &lt;a href="http://www.rockying.com/a/274"&gt;piece on the portrayal of India's legendary freedom fighters in Hindi Films&lt;/a&gt; is one of the most read articles on the Internet. &lt;a href="https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;tf=1&amp;source=mailto&amp;to=ranjanyadav38@live.com" target="_blank"&gt;Click here and get in touch with him&lt;/a&gt;.
+&lt;b&gt;About Ranjan Yadav: &lt;/b&gt; La Excellence. The Superlative Man of Words &amp; Worth. A Learner for Life. This intact copywriter is a realist, uniquely positioned as an AIO writer, editor, researcher, and proofreader. He owns a consolidated experience of over a decade in industry and nonprofits, core content and SEO optimised writing, academic and professional research. He has studied economics, public administration, and policy, at the graduate and postgraduate levels. His writing variety includes Business and Management, Finance and Economy, Health and Emotional Wellness, Trends and Technology (Blockchain), Entertainment, Socioeconomics, &amp; more. His &lt;a href="//rockying.com/a/274"&gt;piece on the portrayal of India's legendary freedom fighters in Hindi Films&lt;/a&gt; is one of the most read articles on the Internet. &lt;a href="https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;tf=1&amp;source=mailto&amp;to=ranjanyadav38@live.com" target="_blank"&gt;Click here and get in touch with him&lt;/a&gt;.
 &lt;/p&gt;</Text>
   <WriterName>Ranjan Yadav</WriterName>
   <WriterEmail>yadava.ranjan@gmail.com</WriterEmail>

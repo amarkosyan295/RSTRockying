@@ -3,7 +3,7 @@
   <ID>0</ID>
   <Title>Oscars and India: The Awards and the Indian Connection</Title>
   <MetaTitle>Indian cinema, Bollywood movies in Oscar nominations</MetaTitle>
-  <OGImage>http://www.rockying.com/art/HOllywood/Oscars-and-India/a-r-rahman-won-two-oscars.jpg</OGImage>
+  <OGImage>//rockying.com/art/HOllywood/Oscars-and-India/a-r-rahman-won-two-oscars.jpg</OGImage>
   <OGDescription>With Indian cinema and Bollywood movies connections shining in four of the major movies which dominate the Oscar nominations this year Rockying brings the tale of Oscar winning movies in the past and its India...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -13,42 +13,42 @@
   <Category>12</Category>
   <Tag>Oscars, India at Oscars, Slumdog Millionaire, Elizabeth, Satyajit Ray, Avatar, Gandhi.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/HOllywood/Oscars-and-India/a-r-rahman-won-two-oscars.jpg' alt='' /&gt;&lt;p&gt;With Indian cinema and Bollywood movies connections shining in four of the major movies which dominate the Oscar nominations this year Rockying brings the tale of Oscar winning movies in the past and its India...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/HOllywood/Oscars-and-India/a-r-rahman-won-two-oscars.jpg' alt='' /&gt;&lt;p&gt;With Indian cinema and Bollywood movies connections shining in four of the major movies which dominate the Oscar nominations this year Rockying brings the tale of Oscar winning movies in the past and its India...&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
-With Indian connections shining in four of the major movies which dominate the Oscar nominations namely &lt;i&gt;Silver Linings Playbook, Zero Dark Thirty, Lincoln and Life of Pi&lt;/i&gt; this year and are vying for the coveted golden statue, &lt;a href="http://www.rockying.com/"&gt;Rockying&lt;/a&gt; brings the tale of Oscar winning movies in the past and their India connect. Have a look. 
+With Indian connections shining in four of the major movies which dominate the Oscar nominations namely &lt;i&gt;Silver Linings Playbook, Zero Dark Thirty, Lincoln and Life of Pi&lt;/i&gt; this year and are vying for the coveted golden statue, &lt;a href="//rockying.com/"&gt;Rockying&lt;/a&gt; brings the tale of Oscar winning movies in the past and their India connect. Have a look. 
 &lt;/p&gt;
 &lt;h3&gt;GANDHI&lt;/h3&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Oscars-and-India/Gandhi.jpg" alt="Gandhi"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Oscars-and-India/Gandhi.jpg" alt="Gandhi"/&gt;
 &lt;p&gt;
 The Indo-British film production &lt;b&gt;Gandhi&lt;/b&gt; was the first film with Indian roots to create a wave at the Oscars. An epic biopic directed in 1982 by Richard Attenborough had put India in the international spotlight by winning 11 nominations and eight awards. It was Gandhi which got an Indian the first Oscar. Bhanu Athaiya, who started her career as a costume designer with the film C.I.D, got the coveted award for costume design in the cult classic. The role of Gandhi in the movie was essayed by Ben Kinsley, who is partly of Indian heritage. Kasturba Gandhi was played by famous theatre and television actress Rohini Hattangadi and Nathuram Godse was portrayed by Harsh Nayyar. The music of the film was given by Ravi Shankar. The movie, which went onto win eight Academy Awards, was made almost entirely in India, including the South African scenes.  
 &lt;/p&gt;
 &lt;h3&gt;SLUMDOG MILLIONAIRE&lt;/h3&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Oscars-and-India/slumdog-millionaire-jai-ho-dance.jpg" alt="Jai Ho"/&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Oscars-and-India/a-r-rahman-won-two-oscars.jpg" alt="A. R. Rehman at the Oscars"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Oscars-and-India/slumdog-millionaire-jai-ho-dance.jpg" alt="Jai Ho"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Oscars-and-India/a-r-rahman-won-two-oscars.jpg" alt="A. R. Rehman at the Oscars"/&gt;
 &lt;p&gt;
 After a gap of 27 years, it was &lt;b&gt;Slumdog Millionaire&lt;/b&gt; for which Indians once again bagged the top honors. The British film directed by Danny Boyle in 2008 had swept eight awards in 2009 out of 10 nominations. The movie set in the streets of Mumbai is an adaptation of an Indian novel Q&amp;A by Vikas Swarup. Written by Simon Beaufoy and co-directed in India by Loveleen Tandan, the movie boasts of several Indian connections such as Anil Kapoor, Russell Pookutty, A.R. Rahman and Gulzar including the entire cast. Russell Pookutty had won best sound mixing (with Ian Tapp and Richard Pryke), A.R. Rahman won two awards- best original score and best original song (music) and Gulzar won best song (lyrics).The awards reiterated the fact that India has an immense talent pool which needs to be nurtured and brought to the front. 
 &lt;/p&gt;
 &lt;h3&gt;ELIZABETH&lt;/h3&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Oscars-and-India/Cate-Blanchett-Elizabeth.jpeg" alt="Elizabeth"/&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Oscars-and-India/Shekhar-Kapur-Cate-Blanchett-Elizabeth.jpg" alt="Elizabeth"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Oscars-and-India/Cate-Blanchett-Elizabeth.jpeg" alt="Elizabeth"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Oscars-and-India/Shekhar-Kapur-Cate-Blanchett-Elizabeth.jpg" alt="Elizabeth"/&gt;
 &lt;p&gt;
 Critically acclaimed and internationally-known Indian film-maker &lt;b&gt;Shekhar Kapur’s &lt;i&gt;Elizabeth&lt;/i&gt;&lt;/b&gt; made its mark in the Oscars as well. Shekhar Kapur’s Elizabeth was nominated in seven categories in the 71st Academy Awards in 1999, including best picture and best actress. The movie bagged the best makeup Oscar for Jenny Shircore. While his directorial venture, Elizabeth:The Golden Age in 2007, a sequel to Elizabeth, won an Academy Award for best costume design. Alexandra Byrne won the Oscar for best costume design in the same year. 
 &lt;/p&gt;
 &lt;h3&gt;AVATAR&lt;/h3&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Oscars-and-India/Avatar.jpg" alt="Avatar"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Oscars-and-India/Avatar.jpg" alt="Avatar"/&gt;
 &lt;p&gt;
 The 2009 Hollywood flick &lt;b&gt;Avatar&lt;/b&gt; won three Oscars which includes awards for best art direction, best cinematography and best visual effects. The 3D science fiction with its special effects was a visual treat for us and the movie praised for its technical brilliance has Indian connection to it. Lowry Digital, a subsidiary of Reliance Media Works Ltd (part of the Anil Dhirubhai Ambani group), has enhanced the live-action scenes in the film. And who would not remember Dr Max Patel in the movie, the character not only has Indian name but was played by American actor Dileep A. Rao, born to Indian parents.
 &lt;/p&gt;
 &lt;h3&gt;SATYAJIT RAY&lt;/h3&gt;
-&lt;img src="http://www.rockying.com/art/HOllywood/Oscars-and-India/Satyajit-ray-oscar.jpg" alt="Satyajit Ray"/&gt;
+&lt;img src="//rockying.com/art/HOllywood/Oscars-and-India/Satyajit-ray-oscar.jpg" alt="Satyajit Ray"/&gt;
 &lt;p&gt;
 Last but not least, we cannot forget the contribution of ace and versatile Indian film-maker &lt;b&gt;Satyajit Ray&lt;/b&gt; in the world cinema. He remains one of the leading luminaries to have received the prestigious award just weeks before his death. Ray had made movies in different genres starting from fantasy, science fiction to detective films to historical drama. The Academy of Motion Picture Arts and Sciences awarded an honorary Oscar to Satyajit Ray for lifetime achievement in film-making in 1992.
 &lt;/p&gt;
 &lt;p&gt;
-With several Indian connections to Oscar-winning movies, it is high time we see Indian movies bringing the coveted golden statue home. Next in our series we talk about &lt;a href="http://www.rockying.com/a/252?title=why-india-never-won-an-oscar&amp;ref=category" target="_blank"/&gt;why Indian movies have not been able to make it to Oscars till date&lt;/a&gt;. It's a detailed account of the Indian entries for the Oscars over the years and why they never earned an Oscar nomination. Find out now and be taken over by the none other than OSCAR FEVER! 
+With several Indian connections to Oscar-winning movies, it is high time we see Indian movies bringing the coveted golden statue home. Next in our series we talk about &lt;a href="//rockying.com/a/252?title=why-india-never-won-an-oscar&amp;ref=category" target="_blank"/&gt;why Indian movies have not been able to make it to Oscars till date&lt;/a&gt;. It's a detailed account of the Indian entries for the Oscars over the years and why they never earned an Oscar nomination. Find out now and be taken over by the none other than OSCAR FEVER! 
 &lt;/p&gt;
 &lt;p class="well"&gt;
-&lt;img src="http://www.rockying.com/art/Writers/Sonali.jpg" class="pull-left"/&gt;
+&lt;img src="//rockying.com/art/Writers/Sonali.jpg" class="pull-left"/&gt;
 &lt;b&gt;About the Author:&lt;/b&gt; Keeping her eyes closed, with long breaths and a gentle sound many mistake for snoring, actually helps Sonali think better. Or so she says. People question about these daily “thinking sessions”, mostly conducted on a comfortable couch or bed, while she claims that the long overdue best-seller she’s been working on (for quite some time now) will silence all the cynics. Till then she dreams on...
 &lt;/p&gt;</Text>
   <WriterName>Sonali Chowdhury</WriterName>

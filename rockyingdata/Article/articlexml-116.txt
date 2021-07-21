@@ -3,7 +3,7 @@
   <ID>116</ID>
   <Title>India in Hollywood Movies</Title>
   <MetaTitle>Indian actor and actress in Hollywood Movies</MetaTitle>
-  <OGImage>http://www.rockying.com/art/HOllywood/India in Hollywood/The_Bad.jpg</OGImage>
+  <OGImage>//rockying.com/art/HOllywood/India in Hollywood/The_Bad.jpg</OGImage>
   <OGDescription>India has surprisingly maintained a niche for itself throughout Hollywood’s history. Some of the indian actors and actress worked in hollywood movies read about in this article.</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -13,7 +13,7 @@
   <Category>12</Category>
   <Tag>India, Hollywood, India In Hollywood, Hollywood Movies</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/HOllywood/India in Hollywood/The_Bad.jpg' alt='' /&gt;&lt;p&gt;India has surprisingly maintained a niche for itself throughout Hollywood’s history. Some of the indian actors and actress worked in hollywood movies read about in this article.&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/HOllywood/India in Hollywood/The_Bad.jpg' alt='' /&gt;&lt;p&gt;India has surprisingly maintained a niche for itself throughout Hollywood’s history. Some of the indian actors and actress worked in hollywood movies read about in this article.&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
     From the classic era of black and white cinema to modern times of the superhero,
     India has surprisingly maintained a niche for itself throughout Hollywood’s history.
@@ -22,7 +22,7 @@
     since then, there still have been some singular moments of magnificent inspiration
     as well as times of sheer frustration when we saw India through the Hollywood lens.
 &lt;/p&gt;
-&lt;img src="http://rockying.com/art/HOllywood/India%20in%20Hollywood/India.in.Hollywood2.jpg"
+&lt;img src="//rockying.com/art/HOllywood/India%20in%20Hollywood/India.in.Hollywood2.jpg"
     title="Earliest India captured in Hollywood Movies" alt="" style="width: 700px;" /&gt;
 &lt;p&gt;
     Here are some of the most memorable ones:&lt;/p&gt;
@@ -37,20 +37,20 @@
     Ben Kingsley the movie has won the heart of every Indian who has ever watched it
     Classics such as &lt;strong&gt;Bhowani Junction&lt;/strong&gt; and&lt;strong&gt; &lt;/strong&gt;the Merchant- Ivory movies also
     appreciated the Indian way of life and showcased itin a real and sympathetic way.&lt;/p&gt;
-&lt;img src="http://rockying.com/art/HOllywood/India%20in%20Hollywood/THe_Good.jpg"
+&lt;img src="//rockying.com/art/HOllywood/India%20in%20Hollywood/THe_Good.jpg"
     title="The Good " alt="" style="width: 700px;" /&gt;&lt;p&gt;
         Who here can forget Danny Boyle’s &lt;strong&gt;Slumdog Millionaire&lt;/strong&gt;, a movie so real and
         moving; that we forget that it is a Hollywood movie at all!Of the more modern movies,
         &lt;strong&gt;Mission &lt;/strong&gt;&lt;strong&gt;Impossible: Ghost Protocol&lt;/strong&gt; was flattering in its own way,
         with its entire climax shot in a decidedly modern Mumbai and it’s up market and
         rich society (no beggars and snake charmers here!!).&lt;/p&gt;
-&lt;img src="http://rockying.com/art/HOllywood/India%20in%20Hollywood/The_Good_2.jpg"
+&lt;img src="//rockying.com/art/HOllywood/India%20in%20Hollywood/The_Good_2.jpg"
     title="The Good" alt="" style="width: 700px;" /&gt;
 &lt;p&gt;
     And Cinema fans would do well to check out the new Dev Patel starrer &lt;strong&gt;The Best
     &lt;/strong&gt;&lt;strong&gt;Exotic &lt;/strong&gt;&lt;strong&gt;Marigold Hotel&lt;/strong&gt; as well, which opened to rave reviews in
     the UK recently.&lt;/p&gt;
-&lt;img src="http://rockying.com/art/HOllywood/India%20in%20Hollywood/the-best-exotic-marigold-hotel.jpg"
+&lt;img src="//rockying.com/art/HOllywood/India%20in%20Hollywood/the-best-exotic-marigold-hotel.jpg"
     title="Dev Patel in The Best Exotic Marigold Hotel" alt="" style="width: 500px;" /&gt;
 &lt;h4&gt;
     THE BAD&lt;/h4&gt;
@@ -63,7 +63,7 @@
     release you will still not find the movie screened on any channel in India due to
     its offensive content.
 &lt;/p&gt;
-&lt;img src="http://rockying.com/art/HOllywood/India%20in%20Hollywood/The_Bad.jpg"
+&lt;img src="//rockying.com/art/HOllywood/India%20in%20Hollywood/The_Bad.jpg"
     title="The Bad" alt="" style="width: 700px;" /&gt;
 &lt;p&gt;
     It is not just Hollywood. Even Jackie Chan’s &lt;strong&gt;The Myth&lt;/strong&gt; starring Mallika Sherawat
@@ -88,7 +88,7 @@
     and sexy train ‘attendants’ willing to jump in bed with our gora heroes, this art
     house flick baffles us all despite having some big names like Owen Wilson and Irfaan
     Khan in its cast.&lt;/p&gt;
-&lt;img src="http://rockying.com/art/HOllywood/India%20in%20Hollywood/The_Weird.jpg"
+&lt;img src="//rockying.com/art/HOllywood/India%20in%20Hollywood/The_Weird.jpg"
     title="THe Weird" alt="" style="width: 700px;" /&gt;&lt;p&gt;
         James Bond’s &lt;strong&gt;Octopussy&lt;/strong&gt; was another logic defying India-centric movie. With
         countless scenes of poverty all around including the mandatory shots of a cow in
@@ -102,7 +102,7 @@
     India’s interpretation by the west.
 &lt;/h5&gt;
 &lt;p class="well"&gt;
-&lt;img src="http://www.rockying.com/art/Writers/Sonali.jpg" class="pull-left"/&gt;
+&lt;img src="//rockying.com/art/Writers/Sonali.jpg" class="pull-left"/&gt;
 &lt;b&gt;About the Author:&lt;/b&gt; Keeping her eyes closed, with long breaths and a gentle sound many mistake for snoring, actually helps Sonali think better. Or so she says. People question about these daily “thinking sessions”, mostly conducted on a comfortable couch or bed, while she claims that the long overdue best-seller she’s been working on (for quite some time now) will silence all the cynics. Till then she dreams on...
 &lt;/p&gt;</Text>
   <WriterName>Sonali Chowdhury</WriterName>

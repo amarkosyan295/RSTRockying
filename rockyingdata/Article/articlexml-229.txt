@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>Music, Sufism and The Modern Fusion</Title>
-  <OGImage>http://www.rockying.com/art/Music/Music-and-Mysticism/Sufi.jpg</OGImage>
+  <MetaTitle>Music, Sufism and The Modern Fusion</MetaTitle>
+  <OGImage>//rockying.com/art/Music/Music-and-Mysticism/Sufi.jpg</OGImage>
   <OGDescription>Shadow and light are the two forces which fill the fervor in music. As politics of hatred is eclipsing humanity and world is entering the troubled waters of religious tyranny, with the growth of neo-fundamentalism; the revival of Sufi Music in India</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,8 +13,8 @@
   <Category>15</Category>
   <Tag>Music, Sufism, Mysticism, Nusrat Fateh Ali Khan, Sufi Music</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/Music/Music-and-Mysticism/Sufi.jpg' alt='' /&gt;&lt;p&gt;Shadow and light are the two forces which fill the fervor in music. As politics of hatred is eclipsing humanity and world is entering the troubled waters of religious tyranny, with the growth of neo-fundamentalism; the revival of Sufi Music in India&lt;/p&gt;</Description>
-  <Text>&lt;img src="http://www.rockying.com/art/Music/Music-and-Mysticism/Sufi.jpg" alt="Sufi Music" /&gt;
+  <Description>&lt;img src='//rockying.com/art/Music/Music-and-Mysticism/Sufi.jpg' alt='' /&gt;&lt;p&gt;Shadow and light are the two forces which fill the fervor in music. As politics of hatred is eclipsing humanity and world is entering the troubled waters of religious tyranny, with the growth of neo-fundamentalism; the revival of Sufi Music in India&lt;/p&gt;</Description>
+  <Text>&lt;img src="//rockying.com/art/Music/Music-and-Mysticism/Sufi.jpg" alt="Sufi Music" /&gt;
 &lt;p&gt;
     Shadow and light are the two forces which fill the fervor in music. As politics
     of hatred is eclipsing humanity and world is entering the troubled waters of religious
@@ -105,10 +106,9 @@
     wine from Bacchus's own bar.
 &lt;/h6&gt;
 &lt;/p&gt;</Text>
-  <SlideShowOn>false</SlideShowOn>
-  <QuestionOn>false</QuestionOn>
   <WriterName>Rohit Gupta</WriterName>
   <WriterEmail>mailto.rohitgupta@gmail.com</WriterEmail>
   <Viewed>0</Viewed>
-  <Promotion />
+  <TemplateName />
+  <URL>229</URL>
 </Article>

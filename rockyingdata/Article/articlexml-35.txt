@@ -3,7 +3,7 @@
   <ID>35</ID>
   <Title>Killer Dialogues of Bollywood-I</Title>
   <MetaTitle>Famous and best Bollywood movies dialogues in Hindi</MetaTitle>
-  <OGImage>http://www.rockying.com/art/rajkumar meenakumari.jpg</OGImage>
+  <OGImage>//rockying.com/art/rajkumar meenakumari.jpg</OGImage>
   <OGDescription>Find out the famous and best Bollywood movies dialogues in Hindi. To know more read out the full article.</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -13,10 +13,10 @@
   <Category>4</Category>
   <Tag>Bollywood, Dialogues, All time killer Bollywood dialogues, Tumhare Pass Kya hai, India Bobbles, Jo Dar Gaya Wo Mar gaya.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/rajkumar meenakumari.jpg' alt='' /&gt;&lt;p&gt;Find out the famous and best Bollywood movies dialogues in Hindi. To know more read out the full article.&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/rajkumar meenakumari.jpg' alt='' /&gt;&lt;p&gt;Find out the famous and best Bollywood movies dialogues in Hindi. To know more read out the full article.&lt;/p&gt;</Description>
   <Text>&lt;ul class="unstyled"&gt;
     &lt;li&gt;
-        &lt;img src="http://rockying.com/art/Iftekhar%20Don.jpg" title="Dekha kanoon ko haath me liya to usne tumhe jail me le liya!!!"
+        &lt;img src="//rockying.com/art/Iftekhar%20Don.jpg" title="Dekha kanoon ko haath me liya to usne tumhe jail me le liya!!!"
              alt="Kanoon ko Haath me mat liya karo" style="width: 250px; float: left; height: 200px;"&gt;
 
                  &lt;p&gt;
@@ -37,7 +37,7 @@
     &lt;/li&gt;
     &lt;li&gt;
         &lt;p&gt;
-            Do not miss out on our second in the series “ &lt;a href="http://www.rockying.com/a/52"&gt;
+            Do not miss out on our second in the series “ &lt;a href="//rockying.com/a/52"&gt;
                 Killer Dialogues of Bollywood part-II
             &lt;/a&gt; ” (Inevitably growing length of the
             article lead us split it into two)
@@ -45,7 +45,7 @@
     &lt;/li&gt;
     &lt;li style="clear:both;"&gt;
         &lt;p&gt;
-            &lt;img src="http://rockying.com/art/devdas-dilip-kumar.jpg" title="Paro stole away my money...Damn that beautiful Thief !!!"
+            &lt;img src="//rockying.com/art/devdas-dilip-kumar.jpg" title="Paro stole away my money...Damn that beautiful Thief !!!"
                  alt="Dilip Kumar, Vyajanti mala in Devdas" style="width: 350px; float: left;"&gt;&amp;nbsp;
             “ &lt;i&gt;&lt;b&gt;Kaun Kambakht bardaasht karne ko peeta hai&lt;/b&gt;&lt;/i&gt;…” derived from the original
             Devdas (1955, based on a novel), delivered by Dilip Kumar, this sure does not fade
@@ -58,7 +58,7 @@
     &lt;/li&gt;
     &lt;li style="clear:both;"&gt;
         &lt;p&gt;
-            &lt;img src="http://rockying.com/art/prithviraj_kapoor1.jpg" title="How dare you fool around with my son...Watch out now!!!"
+            &lt;img src="//rockying.com/art/prithviraj_kapoor1.jpg" title="How dare you fool around with my son...Watch out now!!!"
                  alt="" style="width: 300px; float: left; height: 225px;"&gt;"&lt;i&gt;
                 &lt;b&gt;Agar aisa na &lt;/b&gt;
             &lt;/i&gt;&lt;i&gt;&lt;b&gt;hua to Salim tujhe marne nahin dega aur hum&lt;/b&gt;&lt;/i&gt;&lt;br&gt;
@@ -67,7 +67,7 @@
 &lt;datasource name="boxaddatasource" /&gt;
     &lt;/li&gt;
     &lt;li style="clear:both;"&gt;
-        &lt;img src="http://rockying.com/art/Anarkali%201.jpg" title="Look at how hot i look in the colored version...I can die happily now!!!"
+        &lt;img src="//rockying.com/art/Anarkali%201.jpg" title="Look at how hot i look in the colored version...I can die happily now!!!"
              alt="" style="width: 300px; float: left;"&gt;
         &lt;p&gt;
             “&lt;i&gt;&lt;b&gt;Ye qaneez Jalaluddin &lt;/b&gt;&lt;/i&gt;&lt;i&gt;&lt;b&gt;Mohd Akbar ko apna khoon maaf karti hai&lt;/b&gt;&lt;/i&gt;”&lt;br&gt;
@@ -84,7 +84,7 @@
     &lt;/li&gt;
     &lt;li style="clear:both;"&gt;
         &lt;p&gt;
-            &lt;img src="http://rockying.com/art/Rajkumar....jpg" title="Nahin...Aj kal wo basement me kapde badalte hain..."
+            &lt;img src="//rockying.com/art/Rajkumar....jpg" title="Nahin...Aj kal wo basement me kapde badalte hain..."
                  alt="" style="width: 250px; float: left; height: 265px;"&gt;
 
             &lt;i&gt;&lt;b&gt;"Jinke ghar sheeshe ke hote hain, Wo doosron ke ghar pathhar nahin pheka&amp;nbsp;Karte&lt;/b&gt;&lt;/i&gt;”. My! This surely means something!!! Another Raj Kumar rendition
@@ -97,7 +97,7 @@
     &lt;/li&gt;
     &lt;li style="clear:both;"&gt;
         &lt;p&gt;
-            &lt;img src="http://rockying.com/art/Rajkumar.jpg" title="Do not play with knives...I have been warning u over the years..."
+            &lt;img src="//rockying.com/art/Rajkumar.jpg" title="Do not play with knives...I have been warning u over the years..."
                  alt="" style="width: 200px; float: left; height: 225px;"&gt;
             &lt;i&gt;&lt;b&gt;“Ye bachchon ke khelne ki cheez nahin, haath kat jae to khoon nikal ata hai…&lt;/b&gt;&lt;/i&gt;”
             Another immortal from &lt;b&gt;Waqt {1965}&lt;/b&gt;, Raj Kumar here, sure reminds us
@@ -108,7 +108,7 @@
     &lt;/li&gt;
     &lt;li style="clear:both;"&gt;
         &lt;p&gt;
-            &lt;img src="http://rockying.com/art/RajeshKhannaSharmilaTagoreAmarPrem.jpg" title="People love my style...Who is looking at you? Stop weeping now!!!"
+            &lt;img src="//rockying.com/art/RajeshKhannaSharmilaTagoreAmarPrem.jpg" title="People love my style...Who is looking at you? Stop weeping now!!!"
                  alt="" style="width: 300px; float: left; height: 223px;"&gt;
             “&lt;i&gt;&lt;b&gt;Pushpa I hate tears&lt;/b&gt;&lt;/i&gt;”
             by none other&amp;nbsp;than Rajesh Khanna himself from the film &lt;b&gt;Amar Prem {1972}&lt;/b&gt;. When he
@@ -119,7 +119,7 @@
     &lt;/li&gt;
     &lt;li style="clear:both;"&gt;
         &lt;p&gt;
-            &lt;img src="http://rockying.com/art/rajkumar%20meenakumari.jpg" title="Jao main tumse baat nai karta...Akele-akele pedicure karwa ke aa gai!!!"
+            &lt;img src="//rockying.com/art/rajkumar%20meenakumari.jpg" title="Jao main tumse baat nai karta...Akele-akele pedicure karwa ke aa gai!!!"
                  alt="" style="width: 300px; float: left;" /&gt;
             “&lt;i&gt;&lt;b&gt;Apke paanv dekhe...Inhe zameen pe mat utariyega, maile ho Jaenge”&lt;/b&gt;&lt;/i&gt;&amp;nbsp;
             is nothing but glorifying what is considered the over-looked part of the Body, the
@@ -130,7 +130,7 @@
     &lt;/li&gt;
     &lt;li style="clear:both;"&gt;
         &lt;p&gt;
-            &lt;img src="http://rockying.com/art/Rajesh%20Khanna%20Anand.jpg" title="Don't try too hard my friend, I Am the Hero of the film !"
+            &lt;img src="//rockying.com/art/Rajesh%20Khanna%20Anand.jpg" title="Don't try too hard my friend, I Am the Hero of the film !"
                  alt="" style="width: 300px; float: left; height: 257px;"&gt;
             "&lt;b&gt;
                 Arey o baabu Moshoy
@@ -144,7 +144,7 @@
     &lt;/li&gt;
     &lt;li style="clear:both;"&gt;
         &lt;p&gt;
-            &lt;img src="http://rockying.com/art/Prem%20Chopra.jpg" title="I am and Will always be Prem Chopra...Dum ho to koi dusra naam rakh ke dikhae..."
+            &lt;img src="//rockying.com/art/Prem%20Chopra.jpg" title="I am and Will always be Prem Chopra...Dum ho to koi dusra naam rakh ke dikhae..."
                  alt="" style="width: 250px; float: left;" /&gt;“&lt;i&gt;
                 &lt;b&gt;Prem naam hai mera, Prem Chopra" &lt;/b&gt;
             &lt;/i&gt;Did you know this Prem Chopra favorite line is originally from &lt;b&gt;Bobby {1973}&lt;/b&gt;
@@ -154,7 +154,7 @@
     &lt;/li&gt;
     &lt;li style="clear:both;"&gt;
         &lt;p&gt;
-            &lt;img src="http://rockying.com/art/Amitabh%20Zanjeer.jpg"
+            &lt;img src="//rockying.com/art/Amitabh%20Zanjeer.jpg"
                  title="Agar rishwat dene ke liye paise hain to bolo !!!" alt="" style="width: 300px;
             float: left; height: 200px;"&gt;
             "&lt;i&gt;&lt;b&gt;Ye police station hai tumhare baap ka ghar nahi&lt;/b&gt;&lt;/i&gt;”&lt;br&gt;
@@ -165,7 +165,7 @@
     &lt;/li&gt;
     &lt;li style="clear:both;"&gt;
         &lt;p&gt;
-            &lt;img src="http://rockying.com/art/Amitabh%20Shashi%20Deewar.jpg" title="I can't take it;you look hot in the Police Uniform!"
+            &lt;img src="//rockying.com/art/Amitabh%20Shashi%20Deewar.jpg" title="I can't take it;you look hot in the Police Uniform!"
                  alt="Shashi Kapoor and Amitabh Bachchan in Deewar" style="width: 300px; float: left; height: 225px;"&gt; 
 &lt;a href="http://www.indiabobbles.com/amitabh-bachchan-bobblehead" target="_blank" title="India-Bobbles-Amitabh-Bachchan-Bobble-Head"&gt;&lt;i&gt;&lt;b&gt;Bhai aj mere paas gaadi hai bangla hai, tumhare pas kya hai?.&lt;/b&gt;&lt;/i&gt;&lt;/a&gt; &lt;i&gt;&lt;b&gt;..Mere pas maa hai&lt;/b&gt;&lt;/i&gt;”
             The Timeless dialogue, from The &lt;b&gt;1975 Deewar&lt;/b&gt;, between siblings Amitabh Bachchan
@@ -175,7 +175,7 @@
     &lt;/li&gt;
     &lt;li style="clear:both;"&gt;
         &lt;p&gt;
-            &lt;img src="http://rockying.com/art/Amitabh%20Temple.jpg" title="Do you really exist? Rishi told you gave back Nirupa roy her vision in Amar Akbar Anthony???"
+            &lt;img src="//rockying.com/art/Amitabh%20Temple.jpg" title="Do you really exist? Rishi told you gave back Nirupa roy her vision in Amar Akbar Anthony???"
                  alt="" style="width: 300px; float: left; height: 225px;"&gt;
             "&lt;i&gt;&lt;b&gt;Aj Khush to bohot hoge tum&lt;/b&gt;&lt;/i&gt;” by Amitabh Bachchan from Deewar
             &lt;br&gt;
@@ -187,7 +187,7 @@
     &lt;li style="clear:both;"&gt;
         &lt;p&gt;
             &lt;br&gt;
-            &lt;img src="http://rockying.com/art/Sholay/Gabbar%20Kalia.jpg" title="Both of us look a dirt bag...lets finish and take Sambha along for a bath."
+            &lt;img src="//rockying.com/art/Sholay/Gabbar%20Kalia.jpg" title="Both of us look a dirt bag...lets finish and take Sambha along for a bath."
                  alt="" style="width: 300px; float: left;"&gt;&lt;br&gt;
             &amp;nbsp;&lt;i&gt;&lt;b&gt;“Are O sambha, Kitne Aadmi the...Ab tera Kya Hoga kalia&lt;/b&gt;&lt;/i&gt;” …Yes,
             none other than &lt;b&gt;SHOLAY {1975&lt;/b&gt;}, the dialogue mine of bollywood has tons of
@@ -208,7 +208,7 @@
     &lt;/li&gt;
     &lt;li style="clear:both;"&gt;
         &lt;p&gt;
-            &lt;img src="http://rockying.com/art/Sholay/ye%20haath.jpg" title="I love you in the Kurta-Shawl look...Give me your hands now cummon..."
+            &lt;img src="//rockying.com/art/Sholay/ye%20haath.jpg" title="I love you in the Kurta-Shawl look...Give me your hands now cummon..."
                  alt="" style="width: 300px; float: left; height: 220px;"&gt;
             “&lt;i&gt;&lt;b&gt;Ye haath humka de de thakur&lt;/b&gt;&lt;/i&gt;” and &lt;a href="http://www.indiabobbles.com/daku-sambhar-singh-bobble-head" target="_blank" title="India-Bobbles-Gabbar-Singh-Bobble-Head"&gt;&lt;i&gt;&lt;b&gt;"Jo dar gaya samjho mar gaya"&lt;/b&gt;&lt;/i&gt;by our very own Gabbar&lt;/a&gt;,&lt;br&gt;
             &lt;br&gt;
@@ -217,7 +217,7 @@
     &lt;/li&gt;
     &lt;li style="clear:both;"&gt;
         &lt;p&gt;
-            &lt;img src="http://rockying.com/art/Sholay/Adhe%20udhar%20jao.jpg" title="Don't u guys realise? I'm way tougher than Hitler!"
+            &lt;img src="//rockying.com/art/Sholay/Adhe%20udhar%20jao.jpg" title="Don't u guys realise? I'm way tougher than Hitler!"
                  alt="" style="width: 300px; float: left; height: 204px;"&gt;“&lt;i&gt;
                 &lt;b&gt;
                     Adhe idhar jao, adhe
@@ -231,7 +231,7 @@
     &lt;/li&gt;
     &lt;li style="clear:both;"&gt;
         &lt;p&gt;
-            &lt;img src="http://rockying.com/art/Ajit%20kali%20charan.jpg" title="Ain't I too cool a lion? Don't miss my chick shades!!!"
+            &lt;img src="//rockying.com/art/Ajit%20kali%20charan.jpg" title="Ain't I too cool a lion? Don't miss my chick shades!!!"
                  alt="" style="width: 300px; float: left; height: 198px;"&gt;
             “&lt;i&gt;&lt;b&gt;Saara sheher mujhe lion ke naam se janta hai”&lt;/b&gt;&lt;/i&gt;.This may have been
             Ajeet’s voice over of the antagonist back then in Kali Charan {1976} but sure has
@@ -242,7 +242,7 @@
     &lt;/li&gt;
     &lt;li style="clear:both;"&gt;
         &lt;p&gt;
-            &lt;img src="http://rockying.com/art/Amitabh%20Don.jpg" title="Bataao main Vijay hun ya Don? Warna Dheeshkyun !!!"
+            &lt;img src="//rockying.com/art/Amitabh%20Don.jpg" title="Bataao main Vijay hun ya Don? Warna Dheeshkyun !!!"
                  alt="" style="width: 300px; float: left; height: 264px;"&gt;
             &lt;i&gt;&lt;b&gt;"Don ko pakadna mushkil hi nahin Namumkin hai” ,&lt;/b&gt;&lt;/i&gt;with one remake and
             a sequel of the same coming in…It certainly seems impossible to get hold of Don
@@ -253,7 +253,7 @@
     &lt;li style="clear:both;"&gt;
         &lt;p&gt;
 
-            &lt;img src="http://rockying.com/art/VISHWANATH_SCN-0.jpg" title="Lagta hai koi mujhe double role me pehchan nahin paya..."
+            &lt;img src="//rockying.com/art/VISHWANATH_SCN-0.jpg" title="Lagta hai koi mujhe double role me pehchan nahin paya..."
                  alt="" style="width: 300px; float: left; height: 211px;"&gt;
             "&lt;i&gt;&lt;b&gt;Jali ko aag kehte hain...” Vishwananth {1978}&lt;/b&gt;&lt;/i&gt;(Shatrughn Sinha) could
             not have a better cult dialogue to his name. Who does not know that? You? &lt;i&gt;
@@ -268,7 +268,7 @@
     &lt;/li&gt;
     &lt;li style="clear:both;"&gt;
         &lt;p&gt;
-            The list is endless and has a lot more to offer. Watch out for the sequel,&lt;a href="http://www.rockying.com/a/52"&gt;
+            The list is endless and has a lot more to offer. Watch out for the sequel,&lt;a href="//rockying.com/a/52"&gt;
                 Killer Dialogues of Bollywood Part-II
             &lt;/a&gt;. And please feel free to add your
             favorites (till 1970s) to the list. We may have missed a few.
@@ -284,10 +284,10 @@
         &lt;li data-anwser="correct"&gt;God&lt;/li&gt;
         &lt;li&gt;Ajeet&lt;/li&gt;
     &lt;/ul&gt;
-    &lt;h5&gt;&lt;span style="color: Green; text-align:center;"&gt;&lt;b&gt;&lt;a href="http://www.rockying.com/a/220"&gt;PLAY THE COMPLETE QUIZ&lt;/a&gt;&lt;/b&gt;&lt;/span&gt;&lt;/h5&gt;
+    &lt;h5&gt;&lt;span style="color: Green; text-align:center;"&gt;&lt;b&gt;&lt;a href="//rockying.com/a/220"&gt;PLAY THE COMPLETE QUIZ&lt;/a&gt;&lt;/b&gt;&lt;/span&gt;&lt;/h5&gt;
 &lt;/div&gt;
 &lt;p&gt;And did you mouse over the pictures? Try it and discover the hidden pun!&lt;/p&gt;
-&lt;p&gt;Not finished yet! Next in the Series:&lt;a href="http://www.rockying.com/a/52" target="_blank"&gt;&lt;b&gt;KILLER DIALOGUES OF BOLLYWOOD: II&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;</Text>
+&lt;p&gt;Not finished yet! Next in the Series:&lt;a href="//rockying.com/a/52" target="_blank"&gt;&lt;b&gt;KILLER DIALOGUES OF BOLLYWOOD: II&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;</Text>
   <WriterName>Preeti Singh</WriterName>
   <WriterEmail>preeti.singh@rudrasofttech.com</WriterEmail>
   <Viewed>0</Viewed>

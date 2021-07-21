@@ -95,7 +95,7 @@
 &lt;p&gt;
     &lt;b&gt;The classic cults will continue as we will discuss the treasures of Hindi cinema
     and the cults that are in the making. Let every Friday be a reveling in the marvels
-    of cult films. Coming up is the new edition &lt;a href="http://www.rockying.com/a/215"&gt;Cult Classics IV&lt;/a&gt;. Loving the series, are you?&lt;/b&gt;&lt;/p&gt;</Text>
+    of cult films. Coming up is the new edition &lt;a href="//rockying.com/a/215"&gt;Cult Classics IV&lt;/a&gt;. Loving the series, are you?&lt;/b&gt;&lt;/p&gt;</Text>
   <WriterName>Aditi Dasgupta</WriterName>
   <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
   <Viewed>0</Viewed>

@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>Most Terrible Movie Ideas (that Block-bustered the Indian Box Office)</Title>
-  <OGImage>http://www.rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Anjalis-Camp.jpg</OGImage>
+  <MetaTitle>Most Terrible Movie Ideas (that Block-bustered the Indian Box Office)</MetaTitle>
+  <OGImage>//rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Anjalis-Camp.jpg</OGImage>
   <OGDescription>A make-over story caked with child-innocence and a few love stories along…</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,13 +13,13 @@
   <Category>4</Category>
   <Tag>Bollywood De-seamed, Kuch Kuch Hota Hai, Movie Review Kuch Kuch Hota Hai, Most Terrible Bollywood Movies, Student of the year, Awful Hindi Cinema.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Anjalis-Camp.jpg' alt='' /&gt;&lt;p&gt;A make-over story caked with child-innocence and a few love stories along…&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Anjalis-Camp.jpg' alt='' /&gt;&lt;p&gt;A make-over story caked with child-innocence and a few love stories along…&lt;/p&gt;</Description>
   <Text>&lt;h2&gt;Kuch Kuch Hota Hai&lt;/h2&gt;
 &lt;h3&gt;A make-over story caked with child-innocence and a few love stories running along…&lt;/h3&gt;
 &lt;p&gt;
 This Karan Johar self-proclaimed "vision of escapism" is entirely based on letters written by a dying mother Teena (played by Rani Mukherjee) for her unborn child. Letters to be read, one by one, on every birthday until the baby turns 8. Really? Did I hear, what the *@#%? And believe it or not, the last letter tells the kid to arrange the marriage of her father Rahul (played by Shahrukh Khan) with one of his old friends Anjali (played by Kajol) from college.  
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Teena.jpg" alt=Rani and Farida Jalal in Kuch Kuch Hota Hai"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Teena.jpg" alt=Rani and Farida Jalal in Kuch Kuch Hota Hai"/&gt;
 &lt;p&gt;The film had me right in the beginning:&lt;/p&gt;
 &lt;ul&gt;
 &lt;p&gt;
@@ -34,19 +35,19 @@ This Karan Johar self-proclaimed "vision of escapism" is entirely based on lette
 &lt;p&gt;
 And what’s with the whole “&lt;i&gt;Hum ek baar jeete hain ek baar marte hain shaadi bhi ek baar hoti hai aur pyar, pyar bhi ek hi baar hota hai&lt;/i&gt;” sh**t? I could never figure out why Karan Johar and team injected this Pehla aur aakhri pyaar crap into us youngsters back then. I still remember one of my school friends writing in my scrapbook- “I’m in search of a friend like Rahul in Kuch Kuch Hota Hai.” 
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Rani-Kajol-in-Short-Skirts-KKHH.jpg" alt="Kuch Kuch Hota Hai Stars"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Rani-Kajol-in-Short-Skirts-KKHH.jpg" alt="Kuch Kuch Hota Hai Stars"/&gt;
 
 &lt;p&gt;Why? Why in the entire world, Rahul? &lt;/p&gt;
 
-&lt;a href= "http://www.rockying.com/a/52" target="_blank"&gt;&lt;img src="http://www.rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/KKHH-Tum-nai-samjhogi.jpg" alt="Shahrukh and Kajol in Kuch Kuch Hota Hai"/&gt;&lt;/a&gt;
+&lt;a href= "//rockying.com/a/52" target="_blank"&gt;&lt;img src="//rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/KKHH-Tum-nai-samjhogi.jpg" alt="Shahrukh and Kajol in Kuch Kuch Hota Hai"/&gt;&lt;/a&gt;
 &lt;p&gt;
 Because he could never really get past Anjali’s tom-boy looks and fell for the first Oxford return, ‘short-skirt girl’ entering the college? (Despite short skirts being strictly prohibited, as declared by the principal (played by Anupam Kher), our dear Teena continues to wear them for the rest of the film). We don’t blame Rahul for his choice, do we? After all, unlike portrayed in the film, they are both spoiled and undisciplined.
 &lt;/p&gt;
-&lt;a href="http://www.rockying.com/a/52" target="_blank"&gt;&lt;img src="http://www.rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/KKHH-College-Scene.jpg" alt="Shahrukh-Rani-KKHH"/&gt;&lt;/a&gt;
+&lt;a href="//rockying.com/a/52" target="_blank"&gt;&lt;img src="//rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/KKHH-College-Scene.jpg" alt="Shahrukh-Rani-KKHH"/&gt;&lt;/a&gt;
 &lt;p&gt;
 When questioned for dressing indecent, Teena explains “I just landed, couldn’t unpack and wore what came handy” but following a few scenes we see her all traditionally clad when she visits the temple. What a shame. Hypocrite!!! (She was trying to impress God or what?)
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Rani-Shahrukh-Temple-KKHH.jpg" alt="Shahrukh-Rani-Temple-KKHH"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Rani-Shahrukh-Temple-KKHH.jpg" alt="Shahrukh-Rani-Temple-KKHH"/&gt;
 &lt;p&gt;
 Or because he realized he actually loved Anjali when he saw her all made up and dressed in a sari? Which, by the way, is her only casual garment in the second half. How fake is that? 
 &lt;/p&gt;
@@ -59,8 +60,8 @@ Though I did not like ‘Rahul’ even back then but I bet my generation can sti
  &lt;p&gt;
 Now, most of you reading this piece must have been to college right? Which student on earth whistled at his lecturer and got a smile in return? Well Rahul did. Don’t believe me? &lt;a href="http://www.youtube.com/watch?v=zEom4TcTH3Y" target="_blank"&gt;Watch this&lt;/a&gt;, I’d suggest from counters 0:46:10 and you’d know how privileged our hero is. Karan’s to be precise! 
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Shahrukh-Whistling.jpg" alt="Shahrukh Kuch Kuch Hota Hai"/&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Romeo-Juliet.jpg"  alt="Archana Puran Singh Kuch Kuch Hota Hai"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Shahrukh-Whistling.jpg" alt="Shahrukh Kuch Kuch Hota Hai"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Romeo-Juliet.jpg"  alt="Archana Puran Singh Kuch Kuch Hota Hai"/&gt;
 &lt;p&gt;
 Plus of course the usual Romeo-Juliet junk. Are there no other topics to read about in college or what? And could you guess what the whole lesson was about? Well, “&lt;i&gt;Pyar dosti hai&lt;/i&gt;”!!! What? Yes, that’s it. Love is friendship! To make you feel better: I believed it back then! Sigh :(
 &lt;/p&gt;
@@ -69,25 +70,25 @@ So what happens to the story? The lil hero-girl (young Anjali) does everything p
 &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Praying for a delay in the approaching Anjali-Aman (played by Salman, Yes ‘&lt;i&gt;Sajan ji ghar ae&lt;/i&gt;’) wedding,&lt;/p&gt;&lt;/li&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Anjali-Praying.jpg" alt="Young Anjali Praying"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Anjali-Praying.jpg" alt="Young Anjali Praying"/&gt;
 &lt;li&gt;&lt;p&gt;Going to a summer camp where she knew Anjali (Kajol) teaches singing and dancing (O yes the ball player transforms into a sophisticated music-person in the second half!),&lt;/p&gt;&lt;/li&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Anjalis-Camp.jpg" alt="Kajol Kuch Kuch Hota Hai"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Anjalis-Camp.jpg" alt="Kajol Kuch Kuch Hota Hai"/&gt;
 &lt;li&gt;&lt;p&gt;Be-fooling him by faking a cold and calling her father over there (Parents are allowed at this camp, all right?),&lt;/p&gt;&lt;/li&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Shahrukh-running-KKHH.jpg" alt="Shahrukh Khan"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Shahrukh-running-KKHH.jpg" alt="Shahrukh Khan"/&gt;
 &lt;li&gt;&lt;p&gt;Arranging for private moments so that the two could mingle; play basketball, dumb charades, sing, dance and what not…(We have seen kids playing Cupid in Bollywood films earlier, have we?)&lt;/p&gt;&lt;/li&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Private-Moments-KKHH.jpg" alt="Shahrukh Kajol Kuch Kuch Hota Hai"/&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Basket-Ball-Kuch-Kuch-Hota-Hai.jpg" alt="Shahrukh Kajol playing Basket Ball"/&gt; 
+&lt;img src="//rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Private-Moments-KKHH.jpg" alt="Shahrukh Kajol Kuch Kuch Hota Hai"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Basket-Ball-Kuch-Kuch-Hota-Hai.jpg" alt="Shahrukh Kajol playing Basket Ball"/&gt; 
 &lt;li&gt;&lt;p&gt;Finally revealing the couple’s history to Aman just before the wedding.&lt;/p&gt;&lt;/li&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Salman-Anjali-Kuch-Kuch-Hota-Hai.jpg" alt="Salman in Kuch Kuch Hota Hai"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Salman-Anjali-Kuch-Kuch-Hota-Hai.jpg" alt="Salman in Kuch Kuch Hota Hai"/&gt;
 &lt;/ul&gt;
 &lt;p&gt;Too much for a kid,eh? I’m glad we didn’t have junior super-heroes back then! &lt;/p&gt;
-&lt;p&gt;It suddenly hit me; does its title have anything to do with the film? Well, apart from of course the eternal, cheesy &lt;a href="http://www.rockying.com/a/52" target="_blank"&gt;&lt;i&gt;‘Kuch Kuch Hota Hai Anjali tum nahin samjhogi&lt;/i&gt;’&lt;/a&gt;,which apparently sounded to me like ‘&lt;i&gt;Kuch kuch baar baar ho jata hai Anjali tum to samajh hi gai hogi&lt;/i&gt;’ in the second half. (Of course I’m talking about Kajol’s make-over). Though Karan did try to prove Rahul's virtue by pulling in Teena's '&lt;i&gt;aatma&lt;/i&gt;', but we know you better Rahul! Have a look at the transformation:
+&lt;p&gt;It suddenly hit me; does its title have anything to do with the film? Well, apart from of course the eternal, cheesy &lt;a href="//rockying.com/a/52" target="_blank"&gt;&lt;i&gt;‘Kuch Kuch Hota Hai Anjali tum nahin samjhogi&lt;/i&gt;’&lt;/a&gt;,which apparently sounded to me like ‘&lt;i&gt;Kuch kuch baar baar ho jata hai Anjali tum to samajh hi gai hogi&lt;/i&gt;’ in the second half. (Of course I’m talking about Kajol’s make-over). Though Karan did try to prove Rahul's virtue by pulling in Teena's '&lt;i&gt;aatma&lt;/i&gt;', but we know you better Rahul! Have a look at the transformation:
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Anjali-Before-After.jpg" alt="Anjali's transformation in Kuch Kuch Hota Hai"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Anjali-Before-After.jpg" alt="Anjali's transformation in Kuch Kuch Hota Hai"/&gt;
 &lt;p&gt;
 So, why did masterpieces like Satya released in the same year (1998) not fare as well as KKHH? This Dharma Production claimed huge commercial success worldwide  and did so well at the box-office that it has not only become an all-time blockbuster but also has a &lt;a href="https://www.facebook.com/KuchKuchHotaHaiTheOfficial?fref=ts" target="_blank"&gt;fan-following&lt;/a&gt; of its own, and has now turned into one of the Bollywood’s “Best Romantic Movies Ever”. Not released though,the film even has an animated remake called &lt;a href="http://www.youtube.com/watch?v=xamlytoWNvw" target="_blank"&gt;&lt;i&gt;Koochie Koochie Hota Hai&lt;/i&gt;&lt;/a&gt; directed by Tarun Mansukhani. With that happening, I know I would helplessly hear the same about ‘Student of The Year’ in my geezer hood. I’m sick worried about my old age, I sure am.
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Koochie-Koochie-Hota-Hai.jpg" alt="Koochie Koochie Hota Hai"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Most-terrible-movie-Ideas-KKHH/Koochie-Koochie-Hota-Hai.jpg" alt="Koochie Koochie Hota Hai"/&gt;
 &lt;p&gt;
 To sum it up, we found out, how films like Kuch Kuch Hota Hai with an awful story line, absurd title, and ridiculous characterisation and with no substance what so ever, can work wonders for the Indian Box office. All it takes is a Karan Johar, a Shahrukh Khan and a few others. We Indians just fall for the kind, somehow, every time. Don't believe me? Have you not watched &lt;i&gt;Kabhi Khushi Kabhi Gham, My Name is Khan and Kal Ho Na Ho&lt;/i&gt;?
 &lt;/p&gt;

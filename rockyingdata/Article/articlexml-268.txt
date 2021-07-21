@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>Pran Saab: The Sun Sets to Rise Again!</Title>
-  <OGImage>http://www.rockying.com/art/bollywood/Pran-Saab/Pran-home.jpg</OGImage>
+  <MetaTitle>Pran Saab: The Sun Sets to Rise Again!</MetaTitle>
+  <OGImage>//rockying.com/art/bollywood/Pran-Saab/Pran-home.jpg</OGImage>
   <OGDescription>And so, another era passes into the eternal collective memory of the masses with the demise of veteran actor Pran. Our loss is now the gain of the other realm which will be richer with his presence...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,9 +13,9 @@
   <Category>4</Category>
   <Tag>Pran Saab Dead, Best Villain Pran, Bollywood Villains, Pran Saab's Obituary.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Pran-Saab/Pran-home.jpg' alt='' /&gt;&lt;p&gt;And so, another era passes into the eternal collective memory of the masses with the demise of veteran actor Pran. Our loss is now the gain of the other realm which will be richer with his presence...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/bollywood/Pran-Saab/Pran-home.jpg' alt='' /&gt;&lt;p&gt;And so, another era passes into the eternal collective memory of the masses with the demise of veteran actor Pran. Our loss is now the gain of the other realm which will be richer with his presence...&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
-And so, &lt;img src="http://www.rockying.com/art/bollywood/Pran-Saab/Pran-in-Yamla-jat.jpg" alt="Pran Saab in Yamla Jat" style="margin-left: 10px;" class="pull-right"/&gt; another era passes into the eternal collective memory of the masses with the demise of veteran actor &lt;b&gt;Pran&lt;/b&gt;. 
+And so, &lt;img src="//rockying.com/art/bollywood/Pran-Saab/Pran-in-Yamla-jat.jpg" alt="Pran Saab in Yamla Jat" style="margin-left: 10px;" class="pull-right"/&gt; another era passes into the eternal collective memory of the masses with the demise of veteran actor &lt;b&gt;Pran&lt;/b&gt;. 
 Our loss is now the gain of the other realm which will be richer with his presence. Actors have come and actors have gone, but some special ones have just stayed on, lingering like fragrance in our lives, hinting at their presence every now and then, even though they may have officially quit the silver-screen years ago. 
 &lt;/p&gt;
 &lt;p&gt;
@@ -23,9 +24,9 @@ Some special ones have gone onto acquiring status of legend such, that even as y
 &lt;p&gt;
 &lt;b&gt;Pran Krishan Sikand&lt;/b&gt;, better known as &lt;b&gt;Pran&lt;/b&gt; has an illustrious body of work spanning over six decades which itself speaks for the lasting power of this thespian who packed a punch (literally!) in his roles.
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Pran-Saab/Khandan-1942.jpg" alt="Pran Saab in Khandaan"style="margin-right: 10px;" class="pull-left"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Pran-Saab/Khandan-1942.jpg" alt="Pran Saab in Khandaan"style="margin-right: 10px;" class="pull-left"/&gt;
 &lt;p&gt;
-He has been the gift of Partition having started his career as villain in 1940 in the Punjabi film &lt;b&gt;&lt;i&gt;Yamla Jat&lt;/i&gt;&lt;/b&gt;, much before Raj Kapoor, Dev Anand and Dilip Kumar entered the film industry, &lt;b&gt;&lt;i&gt;Khandaan in 1942&lt;/i&gt;&lt;/b&gt; was Pran's first film as hero which though a super-hit, made him shy away &lt;img src="http://www.rockying.com/art/bollywood/Pran-Saab/pran-Ziddi.jpg" alt="Pran Saab in Ziddi"style="margin-left: 10px;" class="pull-right"/&gt;from lead roles. 
+He has been the gift of Partition having started his career as villain in 1940 in the Punjabi film &lt;b&gt;&lt;i&gt;Yamla Jat&lt;/i&gt;&lt;/b&gt;, much before Raj Kapoor, Dev Anand and Dilip Kumar entered the film industry, &lt;b&gt;&lt;i&gt;Khandaan in 1942&lt;/i&gt;&lt;/b&gt; was Pran's first film as hero which though a super-hit, made him shy away &lt;img src="//rockying.com/art/bollywood/Pran-Saab/pran-Ziddi.jpg" alt="Pran Saab in Ziddi"style="margin-left: 10px;" class="pull-right"/&gt;from lead roles. 
 &lt;/p&gt;
 &lt;p&gt;
 He later touched Mumbai as continuation after having acted in several films and landed &lt;b&gt;&lt;i&gt;Ziddi&lt;/i&gt;&lt;/b&gt; (1948), starring Dev Anand and Kamini Kaushal.   Gradually, he found his calling essaying villainous and later character roles. Film lore has it that Pran saab was the highest-paid among supporting actors from 1969-1982. In the 70's, his merit and talent paid him more than heroes like Vinod Khanna, Amitabh, Navin Nischol etc. with perhaps only Rajesh Khanna having the financial edge over him! 
@@ -34,76 +35,75 @@ He later touched Mumbai as continuation after having acted in several films and 
 &lt;p&gt;
 For the 1978 film &lt;b&gt;&lt;i&gt;Don&lt;/i&gt;&lt;/b&gt;, Amitabh Bachchan being paid Rs 2.5 lakh while Pran Rs 7.5 lakh is enough proof of his stardom!
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Pran-Saab/Pran-in-Don.jpg" alt="Pran in Don 1978"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Pran-Saab/Pran-in-Don.jpg" alt="Pran in Don 1978"/&gt;
 &lt;p&gt;
 Wielding such clout came easy to a man of profound caliber who gave a whole new meaning to the term ‘villain’, opening newer vistas for his successors.  He accorded the term with a certain dignity and class; not for him were ugly gestures or hideous laughs to depict negativity.
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Pran-Saab/azaad_pran.jpg" alt="Pran in Azaad"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Pran-Saab/azaad_pran.jpg" alt="Pran in Azaad"/&gt;
 &lt;p&gt;
 Pran almost always stole the show with his stellar performances sometimes even over-shadowing the goody-goody hero with his suave, stylish and saucy expressions, body language and regal demeanour.  His ability to blow perfect smoke rings added a unique dimension to villainy as did his habit of narrowing one eye and enlarging the other to rub in that he meant (evil) business!
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Pran-Saab/Pran-Adaalat.jpg" alt="Pran in Adaalt"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Pran-Saab/Pran-Adaalat.jpg" alt="Pran in Adaalt"/&gt;
 &lt;p&gt;
 There would have been no ‘good guy’ (hero) in the film, if it was not for the back drop of nastiness unleashed by ‘bad man’ Pran.  The virtues of the main lead would have been insipid were it not for the twist of spice that his character lent to the cauldron of script, screenplay and dialogues.  You loved the protagonist more because of the powerful impact the bad boy was having on your sensibilities.
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Pran-Saab/Pran-J-D-M-G-B-H.jpg" alt="Pran in Jis Desh Mein Ganga Behti Hai"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Pran-Saab/Pran-J-D-M-G-B-H.jpg" alt="Pran in Jis Desh Mein Ganga Behti Hai"/&gt;
 &lt;p&gt;
 Film lore has it that such was the impact of his performances that parents refused to name their sons after him for obvious reasons!  He is reported to having said that if people did not shudder at his mere mention it meant his performance needed more power and punch! 
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Pran-Saab/Half-Ticket-Pran-KK.jpg" alt="Pran And Kishore Kumar in Half Ticket"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Pran-Saab/Half-Ticket-Pran-KK.jpg" alt="Pran And Kishore Kumar in Half Ticket"/&gt;
 &lt;p&gt;
 His character in &lt;b&gt;&lt;i&gt;Ram Aur Shyam&lt;/i&gt;&lt;/b&gt; was cruelty personified. 
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Pran-Saab/Pran-Ram-Aur-Shyam.jpg" alt="Pran in Ram AUr Shyam"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Pran-Saab/Pran-Ram-Aur-Shyam.jpg" alt="Pran in Ram AUr Shyam"/&gt;
 &lt;p&gt;
 Even the lamest script would be given a fillip with the presence of that one person who infused ‘pran’ or ‘life’ into the proceedings.  His role was often pivotal to the plot; take him out and the proceedings would fall flat on their face! 
 He was not called ‘supporting actor’ for nothing, for there was practically nothing that he did not ‘support’ in the film.  Pran was the ace up every director’s sleeve who wanted to achieve box-office success.
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Pran-Saab/Pran-Heer-Ranjha.jpg" alt="Pran in Heer Ranjha"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Pran-Saab/Pran-Heer-Ranjha.jpg" alt="Pran in Heer Ranjha"/&gt;
 &lt;p&gt;
 He is remembered best in negative roles in &lt;b&gt;Madhumati, Jis Desh Mein Ganga Behti Hai, Jab Pyar Kisi Se Hota Hai, Heer Ranjha, Ram Aur Shyam&lt;/b&gt;, etc.  This talented actor broke the evil mould with Manoj Kumar's blockbuster, &lt;b&gt;Upkaar&lt;/b&gt; garnering both sympathy and adulation for his role as Malang Chacha.
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Pran-Saab/Pran-Upkaar.jpg" alt="Pran in Upkaar"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Pran-Saab/Pran-Upkaar.jpg" alt="Pran in Upkaar"/&gt;
 &lt;p&gt;
 Pran saab’s repertoire includes several heavy-weight movies like &lt;b&gt;Shaheed, Jangal Mein Mangal, Parichay, Jheel Ke Us Paar, Dharma, Kasauti, Victoria No. 203, Majboor, &lt;/b&gt;etc. 
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Pran-Saab/Victoria-No-203-Pran-Ashok-Kumar.jpg" alt="Pran in Victoria no 203"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Pran-Saab/Victoria-No-203-Pran-Ashok-Kumar.jpg" alt="Pran in Victoria no 203"/&gt;
 &lt;p&gt;
 The gamut of his multi-faceted talent can be gauged from the fact that he played the out-and-out scheming villain the spoke in the wheels of romance of the lead-pair; introduced comedy into villainous characters with &lt;b&gt;Kashmir Ki Kali and Pooja Ke Phool&lt;/b&gt;; and later fit comfortably into the stern yet affectionate patriarch towards the fag end of his illustrious career. It can be said that versatility has been the benchmark of this veteran.
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Pran-Saab/Amitabh-Pran-Zanjeer.jpg" alt="Pran in Zanjeer"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Pran-Saab/Amitabh-Pran-Zanjeer.jpg" alt="Pran in Zanjeer"/&gt;
 &lt;p&gt;
 Prakash Mehra’s &lt;b&gt;Zanjeer&lt;/b&gt; is epic to a great extent because of the role of Pran saab as Sher Khan who graduates from being a bully to buddy with consummate grace and sincerity. Amitabh and Pran ventured into legion cinematic experiences together. &lt;b&gt;Amar Akbar Anthony(1977), Majboor(1974), Don(1978), Dostana(1980), Naseeb (1981)&lt;/b&gt;, to name a few. The consequent tie-up of the Prakash Mehra-Pran-Amitabh trio gave another cinematic gem &lt;b&gt;Sharaabi (1984),&lt;/b&gt; where Villain of the Millennium Pran delivered a cracker of a performance in the role of a rich heartless business man father(similar played earlier in Bobby).
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Pran-Saab/Pran-Amar-Akbar-Anthony.jpg" alt="Pran in Amar Akbar Anthony"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Pran-Saab/Pran-Amar-Akbar-Anthony.jpg" alt="Pran in Amar Akbar Anthony"/&gt;
 &lt;p&gt;
 This stalwart has graced his presence by working in two hit Telugu and one Kannada film too. His philanthropic dimension in real life was in stark contrast to his on-screen ‘wickedness’. Not many of us would know that during the casting of &lt;b&gt;Bobby&lt;/b&gt;, Raj Kapoor could not afford his fee so the icon agreed to do the film with a signing amount of Re 1/. He was also amongst the few eminent film stars to protest against the emergency raising his voice for the restoration of democracy.
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Pran-Saab/pran-bobby.jpg" alt="Pran in Bobby"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Pran-Saab/pran-bobby.jpg" alt="Pran in Bobby"/&gt;
 &lt;p&gt;
-His newest performances include &lt;b&gt;1942 A Love Story (1994), Sanam Bewafa (1990), Tere Mere Sapne(1996), Mrityudaata (1997) and Isi ka Naam Zindagi (1992)&lt;/b&gt;. All of which successful barring Isi Ka Naam Zindagi which though an Amir Khan starrer did not work well at the box-office but sure left us in laughter outbursts watching Pran in the role of an old man who just wouldn't die. A strong recommendation from &lt;a href="http://rockying.com/default"/&gt;Rockying&lt;/a&gt; for all Pran fans.    
+His newest performances include &lt;b&gt;1942 A Love Story (1994), Sanam Bewafa (1990), Tere Mere Sapne(1996), Mrityudaata (1997) and Isi ka Naam Zindagi (1992)&lt;/b&gt;. All of which successful barring Isi Ka Naam Zindagi which though an Amir Khan starrer did not work well at the box-office but sure left us in laughter outbursts watching Pran in the role of an old man who just wouldn't die. A strong recommendation from &lt;a href="//rockying.com/default"/&gt;Rockying&lt;/a&gt; for all Pran fans.    
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Pran-Saab/Pran-Isi-ka-naam-Zindagi.jpg" alt="Pran in Isi Ka Naam Zindagi"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Pran-Saab/Pran-Isi-ka-naam-Zindagi.jpg" alt="Pran in Isi Ka Naam Zindagi"/&gt;
 &lt;p&gt;
 This widely-acclaimed actor has been honored with various awards which include 3 Filmfare Awards for Best Supporting Actor in &lt;b&gt;Upkaar, Aansoo Ban Gaye Phool and Be-Imaan&lt;/b&gt;.
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Pran-Saab/Pran-Be-Imaan.jpg" alt="Pran in Be-Imaan"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Pran-Saab/Pran-Be-Imaan.jpg" alt="Pran in Be-Imaan"/&gt;
 &lt;p&gt;
 &lt;b&gt;Be-Imaan&lt;/b&gt; in 1972 became a highlight in his career when he refused to accept Best Supporting Actor trophy, for his extremely appealing performance of an honest Police constable, because he felt music composer Ghulam Mohammed deserved a Filmfare award for his songs in Pakeezah! 
 Pran has also been bestowed with several Lifetime Achievement Awards from Filmfare, Star Screen Awards and Zee Cine Awards. 
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Pran-Saab/Pran-Padma-Bhushan.JPG" alt="Pran Padma Bhushan"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Pran-Saab/Pran-Padma-Bhushan.JPG" alt="Pran Padma Bhushan"/&gt;
 &lt;p&gt;
 The Government of India conferred the &lt;b&gt;Padma Bhushan&lt;/b&gt; on him.  The icing on the cake has been that in this glorious centenarian year of Indian Cinema, he received the &lt;b&gt;Dadasaheb Phalke Award&lt;/b&gt; in a grand celebration of his contribution to his field with the Information &amp; Broadcasting Minister Manish Tewari doing the honors at the idol’s residence, a rare gesture indeed!
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Pran-Saab/Pran-Dada-Saheb-Phalke.jpg" alt="Dada Saheb Phalke Award Pran"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Pran-Saab/Pran-Dada-Saheb-Phalke.jpg" alt="Dada Saheb Phalke Award Pran"/&gt;
 &lt;h6&gt;
 The nonagenarian may have taken his last bow, but will continue to live on in our memories for you may have loved his character or hated it, but no way really that you could ignore it!
 &lt;/h6&gt;</Text>
-  <SlideShowOn>false</SlideShowOn>
-  <QuestionOn>false</QuestionOn>
   <WriterName>Mehek Mahtani</WriterName>
   <WriterEmail>mehek_mahtani@yahoo.com</WriterEmail>
   <Viewed>0</Viewed>
-  <Promotion />
+  <TemplateName />
+  <URL>268</URL>
 </Article>

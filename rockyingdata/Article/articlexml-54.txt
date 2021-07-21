@@ -15,7 +15,7 @@
   <Status>Publish</Status>
   <Description>&lt;img src='//www.rockying.com/art/Travel/Udaipur/lake-palace.jpg' alt='' /&gt;&lt;p&gt;Royal Udaipur; Greatest Tourist Destination in Rajasthan&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
-    Moving ahead with our travel interview series (the first being &lt;a href="http://www.rockying.com/a/47"&gt;
+    Moving ahead with our travel interview series (the first being &lt;a href="//rockying.com/a/47"&gt;
         Maui&lt;/a&gt;), we caught up with Muriel who visited the beautiful Udaipur. Read
     on to discover her exploration.&lt;/p&gt;
 &lt;p&gt;

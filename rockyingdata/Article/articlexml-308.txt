@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>Best All Time Thriller Films of Bollywood- II</Title>
-  <OGImage>http://www.rockying.com/art/bollywood/Best-Thrillers-2/Khamosh.jpg</OGImage>
+  <MetaTitle>Best All Time Thriller Films of Bollywood- II</MetaTitle>
+  <OGImage>//rockying.com/art/bollywood/Best-Thrillers-2/Khamosh.jpg</OGImage>
   <OGDescription>We listen to you guys. Yes, we do. When we released our first list of all-time Bollywood thrillers, you guys went...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,15 +13,15 @@
   <Category>4</Category>
   <Tag>Movies, Bollywood, Thrillers, Suspense Thrillers, Crime Thrillers, Indian Movies, Hindi Cinema, The Rashomon Effect, Rashomon Story Telling.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Best-Thrillers-2/Khamosh.jpg' alt='' /&gt;&lt;p&gt;We listen to you guys. Yes, we do. When we released our first list of all-time Bollywood thrillers, you guys went...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/bollywood/Best-Thrillers-2/Khamosh.jpg' alt='' /&gt;&lt;p&gt;We listen to you guys. Yes, we do. When we released our first list of all-time Bollywood thrillers, you guys went...&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
-We listen to you guys. Yes, we do. When we released our first list of &lt;a href="http://www.rockying.com/a/251" target="_blank"&gt;all-time Bollywood thrillers&lt;/a&gt;, you guys went crazy coming up with the missing gems you'd watched over the years. So here we are with all your favorites and then some more. Presenting, the extension of our super hot list of, old and new, from the 60s to now, suspense thrillers from the Hindi cinema. Grab your popcorn and watch'em one by one: 
+We listen to you guys. Yes, we do. When we released our first list of &lt;a href="//rockying.com/a/251" target="_blank"&gt;all-time Bollywood thrillers&lt;/a&gt;, you guys went crazy coming up with the missing gems you'd watched over the years. So here we are with all your favorites and then some more. Presenting, the extension of our super hot list of, old and new, from the 60s to now, suspense thrillers from the Hindi cinema. Grab your popcorn and watch'em one by one: 
 
 &lt;/p&gt; 
 &lt;hr&gt;
         &lt;h3&gt;1. KHAMOSH (1985)&lt;/h3&gt;
 &lt;hr&gt;
-&lt;img alt="Khamosh 1985 Movie Bollywood Thriller" src="http://www.rockying.com/art/bollywood/Best-Thrillers-2/Khamosh.jpg"/&gt;
+&lt;img alt="Khamosh 1985 Movie Bollywood Thriller" src="//rockying.com/art/bollywood/Best-Thrillers-2/Khamosh.jpg"/&gt;
         &lt;p&gt;
  A fine feather on the hat of famous Writer-Producer-Director Vidhu Vinod Chopra, this 1983 thriller boasts of an unimaginable star cast: Naseeruddin Shah, Shabana Azmi, Amol Palekar, Pankaj Kapoor, Pavan Malhotra, Avtar Gill, Sudhir Mishra and many more, mostly playing themselves in the movie. The film revolves around the death and investigation of the murder of a cast member during the shooting of a film, set in the beautiful backdrop of Pahalgam, in Kashmir. 
         &lt;/p&gt;
@@ -28,13 +29,13 @@ We listen to you guys. Yes, we do. When we released our first list of &lt;a href
 &lt;hr&gt;
         &lt;h3&gt;2.  SAMAY (2003)&lt;/h3&gt;
 &lt;hr&gt;
-&lt;img alt="Samay 2003 thriller bollywood movie Sushmita Sen" src="http://www.rockying.com/art/bollywood/Best-Thrillers-2/Samay.jpg" alt="Samay Movie Still" "Title="Samay"/&gt;
+&lt;img alt="Samay 2003 thriller bollywood movie Sushmita Sen" src="//rockying.com/art/bollywood/Best-Thrillers-2/Samay.jpg" alt="Samay Movie Still" "Title="Samay"/&gt;
         &lt;p&gt;
 Inspired by the Morgan Freeman starrer &lt;i&gt;Seven&lt;/i&gt;, this thriller is a story of a cop looking for a serial killer.  Malvika (played by Sushmita Sen) is juggling her life between police work and looking after her 10-year-old. She, while investigating the killings, discovers a certain pattern to the choice of target by the killer. She gets to a point where she can now predict who will be killed next but what happens next will turn her life upside down.     &lt;/p&gt; 
 &lt;hr&gt;
         &lt;h3&gt;3. DHUND (1973)&lt;/h3&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Best-Thrillers-2/Dhund.jpg" alt="Dhund 1973 Movie thriller movie bollywood" title="Dhund" /&gt;
+&lt;img src="//rockying.com/art/bollywood/Best-Thrillers-2/Dhund.jpg" alt="Dhund 1973 Movie thriller movie bollywood" title="Dhund" /&gt;
         &lt;p&gt;
 Directed by B. R. Chopra, this Akhtar-ul-Iman story is based on Agatha Cristie's play, The Unexpected Guest.  A rich, cruel, obnoxious husband dies in his wheel-chair against the backdrop of a foggy (&lt;i&gt;Dhund&lt;/i&gt;) night. A stranger who somehow enters the house asking for help with his broken down car discovers the dead body and the wife standing close-by. Did the wife do it? Was it a lover of the wifes or a complete stranger who held a grudge? This 70s gem starring Danny, Zeenat Aman, Sanjay Khan, Navin Nishchol and Ashok Kumar will keep you hooked until you find out. 
 
@@ -42,20 +43,20 @@ Directed by B. R. Chopra, this Akhtar-ul-Iman story is based on Agatha Cristie's
 &lt;hr&gt;
         &lt;h3&gt;4. KOHRAA (1964)&lt;/h3&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Best-Thrillers-2/Kohraa.jpg" alt="Kohraa 1964 thriller movie bollywood" title="Kohraa"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Best-Thrillers-2/Kohraa.jpg" alt="Kohraa 1964 thriller movie bollywood" title="Kohraa"/&gt;
         &lt;p&gt;
 This 1964 supernatural thriller is lifted from Alfred Hitchcock's award-winning &lt;i&gt;Rebecca&lt;/i&gt; which was originally adapted from Daphne du Maurier's 1938 novel of the same name. The mysterious death of the first wife (Poonam) is causing ripples between the relationship of newlyweds Amit and his second wife Rajeshwari. Everything surrounding her in the huge (in-laws house) mansion, including servants, remind her of Poonam. She is everywhere, literally. Rajeshwari herself witnesses Poonam's spirit roaming around the mansion. What had happened to Poonam? Rajeshwari is determined to find out.  
 &lt;hr&gt;
         &lt;h3&gt;5. ITTEFAQ (1969)&lt;/h3&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Best-Thrillers-2/Ittefaq.jpg" alt="Ittefaq 1969 thriller movie"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Best-Thrillers-2/Ittefaq.jpg" alt="Ittefaq 1969 thriller movie"/&gt;
         &lt;p&gt;
 The only thriller in the huge repertoire of ace producer-director Yash Chopra, Ittefaq, is a real surprise treat for us suspense lovers. The film is crazy! I mean its a double-murder mystery directed by Bollywood's "love man" Yash Chopra wherein Rajesh Khanna plays the mad wife-killer, the real innocent looking Nanda is a prime murder suspect and our most favorite vamp Bindu plays the humane, innocent sister devastated after her sister's death. If that's not crazy I don't know what is! You tell me? 
         &lt;/p&gt;
 &lt;hr&gt;
         &lt;h3&gt;6. JOHNNY GADDAAR (2007)&lt;/h3&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Best-Thrillers-2/Johnny-Gaddar.jpg" alt="Johnny Gaddar Movie Still"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Best-Thrillers-2/Johnny-Gaddar.jpg" alt="Johnny Gaddar Movie Still"/&gt;
         &lt;p&gt;
 
 Portrayed as an ode to James Hadley Chase and Vijay Anand's work in the thriller genre, this film takes its name after the latter's 1970 thriller Johny Mera Nam.  A gang of five gamblers hatch a clever scheme to, equally, profit off of a multi-million drug deal. It is all going as per plan until one of them decides to take it all.  Who is this traitor (&lt;i&gt;Gaddar&lt;/i&gt;)?  Will he come to justice? 
@@ -63,42 +64,42 @@ Portrayed as an ode to James Hadley Chase and Vijay Anand's work in the thriller
 &lt;hr&gt;
         &lt;h3&gt;7. RACE (2008)&lt;/h3&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Best-Thrillers-2/Race.jpg" alt="Race Movie Still"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Best-Thrillers-2/Race.jpg" alt="Race Movie Still"/&gt;
         &lt;p&gt;
 Based on sibling rivalry, the Race reveals layers of betrayal and conspiracy one after another. Ranvir (Saif Ali Khan) and Rajiv (Akshaye Khanna), although brothers are unlike each other.  Ranvir is sincere and a busy about his business kinda man while Rajiv is more of a parasite trying to live life off of legacy and fraud. Rajiv is greedy and is willing to go to any extent to defeat Ranvir. What entails is death traps, insurance fraud, mistaken identity and what not...Who do you think would win this race of fortune? Well, let's just say the winner will be the one who wants to win and not one who wants to defeat the other. 
         &lt;/p&gt;
 &lt;hr&gt;
         &lt;h3&gt;8. MANORAMA SIX FEET UNDER (2007)&lt;/h3&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Best-Thrillers-2/Manorama-Six-Feet-Under.jpg" alt="Manorama Six Feet Under Movie Still"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Best-Thrillers-2/Manorama-Six-Feet-Under.jpg" alt="Manorama Six Feet Under Movie Still"/&gt;
         &lt;p&gt;
 An undone, unsuccessful career of a writer and his present unwanted life of a PWD Junior Engineer is what Satyaveer (Abhay Deol) finds himself caught between. He has also just been implicated in a bribery scandal which is not going well with his family. His wife (Gul Panaag) nags him for being a fool to solely get caught in an act all his department does on a regular basis. Although he dreamed of a life of an extraordinary writer, his life is as ordinary and mundane as it gets until one day when a woman comes looking for him to work on an infidelity case (on grounds of his detective work in his last mystery novel '&lt;i&gt;Manorama&lt;/i&gt;') involving a local politician. Who is this woman? Is she who she says she is? Is there more to the case than meets the eye? One of the best films in the neo-noir genre, &lt;i&gt;Manorama 6 feet under &lt;/i&gt;will amaze you with its depth. 
      &lt;/p&gt;
 &lt;hr&gt;
         &lt;h3&gt;9.  BHOOL BHULAIYYA (2007) &lt;/h3&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Best-Thrillers-2/Bhool-Bhulaiyya.jpg" alt="Bhool Bhulaiyya"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Best-Thrillers-2/Bhool-Bhulaiyya.jpg" alt="Bhool Bhulaiyya"/&gt;
         &lt;p&gt;
 All believe that the haveli is haunted by Manjulika's ghost. No one dares to visit the forbidden room until one day when Avni (Vidya Balan) secretly finds a key and visits the room and finds out more about Manjulika and her lover who was beheaded by King Vibhuti Narayan, an ancestor of Avni's husband Siddharth (Shiney Ahuja). Strange things start to happen after the incident and people start to suspect Radha (Ameesha Patel) for trying to kill Siddharth and Avni. Radha was supposed to get married to Siddharth earlier and awaited him to be disappointed to see Siddharth come back already married to Avni. Who is behind these strange incidents? Is it Radha who is too jealous to cope with the heartbreak? Or is there a new theory to this amalgamation of science and superstition story? Dr. Aditya (Akshaye Kumar), a friend of Siddharth's, is here to find out. 
         &lt;/p&gt;
 &lt;hr&gt;
         &lt;h3&gt;10. A WEDNESDAY (2008)&lt;/h3&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Best-Thrillers-2/A-Wednesday.jpg" alt="A Wednesday Movie Still"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Best-Thrillers-2/A-Wednesday.jpg" alt="A Wednesday Movie Still"/&gt;
         &lt;p&gt;
 What happens when a common man becomes so frustrated with the incompetence of authorities that he just cannot take it anymore? A Wednesday is a story of a police commissioner Prakash Rathod (Anupam Kher) and his encounter with a man (Naseeruddin Shah) who claimed to be a terrorist and planted bombs all over the city. Can Rathod's team disarm all the bombs? What does this terrorist want in return? Find out in this one of a kind thriller written and directed by Neeraj Pandey. Performances by Naseeruddin Shah and Jimmi Shergil are sure to leave you impressed. 
         &lt;/p&gt;
 &lt;hr&gt;
         &lt;h3&gt;11. DRISHYAM (2015)&lt;/h3&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Best-Thrillers-2/Drishyam.jpg" alt="Drishyam Movie Still"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Best-Thrillers-2/Drishyam.jpg" alt="Drishyam Movie Still"/&gt;
         &lt;p&gt;
 Another tale, that reveals the extent to which a common man can go for a purpose is this exciting, spine-chilling, nerve-wracking experience called Drishyam. An unfortunate accident has taken place involving his wife and daughter while Vijay (Ajay Devgan) is busy at his office running his cable TV service.  Upon returning from work, his wife Nandini (Shriya Saran) narrates the incident to Vijay and is scared to death of what has happened in their house. Vijay devises a plan to save his family. A remake of the 2013 Malayalam film of the same name, &lt;i&gt;Drishyam&lt;/i&gt; suggests an in-depth representation of how human photographic memory can be manipulated by reinforcement. Watch Ajay Devgan, do his thing, playing this movie buff, too good for an illiterate cable guy, a badass parent who takes on the copest cop (Tabu) to save his family from the cruel fangs of the law. Drishyam is on our list for a reason. 
         &lt;/p&gt;
 &lt;hr&gt;
         &lt;h3&gt;12. TALVAR (2015)&lt;/h3&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Best-Thrillers-2/Talvar.jpg" alt="Talvar Movie Still"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Best-Thrillers-2/Talvar.jpg" alt="Talvar Movie Still"/&gt;
         &lt;p&gt;
 Based on the 2008 Aarushi Talvar double murder case, Talvar reveals, layer by layer, the real proceedings of the case from all the different perspectives possible. There was the parents' version, the servants' and then there were the different stories both the CBI teams went by. It was a mess in reality and justly depicted in the movie. The movie also depicts how media coverage can influence the course of justice. The film critiques the media for salacious reportage and for encouraging the public to judge the accused even before a court verdict is pronounced. Although they were acquitted by Allahabad High Court in 2017, Aarushi's parents Rajesh and Nupur Talwar went through hell in the 9 year period of trial and being sent to jail for life imprisonment in 2013. Written by Vishal Bhardwaj and directed by Meghna Gulzar, &lt;i&gt;Talvar&lt;/i&gt; is a well-researched film and a fine example of &lt;i&gt;The Rashomon effect&lt;/i&gt; (which occurs when the same event is given contradictory interpretations by the different people involved in it). 
         &lt;/p&gt;
@@ -106,7 +107,7 @@ Based on the 2008 Aarushi Talvar double murder case, Talvar reveals, layer by la
 &lt;hr&gt;
         &lt;h3&gt;13. RAHASYA (2015)&lt;/h3&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Best-Thrillers-2/Rahasya.jpg" alt="Rahasya movie"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Best-Thrillers-2/Rahasya.jpg" alt="Rahasya movie"/&gt;
         &lt;p&gt;
 Also based, but loosely, on the Aarushi Murder Case, Rahasya, has a twist to the tale. The plot and characters might appear similar to that of the real-life case but as the plot unfolds one can easily sense the fictional element of the Manish Gupta story. Manish, who also directed the film claimed that, although inspired by the case, the film was a work of fiction. Rahasya is a great thriller despite the lawsuit it had to face filed by the Talvars and the screenings it went through by the Censor board as a result of the case. 
         &lt;/p&gt;
@@ -114,7 +115,7 @@ Also based, but loosely, on the Aarushi Murder Case, Rahasya, has a twist to the
 &lt;hr&gt;
         &lt;h3&gt;14. RAAZ (2002)&lt;/h3&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Best-Thrillers-2/Raaz.jpg" alt="Raaz movie"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Best-Thrillers-2/Raaz.jpg" alt="Raaz movie"/&gt;
         &lt;p&gt;
 An unofficial adaptation of the 2000 horror,&lt;i&gt;What Lies Beneath,&lt;/i&gt; starring Harrison Ford, &lt;i&gt;Raaz&lt;/i&gt; starred Bipasha Basu, Dino Morea and Ashutosh Rana in the lead roles. The first of the Raaz movie franchise, this was more like a horror thriller which scared you in parts with its supernatural twists. One year into their marriage and Sanjana (Bipasha Basu) and Aditya (Dino Morea) cannot make it work. They take a trip to Ooty, where their love story started, to patch things up. Sanjana starts to notice weird things happening around her. What is behind these incidents? Is it something to do with the couple's past? The &lt;i&gt;Raaz&lt;/i&gt; is for you to find out. 
         &lt;/p&gt;
@@ -122,19 +123,19 @@ An unofficial adaptation of the 2000 horror,&lt;i&gt;What Lies Beneath,&lt;/i&gt
 &lt;hr&gt;
         &lt;h3&gt;15. BAAZIGAR (1993)&lt;/h3&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Best-Thrillers-2/Baazigar.jpg" alt="Baazigar movie shahrukh khan"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Best-Thrillers-2/Baazigar.jpg" alt="Baazigar movie shahrukh khan"/&gt;
         &lt;p&gt;
 Back in the early 90s when Shahrukh Khan had only begun his film career came this bomb of a film that actually saw a hero playing the villain! It was a big deal, is even now, to take that kind of a decision at the start of your career. Baazigar is about the extent to which a man can go to seek his revenge. Lying, betraying and even killing, but what for? Ajay (Shahrukh) comes close to Seema (Shilpa Shetty) convincing her of his love for her and ends up killing her, making the world believe she committed suicide. He changes his identity, becomes Vicky and is out romancing Seema's younger sister Priya (Kajol) now. The charmer that he is, Priya too falls prey to his quirks and is now engaged to him. But what about Seema? Priya does not believe her sister committed suicide. What was behind her sister's death? Is there a reason Ajay chose this sister-duo for his con? Find out in this intense, tragic yet entertaining thriller Shahrukh Khan single-handedly killed. The other actors are just a bonus. 
         &lt;/p&gt;
 &lt;hr&gt;
         &lt;h3&gt;16. ITTEFAQ (2017)&lt;/h3&gt;
 &lt;hr&gt;
-&lt;img src="http://www.rockying.com/art/bollywood/Best-Thrillers-2/Ittefaq-2017.jpg" alt="Ittefaq 2017 movie"/&gt;
+&lt;img src="//rockying.com/art/bollywood/Best-Thrillers-2/Ittefaq-2017.jpg" alt="Ittefaq 2017 movie"/&gt;
         &lt;p&gt;
 A remake of the 1969 Rajesh Khanna starrer Yash Chopra film, Ittefaq had a lot on its shoulders. What do you do when you remake a classic made by none other Yash Chopra and that too a thriller? Well, you make it better. Following the same plot from the original, the film gets as contemporary as it can. In the middle somewhere you'd tend to forget the original and start seeing it as an original story. The narration of the film is what makes the two films entirely different. You once witness the Rashomon effect style of storytelling. Vikram (Siddharth Malhotra) is a suave NRI writer caught, while promoting his book in India, as a suspect for two murders in one night. Maya (Sonakshi Sinha) is a young wife who encounters Vikram the same night. Both are accused of killing their spouses and maybe even collaborating in doing so. Both have their versions of the night of the murders. It is now up to investigating officer Dev Verma  (Akshaye Khanna) to find out the real culprit. 
         &lt;/p&gt;
 &lt;p&gt;
-If you have watched all of these films, well what can I say? We are both thriller hounds. I hope you loved this brand new list of the &lt;a href="http://www.rockying.com/a/251" target="_blank"&gt;Best All-Time Thrillers of Bollywood&lt;/a&gt;. We took into account all your comments and even watched the latest thrillers to not leave out any great film to recommend. Let us know in the comment section if we have been able to do that. What do you think of the thrillers we discussed here? Which one's your All-Time favorite Bollywood thriller? 
+If you have watched all of these films, well what can I say? We are both thriller hounds. I hope you loved this brand new list of the &lt;a href="//rockying.com/a/251" target="_blank"&gt;Best All-Time Thrillers of Bollywood&lt;/a&gt;. We took into account all your comments and even watched the latest thrillers to not leave out any great film to recommend. Let us know in the comment section if we have been able to do that. What do you think of the thrillers we discussed here? Which one's your All-Time favorite Bollywood thriller? 
 &lt;/p&gt;</Text>
   <WriterName>Rockying</WriterName>
   <WriterEmail>preeti@rockying.com</WriterEmail>

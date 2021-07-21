@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>105</ID>
   <Title>Unwanted Jobs, Invisible Initiatives !</Title>
-  <OGImage>http://rudrasofttech.com/rockying/art/Initiative/Unwanted%20JObs/licensed-coolie.jpg</OGImage>
+  <MetaTitle>Unwanted Jobs, Invisible Initiatives !</MetaTitle>
+  <OGImage>//rockying.com/art/Initiative/Unwanted%20JObs/licensed-coolie.jpg</OGImage>
   <OGDescription>Do what the heart feels like, preaches 3 Idiots. Does it apply to the marginalized sections of society? Do they even have ample choices to think of? Loot and theft were other easier options for some instant cash. So why didn’t they? This is why we pay a small tribute to these unsung heroes of everyd</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,7 +13,7 @@
   <Category>14</Category>
   <Tag>Initiatives, Society</Tag>
   <Status>Publish</Status>
-  <Description>&lt;p&gt;&lt;br&gt;&lt;span style="font-size: 12pt; line-height: 115%;"&gt;&lt;/span&gt;&lt;span style="font-size:12.0pt;line-height:115%"&gt;&lt;/span&gt;&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/Initiative/Unwanted%20JObs/licensed-coolie.jpg' alt='' /&gt;&lt;p&gt;Do what the heart feels like, preaches 3 Idiots. Does it apply to the marginalized sections of society? Do they even have ample choices to think of? Loot and theft were other easier options for some instant cash. So why didn’t they? This is why we pay a small tribute to these unsung heroes of everyd&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
     Do what the heart feels like, preaches &lt;a href="http://en.wikipedia.org/wiki/3_idiots"
         target="_blank"&gt;3 Idiots&lt;/a&gt;. Does it really apply to the marginalized sections
@@ -27,7 +28,7 @@
     &lt;li&gt;
         &lt;h5&gt;
             THE SCAVENGERS OF SOCIETY- SWEEPERS/ RAG PICKERS/ HOUSE MAIDS&lt;/h5&gt;
-        &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/Unwanted%20JObs/Scavengers.jpg"
+        &lt;img src="//rockying.com/art/Initiative/Unwanted%20JObs/Scavengers.jpg"
             title="The Scavengers" alt="" style="width: 700px;" /&gt;
         &lt;p&gt;
             We wash our hands right after we give away our day’s bin to the sweepers or the
@@ -37,13 +38,13 @@
             on them. While foreign countries have better mobile gadgets for roadside cleaning
             and disposal, for Indian sweepers it is a hand job. It is time we understand their
             plight. So do not make a fuss when your maid does not turn up for a day or two.
-            They deserve a time-off. &lt;a href="http://www.rockying.com/p/110"&gt;Read more&lt;/a&gt; to
+            They deserve a time-off. &lt;a href="//rockying.com/p/110"&gt;Read more&lt;/a&gt; to
             see how an honest rag-picker returned belongings of over Rs 8 lakhs to the owner.&lt;/p&gt;
     &lt;/li&gt;
     &lt;li&gt;
         &lt;h5&gt;
             LIVING WITH THE DEAD- MORTICIANS&lt;/h5&gt;
-        &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/Unwanted%20JObs/Cobbler%20%281%29.jpg"
+        &lt;img src="//rockying.com/art/Initiative/Unwanted%20JObs/Cobbler%20%281%29.jpg"
             title="Morticians and A Cobbler" alt="" style="width: 700px;" /&gt;
         &lt;p&gt;
             One of the darkest and gloomiest professions of our times, morticians are people
@@ -69,7 +70,7 @@
     &lt;li&gt;
         &lt;h5&gt;
             SHIP BREAKERS&lt;/h5&gt;
-        &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/Unwanted%20JObs/Coolie.jpg"
+        &lt;img src="//rockying.com/art/Initiative/Unwanted%20JObs/Coolie.jpg"
             title="Ship-Breakers, A Coolie and A Rickshaw Puller" alt="" style="width: 700px;
             height: 153px;" /&gt;
         &lt;p&gt;
@@ -107,10 +108,9 @@
     Let us be proactive and sensitize ourselves towards them. Blog, comment and engage
     in social media for your opinions and reviews on this issue. Voice your views below
     and we will help spread it further!&lt;/h6&gt;</Text>
-  <SlideShowOn>false</SlideShowOn>
-  <QuestionOn>false</QuestionOn>
   <WriterName>Aditi Dasgupta</WriterName>
   <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
   <Viewed>0</Viewed>
-  <Promotion />
+  <TemplateName />
+  <URL>105</URL>
 </Article>

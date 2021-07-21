@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>Healthy New Year Resolutions to Make</Title>
-  <OGImage>http://www.rockying.com/art/health/New-Year-Health-Resolutions/Happiness.jpg</OGImage>
+  <MetaTitle>Healthy New Year Resolutions to Make</MetaTitle>
+  <OGImage>//rockying.com/art/health/New-Year-Health-Resolutions/Happiness.jpg</OGImage>
   <OGDescription>The year is at an end. It means time for resolutions! Time to think about what we promise ourselves this year, things we plan to change for a better us. So why not promise yourself and your body someone healthy this year. Read More...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,7 +13,7 @@
   <Category>5</Category>
   <Tag>Healthy Living, New Year Resolutions, Health Resolutions.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/health/New-Year-Health-Resolutions/Happiness.jpg' alt='' /&gt;&lt;p&gt;The year is at an end. It means time for resolutions! Time to think about what we promise ourselves this year, things we plan to change for a better us. So why not promise yourself and your body someone healthy this year. Read More...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/health/New-Year-Health-Resolutions/Happiness.jpg' alt='' /&gt;&lt;p&gt;The year is at an end. It means time for resolutions! Time to think about what we promise ourselves this year, things we plan to change for a better us. So why not promise yourself and your body someone healthy this year. Read More...&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
     The year is at an end. It means time for resolutions! Time to think about what we
     promise ourselves this year, things we plan to change for a better us. So why not
@@ -22,7 +23,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             GO GET A CHECK UP&lt;/h3&gt;
-            &lt;img src="http://www.rockying.com/art/health/New-Year-Health-Resolutions/Regular-Check-up.jpg" alt="" /&gt;
+            &lt;img src="//rockying.com/art/health/New-Year-Health-Resolutions/Regular-Check-up.jpg" alt="" /&gt;
         &lt;p&gt;
             Start the year by checking if all is okay! A lot of us forget that just like anything
             else, our body needs to have a regular formal check up. Book an appointment and
@@ -33,7 +34,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             GET GOING&lt;/h3&gt;
-            &lt;img src="http://www.rockying.com/art/health/New-Year-Health-Resolutions/Healthy-Living.jpg" alt="" /&gt;
+            &lt;img src="//rockying.com/art/health/New-Year-Health-Resolutions/Healthy-Living.jpg" alt="" /&gt;
         &lt;p&gt;
             No time to go to the gym? Too busy to exercise daily. We have heard all the excuses
             always. If you still don’t have time, do something fun to keep your body active.
@@ -45,7 +46,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             EAT RIGHT&lt;/h3&gt;
-            &lt;img src="http://www.rockying.com/art/health/New-Year-Health-Resolutions/Oily-Food.jpg" alt="" /&gt;
+            &lt;img src="//rockying.com/art/health/New-Year-Health-Resolutions/Oily-Food.jpg" alt="" /&gt;
         &lt;p&gt;
             Promise yourself that this year will be the time when you finally let go off the
             daily pakoras, samosas, vadas, puris, kachoris and packets of chips. Not only are
@@ -59,7 +60,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             DRINK MORE&lt;/h3&gt;
-        &lt;img src="http://www.rockying.com/art/health/New-Year-Health-Resolutions/drink-water.jpg"
+        &lt;img src="//rockying.com/art/health/New-Year-Health-Resolutions/drink-water.jpg"
             alt="" /&gt;
         &lt;p&gt;
             No, it’s not alcohol we are talking about. Its plain ol’ water. Drinking the recommended
@@ -76,7 +77,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             FLOSS YOUR TEETH&lt;/h3&gt;
-        &lt;img src="http://www.rockying.com/art/health/New-Year-Health-Resolutions/Floss-teeth.jpg"
+        &lt;img src="//rockying.com/art/health/New-Year-Health-Resolutions/Floss-teeth.jpg"
             alt="" /&gt;
         &lt;p&gt;
             You might have been brushing your teeth three times a day or more but have you been
@@ -88,7 +89,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             SKIN CARE&lt;/h3&gt;
-            &lt;img src="http://www.rockying.com/art/health/New-Year-Health-Resolutions/Skin-Care.jpg" alt="" /&gt;
+            &lt;img src="//rockying.com/art/health/New-Year-Health-Resolutions/Skin-Care.jpg" alt="" /&gt;
         &lt;p&gt;
             Think about the last time you wore sunscreen or made sure you went to bed only after
             moisturizing yourself properly? Most skin cancers begin after the age of 50 but
@@ -101,7 +102,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             COLOR ON YOUR PLATE&lt;/h3&gt;
-        &lt;img src="http://www.rockying.com/art/health/New-Year-Health-Resolutions/Color-on-plate.jpg"
+        &lt;img src="//rockying.com/art/health/New-Year-Health-Resolutions/Color-on-plate.jpg"
             alt="" /&gt;
         &lt;p&gt;
             Make sure you work on WHAT you are eating. Add color to your food - capsicums, brinjals,
@@ -116,7 +117,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             BYE BYE SMOKING&lt;/h3&gt;
-            &lt;img src="http://www.rockying.com/art/health/New-Year-Health-Resolutions/Stop-Smoking.jpg" alt="" /&gt;
+            &lt;img src="//rockying.com/art/health/New-Year-Health-Resolutions/Stop-Smoking.jpg" alt="" /&gt;
         &lt;p&gt;
             If you on the cigarette, stop it right away. No matter how cool you think it is,
             it will destroy you, sooner or later. Not only is it one of the leading causes of
@@ -128,7 +129,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             GO SLEEP&lt;/h3&gt;
-            &lt;img src="http://www.rockying.com/art/health/New-Year-Health-Resolutions/sleep.jpg" alt="" /&gt;
+            &lt;img src="//rockying.com/art/health/New-Year-Health-Resolutions/sleep.jpg" alt="" /&gt;
         &lt;p&gt;
             Make sure you are getting your daily dose of sleep. Try incorporating the "early to bed early to rise..." mantra into your routine. Without sleeping right, you won’t be able to do anything right. Lack of sleep might lead to frustration, irritation
             and increased stress levels. Try getting the right amount of sleep each day. You
@@ -137,7 +138,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             BE NICE TO YOURSELF&lt;/h3&gt;
-            &lt;img src="http://www.rockying.com/art/health/New-Year-Health-Resolutions/i-love-me.jpg" alt="" /&gt;
+            &lt;img src="//rockying.com/art/health/New-Year-Health-Resolutions/i-love-me.jpg" alt="" /&gt;
         &lt;p&gt;
             A healthy life starts with a healthy mind. Be nice to yourself, learn to be positive,
             reduce your stress levels and just be confident in being you! Nothing better to
@@ -147,7 +148,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             GET IN TOUCH - REAL LIFE!&lt;/h3&gt;
-        &lt;img src="http://www.rockying.com/art/health/New-Year-Health-Resolutions/Get-in-touch-for-real.jpg"
+        &lt;img src="//rockying.com/art/health/New-Year-Health-Resolutions/Get-in-touch-for-real.jpg"
             alt="" /&gt;
         &lt;p&gt;
             No, we aren’t talking about FB messaging and writing on walls! We are talking about
@@ -163,10 +164,9 @@
     So, make your resolutions working for you this year. Not only will they be healthy,
     but it might change your life on the whole, for the better. Here’s promising ourselves
     a healthier, better 2013!&lt;/p&gt;</Text>
-  <SlideShowOn>false</SlideShowOn>
-  <QuestionOn>false</QuestionOn>
   <WriterName>Hajra Khatoon</WriterName>
   <WriterEmail>hajraks@gmail.com</WriterEmail>
   <Viewed>0</Viewed>
-  <Promotion />
+  <TemplateName />
+  <URL>234</URL>
 </Article>

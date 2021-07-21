@@ -43,14 +43,16 @@ public partial class Admin_SimpleEdit : AdminPage
         {
             try
             {
-                a = Utility.Deserialize<Article>(System.IO.File.ReadAllText(Server.MapPath(string.Format("{1}/articlexml-{0}.txt", ID, Utility.ArticleFolder))));
-                if (string.IsNullOrEmpty(a.MetaTitle))
-                {
-                    a.MetaTitle = a.Title;
-                }
                 Post p = (from t in dc.Posts where t.ID == ID select t).SingleOrDefault();
                 if (p != null)
                 {
+                    a = Utility.Deserialize<Article>(p.Article); //Utility.Deserialize<Article>(System.IO.File.ReadAllText(Server.MapPath(string.Format("{1}/articlexml-{0}.txt", ID, Utility.ArticleFolder))));
+                    if (string.IsNullOrEmpty(a.MetaTitle))
+                    {
+                        a.MetaTitle = a.Title;
+                    }
+
+
                     a.URL = p.URL;
                 }
             }
@@ -80,7 +82,6 @@ public partial class Admin_SimpleEdit : AdminPage
                     try
                     {
                         a.Text = System.IO.File.ReadAllText(Server.MapPath(string.Format("{1}/article-{0}.txt", p.ID, Utility.ArticleFolder)));
-
                     }
                     catch (Exception ex2)
                     {
@@ -137,6 +138,7 @@ public partial class Admin_SimpleEdit : AdminPage
             {
                 if (Mode == "edit")
                 {
+                    string str = Utility.Serialize<Article>(a);
                     Post p = (from t in dc.Posts where t.ID == ID select t).SingleOrDefault();
                     p.Category = a.Category;
                     p.DateModified = DateTime.Now;
@@ -151,7 +153,7 @@ public partial class Admin_SimpleEdit : AdminPage
                     p.OGDescription = a.OGDescription;
                     p.OGImage = a.OGImage;
                     p.URL = a.URL;
-
+                    p.Article = str;
                     if ((byte)a.Status != p.Status)
                     {
                         notifyEmail = string.Format("Dear {0},<br/><br/> Your article is in {3} mode. Check it here <a href='{1}'>{1}</a>. <br/><br/>Thanks,<br/>{2}",
@@ -159,8 +161,8 @@ public partial class Admin_SimpleEdit : AdminPage
                     }
 
                     dc.SubmitChanges();
-                    string str = Utility.Serialize<Article>(a);
-                    System.IO.File.WriteAllText(Server.MapPath(string.Format("{1}/articlexml-{0}.txt", p.ID, Utility.ArticleFolder)), str);
+
+                    //System.IO.File.WriteAllText(Server.MapPath(string.Format("{1}/articlexml-{0}.txt", p.ID, Utility.ArticleFolder)), str);
 
                     if (!string.IsNullOrEmpty(notifyEmail))
                     {
@@ -171,8 +173,8 @@ public partial class Admin_SimpleEdit : AdminPage
                 }
                 else
                 {
-                    
-                    
+
+                    string str = Utility.Serialize<Article>(a);
                     Post p = new Post();
                     p.Category = a.Category;
                     p.DateCreated = DateTime.Now;
@@ -187,11 +189,11 @@ public partial class Admin_SimpleEdit : AdminPage
                     p.OGImage = a.OGImage;
                     p.Article = string.Empty;
                     p.URL = a.URL;
-
+                    p.Article = str;
                     dc.Posts.InsertOnSubmit(p);
                     dc.SubmitChanges();
-                    string str = Utility.Serialize<Article>(a);
-                    System.IO.File.WriteAllText(Server.MapPath(string.Format("{1}/articlexml-{0}.txt", p.ID, Utility.ArticleFolder)), str);
+
+                    //System.IO.File.WriteAllText(Server.MapPath(string.Format("{1}/articlexml-{0}.txt", p.ID, Utility.ArticleFolder)), str);
 
                     notifyEmail = string.Format("Dear {0},<br/> Your article is posted in {2} mode. Check it here <a href='{1}'>{1}</a>. <br/>",
                     a.WriterName, string.Format("{0}/a/{1}", Utility.SiteURL, a.URL), a.Status.ToString());
@@ -200,8 +202,6 @@ public partial class Admin_SimpleEdit : AdminPage
                     EmailManager.SendMail(Utility.ContactEmail, a.WriterEmail, Utility.AdminName, a.WriterName, notifyEmail,
                         string.Format("Article Posted - '{0}'", a.Title), EmailMessageType.Notification, "Article Posted");
                 }
-
-
             }
             if ((sender as Button).Text.ToLower() == "save")
             {

@@ -15,14 +15,14 @@
   <Status>Publish</Status>
   <Description>&lt;img src='//www.rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/Dialogue-Quiz-Anand.jpg' alt='' /&gt;&lt;p&gt;Who is the Babu Moshai in Rajesh Khanna's famous dialogue "Babu Moshai zindagi lambi nahin badi honi chahiye"? Answer now!&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
-There was a certain charm to old dialogues and music; dancing around trees hadn't yet taken over entirely and stories were slow and mostly depended on good writing. Not that we don't get to see good dialogues now, but it was a different era for words. If you have landed here from the &lt;a href="http://www.rockying.com/a/35"&gt;Killer dialogues of Bollywood I&lt;/a&gt;, great! If not, go check it out now and come back to play this fun dialogue quiz from the 70s and earlier. 
+There was a certain charm to old dialogues and music; dancing around trees hadn't yet taken over entirely and stories were slow and mostly depended on good writing. Not that we don't get to see good dialogues now, but it was a different era for words. If you have landed here from the &lt;a href="//rockying.com/a/35"&gt;Killer dialogues of Bollywood I&lt;/a&gt;, great! If not, go check it out now and come back to play this fun dialogue quiz from the 70s and earlier. 
 &lt;/p&gt;
 
 &lt;div class="rstquestion rkyquestion1"&gt;
     &lt;span class="qindex"&gt;1&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/devdas-dilip-kumar-1.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/devdas-dilip-kumar-1.jpg"
                         alt="Dilip Kumar in Devdas " /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -44,7 +44,7 @@ There was a certain charm to old dialogues and music; dancing around trees hadn'
     &lt;span class="qindex"&gt;2&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-                   &lt;img src="http://rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/Anarkali-2.jpg"
+                   &lt;img src="//rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/Anarkali-2.jpg"
                         alt="Madhubala as Anarkali in Mughal-e-Azam" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -66,7 +66,7 @@ There was a certain charm to old dialogues and music; dancing around trees hadn'
     &lt;span class="qindex"&gt;3&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-                   &lt;img src="http://rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/Raj-Kumar-Waqt-3.jpg"
+                   &lt;img src="//rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/Raj-Kumar-Waqt-3.jpg"
                         alt="Raj Kumar in the movie Waqt" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -88,7 +88,7 @@ There was a certain charm to old dialogues and music; dancing around trees hadn'
     &lt;span class="qindex"&gt;4&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-                   &lt;img src="http://rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/Anand-4.jpg"
+                   &lt;img src="//rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/Anand-4.jpg"
                         alt="Anand Movie" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -110,7 +110,7 @@ Who is the Babu Moshai in this dialogue from Hrishikesh Mukherjee’s Anand.
     &lt;span class="qindex"&gt;5&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-                    &lt;img src="http://rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/Amitabh-Deewar-5.jpg"
+                    &lt;img src="//rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/Amitabh-Deewar-5.jpg"
                         alt="Amitabh Bachchan in Deewar Movie   " /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -132,7 +132,7 @@ Who is ‘Vijay’ (Amitabh Bachchan) from the 1975 Deewar addressing in this mo
     &lt;span class="qindex"&gt;6&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-                      &lt;img src="http://www.rockying.com/art/bollywood/Killer-Dialogues-Quiz/Amar-Prem-Pushpa...jpg"
+                      &lt;img src="//rockying.com/art/bollywood/Killer-Dialogues-Quiz/Amar-Prem-Pushpa...jpg"
                         alt="Rajesh Khanna in Amar Prem" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -153,7 +153,7 @@ Who is the 'Pushpa' addressed in this &lt;i&gt;Amar Prem&lt;/i&gt; dialogue voic
     &lt;span class="qindex"&gt;7&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-                   &lt;img src="http://rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/deewar-maa-7.jpg"
+                   &lt;img src="//rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/deewar-maa-7.jpg"
                         alt="Deewar Movie" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -175,7 +175,7 @@ Who played the 'Maa' in the famous 1975 Deewar starring Amitabh and Shashi Kapoo
     &lt;span class="qindex"&gt;8&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-                   &lt;img src="http://rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/sachin-sholay-8.jpg"
+                   &lt;img src="//rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/sachin-sholay-8.jpg"
                         alt="Sachin in Sholay" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -197,7 +197,7 @@ Who voiced this dialogue in this Ramesh Sippy blockbuster of the 70s?
     &lt;span class="qindex"&gt;9&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-                  &lt;img src="http://rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/shahenshah-9.jpg"
+                  &lt;img src="//rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/shahenshah-9.jpg"
                         alt="Shahenshah Movie" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -219,7 +219,7 @@ Fill in the blank to complete this all-time favorite Amitabh catchphrase.
     &lt;span class="qindex"&gt;10&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-                   &lt;img src="http://rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/Don-10.jpg"
+                   &lt;img src="//rockying.com/art/Quiz/Bollywood/Dialogue-Quiz-1/Don-10.jpg"
                         alt="Don" /&gt;
                 &lt;/div&gt;
                 &lt;div class="span6"&gt;
@@ -239,7 +239,7 @@ Police from how many countries'  are looking for Don?
                 
                 Did you have fun playing the quiz? How much did you score? &lt;br&gt;
 
- &lt;h4 style="text-align: center;"&gt; &lt;a href="http://www.rockying.com/a/quiz-6-killer-dialogues-of-bollywood-ii" target="_blank"&gt;PLAY THE NEXT QUIZ NOW ! &lt;/a&gt;&lt;/h4&gt;</Text>
+ &lt;h4 style="text-align: center;"&gt; &lt;a href="//rockying.com/a/quiz-6-killer-dialogues-of-bollywood-ii" target="_blank"&gt;PLAY THE NEXT QUIZ NOW ! &lt;/a&gt;&lt;/h4&gt;</Text>
   <WriterName>Preeti Singh</WriterName>
   <WriterEmail>preeti@rockying.com</WriterEmail>
   <Viewed>0</Viewed>

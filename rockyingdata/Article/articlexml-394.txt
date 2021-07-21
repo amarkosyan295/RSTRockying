@@ -3,7 +3,7 @@
   <ID>0</ID>
   <Title>Did You Know these Facts about Indian Independence? Tell us Now!</Title>
   <MetaTitle>8 Unknown Facts about Indian Independence - Rockying.com </MetaTitle>
-  <OGImage>http://www.rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Bombay-Mutiny.jpg</OGImage>
+  <OGImage>//rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Bombay-Mutiny.jpg</OGImage>
   <OGDescription>Read about 8 surprising and unknown facts about India's Independence and the truth behind the history that you think you know.</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -13,12 +13,12 @@
   <Category>20</Category>
   <Tag>India, Quiz, 15th August, Indian Freedom Struggle, Independence, Quit India Movement, Freedom Fighters, Indian National Congress, Indian National Army</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Bombay-Mutiny.jpg' alt='' /&gt;&lt;p&gt;Read about 8 surprising and unknown facts about India's Independence and the truth behind the history that you think you know.&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Bombay-Mutiny.jpg' alt='' /&gt;&lt;p&gt;Read about 8 surprising and unknown facts about India's Independence and the truth behind the history that you think you know.&lt;/p&gt;</Description>
   <Text>&lt;div class="rstquestion rkyquestion1"&gt;
     &lt;span class="qindex"&gt;1&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-            &lt;img src="http://www.rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Bombay-Mutiny.jpg" alt="Royal-Indian-Navy-Mutiny" title="Bombay Mutiny" /&gt;
+            &lt;img src="//rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Bombay-Mutiny.jpg" alt="Royal-Indian-Navy-Mutiny" title="Bombay Mutiny" /&gt;
         &lt;/div&gt;
         &lt;div class="span6"&gt;
   &lt;h4&gt;Closest to the Indian Independence, which movement actually led to our country's freedom in 1947?&lt;/h4&gt;
@@ -39,7 +39,7 @@ The mass strikes, demonstrations and the resultant support for mutineers continu
     &lt;span class="qindex"&gt;2&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-            &lt;img src="http://www.rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Captain-Lakshmi-Sehgal.jpg" alt="Captain Lakshmi Sehgal" title="Rani of Jhansi Regiment Leader" /&gt;
+            &lt;img src="//rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Captain-Lakshmi-Sehgal.jpg" alt="Captain Lakshmi Sehgal" title="Rani of Jhansi Regiment Leader" /&gt;
         &lt;/div&gt;
         &lt;div class="span6"&gt;
   &lt;h4&gt;Who led the &lt;b&gt;Rani of Jhansi Regiment&lt;/b&gt; in the Indian National Army (Azad Hind Fauj) formed by Subhash Chandra Bose in 1942? &lt;/h4&gt;
@@ -60,7 +60,7 @@ She had heard that Bose was keen to draft women into the organisation and reques
     &lt;span class="qindex"&gt;3&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-            &lt;img src="http://www.rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Chauri-Chaura-Incident.jpeg" alt="Chauri Chaura" title="" /&gt;
+            &lt;img src="//rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Chauri-Chaura-Incident.jpeg" alt="Chauri Chaura" title="" /&gt;
         &lt;/div&gt;
         &lt;div class="span6"&gt;
   &lt;h4&gt;Which incident led to Mahatma Gandhi's withdrawal of the Non-Cooperation Movement in 1922? &lt;/h4&gt;
@@ -81,7 +81,7 @@ The success of the movement was a total shock to the British and a massive encou
     &lt;span class="qindex"&gt;4&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-            &lt;img src="http://www.rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Yusuf-Meher-Ali.jpg" alt="Yusuf Meher Ali" title="The Catch-phrase creative" /&gt;
+            &lt;img src="//rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Yusuf-Meher-Ali.jpg" alt="Yusuf Meher Ali" title="The Catch-phrase creative" /&gt;
         &lt;/div&gt;
         &lt;div class="span6"&gt;
   &lt;h4&gt;Who coined the celebrated phrases &lt;i&gt;"Simon Go Back"&lt;/i&gt; and &lt;i&gt;"Quit India"&lt;/i&gt; during freedom struggles in 1928 and 1942 respectively? &lt;/h4&gt;
@@ -102,7 +102,7 @@ Having founded the Bombay Youth League in 1928, he immediately organized a prote
     &lt;span class="qindex"&gt;5&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-            &lt;img src="http://www.rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Lal_Bal_Pal.jpg" alt="Lal-Bal-Pal" title="Lal-Bal-Pal" /&gt;
+            &lt;img src="//rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Lal_Bal_Pal.jpg" alt="Lal-Bal-Pal" title="Lal-Bal-Pal" /&gt;
         &lt;/div&gt;
         &lt;div class="span6"&gt;
   &lt;h4&gt;The founding fathers of the Indian Nationalist movement in the 1900s, &lt;b&gt;Lal-Bal-Pal&lt;/b&gt; ( Lala Lajpat Rai, Bal Gangadhar Tilak, Bipin Chandra Pal ), belonged to which primary states of India, respectively? &lt;/h4&gt;
@@ -123,7 +123,7 @@ In 1907, the Congress was split into two ideologies: The extremists, led by Tila
     &lt;span class="qindex"&gt;6&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-            &lt;img src="http://www.rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Khudiram_Bose.jpg" alt="Khudiram Bose" title="Khudiram Bose" /&gt;
+            &lt;img src="//rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Khudiram_Bose.jpg" alt="Khudiram Bose" title="Khudiram Bose" /&gt;
         &lt;/div&gt;
         &lt;div class="span6"&gt;
   &lt;h4&gt;How old was Khudiram Bose at the time of his execution, by the British, in 1908?&lt;/h4&gt;
@@ -144,7 +144,7 @@ Khudiram and Prafulla Chaki, of the Jugantar Party, tried to assassinate a cruel
     &lt;span class="qindex"&gt;7&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-            &lt;img src="http://www.rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Birsa-Munda.JPG" alt="Birsa Munda" title="Birsa Munda" /&gt;
+            &lt;img src="//rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Birsa-Munda.JPG" alt="Birsa Munda" title="Birsa Munda" /&gt;
         &lt;/div&gt;
         &lt;div class="span6"&gt;
   &lt;h4&gt;In the year 1900, Birsa Munda died in British custody at the age of 25. What was this tribal hero fighting for?&lt;/h4&gt;
@@ -165,7 +165,7 @@ One of the earliest known revolutionaries from the forest lands of the Chota Nag
     &lt;span class="qindex"&gt;8&lt;/span&gt;
     &lt;div class="row-fluid"&gt;
         &lt;div class="span5"&gt;
-            &lt;img src="http://www.rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Surya-Sen.jpg" alt="Surya Sen" title="Surya Sen" /&gt;
+            &lt;img src="//rockying.com/art/Awareness/Indian-Freedom-Fighters-Quiz/Surya-Sen.jpg" alt="Surya Sen" title="Surya Sen" /&gt;
         &lt;/div&gt;
         &lt;div class="span6"&gt;
   &lt;h4&gt; Surjya Sen led a group of revolutionaries, on 18 April 1930, to raid the armoury of police and auxiliary forces from the Chittagong armoury. What was the ultimate motive behind this raid?&lt;/h4&gt;

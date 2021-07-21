@@ -2,21 +2,24 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>68</ID>
   <Title>The Mumbai Dabbawalas; The Entrepreneur Diaries-V</Title>
-  <OGImage>http://rudrasofttech.com/rockying/art/Initiative/Entrepreneurs/Mumbai%20dabbawalas.jpg</OGImage>
+  <MetaTitle>The Mumbai Dabbawalas; The Entrepreneur Diaries-V</MetaTitle>
+  <OGImage>//rockying.com/art/Initiative/Entrepreneurs/Mumbai%20dabbawalas.jpg</OGImage>
   <OGDescription>Running for over 100 years now and having a 6 Sigma rating awarded by Forbes, Mumbai Dabbawalas started in 1890 with the employees’ average literacy rate to be class 8th pass...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
   <CreatedBy>0</CreatedBy>
   <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
   <Category>14</Category>
   <Tag>Entrepreneurs Of India</Tag>
   <Status>Publish</Status>
-  <Description>&lt;p&gt; &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/Entrepreneurs/Mumbai%20dabbawalas.jpg" title="Mumbai Dabbawalas" alt="" style="width: 150px; float: left;"&gt;Running for over 100 years now and having a 6 Sigma rating awarded by 
-Forbes, Mumbai Dabbawalas started in 1890 with the employees’ average literacy rate to 
-be class 8th pass.. &lt;/p&gt;</Description>
-  <Text>&lt;p&gt;&lt;img src="http://rudrasofttech.com/rockying/art/Initiative/Entrepreneurs/Mumbai%20dabbawalas.jpg" title="Mumbai Dabbawalas" alt="" style="width: 300px; float: left;"&gt; 5.&amp;nbsp; &lt;b&gt;THE MUMBAI DABBAWALAS&lt;/b&gt;: Here is a spicy story about an entrepreneurial venture that needed no big degree or no knowledge-driven skill set. This has indeed been the longest running management story of our times. Running for over 100 years now and having a 6 Sigma rating awarded by 
+  <Description>&lt;img src='//rockying.com/art/Initiative/Entrepreneurs/Mumbai%20dabbawalas.jpg' alt='' /&gt;&lt;p&gt;Running for over 100 years now and having a 6 Sigma rating awarded by Forbes, Mumbai Dabbawalas started in 1890 with the employees’ average literacy rate to be class 8th pass...&lt;/p&gt;</Description>
+  <Text>&lt;p&gt;&lt;img src="//rockying.com/art/Initiative/Entrepreneurs/Mumbai%20dabbawalas.jpg" title="Mumbai Dabbawalas" alt="" style="width: 300px; float: left;"&gt; 5.&amp;nbsp; &lt;b&gt;THE MUMBAI DABBAWALAS&lt;/b&gt;: Here is a spicy story about an entrepreneurial venture that needed no big degree or no knowledge-driven skill set. This has indeed been the longest running management story of our times. Running for over 100 years now and having a 6 Sigma rating awarded by 
 Forbes, it started in 1890 with the employees’ average literacy rate to 
-be class 8th pass! &lt;br&gt;Mahadeo Havaji Bachche, the owner has proven it that the entrepreneurial philosophy is indeed to stay ahead of the time. Their strategy failed the emerging fast food joints because they strictly served home-cooked food!&lt;br&gt;&lt;b&gt;INTERESTING FACTS&lt;/b&gt;: &lt;br&gt;•&amp;nbsp;&amp;nbsp; &amp;nbsp;However big this brand is growing, all the employees are treated equally. &lt;br&gt;•&amp;nbsp;&amp;nbsp; &amp;nbsp;They supply tiffin at all costs, expect when it is pouring cats and dogs in the city!&lt;br&gt;•&amp;nbsp;&amp;nbsp; &amp;nbsp;You cannot fail them when it comes to being punctual.&lt;br&gt;•&amp;nbsp;&amp;nbsp; &amp;nbsp;It is estimated that about 175,000—200,000 lunches are packed and supplied everyday by 5000 dabbawallas.&lt;br&gt;•&amp;nbsp;&amp;nbsp; &amp;nbsp;Survey says that you would find only one mistake in every 6 crore deliverables!&lt;br&gt;&lt;b&gt;WHY A SUCCESS&lt;/b&gt;:&lt;br&gt;•&amp;nbsp;&amp;nbsp; &amp;nbsp;Decentralization&lt;br&gt;•&amp;nbsp;&amp;nbsp; &amp;nbsp;Equality amongst the team&lt;br&gt;•&amp;nbsp;&amp;nbsp; &amp;nbsp;Low cost food service and on-time delivery.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Diaries &lt;a href="http://www.rockying.com/a/64"&gt;1&lt;/a&gt; &lt;a href="http://www.rockying.com/a/65"&gt;2&lt;/a&gt; &lt;a href="http://www.rockying.com/a/66"&gt;3&lt;/a&gt; &lt;a href="http://www.rockying.com/a/67"&gt;4&lt;/a&gt; &lt;/b&gt;&lt;br&gt;&lt;/p&gt;</Text>
+be class 8th pass! &lt;br&gt;Mahadeo Havaji Bachche, the owner has proven it that the entrepreneurial philosophy is indeed to stay ahead of the time. Their strategy failed the emerging fast food joints because they strictly served home-cooked food!&lt;br&gt;&lt;b&gt;INTERESTING FACTS&lt;/b&gt;: &lt;br&gt;•&amp;nbsp;&amp;nbsp; &amp;nbsp;However big this brand is growing, all the employees are treated equally. &lt;br&gt;•&amp;nbsp;&amp;nbsp; &amp;nbsp;They supply tiffin at all costs, expect when it is pouring cats and dogs in the city!&lt;br&gt;•&amp;nbsp;&amp;nbsp; &amp;nbsp;You cannot fail them when it comes to being punctual.&lt;br&gt;•&amp;nbsp;&amp;nbsp; &amp;nbsp;It is estimated that about 175,000—200,000 lunches are packed and supplied everyday by 5000 dabbawallas.&lt;br&gt;•&amp;nbsp;&amp;nbsp; &amp;nbsp;Survey says that you would find only one mistake in every 6 crore deliverables!&lt;br&gt;&lt;b&gt;WHY A SUCCESS&lt;/b&gt;:&lt;br&gt;•&amp;nbsp;&amp;nbsp; &amp;nbsp;Decentralization&lt;br&gt;•&amp;nbsp;&amp;nbsp; &amp;nbsp;Equality amongst the team&lt;br&gt;•&amp;nbsp;&amp;nbsp; &amp;nbsp;Low cost food service and on-time delivery.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Diaries &lt;a href="//rockying.com/a/64"&gt;1&lt;/a&gt; &lt;a href="//rockying.com/a/65"&gt;2&lt;/a&gt; &lt;a href="//rockying.com/a/66"&gt;3&lt;/a&gt; &lt;a href="//rockying.com/a/67"&gt;4&lt;/a&gt; &lt;/b&gt;&lt;br&gt;&lt;/p&gt;</Text>
   <WriterName>Aditi Dasgupta</WriterName>
   <WriterEmail>aditixdasgupta@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>68</URL>
 </Article>

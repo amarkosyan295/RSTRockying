@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>15 Super Fruits for 2015!</Title>
-  <OGImage>http://www.rockying.com/art/health/Super-fruits-for-2013/Super-fruits-for-2013.jpg</OGImage>
+  <MetaTitle>15 Super Fruits for 2015!</MetaTitle>
+  <OGImage>//rockying.com/art/health/Super-fruits-for-2013/Super-fruits-for-2013.jpg</OGImage>
   <OGDescription>A new trend that hit the health industry in 2005 - super-fruits. No, not any fruit that are grown in a different way or are hybrid versions of some super advanced ingredients...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,7 +13,7 @@
   <Category>5</Category>
   <Tag>Fruits, Healthy living, Skin Care, Fibre content in fruits.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/health/Super-fruits-for-2013/Super-fruits-for-2013.jpg' alt='' /&gt;&lt;p&gt;A new trend that hit the health industry in 2005 - super-fruits. No, not any fruit that are grown in a different way or are hybrid versions of some super advanced ingredients...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/health/Super-fruits-for-2013/Super-fruits-for-2013.jpg' alt='' /&gt;&lt;p&gt;A new trend that hit the health industry in 2005 - super-fruits. No, not any fruit that are grown in a different way or are hybrid versions of some super advanced ingredients...&lt;/p&gt;</Description>
   <Text>&lt;div&gt;
     &lt;div&gt;
         &lt;button id="prevslide" type='button' style='width: 40px;  height:40px;
@@ -29,7 +30,7 @@
             &lt;p&gt;
 A new trend that hit the health industry in 2005 - superfruits. No, not any fruit that are grown in a different way or are hybrid versions of some super advanced ingredients. Not all that jazz.
 &lt;/p&gt;
-&lt;img src="http://www.rockying.com/art/health/Super-fruits-for-2013/superhero-fruit.jpg" alt="Super Hero Fruit"/&gt;
+&lt;img src="//rockying.com/art/health/Super-fruits-for-2013/superhero-fruit.jpg" alt="Super Hero Fruit"/&gt;
 &lt;p&gt;
 Just your regular fruits that made it to the Super category because they are packed with fibres, antioxidants, vitamins and minerals that are not only extra good for your health but help in preventing diseases, in better skin and in general overall well being. 
 &lt;/p&gt;
@@ -38,92 +39,92 @@ So here’s a compilation of some of the easily available super fruits! Remember
              &lt;/p&gt;
         &lt;/div&gt;
         &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/Super-fruits-for-2013/Apples.jpg" alt="Apples" /&gt;&lt;br&gt;
+            &lt;img src="//rockying.com/art/health/Super-fruits-for-2013/Apples.jpg" alt="Apples" /&gt;&lt;br&gt;
             &lt;p&gt;
                &lt;b&gt;Apples&lt;/b&gt; - They were right about an apple a day keeping the doctor away. Make sure you eat it with the skin though. The skin contains quercetin, an antioxidant that contains antihistamine and anti-inflammatory properties. To put it in simpler terms, this will help in preventing heart diseases and allergic reactions. Also, it helps in better lung functioning. Eat it for breakfast, or have it when hunger strikes at brunch time or snack on apples in the evening.&lt;/p&gt;
         &lt;/div&gt;
  &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/Super-fruits-for-2013/Bananas.jpg" alt="Bananas" /&gt;&lt;br&gt;
+            &lt;img src="//rockying.com/art/health/Super-fruits-for-2013/Bananas.jpg" alt="Bananas" /&gt;&lt;br&gt;
             &lt;p&gt;
                &lt;b&gt;Bananas&lt;/b&gt; - The best way to kill your hunger pangs for longer is simple, bananas! They loaded in potassium that help in bone strengthening and neutralize the amount of sodium in one’s diet.. One banana has about 108 calories, much less compared to other snack options. Also, bananas help curb the effects of diarrhoea and constipation - good for your tummy!&lt;/p&gt;
         &lt;/div&gt;
         &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/Super-fruits-for-2013/Cantaloupe.jpg"
+            &lt;img src="//rockying.com/art/health/Super-fruits-for-2013/Cantaloupe.jpg"
                 alt="Cantaloupe" /&gt;&lt;br/&gt;
             &lt;p&gt;
-&lt;b&gt;Cantaloupe&lt;/b&gt; - Ladies, this is the fruit that might help in keeping those wrinkles away and giving you softer, smoother skin! Due to its rich content of Vitamin A , cantaloupe easily makes it to the super fruit category. Vitamin A keeps your eye problems at bay. Also, if you have been smoking (&lt;a href="http://www.rockying.com/a/72" target="_blank"/&gt;which you should let go off right now!&lt;/a&gt;) or are exposed to second hand smoke, then vitamin A rich fruits help in restoring your lungs health. Also, this fruit is rich in potassium that aids in normalizing heart beat and promoting oxygen supply to the brain. 
+&lt;b&gt;Cantaloupe&lt;/b&gt; - Ladies, this is the fruit that might help in keeping those wrinkles away and giving you softer, smoother skin! Due to its rich content of Vitamin A , cantaloupe easily makes it to the super fruit category. Vitamin A keeps your eye problems at bay. Also, if you have been smoking (&lt;a href="//rockying.com/a/72" target="_blank"/&gt;which you should let go off right now!&lt;/a&gt;) or are exposed to second hand smoke, then vitamin A rich fruits help in restoring your lungs health. Also, this fruit is rich in potassium that aids in normalizing heart beat and promoting oxygen supply to the brain. 
                &lt;/p&gt;
         &lt;/div&gt;
  &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/Super-fruits-for-2013/citrus-fruits.jpg"
+            &lt;img src="//rockying.com/art/health/Super-fruits-for-2013/citrus-fruits.jpg"
                 alt="Citrus Fruits" /&gt;&lt;br&gt;
             &lt;p&gt;
 &lt;b&gt;Citrus fruits&lt;/b&gt;- Everything “khatta” (sour) is good for your cleansing! They are storehouses of Vitamin C, that is the disease fighting vitamin - keeping your coughs and colds away, developing your immunity and strengthening your body’s internal defence mechanism. Also, it is a miracle worker for skin problems, age spots, fine lines and all that scare girls! Also, oranges have anti-tumour qualities. The vitamin C in these fruits help your body in absorbing irons much easier. Carry oranges to work, drink a citrus shake in the morning, squeeze lemons over your salads or just drink a fibre rich orange juice for breakfast!
                &lt;/p&gt;
         &lt;/div&gt;
  &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/Super-fruits-for-2013/Grape-Fruit.jpg"
+            &lt;img src="//rockying.com/art/health/Super-fruits-for-2013/Grape-Fruit.jpg"
                 alt="Grapefruits" /&gt;&lt;br&gt;
             &lt;p&gt;
 &lt;b&gt; Grapefruit &lt;/b&gt;- Make sure you find the ruby grapefruit for better health benefits. (The rule is, redder the color, more the antioxidants). A fruit that helps beat cholesterol problems and makes your heart better. The best benefit - it has enzymes that help in burning fat and ultimately aids in losing weight (though nothing works like a good balance of the right diet and exercise!).
                &lt;/p&gt;
         &lt;/div&gt;
 &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/Super-fruits-for-2013/plums.jpg" alt="Plums" /&gt;&lt;br&gt;
+            &lt;img src="//rockying.com/art/health/Super-fruits-for-2013/plums.jpg" alt="Plums" /&gt;&lt;br&gt;
             &lt;p&gt;
 &lt;b&gt; Plums&lt;/b&gt;- The red skin color is enough to prove our point but here’s giving you a little more information on what makes plums a super fruit. Each small plum has only about 30 calories! Yes, its easier to burn that off than a 250 calorie samosa! And that small plum contains around 7 percent of your daily suggested dose of Vitamin C. Also, the Vitamin A in them helps in promoting better vision and also in reproduction and bone growth. Also, a heart healthy snack that aids in reduction of high blood pressure.
                &lt;/p&gt;
         &lt;/div&gt;
 &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/Super-fruits-for-2013/pomegranate_jpg.jpg" alt="Pomegrenate" /&gt;&lt;br&gt;
+            &lt;img src="//rockying.com/art/health/Super-fruits-for-2013/pomegranate_jpg.jpg" alt="Pomegrenate" /&gt;&lt;br&gt;
             &lt;p&gt;
 &lt;b&gt; Pomegranate&lt;/b&gt;- Yes, they are tough to peel but they make you a toughie when it comes to health. Best eaten fresh in its peak season (between September and February), pomegranates are God sent for the skin - prevent premature ageing and acne. It helps prolong the life of fibroblasts, which are cells that are responsible for producing elastin and collagen. Elastin and collagen help keep the skin tone healthy and enhance the skin’s elasticity. It is also the most powerful anti-oxidant fruit. 
                &lt;/p&gt;
         &lt;/div&gt;
 &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/Super-fruits-for-2013/Tomatoes.jpg" alt="Tomato" /&gt;&lt;br&gt;
+            &lt;img src="//rockying.com/art/health/Super-fruits-for-2013/Tomatoes.jpg" alt="Tomato" /&gt;&lt;br&gt;
             &lt;p&gt;
-&lt;b&gt; Tomatoes&lt;/b&gt;- Yes, your plain ol’ tamatar is actually quite the super fruit! We have already talked about &lt;a href="http://www.rockying.com/a/157" target="_blank"/&gt;how it makes you beautiful &lt;/a&gt;because tomato has the powerful antioxidant lycopene that helps in reducing cell damage - another help in skin health. Also, super low in calories making them the perfect ingredient for healthy eating. Put them in your salads with a dash of extra virgin olive oil to derive the best benefits!
+&lt;b&gt; Tomatoes&lt;/b&gt;- Yes, your plain ol’ tamatar is actually quite the super fruit! We have already talked about &lt;a href="//rockying.com/a/157" target="_blank"/&gt;how it makes you beautiful &lt;/a&gt;because tomato has the powerful antioxidant lycopene that helps in reducing cell damage - another help in skin health. Also, super low in calories making them the perfect ingredient for healthy eating. Put them in your salads with a dash of extra virgin olive oil to derive the best benefits!
                &lt;/p&gt;
         &lt;/div&gt;
 &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/Super-fruits-for-2013/papaya.jpg" alt="Papayas" /&gt;&lt;br&gt;
+            &lt;img src="//rockying.com/art/health/Super-fruits-for-2013/papaya.jpg" alt="Papayas" /&gt;&lt;br&gt;
             &lt;p&gt;
 &lt;b&gt; Papayas&lt;/b&gt;- Have a cold during the summers? Beat it with Papayas. Just one cup of papaya a day gives you more Vitamin C than your suggested daily dose! It helps in maintaining vitality, boosting immunity, helps in constipation problems and supports the cardiovascular system too. 
                &lt;/p&gt;
         &lt;/div&gt;
 &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/Super-fruits-for-2013/pumpkins.jpg" alt="Pumpkins" /&gt;&lt;br&gt;
+            &lt;img src="//rockying.com/art/health/Super-fruits-for-2013/pumpkins.jpg" alt="Pumpkins" /&gt;&lt;br&gt;
             &lt;p&gt;
 &lt;b&gt;Pumpkin &lt;/b&gt;- It is a fruit and the seeds are also helpful! Their seeds contain plant based chemicals that help in reducing the “bad” cholesterol. It is also pumped up with alpha and beta carotenes that help in maintaining blood pressure levels. You don’t say “You’re my pumpkin-pumpkin...” just like that ;)
                &lt;/p&gt;
         &lt;/div&gt;
 &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/Super-fruits-for-2013/water-melon.jpg" alt="Water Melons" /&gt;&lt;br&gt;
+            &lt;img src="//rockying.com/art/health/Super-fruits-for-2013/water-melon.jpg" alt="Water Melons" /&gt;&lt;br&gt;
             &lt;p&gt;
 &lt;b&gt;Watermelon&lt;/b&gt; - Another lycopene rich fruit, watermelons have the highest concentration of lycopene than any other fruit or vegetable. Extremely low in calories, watermelon is rich in fibers, Vitamin C, water content and Vitamin A. Also, the perfect summer snack, watermelons also contains the amino acids citrulline and arginine, which can help maintain arteries, blood flow and overall cardiovascular function. 
 &lt;/p&gt;
         &lt;/div&gt;
 &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/Super-fruits-for-2013/Kiwi-Super-Fruit.jpg" alt="Kiwis" title="Kiwis" /&gt;&lt;br&gt;&lt;br&gt;
+            &lt;img src="//rockying.com/art/health/Super-fruits-for-2013/Kiwi-Super-Fruit.jpg" alt="Kiwis" title="Kiwis" /&gt;&lt;br&gt;&lt;br&gt;
             &lt;p&gt;
 &lt;b&gt;Kiwis&lt;/b&gt; - If you suffer from digestive gripes, then kiwi is your Super-fruit. In a study, people who had irritable bowel syndrome (IBS) ate two kiwis a day for six weeks and found a reduction in gripes compared to those who didn't. Also, Kiwi skin is high in fiber and pre-biotic complex carbohydrates.
 &lt;/p&gt;
         &lt;/div&gt;
 &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/Super-fruits-for-2013/Strawberries.jpg" alt="Strawberries" title="Strawberries" /&gt;&lt;br&gt;&lt;br&gt;
+            &lt;img src="//rockying.com/art/health/Super-fruits-for-2013/Strawberries.jpg" alt="Strawberries" title="Strawberries" /&gt;&lt;br&gt;&lt;br&gt;
             &lt;p&gt;
 &lt;b&gt;Strawberries&lt;/b&gt; - Strawberries are an exploding source of vitamin C; a full cup and you are done for the day. They are also full of folic acid, which is good for the heart. The best part, they whiten your teeth naturally! Crush a strawberry to a pulp, then mix with baking soda and blend. Spread the mixture onto your teeth and leave on for 5 minutes. Do every week.
 &lt;/p&gt;
         &lt;/div&gt;
 &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/Super-fruits-for-2013/Pineapples.jpg" alt="Pineapples" /&gt;&lt;br&gt;
+            &lt;img src="//rockying.com/art/health/Super-fruits-for-2013/Pineapples.jpg" alt="Pineapples" /&gt;&lt;br&gt;
             &lt;p&gt;
 &lt;b&gt;Pineapples&lt;/b&gt; - Its super healing powers in reducing bloating makes it worthy of inclusion in the Super fruits. They contain bromelain, an enzyme that helps break down food to reduce bloating. The enzyme also helps fight free radical damage that improves skin texture and reduces fine lines and age spots. Also, due to its high Vitamin C content, it helps in preventing gum problems and gives you the shiny smile (but we highly recommend brushing regularly!)
 &lt;/p&gt;
         &lt;/div&gt;
 &lt;div class="slide"&gt;
-            &lt;img src="http://www.rockying.com/art/health/Super-fruits-for-2013/Red-Grapes.jpg" alt="Red Grapes" /&gt;&lt;br&gt;
+            &lt;img src="//rockying.com/art/health/Super-fruits-for-2013/Red-Grapes.jpg" alt="Red Grapes" /&gt;&lt;br&gt;
             &lt;p&gt;
 &lt;b&gt;Red Grapes&lt;/b&gt;- Another one that puts the shine back into your smile! The malic acid in grapes naturally breaks down the stains and the discolorations on the teeth says Mello, DDS, assistant clinical professor at New York University. Being fat and cholesterol free and low in calories make them one of the best snack options. Also, the vital element is the antioxidant resveratrol, that is critical in preventing cancer, heart diseases and increasing longevity. 
 &lt;/p&gt;
@@ -132,9 +133,9 @@ So here’s a compilation of some of the easily available super fruits! Remember
 The best thing is to follow a mixed bag approach - it is practically not feasible to eat each of these fruits every day. So make sure, you strike a good balance, make sure you do catch up on filling yourself with these super fruits, doing good for yourself! Have a healthy 2013! 
 &lt;/p&gt;
 &lt;h2&gt;You Might Like:&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="http://www.rockying.com/a/157?title=ten-foods-for-a-beautiful-you&amp;ref=category"&gt;10 Foods for a Beautiful You!&lt;/a&gt;&lt;/h3&gt;
-&lt;h3&gt;&lt;a href="http://www.rockying.com/a/228?title=why-breakfast-is-the-best&amp;ref=category"&gt;Why Breakfast is the Best!&lt;/a&gt;&lt;/h3&gt;
-&lt;h3&gt;&lt;a href="http://www.rockying.com/a/218?title=the-way-of-the-vegetarian&amp;ref=category"&gt;The Way of the Vegetarian!&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a href="//rockying.com/a/157?title=ten-foods-for-a-beautiful-you&amp;ref=category"&gt;10 Foods for a Beautiful You!&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a href="//rockying.com/a/228?title=why-breakfast-is-the-best&amp;ref=category"&gt;Why Breakfast is the Best!&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a href="//rockying.com/a/218?title=the-way-of-the-vegetarian&amp;ref=category"&gt;The Way of the Vegetarian!&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;</Text>
@@ -142,4 +143,5 @@ The best thing is to follow a mixed bag approach - it is practically not feasibl
   <WriterEmail>hajraks@gmail.com</WriterEmail>
   <Viewed>0</Viewed>
   <TemplateName />
+  <URL>240</URL>
 </Article>

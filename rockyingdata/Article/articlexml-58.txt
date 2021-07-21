@@ -2,25 +2,25 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>58</ID>
   <Title>Graduate from Reader to Member</Title>
-  <OGImage>http://rudrasofttech.com/rockying/art/Bananas.jpg</OGImage>
+  <MetaTitle>Graduate from Reader to Member</MetaTitle>
+  <OGImage>//rockying.com/art/Bananas.jpg</OGImage>
   <OGDescription>Graduate from Reader to Member</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
   <CreatedBy>0</CreatedBy>
   <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
   <Category>14</Category>
   <Tag>Rockying, Reader, Member, Subscriber</Tag>
   <Status>Publish</Status>
-  <Description>&lt;p&gt;We know that you find our stories interesting and you are our dedicated 
-reader, so why not reflect it. Become our subscribed member so you can 
-enjoy our stories right in your mail box.&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/Bananas.jpg' alt='' /&gt;&lt;p&gt;Graduate from Reader to Member&lt;/p&gt;</Description>
   <Text>&lt;div style="margin: 10px;"&gt;
     
     &lt;p&gt;
-        &lt;img src="http://rudrasofttech.com/rockying/art/Bananas.jpg" title="" alt="" style="width: 250px; float: left;"&gt;Feel like being the part of same bunch.&lt;br&gt;&lt;/p&gt;&lt;p&gt;We know that you find our stories interesting and you are our dedicated reader, so why not reflect it. Become our subscribed member so you can enjoy our stories right in your mail box.&lt;br&gt;&lt;/p&gt;
+        &lt;img src="//rockying.com/art/Bananas.jpg" title="" alt="" style="width: 250px; float: left;"&gt;Feel like being the part of same bunch.&lt;br&gt;&lt;/p&gt;&lt;p&gt;We know that you find our stories interesting and you are our dedicated reader, so why not reflect it. Become our subscribed member so you can enjoy our stories right in your mail box.&lt;br&gt;&lt;/p&gt;
     
     
-&lt;form method="post" action="http://www.rockying.com/Home/Subscribe?content=1"&gt;        &lt;fieldset&gt;
+&lt;form method="post" action="//rockying.com/Home/Subscribe?content=1"&gt;        &lt;fieldset&gt;
             &lt;legend&gt;Subscribe&lt;/legend&gt;
 
             &lt;div class="editor-label"&gt;
@@ -39,16 +39,17 @@ enjoy our stories right in your mail box.&lt;/p&gt;</Description>
                 &lt;span data-valmsg-replace="true" data-valmsg-for="Name" class="field-validation-valid"&gt;
             &lt;/span&gt;&lt;/div&gt;
             &lt;p&gt;
-                &lt;input style="border: medium none; width: 150px;" alt="Subscribe Now" src="http://www.rockying.com/images/Subscribe-Now.gif" type="image"&gt;
+                &lt;input style="border: medium none; width: 150px;" alt="Subscribe Now" src="//rockying.com/images/Subscribe-Now.gif" type="image"&gt;
 
             &lt;/p&gt;
         &lt;/fieldset&gt;
 &lt;/form&gt;&lt;/div&gt;
 &lt;p&gt;
     Note: If you have unsubscribed before, re-submitting your information would reactivate
-    your subscription. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Privacy Note:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;We would never share your email address with any one. Main reason because its lame and we believe in bad Karma.&lt;br&gt;&lt;/p&gt;
-
-    </Text>
+    your subscription. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Privacy Note:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;We would never share your email address with any one. Main reason because its lame and we believe in bad Karma.&lt;br&gt;&lt;/p&gt;</Text>
   <WriterName>Raj Kiran Singh</WriterName>
   <WriterEmail>rajkiran.singh@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <TemplateName />
+  <URL>58</URL>
 </Article>

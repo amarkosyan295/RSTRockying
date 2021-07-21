@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>Indian National Flag Quiz</Title>
-  <OGImage>http://www.rockying.com/art/Awareness/Indian-Tricolour/INDIAN-FLAG-TRICOLOR.jpg</OGImage>
+  <MetaTitle>Indian National Flag Quiz</MetaTitle>
+  <OGImage>//rockying.com/art/Awareness/Indian-Tricolour/INDIAN-FLAG-TRICOLOR.jpg</OGImage>
   <OGDescription>The flag of the Republic of India represents the sentiment and nature of the people of the republic. It became the official flag of Free India on 15 August 1947. We have created a quiz for you to test your knowledge of the Tirangaa</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,9 +13,9 @@
   <Category>20</Category>
   <Tag>Tirangaa, Quiz, Indian flag, indian tricolour, indian national flag</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/Awareness/Indian-Tricolour/INDIAN-FLAG-TRICOLOR.jpg' alt='' /&gt;&lt;p&gt;The flag of the Republic of India represents the sentiment and nature of the people of the republic. It became the official flag of Free India on 15 August 1947. We have created a quiz for you to test your knowledge of the Tirangaa&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/Awareness/Indian-Tricolour/INDIAN-FLAG-TRICOLOR.jpg' alt='' /&gt;&lt;p&gt;The flag of the Republic of India represents the sentiment and nature of the people of the republic. It became the official flag of Free India on 15 August 1947. We have created a quiz for you to test your knowledge of the Tirangaa&lt;/p&gt;</Description>
   <Text>&lt;p style="text-align:center;"&gt;
-&lt;img src="http://www.rockying.com/art/Awareness/Indian-Tricolour/10-facts-about-indian-national-flag.png" alt="Indian National Flag, Tiranga Quiz" /&gt;
+&lt;img src="//rockying.com/art/Awareness/Indian-Tricolour/10-facts-about-indian-national-flag.png" alt="Indian National Flag, Tiranga Quiz" /&gt;
 &lt;/p&gt;
 &lt;div class="rstquestion rkyquestion1"&gt;
     &lt;span class="qindex"&gt;1&lt;/span&gt;
@@ -49,7 +50,7 @@
     &lt;/ul&gt;
 &lt;div class="rstlabel"&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;p style="text-align:center;"&gt;
-&lt;img src="http://www.rockying.com/art/Awareness/Indian-Tricolour/national-flag.jpg" alt="Evolution of Indian National Flag, different versions of Indian Flag" /&gt;
+&lt;img src="//rockying.com/art/Awareness/Indian-Tricolour/national-flag.jpg" alt="Evolution of Indian National Flag, different versions of Indian Flag" /&gt;
 &lt;/p&gt;
 &lt;div class="rstquestion rkyquestion1"&gt;
     &lt;span class="qindex"&gt;4&lt;/span&gt;

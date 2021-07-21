@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>140</ID>
   <Title>World's First Evers.</Title>
-  <OGImage>http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Motor_cycle.jpg</OGImage>
+  <MetaTitle>World's First Evers.</MetaTitle>
+  <OGImage>//rockying.com/art/Initiative/World%20First/First-Motor_cycle.jpg</OGImage>
   <OGDescription>World's First Ever Inventions...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,7 +13,7 @@
   <Category>14</Category>
   <Tag>Inventions, First Evers, World's First</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Motor_cycle.jpg' alt='' /&gt;&lt;p&gt;World's First Ever Inventions...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/Initiative/World%20First/First-Motor_cycle.jpg' alt='' /&gt;&lt;p&gt;World's First Ever Inventions...&lt;/p&gt;</Description>
   <Text>&lt;div&gt;
     &lt;div&gt;
         &lt;button id="prevslide" type='button' style='width: 40px;  height:40px;
@@ -29,7 +30,7 @@
             &lt;div class="thumbnail"&gt;
                 &lt;h4&gt;
                     World’s First Digital Camera (1975) Created by Kodak's engineer Steve Sasson&lt;/h4&gt;
-                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Digital-Camera.jpg"
+                &lt;img src="//rockying.com/art/Initiative/World%20First/First-Digital-Camera.jpg"
                     title="First Digital Camera" alt="" /&gt;
                 &lt;p&gt;
                     In December 1975, Kodak engineer Steve Sasson invented something that would, decades
@@ -51,7 +52,7 @@
                 &lt;h4&gt;
                     World's First Motel (1925): Motel InnWorld’s First Motel
                 &lt;/h4&gt;
-                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Motel.jpg"
+                &lt;img src="//rockying.com/art/Initiative/World%20First/First-Motel.jpg"
                     title="First Motel" alt=""  /&gt;
                 &lt;p&gt;
                     Motel Inn in San Luis Obispo, California, is the world’s first motel. It was built
@@ -69,7 +70,7 @@
                 &lt;h4&gt;
                     World's First Album Cover (1938): Smash Song Hits by Rodgers and Hart:
                 &lt;/h4&gt;
-                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Album-Cover.jpg"
+                &lt;img src="//rockying.com/art/Initiative/World%20First/First-Album-Cover.jpg"
                     title="First Album Cover" alt="" /&gt;
                 &lt;p&gt;
                     Before Alex Steinweiss, then a 23-year-old designer, invented album covers in 1938
@@ -85,7 +86,7 @@
                 &lt;h4&gt;
                     World's First Novel (1007): Tale of Genji
                 &lt;/h4&gt;
-                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Novel.jpg"
+                &lt;img src="//rockying.com/art/Initiative/World%20First/First-Novel.jpg"
                     title="First Novel" alt=""  /&gt;
                 &lt;p&gt;
                     More than a thousand years ago, on 1007, a Japanese court lady put the finishing
@@ -105,7 +106,7 @@
                 &lt;h4&gt;
                     World's First Web Server and Web Site (1990): a NeXT computer at CERN
                 &lt;/h4&gt;
-                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Web-Server.jpg"
+                &lt;img src="//rockying.com/art/Initiative/World%20First/First-Web-Server.jpg"
                     title="First Web Server" alt=""  /&gt;
                 &lt;p&gt;
                     Info.cern.ch was the address of the world's first-ever web site and web server,
@@ -121,7 +122,7 @@
                 &lt;h4&gt;
                     World's First Motorcycle (1885): Daimler's "riding car":
                 &lt;/h4&gt;
-                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Motor_cycle.jpg"
+                &lt;img src="//rockying.com/art/Initiative/World%20First/First-Motor_cycle.jpg"
                     title="First MotorCycle" alt=""  /&gt;
                 &lt;p&gt;
                     The First Motorcycle was designed and built by the German inventors Gottlieb Daimler
@@ -138,7 +139,7 @@
                 &lt;h4&gt;
                     World's First X-Ray (1895): Röntgen's wife hand
                 &lt;/h4&gt;
-                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-X-ray.jpg"
+                &lt;img src="//rockying.com/art/Initiative/World%20First/First-X-ray.jpg"
                     title="First X-RAy" alt=""  /&gt;
                 &lt;p&gt;
                     In 1895 Wilhelm Conrad Röntgen, professor of physics the University of Wurburg in
@@ -165,7 +166,7 @@
                 &lt;h4&gt;
                     World's First Computer Mouse (1964): by Douglas Engelbart
                 &lt;/h4&gt;
-                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Computer-Mouse.jpg"
+                &lt;img src="//rockying.com/art/Initiative/World%20First/First-Computer-Mouse.jpg"
                     title="First Computer Mouse" alt=""  /&gt;
                 &lt;p&gt;
                     The world's first computer mouse was made by Douglas Engelbart in 1964, it consisted
@@ -181,7 +182,7 @@
                 &lt;h4&gt;
                     World's First Skyscraper (1885): Home Insurance Building in Chicago
                 &lt;/h4&gt;
-                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Skyscraper.jpg"
+                &lt;img src="//rockying.com/art/Initiative/World%20First/First-Skyscraper.jpg"
                     title="First Skyscraper" alt="" /&gt;
                 &lt;p&gt;
                     Considered to be the first skyscraper in the world due to the building's unique
@@ -202,7 +203,7 @@
                 &lt;h4&gt;
                     World's First Concept Car (1938): Buick Y-Job
                 &lt;/h4&gt;
-                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Concept-car.jpg"
+                &lt;img src="//rockying.com/art/Initiative/World%20First/First-Concept-car.jpg"
                     title="First Concept Car" alt=""  /&gt;
                 &lt;p&gt;
                     Designed in 1938 by the famous General Motors designer Harley Earl, the Buick Y-Job
@@ -219,7 +220,7 @@
                 &lt;h4&gt;
                     World's First MP3 Player (1998): MPMan 32MB
                 &lt;/h4&gt;
-                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Mp3-player.jpg"
+                &lt;img src="//rockying.com/art/Initiative/World%20First/First-Mp3-player.jpg"
                     title="First Mp3 Player" alt="" /&gt;
                 &lt;p&gt;
                     Released in 1998, the Eiger Labs MPMan was the world's first MP3 player, boasting
@@ -237,7 +238,7 @@
                 &lt;p&gt;
                     World's First Crossword (1913): Arthur Wynne's Invention
                 &lt;/p&gt;
-                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Crossword.jpg"
+                &lt;img src="//rockying.com/art/Initiative/World%20First/First-Crossword.jpg"
                     title="First Crossword" alt=""  /&gt;
                 &lt;p&gt;
                     In 1913, Arthur Wynne had the job of devising the weekly puzzle page for Fun, the
@@ -253,7 +254,7 @@
                 &lt;h4&gt;
                     World's First Microprocessor (1971): Intel 4004
                 &lt;/h4&gt;
-                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Microprocessor.jpg"
+                &lt;img src="//rockying.com/art/Initiative/World%20First/First-Microprocessor.jpg"
                     title="First Microprocessor" alt=""  /&gt;
                 &lt;p&gt;
                     In November, 1971, a company called Intel publicly introduced the world's first
@@ -278,7 +279,7 @@
                 &lt;h4&gt;
                     World's First Magazine (1731): The Gentleman's Magazine
                 &lt;/h4&gt;
-                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Magazine.jpg"
+                &lt;img src="//rockying.com/art/Initiative/World%20First/First-Magazine.jpg"
                     title="First Magazine" alt=""  /&gt;
                 &lt;p&gt;
                     The Gentleman's Magazine, first published in 1731, in London, is considered to have
@@ -296,7 +297,7 @@
                 &lt;h4&gt;
                     World's First Photograph (1826): "View from the Window at Le Gras"
                 &lt;/h4&gt;
-                &lt;img src="http://rudrasofttech.com/rockying/art/Initiative/World%20First/First-Photograph.jpg"
+                &lt;img src="//rockying.com/art/Initiative/World%20First/First-Photograph.jpg"
                     title="First Photograph" alt="" /&gt;
                 &lt;p&gt;
                     Centuries of advances in chemistry and optics, including the invention of the camera
@@ -312,10 +313,9 @@
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;</Text>
-  <SlideShowOn>true</SlideShowOn>
-  <QuestionOn>false</QuestionOn>
   <WriterName>Raj Kiran Singh</WriterName>
   <WriterEmail>rajkiran.singh@gmail.com</WriterEmail>
   <Viewed>0</Viewed>
-  <Promotion />
+  <TemplateName />
+  <URL>140</URL>
 </Article>

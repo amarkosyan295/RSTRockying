@@ -16,7 +16,7 @@
   <Description>&lt;img src='//www.rockying.com/art/bollywood/Cult-Classics-4/Cult-Classics.jpg' alt='' /&gt;&lt;p&gt;Balraj Sahni in Garm Hawa, the best ever partition film was made in the 70s. Another glorious decade of Bollywood. In continuation with our previous edition of cult classics we bring to you some more handpicked delicacies of Hindi cinema...&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
     The 70s of Indian cinema was another glorious decade. In continuation with our previous
-    edition of &lt;a href="http://www.rockying.com/a/197"&gt;‘Cult Classics’&lt;/a&gt;, we bring
+    edition of &lt;a href="//rockying.com/a/197"&gt;‘Cult Classics’&lt;/a&gt;, we bring
     to you another handpicked collection of some delicacies of Hindi cinema.
     &lt;br&gt;
     One connecting factor in the classics we call ‘cult’ is the fact that they were
@@ -35,7 +35,7 @@
     &lt;strong&gt;Story:&lt;/strong&gt; Hrishikesh Mukherjee
 &lt;/p&gt;
 
-&lt;img src="http://www.rudrasofttech.com/rockying/art/bollywood/Cult-Classics-4/Abhimaan.jpg"
+&lt;img src="//rockying.com/art/bollywood/Cult-Classics-4/Abhimaan.jpg"
     alt="Abhimaan" /&gt;
 &lt;p&gt;
     Best remembered for the wonderful music (that fetched S.D. Burman the Filmfare),
@@ -63,7 +63,7 @@
 &lt;p&gt;
     &lt;strong&gt;Story:&lt;/strong&gt; Khwaja Ahmad Abbas, Jainendra Jain and V.P. Sathe.&lt;/p&gt;
 
-&lt;img src="http://www.rudrasofttech.com/rockying/art/bollywood/Cult-Classics-4/Bobby.jpg"
+&lt;img src="//rockying.com/art/bollywood/Cult-Classics-4/Bobby.jpg"
     alt="Bobby" /&gt;
 &lt;p&gt;
     A blockbuster of the year 1973; Bobby is counted as Top 25 Must See Bollywood movies.
@@ -87,7 +87,7 @@
 &lt;p&gt;
     &lt;strong&gt;Story:&lt;/strong&gt; Kaifi Azmi (adapted from an unpublished story by Ismat Chugtai)&lt;/p&gt;
 
-&lt;img src="http://www.rudrasofttech.com/rockying/art/bollywood/Cult-Classics-4/Garam-Hawa.jpg"
+&lt;img src="//rockying.com/art/bollywood/Cult-Classics-4/Garam-Hawa.jpg"
     alt="Garam Hawa" /&gt;
 &lt;p&gt;
     A man is torn between the love for his country and the political pressure to forcibly
@@ -110,7 +110,7 @@
     &lt;strong&gt;Director:&lt;/strong&gt; Ramesh Sippy&lt;/p&gt;
 &lt;p&gt;
     &lt;strong&gt;Story:&lt;/strong&gt; Salim-Javed&lt;/p&gt;
-&lt;img src="http://www.rudrasofttech.com/rockying/art/bollywood/Cult-Classics-4/Sholay.jpg"
+&lt;img src="//rockying.com/art/bollywood/Cult-Classics-4/Sholay.jpg"
     alt="Sholay" /&gt;
 &lt;p&gt;
     Sholay isn’t just a movie anymore, it's a cult in itself. Included in the greatest
@@ -142,10 +142,10 @@
 &lt;p&gt;
     &lt;strong&gt;Story:&lt;/strong&gt; Salim-Javed&lt;/p&gt;
 
-&lt;img src="http://www.rudrasofttech.com/rockying/art/bollywood/Cult-Classics-4/Deewar.jpg"
+&lt;img src="//rockying.com/art/bollywood/Cult-Classics-4/Deewar.jpg"
     alt="DEEWAR" /&gt;
 &lt;p&gt;
-    A &lt;a href="http://www.rockying.com/a/188"&gt;tale of two brothers&lt;/a&gt;, and the imperishable
+    A &lt;a href="//rockying.com/a/188"&gt;tale of two brothers&lt;/a&gt;, and the imperishable
     ‘wall’ between them, Deewar is one of India’s biggest hits and the perfect mould
     of an Indian cinematic experience. From extreme melodrama to crime and to family
     disintegrations, Deewar epitomizes Bollywood to the core.&lt;/p&gt;
@@ -155,7 +155,7 @@
     and his mother decide to educate the younger. The younger grows to become a cop
     while the elder goes astray. The movie then portrays the struggle by the righteous
     brother to bring his brother back to justice and the right path leading to obviously
-    a tragic end. Still known for its &lt;a href="http://www.rockying.com/a/35"&gt;hard hitting
+    a tragic end. Still known for its &lt;a href="//rockying.com/a/35"&gt;hard hitting
         dialogues&lt;/a&gt; and powerful acting Deewar earned nine award nominations at the
     Filmfare that year, winning seven of them including - Best Film, Best Director,
     Best Supporting Actor, Best Story, Best Dialogue, Best Screenplay and Best Sound.&lt;/p&gt;

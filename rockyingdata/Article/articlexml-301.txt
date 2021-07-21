@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>What Comes After Laughter? - Good Health</Title>
-  <OGImage>http://www.rockying.com/art/health/Health-is-Happiness/Laughter-Instant-Vacation.jpg</OGImage>
+  <MetaTitle>What Comes After Laughter? - Good Health</MetaTitle>
+  <OGImage>//rockying.com/art/health/Health-is-Happiness/Laughter-Instant-Vacation.jpg</OGImage>
   <OGDescription>Everyone loves a good chuckle once in a while and top-notch political figures are no exception...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,9 +13,9 @@
   <Category>5</Category>
   <Tag>Health, Happiness,</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/health/Health-is-Happiness/Laughter-Instant-Vacation.jpg' alt='' /&gt;&lt;p&gt;Everyone loves a good chuckle once in a while and top-notch political figures are no exception...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/health/Health-is-Happiness/Laughter-Instant-Vacation.jpg' alt='' /&gt;&lt;p&gt;Everyone loves a good chuckle once in a while and top-notch political figures are no exception...&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
-&lt;img src="http://www.rockying.com/art/health/Health-is-Happiness/Laughter-Instant-Vacation.jpg" title="Health is Happiness" class="pull-right" style="width: 400px; float:left;"&gt;
+&lt;img src="//rockying.com/art/health/Health-is-Happiness/Laughter-Instant-Vacation.jpg" title="Health is Happiness" class="pull-right" style="width: 400px; float:left;"&gt;
 Everyone loves a good chuckle once in a while and top-notch political figures are no exception. Julia Gillard, the former Australian Prime Minister is definitely one in this category and she can be stoically funny, sometimes at the expense of others, but she doesn't spare herself either.
 &lt;/p&gt;
 &lt;p&gt;
@@ -34,7 +35,7 @@ It helps in building relationships and keeping them strong, plus it keeps your m
 &lt;li&gt;&lt;b&gt;Why leave the Lungs unsung?&lt;/b&gt;- &lt;p&gt;The chest muscles and the diaphragm will tighten and air will be forced out of your lungs. It will gush right through your windpipe and make your vocal cords vibrate and then emit those unfettered vowel sounds that we call a ho-ho or a ha-ha.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;b&gt;Surprise Your Eyes&lt;/b&gt;- &lt;p&gt;If whatever has you going, is truly funny, your eyes will begin to water.&lt;/p&gt; &lt;/li&gt;
 &lt;li&gt;&lt;b&gt;Adding to Muscle Power&lt;/b&gt;- &lt;p&gt;Wile the core and facial muscles tense-up, the rest of the muscles will become less coordinated and will weaken. If you are laughing really hard, you will find it difficult or almost impossible to maintain a straight gait. In the sidelines, your obliques are also working very hard to expel air and will help shed a few calories.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;In Harmony with Hormones&lt;/b&gt;- &lt;p&gt;A side-splitting, hearty laugh will take the cork off the endorphins. &lt;img src="http://www.rockying.com/art/health/Health-is-Happiness/happiness-good-for-health.jpg" title="Health is Happiness" class="pull-right" style="float:left;"&gt;These are the natural opiates that are generally triggered by exercise and your pain threshold will also temporarily head northwards. Loads of chuckles also have the potential to wind-down cortisol (the stress hormone) levels. Excessive cortisol is directly linked to depression and exhaustion.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;In Harmony with Hormones&lt;/b&gt;- &lt;p&gt;A side-splitting, hearty laugh will take the cork off the endorphins. &lt;img src="//rockying.com/art/health/Health-is-Happiness/happiness-good-for-health.jpg" title="Health is Happiness" class="pull-right" style="float:left;"&gt;These are the natural opiates that are generally triggered by exercise and your pain threshold will also temporarily head northwards. Loads of chuckles also have the potential to wind-down cortisol (the stress hormone) levels. Excessive cortisol is directly linked to depression and exhaustion.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/p&gt;
 &lt;h2&gt;Set Your Emotions into Motion&lt;/h2&gt;
@@ -49,4 +50,5 @@ The fact of the matter is that laughter helps in keeping the body healthy and th
   <WriterEmail>pdes17@gmail.com</WriterEmail>
   <Viewed>0</Viewed>
   <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <URL>301</URL>
 </Article>

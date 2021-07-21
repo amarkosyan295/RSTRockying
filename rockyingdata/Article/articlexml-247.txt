@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>Most Sensitive Love Stories Bollywood Ever Produced!</Title>
-  <OGImage>http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/Socha-Na-tha.jpg</OGImage>
+  <MetaTitle>Most Sensitive Love Stories Bollywood Ever Produced!</MetaTitle>
+  <OGImage>//rockying.com/art/bollywood/Love-Stories-Bollywood/Socha-Na-tha.jpg</OGImage>
   <OGDescription>Love, romance and passion have forever been synonymous with Bollywood. We love our love stories so much that every movie, whether an action flick or a slick thriller, produced in the Bollywood factories needs to have a huge...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,7 +13,7 @@
   <Category>4</Category>
   <Tag>Valentine's, Love Stories, Love in Bollywood, Prem Rog, Barfi, Jaane tu Ya Jaane Na, Mughl-e-Azam, Kati Patang, Dil se, Veer Zara, Mili, Hum Tum, Socha Na tha, Bombay, Choti Si Baat.</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/Socha-Na-tha.jpg' alt='' /&gt;&lt;p&gt;Love, romance and passion have forever been synonymous with Bollywood. We love our love stories so much that every movie, whether an action flick or a slick thriller, produced in the Bollywood factories needs to have a huge...&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/bollywood/Love-Stories-Bollywood/Socha-Na-tha.jpg' alt='' /&gt;&lt;p&gt;Love, romance and passion have forever been synonymous with Bollywood. We love our love stories so much that every movie, whether an action flick or a slick thriller, produced in the Bollywood factories needs to have a huge...&lt;/p&gt;</Description>
   <Text>&lt;h6&gt;
     It's Valentine's! And we talk 'Love' today.&lt;img alt="Big grin" width="40" height="51"
         src="http://www.sherv.net/cm/emo/happy/big-grin-smiley-emoticon.gif"&gt;
@@ -34,7 +35,7 @@
             JAANE TU YA JANE NA (Imran-Genelia)
         &lt;/h4&gt;
 &lt;hr&gt;
-        &lt;img src="http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/Jaane-Tu-Ya-jane-Na.JPG"
+        &lt;img src="//rockying.com/art/bollywood/Love-Stories-Bollywood/Jaane-Tu-Ya-jane-Na.JPG"
             alt="Jaane Tu Ya Jane Na" align="middle" /&gt;
         &lt;p&gt;
             The comical love story between two college-going friends left many of us laughing,
@@ -54,7 +55,7 @@
             MUGHAL-E-AZAM (Dilip Kumar-Madhubala)
         &lt;/h4&gt;
 &lt;hr&gt;
-        &lt;img src="http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/mughal-e-azam.jpg"
+        &lt;img src="//rockying.com/art/bollywood/Love-Stories-Bollywood/mughal-e-azam.jpg"
             alt="Mughal-e-azam" /&gt;
         &lt;p&gt;
             “Pyar kiya to darna kya..." became the theme song for lovers who revolted against
@@ -74,7 +75,7 @@
         &lt;h4&gt;
             MILI (Amitabh-Jaya)&lt;/h4&gt;
 &lt;hr&gt;
-        &lt;img src="http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/Mili.jpg"
+        &lt;img src="//rockying.com/art/bollywood/Love-Stories-Bollywood/Mili.jpg"
             alt="Mili" /&gt;
         &lt;p&gt;
             Hrishikesh Mukherjee’s Mili remained one of the best movies made by mastero of the
@@ -93,7 +94,7 @@
         &lt;h4&gt;
             VEER ZARA (Shahrukh-Preity)&lt;/h4&gt;
 &lt;hr&gt;
-        &lt;img src="http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/veer-zaara.jpg"
+        &lt;img src="//rockying.com/art/bollywood/Love-Stories-Bollywood/veer-zaara.jpg"
             alt="Veer Zara" /&gt;
         &lt;p&gt;
             The grandmaster of Bollywood love stories, Yash Chopra, took us beyond borders in
@@ -110,7 +111,7 @@
         &lt;h4&gt;
             HUM TUM (Saif-Rani)&lt;/h4&gt;
 &lt;hr&gt;
-        &lt;img src="http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/hum-tum.jpg"
+        &lt;img src="//rockying.com/art/bollywood/Love-Stories-Bollywood/hum-tum.jpg"
             alt="Hum Tum" /&gt;
         &lt;p&gt;
             Hum Tum gave us a love story that we had seen so often in lives- the inexplicable
@@ -130,7 +131,7 @@
             SOCHA NA THA (Abhay-Ayesha)
         &lt;/h4&gt;
 &lt;hr&gt;
-        &lt;img src="http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/Socha-Na-tha.jpg"
+        &lt;img src="//rockying.com/art/bollywood/Love-Stories-Bollywood/Socha-Na-tha.jpg"
             alt="Scha Na Tha" /&gt;
         &lt;p&gt;
             This was the debut movie of director Imtiaz Ali, who is well on his way to become
@@ -151,7 +152,7 @@
         &lt;h4&gt;
             DIL SE (Shahrukh-Manisha)&lt;/h4&gt;
 &lt;hr&gt;
-        &lt;img src="http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/Dil-Se-Still.jpg"
+        &lt;img src="//rockying.com/art/bollywood/Love-Stories-Bollywood/Dil-Se-Still.jpg"
             alt="Dil Se" /&gt;
         &lt;p&gt;
             Love story of a deranged terrorist and a chain smoking AIR journalist doesn’t sound
@@ -168,7 +169,7 @@
         &lt;h4&gt;
             BOMBAY (Arvind-Manisha)&lt;/h4&gt;
 &lt;hr&gt;
-        &lt;img src="http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/Bombay.jpg"
+        &lt;img src="//rockying.com/art/bollywood/Love-Stories-Bollywood/Bombay.jpg"
             alt="Bombay" /&gt;
         &lt;p&gt;
             Love has no religion. And all religions are basically loved. Mani Ratnam again gave
@@ -185,7 +186,7 @@
         &lt;h4&gt;
             CHHOTI SI BAAT (Amol-Vidya)&lt;/h4&gt;
 &lt;hr&gt;
-        &lt;img src="http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/choti-si-baat.jpg"
+        &lt;img src="//rockying.com/art/bollywood/Love-Stories-Bollywood/choti-si-baat.jpg"
             alt="Chhoti Si Baat" /&gt;
         &lt;p&gt;
             A simple recipe of the love story of ordinary office going, local bus travelling,
@@ -203,7 +204,7 @@
         &lt;h4&gt;
             KATI PATANG (Rajesh-Asha)&lt;/h4&gt;
 &lt;hr&gt;
-        &lt;img src="http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/kati-patang.jpg"
+        &lt;img src="//rockying.com/art/bollywood/Love-Stories-Bollywood/kati-patang.jpg"
             alt="Kati Patang" /&gt;
         &lt;p&gt;
             Kati Patang is a tale of a girl Madhavi (Asha Parekh) with a broken heart and how
@@ -220,7 +221,7 @@
         &lt;h4&gt;
             BARFI (Ranbir-Priyanka)&lt;/h4&gt;
 &lt;hr&gt;
-        &lt;img src="http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/Barfi_Still.jpg"
+        &lt;img src="//rockying.com/art/bollywood/Love-Stories-Bollywood/Barfi_Still.jpg"
             alt="Barfi" /&gt;
         &lt;p&gt;
             Bollywood doesn’t do love stories of deaf-mute and autistic people. Thankfully someone
@@ -238,7 +239,7 @@
         &lt;h4&gt;
             PREM ROG (Rishi-Padmini)&lt;/h4&gt;
 &lt;hr&gt;
-        &lt;img src="http://www.rockying.com/art/bollywood/Love-Stories-Bollywood/prem-rog.jpg"
+        &lt;img src="//rockying.com/art/bollywood/Love-Stories-Bollywood/prem-rog.jpg"
             alt="Prem Rog" /&gt;
         &lt;p&gt;
             This sensitive and arousing tale is about Manorama (Padmini Kolhapure), the chirpy

@@ -2,7 +2,8 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>Good Uses of Salt</Title>
-  <OGImage>http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Good-Uses-of-Salt/7-remove-stains-from-your-coffee-pot.jpg</OGImage>
+  <MetaTitle>Good Uses of Salt</MetaTitle>
+  <OGImage>//rockying.com/art/Do-It-Yourself-Slide-Show/Good-Uses-of-Salt/7-remove-stains-from-your-coffee-pot.jpg</OGImage>
   <OGDescription>Same very good uses of salt</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -12,12 +13,12 @@
   <Category>19</Category>
   <Tag>Do it yourself tips, common salt tips</Tag>
   <Status>Publish</Status>
-  <Description>&lt;img src='http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Good-Uses-of-Salt/7-remove-stains-from-your-coffee-pot.jpg' alt='' /&gt;&lt;p&gt;Same very good uses of salt&lt;/p&gt;</Description>
+  <Description>&lt;img src='//rockying.com/art/Do-It-Yourself-Slide-Show/Good-Uses-of-Salt/7-remove-stains-from-your-coffee-pot.jpg' alt='' /&gt;&lt;p&gt;Same very good uses of salt&lt;/p&gt;</Description>
   <Text>&lt;ol&gt;
     &lt;li&gt;
         &lt;h3&gt;
             Ants cant stand Salt&lt;/h3&gt;
-        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Good-Uses-of-Salt/1-deter-ants.jpg"
+        &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/Good-Uses-of-Salt/1-deter-ants.jpg"
             alt="Deter Ants" /&gt;
         &lt;p&gt;
             Sprinkle salt around ants path or cracks.&lt;/p&gt;
@@ -25,7 +26,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             Grass and Weeds hate Salt as well&lt;/h3&gt;
-        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Good-Uses-of-Salt/2-killing-grass-and-weeds-growing-in-cracks-in-your-driveway.jpg"
+        &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/Good-Uses-of-Salt/2-killing-grass-and-weeds-growing-in-cracks-in-your-driveway.jpg"
             alt="Salt kilss grass and weeds" /&gt;
         &lt;p&gt;
             Put salt on grass patch and pour hot water.&lt;/p&gt;
@@ -33,7 +34,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             Get Rid of Fleas&lt;/h3&gt;
-        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Good-Uses-of-Salt/3-say-goodbye-to-fleas.jpg"
+        &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/Good-Uses-of-Salt/3-say-goodbye-to-fleas.jpg"
             alt="Bye bye fleas" /&gt;
         &lt;p&gt;
             Wash your pets blanket, house or resting area with salt water. Sprinkle some salt
@@ -43,7 +44,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             Picking dropped eggs&lt;/h3&gt;
-        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Good-Uses-of-Salt/4-pick-up-a-dropped-egg.jpg"
+        &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/Good-Uses-of-Salt/4-pick-up-a-dropped-egg.jpg"
             alt="" /&gt;
         &lt;p&gt;
             If you drop an egg on the kitchen floor, sprinkle salt on the mess and leave it
@@ -52,7 +53,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             Clean up oven spills quickly&lt;/h3&gt;
-        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Good-Uses-of-Salt/5-clean-up-oven-spills-quickly.jpg"
+        &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/Good-Uses-of-Salt/5-clean-up-oven-spills-quickly.jpg"
             alt="" /&gt;&lt;p&gt;
                 If a pie or casserole bubbles over in the oven, pour a handful of salt on top of
                 the spill. It won’t smoke, smell and, most importantly, will bake into a crust that
@@ -61,7 +62,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             Clean brown spots off your iron&lt;/h3&gt;
-        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Good-Uses-of-Salt/6clean-brown-spots-off-your-iron.jpg"
+        &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/Good-Uses-of-Salt/6clean-brown-spots-off-your-iron.jpg"
             alt="" /&gt;&lt;p&gt;
                 Simply sprinkle salt on a sheet of waxed paper, slide the iron across it and rub
                 lightly with silver polish. Your iron will look like brand-new in no time.&lt;/p&gt;
@@ -69,7 +70,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             Remove stains from your coffee pot&lt;/h3&gt;
-        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Good-Uses-of-Salt/7-remove-stains-from-your-coffee-pot.jpg"
+        &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/Good-Uses-of-Salt/7-remove-stains-from-your-coffee-pot.jpg"
             alt="" /&gt;&lt;p&gt;
                 Fill it with 1/4 cup of table salt and a dozen ice cubes. Swish the mixture around,
                 let it sit for half an hour, fill it with cold water and rinse. Your coffee pot
@@ -78,7 +79,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             Keep your windshield frost-free&lt;/h3&gt;
-        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Good-Uses-of-Salt/8-keep-your-windshield-frost-free.jpg"
+        &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/Good-Uses-of-Salt/8-keep-your-windshield-frost-free.jpg"
             alt="" /&gt;
         &lt;p&gt;
             Dip a sponge into salt water and rub it on windows, and they won’t frost up even
@@ -87,7 +88,7 @@
     &lt;li&gt;
         &lt;h3&gt;
             Shell nuts more easily&lt;/h3&gt;
-        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Good-Uses-of-Salt/9-shell-nuts-more-easily.jpg"
+        &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/Good-Uses-of-Salt/9-shell-nuts-more-easily.jpg"
             alt="" /&gt;
         &lt;p&gt;
             Soak pecans and walnuts in salt water for a few hours before shelling them. Doing
@@ -96,17 +97,16 @@
     &lt;li&gt;
         &lt;h3&gt;
             Drip-proof candles&lt;/h3&gt;
-        &lt;img src="http://www.rockying.com/art/Do-It-Yourself-Slide-Show/Good-Uses-of-Salt/10-drip-proof-candles.jpg"
+        &lt;img src="//rockying.com/art/Do-It-Yourself-Slide-Show/Good-Uses-of-Salt/10-drip-proof-candles.jpg"
             alt="" /&gt;
         &lt;p&gt;
             If you soak new candles in a strong salt solution for a few hours, then dry them
             well, they won’t drip when you burn them.&lt;/p&gt;
     &lt;/li&gt;
 &lt;/ol&gt;</Text>
-  <SlideShowOn>false</SlideShowOn>
-  <QuestionOn>false</QuestionOn>
   <WriterName>Vratika</WriterName>
   <WriterEmail>vratika@rudrasofttech.com</WriterEmail>
   <Viewed>0</Viewed>
-  <Promotion />
+  <TemplateName />
+  <URL>254</URL>
 </Article>

@@ -2,6 +2,7 @@
 <Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ID>0</ID>
   <Title>The Little girl went to pharmacy</Title>
+  <MetaTitle>The Little girl went to pharmacy</MetaTitle>
   <OGImage>http://2.bp.blogspot.com/_wuSqJG5bIKE/TU6F1S_ryuI/AAAAAAAAAzQ/74Nj0Jl1tx8/s1600/Miracles%2BHappen.jpg</OGImage>
   <OGDescription>The Little girl went to pharmacy</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
@@ -12,7 +13,7 @@
   <Category>23</Category>
   <Tag>Story, Miracle</Tag>
   <Status>Publish</Status>
-  <Description>&lt;p&gt;A little girl went to her bedroom and pulled a glass jelly jar from its hiding place in the closet. She poured the change out on the floor and counted it carefully. Three times even!! The total had to be exactly perfect. No chance here for mistakes.&lt;/p&gt;</Description>
+  <Description>&lt;img src='http://2.bp.blogspot.com/_wuSqJG5bIKE/TU6F1S_ryuI/AAAAAAAAAzQ/74Nj0Jl1tx8/s1600/Miracles%2BHappen.jpg' alt='' /&gt;&lt;p&gt;The Little girl went to pharmacy&lt;/p&gt;</Description>
   <Text>&lt;p&gt;
     A little girl went to her bedroom and pulled a glass jelly jar from its hiding place
     in the closet.&lt;/p&gt;
@@ -126,10 +127,9 @@
 &lt;p&gt;
     But the treasure inside for you to see is the treasure of friendship you've granted
     to me.&lt;/p&gt;</Text>
-  <SlideShowOn>false</SlideShowOn>
-  <QuestionOn>false</QuestionOn>
   <WriterName>Unknown</WriterName>
   <WriterEmail>Unknown@rockying.com</WriterEmail>
   <Viewed>0</Viewed>
-  <Promotion />
+  <TemplateName />
+  <URL>195</URL>
 </Article>
