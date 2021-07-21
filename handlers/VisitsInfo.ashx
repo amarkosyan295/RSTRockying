@@ -8,16 +8,16 @@ using System.IO;
 public class VisitsInfo : IHttpHandler
 {
 
-        private string websiteId = "1";
+    private string websiteId = "1";
     public void ProcessRequest(HttpContext context)
     {
-            string s = "";
+        string s = "";
         try
         {
             if (context.Request.QueryString["u"] != null)
             {
                 WebRequest req;
-                req = WebRequest.Create(string.Format("http://vtracker.rudrasofttech.com/report/count/{0}?path={1}",websiteId, context.Request.QueryString["u"]));
+                req = WebRequest.Create(string.Format("http://vtracker.rudrasofttech.com/report/count/{0}?path={1}", websiteId, context.Request.QueryString["u"]));
                 Stream objStream;
                 objStream = req.GetResponse().GetResponseStream();
                 StreamReader objReader = new StreamReader(objStream);
