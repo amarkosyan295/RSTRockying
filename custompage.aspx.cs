@@ -30,7 +30,7 @@ public partial class custompage : BasePage
             }
             if (pname != "home")
             {
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     int pid = (from u in dc.CustomPages where u.Name == pname && u.Status == (byte)PostStatusType.Publish select u.ID).SingleOrDefault();
                     CP = Utility.Deserialize<CPage>(System.IO.File.ReadAllText(Server.MapPath(string.Format("{1}/cpagexml-{0}.txt", pid, Utility.CustomPageFolder))));
@@ -46,7 +46,7 @@ public partial class custompage : BasePage
             else
             {
                 HPM = new HomePageModel();
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     var items = (from t in dc.Posts
                                  where t.Status == (byte)PostStatusType.Publish

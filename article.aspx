@@ -182,4 +182,7 @@
     </div>
     <% }
         }%>
+    <script>
+        setTimeout(function () { $("#subscribeBtn").click(); }, 5000);
+    </script>
 </asp:Content>

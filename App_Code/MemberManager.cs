@@ -11,7 +11,7 @@ namespace Rockying.Models
         {
             try
             {
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     int count = (from t in dc.Members where t.Email == username && t.Password == password && t.Status == (byte)GeneralStatusType.Active select t).Count();
                     if (count == 1)
@@ -34,7 +34,7 @@ namespace Rockying.Models
         {
             try
             {
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     Member m = (from t in dc.Members where t.Email == username select t).SingleOrDefault();
                     if (m != null)
@@ -65,7 +65,7 @@ namespace Rockying.Models
         {
             try
             {
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     var m = (from t in dc.Members where t.Email == username select t).SingleOrDefault();
                     m.MemberName = name;
@@ -96,7 +96,7 @@ namespace Rockying.Models
         {
             try
             {
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     var m = (from t in dc.Members where t.Email == username select t).SingleOrDefault();
                     m.MemberName = name;
@@ -116,7 +116,7 @@ namespace Rockying.Models
         {
             try
             {
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     var m = (from t in dc.Members where t.Email == username select t).SingleOrDefault();
                     m.LastLogon = DateTime.Now;
@@ -134,7 +134,7 @@ namespace Rockying.Models
         {
             try
             {
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     var m = (from t in dc.Members where t.ID == id select t).SingleOrDefault();
                     m.Status = (byte)GeneralStatusType.Deleted;
@@ -154,7 +154,7 @@ namespace Rockying.Models
         {
             try
             {
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     var m = (from t in dc.Members where t.Email == id select t).SingleOrDefault();
                     m.Status = (byte)GeneralStatusType.Deleted;
@@ -174,7 +174,7 @@ namespace Rockying.Models
         {
             try
             {
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     var m = (from t in dc.Members where t.ID == id select t).SingleOrDefault();
                     if (!m.DriveID.HasValue)
@@ -195,7 +195,7 @@ namespace Rockying.Models
         {
             try
             {
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     return (from t in dc.Members where (t.Email == username || t.UserName == username) && t.Status != (byte)GeneralStatusType.Deleted select t).SingleOrDefault();
                 }
@@ -210,7 +210,7 @@ namespace Rockying.Models
         {
             try
             {
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     return (from t in dc.Members where t.ID == id select t).SingleOrDefault();
                 }
@@ -225,7 +225,7 @@ namespace Rockying.Models
         {
             try
             {
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     return (from u in dc.Members where u.Status != (byte)GeneralStatusType.Deleted orderby u.Createdate descending select u).ToList<Member>();
                 }
@@ -239,7 +239,7 @@ namespace Rockying.Models
         public static bool ActivateUser(string id)
         {
 
-            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 Member m = (from u in dc.Members where u.Email == id select u).SingleOrDefault();
                 if (m != null)
@@ -260,7 +260,7 @@ namespace Rockying.Models
         {
             try
             {
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     Member m = (from u in dc.Members where u.ID == id select u).SingleOrDefault();
                     m.Newsletter = value;
@@ -276,7 +276,7 @@ namespace Rockying.Models
 
         public static bool ChangePassword(long id, string password)
         {
-            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 Member m = (from u in dc.Members where u.ID == id select u).SingleOrDefault();
                 m.Password = password;
@@ -303,7 +303,7 @@ namespace Rockying.Models
                     return false;
                 }
 
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     Member m = new Member();
                     m.Createdate = DateTime.Now;
@@ -330,7 +330,7 @@ namespace Rockying.Models
         {
             try
             {
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     int count = (from t in dc.Members where t.Email == email select t).Count();
                     if (count > 0)
@@ -353,7 +353,7 @@ namespace Rockying.Models
         {
             try
             {
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     int count = (from t in dc.Members where t.UserName == username select t).Count();
                     if (count > 0)

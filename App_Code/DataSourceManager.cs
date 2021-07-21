@@ -36,7 +36,7 @@ namespace Rockying.Models
                     }
                     else
                     {
-                        using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                        using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                         {
                             dc.Connection.Open();
                             SqlCommand comm = new SqlCommand(string.Format("{0} FOR XML RAW , ROOT('DataSource'), Elements;", cds.Query), dc.Connection as SqlConnection);
@@ -106,7 +106,7 @@ namespace Rockying.Models
 
         public bool Add(string name, string query, string template, long memberid)
         {
-            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 CustomDataSource item = new CustomDataSource();
                 item.Name = name;
@@ -122,7 +122,7 @@ namespace Rockying.Models
 
         public bool Update(int id, string name, string query, string template, long memberid)
         {
-            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 CustomDataSource item = (from t in dc.CustomDataSources where t.ID == id select t).SingleOrDefault<CustomDataSource>();
                 item.Name = name;
@@ -137,7 +137,7 @@ namespace Rockying.Models
 
         public bool Delete(int id)
         {
-            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 CustomDataSource item = (from t in dc.CustomDataSources where t.ID == id select t).SingleOrDefault<CustomDataSource>();
                 dc.CustomDataSources.DeleteOnSubmit(item);
@@ -148,7 +148,7 @@ namespace Rockying.Models
 
         public CustomDataSource GetById(int id)
         {
-            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 return (from t in dc.CustomDataSources where t.ID == id select t).SingleOrDefault<CustomDataSource>();
             }
@@ -156,7 +156,7 @@ namespace Rockying.Models
 
         public CustomDataSource GetByName(string name)
         {
-            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 return (from t in dc.CustomDataSources where t.Name == name select t).SingleOrDefault<CustomDataSource>();
             }

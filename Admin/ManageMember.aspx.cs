@@ -94,7 +94,7 @@ public partial class Admin_ManageMember : AdminPage
         {
             DateTime dob = DateTime.Parse(string.Format("{0}-{1}-{2}", YearDropDown.SelectedValue, MonthDropDown.SelectedValue,
                 DateDropDown.SelectedValue));
-            using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext())
+            using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 Member m = (from u in db.Members where u.ID == ID select u).SingleOrDefault();
                 m.MemberName = NameTextBox.Text.Trim();
@@ -137,7 +137,7 @@ public partial class Admin_ManageMember : AdminPage
 
     protected void SendActivationEmailButton_Click(object sender, EventArgs e)
     {
-        using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext())
+        using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext(Utility.ConnectionString))
         {
             Member m = (from u in db.Members where u.ID == ID select u).SingleOrDefault();
             if (m != null)

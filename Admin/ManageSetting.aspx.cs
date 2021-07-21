@@ -40,7 +40,7 @@ public partial class Admin_ManageSetting : AdminPage
 
         try
         {
-            using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext())
+            using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 WebsiteSetting sn = (from u in db.WebsiteSettings where u.KeyName == "SiteName" select u).SingleOrDefault();
                 sn.KeyValue = SiteNameTextBox.Text.Trim();

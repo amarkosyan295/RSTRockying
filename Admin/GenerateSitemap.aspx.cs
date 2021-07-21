@@ -43,7 +43,7 @@ public partial class Admin_GenerateSitemap : AdminPage
                 }
             }
 
-            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 var cp = from u in dc.CustomPages where u.Status == (byte)PostStatusType.Publish select u;
                 foreach (var i in cp)

@@ -29,7 +29,7 @@ public partial class Admin_CustomPageList : AdminPage
         {
             try
             {
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     var item = (from u in dc.CustomPages where u.ID == int.Parse(e.CommandArgument.ToString()) select u).SingleOrDefault();
                     if (item != null)

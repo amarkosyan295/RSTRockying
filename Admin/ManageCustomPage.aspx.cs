@@ -54,7 +54,7 @@ public partial class Admin_ManageCustomPage : AdminPage
     {
         try
         {
-            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 CustomPage p = (from u in dc.CustomPages where u.ID == ID select u).SingleOrDefault();
                 try
@@ -93,7 +93,7 @@ public partial class Admin_ManageCustomPage : AdminPage
         Page.Validate("PageGrp");
         if (!Page.IsValid) return;
 
-        using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+        using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
         {
             try
             {
@@ -164,7 +164,7 @@ public partial class Admin_ManageCustomPage : AdminPage
             args.IsValid = false;
         }
 
-        using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+        using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
         {
             string pageName = Utility.Slugify(NameTextBox.Text.Trim());
             if (Mode == "edit")

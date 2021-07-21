@@ -139,7 +139,7 @@ namespace Rockying.Models
         {
             if (CacheManager.Get<string>(keyname) == null)
             {
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     var item = (from t in dc.WebsiteSettings where t.KeyName == keyname select t.KeyValue).SingleOrDefault();
                     if (item != null)
@@ -184,7 +184,7 @@ namespace Rockying.Models
 
             if (CacheManager.Category.Count == 0)
             {
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     CacheManager.Category = (from t in dc.Categories select t).ToList<Category>();
                 }
@@ -197,7 +197,7 @@ namespace Rockying.Models
             if (CacheManager.Get<int?>("AllCommentCount") == null)
             {
 
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     CacheManager.Add("AllCommentCount", (from t in dc.PageComments where t.Status != (byte)PostStatusType.Inactive select t).Count(), DateTime.Now.AddMinutes(5));
                 }
@@ -210,7 +210,7 @@ namespace Rockying.Models
             if (CacheManager.Get<int?>("CustomPageCount") == null)
             {
 
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     CacheManager.Add("CustomPageCount", (from t in dc.CustomPages where t.Status != (byte)PostStatusType.Inactive select t).Count(), DateTime.Now.AddMinutes(10));
                 }
@@ -223,7 +223,7 @@ namespace Rockying.Models
             if (CacheManager.Get<int?>("MemberCount") == null)
             {
 
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     CacheManager.Add("MemberCount", (from t in dc.Members where t.Status == (byte)GeneralStatusType.Active select t).Count(), DateTime.Now.AddMinutes(50));
                 }
@@ -236,7 +236,7 @@ namespace Rockying.Models
             if (CacheManager.Get<int?>("DraftCommentCount") == null)
             {
 
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     CacheManager.Add("DraftCommentCount", (from t in dc.PageComments where t.Status == (byte)PostStatusType.Draft select t).Count(), DateTime.Now.AddMinutes(1));
                 }
@@ -249,7 +249,7 @@ namespace Rockying.Models
             if (CacheManager.Get<int?>("ArticleCount") == null)
             {
 
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     CacheManager.Add("ArticleCount", (from t in dc.Posts where t.Status != (byte)PostStatusType.Inactive select t).Count(), DateTime.Now.AddMinutes(5));
                 }
@@ -262,7 +262,7 @@ namespace Rockying.Models
             if (CacheManager.Get<int?>("PictureCount") == null)
             {
 
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     CacheManager.Add("PictureCount", (from t in dc.Pictures where t.Status != (byte)PostStatusType.Inactive select t).Count(), DateTime.Now.AddMinutes(5));
                 }
@@ -319,6 +319,14 @@ namespace Rockying.Models
             str = System.Text.RegularExpressions.Regex.Replace(str, @"\s+", " ").Trim(); // convert multiple spaces into one space  
             str = System.Text.RegularExpressions.Regex.Replace(str, @"\s", "-"); // //Replace spaces by dashes
             return str;
+        }
+
+        public static string ConnectionString
+        {
+            get
+            {
+                return System.Configuration.ConfigurationManager.ConnectionStrings["RockyingConnectionString"].ConnectionString;
+            }
         }
 
         #region Validation Functions

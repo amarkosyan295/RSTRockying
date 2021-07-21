@@ -24,7 +24,7 @@ public partial class Admin_Default : AdminPage
         {
             try
             {
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     TopStory ts = new TopStory();
                     ts.CreatedBy = CurrentUser.ID;
@@ -54,7 +54,7 @@ public partial class Admin_Default : AdminPage
 
     protected void DeleteInactiveButton_Click(object sender, EventArgs e)
     {
-        using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+        using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
         {
             var posts = (from t in dc.Posts where t.Status == (byte)PostStatusType.Inactive && (t.CreatedBy == CurrentUser.ID || CurrentUser.UserType == (byte)MemberTypeType.Admin) select t);
             foreach(Post p in posts)
@@ -83,7 +83,7 @@ public partial class Admin_Default : AdminPage
     {
         if (CurrentUser.UserType == (byte)MemberTypeType.Admin)
         {
-            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 var posts = (from t in dc.Posts where t.Status == (byte)PostStatusType.Draft && (t.CreatedBy == CurrentUser.ID || CurrentUser.UserType == (byte)MemberTypeType.Admin) select t);
                 foreach (Post p in posts)

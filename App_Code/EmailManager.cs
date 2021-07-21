@@ -135,7 +135,7 @@ namespace Rockying.Models
         {
             try
             {
-                using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     EmailMessage item = (from u in db.EmailMessages where u.ID == id select u).SingleOrDefault();
                     if(item != null)
@@ -157,7 +157,7 @@ namespace Rockying.Models
         {
             try
             {
-                using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     EmailMessage item = (from u in db.EmailMessages where u.ID == em.ID select u).SingleOrDefault();
                     item.CreateDate = em.CreateDate;
@@ -188,7 +188,7 @@ namespace Rockying.Models
         {
             try
             {
-                using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     EmailMessage em = (from u in db.EmailMessages where u.ID == id select u).SingleOrDefault();
                     return em;
@@ -207,7 +207,7 @@ namespace Rockying.Models
         {
             try
             {
-                using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     EmailMessage em = (from u in db.EmailMessages where u.IsSent == false orderby u.LastAttempt ascending select u).FirstOrDefault();
                     return em;
@@ -244,7 +244,7 @@ namespace Rockying.Models
         {
             try
             {
-                using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     EmailMessage em = new EmailMessage()
                     {

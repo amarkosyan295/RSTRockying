@@ -48,7 +48,7 @@ public partial class _Article : BasePage
             }
         }
 
-        using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+        using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
         {
             Post item = (from t in dc.Posts
                          where t.URL.ToLower().Trim() == pname.ToLower().Trim()

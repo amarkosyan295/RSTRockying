@@ -37,7 +37,7 @@ public partial class Admin_NewsletterDesign : AdminPage
 
         try
         {
-            using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext())
+            using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 WebsiteSetting rs = (from u in db.WebsiteSettings where u.KeyName == "NewsletterDesign" select u).SingleOrDefault();
                 rs.KeyValue = KeyValueTextBox.Text.Trim();
@@ -70,7 +70,9 @@ public partial class Admin_NewsletterDesign : AdminPage
         emessage = emessage.Replace("[toaddress]", "sample@email.com");
         emessage = emessage.Replace("[sitename]", Utility.SiteName);
         emessage = emessage.Replace("[emailsignature]", Utility.GetSiteSetting("emailsignature"));
-
+        emessage = emessage.Replace("[adminname]", Utility.AdminName);
+        emessage = emessage.Replace("[address]", Utility.Address);
+        
         Literal1.Text = emessage;
     }
 
@@ -80,7 +82,7 @@ public partial class Admin_NewsletterDesign : AdminPage
         {
             StringBuilder builder = new StringBuilder();
 
-            using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext())
+            using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 builder.Append("<ul style='list-style:none;'>\r\n");
                 foreach (ListItem item in ArticleList.Items)
@@ -129,7 +131,7 @@ public partial class Admin_NewsletterDesign : AdminPage
 
         try
         {
-            using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext())
+            using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 WebsiteSetting rs = (from u in db.WebsiteSettings where u.KeyName == "NewsletterDesign" select u).SingleOrDefault();
                 rs.KeyValue = KeyValueTextBox.Text.Trim();
@@ -163,6 +165,9 @@ public partial class Admin_NewsletterDesign : AdminPage
                         emessage = emessage.Replace("[id]", em.ID.ToString());
                         emessage = emessage.Replace("[toaddress]", em.ToAddress);
                         emessage = emessage.Replace("[sitename]", Utility.SiteName);
+                        emessage = emessage.Replace("[adminname]", Utility.AdminName);
+                        emessage = emessage.Replace("[address]", Utility.Address);
+                        emessage = emessage.Replace("[emailid]", em.ToAddress);
                         emessage = emessage.Replace("[emailsignature]", Utility.GetSiteSetting("emailsignature"));
                         em.Message = emessage;
 

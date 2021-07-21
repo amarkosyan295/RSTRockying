@@ -47,7 +47,7 @@ public partial class Admin_MemberList : AdminPage
     {
         try
         {
-            using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext())
+            using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 string query = "SELECT ID, Email, Createdate, Newsletter, UserType, MemberName, Status, Password " +
                 " FROM Member AS M WHERE UserType <> 1 ";
@@ -88,7 +88,7 @@ public partial class Admin_MemberList : AdminPage
             if ((row.FindControl("chkSelect") as CheckBox).Checked)
             {
                 int Emp_ID = Convert.ToInt32(MemberGridView.DataKeys[row.RowIndex].Value);
-                using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     db.ExecuteCommand("DELETE FROM Member WHERE ID = " + Emp_ID, new object[] { });
                 }

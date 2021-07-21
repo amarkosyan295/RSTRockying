@@ -25,7 +25,7 @@ public partial class Admin_EmailList : AdminPage
     {
         try
         {
-            using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext())
+            using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 string query = "SELECT [ID], [ToAddress], [LastAttempt], [ToName], [ReadDate], [EmailGroup], [EmailType], [IsSent], [IsRead], [CreateDate], [SentDate], [Subject] FROM [EmailMessage] WHERE 1=1 ";
 
@@ -75,7 +75,7 @@ public partial class Admin_EmailList : AdminPage
 
     protected void DeleteButton_Click(object sender, EventArgs e)
     {
-        using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext())
+        using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext(Utility.ConnectionString))
         {
             
             string query = "Delete FROM [EmailMessage] WHERE 1=1 ";

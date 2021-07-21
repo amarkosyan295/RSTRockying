@@ -27,7 +27,7 @@ public partial class Admin_CategoryList : AdminPage
     {
         ParentDropDown.Items.Clear();
         ParentDropDown.Items.Add(new ListItem("--select--", ""));
-        using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+        using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
         {
             var items = from u in dc.Categories where u.Status != (byte)GeneralStatusType.Deleted select u;
             foreach (Category c in items)
@@ -41,7 +41,7 @@ public partial class Admin_CategoryList : AdminPage
     {
         if (Mode == "edit")
         {
-            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 Category c = (from u in dc.Categories where u.ID == ID select u).SingleOrDefault();
                 if (c != null)
@@ -67,7 +67,7 @@ public partial class Admin_CategoryList : AdminPage
 
         if (Mode == "add" || Mode == string.Empty)
         {
-            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 Category c = new Category();
                 c.Name = NameTextBox.Text.Trim();
@@ -83,7 +83,7 @@ public partial class Admin_CategoryList : AdminPage
         }
         else if (Mode == "edit")
         {
-            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 Category c = (from u in dc.Categories where u.ID == ID select u).SingleOrDefault();
                 if (c != null)
