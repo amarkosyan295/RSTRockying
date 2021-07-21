@@ -257,19 +257,6 @@ namespace Rockying.Models
             return CacheManager.Get<int?>("ArticleCount").Value;
         }
 
-        public static int GetPictureCount()
-        {
-            if (CacheManager.Get<int?>("PictureCount") == null)
-            {
-
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
-                {
-                    CacheManager.Add("PictureCount", (from t in dc.Pictures where t.Status != (byte)PostStatusType.Inactive select t).Count(), DateTime.Now.AddMinutes(5));
-                }
-            }
-            return CacheManager.Get<int?>("PictureCount").Value;
-        }
-
         
         public static string ActivationEmail()
         {

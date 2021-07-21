@@ -20,7 +20,7 @@ public partial class list : BasePage
             {
                 string name = Page.RouteData.Values["category"].ToString();
                
-                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     var item = (from t in dc.Categories
                                 where t.UrlName == name

@@ -18,7 +18,7 @@ public partial class rss : System.Web.UI.Page
         builder.Append(string.Format("<title>{0}</title>", Utility.SiteName));
         builder.Append(string.Format("<link>{0}</link>", Utility.SiteURL));
         builder.Append("<description></description><language>en-us</language>");
-        using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+        using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
         {
             var items = (from t in dc.Posts
                          where t.Status == (byte)PostStatusType.Publish

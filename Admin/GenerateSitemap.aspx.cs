@@ -69,18 +69,6 @@ public partial class Admin_GenerateSitemap : AdminPage
                     
                     builder.Append("</url>");
                 }
-
-                var items2 = from t in dc.Pictures
-                             where t.Status == (byte)PostStatusType.Publish &&
-                             (!t.Video.HasValue || !t.Video.Value)
-                             orderby t.CreateDate descending
-                             select t;
-                foreach (var i in items2)
-                {
-                    builder.Append("<url>");
-                    builder.Append(string.Format("<loc>{1}/p/{0}?title={2}</loc>", i.ID.ToString(), Utility.SiteURL, Utility.Slugify(i.Title)));
-                    builder.Append("</url>");
-                }
             }
 
             builder.Append("</urlset>");

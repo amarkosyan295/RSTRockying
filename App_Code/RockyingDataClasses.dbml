@@ -1,25 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><Database Name="rockyclf_rockying" EntityNamespace="Rockying.Models" ContextNamespace="Rockying" Class="RockyingDataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
-  <Table Name="dbo.Picture" Member="Pictures">
-    <Type Name="Picture">
-      <Column Name="ID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
-      <Column Name="Title" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
-      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
-      <Column Name="CreatedBy" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
-      <Column Name="ModifyDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
-      <Column Name="ModifiedBy" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
-      <Column Name="ImageUrl" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
-      <Column Name="Description" Type="System.String" DbType="NVarChar(1500)" CanBeNull="true" />
-      <Column Name="Status" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
-      <Column Name="CategoryID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
-      <Column Name="Tag" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
-      <Column Name="Liked" Type="System.Int32" DbType="Int" CanBeNull="true" />
-      <Column Name="Viewed" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
-      <Column Name="Video" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
-      <Association Name="Member_Picture" Member="Member" ThisKey="CreatedBy" OtherKey="ID" Type="Member" IsForeignKey="true" />
-      <Association Name="Member_Picture1" Member="Member1" ThisKey="ModifiedBy" OtherKey="ID" Type="Member" IsForeignKey="true" />
-      <Association Name="Category_Picture" Member="Category" ThisKey="CategoryID" OtherKey="ID" Type="Category" IsForeignKey="true" />
-    </Type>
-  </Table>
   <Table Name="dbo.TopStory" Member="TopStories">
     <Type Name="TopStory">
       <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
@@ -119,8 +98,6 @@
       <Column Name="MemberImage" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
       <Column Name="UserName" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
       <Column Name="DriveID" Type="System.Guid" DbType="UniqueIdentifier" CanBeNull="true" />
-      <Association Name="Member_Picture" Member="Pictures" ThisKey="ID" OtherKey="CreatedBy" Type="Picture" />
-      <Association Name="Member_Picture1" Member="Pictures1" ThisKey="ID" OtherKey="ModifiedBy" Type="Picture" />
       <Association Name="Member_TopStory" Member="TopStories" ThisKey="ID" OtherKey="CreatedBy" Type="TopStory" />
       <Association Name="Member_CustomPage" Member="CustomPages" ThisKey="ID" OtherKey="CreatedBy" Type="CustomPage" />
       <Association Name="Member_CustomPage1" Member="CustomPages1" ThisKey="ID" OtherKey="ModifiedBy" Type="CustomPage" />
@@ -129,7 +106,6 @@
       <Association Name="Member_Member" Member="Members" ThisKey="ID" OtherKey="ModifiedBy" Type="Member" />
       <Association Name="Member_CustomDataSource" Member="CustomDataSources" ThisKey="ID" OtherKey="CreatedBy" Type="CustomDataSource" />
       <Association Name="Member_CustomDataSource1" Member="CustomDataSources1" ThisKey="ID" OtherKey="ModifiedBy" Type="CustomDataSource" />
-      <Association Name="Member_Order" Member="Orders" ThisKey="ID" OtherKey="MemberID" Type="Order" />
       <Association Name="Member_Post" Member="Posts" ThisKey="ID" OtherKey="CreatedBy" Type="Post" />
       <Association Name="Member_Post1" Member="Posts1" ThisKey="ID" OtherKey="ModifiedBy" Type="Post" />
       <Association Name="Member_Member" Member="Member1" ThisKey="ModifiedBy" OtherKey="ID" Type="Member" IsForeignKey="true" />
@@ -147,58 +123,6 @@
       <Column Name="HtmlTemplate" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
       <Association Name="Member_CustomDataSource" Member="Member" ThisKey="CreatedBy" OtherKey="ID" Type="Member" IsForeignKey="true" />
       <Association Name="Member_CustomDataSource1" Member="Member1" ThisKey="ModifiedBy" OtherKey="ID" Type="Member" IsForeignKey="true" />
-    </Type>
-  </Table>
-  <Table Name="dbo.[Order]" Member="Orders">
-    <Type Name="Order">
-      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
-      <Column Name="DateCreated" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
-      <Column Name="Name" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
-      <Column Name="Email" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
-      <Column Name="MemberID" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
-      <Column Name="Phone" Type="System.String" DbType="NVarChar(15) NOT NULL" CanBeNull="false" />
-      <Column Name="BillingAddress" Type="System.String" DbType="NVarChar(1000) NOT NULL" CanBeNull="false" />
-      <Column Name="BillingCity" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
-      <Column Name="BillingState" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
-      <Column Name="BillingCountry" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
-      <Column Name="BillingZip" Type="System.String" DbType="NVarChar(20) NOT NULL" CanBeNull="false" />
-      <Column Name="ShippingAddress" Type="System.String" DbType="NVarChar(1000) NOT NULL" CanBeNull="false" />
-      <Column Name="ShippingCity" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
-      <Column Name="ShippingState" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
-      <Column Name="ShippingCountry" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
-      <Column Name="ShippingZip" Type="System.String" DbType="NVarChar(20) NOT NULL" CanBeNull="false" />
-      <Column Name="Coupon" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
-      <Column Name="Status" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
-      <Column Name="ShippingTrackCode" Type="System.String" DbType="NVarChar(20) NOT NULL" CanBeNull="false" />
-      <Column Name="ShippingNotes" Type="System.String" DbType="NVarChar(1000) NOT NULL" CanBeNull="false" />
-      <Column Name="DateModified" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
-      <Column Name="Amount" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
-      <Column Name="Tax" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
-      <Column Name="TaxPercentage" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
-      <Column Name="Discount" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
-      <Column Name="Total" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
-      <Column Name="TransactionCode" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
-      <Column Name="TransactionDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
-      <Column Name="TransactionDetail" Type="System.String" DbType="NVarChar(2000)" CanBeNull="true" />
-      <Column Name="ShippingPrice" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
-      <Column Name="COD" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
-      <Column Name="PaymentMode" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
-      <Column Name="ShippingService" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
-      <Association Name="Order_OrderItem" Member="OrderItems" ThisKey="ID" OtherKey="OrderID" Type="OrderItem" />
-      <Association Name="Member_Order" Member="Member" ThisKey="MemberID" OtherKey="ID" Type="Member" IsForeignKey="true" />
-    </Type>
-  </Table>
-  <Table Name="dbo.OrderItem" Member="OrderItems">
-    <Type Name="OrderItem">
-      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
-      <Column Name="OrderID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
-      <Column Name="ProductImg" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
-      <Column Name="ProductName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
-      <Column Name="ProductCode" Type="System.String" DbType="NVarChar(10) NOT NULL" CanBeNull="false" />
-      <Column Name="Quantity" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
-      <Column Name="Price" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
-      <Column Name="Amount" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
-      <Association Name="Order_OrderItem" Member="Order" ThisKey="OrderID" OtherKey="ID" Type="Order" IsForeignKey="true" />
     </Type>
   </Table>
   <Table Name="dbo.Post" Member="Posts">
@@ -234,7 +158,6 @@
       <Column Name="Parent" Type="System.Int32" DbType="Int" CanBeNull="true" />
       <Column Name="Status" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
       <Column Name="Keywords" Type="System.String" DbType="NVarChar(1000)" CanBeNull="true" />
-      <Association Name="Category_Picture" Member="Pictures" ThisKey="ID" OtherKey="CategoryID" Type="Picture" />
       <Association Name="Category_Post" Member="Posts" ThisKey="ID" OtherKey="Category" Type="Post" />
       <Association Name="Category_Category" Member="Categories" ThisKey="ID" OtherKey="Parent" Type="Category" />
       <Association Name="Category_Category" Member="Category1" ThisKey="Parent" OtherKey="ID" Type="Category" IsForeignKey="true" />

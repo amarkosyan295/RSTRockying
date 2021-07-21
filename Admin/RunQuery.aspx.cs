@@ -18,7 +18,7 @@ public partial class Admin_RunQuery : AdminPage
     {
         try
         {
-            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 int rows = dc.ExecuteCommand(QueryTextBox.Text.Trim());
                 message1.Text = string.Format("Command executed successfully. {0} rows affected.", rows);

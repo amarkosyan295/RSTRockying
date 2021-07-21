@@ -15,7 +15,7 @@ public partial class Admin_SimpleEdit : AdminPage
         if (Mode == "edit")
         {
             //redirect if user is not admin or dont own the article
-            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 Post p = (from t in dc.Posts where t.ID == ID && (t.CreatedBy == CurrentUser.ID || CurrentUser.UserType == (byte)MemberTypeType.Admin) select t).SingleOrDefault();
                 if (p == null)
@@ -39,7 +39,7 @@ public partial class Admin_SimpleEdit : AdminPage
 
     private void PopulateArticle()
     {
-        using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+        using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
         {
             try
             {
@@ -133,7 +133,7 @@ public partial class Admin_SimpleEdit : AdminPage
             a.TemplateName = "LeftColumnBlogTemplate";
             a.URL = URLTextBox.Text;
             a.MetaTitle = a.Title;
-            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 if (Mode == "edit")
                 {
@@ -228,7 +228,7 @@ public partial class Admin_SimpleEdit : AdminPage
 
     protected void CustomValidator1_ServerValidate(object source, ServerValidateEventArgs args)
     {
-        using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+        using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
         {
             if (Mode == "edit")
             {

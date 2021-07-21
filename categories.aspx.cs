@@ -13,7 +13,7 @@ public partial class categories : BasePage
     public List<Category> CategoryList { get; set; }
     protected void Page_Load(object sender, EventArgs e)
     {
-        using(RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+        using(RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
         {
             var query = from t in dc.Categories
                         where t.Posts.Count() > 0 && t.Status == (byte)GeneralStatusType.Active
