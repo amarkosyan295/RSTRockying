@@ -2,6 +2,8 @@
     CodeFile="Register.aspx.cs" Inherits="Register" %>
 
 <%@ Register Src="../control/message.ascx" TagName="message" TagPrefix="uc1" %>
+<%@ Register Src="~/control/Captcha.ascx" TagPrefix="uc1" TagName="Captcha" %>
+
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="Server">
@@ -119,6 +121,9 @@
                         </label>
                     </div>
                 </div>
+                <div class="control-group">
+                    <uc1:Captcha runat="server" ID="Captcha" />
+                    </div>
                 <small>Please check our <a target="_blank" href="http://www.rockying.com/PrivacyPolicy" target="_blank">
                     Privacy Policy</a>, <a target="_blank" href="http://www.rockying.com/Terms-Of-Use">Terms of Use</a></small>
                 <div class="form-actions">
@@ -129,4 +134,5 @@
             </form>
         </div>
     </div>
+    
 </asp:Content>

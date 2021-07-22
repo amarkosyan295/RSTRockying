@@ -9,12 +9,31 @@ using Rockying.Models;
 
 public partial class Register : BasePage
 {
+    Random oRandom = new Random();
+
+
+    int iNumber;
     protected void Page_Load(object sender, EventArgs e)
     {
+        iNumber = oRandom.Next(100000, 999999);
         if (!Page.IsPostBack && !Page.IsCallback)
         {
             PopulateYear();
             PopulateDays();
+            
+            Session["captcha"] = iNumber.ToString();
+
+            if (!string.IsNullOrEmpty(Request.QueryString["message"]))
+            {
+                message1.Text = "Congratulations you are now a registered member of Rockying. You will recieve an email from " + Utility.ContactEmail + " make sure to mark this email address as safe. Please click the account activation link provided in the email.";
+                message1.Indicate = AlertType.Success;
+                message1.Visible = true;
+            }
+        }
+        else
+        {
+            message1.Visible = false;
+            message1.Text = "";
         }
     }
 
@@ -42,29 +61,33 @@ public partial class Register : BasePage
     {
         Page.Validate("logingrp");
         if (!Page.IsValid) return;
-
-        try
+        if (Captcha.ValidateCaptcha())
         {
-            DateTime dob = DateTime.Parse(string.Format("{0}-{1}-{2}", YearDropDown.SelectedValue, MonthDropDown.SelectedValue,
-                DateDropDown.SelectedValue));
-            if (MemberManager.CreateUser(EmailTextBox.Text.Trim(), PasswordTextBox.Text.Trim(), NewsletterCheckBox.Checked, NameTextBox.Text.Trim(), dob, GenderDropDown.SelectedValue, WriterCheckBox.Checked ? MemberTypeType.Author : MemberTypeType.Member))
+            try
             {
-                message1.Text = "Congratulations you are now a registered member of Rockying. You will recieve an email from "+ Utility.ContactEmail + " make sure to mark this email address as safe. Please click the account activation link provided in the email.";
-                message1.Indicate = AlertType.Success;
+                DateTime dob = DateTime.Parse(string.Format("{0}-{1}-{2}", YearDropDown.SelectedValue, MonthDropDown.SelectedValue,
+                    DateDropDown.SelectedValue));
+                if (MemberManager.CreateUser(EmailTextBox.Text.Trim(), PasswordTextBox.Text.Trim(), NewsletterCheckBox.Checked, NameTextBox.Text.Trim(), dob, GenderDropDown.SelectedValue, WriterCheckBox.Checked ? MemberTypeType.Author : MemberTypeType.Member))
+                {
+                    EmailManager.SendActivationEmail(EmailTextBox.Text.Trim(), NameTextBox.Text.Trim(), PasswordTextBox.Text.Trim());
+                    Response.Redirect("~/account/register?message=yes");
+                }
+            }
+            catch (Exception ex)
+            {
+                message1.Text = Resources.Resource.GenericMessage;
+                message1.Indicate = AlertType.Error;
                 message1.Visible = true;
-                
-                EmailManager.SendActivationEmail(EmailTextBox.Text.Trim(), NameTextBox.Text.Trim(), PasswordTextBox.Text.Trim());
-
+                Trace.Write("Register error");
+                Trace.Write(ex.Message);
+                Trace.Write(ex.StackTrace);
             }
         }
-        catch (Exception ex)
+        else
         {
-            message1.Text = Resources.Resource.GenericMessage;
+            message1.Text = "Captcha Mismatch";
             message1.Indicate = AlertType.Error;
             message1.Visible = true;
-            Trace.Write("Register error");
-            Trace.Write(ex.Message);
-            Trace.Write(ex.StackTrace);
         }
     }
 
