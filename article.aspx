@@ -70,7 +70,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="Server">
     <div class="row-fluid">
-        <div class="span12" style="text-align:center;">
+        <div class="span12" style="text-align: center;">
             <h1>
                 <%: PPM.Item.Title%>
             </h1>
@@ -92,9 +92,18 @@
                 <img src="<%: PPM.Item.OGImage %>" class="img-rounded" alt="" style="margin-top: 5px; margin-bottom: 10px;" />
             </div>
             <%} %>
+            <% if (!string.IsNullOrEmpty(PPM.AudioURL))
+                { %>
+            <div style="padding: 5px; background: #f8f9fa; text-align: center; margin: 0 auto; max-width: 80%;">
+                <h6>Story is available in audio as well.</h6>
+                <audio style="width: 100%; height:50px;" controls src="<%= PPM.AudioURL %>" type="audio/m4a">
+                </audio>
+            </div>
+            <%} %>
             <div id="article">
                 <%= PPM.Item.Text %>
             </div>
+
             <h4 style="margin-top: 20px;">
                 <span class="sectionheading">Share It</span>
             </h4>
@@ -103,7 +112,7 @@
                 <iframe src="//www.rockying.com/account/subscribe" style="width: 100%; height: 300px; border: 0px;"></iframe>
             </div>
             <div id="disqus_thread"></div>
-            <script>
+            <script type="text/javascript">
 
                 /**
                 *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
@@ -139,17 +148,17 @@
     </div>
     <%if (PPM.RecommendationList.Count > 0)
         { %>
-    <div class="row-fluid" style="text-align:center;">
+    <div class="row-fluid" style="text-align: center;">
         <h6>
             <span class="sectionheading">Recommendations</span>
         </h6>
         <ul class="thumbnails">
             <%for (int i = 1; i <= PPM.RecommendationList.Count; i++)
                 {
-                    Article p = PPM.RecommendationList[i-1];
+                    Article p = PPM.RecommendationList[i - 1];
             %>
-            <li class="span4" style="max-height:375px; overflow-y:hidden;">
-                <div class="thumbnail" >
+            <li class="span4" style="max-height: 375px; overflow-y: hidden;">
+                <div class="thumbnail">
                     <%if (!string.IsNullOrEmpty(p.OGImage))
                         { %>
                     <a href="//www.rockying.com/a/<%= p.URL %>">
@@ -163,7 +172,7 @@
                     </div>
                 </div>
             </li>
-            <% if ( i % 3 == 0)
+            <% if (i % 3 == 0)
                 { %>
         </ul>
         <ul class="thumbnails">

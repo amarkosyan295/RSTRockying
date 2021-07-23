@@ -16,6 +16,8 @@ namespace Rockying.Models
         public List<Article> RecommendationList { get; set; }
         public List<Article> RelatedCategory { get; set; }
 
+        public string AudioURL { get; set; }
+
         public PostPageModel()
         {
             Item = new Article();
@@ -24,6 +26,7 @@ namespace Rockying.Models
             RecommendationList = new List<Article>();
             RelatedCategory = new List<Article>();
             ArticleCreator = new Member();
+            AudioURL = string.Empty;
         }
     }
 }

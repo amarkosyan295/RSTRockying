@@ -1,14 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Linq.Expressions;
 using System.Web;
 using System.Web.UI;
-using System.Web.UI.WebControls;
 using Rockying;
 using Rockying.Models;
-using System.Net.Mail;
-using System.Text;
 using System.IO;
 
 public partial class _Article : BasePage
@@ -102,6 +97,10 @@ public partial class _Article : BasePage
                 a.URL = item.URL;
 
                 PPM.Item = a;
+                if (File.Exists(Server.MapPath("~/rockyingdata/article/" + a.ID + ".m4a")))
+                {
+                    PPM.AudioURL = string.Format("{0}/rockyingdata/article/{1}.m4a", Utility.SiteURL, a.ID);
+                }
                 PPM.ArticleCategory = item.Category1;
                 if (PPM.ArticleCreator.UserType != (byte)MemberTypeType.Admin)
                 {
