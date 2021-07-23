@@ -35,6 +35,8 @@
                     CausesValidation="false" OnClick="SubmitButton_Click" />
                 <asp:Button ID="btnDeleteRecords" CausesValidation="false" CssClass="btn" Text="Delete Records" OnClick="btnDeleteRecords_Click"  
                         runat="server" style="margin-left:25px;" />
+                <asp:Button ID="btnActiveEmail" CausesValidation="false" CssClass="btn" Text="Send Activation Email"   
+                        runat="server" style="margin-left:10px;" OnClick="btnActiveEmail_Click" />
             </div>
         </div>
     </div>

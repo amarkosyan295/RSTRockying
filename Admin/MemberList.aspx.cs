@@ -137,4 +137,23 @@ public partial class Admin_MemberList : AdminPage
             }
         }
     }
+
+    protected void btnActiveEmail_Click(object sender, EventArgs e)
+    {
+        foreach (GridViewRow row in MemberGridView.Rows)
+        {
+            if ((row.FindControl("chkSelect") as CheckBox).Checked)
+            {
+                int Emp_ID = Convert.ToInt32(MemberGridView.DataKeys[row.RowIndex].Value);
+                using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext(Utility.ConnectionString))
+                {
+                    var m = db.Members.SingleOrDefault(t => t.ID == Emp_ID);
+                    if(m != null)
+                    {
+                        EmailManager.SendActivationEmail(m.Email, m.MemberName, m.Password);
+                    }
+                }
+            }
+        }
+    }
 }
