@@ -9,7 +9,7 @@
     <meta name="keywords" content="<%: PPM.Item.Tag %>" />
     <meta name="author" content="<%: PPM.Item.WriterName %>" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="http://<%: Request.Url.Host %>/a/<%: PPM.Item.URL.ToString() %>" />
+    <meta property="og:url" content="https://<%: Request.Url.Host %>/a/<%: PPM.Item.URL.ToString() %>" />
     <meta property="og:site_name" content="<%: Utility.SiteName %>" />
     <meta property="fb:admins" content="871950590" />
     <meta property="og:title" content="<%: string.IsNullOrEmpty(PPM.Item.MetaTitle) ? PPM.Item.Title : PPM.Item.MetaTitle %>" />
