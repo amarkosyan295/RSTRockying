@@ -304,3 +304,105 @@ div[id="article"] > p:nth-child(1)::first-letter {
 a {
     color: #E3313A;
 }
+
+input[type=range] {
+    height: 23px;
+    -webkit-appearance: none;
+    margin: 10px 0;
+    width: 100%;
+}
+
+    input[type=range]:focus {
+        outline: none;
+    }
+
+    input[type=range]::-webkit-slider-runnable-track {
+        width: 100%;
+        height: 5px;
+        cursor: pointer;
+        animate: 0.2s;
+        box-shadow: 0px 0px 0px #000000;
+        background: #E3313A;
+        border-radius: 5px;
+        border: 0px solid #E3313A;
+    }
+
+    input[type=range]::-webkit-slider-thumb {
+        box-shadow: 0px 0px 0px #E3313A;
+        border: 2px solid #FFFFFF;
+        height: 15px;
+        width: 15px;
+        border-radius: 25px;
+        background: #E3313A;
+        cursor: pointer;
+        -webkit-appearance: none;
+        margin-top: -6px;
+    }
+
+    input[type=range]:focus::-webkit-slider-runnable-track {
+        background: #E3313A;
+    }
+
+    input[type=range]::-moz-range-track {
+        width: 100%;
+        height: 5px;
+        cursor: pointer;
+        animate: 0.2s;
+        box-shadow: 0px 0px 0px #000000;
+        background: #E3313A;
+        border-radius: 5px;
+        border: 0px solid #E3313A;
+    }
+
+    input[type=range]::-moz-range-thumb {
+        box-shadow: 0px 0px 0px #E3313A;
+        border: 2px solid #FFFFFF;
+        height: 15px;
+        width: 15px;
+        border-radius: 25px;
+        background: #E3313A;
+        cursor: pointer;
+    }
+
+    input[type=range]::-ms-track {
+        width: 100%;
+        height: 5px;
+        cursor: pointer;
+        animate: 0.2s;
+        background: transparent;
+        border-color: transparent;
+        color: transparent;
+    }
+
+    input[type=range]::-ms-fill-lower {
+        background: #E3313A;
+        border: 0px solid #E3313A;
+        border-radius: 10px;
+        box-shadow: 0px 0px 0px #000000;
+    }
+
+    input[type=range]::-ms-fill-upper {
+        background: #E3313A;
+        border: 0px solid #E3313A;
+        border-radius: 10px;
+        box-shadow: 0px 0px 0px #000000;
+    }
+
+    input[type=range]::-ms-thumb {
+        margin-top: 1px;
+        box-shadow: 0px 0px 0px #E3313A;
+        border: 2px solid #FFFFFF;
+        height: 15px;
+        width: 15px;
+        border-radius: 25px;
+        background: #E3313A;
+        cursor: pointer;
+    }
+
+    input[type=range]:focus::-ms-fill-lower {
+        background: #E3313A;
+    }
+
+    input[type=range]:focus::-ms-fill-upper {
+        background: #E3313A;
+    }

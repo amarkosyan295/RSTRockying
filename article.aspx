@@ -56,6 +56,10 @@
         }
     </style>
     <%} %>
+    <% if (!string.IsNullOrEmpty(PPM.AudioURL))
+        { %>
+    <script src="//rockying.com/bootstrap/js/htmlslider.js" type="text/javascript"></script>
+    <%} %>
     <script type="text/javascript">
         $(window).load(function () {
             $(".youtube").modalbox({
@@ -94,11 +98,64 @@
             <%} %>
             <% if (!string.IsNullOrEmpty(PPM.AudioURL))
                 { %>
-            <div style="padding: 5px; background: #f8f9fa; text-align: center; margin: 0 auto; max-width: 80%;">
-                <h6>Story is available in audio as well.</h6>
-                <audio style="width: 100%; height:50px;" controls src="<%= PPM.AudioURL %>" type="audio/m4a">
-                </audio>
+            <div style="padding: 5px; background: #f8f9fa; text-align: center; max-width: 80%;
+border-radius: 10px;
+position: fixed;
+bottom: 2px;
+width: 300px;
+left: 50%;
+margin-left: -150px;">
+                <h4>You can listen to this story</h4>
+                <table style="width:100%;">
+                    <tbody>
+                        <tr>
+                            <td style="width:30px;">
+                                <button class="btn btn-danger show" type="button" id="btnPlay" onclick="playStoryAudio();"><i class="icon-play icon-white"></i></button>
+                                <button class="btn btn-danger hide" id="btnPause" type="button" onclick="pauseStoryAudio();"><i class="icon-pause icon-white"></i></button>
+                            </td>
+                            <td style="width:30px;"><span id="currenttime" class="label">0</span></td>
+                            <td>
+                                 <input type="range" id="rngSeek" min="0" value="0" onchange="changeSeek(this.value)" /></td>
+                            <td style="width:30px;"><span id="totaltime"  class="label"></span></td>
+                        </tr>
+                    </tbody>
+                </table>
+
+
             </div>
+            <style>
+                
+            </style>
+            <script>
+                var saudio = new Audio('<%= PPM.AudioURL %>');
+                saudio.onloadedmetadata = function () {
+                    $('#totaltime').html(parseInt(saudio.duration, 10));
+                }
+                saudio.ontimeupdate = function () {
+                    $('#rngSeek').val(saudio.currentTime);
+                    $('#currenttime').html(parseInt(saudio.currentTime, 10));
+                }
+                saudio.onplay = function () {
+                    $("#btnPlay").removeClass("show").addClass("hide");
+                    $("#btnPause").removeClass("hide").addClass("show").focus();
+                    $('#rngSeek').attr('max', saudio.duration);
+                    $('#totaltime').html(parseInt(saudio.duration, 10));
+
+                }
+                saudio.onpause = function () {
+                    $("#btnPause").removeClass("show").addClass("hide");
+                    $("#btnPlay").removeClass("hide").addClass("show").focus();
+                }
+                function changeSeek(val) {
+                    saudio.currentTime = val;
+                }
+                function playStoryAudio() {
+                    saudio.play();
+                }
+                function pauseStoryAudio() {
+                    saudio.pause();
+                }
+            </script>
             <%} %>
             <div id="article">
                 <%= PPM.Item.Text %>
