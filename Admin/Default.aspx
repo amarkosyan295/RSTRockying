@@ -77,7 +77,7 @@
                                 <td>
                                     <a href='<%# string.Format("deletearticle.aspx?id={0}", DataBinder.Eval(Container.DataItem, "ID")) %>'>Delete</a>
                                 </td>
-                                <td><a target="_blank" href='<%# string.Format("http://www.rockying.com/a/{0}?preview=true", DataBinder.Eval(Container.DataItem, "URL")) %>'>Preview</a></td>
+                                <td><a target="_blank" href='<%# string.Format("//www.rockying.com/a/{0}?preview=true", DataBinder.Eval(Container.DataItem, "URL")) %>'>Preview</a></td>
                             </tr>
                         </ItemTemplate>
                     </asp:Repeater>

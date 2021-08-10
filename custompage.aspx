@@ -70,6 +70,7 @@
                         <h3><a href="//www.rockying.com/a/<%= HPM.HeroList[i].URL %>" style="">
                             <%: HPM.HeroList[i].Title %>
                         </a></h3>
+                        <p><strong><%:HPM.HeroList[i].CategoryName %></strong> story written by <strong><%:HPM.HeroList[i].WriterName %></strong> </p>
                         <p><%:HPM.HeroList[i].OGDescription %> </p>
                     </div>
                 </div>
@@ -95,6 +96,7 @@
                         <h3><a href="//www.rockying.com/a/<%= HPM.HeroList[i].URL %>">
                             <%= HPM.HeroList[i].Title %>
                         </a></h3>
+                        <p><strong><%:HPM.HeroList[i].CategoryName %></strong> story written by <strong><%:HPM.HeroList[i].WriterName %></strong> </p>
                         <p><%:HPM.HeroList[i].OGDescription %> </p>
                     </div>
                 </div>

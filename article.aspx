@@ -19,9 +19,7 @@
 </asp:Content>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="Server">
-    <!--<link href="//www.rudrasofttech.com/js-tools/bubble/bubble.css" rel="stylesheet"
-        type="text/css" />
-    <script src="//www.rudrasofttech.com/js-tools/bubble/bubble.js" type="text/javascript"></script>-->
+    
     <script src="//code.jquery.com/ui/1.10.3/jquery-ui.js" type="text/javascript"></script>
     <%if (PPM.Item.Text != null && PPM.Item.Text.Contains("rstquestion"))
         { %>
