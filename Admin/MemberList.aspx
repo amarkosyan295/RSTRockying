@@ -44,7 +44,7 @@
         <div class="span12">
             <asp:GridView ID="MemberGridView" runat="server" DataKeyNames="ID" AutoGenerateColumns="False" AllowPaging="True"
                 AllowSorting="false" CssClass="table table-striped table-bordered table-condensed"
-                PageSize="100" OnPageIndexChanging="MemberGridView_PageIndexChanging" OnRowDataBound="MemberGridView_RowDataBound">
+                PageSize="500" OnPageIndexChanging="MemberGridView_PageIndexChanging" OnRowDataBound="MemberGridView_RowDataBound">
                 <Columns>
                     <asp:TemplateField HeaderText="Select">  
                                 <ItemTemplate>  
