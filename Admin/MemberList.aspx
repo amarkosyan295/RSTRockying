@@ -33,10 +33,10 @@
                 </asp:DropDownList>
                 <asp:Button ID="SubmitButton" runat="server" Text="Filter" CssClass="btn btn-primary"
                     CausesValidation="false" OnClick="SubmitButton_Click" />
-                <asp:Button ID="btnDeleteRecords" CausesValidation="false" CssClass="btn" Text="Delete Records" OnClick="btnDeleteRecords_Click"  
-                        runat="server" style="margin-left:25px;" />
-                <asp:Button ID="btnActiveEmail" CausesValidation="false" CssClass="btn" Text="Send Activation Email"   
-                        runat="server" style="margin-left:10px;" OnClick="btnActiveEmail_Click" />
+                <asp:Button ID="btnDeleteRecords" CausesValidation="false" CssClass="btn" Text="Delete Records" OnClick="btnDeleteRecords_Click"
+                    runat="server" Style="margin-left: 25px;" />
+                <asp:Button ID="btnActiveEmail" CausesValidation="false" CssClass="btn" Text="Send Activation Email"
+                    runat="server" Style="margin-left: 10px;" OnClick="btnActiveEmail_Click" />
             </div>
         </div>
     </div>
@@ -46,11 +46,11 @@
                 AllowSorting="false" CssClass="table table-striped table-bordered table-condensed"
                 PageSize="500" OnPageIndexChanging="MemberGridView_PageIndexChanging" OnRowDataBound="MemberGridView_RowDataBound">
                 <Columns>
-                    <asp:TemplateField HeaderText="Select">  
-                                <ItemTemplate>  
-                                    <asp:CheckBox ID="chkSelect" CssClass="chkSelect" runat="server" />  
-                                </ItemTemplate>  
-                            </asp:TemplateField>
+                    <asp:TemplateField HeaderText="Select">
+                        <ItemTemplate>
+                            <asp:CheckBox ID="chkSelect" CssClass="chkSelect" runat="server" />
+                        </ItemTemplate>
+                    </asp:TemplateField>
                     <asp:BoundField DataField="ID" HeaderText="ID" SortExpression="ID" />
                     <asp:BoundField DataField="Email" HeaderText="Email" SortExpression="Email" />
                     <asp:BoundField DataField="Createdate" DataFormatString="{0:d MMM y}" HeaderText="Createdate"

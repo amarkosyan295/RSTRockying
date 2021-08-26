@@ -104,6 +104,8 @@ public partial class Admin_NewsletterDesign : AdminPage
                             builder.Append(Environment.NewLine);
                             builder.Append(string.Format("<a href='{1}/a/{2}?ref=newsletter' style='color:#000;'><h3>{0}</h3></a>\r\n", p.Title, Utility.SiteURL, p.URL, p.Title));
                             builder.Append(Environment.NewLine);
+                            builder.Append(string.Format("<p>{0} story written by {1}</p>", p.Category1.Name, p.WriterName));
+                            builder.Append(Environment.NewLine);
                             builder.Append(string.Format("<p>{0}</p>", p.OGDescription));
                             builder.Append("</li>");
                             //builder.Append("\t<li><hr/></li>\r\n");
