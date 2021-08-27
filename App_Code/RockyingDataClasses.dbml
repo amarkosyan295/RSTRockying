@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><Database Name="rockyclf_rockying" EntityNamespace="Rockying.Models" ContextNamespace="Rockying" Class="RockyingDataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=162.222.225.88;Initial Catalog=rockyclf_rockying;Persist Security Info=True;User ID=rstrockying" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="rockyclf_rockyingConnectionString" Provider="System.Data.SqlClient" />
   <Table Name="dbo.TopStory" Member="TopStories">
     <Type Name="TopStory">
       <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
@@ -108,6 +109,7 @@
       <Association Name="Member_CustomDataSource1" Member="CustomDataSources1" ThisKey="ID" OtherKey="ModifiedBy" Type="CustomDataSource" />
       <Association Name="Member_Post" Member="Posts" ThisKey="ID" OtherKey="CreatedBy" Type="Post" />
       <Association Name="Member_Post1" Member="Posts1" ThisKey="ID" OtherKey="ModifiedBy" Type="Post" />
+      <Association Name="Member_StarRating" Member="StarRatings" ThisKey="ID" OtherKey="MemberID" Type="StarRating" />
       <Association Name="Member_Member" Member="Member1" ThisKey="ModifiedBy" OtherKey="ID" Type="Member" IsForeignKey="true" />
     </Type>
   </Table>
@@ -145,6 +147,7 @@
       <Column Name="Viewed" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
       <Column Name="URL" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
       <Association Name="Post_TopStory" Member="TopStories" ThisKey="ID" OtherKey="PostId" Type="TopStory" />
+      <Association Name="Post_StarRating" Member="StarRatings" ThisKey="ID" OtherKey="PostID" Type="StarRating" />
       <Association Name="Member_Post" Member="Member" ThisKey="CreatedBy" OtherKey="ID" Type="Member" IsForeignKey="true" />
       <Association Name="Member_Post1" Member="Member1" ThisKey="ModifiedBy" OtherKey="ID" Type="Member" IsForeignKey="true" />
       <Association Name="Category_Post" Member="Category1" ThisKey="Category" OtherKey="ID" Type="Category" IsForeignKey="true" />
@@ -161,6 +164,34 @@
       <Association Name="Category_Post" Member="Posts" ThisKey="ID" OtherKey="Category" Type="Post" />
       <Association Name="Category_Category" Member="Categories" ThisKey="ID" OtherKey="Parent" Type="Category" />
       <Association Name="Category_Category" Member="Category1" ThisKey="Parent" OtherKey="ID" Type="Category" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.StarRating" Member="StarRatings">
+    <Type Name="StarRating">
+      <Column Name="ID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="PostID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="Stars" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Comment" Type="System.String" DbType="NVarChar(2000) NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IPAddress" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="VisitID" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" CanBeNull="false" />
+      <Column Name="MemberID" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Association Name="Member_StarRating" Member="Member" ThisKey="MemberID" OtherKey="ID" Type="Member" IsForeignKey="true" />
+      <Association Name="Post_StarRating" Member="Post" ThisKey="PostID" OtherKey="ID" Type="Post" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PageVisit" Member="PageVisits">
+    <Type Name="PageVisit">
+      <Column Name="ID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="VisitID" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" CanBeNull="false" />
+      <Column Name="MemberID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="URLReferer" Type="System.String" DbType="NVarChar(3000) NOT NULL" CanBeNull="false" />
+      <Column Name="PageURL" Type="System.String" DbType="NVarChar(3000) NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Country" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="UserAgent" Type="System.String" DbType="NVarChar(1000) NOT NULL" CanBeNull="false" />
+      <Column Name="LastHeartBeat" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IPAddress" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
     </Type>
   </Table>
 </Database>

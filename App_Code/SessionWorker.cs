@@ -30,28 +30,6 @@ namespace Rockying.Models
 
     public class SessionWorker
     {
-        public static VisitInfo Visit
-        {
-            get
-            {
-
-                if (HttpContext.Current.Session["visit"] != null)
-                {
-                    return (VisitInfo)HttpContext.Current.Session["visit"];
-                }
-                else
-                {
-                    return null;
-                }
-
-
-            }
-            set
-            {
-                HttpContext.Current.Session["visit"] = value;
-            }
-        }
-
         public static Guid VisitID
         {
             get

@@ -58,22 +58,7 @@ namespace Rockying
                 }
             }
 
-            if (!Guid.TryParse(CookieWorker.GetCookie("visit", "visitid"), out visitid))
-            {
-                VisitInfo vi = VisitManager.StartRecording(url, Request.UserAgent, Request.UserHostAddress, DateTime.Now, memberid, name, email, false, Guid.Empty, referer, Request.HttpMethod);
-                vi.SearchKeyword = searchKeyword;
-                CookieWorker.SetCookie("visit", "visitid", vi.ID.ToString(), DateTime.Now.AddDays(2));
-                CacheManager.AddSliding(vi.ID.ToString(), vi, 2);
-            }
-            else
-            {
-                if (CacheManager.Get<VisitInfo>(visitid.ToString()) == null)
-                {
-                    VisitInfo vi = VisitManager.StartRecording(url, Request.UserAgent, Request.UserHostAddress, DateTime.Now, memberid, name, email, true, visitid, referer, Request.HttpMethod);
-                    CookieWorker.SetCookie("visit", "visitid", vi.ID.ToString(), DateTime.Now.AddDays(2));
-                    CacheManager.AddSliding(vi.ID.ToString(), vi, 2);
-                }
-            }
+            
         }
     }
 }

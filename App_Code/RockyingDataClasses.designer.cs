@@ -55,7 +55,19 @@ namespace Rockying
     partial void InsertCategory(Rockying.Models.Category instance);
     partial void UpdateCategory(Rockying.Models.Category instance);
     partial void DeleteCategory(Rockying.Models.Category instance);
+    partial void InsertStarRating(Rockying.Models.StarRating instance);
+    partial void UpdateStarRating(Rockying.Models.StarRating instance);
+    partial void DeleteStarRating(Rockying.Models.StarRating instance);
+    partial void InsertPageVisit(Rockying.Models.PageVisit instance);
+    partial void UpdatePageVisit(Rockying.Models.PageVisit instance);
+    partial void DeletePageVisit(Rockying.Models.PageVisit instance);
     #endregion
+		
+		public RockyingDataClassesDataContext() : 
+				base(global::System.Configuration.ConfigurationManager.ConnectionStrings["RockyingConnectionString"].ConnectionString, mappingSource)
+		{
+			OnCreated();
+		}
 		
 		public RockyingDataClassesDataContext(string connection) : 
 				base(connection, mappingSource)
@@ -150,6 +162,22 @@ namespace Rockying
 			get
 			{
 				return this.GetTable<Rockying.Models.Category>();
+			}
+		}
+		
+		public System.Data.Linq.Table<Rockying.Models.StarRating> StarRatings
+		{
+			get
+			{
+				return this.GetTable<Rockying.Models.StarRating>();
+			}
+		}
+		
+		public System.Data.Linq.Table<Rockying.Models.PageVisit> PageVisits
+		{
+			get
+			{
+				return this.GetTable<Rockying.Models.PageVisit>();
 			}
 		}
 	}
@@ -1843,6 +1871,8 @@ namespace Rockying.Models
 		
 		private EntitySet<Post> _Posts1;
 		
+		private EntitySet<StarRating> _StarRatings;
+		
 		private EntityRef<Member> _Member1;
 		
     #region Extensibility Method Definitions
@@ -1909,6 +1939,7 @@ namespace Rockying.Models
 			this._CustomDataSources1 = new EntitySet<CustomDataSource>(new Action<CustomDataSource>(this.attach_CustomDataSources1), new Action<CustomDataSource>(this.detach_CustomDataSources1));
 			this._Posts = new EntitySet<Post>(new Action<Post>(this.attach_Posts), new Action<Post>(this.detach_Posts));
 			this._Posts1 = new EntitySet<Post>(new Action<Post>(this.attach_Posts1), new Action<Post>(this.detach_Posts1));
+			this._StarRatings = new EntitySet<StarRating>(new Action<StarRating>(this.attach_StarRatings), new Action<StarRating>(this.detach_StarRatings));
 			this._Member1 = default(EntityRef<Member>);
 			OnCreated();
 		}
@@ -2507,6 +2538,19 @@ namespace Rockying.Models
 			}
 		}
 		
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Member_StarRating", Storage="_StarRatings", ThisKey="ID", OtherKey="MemberID")]
+		public EntitySet<StarRating> StarRatings
+		{
+			get
+			{
+				return this._StarRatings;
+			}
+			set
+			{
+				this._StarRatings.Assign(value);
+			}
+		}
+		
 		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Member_Member", Storage="_Member1", ThisKey="ModifiedBy", OtherKey="ID", IsForeignKey=true)]
 		public Member Member1
 		{
@@ -2679,6 +2723,18 @@ namespace Rockying.Models
 		{
 			this.SendPropertyChanging();
 			entity.Member1 = null;
+		}
+		
+		private void attach_StarRatings(StarRating entity)
+		{
+			this.SendPropertyChanging();
+			entity.Member = this;
+		}
+		
+		private void detach_StarRatings(StarRating entity)
+		{
+			this.SendPropertyChanging();
+			entity.Member = null;
 		}
 	}
 	
@@ -3036,6 +3092,8 @@ namespace Rockying.Models
 		
 		private EntitySet<TopStory> _TopStories;
 		
+		private EntitySet<StarRating> _StarRatings;
+		
 		private EntityRef<Member> _Member;
 		
 		private EntityRef<Member> _Member1;
@@ -3085,6 +3143,7 @@ namespace Rockying.Models
 		public Post()
 		{
 			this._TopStories = new EntitySet<TopStory>(new Action<TopStory>(this.attach_TopStories), new Action<TopStory>(this.detach_TopStories));
+			this._StarRatings = new EntitySet<StarRating>(new Action<StarRating>(this.attach_StarRatings), new Action<StarRating>(this.detach_StarRatings));
 			this._Member = default(EntityRef<Member>);
 			this._Member1 = default(EntityRef<Member>);
 			this._Category1 = default(EntityRef<Category>);
@@ -3456,6 +3515,19 @@ namespace Rockying.Models
 			}
 		}
 		
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Post_StarRating", Storage="_StarRatings", ThisKey="ID", OtherKey="PostID")]
+		public EntitySet<StarRating> StarRatings
+		{
+			get
+			{
+				return this._StarRatings;
+			}
+			set
+			{
+				this._StarRatings.Assign(value);
+			}
+		}
+		
 		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Member_Post", Storage="_Member", ThisKey="CreatedBy", OtherKey="ID", IsForeignKey=true)]
 		public Member Member
 		{
@@ -3585,6 +3657,18 @@ namespace Rockying.Models
 		}
 		
 		private void detach_TopStories(TopStory entity)
+		{
+			this.SendPropertyChanging();
+			entity.Post = null;
+		}
+		
+		private void attach_StarRatings(StarRating entity)
+		{
+			this.SendPropertyChanging();
+			entity.Post = this;
+		}
+		
+		private void detach_StarRatings(StarRating entity)
 		{
 			this.SendPropertyChanging();
 			entity.Post = null;
@@ -3867,6 +3951,596 @@ namespace Rockying.Models
 		{
 			this.SendPropertyChanging();
 			entity.Category1 = null;
+		}
+	}
+	
+	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.StarRating")]
+	public partial class StarRating : INotifyPropertyChanging, INotifyPropertyChanged
+	{
+		
+		private static PropertyChangingEventArgs emptyChangingEventArgs = new PropertyChangingEventArgs(String.Empty);
+		
+		private long _ID;
+		
+		private long _PostID;
+		
+		private int _Stars;
+		
+		private string _Comment;
+		
+		private System.DateTime _CreateDate;
+		
+		private string _IPAddress;
+		
+		private System.Guid _VisitID;
+		
+		private System.Nullable<long> _MemberID;
+		
+		private EntityRef<Member> _Member;
+		
+		private EntityRef<Post> _Post;
+		
+    #region Extensibility Method Definitions
+    partial void OnLoaded();
+    partial void OnValidate(System.Data.Linq.ChangeAction action);
+    partial void OnCreated();
+    partial void OnIDChanging(long value);
+    partial void OnIDChanged();
+    partial void OnPostIDChanging(long value);
+    partial void OnPostIDChanged();
+    partial void OnStarsChanging(int value);
+    partial void OnStarsChanged();
+    partial void OnCommentChanging(string value);
+    partial void OnCommentChanged();
+    partial void OnCreateDateChanging(System.DateTime value);
+    partial void OnCreateDateChanged();
+    partial void OnIPAddressChanging(string value);
+    partial void OnIPAddressChanged();
+    partial void OnVisitIDChanging(System.Guid value);
+    partial void OnVisitIDChanged();
+    partial void OnMemberIDChanging(System.Nullable<long> value);
+    partial void OnMemberIDChanged();
+    #endregion
+		
+		public StarRating()
+		{
+			this._Member = default(EntityRef<Member>);
+			this._Post = default(EntityRef<Post>);
+			OnCreated();
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ID", AutoSync=AutoSync.OnInsert, DbType="BigInt NOT NULL IDENTITY", IsPrimaryKey=true, IsDbGenerated=true)]
+		public long ID
+		{
+			get
+			{
+				return this._ID;
+			}
+			set
+			{
+				if ((this._ID != value))
+				{
+					this.OnIDChanging(value);
+					this.SendPropertyChanging();
+					this._ID = value;
+					this.SendPropertyChanged("ID");
+					this.OnIDChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_PostID", DbType="BigInt NOT NULL")]
+		public long PostID
+		{
+			get
+			{
+				return this._PostID;
+			}
+			set
+			{
+				if ((this._PostID != value))
+				{
+					if (this._Post.HasLoadedOrAssignedValue)
+					{
+						throw new System.Data.Linq.ForeignKeyReferenceAlreadyHasValueException();
+					}
+					this.OnPostIDChanging(value);
+					this.SendPropertyChanging();
+					this._PostID = value;
+					this.SendPropertyChanged("PostID");
+					this.OnPostIDChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Stars", DbType="Int NOT NULL")]
+		public int Stars
+		{
+			get
+			{
+				return this._Stars;
+			}
+			set
+			{
+				if ((this._Stars != value))
+				{
+					this.OnStarsChanging(value);
+					this.SendPropertyChanging();
+					this._Stars = value;
+					this.SendPropertyChanged("Stars");
+					this.OnStarsChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Comment", DbType="NVarChar(2000) NOT NULL", CanBeNull=false)]
+		public string Comment
+		{
+			get
+			{
+				return this._Comment;
+			}
+			set
+			{
+				if ((this._Comment != value))
+				{
+					this.OnCommentChanging(value);
+					this.SendPropertyChanging();
+					this._Comment = value;
+					this.SendPropertyChanged("Comment");
+					this.OnCommentChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_CreateDate", DbType="DateTime NOT NULL")]
+		public System.DateTime CreateDate
+		{
+			get
+			{
+				return this._CreateDate;
+			}
+			set
+			{
+				if ((this._CreateDate != value))
+				{
+					this.OnCreateDateChanging(value);
+					this.SendPropertyChanging();
+					this._CreateDate = value;
+					this.SendPropertyChanged("CreateDate");
+					this.OnCreateDateChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_IPAddress", DbType="NVarChar(100) NOT NULL", CanBeNull=false)]
+		public string IPAddress
+		{
+			get
+			{
+				return this._IPAddress;
+			}
+			set
+			{
+				if ((this._IPAddress != value))
+				{
+					this.OnIPAddressChanging(value);
+					this.SendPropertyChanging();
+					this._IPAddress = value;
+					this.SendPropertyChanged("IPAddress");
+					this.OnIPAddressChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_VisitID", DbType="UniqueIdentifier NOT NULL")]
+		public System.Guid VisitID
+		{
+			get
+			{
+				return this._VisitID;
+			}
+			set
+			{
+				if ((this._VisitID != value))
+				{
+					this.OnVisitIDChanging(value);
+					this.SendPropertyChanging();
+					this._VisitID = value;
+					this.SendPropertyChanged("VisitID");
+					this.OnVisitIDChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_MemberID", DbType="BigInt")]
+		public System.Nullable<long> MemberID
+		{
+			get
+			{
+				return this._MemberID;
+			}
+			set
+			{
+				if ((this._MemberID != value))
+				{
+					if (this._Member.HasLoadedOrAssignedValue)
+					{
+						throw new System.Data.Linq.ForeignKeyReferenceAlreadyHasValueException();
+					}
+					this.OnMemberIDChanging(value);
+					this.SendPropertyChanging();
+					this._MemberID = value;
+					this.SendPropertyChanged("MemberID");
+					this.OnMemberIDChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Member_StarRating", Storage="_Member", ThisKey="MemberID", OtherKey="ID", IsForeignKey=true)]
+		public Member Member
+		{
+			get
+			{
+				return this._Member.Entity;
+			}
+			set
+			{
+				Member previousValue = this._Member.Entity;
+				if (((previousValue != value) 
+							|| (this._Member.HasLoadedOrAssignedValue == false)))
+				{
+					this.SendPropertyChanging();
+					if ((previousValue != null))
+					{
+						this._Member.Entity = null;
+						previousValue.StarRatings.Remove(this);
+					}
+					this._Member.Entity = value;
+					if ((value != null))
+					{
+						value.StarRatings.Add(this);
+						this._MemberID = value.ID;
+					}
+					else
+					{
+						this._MemberID = default(Nullable<long>);
+					}
+					this.SendPropertyChanged("Member");
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Post_StarRating", Storage="_Post", ThisKey="PostID", OtherKey="ID", IsForeignKey=true)]
+		public Post Post
+		{
+			get
+			{
+				return this._Post.Entity;
+			}
+			set
+			{
+				Post previousValue = this._Post.Entity;
+				if (((previousValue != value) 
+							|| (this._Post.HasLoadedOrAssignedValue == false)))
+				{
+					this.SendPropertyChanging();
+					if ((previousValue != null))
+					{
+						this._Post.Entity = null;
+						previousValue.StarRatings.Remove(this);
+					}
+					this._Post.Entity = value;
+					if ((value != null))
+					{
+						value.StarRatings.Add(this);
+						this._PostID = value.ID;
+					}
+					else
+					{
+						this._PostID = default(long);
+					}
+					this.SendPropertyChanged("Post");
+				}
+			}
+		}
+		
+		public event PropertyChangingEventHandler PropertyChanging;
+		
+		public event PropertyChangedEventHandler PropertyChanged;
+		
+		protected virtual void SendPropertyChanging()
+		{
+			if ((this.PropertyChanging != null))
+			{
+				this.PropertyChanging(this, emptyChangingEventArgs);
+			}
+		}
+		
+		protected virtual void SendPropertyChanged(String propertyName)
+		{
+			if ((this.PropertyChanged != null))
+			{
+				this.PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
+			}
+		}
+	}
+	
+	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.PageVisit")]
+	public partial class PageVisit : INotifyPropertyChanging, INotifyPropertyChanged
+	{
+		
+		private static PropertyChangingEventArgs emptyChangingEventArgs = new PropertyChangingEventArgs(String.Empty);
+		
+		private long _ID;
+		
+		private System.Guid _VisitID;
+		
+		private long _MemberID;
+		
+		private string _URLReferer;
+		
+		private string _PageURL;
+		
+		private System.DateTime _CreateDate;
+		
+		private string _Country;
+		
+		private string _UserAgent;
+		
+		private System.DateTime _LastHeartBeat;
+		
+		private string _IPAddress;
+		
+    #region Extensibility Method Definitions
+    partial void OnLoaded();
+    partial void OnValidate(System.Data.Linq.ChangeAction action);
+    partial void OnCreated();
+    partial void OnIDChanging(long value);
+    partial void OnIDChanged();
+    partial void OnVisitIDChanging(System.Guid value);
+    partial void OnVisitIDChanged();
+    partial void OnMemberIDChanging(long value);
+    partial void OnMemberIDChanged();
+    partial void OnURLRefererChanging(string value);
+    partial void OnURLRefererChanged();
+    partial void OnPageURLChanging(string value);
+    partial void OnPageURLChanged();
+    partial void OnCreateDateChanging(System.DateTime value);
+    partial void OnCreateDateChanged();
+    partial void OnCountryChanging(string value);
+    partial void OnCountryChanged();
+    partial void OnUserAgentChanging(string value);
+    partial void OnUserAgentChanged();
+    partial void OnLastHeartBeatChanging(System.DateTime value);
+    partial void OnLastHeartBeatChanged();
+    partial void OnIPAddressChanging(string value);
+    partial void OnIPAddressChanged();
+    #endregion
+		
+		public PageVisit()
+		{
+			OnCreated();
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ID", AutoSync=AutoSync.OnInsert, DbType="BigInt NOT NULL IDENTITY", IsPrimaryKey=true, IsDbGenerated=true)]
+		public long ID
+		{
+			get
+			{
+				return this._ID;
+			}
+			set
+			{
+				if ((this._ID != value))
+				{
+					this.OnIDChanging(value);
+					this.SendPropertyChanging();
+					this._ID = value;
+					this.SendPropertyChanged("ID");
+					this.OnIDChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_VisitID", DbType="UniqueIdentifier NOT NULL")]
+		public System.Guid VisitID
+		{
+			get
+			{
+				return this._VisitID;
+			}
+			set
+			{
+				if ((this._VisitID != value))
+				{
+					this.OnVisitIDChanging(value);
+					this.SendPropertyChanging();
+					this._VisitID = value;
+					this.SendPropertyChanged("VisitID");
+					this.OnVisitIDChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_MemberID", DbType="BigInt NOT NULL")]
+		public long MemberID
+		{
+			get
+			{
+				return this._MemberID;
+			}
+			set
+			{
+				if ((this._MemberID != value))
+				{
+					this.OnMemberIDChanging(value);
+					this.SendPropertyChanging();
+					this._MemberID = value;
+					this.SendPropertyChanged("MemberID");
+					this.OnMemberIDChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_URLReferer", DbType="NVarChar(3000) NOT NULL", CanBeNull=false)]
+		public string URLReferer
+		{
+			get
+			{
+				return this._URLReferer;
+			}
+			set
+			{
+				if ((this._URLReferer != value))
+				{
+					this.OnURLRefererChanging(value);
+					this.SendPropertyChanging();
+					this._URLReferer = value;
+					this.SendPropertyChanged("URLReferer");
+					this.OnURLRefererChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_PageURL", DbType="NVarChar(3000) NOT NULL", CanBeNull=false)]
+		public string PageURL
+		{
+			get
+			{
+				return this._PageURL;
+			}
+			set
+			{
+				if ((this._PageURL != value))
+				{
+					this.OnPageURLChanging(value);
+					this.SendPropertyChanging();
+					this._PageURL = value;
+					this.SendPropertyChanged("PageURL");
+					this.OnPageURLChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_CreateDate", DbType="DateTime NOT NULL")]
+		public System.DateTime CreateDate
+		{
+			get
+			{
+				return this._CreateDate;
+			}
+			set
+			{
+				if ((this._CreateDate != value))
+				{
+					this.OnCreateDateChanging(value);
+					this.SendPropertyChanging();
+					this._CreateDate = value;
+					this.SendPropertyChanged("CreateDate");
+					this.OnCreateDateChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Country", DbType="NVarChar(50) NOT NULL", CanBeNull=false)]
+		public string Country
+		{
+			get
+			{
+				return this._Country;
+			}
+			set
+			{
+				if ((this._Country != value))
+				{
+					this.OnCountryChanging(value);
+					this.SendPropertyChanging();
+					this._Country = value;
+					this.SendPropertyChanged("Country");
+					this.OnCountryChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_UserAgent", DbType="NVarChar(1000) NOT NULL", CanBeNull=false)]
+		public string UserAgent
+		{
+			get
+			{
+				return this._UserAgent;
+			}
+			set
+			{
+				if ((this._UserAgent != value))
+				{
+					this.OnUserAgentChanging(value);
+					this.SendPropertyChanging();
+					this._UserAgent = value;
+					this.SendPropertyChanged("UserAgent");
+					this.OnUserAgentChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_LastHeartBeat", DbType="DateTime NOT NULL")]
+		public System.DateTime LastHeartBeat
+		{
+			get
+			{
+				return this._LastHeartBeat;
+			}
+			set
+			{
+				if ((this._LastHeartBeat != value))
+				{
+					this.OnLastHeartBeatChanging(value);
+					this.SendPropertyChanging();
+					this._LastHeartBeat = value;
+					this.SendPropertyChanged("LastHeartBeat");
+					this.OnLastHeartBeatChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_IPAddress", DbType="NVarChar(100)")]
+		public string IPAddress
+		{
+			get
+			{
+				return this._IPAddress;
+			}
+			set
+			{
+				if ((this._IPAddress != value))
+				{
+					this.OnIPAddressChanging(value);
+					this.SendPropertyChanging();
+					this._IPAddress = value;
+					this.SendPropertyChanged("IPAddress");
+					this.OnIPAddressChanged();
+				}
+			}
+		}
+		
+		public event PropertyChangingEventHandler PropertyChanging;
+		
+		public event PropertyChangedEventHandler PropertyChanged;
+		
+		protected virtual void SendPropertyChanging()
+		{
+			if ((this.PropertyChanging != null))
+			{
+				this.PropertyChanging(this, emptyChangingEventArgs);
+			}
+		}
+		
+		protected virtual void SendPropertyChanged(String propertyName)
+		{
+			if ((this.PropertyChanged != null))
+			{
+				this.PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
+			}
 		}
 	}
 }

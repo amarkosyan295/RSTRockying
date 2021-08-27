@@ -110,7 +110,7 @@
                         <a title="Home" href="//www.rockying.com">Home</a> <a title="Privacy Policy"
                             href="//www.rockying.com/PrivacyPolicy">Privacy</a> <a title="Terms and Conditions Of Use"
                                 href="//www.rockying.com/Terms-Of-Use">Terms of Use</a>
-                        <a title="About Rockying" href="//rockying.com/about-rockying">About Us</a>
+                        <a title="About Rockying" href="//www.rockying.com/about-rockying">About Us</a>
                         <a href="#subscribeModal" role="button" id="subscribeBtn" data-toggle="modal">Subscribe</a>
                     </div>
                     <p>
@@ -157,7 +157,7 @@
             <button type="button" class="close hide" id="subscribemodalclosebtn" data-dismiss="modal" aria-hidden="true">×</button>
             <h3 id="subscribeModalLabel">Weekly Newsletter</h3>
         </div>
-        <div class="modal-body" style="height:450px;padding:0px">
+        <div class="modal-body" style="height: 450px; padding: 0px">
             <iframe src="//www.rockying.com/account/subscribe" style="width: 100%; height: 400px; border: 0px;"></iframe>
         </div>
     </div>
@@ -165,6 +165,29 @@
         $('#subscribeModal').on('show', function () {
             setTimeout(function () { $("#subscribemodalclosebtn").show(); }, 5000);
         })
+        var vid = "<%= Guid.NewGuid().ToString() %>";
+        if (sessionStorage.getItem("vid") != null) {
+            vid = sessionStorage.getItem("vid");
+        } else {
+            sessionStorage.setItem("vid", vid);
+        }
+        var pageid = 0;
+        var url = "<%= Request.Url.AbsoluteUri%>";
+        var useragent = "<%= Request.UserAgent %>";
+        var ip = "<%= Request.UserHostAddress %>";
+        var referer = "<%= Request.UrlReferrer != null ?  Request.UrlReferrer.AbsoluteUri : "" %>";
+        $.post("//www.rockying.com/handlers/recordvisit.ashx", { url: url, ua: useragent, ip: ip, referer: referer, visitid: vid, action: "add" },
+            function (data) {
+                pageid = parseInt(data, 10);
+                console.log(pageid);
+                setInterval(recordhb, 2000);
+            });
+
+        function recordhb() {
+            $.post("//www.rockying.com/handlers/recordvisit.ashx", { url: url, pageid: pageid, visitid: vid, action: "hb" },
+                function () { });
+        }
     </script>
+
 </body>
 </html>

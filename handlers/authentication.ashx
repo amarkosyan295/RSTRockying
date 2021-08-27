@@ -35,17 +35,7 @@ public class authentication : IHttpHandler, System.Web.SessionState.IRequiresSes
                 MemberImage = m.MemberImage,
                 UserName = m.UserName
             }));
-            //add name, email and member id in current visit
-            Guid visitid;
-            if (Guid.TryParse(CookieWorker.GetCookie("visit", "visitid"), out visitid))
-            {
-                if (CacheManager.Get<VisitInfo>(visitid.ToString()) != null)
-                {
-                    VisitManager vm = new VisitManager(CacheManager.Get<VisitInfo>(visitid.ToString()));
-                    VisitInfo vi = vm.UpdateVisitorInfo(m.ID, m.MemberName, m.Email, m.MemberImage);
-                    CacheManager.AddSliding(vi.ID.ToString(), vi, 2);
-                }
-            }
+            
         }
         else
         {
