@@ -12,6 +12,7 @@ public partial class _Article : BasePage
     //public int ID { get; set; }
     public Member CurrentUser { get; set; }
     public bool Preview { get; set; }
+    public decimal PostRating { get; set; }
 
     protected void Page_Load(object sender, EventArgs e)
     {
@@ -55,7 +56,8 @@ public partial class _Article : BasePage
                 Article a = new Article();
                 try
                 {
-                    if (!string.IsNullOrWhiteSpace(item.Article)) {
+                    if (!string.IsNullOrWhiteSpace(item.Article))
+                    {
                         a = Utility.Deserialize<Article>(item.Article);
                     }
                     //else
@@ -108,6 +110,7 @@ public partial class _Article : BasePage
                     //change article text add HTML tags.
                     PPM.Item.Text = string.Format("<p>{0}</p>", PPM.Item.Text.Replace("\n", "</p><p>"));
                 }
+                GetRating();
                 //#region Replace Custom Data Source
                 //DataSourceManager dsm = new DataSourceManager();
                 //if (PPM.Item.TemplateName == string.Empty)
@@ -272,9 +275,9 @@ public partial class _Article : BasePage
                 }
                 //- 3 latest stories by other writers in same category
                 var Latest3SameCatOtherWrites = (from t in dc.Posts
-                 where t.CreatedBy != item.CreatedBy && t.Category == item.Category
-                     && (t.Status == (byte)PostStatusType.Publish)
-                 select t).OrderByDescending(t => t.DateCreated).Take(3);
+                                                 where t.CreatedBy != item.CreatedBy && t.Category == item.Category
+                                                     && (t.Status == (byte)PostStatusType.Publish)
+                                                 select t).OrderByDescending(t => t.DateCreated).Take(3);
                 foreach (Post p in Latest3SameCatOtherWrites)
                 {
                     if (PPM.NextByWriter != null && p.ID == PPM.NextByWriter.ID)
@@ -289,23 +292,23 @@ public partial class _Article : BasePage
                     {
                         continue;
                     }
-                   
+
                     PPM.RecommendationList.Add(new Article(p));
                 }
                 //- 1 latest story by writer in other category
                 var LatestStoryByWriterInOtherCat = (from t in dc.Posts
-                                                 where t.CreatedBy == item.CreatedBy && 
-                                                 t.Category != item.Category && 
-                                                 t.Status == (byte)PostStatusType.Publish 
-                                                 select t).OrderByDescending(t => t.DateCreated).FirstOrDefault();
-                if(LatestStoryByWriterInOtherCat != null)
+                                                     where t.CreatedBy == item.CreatedBy &&
+                                                     t.Category != item.Category &&
+                                                     t.Status == (byte)PostStatusType.Publish
+                                                     select t).OrderByDescending(t => t.DateCreated).FirstOrDefault();
+                if (LatestStoryByWriterInOtherCat != null)
                 {
                     PPM.RecommendationList.Add(new Article(LatestStoryByWriterInOtherCat));
                 }
 
                 //- 5 latest stories on site in all categories
                 var Latest5AllCat = (from t in dc.Posts
-                                                 where (PPM.Item != null && t.ID !=PPM.Item.ID) && t.Status == (byte)PostStatusType.Publish 
+                                     where (PPM.Item != null && t.ID != PPM.Item.ID) && t.Status == (byte)PostStatusType.Publish
                                      select t).OrderByDescending(t => t.DateCreated).Take(5);
                 foreach (Post p in Latest5AllCat)
                 {
@@ -319,10 +322,10 @@ public partial class _Article : BasePage
                     }
                     PPM.RecommendationList.Add(new Article(p));
                 }
-                
+
                 foreach (TopStory ts in dc.TopStories)
                 {
-                    
+
                     if (PPM.NextByWriter != null && ts.PostId == PPM.NextByWriter.ID)
                     {
                         continue;
@@ -335,11 +338,29 @@ public partial class _Article : BasePage
                     {
                         continue;
                     }
-                    
+
                     PPM.RecommendationList.Add(new Article(ts.Post));
                 }
             }
 
+        }
+
+    }
+
+    private void GetRating()
+    {
+        using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+        {
+            Post p = dc.Posts.FirstOrDefault(t => t.ID == PPM.Item.ID);
+            if (p != null)
+            {
+                var ratingcount = dc.StarRatings.Count(t => t.PostID == p.ID);
+                if (ratingcount > 0)
+                {
+                    var totalrating = dc.StarRatings.Where(t => t.PostID == p.ID).Sum(t => t.Stars);
+                    PostRating = totalrating / ratingcount;
+                }
+            }
         }
 
     }

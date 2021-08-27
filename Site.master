@@ -33,7 +33,6 @@
     <script src="//www.rudrasofttech.com/js-tools/modal/modal.js" type="text/javascript"></script>
     <!--<script src="//www.rockying.com/bootstrap/js/jquery.cookie.js" type="text/javascript"></script>-->
     <script src="//www.rockying.com/bootstrap/js/bootstrap.js" type="text/javascript"></script>
-    <!--<script type="text/javascript" src="//www.rudrasofttech.com/js-tools/dataupdate/dataupdate.js"></script>-->
     <%} %>
     <asp:ContentPlaceHolder ID="HeadContent" runat="server">
     </asp:ContentPlaceHolder>

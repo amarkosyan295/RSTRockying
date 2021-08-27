@@ -19,9 +19,14 @@
 </asp:Content>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="Server">
-    
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        .checked {
+            color: orange;
+        }
+    </style>
     <script src="//code.jquery.com/ui/1.10.3/jquery-ui.js" type="text/javascript"></script>
-   
     <%if (PPM.Item.Text != null && PPM.Item.Text.Contains("rstquestion"))
         { %>
     <link href="//www.rockying.com/bootstrap/css/customquestion.css" rel="stylesheet"
@@ -57,7 +62,7 @@
     <%} %>
     <% if (!string.IsNullOrEmpty(PPM.AudioURL))
         { %>
-    <script src="//rockying.com/bootstrap/js/htmlslider.js" type="text/javascript"></script>
+    <script src="//www.rockying.com/bootstrap/js/htmlslider.js" type="text/javascript"></script>
     <%} %>
     <script type="text/javascript">
         $(window).load(function () {
@@ -86,6 +91,46 @@
                     else
                     { %><a href="<%= string.Format("../{0}/index", PPM.ArticleCategory.UrlName) %>"><%: PPM.Item.CategoryName%> Story</a>
                 <%} %>
+                <%if (PostRating > 0 && PostRating <= 1)
+                    { %>
+                <span class="fa fa-star checked"></span>
+                <span class="fa fa-star"></span>
+                <span class="fa fa-star"></span>
+                <span class="fa fa-star"></span>
+                <span class="fa fa-star"></span>
+                <%}
+                    else if (PostRating > 1 && PostRating <= 2)
+                    {%>
+                <span class="fa fa-star checked"></span>
+                <span class="fa fa-star checked"></span>
+                <span class="fa fa-star"></span>
+                <span class="fa fa-star"></span>
+                <span class="fa fa-star"></span>
+                <%}
+                    else if (PostRating > 2 && PostRating <= 3)
+                    {%>
+                <span class="fa fa-star checked"></span>
+                <span class="fa fa-star checked"></span>
+                <span class="fa fa-star checked"></span>
+                <span class="fa fa-star"></span>
+                <span class="fa fa-star"></span>
+                <%}
+                    else if (PostRating > 3 && PostRating <= 4)
+                    {%>
+                <span class="fa fa-star checked"></span>
+                <span class="fa fa-star checked"></span>
+                <span class="fa fa-star checked"></span>
+                <span class="fa fa-star checked"></span>
+                <span class="fa fa-star"></span>
+                <%}
+                    else if (PostRating > 4 && PostRating <= 5)
+                    {%>
+                <span class="fa fa-star checked"></span>
+                <span class="fa fa-star checked"></span>
+                <span class="fa fa-star checked"></span>
+                <span class="fa fa-star checked"></span>
+                <span class="fa fa-star checked"></span>
+                <%} %>
             </p>
             <%
                 //articles created by admin have their own images.
@@ -95,36 +140,27 @@
                 <img src="<%: PPM.Item.OGImage %>" class="img-rounded" alt="" style="margin-top: 5px; margin-bottom: 10px;" />
             </div>
             <%} %>
-            <% if (!string.IsNullOrEmpty(PPM.AudioURL))
+            <% 
+                //this html will only be added if there is an audio avialable
+                if (!string.IsNullOrEmpty(PPM.AudioURL))
                 { %>
-            <div style="padding: 5px; background: #f8f9fa; text-align: center; max-width: 80%;
-border-radius: 10px;
-position: fixed;
-bottom: 2px;
-width: 300px;
-left: 50%;
-margin-left: -150px;">
+            <div style="padding: 5px; background: #f8f9fa; text-align: center; max-width: 80%; border-radius: 10px; position: fixed; bottom: 2px; width: 300px; left: 50%; margin-left: -150px;">
                 <h4>You can listen to this story</h4>
-                <table style="width:100%;">
+                <table style="width: 100%;">
                     <tbody>
                         <tr>
-                            <td style="width:30px;">
+                            <td style="width: 30px;">
                                 <button class="btn btn-danger show" type="button" id="btnPlay" onclick="playStoryAudio();"><i class="icon-play icon-white"></i></button>
                                 <button class="btn btn-danger hide" id="btnPause" type="button" onclick="pauseStoryAudio();"><i class="icon-pause icon-white"></i></button>
                             </td>
-                            <td style="width:30px;"><span id="currenttime" class="label">0</span></td>
+                            <td style="width: 30px;"><span id="currenttime" class="label">0</span></td>
                             <td>
-                                 <input type="range" id="rngSeek" min="0" value="0" onchange="changeSeek(this.value)" /></td>
-                            <td style="width:30px;"><span id="totaltime"  class="label"></span></td>
+                                <input type="range" id="rngSeek" min="0" value="0" onchange="changeSeek(this.value)" /></td>
+                            <td style="width: 30px;"><span id="totaltime" class="label"></span></td>
                         </tr>
                     </tbody>
                 </table>
-
-
             </div>
-            <style>
-                
-            </style>
             <script>
                 var saudio = new Audio('<%= PPM.AudioURL %>');
                 saudio.onloadedmetadata = function () {
@@ -159,7 +195,20 @@ margin-left: -150px;">
             <div id="article">
                 <%= PPM.Item.Text %>
             </div>
-
+            <h4 style="margin-top: 20px;">
+                <span class="sectionheading">Rate The Story</span>
+            </h4>
+            <div style="margin: 10px 0px; text-align: center;">
+                <div class="btn-toolbar" style="margin: 0;">
+                    <div class="btn-group">
+                        <button type="button" id="btn1star" class="btn btn-large" onclick="postRating(1)" onmouseover="toggleCheckedStar(1, true)" onmouseout="toggleCheckedStar(1, false)">1 <span class="fa fa-star"></span></button>
+                        <button type="button" id="btn2star" class="btn btn-large" onclick="postRating(2)" onmouseover="toggleCheckedStar(2, true)" onmouseout="toggleCheckedStar(2, false)">2 <span class="fa fa-star"></span></button>
+                        <button type="button" id="btn3star" class="btn btn-large" onclick="postRating(3)" onmouseover="toggleCheckedStar(3, true)" onmouseout="toggleCheckedStar(3, false)">3 <span class="fa fa-star"></span></button>
+                        <button type="button" id="btn4star" class="btn btn-large" onclick="postRating(4)" onmouseover="toggleCheckedStar(4, true)" onmouseout="toggleCheckedStar(4, false)">4 <span class="fa fa-star"></span></button>
+                        <button type="button" id="btn5star" class="btn btn-large" onclick="postRating(5)" onmouseover="toggleCheckedStar(5, true)" onmouseout="toggleCheckedStar(5, false)">5 <span class="fa fa-star"></span></button>
+                    </div>
+                </div>
+            </div>
             <h4 style="margin-top: 20px;">
                 <span class="sectionheading">Share It</span>
             </h4>
@@ -251,5 +300,22 @@ margin-left: -150px;">
         if (sessionStorage.getItem("subscribeshown") == null) {
             setTimeout(function () { $("#subscribeBtn").click(); sessionStorage.setItem("subscribeshown", "true"); }, 5000);
         }
+
+        function toggleCheckedStar(val, toggle) {
+            for (i = 1; i <= val; i++) {
+                if (toggle) {
+                    $("#btn" + i + "star > span.fa.fa-star").addClass("checked");
+                } else {
+                    $("#btn" + i + "star > span.fa.fa-star").removeClass("checked");
+                }
+            }
+        }
+
+        function postRating(val) {
+            $.post("//www.rockying.com/handlers/rating.ashx", { star: val, post: parseInt("<%= PPM.Item.ID.ToString()%>", 10), comment: '', ip: ip, visitid: sessionStorage.getItem("vid"), action: "add" },
+                function () {
+                });
+        }
+        
     </script>
 </asp:Content>
