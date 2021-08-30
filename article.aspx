@@ -60,6 +60,8 @@
         }
     </style>
     <%} %>
+    <link href="//www.rudrasofttech.com/js-tools/bubble/bubble.css" rel="stylesheet" type="text/css" />
+    <script src="//www.rudrasofttech.com/js-tools/bubble/bubble.js" type="text/javascript"></script>
     <% if (!string.IsNullOrEmpty(PPM.AudioURL))
         { %>
     <script src="//www.rockying.com/bootstrap/js/htmlslider.js" type="text/javascript"></script>
@@ -195,28 +197,53 @@
             <div id="article">
                 <%= PPM.Item.Text %>
             </div>
-            <h4 style="margin-top: 20px;">
-                <span class="sectionheading">Rate The Story</span>
-            </h4>
-            <div style="margin: 10px 0px; text-align: center;">
-                <div class="btn-toolbar" style="margin: 0;">
-                    <div class="btn-group">
-                        <button type="button" id="btn1star" class="btn btn-large" onclick="postRating(1)" onmouseover="toggleCheckedStar(1, true)" onmouseout="toggleCheckedStar(1, false)">1 <span class="fa fa-star"></span></button>
-                        <button type="button" id="btn2star" class="btn btn-large" onclick="postRating(2)" onmouseover="toggleCheckedStar(2, true)" onmouseout="toggleCheckedStar(2, false)">2 <span class="fa fa-star"></span></button>
-                        <button type="button" id="btn3star" class="btn btn-large" onclick="postRating(3)" onmouseover="toggleCheckedStar(3, true)" onmouseout="toggleCheckedStar(3, false)">3 <span class="fa fa-star"></span></button>
-                        <button type="button" id="btn4star" class="btn btn-large" onclick="postRating(4)" onmouseover="toggleCheckedStar(4, true)" onmouseout="toggleCheckedStar(4, false)">4 <span class="fa fa-star"></span></button>
-                        <button type="button" id="btn5star" class="btn btn-large" onclick="postRating(5)" onmouseover="toggleCheckedStar(5, true)" onmouseout="toggleCheckedStar(5, false)">5 <span class="fa fa-star"></span></button>
+            <div class="row-fluid" style="margin: 20px 0px;">
+                <div class="span6">
+                    <h4>
+                        <span class="sectionheading">Rate The Story</span>
+                    </h4>
+                    <div style="margin: 10px 0px; text-align: center;">
+                        <div class="btn-toolbar" style="margin: 0;">
+                            <div class="btn-group" data-bubbleid="ratingbubble" id="ratingbtngrp">
+                                <button type="button" id="btn1star" class="btn btn-large" onclick="postRating(1)" onmouseover="toggleCheckedStar(1, true)" onmouseout="toggleCheckedStar(1, false)">1 <span class="fa fa-star"></span></button>
+                                <button type="button" id="btn2star" class="btn btn-large" onclick="postRating(2)" onmouseover="toggleCheckedStar(2, true)" onmouseout="toggleCheckedStar(2, false)">2 <span class="fa fa-star"></span></button>
+                                <button type="button" id="btn3star" class="btn btn-large" onclick="postRating(3)" onmouseover="toggleCheckedStar(3, true)" onmouseout="toggleCheckedStar(3, false)">3 <span class="fa fa-star"></span></button>
+                                <button type="button" id="btn4star" class="btn btn-large" onclick="postRating(4)" onmouseover="toggleCheckedStar(4, true)" onmouseout="toggleCheckedStar(4, false)">4 <span class="fa fa-star"></span></button>
+                                <button type="button" id="btn5star" class="btn btn-large" onclick="postRating(5)" onmouseover="toggleCheckedStar(5, true)" onmouseout="toggleCheckedStar(5, false)">5 <span class="fa fa-star"></span></button>
+                            </div>
+                        </div>
+                        <div class="rst-bubble" id="ratingbubble">
+                            <div class="rst-bubble-body" style="width: 300px; max-height: 300px;">
+                                Please give a star rating to this story. You can click any button to give your desired rating.
+                                <button type="button" onclick='$("#ratingbtngrp").bubble("close");' class="btn btn-small">Close</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="span6">
+                    <h4>
+                        <span class="sectionheading">Share It</span>
+                    </h4>
+                    <div class="addthis_inline_share_toolbox" id="shareitbtngrp" data-bubbleid="shareitbubble"></div>
+                    <div class="rst-bubble" id="shareitbubble">
+                        <div class="rst-bubble-body" style="width: 300px; max-height: 300px;">
+                            Share this story with your friends.
+                                <button type="button" onclick='$("#shareitbtngrp").bubble("close");' class="btn btn-small">Close</button>
+                        </div>
                     </div>
                 </div>
             </div>
-            <h4 style="margin-top: 20px;">
-                <span class="sectionheading">Share It</span>
-            </h4>
-            <div class="addthis_inline_share_toolbox"></div>
+
+
+
+
             <div style="margin: 10px 0px;">
                 <iframe src="//www.rockying.com/account/subscribe" style="width: 100%; height: 300px; border: 0px;"></iframe>
             </div>
-            <div id="disqus_thread"></div>
+            <h4 style="text-align: left;">
+                <span class="sectionheading">Comments</span>
+            </h4>
+            <div id="disqus_thread" style="padding: 15px;"></div>
             <script type="text/javascript">
 
                 /**
@@ -296,7 +323,16 @@
     </div>
     <% }
         }%>
+</asp:Content>
+<asp:Content ContentPlaceHolderID="BottomContent" ID="Content3" runat="server">
     <script>
+        var RatingAction = { count: 0, status: "" };
+        $(document).ready(
+            function () {
+                $("#shareitbtngrp").bubble({ Position: 'bottom' });
+                $("#ratingbtngrp").bubble({ Position: 'bottom', OnClose: function () { $("#shareitbtngrp").bubble("open"); }  });
+            }
+        );
         if (sessionStorage.getItem("subscribeshown") == null) {
             setTimeout(function () { $("#subscribeBtn").click(); sessionStorage.setItem("subscribeshown", "true"); }, 5000);
         }
@@ -312,10 +348,23 @@
         }
 
         function postRating(val) {
-            $.post("//www.rockying.com/handlers/rating.ashx", { star: val, post: parseInt("<%= PPM.Item.ID.ToString()%>", 10), comment: '', ip: ip, visitid: sessionStorage.getItem("vid"), action: "add" },
-                function () {
-                });
+            $.post("//www.rockying.com/handlers/rating.ashx",
+                { star: val, post: parseInt("<%= PPM.Item.ID.ToString()%>", 10), comment: '', ip: visit.ip, visitid: visit.id, action: "add" },
+                function () { RatingAction.status = "success"; });
         }
-        
+
+
+        function TakeAction() {
+            if (visit.timespent / 1000 >= 10) {
+                if (RatingAction.status != "success" && (RatingAction.count >= 0 && RatingAction.count <= 5)) {
+                    setTimeout(function () { $("#ratingbtngrp").bubble('open'); }, RatingAction.count * 2000);
+                    RatingAction.count += 1;
+                    //setTimeout(function () { $("#ratingbtngrp").bubble('close'); RatingAction.shown = false; }, 3000);
+                }
+            }
+        }
+
+        setInterval(TakeAction, 2000);
+
     </script>
 </asp:Content>
