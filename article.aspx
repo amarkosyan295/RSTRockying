@@ -330,12 +330,12 @@
         $(document).ready(
             function () {
                 $("#shareitbtngrp").bubble({ Position: 'bottom' });
-                $("#ratingbtngrp").bubble({ Position: 'bottom', OnClose: function () { $("#shareitbtngrp").bubble("open"); }  });
+                $("#ratingbtngrp").bubble({ Position: 'bottom', OnClose: function () { $("#shareitbtngrp").bubble("open"); } });
             }
         );
-        if (sessionStorage.getItem("subscribeshown") == null) {
-            setTimeout(function () { $("#subscribeBtn").click(); sessionStorage.setItem("subscribeshown", "true"); }, 5000);
-        }
+        //if (sessionStorage.getItem("subscribeshown") == null) {
+        //    setTimeout(function () { $("#subscribeBtn").click(); sessionStorage.setItem("subscribeshown", "true"); }, 5000);
+        //}
 
         function toggleCheckedStar(val, toggle) {
             for (i = 1; i <= val; i++) {
@@ -350,18 +350,36 @@
         function postRating(val) {
             $.post("//www.rockying.com/handlers/rating.ashx",
                 { star: val, post: parseInt("<%= PPM.Item.ID.ToString()%>", 10), comment: '', ip: visit.ip, visitid: visit.id, action: "add" },
-                function () { RatingAction.status = "success"; });
+                function () { }).done(function () {
+                    RatingAction.status = "success";
+                    for (i = 1; i <= 5; i++) {
+                        $("#btn" + i + "star > span.fa.fa-star").removeClass("checked");
+                    }
+
+                    for (i = 1; i <= val; i++) {
+                        $("#btn" + i + "star > span.fa.fa-star").addClass("checked");
+                    }
+                });
         }
 
 
         function TakeAction() {
-            if (visit.timespent / 1000 >= 10) {
-                if (RatingAction.status != "success" && (RatingAction.count >= 0 && RatingAction.count <= 5)) {
+            if (visit.timespent / 1000 >= 10 && isScrolledIntoView($("#ratingbtngrp").get(0))) {
+                if (RatingAction.status != "success" && (RatingAction.count >= 0 && RatingAction.count < 5)) {
                     setTimeout(function () { $("#ratingbtngrp").bubble('open'); }, RatingAction.count * 2000);
                     RatingAction.count += 1;
-                    //setTimeout(function () { $("#ratingbtngrp").bubble('close'); RatingAction.shown = false; }, 3000);
                 }
             }
+        }
+
+        function isScrolledIntoView(elem) {
+            var docViewTop = $(window).scrollTop();
+            var docViewBottom = docViewTop + $(window).height();
+
+            var elemTop = $(elem).offset().top;
+            var elemBottom = elemTop + $(elem).height();
+
+            return ((elemBottom <= docViewBottom) && (elemTop >= docViewTop));
         }
 
         setInterval(TakeAction, 2000);
