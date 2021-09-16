@@ -90,8 +90,16 @@
                             SetFocusOnError="True"></asp:RequiredFieldValidator>
                     </div>
                 </div>
-                
-                
+                <div class="control-group">
+                    <label class="control-label" for="<%: WriterTextBox.ClientID %>">
+                        Writer Name</label>
+                    <div class="controls">
+                        <asp:TextBox CssClass="span12" ID="WriterTextBox" MaxLength="250" runat="server"></asp:TextBox>
+                        <asp:RequiredFieldValidator ID="WriterReqVal" ValidationGroup="VideoGrp" ControlToValidate="WriterTextBox"
+                            runat="server" ErrorMessage="Required" CssClass="validate" Display="Dynamic"
+                            SetFocusOnError="True"></asp:RequiredFieldValidator>
+                    </div>
+                </div>
                 <div class="control-group">
                     <label class="control-label" for="<%: FacebookImageTextBox.ClientID %>">
                         Image</label>

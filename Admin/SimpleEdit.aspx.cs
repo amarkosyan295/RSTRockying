@@ -103,7 +103,7 @@ public partial class Admin_SimpleEdit : AdminPage
         TitleTextBox.Text = a.Title;
         //MetaTitleTextBox.Text = a.MetaTitle;
         TagTextBox.Text = a.Tag;
-        //WriterTextBox.Text = a.WriterName;
+        WriterTextBox.Text = a.WriterName;
         //WriterEmailTextBox.Text = a.WriterEmail;
         CategoryDropDown.SelectedValue = a.Category.ToString();
         FacebookImageTextBox.Text = a.OGImage.Replace("http://rockying.com/", "//rockying.com/").Replace("http://rudrasofttech.com/rockying/", "//rockying.com/").Replace("http://www.rudrasofttech.com/rockying/", "//rockying.com/").Replace("http://www.rockying.com/", "//rockying.com/"); ;
@@ -130,7 +130,7 @@ public partial class Admin_SimpleEdit : AdminPage
             a.Text = TextTextBox.Text.Trim();
             a.Title = TitleTextBox.Text.Trim();
             a.WriterEmail = CurrentUser.Email;
-            a.WriterName = CurrentUser.MemberName.Trim();
+            a.WriterName = WriterTextBox.Text.Trim(); //CurrentUser.MemberName.Trim();
             a.TemplateName = "LeftColumnBlogTemplate";
             a.URL = URLTextBox.Text;
             a.MetaTitle = a.Title;
