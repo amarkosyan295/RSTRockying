@@ -25,7 +25,7 @@ public partial class Admin_SimpleEdit : AdminPage
             }
 
             HeadingLit.Text = "Edit";
-            PopulateArticle();
+            //PopulateArticle();
         }
 
         if (!Page.IsCallback && !Page.IsPostBack)
@@ -99,19 +99,25 @@ public partial class Admin_SimpleEdit : AdminPage
 
     private void PopulateForm()
     {
-        URLTextBox.Text = a.URL;
-        TitleTextBox.Text = a.Title;
-        //MetaTitleTextBox.Text = a.MetaTitle;
-        TagTextBox.Text = a.Tag;
-        WriterTextBox.Text = a.WriterName;
-        //WriterEmailTextBox.Text = a.WriterEmail;
-        CategoryDropDown.SelectedValue = a.Category.ToString();
-        FacebookImageTextBox.Text = a.OGImage.Replace("http://rockying.com/", "//rockying.com/").Replace("http://rudrasofttech.com/rockying/", "//rockying.com/").Replace("http://www.rudrasofttech.com/rockying/", "//rockying.com/").Replace("http://www.rockying.com/", "//rockying.com/"); ;
-        FacebookDescTextBox.Text = a.OGDescription;
-        StatusDropDown.SelectedValue = ((byte)a.Status).ToString();
-        TextTextBox.Text = a.Text.Replace("http://rockying.com/", "//rockying.com/").Replace("http://rudrasofttech.com/rockying/", "//rockying.com/").Replace("http://www.rudrasofttech.com/rockying/", "//rockying.com/").Replace("http://www.rockying.com/", "//rockying.com/");
-        //TemplateDropDown.SelectedValue = a.TemplateName;
-        //previewLink.NavigateUrl = string.Format("{0}/a/{1}{2}", Utility.SiteURL, a.URL, a.Status == PostStatusType.Draft ? "?preview=true" : "");
+        using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
+        {
+
+
+            Post p = (from t in dc.Posts where t.ID == ID select t).SingleOrDefault();
+            URLTextBox.Text = p.URL;
+            TitleTextBox.Text = p.Title;
+            //MetaTitleTextBox.Text = p.MetaTitle;
+            TagTextBox.Text = p.Tag;
+            WriterTextBox.Text = p.WriterName;
+            //WriterEmailTextBox.Text = p.WriterEmail;
+            CategoryDropDown.SelectedValue = p.Category.ToString();
+            FacebookImageTextBox.Text = p.OGImage.Replace("http://rockying.com/", "//rockying.com/").Replace("http://rudrasofttech.com/rockying/", "//rockying.com/").Replace("http://www.rudrasofttech.com/rockying/", "//rockying.com/").Replace("http://www.rockying.com/", "//rockying.com/"); ;
+            FacebookDescTextBox.Text = p.OGDescription;
+            StatusDropDown.SelectedValue = ((byte)p.Status).ToString();
+            TextTextBox.Text = p.Article.Replace("http://rockying.com/", "//rockying.com/").Replace("http://rudrasofttech.com/rockying/", "//rockying.com/").Replace("http://www.rudrasofttech.com/rockying/", "//rockying.com/").Replace("http://www.rockying.com/", "//rockying.com/");
+            //TemplateDropDown.SelectedValue = p.TemplateName;
+            //previewLink.NavigateUrl = string.Format("{0}/a/{1}{2}", Utility.SiteURL, p.URL, p.Status == PostStatusType.Draft ? "?preview=true" : "");
+        }
     }
 
     protected void SubmitButton_Click(object sender, EventArgs e)
@@ -140,20 +146,20 @@ public partial class Admin_SimpleEdit : AdminPage
                 {
                     string str = Utility.Serialize<Article>(a);
                     Post p = (from t in dc.Posts where t.ID == ID select t).SingleOrDefault();
-                    p.Category = a.Category;
+                    p.Category = int.Parse(CategoryDropDown.SelectedValue);
                     p.DateModified = DateTime.Now;
-                    p.Description = a.Description;
                     p.ID = ID;
                     p.ModifiedBy = CurrentUser.ID;
-                    p.Status = (byte)a.Status;
-                    p.Tag = a.Tag;
-                    p.Title = a.Title;
-                    p.WriterEmail = a.WriterEmail;
-                    p.WriterName = a.WriterName;
-                    p.OGDescription = a.OGDescription;
-                    p.OGImage = a.OGImage;
-                    p.URL = a.URL;
-                    p.Article = str;
+                    p.Status = byte.Parse(StatusDropDown.SelectedValue);
+                    p.Tag = TagTextBox.Text.Trim();
+                    p.Title = TitleTextBox.Text.Trim();
+                    p.WriterEmail = CurrentUser.Email;
+                    p.WriterName = WriterTextBox.Text.Trim();
+                    p.OGDescription = FacebookDescTextBox.Text.Trim();
+                    p.OGImage = FacebookImageTextBox.Text.Trim();
+                    p.Description = string.Format("<img src='{0}' alt='' /><p>{1}</p>", p.OGImage, p.OGDescription);
+                    p.URL = URLTextBox.Text;
+                    p.Article = TextTextBox.Text.Trim();
                     if ((byte)a.Status != p.Status)
                     {
                         notifyEmail = string.Format("Dear {0},<br/><br/> Your article is in {3} mode. Check it here <a href='{1}'>{1}</a>. <br/><br/>Thanks,<br/>{2}",
@@ -176,20 +182,19 @@ public partial class Admin_SimpleEdit : AdminPage
 
                     string str = Utility.Serialize<Article>(a);
                     Post p = new Post();
-                    p.Category = a.Category;
+                    p.Category = int.Parse(CategoryDropDown.SelectedValue);
                     p.DateCreated = DateTime.Now;
-                    p.Description = a.Description;
                     p.CreatedBy = CurrentUser.ID;
-                    p.Status = (byte)a.Status;
-                    p.Tag = a.Tag;
-                    p.Title = a.Title;
-                    p.WriterEmail = a.WriterEmail;
-                    p.WriterName = a.WriterName;
-                    p.OGDescription = a.OGDescription;
-                    p.OGImage = a.OGImage;
-                    p.Article = string.Empty;
-                    p.URL = a.URL;
-                    p.Article = str;
+                    p.Status =  byte.Parse(StatusDropDown.SelectedValue);
+                    p.Tag = TagTextBox.Text.Trim();
+                    p.Title = TitleTextBox.Text.Trim();
+                    p.WriterEmail = CurrentUser.Email;
+                    p.WriterName = WriterTextBox.Text.Trim();
+                    p.OGDescription = FacebookDescTextBox.Text.Trim();
+                    p.OGImage = FacebookImageTextBox.Text.Trim();
+                    p.Description = string.Format("<img src='{0}' alt='' /><p>{1}</p>", p.OGImage, p.OGDescription);
+                    p.URL = URLTextBox.Text;
+                    p.Article = TextTextBox.Text.Trim();
                     dc.Posts.InsertOnSubmit(p);
                     dc.SubmitChanges();
 

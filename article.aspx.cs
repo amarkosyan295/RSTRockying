@@ -54,33 +54,33 @@ public partial class _Article : BasePage
             {
                 PPM.ArticleCreator = item.Member;
                 Article a = new Article();
-                try
-                {
-                    if (!string.IsNullOrWhiteSpace(item.Article))
-                    {
-                        a = Utility.Deserialize<Article>(item.Article);
-                    }
-                    //else
-                    //{
-                    //    a = Utility.Deserialize<Article>(System.IO.File.ReadAllText(Server.MapPath(string.Format("{1}/articlexml-{0}.txt", item.ID, Utility.ArticleFolder))));
-                    //}
-                }
-                catch (Exception ex)
-                {
-                    Trace.Write("Unable to read xml file of article.");
-                    Trace.Write(ex.Message);
-                    Trace.Write(ex.StackTrace);
-                    try
-                    {
-                        a.Text = System.IO.File.ReadAllText(Server.MapPath(string.Format("{1}/article-{0}.txt", item.ID, Utility.ArticleFolder)));
-                    }
-                    catch (Exception ex1)
-                    {
-                        a.Text = string.Empty;
-                        Trace.Write(ex1.Message);
-                        Trace.Write(ex1.StackTrace);
-                    }
-                }
+                //try
+                //{
+                //    //if (!string.IsNullOrWhiteSpace(item.Article))
+                //    //{
+                //    //    a = Utility.Deserialize<Article>(item.Article);
+                //    //}
+                //    //else
+                //    //{
+                //    //    a = Utility.Deserialize<Article>(System.IO.File.ReadAllText(Server.MapPath(string.Format("{1}/articlexml-{0}.txt", item.ID, Utility.ArticleFolder))));
+                //    //}
+                //}
+                //catch (Exception ex)
+                //{
+                //    Trace.Write("Unable to read xml file of article.");
+                //    Trace.Write(ex.Message);
+                //    Trace.Write(ex.StackTrace);
+                //    try
+                //    {
+                //        a.Text = System.IO.File.ReadAllText(Server.MapPath(string.Format("{1}/article-{0}.txt", item.ID, Utility.ArticleFolder)));
+                //    }
+                //    catch (Exception ex1)
+                //    {
+                //        a.Text = string.Empty;
+                //        Trace.Write(ex1.Message);
+                //        Trace.Write(ex1.StackTrace);
+                //    }
+                //}
                 a.Category = item.Category;
                 a.CategoryName = item.Category1.Name;
                 a.CreatedBy = item.CreatedBy;
@@ -97,7 +97,7 @@ public partial class _Article : BasePage
                 a.WriterName = item.WriterName;
                 a.Viewed = item.Viewed;
                 a.URL = item.URL;
-
+                a.Text = item.Article;
                 PPM.Item = a;
                 if (File.Exists(Server.MapPath("~/rockyingdata/article/" + a.ID + ".m4a")))
                 {
@@ -110,7 +110,7 @@ public partial class _Article : BasePage
                     //change article text add HTML tags.
                     PPM.Item.Text = string.Format("<p>{0}</p>", PPM.Item.Text.Replace("\n", "</p><p>"));
                 }
-                GetRating();
+                //GetRating();
                 //#region Replace Custom Data Source
                 //DataSourceManager dsm = new DataSourceManager();
                 //if (PPM.Item.TemplateName == string.Empty)
