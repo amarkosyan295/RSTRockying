@@ -35,7 +35,7 @@ public partial class custompage : BasePage
                     int pid = (from u in dc.CustomPages where u.Name == pname && u.Status == (byte)PostStatusType.Publish select u.ID).SingleOrDefault();
                     CP = Utility.Deserialize<CPage>(System.IO.File.ReadAllText(Server.MapPath(string.Format("{1}/cpagexml-{0}.txt", pid, Utility.CustomPageFolder))));
 
-                    Master.NoTemplate = CP.NoTemplate;
+                    //Master.NoTemplate = CP.NoTemplate;
 
                     #region Replace Custom Data Source
                     DataSourceManager dsm = new DataSourceManager();
@@ -54,50 +54,54 @@ public partial class custompage : BasePage
                                  select t).Take(9);
                     foreach (var i in items)
                     {
-                        Article a = new Article();
-                        a.Category = i.Category;
-                        a.CategoryName = i.Category1.Name;
-                        a.CreatedBy = i.CreatedBy;
-                        a.CreatedByName = i.Member.MemberName;
-                        a.DateCreated = i.DateCreated;
-                        a.DateModified = i.DateModified;
-                        a.Description = i.Description;
-                        a.ID = i.ID;
-                        a.ModifiedBy = i.ModifiedBy;
-                        a.Status = (PostStatusType)i.Status;
-                        a.Tag = i.Tag;
-                        a.Text = string.Empty;
-                        a.Title = i.Title;
-                        a.OGImage = Utility.TrimStartHTTP(i.OGImage);
-                        a.OGDescription = i.OGDescription;
-                        a.WriterEmail = i.WriterEmail;
-                        a.WriterName = i.WriterName;
-                        a.Viewed = i.Viewed;
-                        a.URL = i.URL;
+                        Article a = new Article
+                        {
+                            Category = i.Category,
+                            CategoryName = i.Category1.Name,
+                            CreatedBy = i.CreatedBy,
+                            CreatedByName = i.Member.MemberName,
+                            DateCreated = i.DateCreated,
+                            DateModified = i.DateModified,
+                            Description = i.Description,
+                            ID = i.ID,
+                            ModifiedBy = i.ModifiedBy,
+                            Status = (PostStatusType)i.Status,
+                            Tag = i.Tag,
+                            Text = string.Empty,
+                            Title = i.Title,
+                            OGImage = Utility.TrimStartHTTP(i.OGImage),
+                            OGDescription = i.OGDescription,
+                            WriterEmail = i.WriterEmail,
+                            WriterName = i.WriterName,
+                            Viewed = i.Viewed,
+                            URL = i.URL
+                        };
                         HPM.LatestList.Add(a);
                     }
                     var top = from t in dc.TopStories orderby t.DateCreated descending select t;
                     foreach (var i in top)
                     {
-                        Article a = new Article();
-                        a.Category = i.Post.Category;
-                        a.CategoryName = i.Post.Category1.Name;
-                        a.CreatedBy = i.Post.CreatedBy;
-                        a.CreatedByName = i.Post.Member.MemberName;
-                        a.DateCreated = i.Post.DateCreated;
-                        a.DateModified = i.Post.DateModified;
-                        a.Description = i.Post.Description;
-                        a.ID = i.Post.ID;
-                        a.ModifiedBy = i.Post.ModifiedBy;
-                        a.Status = (PostStatusType)i.Post.Status;
-                        a.Tag = i.Post.Tag;
-                        a.Text = string.Empty;
-                        a.Title = i.Post.Title;
-                        a.OGImage = Utility.TrimStartHTTP(i.Post.OGImage);
-                        a.OGDescription = i.Post.OGDescription;
-                        a.WriterEmail = i.Post.WriterEmail;
-                        a.WriterName = i.Post.WriterName;
-                        a.URL = i.Post.URL;
+                        Article a = new Article
+                        {
+                            Category = i.Post.Category,
+                            CategoryName = i.Post.Category1.Name,
+                            CreatedBy = i.Post.CreatedBy,
+                            CreatedByName = i.Post.Member.MemberName,
+                            DateCreated = i.Post.DateCreated,
+                            DateModified = i.Post.DateModified,
+                            Description = i.Post.Description,
+                            ID = i.Post.ID,
+                            ModifiedBy = i.Post.ModifiedBy,
+                            Status = (PostStatusType)i.Post.Status,
+                            Tag = i.Post.Tag,
+                            Text = string.Empty,
+                            Title = i.Post.Title,
+                            OGImage = Utility.TrimStartHTTP(i.Post.OGImage),
+                            OGDescription = i.Post.OGDescription,
+                            WriterEmail = i.Post.WriterEmail,
+                            WriterName = i.Post.WriterName,
+                            URL = i.Post.URL
+                        };
                         HPM.HeroList.Add(a);
                     }
                 }
@@ -105,8 +109,10 @@ public partial class custompage : BasePage
         }
         catch (Exception ex)
         {
-            CP = new CPage();
-            CP.Body = Resources.Resource._404;
+            CP = new CPage
+            {
+                Body = Resources.Resource._404
+            };
             Trace.Write("Invalid pagename");
             Trace.Write(ex.Message);
             Trace.Write(ex.StackTrace);

@@ -21,6 +21,9 @@
         routes.MapPageRoute("RSS", "rss", "~/rss.aspx");
         routes.MapPageRoute("CategoryPage", "more-categories", "~/categories.aspx");
         routes.MapPageRoute("WriteForUsPage", "write-for-us", "~/writeforus.aspx");
+        routes.MapPageRoute("privacypolicy", "privacypolicy", "~/privacy.aspx");
+        routes.MapPageRoute("termsofuse", "terms-of-use", "~/termsofuse.aspx");
+        routes.MapPageRoute("about-rockying", "about-rockying", "~/about.aspx");
 
         //Rockying Content Related URL
         routes.MapPageRoute("CategoryListPage", "{category}/index", "~/list.aspx");

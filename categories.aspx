@@ -8,27 +8,16 @@
     <title>More Stories on <%: Utility.SiteName %></title>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="Server">
-    <ul class="thumbnails">
-        <%
-            int counter = 0;
-            foreach (Category c in CategoryList)
-            {
-
-                if (c.Status == (byte)GeneralStatusType.Active)
-                {
-                    counter++;
-        %>
-        <li class="span3">
-            <a href="//rockying.com/<%:c.UrlName %>/index" class="thumbnail">
-                <img src="//rockying.com/art/category/icons/<%:c.Name.ToLower()%>.jpg" alt="<%:c.Name%>" />
-            </a>
-        </li>
-        <% if (counter % 4 == 0)
+    <div class="row row-cols-1 row-cols-md-4 g-4">
+        <%foreach (Category c in CategoryList)
             { %>
-    </ul>
-    <ul class="thumbnails">
+        <div class="col">
+            <div class="card">
+                <a href="../<%:c.UrlName %>/index">
+                    <img src="../art/category/icons/<%:c.Name.ToLower()%>.jpg" class="card-img-top" alt="<%:c.Name%>">
+                    </a>
+            </div>
+        </div>
         <%} %>
-        <%}%>
-        <% } %>
-    </ul>
+    </div>
 </asp:Content>

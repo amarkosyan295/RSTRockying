@@ -15,11 +15,8 @@
     <meta property="og:title" content="<%: string.IsNullOrEmpty(PPM.Item.MetaTitle) ? PPM.Item.Title : PPM.Item.MetaTitle %>" />
     <meta property="og:description" content="<%: PPM.Item.OGDescription %>" />
     <meta property="og:image" content="<%: PPM.Item.OGImage %>" />
-
 </asp:Content>
-
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="Server">
-
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <style>
         .checked {
@@ -138,8 +135,8 @@
                 //articles created by admin have their own images.
                 if (PPM.ArticleCreator.UserType != (byte)MemberTypeType.Admin)
                 { %>
-            <div style="text-align: center;">
-                <img src="<%: PPM.Item.OGImage %>" class="img-rounded" alt="" style="margin-top: 5px; margin-bottom: 10px;" />
+            <div class="text-center">
+                <img src="<%: PPM.Item.OGImage %>" class="img-rounded mx-2" alt="" />
             </div>
             <%} %>
             <% 
@@ -197,10 +194,9 @@
             <div id="article">
                 <%= PPM.Item.Text %>
             </div>
-            <div class="row-fluid" style="margin: 20px 0px;">
-                <div class="span6">
-                    <h4>
-                        <span class="sectionheading">Rate The Story</span>
+            <div class="row">
+                <div class="col-md-6">
+                    <h4>Rate The Story
                     </h4>
                     <div style="margin: 10px 0px; text-align: center;">
                         <div class="btn-toolbar" style="margin: 0;">
@@ -220,9 +216,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="span6">
-                    <h4>
-                        <span class="sectionheading">Share It</span>
+                <div class="col-md-6">
+                    <h4>Share It
                     </h4>
                     <div class="addthis_inline_share_toolbox" id="shareitbtngrp" data-bubbleid="shareitbubble"></div>
                     <div class="rst-bubble" id="shareitbubble">
@@ -233,15 +228,10 @@
                     </div>
                 </div>
             </div>
-
-
-
-
             <div style="margin: 10px 0px;">
-                <iframe src="//www.rockying.com/account/subscribe" style="width: 100%; height: 300px; border: 0px;"></iframe>
+                <iframe src="//<%: Request.Url.Port != 80 ? Request.Url.Host + ":" + Request.Url.Port : Request.Url.Host %>/account/subscribe" style="width: 100%; height: 300px; border: 0px;"></iframe>
             </div>
-            <h4 style="text-align: left;">
-                <span class="sectionheading">Comments</span>
+            <h4 style="text-align: left;">Reader Views
             </h4>
             <div id="disqus_thread" style="padding: 15px;"></div>
             <script type="text/javascript">
@@ -280,37 +270,28 @@
     </div>
     <%if (PPM.RecommendationList.Count > 0)
         { %>
-    <div class="row-fluid" style="text-align: center;">
-        <h6>
-            <span class="sectionheading">Recommendations</span>
-        </h6>
-        <ul class="thumbnails">
-            <%for (int i = 1; i <= PPM.RecommendationList.Count; i++)
-                {
-                    Article p = PPM.RecommendationList[i - 1];
-            %>
-            <li class="span4" style="max-height: 375px; overflow-y: hidden;">
-                <div class="thumbnail">
-                    <%if (!string.IsNullOrEmpty(p.OGImage))
-                        { %>
-                    <a href="//www.rockying.com/a/<%= p.URL %>">
-                        <span class="articleimage" style="display: block; background-image: url(<%= p.OGImage %>)"></span></a>
-                    <%} %>
-                    <div class="caption">
-                        <h3><a href="//www.rockying.com/a/<%= p.URL %>" style="">
-                            <%: p.Title %>
-                        </a></h3>
-                        <p><%:p.OGDescription %> </p>
-                    </div>
+
+    <h6>Story Recommendations</h6>
+    <div class="row row-cols-1 row-cols-md-4 g-4">
+        <%foreach (Article p in PPM.RecommendationList)
+            { %>
+        <div class="col">
+            <div class="card h-100">
+                <%if (!string.IsNullOrEmpty(p.OGImage))
+                    { %>
+                <a href="//<%: Request.Url.Port != 80 ? Request.Url.Host + ":" + Request.Url.Port : Request.Url.Host %>/a/<%= p.URL %>">
+                    <img src="<%: p.OGImage %>" class="card-img-top" alt="" />
+                </a>
+                <%} %>
+                <div class="card-body">
+                    <h5 class="card-title"><a href="//<%: Request.Url.Port != 80 ? Request.Url.Host + ":" + Request.Url.Port : Request.Url.Host %>/a/<%= p.URL %>" class="text-decoration-none text-dark">
+                        <%: p.Title %>
+                    </a></h5>
+                    <p class="card-text"><%:p.OGDescription %></p>
                 </div>
-            </li>
-            <% if (i % 3 == 0)
-                { %>
-        </ul>
-        <ul class="thumbnails">
-            <%} %>
-            <%} %>
-        </ul>
+            </div>
+        </div>
+        <%} %>
     </div>
     <%} %>
     <% if (CurrentUser != null)
@@ -318,11 +299,12 @@
             if (CurrentUser.UserType == (byte)MemberTypeType.Admin || CurrentUser.ID == PPM.Item.CreatedBy)
             {%>
     <div style="padding-left: 10px; padding-top: 5px; padding-bottom: 5px; padding-right: 10px; position: fixed; top: auto; bottom: 0px; left: 0px; right: auto; background-color: #fff;">
-        <a href="//<%: Request.Url.Host%>/Admin/ManageArticle.aspx?id=<%: PPM.Item.ID.ToString()%>&mode=edit"
+        <a href="../../Admin/ManageArticle.aspx?id=<%: PPM.Item.ID.ToString()%>&mode=edit"
             target="_blank">Edit</a>
     </div>
     <% }
-        }%>
+        }
+    %>
 </asp:Content>
 <asp:Content ContentPlaceHolderID="BottomContent" ID="Content3" runat="server">
     <script>

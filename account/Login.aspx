@@ -5,48 +5,41 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="Server">
-    <div class="row-fluid">
-        <div class="span6">
-            <h1>
-                Login</h1>
+    <div class="row">
+        <div class="col-md-6">
+            <h1>Login</h1>
             <p>
                 Email and Password both are mandatory. If you want to preserve login please choose
-                "Remember Me" option.</p>
+                "Remember Me" option.
+            </p>
             <form runat="server" id="MainForm" class="form-horizontal">
-            <uc1:message ID="message1" Visible="false" runat="server" />
-            <div class="control-group">
-                <label class="control-label" for="<%: EmailTextBox.ClientID %>">
-                    Email</label>
-                <div class="controls">
-                    <asp:TextBox CssClass="input-xlarge" ID="EmailTextBox" runat="server"></asp:TextBox><asp:RequiredFieldValidator
+                <uc1:message ID="message1" Visible="false" runat="server" />
+                <div class="mb-3">
+                    <label class="form-label" for="<%: EmailTextBox.ClientID %>">
+                        Email</label>
+                    <asp:TextBox CssClass="form-control" TextMode="email" ID="EmailTextBox" runat="server"></asp:TextBox><asp:RequiredFieldValidator
                         ID="EmailReqVal" runat="server" Display="Dynamic" ControlToValidate="EmailTextBox"
-                        CssClass="validate" ValidationGroup="logingrp" ErrorMessage="Required" 
+                        CssClass="text-danger" ValidationGroup="logingrp" ErrorMessage="Required"
                         SetFocusOnError="True"></asp:RequiredFieldValidator>
                 </div>
-            </div>
-            <div class="control-group">
-                <label class="control-label" for="<%: PasswordTextBox.ClientID %>">
-                    Password</label>
-                <div class="controls">
-                    <asp:TextBox CssClass="input-xlarge" ID="PasswordTextBox" TextMode="Password" runat="server"></asp:TextBox><asp:RequiredFieldValidator
+                <div class="mb-3">
+                    <label class="form-label" for="<%: PasswordTextBox.ClientID %>">
+                        Password</label>
+                    <asp:TextBox CssClass="form-control" ID="PasswordTextBox" TextMode="Password" runat="server"></asp:TextBox><asp:RequiredFieldValidator
                         ID="RequiredFieldValidator1" runat="server" ControlToValidate="PasswordTextBox"
-                        Display="Dynamic" CssClass="validate" ValidationGroup="logingrp" 
+                        Display="Dynamic" CssClass="text-danger" ValidationGroup="logingrp"
                         ErrorMessage="Required" SetFocusOnError="True"></asp:RequiredFieldValidator>
                 </div>
-            </div>
-            <div class="control-group">
-                <label class="control-label" for="<%: RememberCheckBox.ClientID %>">
-                    Remember Me</label>
-                <div class="controls">
-                    <label class="checkbox">
-                        <asp:CheckBox ID="RememberCheckBox" runat="server" Checked="true" />
-                    </label>
+                <div class="form-check mb-3">
+                    <asp:CheckBox ID="RememberCheckBox" CssClass="form-check-input" runat="server" Checked="true" />
+                    <label class="form-check-label" for="<%: RememberCheckBox.ClientID %>">
+                        Remember Me</label>
                 </div>
-            </div>
-            <div class="form-actions">
-                <asp:Button ID="SubmitButton" class="btn btn-primary" ValidationGroup="logingrp"
-                    runat="server" Text="Login" OnClick="SubmitButton_Click" /> <a href="forgotpassword" class="btn pull-right">Forgot Password? Click Here</a>
-            </div>
+                <div class="col-12">
+                    <asp:Button ID="SubmitButton" class="btn btn-primary" ValidationGroup="logingrp"
+                        runat="server" Text="Login" OnClick="SubmitButton_Click" />
+                    <a href="forgotpassword" class="btn float-end">Forgot Password? Click Here</a>
+                </div>
             </form>
         </div>
     </div>

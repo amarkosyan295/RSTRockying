@@ -21,32 +21,7 @@
     <%if (HPM == null)
         { %>
     <%= CP.Head %>
-    <%}
-        else
-        {%>
-    <style>
-        .jumbotron {
-            margin: 30px 0;
-            text-align: center;
-            border: none;
-        }
-
-            .jumbotron h1 {
-                font-size: 100px;
-                line-height: 1;
-            }
-
-            .jumbotron .lead {
-                font-size: 24px;
-                line-height: 1.25;
-            }
-
-            .jumbotron .btn {
-                font-size: 21px;
-                padding: 14px 24px;
-            }
-    </style>
-    <%} %>
+    <%}%>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="Server">
     <%if (HPM == null)
@@ -55,59 +30,32 @@
     <%}
         else
         { %>
-    <div class="row-fluid">
-        <ul class="thumbnails">
-            <%for (int i = 0; i < 3 && i < HPM.HeroList.Count; i++)
-                { %>
-            <li class="span4">
-                <div class="thumbnail">
-                    <%if (!string.IsNullOrEmpty(HPM.HeroList[i].OGImage))
-                        { %>
-                    <a href="//www.rockying.com/a/<%= HPM.HeroList[i].URL %>">
-                        <span class="articleimage" style="display: block; background-image: url(<%= HPM.HeroList[i].OGImage %>)"></span></a>
-                    <%} %>
-                    <div class="caption">
-                        <h3><a href="//www.rockying.com/a/<%= HPM.HeroList[i].URL %>" style="">
-                            <%: HPM.HeroList[i].Title %>
-                        </a></h3>
-                        <p><strong><%:HPM.HeroList[i].CategoryName %></strong> story written by <strong><%:HPM.HeroList[i].WriterName %></strong> </p>
-                        <p><%:HPM.HeroList[i].OGDescription %> </p>
-                    </div>
+    <div class="row row-cols-1 row-cols-md-4 g-4">
+        <%foreach (Article item in HPM.HeroList)
+            { %>
+        <div class="col">
+            <div class="card border-0 h-100">
+                <%if (!string.IsNullOrEmpty(item.OGImage))
+                    { %>
+                <a href="/a/<%= item.URL %>">
+                    <img src="<%= item.OGImage %>" class="card-img-top" alt="">
+                </a>
+                <%} %>
+                <div class="card-body">
+                    <h5 class="card-title"><a href="/a/<%= item.URL %>" class="text-decoration-none text-dark">
+                        <%: item.Title %>
+                    </a></h5>
+                    <p class="card-text"><%:item.CategoryName %> story written by <%:item.WriterName %></p>
+                    <p class="card-text"><%:item.OGDescription %></p>
                 </div>
-            </li>
-            <%} %>
-        </ul>
-        <div class="jumbotron well">
-            <h1>Rockying</h1>
-            <p class="lead">Write on any topic of your choice, build an audience.</p>
-            <a class="btn btn-large btn-success" href="//www.rockying.com/account/register">Write for us</a>
+            </div>
         </div>
-        <ul class="thumbnails">
-            <%for (int i = 3; i < HPM.HeroList.Count; i++)
-                { %>
-            <li class="span4">
-                <div class="thumbnail">
-                    <%if (!string.IsNullOrEmpty(HPM.HeroList[i].OGImage))
-                        { %>
-                    <a href="//www.rockying.com/a/<%= HPM.HeroList[i].URL %>">
-                        <span class="articleimage" style="display: block; background-image: url(<%: HPM.HeroList[i].OGImage %>)"></span></a>
-                    <%} %>
-                    <div class="caption">
-                        <h3><a href="//www.rockying.com/a/<%= HPM.HeroList[i].URL %>">
-                            <%= HPM.HeroList[i].Title %>
-                        </a></h3>
-                        <p><strong><%:HPM.HeroList[i].CategoryName %></strong> story written by <strong><%:HPM.HeroList[i].WriterName %></strong> </p>
-                        <p><%:HPM.HeroList[i].OGDescription %> </p>
-                    </div>
-                </div>
-            </li>
-            <% if (i == 5 || i == 8 || i == 12)
-                { %>
-        </ul>
-        <ul class="thumbnails">
-            <%} %>
-            <%} %>
-        </ul>
+        <%} %>
+    </div>
+    <div class="jumbotron well">
+        <h1>Rockying</h1>
+        <p class="lead">Write on any topic of your choice, build an audience.</p>
+        <a class="btn btn-large btn-success" href="//www.rockying.com/account/register">Write for us</a>
     </div>
     <% } %>
 </asp:Content>

@@ -5,20 +5,20 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title></title>
-    <link href="https://fonts.googleapis.com/css?family=Lato|Roboto" rel="stylesheet" />
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous" />
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css?family=Merriweather:400,900|Open+Sans:400,700 " rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     <script
         src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
         crossorigin="anonymous"></script>
     <style>
         body {
-            font-family: 'Lato', sans-serif;
+            font-family: 'Merriweather', sans-serif;
         }
 
         h1, h2, h3, h4, h5, h6 {
-            font-family: 'Roboto', sans-serif;
+            font-family: 'Merriweather', sans-serif;
         }
 
         .form-control {
@@ -27,8 +27,8 @@
     </style>
 </head>
 <body>
-    <div class="container-fluid" style="padding: 0px;">
-        <h3 style="background-color: #000; color: #fff; padding: 5px;">Get Our Latest Post In Your Inbox</h3>
+    <div class="container-fluid p-3" >
+        <h3>Get Our Latest Post In Your Inbox</h3>
         <form id="form1" runat="server" class="needs-validation" novalidate style="padding: 5px;">
             <div class="form-row">
                 <!--<div class="col-md-6 mb-3">
@@ -62,7 +62,7 @@
                 We respect your privacy and your email address is safe with us. Check our <a target="_blank" href="http://www.rockying.com/Terms-Of-Use">terms and conditions</a> & <a href="http://www.rockying.com/PrivacyPolicy" target="_blank">privacy policy</a>
             </p>
             <asp:PlaceHolder ID="OTPMessagePlaceHolder" Visible="false" EnableViewState="false" runat="server">
-                <div class="alert alert-info fixed-bottom" role="alert" style="margin-top: 20px;">
+                <div class="alert alert-info" role="alert" style="margin-top: 20px;">
                     You will receive an OTP in email from <strong><%= Rockying.Models.Utility.NewsletterEmail %></strong>, please provide this OTP so that your email address is verified.
                                 You may have to check the "SPAM" folder of your mail account for the email.
                 </div>
@@ -74,7 +74,7 @@
             </asp:PlaceHolder>
             <%if (ShowMessage)
                 { %>
-            <div class="alert alert-success fixed-bottom" id="message" role="alert" style="margin-top: 20px;">
+            <div class="alert alert-success" id="message" role="alert" style="margin-top: 20px;">
                 Thanks for signing up with Rockying.
             </div>
             <script>

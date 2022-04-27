@@ -7,51 +7,44 @@
         rel="stylesheet" type="text/css" />
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="Server">
-    <div class="row-fluid">
-        <div class="span7">
+    <div class="row justify-content-center">
+        <div class="col-6">
             <form runat="server" id="MainForm" class="form-horizontal span12">
-            <asp:ScriptManager ID="ScriptManager1" runat="server">
-            </asp:ScriptManager>
-            <fieldset>
-                <legend>Account Info</legend>
-                <uc1:message Visible="false" ID="message1" runat="server" />
-                <div class="control-group">
-                    <label class="control-label">
-                    Registered Email
-                    </label>
-                    <div class="controls">
-                        <asp:TextBox MaxLength="200" CssClass="input-xlarge" ID="EmailTextBox" ReadOnly="true" runat="server"></asp:TextBox>
+                <asp:ScriptManager ID="ScriptManager1" runat="server">
+                </asp:ScriptManager>
+                <fieldset>
+                    <legend >Account Info</legend>
+                    <uc1:message Visible="false" ID="message1" runat="server" />
+                    <div class="mb-3">
+                        <label class="form-label">
+                            Registered Email
+                        </label>
+                        <asp:TextBox MaxLength="100" CssClass="form-control" ID="EmailTextBox" ReadOnly="true" runat="server"></asp:TextBox>
                     </div>
-                </div>
-                <div class="control-group">
-                    <label class="control-label" for="<%: NameTextBox.ClientID %>">
-                        First Name (Required)</label>
-                    <div class="controls">
-                        <asp:TextBox MaxLength="200" CssClass="input-xlarge" ID="NameTextBox" runat="server"></asp:TextBox><asp:RequiredFieldValidator
+                    <div class="mb-3">
+                        <label class="form-label" for="<%: NameTextBox.ClientID %>">
+                            First Name (Required)</label>
+                        <asp:TextBox MaxLength="100" CssClass="form-control" ID="NameTextBox" runat="server"></asp:TextBox><asp:RequiredFieldValidator
                             ID="NameReqVal" runat="server" Display="Dynamic" ControlToValidate="NameTextBox"
-                            CssClass="validate" ValidationGroup="logingrp" ErrorMessage="Required"></asp:RequiredFieldValidator>
+                            CssClass="text-danger" ValidationGroup="logingrp" ErrorMessage="Required"></asp:RequiredFieldValidator>
                     </div>
-                </div>
-                <div class="control-group">
-                    <label class="control-label" for="<%: LastNameTextBox.ClientID %>">
-                        Last Name (Required)</label>
-                    <div class="controls">
-                        <asp:TextBox MaxLength="200" CssClass="input-xlarge" ID="LastNameTextBox" runat="server"></asp:TextBox><asp:RequiredFieldValidator
+                    <div class="mb-3">
+                        <label class="form-label" for="<%: LastNameTextBox.ClientID %>">
+                            Last Name (Required)</label>
+                        <asp:TextBox MaxLength="100" CssClass="form-control" ID="LastNameTextBox" runat="server"></asp:TextBox><asp:RequiredFieldValidator
                             ID="RequiredFieldValidator5" runat="server" Display="Dynamic" ControlToValidate="LastNameTextBox"
-                            CssClass="validate" ValidationGroup="logingrp" ErrorMessage="Required"></asp:RequiredFieldValidator>
+                            CssClass="text-danger" ValidationGroup="logingrp" ErrorMessage="Required"></asp:RequiredFieldValidator>
                     </div>
-                </div>
-                <div class="control-group">
-                    <label class="control-label" for="<%: YearDropDown.ClientID %>">
-                        Date of Birth (Required)</label>
-                    <div class="controls">
+                    <div class="mb-3">
+                        <label class="form-label" for="<%: YearDropDown.ClientID %>">
+                            Date of Birth (Required)</label>
                         <asp:UpdatePanel ID="UpdatePanel1" runat="server">
                             <ContentTemplate>
                                 <asp:DropDownList ID="YearDropDown" CssClass="span3" runat="server" AutoPostBack="True"
                                     OnSelectedIndexChanged="YearDropDown_SelectedIndexChanged">
                                 </asp:DropDownList>
                                 <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" Display="Static"
-                                    ControlToValidate="YearDropDown" CssClass="validate" ValidationGroup="logingrp"
+                                    ControlToValidate="YearDropDown" CssClass="text-danger" ValidationGroup="logingrp"
                                     ErrorMessage="*"></asp:RequiredFieldValidator>
                                 <asp:DropDownList ID="MonthDropDown" CssClass="span2" runat="server" AutoPostBack="True"
                                     OnSelectedIndexChanged="MonthDropDown_SelectedIndexChanged">
@@ -69,24 +62,22 @@
                                     <asp:ListItem Value="12">Dec</asp:ListItem>
                                 </asp:DropDownList>
                                 <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" Display="Static"
-                                    ControlToValidate="MonthDropDown" CssClass="validate" ValidationGroup="logingrp"
+                                    ControlToValidate="MonthDropDown" CssClass="text-danger" ValidationGroup="logingrp"
                                     ErrorMessage="*"></asp:RequiredFieldValidator>
                                 <asp:DropDownList ID="DateDropDown" runat="server" CssClass="span2">
                                 </asp:DropDownList>
                                 <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" Display="Static"
-                                    ControlToValidate="DateDropDown" CssClass="validate" ValidationGroup="logingrp"
+                                    ControlToValidate="DateDropDown" CssClass="text-danger" ValidationGroup="logingrp"
                                     ErrorMessage="*"></asp:RequiredFieldValidator>
-                                <small>Please check our <a href="http://www.rockying.com/PrivacyPolicy" target="_blank">
-                                    Privacy Policy</a></small>
+                                <small>Please check our <a href="http://www.rockying.com/PrivacyPolicy" target="_blank">Privacy Policy</a></small>
                             </ContentTemplate>
                         </asp:UpdatePanel>
                     </div>
-                </div>
-                <div class="control-group">
-                    <label class="control-label" for="<%: CountryDropDown.ClientID %>">
-                        Country (Required)</label>
-                    <div class="controls">
-                        <asp:DropDownList ID="CountryDropDown" runat="server">
+                    <div class="mb-3">
+                        <label class="form-label" for="<%: CountryDropDown.ClientID %>">
+                            Country (Required)</label>
+
+                        <asp:DropDownList ID="CountryDropDown" CssClass="form-select" runat="server">
                             <asp:ListItem Selected="True" Value="">Country</asp:ListItem>
                             <asp:ListItem Value="USA">United States of America</asp:ListItem>
                             <asp:ListItem Value="CAN">Canada</asp:ListItem>
@@ -322,105 +313,95 @@
                             <asp:ListItem Value="ZWE">Zimbabwe</asp:ListItem>
                         </asp:DropDownList>
                         <asp:RequiredFieldValidator ID="RequiredFieldValidator4" runat="server" Display="Dynamic"
-                            ControlToValidate="CountryDropDown" CssClass="validate" ValidationGroup="logingrp"
+                            ControlToValidate="CountryDropDown" CssClass="text-danger" ValidationGroup="logingrp"
                             ErrorMessage="Required"></asp:RequiredFieldValidator>
                     </div>
-                </div>
-                <div class="control-group">
-                    <label class="control-label" for="<%: GenderDropDown.ClientID %>">
-                        Gender</label>
-                    <div class="controls">
-                        <asp:DropDownList ID="GenderDropDown" runat="server">
+                    <div class="mb-3">
+                        <label class="form-label" for="<%: GenderDropDown.ClientID %>">
+                            Gender</label>
+
+                        <asp:DropDownList ID="GenderDropDown" CssClass="form-select" runat="server">
                             <asp:ListItem Text="Male" Value="M"></asp:ListItem>
                             <asp:ListItem Text="Female" Value="F"></asp:ListItem>
                             <asp:ListItem Text="Other" Value="O"></asp:ListItem>
                         </asp:DropDownList>
+
                     </div>
-                </div>
-                <div class="control-group">
-                    <label class="control-label" for="<%: WriterDropDown.ClientID %>">
-                        Membership</label>
-                    <div class="controls">
-                        <asp:DropDownList ID="WriterDropDown" runat="server">
+                    <div class="mb-3">
+                        <label class="form-label" for="<%: WriterDropDown.ClientID %>">
+                            Membership</label>
+
+                        <asp:DropDownList ID="WriterDropDown" CssClass="form-select" runat="server">
                             <asp:ListItem Text="Writer" Value="2"></asp:ListItem>
                             <asp:ListItem Text="Reader" Value="3"></asp:ListItem>
                         </asp:DropDownList>
+
                     </div>
-                </div>
-                <div class="control-group">
-                    <label class="control-label" for="<%: SubscribeCheckBox.ClientID %>">
-                        Newsletter Subscription</label>
-                    <div class="controls">
-                        <label class="checkbox">
-                            <asp:CheckBox ID="SubscribeCheckBox" runat="server" />
-                        </label>
+                    <div class="mb-3 form-check">
+                        <asp:CheckBox ID="SubscribeCheckBox" runat="server" CssClass="form-check-input" />
+                        <label class="form-check-label" for="<%: SubscribeCheckBox.ClientID %>">
+                            Newsletter Subscription</label>
                     </div>
-                </div>
-                <div class="control-group">
-                    <label class="control-label" for="<%: AltEmailTextBox.ClientID %>">
-                        Alternate Email (optional)</label>
-                    <div class="controls">
-                        <asp:TextBox ID="AltEmailTextBox" MaxLength="245" CssClass="input-xlarge" runat="server"></asp:TextBox><asp:RegularExpressionValidator
+                    <div class="mb-3">
+                        <label class="form-label" for="<%: AltEmailTextBox.ClientID %>">
+                            Alternate Email (optional)</label>
+                        <asp:TextBox ID="AltEmailTextBox" MaxLength="245" CssClass="form-control" runat="server"></asp:TextBox><asp:RegularExpressionValidator
                             ID="RegularExpressionValidator1" runat="server" ErrorMessage="Invalid Email"
-                            ControlToValidate="AltEmailTextBox" CssClass="validate" Display="Dynamic" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*"
+                            ControlToValidate="AltEmailTextBox" CssClass="text-danger" Display="Dynamic" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*"
                             ValidationGroup="logingrp"></asp:RegularExpressionValidator>
                     </div>
-                </div>
-                <div class="control-group">
-                    <label class="control-label" for="<%: AltEmail2TextBox.ClientID %>">
-                        Second Alternate Email (optional)</label>
-                    <div class="controls">
-                        <asp:TextBox ID="AltEmail2TextBox" MaxLength="245" CssClass="input-xlarge" runat="server"></asp:TextBox><asp:RegularExpressionValidator
+                    <div class="mb-3">
+                        <label class="control-label" for="<%: AltEmail2TextBox.ClientID %>">
+                            Second Alternate Email (optional)</label>
+
+                        <asp:TextBox ID="AltEmail2TextBox" MaxLength="245" CssClass="form-control" runat="server"></asp:TextBox><asp:RegularExpressionValidator
                             ID="RegularExpressionValidator2" runat="server" ErrorMessage="Invalid Email"
-                            ControlToValidate="AltEmail2TextBox" CssClass="validate" Display="Dynamic" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*"
+                            ControlToValidate="AltEmail2TextBox" CssClass="text-danger" Display="Dynamic" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*"
                             ValidationGroup="logingrp"></asp:RegularExpressionValidator>
+
+                    </div>
+                    <div class="mb-3">
+                        <label class="control-label" for="<%: MobileTextBox.ClientID %>">
+                            Mobile (optional)</label>
+
+                        <asp:TextBox ID="MobileTextBox" MaxLength="17" CssClass="form-control" runat="server"></asp:TextBox>
+
+                    </div>
+                    <div class="mb-3">
+                        <label class="control-label" for="<%: PhoneTextBox.ClientID %>">
+                            Phone (optional)</label>
+                        <asp:TextBox ID="PhoneTextBox" MaxLength="17" CssClass="form-control" runat="server"></asp:TextBox>
+
+                    </div>
+                    <div class="mb-3">
+                        <label class="control-label" for="<%: AddressTextBox.ClientID %>">
+                            Address (optional)</label>
+                        <asp:TextBox ID="AddressTextBox" MaxLength="290" CssClass="form-control" runat="server"></asp:TextBox>
+                    </div>
+                    <div class="mb-3">
+                        <asp:Button ID="SubmitButton" class="btn btn-primary" ValidationGroup="logingrp"
+                            runat="server" Text="Update" OnClick="SubmitButton_Click" />
+                        <a class="btn" data-toggle="modal" href="#RemoveModal">Remove Account</a>
+                        <a class="btn pull-right" href="changepassword">Change Password</a>
+                    </div>
+                </fieldset>
+                <div class="modal hide" id="RemoveModal">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">
+                            ×</button>
+                        <h3>Inactivate Account</h3>
+                    </div>
+                    <div class="modal-body">
+                        <p>
+                            Are you sure you want to inactivate your Rockying membership account?
+                        </p>
+                    </div>
+                    <div class="modal-footer">
+                        <a href="#" class="btn" data-dismiss="modal">Close</a>
+                        <asp:Button ID="DeleteButton" class="btn btn-primary" ValidationGroup="logingrp"
+                            runat="server" Text="Yes" OnClick="DeleteButton_Click" />
                     </div>
                 </div>
-                <div class="control-group">
-                    <label class="control-label" for="<%: MobileTextBox.ClientID %>">
-                        Mobile (optional)</label>
-                    <div class="controls">
-                        <asp:TextBox ID="MobileTextBox" MaxLength="17" CssClass="input-xlarge" runat="server"></asp:TextBox>
-                    </div>
-                </div>
-                <div class="control-group">
-                    <label class="control-label" for="<%: PhoneTextBox.ClientID %>">
-                        Phone (optional)</label>
-                    <div class="controls">
-                        <asp:TextBox ID="PhoneTextBox" MaxLength="17" CssClass="input-xlarge" runat="server"></asp:TextBox>
-                    </div>
-                </div>
-                <div class="control-group">
-                    <label class="control-label" for="<%: AddressTextBox.ClientID %>">
-                        Address (optional)</label>
-                    <div class="controls">
-                        <asp:TextBox ID="AddressTextBox" MaxLength="290" CssClass="input-xlarge" runat="server"></asp:TextBox>
-                    </div>
-                </div>
-                <div class="form-actions">
-                    <asp:Button ID="SubmitButton" class="btn btn-primary" ValidationGroup="logingrp"
-                        runat="server" Text="Update" OnClick="SubmitButton_Click" />
-                    <a class="btn" data-toggle="modal" href="#RemoveModal">Remove Account</a>
-                    <a class="btn pull-right"  href="changepassword">Change Password</a>
-                </div>
-            </fieldset>
-            <div class="modal hide" id="RemoveModal">
-                <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal">
-                        ×</button>
-                    <h3>
-                        Inactivate Account</h3>
-                </div>
-                <div class="modal-body">
-                    <p>
-                        Are you sure you want to inactivate your Rockying membership account?</p>
-                </div>
-                <div class="modal-footer">
-                    <a href="#" class="btn" data-dismiss="modal">Close</a>
-                    <asp:Button ID="DeleteButton" class="btn btn-primary" ValidationGroup="logingrp"
-                        runat="server" Text="Yes" OnClick="DeleteButton_Click" />
-                </div>
-            </div>
             </form>
         </div>
     </div>

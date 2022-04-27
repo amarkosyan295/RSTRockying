@@ -3,49 +3,40 @@
 
 <%@ Import Namespace="Rockying.Models" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="Server">
-
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="TopContent" runat="server">
     <title>Read <%: CPM.Current.Name %> stories on <%: Utility.SiteName %></title>
     <meta name="keywords" content="<%: CPM.Current.Keywords %>" />
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="Server">
-    <div class="row-fluid">
-        <div class="span12">
-            <h1 class="sectionheading">
-                <%: CPM.Current.Name %>
-                Stories
-            </h1>
-            <br />
-            <ul class="thumbnails">
+    <div class="row">
+        <div class="col-12">
+            <h3>
+                <%: CPM.Current.Name %> Stories
+            </h3>
+            <div class="row row-cols-1 row-cols-md-4 g-4 ">
                 <%
-                    int counter = 0;
                     foreach (Article a in CPM.ArticleList)
                     {
-                        counter++;
                 %>
-                <li class="span4">
-
-                    <div class="thumbnail">
+                <div class="col">
+                    <div class="card h-100">
                         <%if (!string.IsNullOrEmpty(a.OGImage))
                             { %>
-                        <a href="//www.rockying.com/a/<%: a.URL %>">
-                            <span class="articleimage" style="display: block; background-image: url(<%: a.OGImage %>)"></span></a>
+                        <a href="../a/<%: a.URL %>">
+                            <img src="<%: a.OGImage %>" class="card-img-top" alt="" />
+                        </a>
                         <%} %>
-                        <div class="caption">
-                            <h3><a href="//www.rockying.com/a/<%: a.URL %>" style="">
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="../a/<%: a.URL %>" class="text-decoration-none text-dark">
                                 <%: a.Title %>
-                            </a></h3>
+                            </a></h5>
                         </div>
                     </div>
-                </li>
-                <% if (counter % 3 == 0)
-                    { %>
-            </ul>
-            <ul class="thumbnails">
+                </div>
+
                 <%} %>
-                <%} %>
-            </ul>
+            </div>
         </div>
     </div>
 </asp:Content>
