@@ -5,7 +5,6 @@
 
     void Application_Start(object sender, EventArgs e)
     {
-
         RegisterRoutes(RouteTable.Routes);
     }
 
@@ -48,7 +47,6 @@
         //Any Damn Thing Catch Here
         routes.MapPageRoute("DefaultPageRoute", string.Empty, "~/custompage.aspx");
         routes.MapPageRoute("CustomPageRoute", "{pagename}", "~/custompage.aspx");
-
     }
 
     void Application_End(object sender, EventArgs e)

@@ -9,35 +9,35 @@ using System.Xml;
 
 namespace Rockying.Models
 {
-    public class IPLocation
-    {
-        public string statusCode { get; set; }
-        public string statusMessage { get; set; }
-        public string ipAddress { get; set; }
-        public string countryCode { get; set; }
-        public string countryName { get; set; }
-        public string regionName { get; set; }
-        public string cityName { get; set; }
-        public string zipCode { get; set; }
-        public string latitude { get; set; }
-        public string longitude { get; set; }
-        public string timeZone { get; set; }
+    //public class IPLocation
+    //{
+    //    public string statusCode { get; set; }
+    //    public string statusMessage { get; set; }
+    //    public string ipAddress { get; set; }
+    //    public string countryCode { get; set; }
+    //    public string countryName { get; set; }
+    //    public string regionName { get; set; }
+    //    public string cityName { get; set; }
+    //    public string zipCode { get; set; }
+    //    public string latitude { get; set; }
+    //    public string longitude { get; set; }
+    //    public string timeZone { get; set; }
 
-        public IPLocation()
-        {
-            statusCode = string.Empty;
-            statusMessage = string.Empty;
-            ipAddress = string.Empty;
-            countryCode = string.Empty;
-            countryName = string.Empty;
-            regionName = string.Empty;
-            cityName = string.Empty;
-            zipCode = string.Empty;
-            latitude = string.Empty;
-            longitude = string.Empty;
-            timeZone = string.Empty;
-        }
-    }
+    //    public IPLocation()
+    //    {
+    //        statusCode = string.Empty;
+    //        statusMessage = string.Empty;
+    //        ipAddress = string.Empty;
+    //        countryCode = string.Empty;
+    //        countryName = string.Empty;
+    //        regionName = string.Empty;
+    //        cityName = string.Empty;
+    //        zipCode = string.Empty;
+    //        latitude = string.Empty;
+    //        longitude = string.Empty;
+    //        timeZone = string.Empty;
+    //    }
+    //}
 
     //[Serializable]
     //public class VisitInfo
@@ -208,63 +208,63 @@ namespace Rockying.Models
 
     public class VisitManager
     {
-        public VisitManager()
-        {
-        }
+        //public VisitManager()
+        //{
+        //}
        
-        /// <summary>
-        /// Call this function to start recording a visit.
-        /// </summary>
-        public static PageVisit RecordVisit(string pageurl, string useragent, string IP, string referer, long memberid, Guid vid)
-        {
+        ///// <summary>
+        ///// Call this function to start recording a visit.
+        ///// </summary>
+        //public static PageVisit RecordVisit(string pageurl, string useragent, string IP, string referer, long memberid, Guid vid)
+        //{
 
-            //Get location information from visitors IP address
-            IPLocation ipl = null;
-            try
-            {
-                WebRequest request = WebRequest.Create("https://www.rudrasofttech.com/handlers/tools/IpLocator.ashx?ip=" + IP);
-                request.Credentials = CredentialCache.DefaultCredentials;
-                WebResponse response = request.GetResponse();
-                Stream dataStream = response.GetResponseStream();
-                StreamReader reader = new StreamReader(dataStream);
-                ipl = new JavaScriptSerializer().Deserialize<IPLocation>(reader.ReadToEnd());
-            }
-            catch (Exception ex)
-            {
-                ipl = new IPLocation();
-                HttpContext.Current.Trace.Write(ex.Message);
-                HttpContext.Current.Trace.Write(ex.StackTrace);
-            }
+        //    //Get location information from visitors IP address
+        //    IPLocation ipl = null;
+        //    try
+        //    {
+        //        WebRequest request = WebRequest.Create("https://www.rudrasofttech.com/handlers/tools/IpLocator.ashx?ip=" + IP);
+        //        request.Credentials = CredentialCache.DefaultCredentials;
+        //        WebResponse response = request.GetResponse();
+        //        Stream dataStream = response.GetResponseStream();
+        //        StreamReader reader = new StreamReader(dataStream);
+        //        ipl = new JavaScriptSerializer().Deserialize<IPLocation>(reader.ReadToEnd());
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        ipl = new IPLocation();
+        //        HttpContext.Current.Trace.Write(ex.Message);
+        //        HttpContext.Current.Trace.Write(ex.StackTrace);
+        //    }
 
-            //New Create new visit.
-            PageVisit vinfo = new PageVisit()
-            {
-                CreateDate = DateTime.UtcNow,
-                LastHeartBeat = DateTime.UtcNow,
-                VisitID = vid == Guid.Empty ?  Guid.NewGuid() : vid,
-                PageURL = pageurl,
-                MemberID = memberid,
-                UserAgent = useragent,
-                URLReferer = referer,
-                Country = ipl.countryCode,
-                IPAddress = IP
-            };
+        //    //New Create new visit.
+        //    PageVisit vinfo = new PageVisit()
+        //    {
+        //        CreateDate = DateTime.UtcNow,
+        //        LastHeartBeat = DateTime.UtcNow,
+        //        VisitID = vid == Guid.Empty ?  Guid.NewGuid() : vid,
+        //        PageURL = pageurl,
+        //        MemberID = memberid,
+        //        UserAgent = useragent,
+        //        URLReferer = referer,
+        //        Country = ipl.countryCode,
+        //        IPAddress = IP
+        //    };
 
-            using(RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
-            {
-                dc.PageVisits.InsertOnSubmit(vinfo);
-                dc.SubmitChanges();
-            }
+        //    using(RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+        //    {
+        //        dc.PageVisits.InsertOnSubmit(vinfo);
+        //        dc.SubmitChanges();
+        //    }
 
-            return vinfo;
-        }
+        //    return vinfo;
+        //}
 
-        public static void RecordPulse(  Guid vid, long pageid)
-        {
-            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
-            {
-                dc.ExecuteCommand("UPDATE dbo.PageVisit Set LastHeartBeat = GETUTCDATE() WHERE ID = " + pageid );
-            }
-        }
+        //public static void RecordPulse(  Guid vid, long pageid)
+        //{
+        //    using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+        //    {
+        //        dc.ExecuteCommand("UPDATE dbo.PageVisit Set LastHeartBeat = GETUTCDATE() WHERE ID = " + pageid );
+        //    }
+        //}
     }
 }

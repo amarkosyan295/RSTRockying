@@ -55,16 +55,16 @@ namespace Rockying
     partial void InsertCategory(Rockying.Models.Category instance);
     partial void UpdateCategory(Rockying.Models.Category instance);
     partial void DeleteCategory(Rockying.Models.Category instance);
-    partial void InsertStarRating(Rockying.Models.StarRating instance);
-    partial void UpdateStarRating(Rockying.Models.StarRating instance);
-    partial void DeleteStarRating(Rockying.Models.StarRating instance);
-    partial void InsertPageVisit(Rockying.Models.PageVisit instance);
-    partial void UpdatePageVisit(Rockying.Models.PageVisit instance);
-    partial void DeletePageVisit(Rockying.Models.PageVisit instance);
+    partial void InsertMemberBook(Rockying.Models.MemberBook instance);
+    partial void UpdateMemberBook(Rockying.Models.MemberBook instance);
+    partial void DeleteMemberBook(Rockying.Models.MemberBook instance);
+    partial void InsertBook(Rockying.Models.Book instance);
+    partial void UpdateBook(Rockying.Models.Book instance);
+    partial void DeleteBook(Rockying.Models.Book instance);
     #endregion
 		
 		public RockyingDataClassesDataContext() : 
-				base(global::System.Configuration.ConfigurationManager.ConnectionStrings["RockyingConnectionString"].ConnectionString, mappingSource)
+				base(global::System.Configuration.ConfigurationManager.ConnectionStrings["rockyclf_rockyingConnectionString"].ConnectionString, mappingSource)
 		{
 			OnCreated();
 		}
@@ -165,19 +165,19 @@ namespace Rockying
 			}
 		}
 		
-		public System.Data.Linq.Table<Rockying.Models.StarRating> StarRatings
+		public System.Data.Linq.Table<Rockying.Models.MemberBook> MemberBooks
 		{
 			get
 			{
-				return this.GetTable<Rockying.Models.StarRating>();
+				return this.GetTable<Rockying.Models.MemberBook>();
 			}
 		}
 		
-		public System.Data.Linq.Table<Rockying.Models.PageVisit> PageVisits
+		public System.Data.Linq.Table<Rockying.Models.Book> Books
 		{
 			get
 			{
-				return this.GetTable<Rockying.Models.PageVisit>();
+				return this.GetTable<Rockying.Models.Book>();
 			}
 		}
 	}
@@ -1871,7 +1871,7 @@ namespace Rockying.Models
 		
 		private EntitySet<Post> _Posts1;
 		
-		private EntitySet<StarRating> _StarRatings;
+		private EntitySet<MemberBook> _MemberBooks;
 		
 		private EntityRef<Member> _Member1;
 		
@@ -1939,7 +1939,7 @@ namespace Rockying.Models
 			this._CustomDataSources1 = new EntitySet<CustomDataSource>(new Action<CustomDataSource>(this.attach_CustomDataSources1), new Action<CustomDataSource>(this.detach_CustomDataSources1));
 			this._Posts = new EntitySet<Post>(new Action<Post>(this.attach_Posts), new Action<Post>(this.detach_Posts));
 			this._Posts1 = new EntitySet<Post>(new Action<Post>(this.attach_Posts1), new Action<Post>(this.detach_Posts1));
-			this._StarRatings = new EntitySet<StarRating>(new Action<StarRating>(this.attach_StarRatings), new Action<StarRating>(this.detach_StarRatings));
+			this._MemberBooks = new EntitySet<MemberBook>(new Action<MemberBook>(this.attach_MemberBooks), new Action<MemberBook>(this.detach_MemberBooks));
 			this._Member1 = default(EntityRef<Member>);
 			OnCreated();
 		}
@@ -2538,16 +2538,16 @@ namespace Rockying.Models
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Member_StarRating", Storage="_StarRatings", ThisKey="ID", OtherKey="MemberID")]
-		public EntitySet<StarRating> StarRatings
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Member_MemberBook", Storage="_MemberBooks", ThisKey="ID", OtherKey="MemberID")]
+		public EntitySet<MemberBook> MemberBooks
 		{
 			get
 			{
-				return this._StarRatings;
+				return this._MemberBooks;
 			}
 			set
 			{
-				this._StarRatings.Assign(value);
+				this._MemberBooks.Assign(value);
 			}
 		}
 		
@@ -2725,13 +2725,13 @@ namespace Rockying.Models
 			entity.Member1 = null;
 		}
 		
-		private void attach_StarRatings(StarRating entity)
+		private void attach_MemberBooks(MemberBook entity)
 		{
 			this.SendPropertyChanging();
 			entity.Member = this;
 		}
 		
-		private void detach_StarRatings(StarRating entity)
+		private void detach_MemberBooks(MemberBook entity)
 		{
 			this.SendPropertyChanging();
 			entity.Member = null;
@@ -3092,8 +3092,6 @@ namespace Rockying.Models
 		
 		private EntitySet<TopStory> _TopStories;
 		
-		private EntitySet<StarRating> _StarRatings;
-		
 		private EntityRef<Member> _Member;
 		
 		private EntityRef<Member> _Member1;
@@ -3143,7 +3141,6 @@ namespace Rockying.Models
 		public Post()
 		{
 			this._TopStories = new EntitySet<TopStory>(new Action<TopStory>(this.attach_TopStories), new Action<TopStory>(this.detach_TopStories));
-			this._StarRatings = new EntitySet<StarRating>(new Action<StarRating>(this.attach_StarRatings), new Action<StarRating>(this.detach_StarRatings));
 			this._Member = default(EntityRef<Member>);
 			this._Member1 = default(EntityRef<Member>);
 			this._Category1 = default(EntityRef<Category>);
@@ -3515,19 +3512,6 @@ namespace Rockying.Models
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Post_StarRating", Storage="_StarRatings", ThisKey="ID", OtherKey="PostID")]
-		public EntitySet<StarRating> StarRatings
-		{
-			get
-			{
-				return this._StarRatings;
-			}
-			set
-			{
-				this._StarRatings.Assign(value);
-			}
-		}
-		
 		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Member_Post", Storage="_Member", ThisKey="CreatedBy", OtherKey="ID", IsForeignKey=true)]
 		public Member Member
 		{
@@ -3657,18 +3641,6 @@ namespace Rockying.Models
 		}
 		
 		private void detach_TopStories(TopStory entity)
-		{
-			this.SendPropertyChanging();
-			entity.Post = null;
-		}
-		
-		private void attach_StarRatings(StarRating entity)
-		{
-			this.SendPropertyChanging();
-			entity.Post = this;
-		}
-		
-		private void detach_StarRatings(StarRating entity)
 		{
 			this.SendPropertyChanging();
 			entity.Post = null;
@@ -3954,31 +3926,25 @@ namespace Rockying.Models
 		}
 	}
 	
-	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.StarRating")]
-	public partial class StarRating : INotifyPropertyChanging, INotifyPropertyChanged
+	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.MemberBook")]
+	public partial class MemberBook : INotifyPropertyChanging, INotifyPropertyChanged
 	{
 		
 		private static PropertyChangingEventArgs emptyChangingEventArgs = new PropertyChangingEventArgs(String.Empty);
 		
 		private long _ID;
 		
-		private long _PostID;
+		private long _MemberID;
 		
-		private int _Stars;
+		private long _BookID;
 		
-		private string _Comment;
+		private string _Review;
 		
-		private System.DateTime _CreateDate;
-		
-		private string _IPAddress;
-		
-		private System.Guid _VisitID;
-		
-		private System.Nullable<long> _MemberID;
+		private byte _ReadStatus;
 		
 		private EntityRef<Member> _Member;
 		
-		private EntityRef<Post> _Post;
+		private EntityRef<Book> _Book;
 		
     #region Extensibility Method Definitions
     partial void OnLoaded();
@@ -3986,26 +3952,20 @@ namespace Rockying.Models
     partial void OnCreated();
     partial void OnIDChanging(long value);
     partial void OnIDChanged();
-    partial void OnPostIDChanging(long value);
-    partial void OnPostIDChanged();
-    partial void OnStarsChanging(int value);
-    partial void OnStarsChanged();
-    partial void OnCommentChanging(string value);
-    partial void OnCommentChanged();
-    partial void OnCreateDateChanging(System.DateTime value);
-    partial void OnCreateDateChanged();
-    partial void OnIPAddressChanging(string value);
-    partial void OnIPAddressChanged();
-    partial void OnVisitIDChanging(System.Guid value);
-    partial void OnVisitIDChanged();
-    partial void OnMemberIDChanging(System.Nullable<long> value);
+    partial void OnMemberIDChanging(long value);
     partial void OnMemberIDChanged();
+    partial void OnBookIDChanging(long value);
+    partial void OnBookIDChanged();
+    partial void OnReviewChanging(string value);
+    partial void OnReviewChanged();
+    partial void OnReadStatusChanging(byte value);
+    partial void OnReadStatusChanged();
     #endregion
 		
-		public StarRating()
+		public MemberBook()
 		{
 			this._Member = default(EntityRef<Member>);
-			this._Post = default(EntityRef<Post>);
+			this._Book = default(EntityRef<Book>);
 			OnCreated();
 		}
 		
@@ -4029,132 +3989,8 @@ namespace Rockying.Models
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_PostID", DbType="BigInt NOT NULL")]
-		public long PostID
-		{
-			get
-			{
-				return this._PostID;
-			}
-			set
-			{
-				if ((this._PostID != value))
-				{
-					if (this._Post.HasLoadedOrAssignedValue)
-					{
-						throw new System.Data.Linq.ForeignKeyReferenceAlreadyHasValueException();
-					}
-					this.OnPostIDChanging(value);
-					this.SendPropertyChanging();
-					this._PostID = value;
-					this.SendPropertyChanged("PostID");
-					this.OnPostIDChanged();
-				}
-			}
-		}
-		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Stars", DbType="Int NOT NULL")]
-		public int Stars
-		{
-			get
-			{
-				return this._Stars;
-			}
-			set
-			{
-				if ((this._Stars != value))
-				{
-					this.OnStarsChanging(value);
-					this.SendPropertyChanging();
-					this._Stars = value;
-					this.SendPropertyChanged("Stars");
-					this.OnStarsChanged();
-				}
-			}
-		}
-		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Comment", DbType="NVarChar(2000) NOT NULL", CanBeNull=false)]
-		public string Comment
-		{
-			get
-			{
-				return this._Comment;
-			}
-			set
-			{
-				if ((this._Comment != value))
-				{
-					this.OnCommentChanging(value);
-					this.SendPropertyChanging();
-					this._Comment = value;
-					this.SendPropertyChanged("Comment");
-					this.OnCommentChanged();
-				}
-			}
-		}
-		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_CreateDate", DbType="DateTime NOT NULL")]
-		public System.DateTime CreateDate
-		{
-			get
-			{
-				return this._CreateDate;
-			}
-			set
-			{
-				if ((this._CreateDate != value))
-				{
-					this.OnCreateDateChanging(value);
-					this.SendPropertyChanging();
-					this._CreateDate = value;
-					this.SendPropertyChanged("CreateDate");
-					this.OnCreateDateChanged();
-				}
-			}
-		}
-		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_IPAddress", DbType="NVarChar(100) NOT NULL", CanBeNull=false)]
-		public string IPAddress
-		{
-			get
-			{
-				return this._IPAddress;
-			}
-			set
-			{
-				if ((this._IPAddress != value))
-				{
-					this.OnIPAddressChanging(value);
-					this.SendPropertyChanging();
-					this._IPAddress = value;
-					this.SendPropertyChanged("IPAddress");
-					this.OnIPAddressChanged();
-				}
-			}
-		}
-		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_VisitID", DbType="UniqueIdentifier NOT NULL")]
-		public System.Guid VisitID
-		{
-			get
-			{
-				return this._VisitID;
-			}
-			set
-			{
-				if ((this._VisitID != value))
-				{
-					this.OnVisitIDChanging(value);
-					this.SendPropertyChanging();
-					this._VisitID = value;
-					this.SendPropertyChanged("VisitID");
-					this.OnVisitIDChanged();
-				}
-			}
-		}
-		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_MemberID", DbType="BigInt")]
-		public System.Nullable<long> MemberID
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_MemberID", DbType="BigInt NOT NULL")]
+		public long MemberID
 		{
 			get
 			{
@@ -4177,7 +4013,71 @@ namespace Rockying.Models
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Member_StarRating", Storage="_Member", ThisKey="MemberID", OtherKey="ID", IsForeignKey=true)]
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_BookID", DbType="BigInt NOT NULL")]
+		public long BookID
+		{
+			get
+			{
+				return this._BookID;
+			}
+			set
+			{
+				if ((this._BookID != value))
+				{
+					if (this._Book.HasLoadedOrAssignedValue)
+					{
+						throw new System.Data.Linq.ForeignKeyReferenceAlreadyHasValueException();
+					}
+					this.OnBookIDChanging(value);
+					this.SendPropertyChanging();
+					this._BookID = value;
+					this.SendPropertyChanged("BookID");
+					this.OnBookIDChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Review", DbType="NVarChar(3000) NOT NULL", CanBeNull=false)]
+		public string Review
+		{
+			get
+			{
+				return this._Review;
+			}
+			set
+			{
+				if ((this._Review != value))
+				{
+					this.OnReviewChanging(value);
+					this.SendPropertyChanging();
+					this._Review = value;
+					this.SendPropertyChanged("Review");
+					this.OnReviewChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ReadStatus", DbType="TinyInt NOT NULL")]
+		public byte ReadStatus
+		{
+			get
+			{
+				return this._ReadStatus;
+			}
+			set
+			{
+				if ((this._ReadStatus != value))
+				{
+					this.OnReadStatusChanging(value);
+					this.SendPropertyChanging();
+					this._ReadStatus = value;
+					this.SendPropertyChanged("ReadStatus");
+					this.OnReadStatusChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Member_MemberBook", Storage="_Member", ThisKey="MemberID", OtherKey="ID", IsForeignKey=true)]
 		public Member Member
 		{
 			get
@@ -4194,53 +4094,53 @@ namespace Rockying.Models
 					if ((previousValue != null))
 					{
 						this._Member.Entity = null;
-						previousValue.StarRatings.Remove(this);
+						previousValue.MemberBooks.Remove(this);
 					}
 					this._Member.Entity = value;
 					if ((value != null))
 					{
-						value.StarRatings.Add(this);
+						value.MemberBooks.Add(this);
 						this._MemberID = value.ID;
 					}
 					else
 					{
-						this._MemberID = default(Nullable<long>);
+						this._MemberID = default(long);
 					}
 					this.SendPropertyChanged("Member");
 				}
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Post_StarRating", Storage="_Post", ThisKey="PostID", OtherKey="ID", IsForeignKey=true)]
-		public Post Post
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Book_MemberBook", Storage="_Book", ThisKey="BookID", OtherKey="ID", IsForeignKey=true)]
+		public Book Book
 		{
 			get
 			{
-				return this._Post.Entity;
+				return this._Book.Entity;
 			}
 			set
 			{
-				Post previousValue = this._Post.Entity;
+				Book previousValue = this._Book.Entity;
 				if (((previousValue != value) 
-							|| (this._Post.HasLoadedOrAssignedValue == false)))
+							|| (this._Book.HasLoadedOrAssignedValue == false)))
 				{
 					this.SendPropertyChanging();
 					if ((previousValue != null))
 					{
-						this._Post.Entity = null;
-						previousValue.StarRatings.Remove(this);
+						this._Book.Entity = null;
+						previousValue.MemberBooks.Remove(this);
 					}
-					this._Post.Entity = value;
+					this._Book.Entity = value;
 					if ((value != null))
 					{
-						value.StarRatings.Add(this);
-						this._PostID = value.ID;
+						value.MemberBooks.Add(this);
+						this._BookID = value.ID;
 					}
 					else
 					{
-						this._PostID = default(long);
+						this._BookID = default(long);
 					}
-					this.SendPropertyChanged("Post");
+					this.SendPropertyChanged("Book");
 				}
 			}
 		}
@@ -4266,31 +4166,29 @@ namespace Rockying.Models
 		}
 	}
 	
-	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.PageVisit")]
-	public partial class PageVisit : INotifyPropertyChanging, INotifyPropertyChanged
+	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.Book")]
+	public partial class Book : INotifyPropertyChanging, INotifyPropertyChanged
 	{
 		
 		private static PropertyChangingEventArgs emptyChangingEventArgs = new PropertyChangingEventArgs(String.Empty);
 		
 		private long _ID;
 		
-		private System.Guid _VisitID;
+		private string _Title;
 		
-		private long _MemberID;
-		
-		private string _URLReferer;
-		
-		private string _PageURL;
+		private string _CoverPage;
 		
 		private System.DateTime _CreateDate;
 		
-		private string _Country;
+		private string _Description;
 		
-		private string _UserAgent;
+		private string _Author;
 		
-		private System.DateTime _LastHeartBeat;
+		private string _ISBN13;
 		
-		private string _IPAddress;
+		private string _ISBN10;
+		
+		private EntitySet<MemberBook> _MemberBooks;
 		
     #region Extensibility Method Definitions
     partial void OnLoaded();
@@ -4298,28 +4196,25 @@ namespace Rockying.Models
     partial void OnCreated();
     partial void OnIDChanging(long value);
     partial void OnIDChanged();
-    partial void OnVisitIDChanging(System.Guid value);
-    partial void OnVisitIDChanged();
-    partial void OnMemberIDChanging(long value);
-    partial void OnMemberIDChanged();
-    partial void OnURLRefererChanging(string value);
-    partial void OnURLRefererChanged();
-    partial void OnPageURLChanging(string value);
-    partial void OnPageURLChanged();
+    partial void OnTitleChanging(string value);
+    partial void OnTitleChanged();
+    partial void OnCoverPageChanging(string value);
+    partial void OnCoverPageChanged();
     partial void OnCreateDateChanging(System.DateTime value);
     partial void OnCreateDateChanged();
-    partial void OnCountryChanging(string value);
-    partial void OnCountryChanged();
-    partial void OnUserAgentChanging(string value);
-    partial void OnUserAgentChanged();
-    partial void OnLastHeartBeatChanging(System.DateTime value);
-    partial void OnLastHeartBeatChanged();
-    partial void OnIPAddressChanging(string value);
-    partial void OnIPAddressChanged();
+    partial void OnDescriptionChanging(string value);
+    partial void OnDescriptionChanged();
+    partial void OnAuthorChanging(string value);
+    partial void OnAuthorChanged();
+    partial void OnISBN13Changing(string value);
+    partial void OnISBN13Changed();
+    partial void OnISBN10Changing(string value);
+    partial void OnISBN10Changed();
     #endregion
 		
-		public PageVisit()
+		public Book()
 		{
+			this._MemberBooks = new EntitySet<MemberBook>(new Action<MemberBook>(this.attach_MemberBooks), new Action<MemberBook>(this.detach_MemberBooks));
 			OnCreated();
 		}
 		
@@ -4343,82 +4238,42 @@ namespace Rockying.Models
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_VisitID", DbType="UniqueIdentifier NOT NULL")]
-		public System.Guid VisitID
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Title", DbType="NVarChar(1000) NOT NULL", CanBeNull=false)]
+		public string Title
 		{
 			get
 			{
-				return this._VisitID;
+				return this._Title;
 			}
 			set
 			{
-				if ((this._VisitID != value))
+				if ((this._Title != value))
 				{
-					this.OnVisitIDChanging(value);
+					this.OnTitleChanging(value);
 					this.SendPropertyChanging();
-					this._VisitID = value;
-					this.SendPropertyChanged("VisitID");
-					this.OnVisitIDChanged();
+					this._Title = value;
+					this.SendPropertyChanged("Title");
+					this.OnTitleChanged();
 				}
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_MemberID", DbType="BigInt NOT NULL")]
-		public long MemberID
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_CoverPage", DbType="NVarChar(MAX) NOT NULL", CanBeNull=false)]
+		public string CoverPage
 		{
 			get
 			{
-				return this._MemberID;
+				return this._CoverPage;
 			}
 			set
 			{
-				if ((this._MemberID != value))
+				if ((this._CoverPage != value))
 				{
-					this.OnMemberIDChanging(value);
+					this.OnCoverPageChanging(value);
 					this.SendPropertyChanging();
-					this._MemberID = value;
-					this.SendPropertyChanged("MemberID");
-					this.OnMemberIDChanged();
-				}
-			}
-		}
-		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_URLReferer", DbType="NVarChar(3000) NOT NULL", CanBeNull=false)]
-		public string URLReferer
-		{
-			get
-			{
-				return this._URLReferer;
-			}
-			set
-			{
-				if ((this._URLReferer != value))
-				{
-					this.OnURLRefererChanging(value);
-					this.SendPropertyChanging();
-					this._URLReferer = value;
-					this.SendPropertyChanged("URLReferer");
-					this.OnURLRefererChanged();
-				}
-			}
-		}
-		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_PageURL", DbType="NVarChar(3000) NOT NULL", CanBeNull=false)]
-		public string PageURL
-		{
-			get
-			{
-				return this._PageURL;
-			}
-			set
-			{
-				if ((this._PageURL != value))
-				{
-					this.OnPageURLChanging(value);
-					this.SendPropertyChanging();
-					this._PageURL = value;
-					this.SendPropertyChanged("PageURL");
-					this.OnPageURLChanged();
+					this._CoverPage = value;
+					this.SendPropertyChanged("CoverPage");
+					this.OnCoverPageChanged();
 				}
 			}
 		}
@@ -4443,83 +4298,96 @@ namespace Rockying.Models
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Country", DbType="NVarChar(50) NOT NULL", CanBeNull=false)]
-		public string Country
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Description", DbType="NVarChar(3000) NOT NULL", CanBeNull=false)]
+		public string Description
 		{
 			get
 			{
-				return this._Country;
+				return this._Description;
 			}
 			set
 			{
-				if ((this._Country != value))
+				if ((this._Description != value))
 				{
-					this.OnCountryChanging(value);
+					this.OnDescriptionChanging(value);
 					this.SendPropertyChanging();
-					this._Country = value;
-					this.SendPropertyChanged("Country");
-					this.OnCountryChanged();
+					this._Description = value;
+					this.SendPropertyChanged("Description");
+					this.OnDescriptionChanged();
 				}
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_UserAgent", DbType="NVarChar(1000) NOT NULL", CanBeNull=false)]
-		public string UserAgent
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Author", DbType="NVarChar(2000) NOT NULL", CanBeNull=false)]
+		public string Author
 		{
 			get
 			{
-				return this._UserAgent;
+				return this._Author;
 			}
 			set
 			{
-				if ((this._UserAgent != value))
+				if ((this._Author != value))
 				{
-					this.OnUserAgentChanging(value);
+					this.OnAuthorChanging(value);
 					this.SendPropertyChanging();
-					this._UserAgent = value;
-					this.SendPropertyChanged("UserAgent");
-					this.OnUserAgentChanged();
+					this._Author = value;
+					this.SendPropertyChanged("Author");
+					this.OnAuthorChanged();
 				}
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_LastHeartBeat", DbType="DateTime NOT NULL")]
-		public System.DateTime LastHeartBeat
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ISBN13", DbType="NVarChar(20) NOT NULL", CanBeNull=false)]
+		public string ISBN13
 		{
 			get
 			{
-				return this._LastHeartBeat;
+				return this._ISBN13;
 			}
 			set
 			{
-				if ((this._LastHeartBeat != value))
+				if ((this._ISBN13 != value))
 				{
-					this.OnLastHeartBeatChanging(value);
+					this.OnISBN13Changing(value);
 					this.SendPropertyChanging();
-					this._LastHeartBeat = value;
-					this.SendPropertyChanged("LastHeartBeat");
-					this.OnLastHeartBeatChanged();
+					this._ISBN13 = value;
+					this.SendPropertyChanged("ISBN13");
+					this.OnISBN13Changed();
 				}
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_IPAddress", DbType="NVarChar(100)")]
-		public string IPAddress
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ISBN10", DbType="NVarChar(20) NOT NULL", CanBeNull=false)]
+		public string ISBN10
 		{
 			get
 			{
-				return this._IPAddress;
+				return this._ISBN10;
 			}
 			set
 			{
-				if ((this._IPAddress != value))
+				if ((this._ISBN10 != value))
 				{
-					this.OnIPAddressChanging(value);
+					this.OnISBN10Changing(value);
 					this.SendPropertyChanging();
-					this._IPAddress = value;
-					this.SendPropertyChanged("IPAddress");
-					this.OnIPAddressChanged();
+					this._ISBN10 = value;
+					this.SendPropertyChanged("ISBN10");
+					this.OnISBN10Changed();
 				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Book_MemberBook", Storage="_MemberBooks", ThisKey="ID", OtherKey="BookID")]
+		public EntitySet<MemberBook> MemberBooks
+		{
+			get
+			{
+				return this._MemberBooks;
+			}
+			set
+			{
+				this._MemberBooks.Assign(value);
 			}
 		}
 		
@@ -4541,6 +4409,18 @@ namespace Rockying.Models
 			{
 				this.PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
 			}
+		}
+		
+		private void attach_MemberBooks(MemberBook entity)
+		{
+			this.SendPropertyChanging();
+			entity.Book = this;
+		}
+		
+		private void detach_MemberBooks(MemberBook entity)
+		{
+			this.SendPropertyChanging();
+			entity.Book = null;
 		}
 	}
 }

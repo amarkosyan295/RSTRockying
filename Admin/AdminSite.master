@@ -29,10 +29,8 @@
     <script src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.2.min.js" type="text/javascript"></script>
     <script src="<%= Page.ResolveClientUrl("~/admin/bootstrap/js/bootstrap.min.js") %>" type="text/javascript"></script>
     <link href="<%= Page.ResolveClientUrl("~/admin/bootstrap/css/custom.css") %>" rel="stylesheet" type="text/css" />
-
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
-
 </head>
 <body>
     <div class="navbar navbar-fixed-top">

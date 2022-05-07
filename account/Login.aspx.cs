@@ -25,9 +25,13 @@ public partial class Login : System.Web.UI.Page
             {
                 FormsAuthentication.SetAuthCookie(EmailTextBox.Text.Trim(), RememberCheckBox.Checked);
                 Member m = MemberManager.UpdateLastLogon(EmailTextBox.Text.Trim());
-                if (m.UserType == (byte)MemberTypeType.Admin || m.UserType == (byte)MemberTypeType.Author)
+                if (m.UserType == (byte)MemberTypeType.Admin)
                 {
                     Response.Redirect("~/admin/Default.aspx");
+                }
+                else if (m.UserType == (byte)MemberTypeType.Author)
+                {
+                    Response.Redirect("~/mystories.aspx");
                 }
                 else
                 {
@@ -44,7 +48,7 @@ public partial class Login : System.Web.UI.Page
         }
         catch (Exception ex)
         {
-            message1.Text = string.Format("{0} {1}",Resources.Resource.GenericMessage, ex.Message);
+            message1.Text = string.Format("{0} {1}", Resources.Resource.GenericMessage, ex.Message);
             message1.Visible = true;
             message1.Heading = Resources.Resource.WarningHeading;
             message1.Indicate = AlertType.Error;

@@ -42,7 +42,7 @@ public partial class control_message : System.Web.UI.UserControl
         {
             if (Indicate == AlertType.Error)
             {
-                return "alert-error";
+                return "alert-danger";
             }
             else if (Indicate == AlertType.Success)
             {
@@ -50,7 +50,7 @@ public partial class control_message : System.Web.UI.UserControl
             }
             else if (Indicate == AlertType.Warning)
             {
-                return "alert-block";
+                return "alert-warning";
             }
             else if (Indicate == AlertType.Info)
             {

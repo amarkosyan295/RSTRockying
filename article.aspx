@@ -9,7 +9,7 @@
     <meta name="keywords" content="<%: PPM.Item.Tag %>" />
     <meta name="author" content="<%: PPM.Item.WriterName %>" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://<%: Request.Url.Host %>/a/<%: PPM.Item.URL.ToString() %>" />
+    <meta property="og:url" content="https://www.rockying.com/a/<%: PPM.Item.URL.ToString() %>" />
     <meta property="og:site_name" content="<%: Utility.SiteName %>" />
     <meta property="fb:admins" content="871950590" />
     <meta property="og:title" content="<%: string.IsNullOrEmpty(PPM.Item.MetaTitle) ? PPM.Item.Title : PPM.Item.MetaTitle %>" />
@@ -30,7 +30,7 @@
         type="text/css" />
     <link href="//www.rudrasofttech.com/js-tools/question/question.css" rel="stylesheet"
         type="text/css" />
-    <script src="//<%: Request.Url.Host %>/bootstrap/js/rstquestion.js" type="text/javascript"></script>
+    <script src="//www.rockying.com/bootstrap/js/rstquestion.js" type="text/javascript"></script>
     <script src="//www.rudrasofttech.com/js-tools/question/question.js" type="text/javascript"></script>
     <script type="text/javascript">
         $(window).load(function () {
@@ -196,25 +196,6 @@
             </div>
             <div class="row">
                 <div class="col-md-6">
-                    <h4>Rate The Story
-                    </h4>
-                    <div style="margin: 10px 0px; text-align: center;">
-                        <div class="btn-toolbar" style="margin: 0;">
-                            <div class="btn-group" data-bubbleid="ratingbubble" id="ratingbtngrp">
-                                <button type="button" id="btn1star" class="btn btn-large" onclick="postRating(1)" onmouseover="toggleCheckedStar(1, true)" onmouseout="toggleCheckedStar(1, false)">1 <span class="fa fa-star"></span></button>
-                                <button type="button" id="btn2star" class="btn btn-large" onclick="postRating(2)" onmouseover="toggleCheckedStar(2, true)" onmouseout="toggleCheckedStar(2, false)">2 <span class="fa fa-star"></span></button>
-                                <button type="button" id="btn3star" class="btn btn-large" onclick="postRating(3)" onmouseover="toggleCheckedStar(3, true)" onmouseout="toggleCheckedStar(3, false)">3 <span class="fa fa-star"></span></button>
-                                <button type="button" id="btn4star" class="btn btn-large" onclick="postRating(4)" onmouseover="toggleCheckedStar(4, true)" onmouseout="toggleCheckedStar(4, false)">4 <span class="fa fa-star"></span></button>
-                                <button type="button" id="btn5star" class="btn btn-large" onclick="postRating(5)" onmouseover="toggleCheckedStar(5, true)" onmouseout="toggleCheckedStar(5, false)">5 <span class="fa fa-star"></span></button>
-                            </div>
-                        </div>
-                        <div class="rst-bubble" id="ratingbubble">
-                            <div class="rst-bubble-body" style="width: 300px; max-height: 300px;">
-                                Please give a star rating to this story. You can click any button to give your desired rating.
-                                <button type="button" onclick='$("#ratingbtngrp").bubble("close");' class="btn btn-small">Close</button>
-                            </div>
-                        </div>
-                    </div>
                 </div>
                 <div class="col-md-6">
                     <h4>Share It
@@ -295,16 +276,19 @@
     </div>
     <%} %>
     <% if (CurrentUser != null)
-        {
-            if (CurrentUser.UserType == (byte)MemberTypeType.Admin || CurrentUser.ID == PPM.Item.CreatedBy)
-            {%>
+        { %>
     <div style="padding-left: 10px; padding-top: 5px; padding-bottom: 5px; padding-right: 10px; position: fixed; top: auto; bottom: 0px; left: 0px; right: auto; background-color: #fff;">
+        <%if (CurrentUser.UserType == (byte)MemberTypeType.Admin)
+            { %>
         <a href="../../Admin/ManageArticle.aspx?id=<%: PPM.Item.ID.ToString()%>&mode=edit"
             target="_blank">Edit</a>
+        <%}
+            else if (CurrentUser.ID == PPM.Item.CreatedBy)
+            { %>
+        <a href="../editstory.aspx?id=<%: PPM.Item.ID.ToString()%>">Edit</a>
+        <%} %>
     </div>
-    <% }
-        }
-    %>
+    <% } %>
 </asp:Content>
 <asp:Content ContentPlaceHolderID="BottomContent" ID="Content3" runat="server">
     <script>
