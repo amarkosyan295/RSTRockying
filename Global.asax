@@ -44,6 +44,8 @@
         routes.MapPageRoute("viewemail", "account/email/{id}", "~/account/email.aspx");
         routes.MapPageRoute("viewemailtrans", "account/email/{id}/{trans}", "~/account/email.aspx");
 
+        routes.MapPageRoute("BooksPageRoute", "popular-books", "~/books.aspx");
+        routes.MapPageRoute("BookPageRoute", "book/{title}-{id}", "~/book.aspx");
         //Any Damn Thing Catch Here
         routes.MapPageRoute("DefaultPageRoute", string.Empty, "~/custompage.aspx");
         routes.MapPageRoute("CustomPageRoute", "{pagename}", "~/custompage.aspx");

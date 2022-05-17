@@ -12,7 +12,7 @@ namespace Rockying.Models
         public long ID { get; set; }
         public string Title { get; set; }
         public string MetaTitle { get; set; }
-        
+
         public string OGImage { get; set; }
         public string OGDescription { get; set; }
         public DateTime DateCreated { get; set; }
@@ -45,7 +45,7 @@ namespace Rockying.Models
             Viewed = 0;
             URL = string.Empty;
             MetaTitle = string.Empty;
-            
+
         }
 
         public Article(Post i)

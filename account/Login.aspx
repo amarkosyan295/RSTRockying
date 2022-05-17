@@ -38,7 +38,8 @@
                 <div class="col-12">
                     <asp:Button ID="SubmitButton" class="btn btn-primary" ValidationGroup="logingrp"
                         runat="server" Text="Login" OnClick="SubmitButton_Click" />
-                    <a href="forgotpassword" class="btn float-end">Forgot Password? Click Here</a>
+                    <a href="forgotpassword<%= !string.IsNullOrEmpty(Request.QueryString["returnurl"]) ? "?returnurl=" + Request.QueryString["returnurl"] : "" %>" class="btn btn-link float-end">Forgot Password?</a>
+                    <a href="register<%= !string.IsNullOrEmpty(Request.QueryString["returnurl"]) ? "?returnurl=" + Request.QueryString["returnurl"] : "" %>" class="btn btn-link float-end">Register for Free</a>
                 </div>
             </form>
         </div>

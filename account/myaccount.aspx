@@ -76,7 +76,6 @@
                     <div class="mb-3">
                         <label class="form-label" for="<%: CountryDropDown.ClientID %>">
                             Country (Required)</label>
-
                         <asp:DropDownList ID="CountryDropDown" CssClass="form-select" runat="server">
                             <asp:ListItem Selected="True" Value="">Country</asp:ListItem>
                             <asp:ListItem Value="USA">United States of America</asp:ListItem>
@@ -319,23 +318,19 @@
                     <div class="mb-3">
                         <label class="form-label" for="<%: GenderDropDown.ClientID %>">
                             Gender</label>
-
                         <asp:DropDownList ID="GenderDropDown" CssClass="form-select" runat="server">
                             <asp:ListItem Text="Male" Value="M"></asp:ListItem>
                             <asp:ListItem Text="Female" Value="F"></asp:ListItem>
                             <asp:ListItem Text="Other" Value="O"></asp:ListItem>
                         </asp:DropDownList>
-
                     </div>
                     <div class="mb-3">
                         <label class="form-label" for="<%: WriterDropDown.ClientID %>">
                             Membership</label>
-
                         <asp:DropDownList ID="WriterDropDown" CssClass="form-select" runat="server">
                             <asp:ListItem Text="Writer" Value="2"></asp:ListItem>
                             <asp:ListItem Text="Reader" Value="3"></asp:ListItem>
                         </asp:DropDownList>
-
                     </div>
                     <div class="mb-3 form-check">
                         <asp:CheckBox ID="SubscribeCheckBox" runat="server" CssClass="form-check-input" />
@@ -351,27 +346,9 @@
                             ValidationGroup="logingrp"></asp:RegularExpressionValidator>
                     </div>
                     <div class="mb-3">
-                        <label class="control-label" for="<%: AltEmail2TextBox.ClientID %>">
-                            Second Alternate Email (optional)</label>
-
-                        <asp:TextBox ID="AltEmail2TextBox" MaxLength="245" CssClass="form-control" runat="server"></asp:TextBox><asp:RegularExpressionValidator
-                            ID="RegularExpressionValidator2" runat="server" ErrorMessage="Invalid Email"
-                            ControlToValidate="AltEmail2TextBox" CssClass="text-danger" Display="Dynamic" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*"
-                            ValidationGroup="logingrp"></asp:RegularExpressionValidator>
-
-                    </div>
-                    <div class="mb-3">
                         <label class="control-label" for="<%: MobileTextBox.ClientID %>">
                             Mobile (optional)</label>
-
                         <asp:TextBox ID="MobileTextBox" MaxLength="17" CssClass="form-control" runat="server"></asp:TextBox>
-
-                    </div>
-                    <div class="mb-3">
-                        <label class="control-label" for="<%: PhoneTextBox.ClientID %>">
-                            Phone (optional)</label>
-                        <asp:TextBox ID="PhoneTextBox" MaxLength="17" CssClass="form-control" runat="server"></asp:TextBox>
-
                     </div>
                     <div class="mb-3">
                         <label class="control-label" for="<%: AddressTextBox.ClientID %>">

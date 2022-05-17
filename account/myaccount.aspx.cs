@@ -38,9 +38,9 @@ public partial class myaccount : MemberPage
         CountryDropDown.SelectedValue = m.Country;
         
         AltEmailTextBox.Text = m.AlternateEmail;
-        AltEmail2TextBox.Text = m.AlternateEmail2;
+        //AltEmail2TextBox.Text = m.AlternateEmail2;
         MobileTextBox.Text = m.Mobile;
-        PhoneTextBox.Text = m.Phone;
+        //PhoneTextBox.Text = m.Phone;
         AddressTextBox.Text = m.Address;
         if (m.Gender.HasValue)
         {
@@ -80,7 +80,7 @@ public partial class myaccount : MemberPage
 
             if (MemberManager.Update(Page.User.Identity.Name, NameTextBox.Text.Trim(), SubscribeCheckBox.Checked, dob,
                 CountryDropDown.SelectedValue, AltEmailTextBox.Text.Trim(),
-                MobileTextBox.Text.Trim(), AltEmail2TextBox.Text.Trim(), PhoneTextBox.Text.Trim(),
+                MobileTextBox.Text.Trim(), "", "",
                 AddressTextBox.Text.Trim(), LastNameTextBox.Text.Trim(), m.ID,
                 GenderDropDown.SelectedValue, (MemberTypeType)Enum.Parse(typeof(MemberTypeType), WriterDropDown.SelectedValue)))
             {

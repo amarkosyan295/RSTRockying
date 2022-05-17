@@ -42,57 +42,49 @@
             js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&autoLogAppEvents=1&version=v3.1&appId=279558142098641';
             fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk'));</script>
-    <div class="container">
-        <div class="row justify-content-md-center">
-            <div class="col-md-4 text-center text-md-start py-md-3 py-1">
-                <a href="~" runat="server" class="text-dark" style="font-size: 2rem; font-weight: bold; text-decoration: none; font-family: Merriweather, 'Open Sans', sans-serif;"><%: Utility.SiteName %></a>
-            </div>
-            <div class="col-md-8 text-center text-md-end">
-                <div class="my-md-3 my-1">
-                    <%--<a class="btn btn-light text-dark" href="~/Thriller/index" runat="server">Thriller</a>
+    <div class="text-center py-md-2 py-1">
+        <a href="~" runat="server" class="text-dark" style="font-size: 2.5rem; font-weight: bold; text-decoration: none; font-family: Merriweather, 'Open Sans', sans-serif;"><%: Utility.SiteName %></a>
+    </div>
+    <div class="my-md-2 my-1 text-center">
+        <%--<a class="btn btn-light text-dark" href="~/Thriller/index" runat="server">Thriller</a>
                     <a class="btn btn-light text-dark" href="~/Horror/index" runat="server">Horror</a>--%>
-                    <a class="text-decoration-none mx-1 mx-md-2 text-dark" href="~/more-categories" runat="server">Stories</a>
-                    <%if (!Request.IsAuthenticated)
-                        { %>
-                    <a title="Log in" class="text-decoration-none mx-1 mx-md-2 text-dark" runat="server" href="~/account/login">Login</a>
-                    <a title="Sign up" class="text-decoration-none mx-1 mx-md-2 text-dark" runat="server" href="~/account/register">Signup</a>
-                    <%}
-                        else
-                        {
-                            if (CurrentUser.UserType == (byte)MemberTypeType.Author)
-                            { %>
-                    <a title="My Stories" class="text-decoration-none mx-1 mx-md-2 text-dark" runat="server" href="~/mystories.aspx">My Stories</a>
-                    <a title="My Books" class="text-decoration-none mx-1 mx-md-2 text-dark" runat="server" href="~/mybooks.aspx">My Books</a>
-                    <%--<a title="My Drive" class="btn btn-light text-dark" runat="server" href="~/admin/managedrive.aspx">My Drive</a>--%>
-                    <%}
-                        if (CurrentUser.UserType == (byte)MemberTypeType.Admin)
-                        { %>
-                    <a title="My Articles" class="text-decoration-none mx-1 mx-md-2 text-dark" runat="server" href="~/admin/default.aspx">Admin</a>
-                    <%} %>
-                    <div class="dropdown d-inline-block">
-                        <a class="btn btn-light dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
-                            <%= CurrentUser.MemberName %>
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                            <li><a class="dropdown-item" runat="server" href="~/account/myaccount">My Account</a></li>
-                            <li><a class="dropdown-item" runat="server" href="~/logout">Log out</a></li>
-                        </ul>
-                    </div>
-                    <%} %>
-                </div>
-            </div>
+        <a class="text-decoration-none mx-1 mx-md-2 text-dark" href="~/more-categories" runat="server">Story Genres</a>
+        <a class="text-decoration-none mx-1 mx-md-2 text-dark" href="~/popular-books" runat="server">Books</a>
+        <%if (!Request.IsAuthenticated)
+            { %>
+        <a title="Log in" class="text-decoration-none mx-1 mx-md-2 text-dark" runat="server" href="~/account/login">Login</a>
+        <a title="Sign up" class="text-decoration-none mx-1 mx-md-2 text-dark" runat="server" href="~/account/register">Signup</a>
+        <%}
+            else
+            {
+                if (CurrentUser.UserType == (byte)MemberTypeType.Author)
+                    { %>
+                <a class="text-decoration-none mx-1 mx-md-2 text-dark" runat="server" href="~/mystories.aspx">My Stories</a>
+                <a class="text-decoration-none mx-1 mx-md-2 text-dark" runat="server" href="~/MyLibrary.aspx">My Library</a>
+                <%} 
+                if (CurrentUser.UserType == (byte)MemberTypeType.Admin)
+                { %>
+        <a title="My Articles" class="text-decoration-none mx-1 mx-md-2 text-dark" runat="server" href="~/admin/default.aspx">Admin</a>
+        <%} %>
+        <div class="dropdown d-inline-block">
+            <a class="btn btn-light dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                <%= CurrentUser.MemberName %>
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                
+                <li><a class="dropdown-item" runat="server" href="~/account/myaccount">My Account</a></li>
+                <li><a class="dropdown-item" runat="server" href="~/logout">Log out</a></li>
+            </ul>
         </div>
+        <%} %>
     </div>
     <div class="container">
         <div class="row">
-            <div class="col-12">
-                <div class="bg-light p-2 border">
-                    <asp:ContentPlaceHolder ID="MainContent" runat="server" />
-                </div>
+            <div class="col-12 bg-light p-2 border">
+                <asp:ContentPlaceHolder ID="MainContent" runat="server" />
             </div>
         </div>
     </div>
-
     <div class="footer text-center mt-3 mb-5 border-top">
         <div class="my-2">
             <a title="Privacy Policy" runat="server" href="~/PrivacyPolicy" class="text-decoration-none text-dark">Privacy</a>, 

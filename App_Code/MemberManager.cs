@@ -120,6 +120,10 @@ namespace Rockying.Models
                 {
                     var m = (from t in dc.Members where t.Email == username select t).SingleOrDefault();
                     m.LastLogon = DateTime.Now;
+                    if (string.IsNullOrEmpty(m.UserName))
+                    {
+                        m.UserName = Guid.NewGuid().ToString().Replace("-", "");
+                    }
                     dc.SubmitChanges();
                     return m;
                 }

@@ -49,9 +49,9 @@ h1, h2, h3, h4 {
     padding-right: 3px;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4 {
     font-family: 'Merriweather', serif, MS Sans Serif, 'Source Sans Pro', Georgia, Arial;
-    font-weight: bold;
+    /*font-weight: bold;*/
 }
 
 #article img {
@@ -429,3 +429,12 @@ input[type=range] {
         font-size: 21px;
         padding: 14px 24px;
     }
+
+    .special{
+        cursor:pointer;
+    }
+.special:hover {
+    border-color: #86b7fe;
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem rgb(13 110 253 / 25%);
+}

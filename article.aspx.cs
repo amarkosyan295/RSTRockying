@@ -24,10 +24,10 @@ public partial class _Article : BasePage
             pname = Page.RouteData.Values["pagename"].ToString();
         }
 
-        if (Request.IsAuthenticated)
-        {
-            CurrentUser = MemberManager.GetUser(User.Identity.Name);
-        }
+        //if (Request.IsAuthenticated)
+        //{
+        //    CurrentUser = MemberManager.GetUser(User.Identity.Name);
+        //}
 
         if (Request.QueryString["preview"] != null)
         {

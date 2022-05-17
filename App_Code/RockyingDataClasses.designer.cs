@@ -61,6 +61,9 @@ namespace Rockying
     partial void InsertBook(Rockying.Models.Book instance);
     partial void UpdateBook(Rockying.Models.Book instance);
     partial void DeleteBook(Rockying.Models.Book instance);
+    partial void InsertReadingUpdate(Rockying.Models.ReadingUpdate instance);
+    partial void UpdateReadingUpdate(Rockying.Models.ReadingUpdate instance);
+    partial void DeleteReadingUpdate(Rockying.Models.ReadingUpdate instance);
     #endregion
 		
 		public RockyingDataClassesDataContext() : 
@@ -178,6 +181,22 @@ namespace Rockying
 			get
 			{
 				return this.GetTable<Rockying.Models.Book>();
+			}
+		}
+		
+		public System.Data.Linq.Table<Rockying.Models.ReadingUpdate> ReadingUpdates
+		{
+			get
+			{
+				return this.GetTable<Rockying.Models.ReadingUpdate>();
+			}
+		}
+		
+		public System.Data.Linq.Table<Rockying.Models.PopularBook> PopularBooks
+		{
+			get
+			{
+				return this.GetTable<Rockying.Models.PopularBook>();
 			}
 		}
 	}
@@ -3942,6 +3961,10 @@ namespace Rockying.Models
 		
 		private byte _ReadStatus;
 		
+		private byte _Emotion;
+		
+		private EntitySet<ReadingUpdate> _ReadingUpdates;
+		
 		private EntityRef<Member> _Member;
 		
 		private EntityRef<Book> _Book;
@@ -3960,10 +3983,13 @@ namespace Rockying.Models
     partial void OnReviewChanged();
     partial void OnReadStatusChanging(byte value);
     partial void OnReadStatusChanged();
+    partial void OnEmotionChanging(byte value);
+    partial void OnEmotionChanged();
     #endregion
 		
 		public MemberBook()
 		{
+			this._ReadingUpdates = new EntitySet<ReadingUpdate>(new Action<ReadingUpdate>(this.attach_ReadingUpdates), new Action<ReadingUpdate>(this.detach_ReadingUpdates));
 			this._Member = default(EntityRef<Member>);
 			this._Book = default(EntityRef<Book>);
 			OnCreated();
@@ -4077,6 +4103,39 @@ namespace Rockying.Models
 			}
 		}
 		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Emotion", DbType="TinyInt NOT NULL")]
+		public byte Emotion
+		{
+			get
+			{
+				return this._Emotion;
+			}
+			set
+			{
+				if ((this._Emotion != value))
+				{
+					this.OnEmotionChanging(value);
+					this.SendPropertyChanging();
+					this._Emotion = value;
+					this.SendPropertyChanged("Emotion");
+					this.OnEmotionChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="MemberBook_ReadingUpdate", Storage="_ReadingUpdates", ThisKey="ID", OtherKey="MemberBookID")]
+		public EntitySet<ReadingUpdate> ReadingUpdates
+		{
+			get
+			{
+				return this._ReadingUpdates;
+			}
+			set
+			{
+				this._ReadingUpdates.Assign(value);
+			}
+		}
+		
 		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Member_MemberBook", Storage="_Member", ThisKey="MemberID", OtherKey="ID", IsForeignKey=true)]
 		public Member Member
 		{
@@ -4164,6 +4223,18 @@ namespace Rockying.Models
 				this.PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
 			}
 		}
+		
+		private void attach_ReadingUpdates(ReadingUpdate entity)
+		{
+			this.SendPropertyChanging();
+			entity.MemberBook = this;
+		}
+		
+		private void detach_ReadingUpdates(ReadingUpdate entity)
+		{
+			this.SendPropertyChanging();
+			entity.MemberBook = null;
+		}
 	}
 	
 	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.Book")]
@@ -4188,6 +4259,18 @@ namespace Rockying.Models
 		
 		private string _ISBN10;
 		
+		private int _PageCount;
+		
+		private string _PublishDate;
+		
+		private string _Publisher;
+		
+		private string _Categories;
+		
+		private string _GoogleData;
+		
+		private string _Identifiers;
+		
 		private EntitySet<MemberBook> _MemberBooks;
 		
     #region Extensibility Method Definitions
@@ -4210,6 +4293,18 @@ namespace Rockying.Models
     partial void OnISBN13Changed();
     partial void OnISBN10Changing(string value);
     partial void OnISBN10Changed();
+    partial void OnPageCountChanging(int value);
+    partial void OnPageCountChanged();
+    partial void OnPublishDateChanging(string value);
+    partial void OnPublishDateChanged();
+    partial void OnPublisherChanging(string value);
+    partial void OnPublisherChanged();
+    partial void OnCategoriesChanging(string value);
+    partial void OnCategoriesChanged();
+    partial void OnGoogleDataChanging(string value);
+    partial void OnGoogleDataChanged();
+    partial void OnIdentifiersChanging(string value);
+    partial void OnIdentifiersChanged();
     #endregion
 		
 		public Book()
@@ -4378,6 +4473,126 @@ namespace Rockying.Models
 			}
 		}
 		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_PageCount", DbType="Int NOT NULL")]
+		public int PageCount
+		{
+			get
+			{
+				return this._PageCount;
+			}
+			set
+			{
+				if ((this._PageCount != value))
+				{
+					this.OnPageCountChanging(value);
+					this.SendPropertyChanging();
+					this._PageCount = value;
+					this.SendPropertyChanged("PageCount");
+					this.OnPageCountChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_PublishDate", DbType="NVarChar(50) NOT NULL", CanBeNull=false)]
+		public string PublishDate
+		{
+			get
+			{
+				return this._PublishDate;
+			}
+			set
+			{
+				if ((this._PublishDate != value))
+				{
+					this.OnPublishDateChanging(value);
+					this.SendPropertyChanging();
+					this._PublishDate = value;
+					this.SendPropertyChanged("PublishDate");
+					this.OnPublishDateChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Publisher", DbType="NVarChar(250) NOT NULL", CanBeNull=false)]
+		public string Publisher
+		{
+			get
+			{
+				return this._Publisher;
+			}
+			set
+			{
+				if ((this._Publisher != value))
+				{
+					this.OnPublisherChanging(value);
+					this.SendPropertyChanging();
+					this._Publisher = value;
+					this.SendPropertyChanged("Publisher");
+					this.OnPublisherChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Categories", DbType="NVarChar(500) NOT NULL", CanBeNull=false)]
+		public string Categories
+		{
+			get
+			{
+				return this._Categories;
+			}
+			set
+			{
+				if ((this._Categories != value))
+				{
+					this.OnCategoriesChanging(value);
+					this.SendPropertyChanging();
+					this._Categories = value;
+					this.SendPropertyChanged("Categories");
+					this.OnCategoriesChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_GoogleData", DbType="NVarChar(MAX)")]
+		public string GoogleData
+		{
+			get
+			{
+				return this._GoogleData;
+			}
+			set
+			{
+				if ((this._GoogleData != value))
+				{
+					this.OnGoogleDataChanging(value);
+					this.SendPropertyChanging();
+					this._GoogleData = value;
+					this.SendPropertyChanged("GoogleData");
+					this.OnGoogleDataChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Identifiers", DbType="NVarChar(2000)")]
+		public string Identifiers
+		{
+			get
+			{
+				return this._Identifiers;
+			}
+			set
+			{
+				if ((this._Identifiers != value))
+				{
+					this.OnIdentifiersChanging(value);
+					this.SendPropertyChanging();
+					this._Identifiers = value;
+					this.SendPropertyChanged("Identifiers");
+					this.OnIdentifiersChanged();
+				}
+			}
+		}
+		
 		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Book_MemberBook", Storage="_MemberBooks", ThisKey="ID", OtherKey="BookID")]
 		public EntitySet<MemberBook> MemberBooks
 		{
@@ -4421,6 +4636,298 @@ namespace Rockying.Models
 		{
 			this.SendPropertyChanging();
 			entity.Book = null;
+		}
+	}
+	
+	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.ReadingUpdate")]
+	public partial class ReadingUpdate : INotifyPropertyChanging, INotifyPropertyChanged
+	{
+		
+		private static PropertyChangingEventArgs emptyChangingEventArgs = new PropertyChangingEventArgs(String.Empty);
+		
+		private long _ID;
+		
+		private long _MemberBookID;
+		
+		private int _PageCount;
+		
+		private System.DateTime _CreateDate;
+		
+		private EntityRef<MemberBook> _MemberBook;
+		
+    #region Extensibility Method Definitions
+    partial void OnLoaded();
+    partial void OnValidate(System.Data.Linq.ChangeAction action);
+    partial void OnCreated();
+    partial void OnIDChanging(long value);
+    partial void OnIDChanged();
+    partial void OnMemberBookIDChanging(long value);
+    partial void OnMemberBookIDChanged();
+    partial void OnPageCountChanging(int value);
+    partial void OnPageCountChanged();
+    partial void OnCreateDateChanging(System.DateTime value);
+    partial void OnCreateDateChanged();
+    #endregion
+		
+		public ReadingUpdate()
+		{
+			this._MemberBook = default(EntityRef<MemberBook>);
+			OnCreated();
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ID", AutoSync=AutoSync.OnInsert, DbType="BigInt NOT NULL IDENTITY", IsPrimaryKey=true, IsDbGenerated=true)]
+		public long ID
+		{
+			get
+			{
+				return this._ID;
+			}
+			set
+			{
+				if ((this._ID != value))
+				{
+					this.OnIDChanging(value);
+					this.SendPropertyChanging();
+					this._ID = value;
+					this.SendPropertyChanged("ID");
+					this.OnIDChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_MemberBookID", DbType="BigInt NOT NULL")]
+		public long MemberBookID
+		{
+			get
+			{
+				return this._MemberBookID;
+			}
+			set
+			{
+				if ((this._MemberBookID != value))
+				{
+					if (this._MemberBook.HasLoadedOrAssignedValue)
+					{
+						throw new System.Data.Linq.ForeignKeyReferenceAlreadyHasValueException();
+					}
+					this.OnMemberBookIDChanging(value);
+					this.SendPropertyChanging();
+					this._MemberBookID = value;
+					this.SendPropertyChanged("MemberBookID");
+					this.OnMemberBookIDChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_PageCount", DbType="Int NOT NULL")]
+		public int PageCount
+		{
+			get
+			{
+				return this._PageCount;
+			}
+			set
+			{
+				if ((this._PageCount != value))
+				{
+					this.OnPageCountChanging(value);
+					this.SendPropertyChanging();
+					this._PageCount = value;
+					this.SendPropertyChanged("PageCount");
+					this.OnPageCountChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_CreateDate", DbType="DateTime NOT NULL")]
+		public System.DateTime CreateDate
+		{
+			get
+			{
+				return this._CreateDate;
+			}
+			set
+			{
+				if ((this._CreateDate != value))
+				{
+					this.OnCreateDateChanging(value);
+					this.SendPropertyChanging();
+					this._CreateDate = value;
+					this.SendPropertyChanged("CreateDate");
+					this.OnCreateDateChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="MemberBook_ReadingUpdate", Storage="_MemberBook", ThisKey="MemberBookID", OtherKey="ID", IsForeignKey=true)]
+		public MemberBook MemberBook
+		{
+			get
+			{
+				return this._MemberBook.Entity;
+			}
+			set
+			{
+				MemberBook previousValue = this._MemberBook.Entity;
+				if (((previousValue != value) 
+							|| (this._MemberBook.HasLoadedOrAssignedValue == false)))
+				{
+					this.SendPropertyChanging();
+					if ((previousValue != null))
+					{
+						this._MemberBook.Entity = null;
+						previousValue.ReadingUpdates.Remove(this);
+					}
+					this._MemberBook.Entity = value;
+					if ((value != null))
+					{
+						value.ReadingUpdates.Add(this);
+						this._MemberBookID = value.ID;
+					}
+					else
+					{
+						this._MemberBookID = default(long);
+					}
+					this.SendPropertyChanged("MemberBook");
+				}
+			}
+		}
+		
+		public event PropertyChangingEventHandler PropertyChanging;
+		
+		public event PropertyChangedEventHandler PropertyChanged;
+		
+		protected virtual void SendPropertyChanging()
+		{
+			if ((this.PropertyChanging != null))
+			{
+				this.PropertyChanging(this, emptyChangingEventArgs);
+			}
+		}
+		
+		protected virtual void SendPropertyChanged(String propertyName)
+		{
+			if ((this.PropertyChanged != null))
+			{
+				this.PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
+			}
+		}
+	}
+	
+	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.PopularBookView")]
+	public partial class PopularBook
+	{
+		
+		private System.Nullable<int> _ShelfCount;
+		
+		private long _ID;
+		
+		private string _Title;
+		
+		private string _CoverPage;
+		
+		private string _Author;
+		
+		private string _Categories;
+		
+		public PopularBook()
+		{
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ShelfCount", DbType="Int")]
+		public System.Nullable<int> ShelfCount
+		{
+			get
+			{
+				return this._ShelfCount;
+			}
+			set
+			{
+				if ((this._ShelfCount != value))
+				{
+					this._ShelfCount = value;
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ID", DbType="BigInt NOT NULL")]
+		public long ID
+		{
+			get
+			{
+				return this._ID;
+			}
+			set
+			{
+				if ((this._ID != value))
+				{
+					this._ID = value;
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Title", DbType="NVarChar(1000) NOT NULL", CanBeNull=false)]
+		public string Title
+		{
+			get
+			{
+				return this._Title;
+			}
+			set
+			{
+				if ((this._Title != value))
+				{
+					this._Title = value;
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_CoverPage", DbType="NVarChar(MAX) NOT NULL", CanBeNull=false)]
+		public string CoverPage
+		{
+			get
+			{
+				return this._CoverPage;
+			}
+			set
+			{
+				if ((this._CoverPage != value))
+				{
+					this._CoverPage = value;
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Author", DbType="NVarChar(2000) NOT NULL", CanBeNull=false)]
+		public string Author
+		{
+			get
+			{
+				return this._Author;
+			}
+			set
+			{
+				if ((this._Author != value))
+				{
+					this._Author = value;
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Categories", DbType="NVarChar(500) NOT NULL", CanBeNull=false)]
+		public string Categories
+		{
+			get
+			{
+				return this._Categories;
+			}
+			set
+			{
+				if ((this._Categories != value))
+				{
+					this._Categories = value;
+				}
+			}
 		}
 	}
 }

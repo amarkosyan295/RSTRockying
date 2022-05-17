@@ -67,7 +67,7 @@ public partial class Register : BasePage
             {
                 DateTime dob = DateTime.Parse(string.Format("{0}-{1}-{2}", YearDropDown.SelectedValue, MonthDropDown.SelectedValue,
                     DateDropDown.SelectedValue));
-                if (MemberManager.CreateUser(EmailTextBox.Text.Trim(), PasswordTextBox.Text.Trim(), NewsletterCheckBox.Checked, NameTextBox.Text.Trim(), dob, GenderDropDown.SelectedValue, WriterCheckBox.Checked ? MemberTypeType.Author : MemberTypeType.Member))
+                if (MemberManager.CreateUser(EmailTextBox.Text.Trim(), PasswordTextBox.Text.Trim(), newsletterchk.Checked, NameTextBox.Text.Trim(), dob, GenderDropDown.SelectedValue, WriterCheckBox.Checked ? MemberTypeType.Author : MemberTypeType.Member))
                 {
                     EmailManager.SendActivationEmail(EmailTextBox.Text.Trim(), NameTextBox.Text.Trim(), PasswordTextBox.Text.Trim());
                     Response.Redirect("~/account/register?message=yes");
