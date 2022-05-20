@@ -1,6 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
+using System.Drawing.Imaging;
+using System.IO;
 using System.Linq;
+using System.Net;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
@@ -12,6 +16,7 @@ public partial class RockyingBook : BasePage
     public Book CurrentBook { get; set; }
     public List<MemberBook> Reviews { get; set; }
     private int bookid;
+    public int percentread;
     public MemberBook MemberBook { get; set; }
     protected void Page_Load(object sender, EventArgs e)
     {
@@ -21,18 +26,28 @@ public partial class RockyingBook : BasePage
             using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 CurrentBook = dc.Books.FirstOrDefault(t => t.ID == bookid);
+
                 if (CurrentBook != null)
                 {
+                    if (CurrentBook.CoverPage.ToLower().StartsWith("http://books.google.com"))
+                    {
+                        string ph = SaveImage(CurrentBook.CoverPage);
+                        if (!string.IsNullOrEmpty(ph))
+                        {
+                            CurrentBook.CoverPage = "data:image/png;base64," + ph;
+                            dc.SubmitChanges();
+                        }
+                    }
                     Page.Title = CurrentBook.Title;
-
                     if (CurrentUser != null)
                     {
                         MemberBook = dc.MemberBooks.FirstOrDefault(t => t.BookID == bookid && t.MemberID == CurrentUser.ID);
-                        ReviewFormPlaceHolder.Visible = true;
+                        if (MemberBook != null && MemberBook.ReadStatus == (byte)ReadStatusType.Reading)
+                        {
+                            MemberBook.CurrentPage = MemberBook.CurrentPage == null ? 0 : MemberBook.CurrentPage;
+                            percentread = (int)(0.5f + ((100f * MemberBook.CurrentPage) / CurrentBook.PageCount));
+                        }
                     }
-                    else
-                        ReviewFormPlaceHolder.Visible = false;
-
                 }
             }
         }
@@ -40,6 +55,36 @@ public partial class RockyingBook : BasePage
         if (CurrentBook != null)
             if (!Page.IsPostBack && !Page.IsCallback)
                 BindReviews(0);
+    }
+
+    private string SaveImage(string imageUrl)
+    {
+        string ph = string.Empty;
+        try
+        {
+            using (WebClient client = new WebClient())
+            {
+                using (Stream stream = client.OpenRead(imageUrl))
+                {
+                    using (var memoryStream = new MemoryStream())
+                    {
+                        stream.CopyTo(memoryStream);
+                        byte[] bytes = memoryStream.ToArray();
+                        ph = Convert.ToBase64String(bytes);
+                    }
+
+                    stream.Flush();
+                    stream.Close();
+                    client.Dispose();
+                }
+            }
+        }
+        catch (Exception ex)
+        {
+
+        }
+        return ph;
+
     }
 
     private void BindReviews(int pageIndex)

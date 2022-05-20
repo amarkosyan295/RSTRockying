@@ -165,19 +165,6 @@
       <Association Name="Category_Category" Member="Category1" ThisKey="Parent" OtherKey="ID" Type="Category" IsForeignKey="true" />
     </Type>
   </Table>
-  <Table Name="dbo.MemberBook" Member="MemberBooks">
-    <Type Name="MemberBook">
-      <Column Name="ID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
-      <Column Name="MemberID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
-      <Column Name="BookID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
-      <Column Name="Review" Type="System.String" DbType="NVarChar(3000) NOT NULL" CanBeNull="false" />
-      <Column Name="ReadStatus" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
-      <Column Name="Emotion" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
-      <Association Name="MemberBook_ReadingUpdate" Member="ReadingUpdates" ThisKey="ID" OtherKey="MemberBookID" Type="ReadingUpdate" />
-      <Association Name="Member_MemberBook" Member="Member" ThisKey="MemberID" OtherKey="ID" Type="Member" IsForeignKey="true" />
-      <Association Name="Book_MemberBook" Member="Book" ThisKey="BookID" OtherKey="ID" Type="Book" IsForeignKey="true" />
-    </Type>
-  </Table>
   <Table Name="dbo.Book" Member="Books">
     <Type Name="Book">
       <Column Name="ID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
@@ -197,15 +184,6 @@
       <Association Name="Book_MemberBook" Member="MemberBooks" ThisKey="ID" OtherKey="BookID" Type="MemberBook" />
     </Type>
   </Table>
-  <Table Name="dbo.ReadingUpdate" Member="ReadingUpdates">
-    <Type Name="ReadingUpdate">
-      <Column Name="ID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
-      <Column Name="MemberBookID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
-      <Column Name="PageCount" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
-      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
-      <Association Name="MemberBook_ReadingUpdate" Member="MemberBook" ThisKey="MemberBookID" OtherKey="ID" Type="MemberBook" IsForeignKey="true" />
-    </Type>
-  </Table>
   <Table Name="dbo.PopularBookView" Member="PopularBooks">
     <Type Name="PopularBook">
       <Column Name="ShelfCount" Type="System.Int32" DbType="Int" CanBeNull="true" />
@@ -214,6 +192,22 @@
       <Column Name="CoverPage" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
       <Column Name="Author" Type="System.String" DbType="NVarChar(2000) NOT NULL" CanBeNull="false" />
       <Column Name="Categories" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MemberBook" Member="MemberBooks">
+    <Type Name="MemberBook">
+      <Column Name="ID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MemberID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="BookID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="Review" Type="System.String" DbType="NVarChar(3000) NOT NULL" CanBeNull="false" />
+      <Column Name="ReadStatus" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="Emotion" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="ReadingStartDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="CurrentPage" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TimesRead" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Photo" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="Book_MemberBook" Member="Book" ThisKey="BookID" OtherKey="ID" Type="Book" IsForeignKey="true" />
+      <Association Name="Member_MemberBook" Member="Member" ThisKey="MemberID" OtherKey="ID" Type="Member" IsForeignKey="true" />
     </Type>
   </Table>
 </Database>

@@ -44,14 +44,49 @@
                         { %>
                     <span class="d-block badge bg-light text-dark text-center mb-1">on one book shelf</span>
                     <%} %>
-                    <div class="dropdown d-none">
-                        <button class="btn btn-light dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <%
+                        ReadStatusType? rst = null;
+                        if (MemberBooks.ContainsKey(bm.ID))
+                        {
+                            rst = (ReadStatusType)Enum.Parse(typeof(ReadStatusType), MemberBooks[bm.ID].ReadStatus.ToString());
+                        }
+                    %>
+
+                    <div class="dropdown text-center">
+                        <button class="btn btn-light btn-sm dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            <%if (!rst.HasValue)
+                                { %>
                             Add to Library
+                            <%}
+                                else if (rst.Value == ReadStatusType.Read)
+                                {%>
+                            Already Read
+                            <%}
+                                else if (rst.Value == ReadStatusType.WanttoRead)
+                                {%>
+                            Want to Read
+                            <%} %>
                         </button>
                         <ul class="dropdown-menu">
+                            <%if (!rst.HasValue)
+                                { %>
                             <li><a class="dropdown-item" href='<%: "../handlers/book/add.ashx?rs=1&bookid=" + bm.ID %>'>Already Read</a></li>
                             <li><a class="dropdown-item" href='<%: "../handlers/book/add.ashx?rs=2&bookid=" + bm.ID %>'>Reading Now</a></li>
                             <li><a class="dropdown-item" href='<%: "../handlers/book/add.ashx?rs=3&bookid=" + bm.ID %>'>Want to Read</a></li>
+                            <%}
+                                else if (rst.Value == ReadStatusType.Read)
+                                {%>
+                            <li><a class="dropdown-item" href='<%: "../handlers/book/add.ashx?rs=2&bookid=" + bm.ID %>'>Reading Now</a></li>
+                            <li><a class="dropdown-item" href='<%: "../handlers/book/add.ashx?rs=3&bookid=" + bm.ID %>'>Want to Read</a></li>
+                            <li><a class="dropdown-item" href="../handlers/book/removefromlibrary.ashx?bookid=<%:bm.ID%>&returnurl=~/popular-books">Remove from Library</a></li>
+                            <%}
+                                else if (rst.Value == ReadStatusType.WanttoRead)
+                                {%>
+                            <li><a class="dropdown-item" href='<%: "../handlers/book/add.ashx?rs=1&bookid=" + bm.ID %>'>Already Read</a></li>
+                            <li><a class="dropdown-item" href='<%: "../handlers/book/add.ashx?rs=2&bookid=" + bm.ID %>'>Reading Now</a></li>
+                            <li><a class="dropdown-item" href="../handlers/book/removefromlibrary.ashx?bookid=<%:bm.ID%>&returnurl=~/popular-books">Remove from Library</a></li>
+                            <%} %>
+                            
                         </ul>
                     </div>
                 </div>

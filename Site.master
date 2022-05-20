@@ -43,7 +43,7 @@
             fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk'));</script>
     <div class="text-center py-md-2 py-1">
-        <a href="~" runat="server" class="text-dark" style="font-size: 2.5rem; font-weight: bold; text-decoration: none; font-family: Merriweather, 'Open Sans', sans-serif;"><%: Utility.SiteName %></a>
+        <a href="https://www.rockying.com" class="text-dark" style="font-size: 2.5rem; font-weight: bold; text-decoration: none; font-family: Merriweather, 'Open Sans', sans-serif;"><%: Utility.SiteName %></a>
     </div>
     <div class="my-md-2 my-1 text-center">
         <%--<a class="btn btn-light text-dark" href="~/Thriller/index" runat="server">Thriller</a>

@@ -55,19 +55,16 @@ namespace Rockying
     partial void InsertCategory(Rockying.Models.Category instance);
     partial void UpdateCategory(Rockying.Models.Category instance);
     partial void DeleteCategory(Rockying.Models.Category instance);
-    partial void InsertMemberBook(Rockying.Models.MemberBook instance);
-    partial void UpdateMemberBook(Rockying.Models.MemberBook instance);
-    partial void DeleteMemberBook(Rockying.Models.MemberBook instance);
     partial void InsertBook(Rockying.Models.Book instance);
     partial void UpdateBook(Rockying.Models.Book instance);
     partial void DeleteBook(Rockying.Models.Book instance);
-    partial void InsertReadingUpdate(Rockying.Models.ReadingUpdate instance);
-    partial void UpdateReadingUpdate(Rockying.Models.ReadingUpdate instance);
-    partial void DeleteReadingUpdate(Rockying.Models.ReadingUpdate instance);
+    partial void InsertMemberBook(Rockying.Models.MemberBook instance);
+    partial void UpdateMemberBook(Rockying.Models.MemberBook instance);
+    partial void DeleteMemberBook(Rockying.Models.MemberBook instance);
     #endregion
 		
 		public RockyingDataClassesDataContext() : 
-				base(global::System.Configuration.ConfigurationManager.ConnectionStrings["rockyclf_rockyingConnectionString"].ConnectionString, mappingSource)
+				base(global::System.Configuration.ConfigurationManager.ConnectionStrings["RockyingConnectionString"].ConnectionString, mappingSource)
 		{
 			OnCreated();
 		}
@@ -168,14 +165,6 @@ namespace Rockying
 			}
 		}
 		
-		public System.Data.Linq.Table<Rockying.Models.MemberBook> MemberBooks
-		{
-			get
-			{
-				return this.GetTable<Rockying.Models.MemberBook>();
-			}
-		}
-		
 		public System.Data.Linq.Table<Rockying.Models.Book> Books
 		{
 			get
@@ -184,19 +173,19 @@ namespace Rockying
 			}
 		}
 		
-		public System.Data.Linq.Table<Rockying.Models.ReadingUpdate> ReadingUpdates
-		{
-			get
-			{
-				return this.GetTable<Rockying.Models.ReadingUpdate>();
-			}
-		}
-		
 		public System.Data.Linq.Table<Rockying.Models.PopularBook> PopularBooks
 		{
 			get
 			{
 				return this.GetTable<Rockying.Models.PopularBook>();
+			}
+		}
+		
+		public System.Data.Linq.Table<Rockying.Models.MemberBook> MemberBooks
+		{
+			get
+			{
+				return this.GetTable<Rockying.Models.MemberBook>();
 			}
 		}
 	}
@@ -3945,298 +3934,6 @@ namespace Rockying.Models
 		}
 	}
 	
-	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.MemberBook")]
-	public partial class MemberBook : INotifyPropertyChanging, INotifyPropertyChanged
-	{
-		
-		private static PropertyChangingEventArgs emptyChangingEventArgs = new PropertyChangingEventArgs(String.Empty);
-		
-		private long _ID;
-		
-		private long _MemberID;
-		
-		private long _BookID;
-		
-		private string _Review;
-		
-		private byte _ReadStatus;
-		
-		private byte _Emotion;
-		
-		private EntitySet<ReadingUpdate> _ReadingUpdates;
-		
-		private EntityRef<Member> _Member;
-		
-		private EntityRef<Book> _Book;
-		
-    #region Extensibility Method Definitions
-    partial void OnLoaded();
-    partial void OnValidate(System.Data.Linq.ChangeAction action);
-    partial void OnCreated();
-    partial void OnIDChanging(long value);
-    partial void OnIDChanged();
-    partial void OnMemberIDChanging(long value);
-    partial void OnMemberIDChanged();
-    partial void OnBookIDChanging(long value);
-    partial void OnBookIDChanged();
-    partial void OnReviewChanging(string value);
-    partial void OnReviewChanged();
-    partial void OnReadStatusChanging(byte value);
-    partial void OnReadStatusChanged();
-    partial void OnEmotionChanging(byte value);
-    partial void OnEmotionChanged();
-    #endregion
-		
-		public MemberBook()
-		{
-			this._ReadingUpdates = new EntitySet<ReadingUpdate>(new Action<ReadingUpdate>(this.attach_ReadingUpdates), new Action<ReadingUpdate>(this.detach_ReadingUpdates));
-			this._Member = default(EntityRef<Member>);
-			this._Book = default(EntityRef<Book>);
-			OnCreated();
-		}
-		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ID", AutoSync=AutoSync.OnInsert, DbType="BigInt NOT NULL IDENTITY", IsPrimaryKey=true, IsDbGenerated=true)]
-		public long ID
-		{
-			get
-			{
-				return this._ID;
-			}
-			set
-			{
-				if ((this._ID != value))
-				{
-					this.OnIDChanging(value);
-					this.SendPropertyChanging();
-					this._ID = value;
-					this.SendPropertyChanged("ID");
-					this.OnIDChanged();
-				}
-			}
-		}
-		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_MemberID", DbType="BigInt NOT NULL")]
-		public long MemberID
-		{
-			get
-			{
-				return this._MemberID;
-			}
-			set
-			{
-				if ((this._MemberID != value))
-				{
-					if (this._Member.HasLoadedOrAssignedValue)
-					{
-						throw new System.Data.Linq.ForeignKeyReferenceAlreadyHasValueException();
-					}
-					this.OnMemberIDChanging(value);
-					this.SendPropertyChanging();
-					this._MemberID = value;
-					this.SendPropertyChanged("MemberID");
-					this.OnMemberIDChanged();
-				}
-			}
-		}
-		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_BookID", DbType="BigInt NOT NULL")]
-		public long BookID
-		{
-			get
-			{
-				return this._BookID;
-			}
-			set
-			{
-				if ((this._BookID != value))
-				{
-					if (this._Book.HasLoadedOrAssignedValue)
-					{
-						throw new System.Data.Linq.ForeignKeyReferenceAlreadyHasValueException();
-					}
-					this.OnBookIDChanging(value);
-					this.SendPropertyChanging();
-					this._BookID = value;
-					this.SendPropertyChanged("BookID");
-					this.OnBookIDChanged();
-				}
-			}
-		}
-		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Review", DbType="NVarChar(3000) NOT NULL", CanBeNull=false)]
-		public string Review
-		{
-			get
-			{
-				return this._Review;
-			}
-			set
-			{
-				if ((this._Review != value))
-				{
-					this.OnReviewChanging(value);
-					this.SendPropertyChanging();
-					this._Review = value;
-					this.SendPropertyChanged("Review");
-					this.OnReviewChanged();
-				}
-			}
-		}
-		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ReadStatus", DbType="TinyInt NOT NULL")]
-		public byte ReadStatus
-		{
-			get
-			{
-				return this._ReadStatus;
-			}
-			set
-			{
-				if ((this._ReadStatus != value))
-				{
-					this.OnReadStatusChanging(value);
-					this.SendPropertyChanging();
-					this._ReadStatus = value;
-					this.SendPropertyChanged("ReadStatus");
-					this.OnReadStatusChanged();
-				}
-			}
-		}
-		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Emotion", DbType="TinyInt NOT NULL")]
-		public byte Emotion
-		{
-			get
-			{
-				return this._Emotion;
-			}
-			set
-			{
-				if ((this._Emotion != value))
-				{
-					this.OnEmotionChanging(value);
-					this.SendPropertyChanging();
-					this._Emotion = value;
-					this.SendPropertyChanged("Emotion");
-					this.OnEmotionChanged();
-				}
-			}
-		}
-		
-		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="MemberBook_ReadingUpdate", Storage="_ReadingUpdates", ThisKey="ID", OtherKey="MemberBookID")]
-		public EntitySet<ReadingUpdate> ReadingUpdates
-		{
-			get
-			{
-				return this._ReadingUpdates;
-			}
-			set
-			{
-				this._ReadingUpdates.Assign(value);
-			}
-		}
-		
-		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Member_MemberBook", Storage="_Member", ThisKey="MemberID", OtherKey="ID", IsForeignKey=true)]
-		public Member Member
-		{
-			get
-			{
-				return this._Member.Entity;
-			}
-			set
-			{
-				Member previousValue = this._Member.Entity;
-				if (((previousValue != value) 
-							|| (this._Member.HasLoadedOrAssignedValue == false)))
-				{
-					this.SendPropertyChanging();
-					if ((previousValue != null))
-					{
-						this._Member.Entity = null;
-						previousValue.MemberBooks.Remove(this);
-					}
-					this._Member.Entity = value;
-					if ((value != null))
-					{
-						value.MemberBooks.Add(this);
-						this._MemberID = value.ID;
-					}
-					else
-					{
-						this._MemberID = default(long);
-					}
-					this.SendPropertyChanged("Member");
-				}
-			}
-		}
-		
-		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Book_MemberBook", Storage="_Book", ThisKey="BookID", OtherKey="ID", IsForeignKey=true)]
-		public Book Book
-		{
-			get
-			{
-				return this._Book.Entity;
-			}
-			set
-			{
-				Book previousValue = this._Book.Entity;
-				if (((previousValue != value) 
-							|| (this._Book.HasLoadedOrAssignedValue == false)))
-				{
-					this.SendPropertyChanging();
-					if ((previousValue != null))
-					{
-						this._Book.Entity = null;
-						previousValue.MemberBooks.Remove(this);
-					}
-					this._Book.Entity = value;
-					if ((value != null))
-					{
-						value.MemberBooks.Add(this);
-						this._BookID = value.ID;
-					}
-					else
-					{
-						this._BookID = default(long);
-					}
-					this.SendPropertyChanged("Book");
-				}
-			}
-		}
-		
-		public event PropertyChangingEventHandler PropertyChanging;
-		
-		public event PropertyChangedEventHandler PropertyChanged;
-		
-		protected virtual void SendPropertyChanging()
-		{
-			if ((this.PropertyChanging != null))
-			{
-				this.PropertyChanging(this, emptyChangingEventArgs);
-			}
-		}
-		
-		protected virtual void SendPropertyChanged(String propertyName)
-		{
-			if ((this.PropertyChanged != null))
-			{
-				this.PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
-			}
-		}
-		
-		private void attach_ReadingUpdates(ReadingUpdate entity)
-		{
-			this.SendPropertyChanging();
-			entity.MemberBook = this;
-		}
-		
-		private void detach_ReadingUpdates(ReadingUpdate entity)
-		{
-			this.SendPropertyChanging();
-			entity.MemberBook = null;
-		}
-	}
-	
 	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.Book")]
 	public partial class Book : INotifyPropertyChanging, INotifyPropertyChanged
 	{
@@ -4639,181 +4336,6 @@ namespace Rockying.Models
 		}
 	}
 	
-	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.ReadingUpdate")]
-	public partial class ReadingUpdate : INotifyPropertyChanging, INotifyPropertyChanged
-	{
-		
-		private static PropertyChangingEventArgs emptyChangingEventArgs = new PropertyChangingEventArgs(String.Empty);
-		
-		private long _ID;
-		
-		private long _MemberBookID;
-		
-		private int _PageCount;
-		
-		private System.DateTime _CreateDate;
-		
-		private EntityRef<MemberBook> _MemberBook;
-		
-    #region Extensibility Method Definitions
-    partial void OnLoaded();
-    partial void OnValidate(System.Data.Linq.ChangeAction action);
-    partial void OnCreated();
-    partial void OnIDChanging(long value);
-    partial void OnIDChanged();
-    partial void OnMemberBookIDChanging(long value);
-    partial void OnMemberBookIDChanged();
-    partial void OnPageCountChanging(int value);
-    partial void OnPageCountChanged();
-    partial void OnCreateDateChanging(System.DateTime value);
-    partial void OnCreateDateChanged();
-    #endregion
-		
-		public ReadingUpdate()
-		{
-			this._MemberBook = default(EntityRef<MemberBook>);
-			OnCreated();
-		}
-		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ID", AutoSync=AutoSync.OnInsert, DbType="BigInt NOT NULL IDENTITY", IsPrimaryKey=true, IsDbGenerated=true)]
-		public long ID
-		{
-			get
-			{
-				return this._ID;
-			}
-			set
-			{
-				if ((this._ID != value))
-				{
-					this.OnIDChanging(value);
-					this.SendPropertyChanging();
-					this._ID = value;
-					this.SendPropertyChanged("ID");
-					this.OnIDChanged();
-				}
-			}
-		}
-		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_MemberBookID", DbType="BigInt NOT NULL")]
-		public long MemberBookID
-		{
-			get
-			{
-				return this._MemberBookID;
-			}
-			set
-			{
-				if ((this._MemberBookID != value))
-				{
-					if (this._MemberBook.HasLoadedOrAssignedValue)
-					{
-						throw new System.Data.Linq.ForeignKeyReferenceAlreadyHasValueException();
-					}
-					this.OnMemberBookIDChanging(value);
-					this.SendPropertyChanging();
-					this._MemberBookID = value;
-					this.SendPropertyChanged("MemberBookID");
-					this.OnMemberBookIDChanged();
-				}
-			}
-		}
-		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_PageCount", DbType="Int NOT NULL")]
-		public int PageCount
-		{
-			get
-			{
-				return this._PageCount;
-			}
-			set
-			{
-				if ((this._PageCount != value))
-				{
-					this.OnPageCountChanging(value);
-					this.SendPropertyChanging();
-					this._PageCount = value;
-					this.SendPropertyChanged("PageCount");
-					this.OnPageCountChanged();
-				}
-			}
-		}
-		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_CreateDate", DbType="DateTime NOT NULL")]
-		public System.DateTime CreateDate
-		{
-			get
-			{
-				return this._CreateDate;
-			}
-			set
-			{
-				if ((this._CreateDate != value))
-				{
-					this.OnCreateDateChanging(value);
-					this.SendPropertyChanging();
-					this._CreateDate = value;
-					this.SendPropertyChanged("CreateDate");
-					this.OnCreateDateChanged();
-				}
-			}
-		}
-		
-		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="MemberBook_ReadingUpdate", Storage="_MemberBook", ThisKey="MemberBookID", OtherKey="ID", IsForeignKey=true)]
-		public MemberBook MemberBook
-		{
-			get
-			{
-				return this._MemberBook.Entity;
-			}
-			set
-			{
-				MemberBook previousValue = this._MemberBook.Entity;
-				if (((previousValue != value) 
-							|| (this._MemberBook.HasLoadedOrAssignedValue == false)))
-				{
-					this.SendPropertyChanging();
-					if ((previousValue != null))
-					{
-						this._MemberBook.Entity = null;
-						previousValue.ReadingUpdates.Remove(this);
-					}
-					this._MemberBook.Entity = value;
-					if ((value != null))
-					{
-						value.ReadingUpdates.Add(this);
-						this._MemberBookID = value.ID;
-					}
-					else
-					{
-						this._MemberBookID = default(long);
-					}
-					this.SendPropertyChanged("MemberBook");
-				}
-			}
-		}
-		
-		public event PropertyChangingEventHandler PropertyChanging;
-		
-		public event PropertyChangedEventHandler PropertyChanged;
-		
-		protected virtual void SendPropertyChanging()
-		{
-			if ((this.PropertyChanging != null))
-			{
-				this.PropertyChanging(this, emptyChangingEventArgs);
-			}
-		}
-		
-		protected virtual void SendPropertyChanged(String propertyName)
-		{
-			if ((this.PropertyChanged != null))
-			{
-				this.PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
-			}
-		}
-	}
-	
 	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.PopularBookView")]
 	public partial class PopularBook
 	{
@@ -4927,6 +4449,366 @@ namespace Rockying.Models
 				{
 					this._Categories = value;
 				}
+			}
+		}
+	}
+	
+	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.MemberBook")]
+	public partial class MemberBook : INotifyPropertyChanging, INotifyPropertyChanged
+	{
+		
+		private static PropertyChangingEventArgs emptyChangingEventArgs = new PropertyChangingEventArgs(String.Empty);
+		
+		private long _ID;
+		
+		private long _MemberID;
+		
+		private long _BookID;
+		
+		private string _Review;
+		
+		private byte _ReadStatus;
+		
+		private byte _Emotion;
+		
+		private System.Nullable<System.DateTime> _ReadingStartDate;
+		
+		private System.Nullable<int> _CurrentPage;
+		
+		private System.Nullable<int> _TimesRead;
+		
+		private string _Photo;
+		
+		private EntityRef<Book> _Book;
+		
+		private EntityRef<Member> _Member;
+		
+    #region Extensibility Method Definitions
+    partial void OnLoaded();
+    partial void OnValidate(System.Data.Linq.ChangeAction action);
+    partial void OnCreated();
+    partial void OnIDChanging(long value);
+    partial void OnIDChanged();
+    partial void OnMemberIDChanging(long value);
+    partial void OnMemberIDChanged();
+    partial void OnBookIDChanging(long value);
+    partial void OnBookIDChanged();
+    partial void OnReviewChanging(string value);
+    partial void OnReviewChanged();
+    partial void OnReadStatusChanging(byte value);
+    partial void OnReadStatusChanged();
+    partial void OnEmotionChanging(byte value);
+    partial void OnEmotionChanged();
+    partial void OnReadingStartDateChanging(System.Nullable<System.DateTime> value);
+    partial void OnReadingStartDateChanged();
+    partial void OnCurrentPageChanging(System.Nullable<int> value);
+    partial void OnCurrentPageChanged();
+    partial void OnTimesReadChanging(System.Nullable<int> value);
+    partial void OnTimesReadChanged();
+    partial void OnPhotoChanging(string value);
+    partial void OnPhotoChanged();
+    #endregion
+		
+		public MemberBook()
+		{
+			this._Book = default(EntityRef<Book>);
+			this._Member = default(EntityRef<Member>);
+			OnCreated();
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ID", AutoSync=AutoSync.OnInsert, DbType="BigInt NOT NULL IDENTITY", IsPrimaryKey=true, IsDbGenerated=true)]
+		public long ID
+		{
+			get
+			{
+				return this._ID;
+			}
+			set
+			{
+				if ((this._ID != value))
+				{
+					this.OnIDChanging(value);
+					this.SendPropertyChanging();
+					this._ID = value;
+					this.SendPropertyChanged("ID");
+					this.OnIDChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_MemberID", DbType="BigInt NOT NULL")]
+		public long MemberID
+		{
+			get
+			{
+				return this._MemberID;
+			}
+			set
+			{
+				if ((this._MemberID != value))
+				{
+					if (this._Member.HasLoadedOrAssignedValue)
+					{
+						throw new System.Data.Linq.ForeignKeyReferenceAlreadyHasValueException();
+					}
+					this.OnMemberIDChanging(value);
+					this.SendPropertyChanging();
+					this._MemberID = value;
+					this.SendPropertyChanged("MemberID");
+					this.OnMemberIDChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_BookID", DbType="BigInt NOT NULL")]
+		public long BookID
+		{
+			get
+			{
+				return this._BookID;
+			}
+			set
+			{
+				if ((this._BookID != value))
+				{
+					if (this._Book.HasLoadedOrAssignedValue)
+					{
+						throw new System.Data.Linq.ForeignKeyReferenceAlreadyHasValueException();
+					}
+					this.OnBookIDChanging(value);
+					this.SendPropertyChanging();
+					this._BookID = value;
+					this.SendPropertyChanged("BookID");
+					this.OnBookIDChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Review", DbType="NVarChar(3000) NOT NULL", CanBeNull=false)]
+		public string Review
+		{
+			get
+			{
+				return this._Review;
+			}
+			set
+			{
+				if ((this._Review != value))
+				{
+					this.OnReviewChanging(value);
+					this.SendPropertyChanging();
+					this._Review = value;
+					this.SendPropertyChanged("Review");
+					this.OnReviewChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ReadStatus", DbType="TinyInt NOT NULL")]
+		public byte ReadStatus
+		{
+			get
+			{
+				return this._ReadStatus;
+			}
+			set
+			{
+				if ((this._ReadStatus != value))
+				{
+					this.OnReadStatusChanging(value);
+					this.SendPropertyChanging();
+					this._ReadStatus = value;
+					this.SendPropertyChanged("ReadStatus");
+					this.OnReadStatusChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Emotion", DbType="TinyInt NOT NULL")]
+		public byte Emotion
+		{
+			get
+			{
+				return this._Emotion;
+			}
+			set
+			{
+				if ((this._Emotion != value))
+				{
+					this.OnEmotionChanging(value);
+					this.SendPropertyChanging();
+					this._Emotion = value;
+					this.SendPropertyChanged("Emotion");
+					this.OnEmotionChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ReadingStartDate", DbType="DateTime")]
+		public System.Nullable<System.DateTime> ReadingStartDate
+		{
+			get
+			{
+				return this._ReadingStartDate;
+			}
+			set
+			{
+				if ((this._ReadingStartDate != value))
+				{
+					this.OnReadingStartDateChanging(value);
+					this.SendPropertyChanging();
+					this._ReadingStartDate = value;
+					this.SendPropertyChanged("ReadingStartDate");
+					this.OnReadingStartDateChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_CurrentPage", DbType="Int")]
+		public System.Nullable<int> CurrentPage
+		{
+			get
+			{
+				return this._CurrentPage;
+			}
+			set
+			{
+				if ((this._CurrentPage != value))
+				{
+					this.OnCurrentPageChanging(value);
+					this.SendPropertyChanging();
+					this._CurrentPage = value;
+					this.SendPropertyChanged("CurrentPage");
+					this.OnCurrentPageChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_TimesRead", DbType="Int")]
+		public System.Nullable<int> TimesRead
+		{
+			get
+			{
+				return this._TimesRead;
+			}
+			set
+			{
+				if ((this._TimesRead != value))
+				{
+					this.OnTimesReadChanging(value);
+					this.SendPropertyChanging();
+					this._TimesRead = value;
+					this.SendPropertyChanged("TimesRead");
+					this.OnTimesReadChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Photo", DbType="NVarChar(MAX)")]
+		public string Photo
+		{
+			get
+			{
+				return this._Photo;
+			}
+			set
+			{
+				if ((this._Photo != value))
+				{
+					this.OnPhotoChanging(value);
+					this.SendPropertyChanging();
+					this._Photo = value;
+					this.SendPropertyChanged("Photo");
+					this.OnPhotoChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Book_MemberBook", Storage="_Book", ThisKey="BookID", OtherKey="ID", IsForeignKey=true)]
+		public Book Book
+		{
+			get
+			{
+				return this._Book.Entity;
+			}
+			set
+			{
+				Book previousValue = this._Book.Entity;
+				if (((previousValue != value) 
+							|| (this._Book.HasLoadedOrAssignedValue == false)))
+				{
+					this.SendPropertyChanging();
+					if ((previousValue != null))
+					{
+						this._Book.Entity = null;
+						previousValue.MemberBooks.Remove(this);
+					}
+					this._Book.Entity = value;
+					if ((value != null))
+					{
+						value.MemberBooks.Add(this);
+						this._BookID = value.ID;
+					}
+					else
+					{
+						this._BookID = default(long);
+					}
+					this.SendPropertyChanged("Book");
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Member_MemberBook", Storage="_Member", ThisKey="MemberID", OtherKey="ID", IsForeignKey=true)]
+		public Member Member
+		{
+			get
+			{
+				return this._Member.Entity;
+			}
+			set
+			{
+				Member previousValue = this._Member.Entity;
+				if (((previousValue != value) 
+							|| (this._Member.HasLoadedOrAssignedValue == false)))
+				{
+					this.SendPropertyChanging();
+					if ((previousValue != null))
+					{
+						this._Member.Entity = null;
+						previousValue.MemberBooks.Remove(this);
+					}
+					this._Member.Entity = value;
+					if ((value != null))
+					{
+						value.MemberBooks.Add(this);
+						this._MemberID = value.ID;
+					}
+					else
+					{
+						this._MemberID = default(long);
+					}
+					this.SendPropertyChanged("Member");
+				}
+			}
+		}
+		
+		public event PropertyChangingEventHandler PropertyChanging;
+		
+		public event PropertyChangedEventHandler PropertyChanged;
+		
+		protected virtual void SendPropertyChanging()
+		{
+			if ((this.PropertyChanging != null))
+			{
+				this.PropertyChanging(this, emptyChangingEventArgs);
+			}
+		}
+		
+		protected virtual void SendPropertyChanged(String propertyName)
+		{
+			if ((this.PropertyChanged != null))
+			{
+				this.PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
 			}
 		}
 	}

@@ -41,17 +41,12 @@
                                     <p class="card-text">
                                         <asp:Literal ID="AuthorLt" Mode="PassThrough" runat="server" Text='<%# Eval("Author") %>'></asp:Literal>
                                     </p>
-                                    <a runat="server" href='<%# "~/book/" + Utility.Slugify(Eval("Title").ToString()) + "-" + Eval("ID") %>' class="d-none">Read More</a>
-                                    <div class="dropdown  d-none">
-                                        <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                            Add to Library
-                                        </button>
-                                        <ul class="dropdown-menu">
-                                            <li><a class="dropdown-item" href='<%# "~/handlers/book/add.ashx?rs=1&bookid=" + Eval("ID") %>' runat="server">Already Read</a></li>
-                                            <li><a class="dropdown-item" href='<%# "~/handlers/book/add.ashx?rs=2&bookid=" + Eval("ID") %>' runat="server">Reading Now</a></li>
-                                            <li><a class="dropdown-item" href='<%# "~/handlers/book/add.ashx?rs=3&bookid=" + Eval("ID") %>' runat="server">Want to Read</a></li>
-                                        </ul>
-                                    </div>
+                                    <p class="card-text">
+                                        Publisher: <%# Eval("Publisher") %>
+                                    </p>
+                                    <p class="card-text">
+                                        <%# Eval("PageCount") %> Pages
+                                    </p>
                                 </div>
                             </div>
                         </div>

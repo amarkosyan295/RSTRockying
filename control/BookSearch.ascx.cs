@@ -103,9 +103,10 @@ public partial class control_BookSearch : System.Web.UI.UserControl
                     }
                 }
                 dc.SubmitChanges();
+                SearchResultRepeater.DataSource = books.Distinct();
+                SearchResultRepeater.DataBind();
             }
-            SearchResultRepeater.DataSource = books;
-            SearchResultRepeater.DataBind();
+
         }
     }
 

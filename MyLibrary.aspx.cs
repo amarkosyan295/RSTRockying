@@ -9,26 +9,25 @@ using System.Web.UI.WebControls;
 
 public partial class MyLibrary : MemberPage
 {
+    public List<MemberBook> MemberBooks = new List<MemberBook>();
     protected override void OnInit(EventArgs e)
     {
         base.OnInit(e);
         BookSearch2.CurrentUser = CurrentUser;
     }
+
     protected void Page_Load(object sender, EventArgs e)
     {
-        if(!Page.IsCallback && !Page.IsPostBack)
-            BindBooks();
-        
+        BindBooks();
     }
 
     private void BindBooks()
     {
         using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
         {
-            MyBooksRepeater.DataSource = dc.MemberBooks.Where(t => t.MemberID == CurrentUser.ID)
-                .OrderByDescending(t => t.Book.Title)
-                .Select(t => new { t.Book, t.ReadStatus, t.ID });
-            MyBooksRepeater.DataBind();
+            MemberBooks.AddRange(dc.MemberBooks.Where(t => t.MemberID == CurrentUser.ID)
+                .OrderByDescending(t => t.ID));
+
         }
     }
 
@@ -55,10 +54,6 @@ public partial class MyLibrary : MemberPage
                 default:
                     break;
             }
-
-            Literal AuthorLt = (item.FindControl("AuthorLt") as Literal);
-            if (!string.IsNullOrEmpty(AuthorLt.Text))
-                AuthorLt.Text = "By " + AuthorLt.Text;
         }
     }
 
@@ -72,7 +67,6 @@ public partial class MyLibrary : MemberPage
                 dc.MemberBooks.DeleteOnSubmit(mb);
                 dc.SubmitChanges();
             }
-
             BindBooks();
         }
     }
