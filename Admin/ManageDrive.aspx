@@ -5,63 +5,68 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
-    <h3>
-        Drive
+    <h3>Drive
     </h3>
     <uc1:message ID="message4" Visible="false" runat="server" />
     <div class="row-fluid">
-        <div class="span12">
-            <ul class="breadcrumb" style="margin-bottom: 4px;">
-                <li><a href="http://<%: Request.Url.Host %>/admin/managedrive.aspx">Home</a> <span class="divider">
-                    /</span></li>
-                <%
-                    StringBuilder temp = new StringBuilder();
-                    foreach (string i in FolderList)
-                    {
-                        if (i != string.Empty)
+        <div class="col">
+
+
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a runat="server" href="~/admin/managedrive.aspx">Home</a></li>
+                    <%
+                        StringBuilder temp = new StringBuilder();
+                        foreach (string folder in FolderList)
                         {
-                            temp.Append(i);
-                            temp.Append("/");
-                %>
-                <li><a href="http://<%: Request.Url.Host %>/admin/managedrive.aspx?folderpath=<%= temp %>">
-                    <%= i%></a> <span class="divider">/</span></li>
-                <%}
-                    } %>
+                            if (folder != string.Empty)
+                            {
+                                temp.Append(folder);
+                                temp.Append("/");
+                    %>
+                    <li class="breadcrumb-item"><a href="../admin/managedrive.aspx?folderpath=<%= temp %>"><%= folder%></a></li>
+                    <%}
+                        } %>
+                </ol>
+            </nav>
+            <ul class="nav nav-tabs" id="myTab" role="tablist">
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#thlist" type="button" role="tab" aria-controls="home" aria-selected="true">Home</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="folder-tab" data-bs-toggle="tab" data-bs-target="#foldertab" type="button" role="tab" aria-controls="profile" aria-selected="false">Add Folder</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="upload-tab" data-bs-toggle="tab" data-bs-target="#uploadtab" type="button" role="tab" aria-controls="contact" aria-selected="false">Upload</button>
+                </li>
             </ul>
-            <ul id="folderTab" class="nav nav-tabs">
+            <%--            <ul id="folderTab" class="nav nav-tabs">
                 <li class="active"><a href="#thlist" data-toggle="tab"><i class="icon-th-list"></i>&nbsp;</a>
                 </li>
                 <li class="pull-right"><a href="#foldertab" data-toggle="tab"><i class="icon-plus"></i>
                     Add Folder</a> </li>
                 <li class="pull-right visible-desktop"><a href="#uploadtab" data-toggle="tab"><i
                     class="icon-upload"></i>Upload</a></li>
-            </ul>
-            <div class="tab-content">
-                <div class="tab-pane fade in active" id="thlist">
+            </ul>--%>
+            <div class="tab-content" id="folderTabContent">
+                <div class="tab-pane fade show active" id="thlist" role="tabpanel" aria-labelledby="home-tab">
                     <asp:Repeater ID="FolderTableRepeater" runat="server" OnItemCommand="FolderTableRepeater_ItemCommand">
                         <HeaderTemplate>
                             <table id="folderitemtable" class="table table-hover table-condensed cursor-pointer">
                                 <thead>
                                     <tr>
-                                        <th>
+                                        <th></th>
+                                        <th class="type-string cursor-pointer">Name
                                         </th>
-                                        <th class="type-string cursor-pointer">
-                                            Name
+                                        <th class="type-int cursor-pointer">Size
                                         </th>
-                                        <th class="type-int cursor-pointer">
-                                            Size
+                                        <th class="type-date cursor-pointer">Created
                                         </th>
-                                        <th class="type-date cursor-pointer">
-                                            Created
+                                        <th class="type-date cursor-pointer">Modified
                                         </th>
-                                        <th class="type-date cursor-pointer">
-                                            Modified
+                                        <th class="type-string cursor-pointer">Type
                                         </th>
-                                        <th class="type-string cursor-pointer">
-                                            Type
-                                        </th>
-                                        <th>
-                                        </th>
+                                        <th></th>
                                     </tr>
                                 </thead>
                                 <tbody>
@@ -75,16 +80,14 @@
                                     <a href="http://<%: Request.Url.Host %>/admin/managedrive.aspx?folderpath=<%# DataBinder.Eval(Container.DataItem, "Location").ToString().Replace("\\", "/")%>">
                                         <%# DataBinder.Eval(Container.DataItem, "Name")%></a>
                                 </td>
-                                <td>
-                                </td>
+                                <td></td>
                                 <td>
                                     <%# DateTime.Parse(DataBinder.Eval(Container.DataItem, "CreateDate").ToString()).ToString("d MMM y")%>
                                 </td>
                                 <td>
                                     <%# DateTime.Parse(DataBinder.Eval(Container.DataItem, "ModifyDate").ToString()).ToString("d MMM y")%>
                                 </td>
-                                <td>
-                                </td>
+                                <td></td>
                                 <td>
                                     <asp:LinkButton ID="RenameButton" CommandArgument='<%# DataBinder.Eval(Container.DataItem, "Name")%>'
                                         CommandName='Rename' runat="server" Visible='<%# DataBinder.Eval(Container.DataItem, "Editable")%>'
@@ -105,8 +108,7 @@
                         </HeaderTemplate>
                         <ItemTemplate>
                             <tr>
-                                <td>
-                                </td>
+                                <td></td>
                                 <td>
                                     <a href='<%# DataBinder.Eval(Container.DataItem, "WebPath")%>' target="_blank">
                                         <%# DataBinder.Eval(Container.DataItem, "Name")%></a>
@@ -140,10 +142,10 @@
                         </FooterTemplate>
                     </asp:Repeater>
                 </div>
-                <div class="tab-pane fade" id="foldertab">
+                <div class="tab-pane fade" id="foldertab" role="tabpanel" aria-labelledby="folder-tab">
                     <asp:UpdatePanel ID="UpdatePanel1" runat="server">
                         <ContentTemplate>
-                            <uc1:message id="message1" visible="false" runat="server" />
+                            <uc1:message ID="message1" Visible="false" runat="server" />
                             <div class="form-horizontal">
                                 <div class="control-group">
                                     <label class="control-label" for="inputEmail">
@@ -162,8 +164,8 @@
                         </ContentTemplate>
                     </asp:UpdatePanel>
                 </div>
-                <div class="tab-pane fade" id="uploadtab">
-                    <iframe src="http://<%: Request.Url.Host %>/admin/simpleupload.aspx?folderpath=<%= FolderPath.Replace("\\", "/") %>"
+                <div class="tab-pane fade" id="uploadtab" role="tabpanel" aria-labelledby="upload-tab">
+                    <iframe src="../admin/simpleupload.aspx?folderpath=<%= FolderPath.Replace("\\", "/") %>"
                         style="width: 99%; border: none; min-height: 500px;"></iframe>
                 </div>
             </div>
@@ -173,30 +175,33 @@
         <ContentTemplate>
             <asp:Panel ID="RenameFolderPanel" Visible="false" runat="server">
                 <div class="modal" tabindex="-1">
-                    <div class="modal-header">
-                        <asp:LinkButton ID="RenameFolderCancelButton" runat="server" CssClass="close" CausesValidation="false"
-                            OnClick="RenameFolderCancelButton_Click" Text="&times;"></asp:LinkButton>
-                        <h3>
-                            Rename</h3>
-                    </div>
-                    <div class="modal-body">
-                        <uc1:message id="message2" visible="false" hideclose="false" runat="server" />
-                        <div class="form-forizontal">
-                            <div class="control-group">
-                                <label class="control-label" for="<%: RenameFolderNameTextBox.ClientID%>">
-                                    Name</label>
-                                <div class="controls">
-                                    <asp:HiddenField ID="RenameFolderSourceHdn" runat="server" />
-                                    <asp:TextBox ID="RenameFolderNameTextBox" MaxLength="200" runat="server"></asp:TextBox><asp:RequiredFieldValidator
-                                        ID="RequiredFieldValidator2" runat="server" ValidationGroup="FolderNameGrp" ControlToValidate="RenameFolderNameTextBox"
-                                        ErrorMessage="Required"></asp:RequiredFieldValidator>
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <asp:LinkButton ID="RenameFolderCancelButton" runat="server" CssClass="close" CausesValidation="false"
+                                    OnClick="RenameFolderCancelButton_Click" Text="&times;"></asp:LinkButton>
+                                <h3>Rename</h3>
+                            </div>
+                            <div class="modal-body">
+                                <uc1:message ID="message2" Visible="false" HideClose="false" runat="server" />
+                                <div class="form-forizontal">
+                                    <div class="control-group">
+                                        <label class="control-label" for="<%: RenameFolderNameTextBox.ClientID%>">
+                                            Name</label>
+                                        <div class="controls">
+                                            <asp:HiddenField ID="RenameFolderSourceHdn" runat="server" />
+                                            <asp:TextBox ID="RenameFolderNameTextBox" MaxLength="200" runat="server"></asp:TextBox><asp:RequiredFieldValidator
+                                                ID="RequiredFieldValidator2" runat="server" ValidationGroup="FolderNameGrp" ControlToValidate="RenameFolderNameTextBox"
+                                                ErrorMessage="Required"></asp:RequiredFieldValidator>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
+                            <div class="modal-footer">
+                                <asp:Button ID="RenameFolderButton" runat="server" ValidationGroup="FolderNameGrp"
+                                    CssClass="btn btn-primary" Text="Save Changes" OnClick="RenameFolderButton_Click" />
+                            </div>
                         </div>
-                    </div>
-                    <div class="modal-footer">
-                        <asp:Button ID="RenameFolderButton" runat="server" ValidationGroup="FolderNameGrp"
-                            CssClass="btn btn-primary" Text="Save Changes" OnClick="RenameFolderButton_Click" />
                     </div>
                 </div>
             </asp:Panel>
@@ -205,11 +210,10 @@
                     <div class="modal-header">
                         <asp:LinkButton ID="RenameFileCancelButton" runat="server" CssClass="close" CausesValidation="false"
                             OnClick="RenameFileCancelButton_Click" Text="&times;"></asp:LinkButton>
-                        <h3>
-                            Rename</h3>
+                        <h3>Rename</h3>
                     </div>
                     <div class="modal-body">
-                        <uc1:message id="message3" visible="false" hideclose="false" runat="server" />
+                        <uc1:message ID="message3" Visible="false" HideClose="false" runat="server" />
                         <div class="form-forizontal">
                             <div class="control-group">
                                 <label class="control-label" for="<%: RenameFileNameTextBox.ClientID%>">

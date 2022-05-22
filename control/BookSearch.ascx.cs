@@ -37,6 +37,7 @@ public partial class control_BookSearch : System.Web.UI.UserControl
             dynamic result = JObject.Parse(s);
             using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
+                books.AddRange(dc.Books.Where(t => t.Title.Contains(SearchKeywordTextBox.Text) || t.ISBN13.Contains(SearchKeywordTextBox.Text) || t.ISBN10.Contains(SearchKeywordTextBox.Text) || t.Author.Contains(SearchKeywordTextBox.Text)).Distinct().ToList());
                 if (result.items != null)
                 {
                     foreach (var item in result.items)
@@ -106,6 +107,8 @@ public partial class control_BookSearch : System.Web.UI.UserControl
                 SearchResultRepeater.DataSource = books.Distinct();
                 SearchResultRepeater.DataBind();
             }
+
+            LibaryManager.SaveSearchHistory(SearchKeywordTextBox.Text.Trim(), books.Distinct().Count(), CurrentUser);
 
         }
     }

@@ -13,26 +13,23 @@
         </SelectParameters>
     </asp:SqlDataSource>
     <asp:HiddenField ID="UserIDHidden" runat="server" />
+    <h1>Page List</h1>
     <uc1:message ID="message1" runat="server" Visible="false" EnableViewState="false" />
-    <div class="row-fluid">
-        <div class="span12 well well-small">
-            <h1>Page List</h1>
-            <div class="form-inline">
-                <label class="control-label" for="<%: StatusDropDown.ClientID %>">
-                    Status</label>
-                <asp:DropDownList ID="StatusDropDown" runat="server">
-                    <asp:ListItem Value="1">Draft</asp:ListItem>
-                    <asp:ListItem Selected="True" Value="2">Publish</asp:ListItem>
-                    <asp:ListItem Value="3">Inactive</asp:ListItem>
-                </asp:DropDownList>
-                <asp:Button ID="SubmitButton" class="btn btn-primary" runat="server" Text="Filter"
-                    OnClick="SubmitButton_Click" />
-
-            </div>
+    <div class="row my-2">
+        <div class="col-md-4">
+            
+            <asp:DropDownList ID="StatusDropDown" runat="server" CssClass="form-select">
+                <asp:ListItem Value="1">Draft</asp:ListItem>
+                <asp:ListItem Selected="True" Value="2">Publish</asp:ListItem>
+                <asp:ListItem Value="3">Inactive</asp:ListItem>
+            </asp:DropDownList>
+        </div>
+        <div class="col">
+            <asp:Button ID="SubmitButton" class="btn btn-primary" runat="server" Text="Filter"
+                OnClick="SubmitButton_Click" />
         </div>
     </div>
-    <div class="row-fluid">
-        <div class="span12">
+    <div class="table-responsive">
             <asp:GridView ID="PageGridView" runat="server" AllowSorting="True" AutoGenerateColumns="False"
                 CssClass="table table-striped table-bordered table-condensed" DataKeyNames="ID"
                 DataMember="DefaultView" DataSourceID="CustomPageSource" GridLines="None" EmptyDataText="No Page found"
@@ -62,6 +59,5 @@
                     PageButtonCount="30" Position="TopAndBottom" PreviousPageText="Previous" />
                 <PagerStyle CssClass="pager" />
             </asp:GridView>
-        </div>
     </div>
 </asp:Content>

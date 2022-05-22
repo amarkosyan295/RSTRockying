@@ -2,18 +2,19 @@
 <%@ Import Namespace="Rockying.Models" %>
 <div style="position: relative;">
     <div class="input-group mb-1">
+        <asp:UpdateProgress ID="UpdateProgress1" AssociatedUpdatePanelID="UpdatePanel1" DynamicLayout="true" DisplayAfter="1" runat="server">
+            <ProgressTemplate>
+                <div class="spinner-border m-1" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                </div>
+            </ProgressTemplate>
+        </asp:UpdateProgress>
         <asp:TextBox ID="SearchKeywordTextBox" CssClass="form-control" placeholder="Search Book by Title or ISBN" MaxLength="300" runat="server"></asp:TextBox>
         <asp:Button ID="SearchButton" CssClass="input-group-text" ValidationGroup="searchbookgrp" runat="server" Text="Search" OnClick="SearchButton_Click" />
     </div>
     <asp:RequiredFieldValidator ID="RequiredFieldValidator1" ValidationGroup="searchbookgrp" CssClass="text-danger" Display="Dynamic" ControlToValidate="SearchKeywordTextBox" runat="server" ErrorMessage="Missing Keywords"></asp:RequiredFieldValidator>
-    <asp:UpdateProgress ID="UpdateProgress1" AssociatedUpdatePanelID="UpdatePanel1" DynamicLayout="true" DisplayAfter="0" runat="server">
-        <ProgressTemplate>
-            <div class="spinner-border" role="status">
-                <span class="visually-hidden">Loading...</span>
-            </div>
-        </ProgressTemplate>
-    </asp:UpdateProgress>
-    <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+
+    <asp:UpdatePanel ID="UpdatePanel1" runat="server" UpdateMode="Conditional">
         <ContentTemplate>
             <asp:Repeater ID="SearchResultRepeater" runat="server" EnableViewState="false" OnItemDataBound="SearchResultRepeater_ItemDataBound">
                 <HeaderTemplate>

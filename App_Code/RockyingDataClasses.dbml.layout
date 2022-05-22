@@ -172,18 +172,31 @@
         <elementListCompartment Id="7c16cb54-5465-4560-be38-e1232b4a28b4" absoluteBounds="0.51500000000000012, 5.71, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
       </nestedChildShapes>
     </classShape>
-    <associationConnector edgePoints="[(7.25 : 6.00080485026042); (6.80208333333333 : 6.00080485026042 : JumpStart); (6.63541666666667 : 6.00080485026042 : JumpEnd); (5.875 : 6.00080485026042); (5.875 : 5); (5.08333333333333 : 5 : JumpStart); (4.91666666666667 : 5 : JumpEnd); (4.58333333333333 : 5 : JumpStart); (4.41666666666667 : 5 : JumpEnd); (1.5 : 5); (1.5 : 5.25)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+    <associationConnector edgePoints="[(7.25 : 6.00080485026042); (5.875 : 6.00080485026042); (5.875 : 5); (5.08333333333333 : 5 : JumpStart); (4.91666666666667 : 5 : JumpEnd); (1.5 : 5); (1.5 : 5.25)]" fixedFrom="NotFixed" fixedTo="NotFixed">
       <AssociationMoniker Name="/RockyingDataClassesDataContext/Book/Book_MemberBook" />
       <nodes>
         <classShapeMoniker Id="a2f469f1-ec0e-4eb8-bb8b-96ea3d217e64" />
         <classShapeMoniker Id="d1a0a72a-9425-427e-bf81-f01d52330e17" />
       </nodes>
     </associationConnector>
-    <associationConnector edgePoints="[(3.625 : 6.08912382311699); (2.5 : 6.08912382311699)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+    <associationConnector edgePoints="[(3.625 : 6.08912382311699); (2.5 : 6.08912382311699)]" fixedFrom="NotFixed" fixedTo="NotFixed">
       <AssociationMoniker Name="/RockyingDataClassesDataContext/Member/Member_MemberBook" />
       <nodes>
         <classShapeMoniker Id="9de5ff45-3e0d-41a1-a7d6-b444c29e9345" />
         <classShapeMoniker Id="d1a0a72a-9425-427e-bf81-f01d52330e17" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="1543eb05-336e-4c0c-9ac7-bc82f03e8925" absoluteBounds="0.5, 8.625, 2, 1.9631982421875">
+      <DataClassMoniker Name="/RockyingDataClassesDataContext/SearchHistory" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a59ce6f8-399d-4c31-a475-5c25db7cdfc1" absoluteBounds="0.515, 9.085, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.625 : 9.66255385491787); (2.5 : 9.66255385491787)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/RockyingDataClassesDataContext/Member/Member_SearchHistory" />
+      <nodes>
+        <classShapeMoniker Id="9de5ff45-3e0d-41a1-a7d6-b444c29e9345" />
+        <classShapeMoniker Id="1543eb05-336e-4c0c-9ac7-bc82f03e8925" />
       </nodes>
     </associationConnector>
   </nestedChildShapes>

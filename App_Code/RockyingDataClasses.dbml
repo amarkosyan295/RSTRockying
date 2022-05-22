@@ -110,6 +110,7 @@
       <Association Name="Member_Post" Member="Posts" ThisKey="ID" OtherKey="CreatedBy" Type="Post" />
       <Association Name="Member_Post1" Member="Posts1" ThisKey="ID" OtherKey="ModifiedBy" Type="Post" />
       <Association Name="Member_MemberBook" Member="MemberBooks" ThisKey="ID" OtherKey="MemberID" Type="MemberBook" />
+      <Association Name="Member_SearchHistory" Member="SearchHistories" ThisKey="ID" OtherKey="MemberID" Type="SearchHistory" />
       <Association Name="Member_Member" Member="Member1" ThisKey="ModifiedBy" OtherKey="ID" Type="Member" IsForeignKey="true" />
     </Type>
   </Table>
@@ -208,6 +209,17 @@
       <Column Name="Photo" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
       <Association Name="Book_MemberBook" Member="Book" ThisKey="BookID" OtherKey="ID" Type="Book" IsForeignKey="true" />
       <Association Name="Member_MemberBook" Member="Member" ThisKey="MemberID" OtherKey="ID" Type="Member" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SearchHistory" Member="SearchHistories">
+    <Type Name="SearchHistory">
+      <Column Name="ID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="SearchType" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Keywords" Type="System.String" DbType="NVarChar(1000) NOT NULL" CanBeNull="false" />
+      <Column Name="SearchDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="ResultCount" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="MemberID" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Association Name="Member_SearchHistory" Member="Member" ThisKey="MemberID" OtherKey="ID" Type="Member" IsForeignKey="true" />
     </Type>
   </Table>
 </Database>

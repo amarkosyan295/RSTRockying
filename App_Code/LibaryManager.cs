@@ -82,6 +82,22 @@ namespace Rockying.Models
             return false;
         }
 
+        public static void SaveSearchHistory(string keywords, int resultcount,  Member m = null) {
+            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
+            {
+                SearchHistory sh = new SearchHistory()
+                {
+                    Keywords = keywords,
+                    ResultCount = resultcount,
+                    Member = m,
+                    SearchDate = DateTime.Now,
+                    SearchType = (int)SearchItemType.Book
+                };
+                dc.SearchHistories.InsertOnSubmit(sh);
+                dc.SubmitChanges();
+            }
+        }
+
         public static bool UpdatePhotoMemberBook(Book b, Member m, string photo)
         {
             using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))

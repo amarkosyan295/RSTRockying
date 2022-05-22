@@ -25,7 +25,7 @@ public partial class Admin_ManageSetting : AdminPage
             NewsletterNameTextBox.Text = Utility.AdminName;
             AddressTextBox.Text = Utility.Address;
             PhoneTextBox.Text = Utility.Phone;
-            FaxTextBox.Text = Utility.Fax;
+            //FaxTextBox.Text = Utility.Fax;
             ContactTextBox.Text = Utility.ContactEmail;
             EmailSignatureTextBox.Text = Utility.GetSiteSetting("EmailSignature");
             HeaderTextBox.Text = Utility.GetSiteSetting("SiteHeader");
@@ -81,10 +81,10 @@ public partial class Admin_ManageSetting : AdminPage
                 db.SubmitChanges();
                 CacheManager.Remove("Phone");
 
-                WebsiteSetting f = (from u in db.WebsiteSettings where u.KeyName == "Fax" select u).SingleOrDefault();
-                f.KeyValue = FaxTextBox.Text.Trim();
-                db.SubmitChanges();
-                CacheManager.Remove("Fax");
+                //WebsiteSetting f = (from u in db.WebsiteSettings where u.KeyName == "Fax" select u).SingleOrDefault();
+                //f.KeyValue = FaxTextBox.Text.Trim();
+                //db.SubmitChanges();
+                //CacheManager.Remove("Fax");
 
                 WebsiteSetting ce = (from u in db.WebsiteSettings where u.KeyName == "ContactEmail" select u).SingleOrDefault();
                 ce.KeyValue = ContactTextBox.Text.Trim();

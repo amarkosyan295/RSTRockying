@@ -1,5 +1,10 @@
 ﻿namespace Rockying.Models
 {
+    public enum SearchItemType
+    {
+        Story = 1,
+        Book = 2
+    }
     public enum ReadStatusType
     {
         Read = 1,

@@ -19,7 +19,7 @@
             </form>
         </div>
     </div>
-    <div class="row row-cols-2 row-cols-md-6 g-4 mt-2">
+    <div class="row row-cols-2 row-cols-md-5 g-4 mt-2 mt-2">
         <%foreach (PopularBook bm in PopularList)
             { %>
         <%if (!string.IsNullOrEmpty(bm.CoverPage))
@@ -27,7 +27,7 @@
         <div class="col">
             <div class="card h-100 special border-0 bg-transparent">
                 <a href='../book/<%: Utility.Slugify(bm.Title)%>-<%= bm.ID %>' style="text-align: center;">
-                    <img src="<%= bm.CoverPage %>" class="card-img-top" style="width: auto;" alt="<%: bm.Title %>" /></a>
+                    <img src="<%= bm.CoverPage %>" class="card-img-top" style="width: auto; max-width:130px;" alt="<%: bm.Title %>" /></a>
                 <div class="card-body">
                     <h5 class="card-title d-none"><a href='../book/<%: Utility.Slugify(bm.Title)%>-<%= bm.ID %>' class="text-dark text-decoration-none"><%: bm.Title %></a></h5>
                     <%if (!string.IsNullOrEmpty(bm.Author))

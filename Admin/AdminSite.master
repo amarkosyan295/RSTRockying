@@ -5,127 +5,116 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <style type="text/css">
-        body {
-            padding-top: 60px;
-            padding-bottom: 40px;
-        }
-
-
-        .sidebar-nav {
-            padding: 9px 0;
-        }
-
         .validate {
             color: Red;
         }
     </style>
-    <link href="<%= Page.ResolveClientUrl("~/admin/bootstrap/css/bootstrap.min.css") %>" rel="stylesheet" type="text/css" />
-    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <link href="<%= Page.ResolveClientUrl("~/admin/bootstrap/css/bootstrap-responsive.min.css") %>" rel="stylesheet" type="text/css" />
-    <script src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.2.min.js" type="text/javascript"></script>
-    <script src="<%= Page.ResolveClientUrl("~/admin/bootstrap/js/bootstrap.min.js") %>" type="text/javascript"></script>
-    <link href="<%= Page.ResolveClientUrl("~/admin/bootstrap/css/custom.css") %>" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
 <body>
-    <div class="navbar navbar-fixed-top">
-        <div class="navbar-inner">
-            <div class="container-fluid">
-                <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </a><a class="brand" href="<%= Page.ResolveClientUrl("~/admin/default.aspx") %>">
-                    <%= Utility.SiteName %></a>
-                <div class="nav-collapse collapse">
-                    <ul class="nav">
-                        <% if (CurrentUser.UserType == (byte)MemberTypeType.Admin)
-                            { %>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="<%= Page.ResolveClientUrl("~/admin/") %>CustomPageList.aspx">List</a></li>
-                                <li><a href="<%= Page.ResolveClientUrl("~/admin/") %>ManageCustomPage.aspx?mode=add">Create</a></li>
-                            </ul>
-                        </li>
-                        <% } %>
-                        <% if (CurrentUser.UserType == (byte)MemberTypeType.Admin)
-                            { %>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Stories <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="<%= Page.ResolveClientUrl("~/admin/") %>default.aspx">List</a></li>
-                                <li><a href="<%= Page.ResolveClientUrl("~/admin/") %>ManageArticle.aspx">Post Story</a></li>
-                                <li><a href="<%= Page.ResolveClientUrl("~/admin/") %>TopStory.aspx">Top Story</a></li>
-                            </ul>
-                        </li>
-                        <% }
-                            else
-                            { %>
-                        <li><a href="<%= Page.ResolveClientUrl("~/admin/") %>default.aspx">My Stories</a></li>
-                        <li><a href="<%= Page.ResolveClientUrl("~/admin/") %>simpleedit.aspx">Post Story</a></li>
-                        <%} %>
-                        <% if (CurrentUser.UserType == (byte)MemberTypeType.Admin)
-                            { %>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data Source <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="<%= Page.ResolveClientUrl("~/admin/") %>CustomDataSourceList.aspx">List</a></li>
-                                <li><a href="<%= Page.ResolveClientUrl("~/admin/") %>ManageCustomDataSource.aspx?mode=add">Add New</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Website <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="<%= Page.ResolveClientUrl("~/admin/") %>ManageSetting.aspx">Manage Settings</a></li>
-                                <li><a href="<%= Page.ResolveClientUrl("~/admin/") %>CategoryList.aspx">Category List</a></li>
-                                <li><a href="<%= Page.ResolveClientUrl("~/admin/") %>NewsletterDesign.aspx">Newsletter Design</a></li>
-                                <li><a href="<%= Page.ResolveClientUrl("~/admin/") %>GenerateSitemap.aspx">Generate Sitemap</a></li>
-                            </ul>
-                        </li>
-                        <%} %>
-                        <li>
-                            <a href="<%= Page.ResolveClientUrl("~/admin/") %>ManageDrive.aspx">Drive</a>
-                        </li>
-                        <% if (CurrentUser.UserType == (byte)MemberTypeType.Admin)
-                            { %>
-                        <li>
-                            <a href="<%= Page.ResolveClientUrl("~/admin/") %>MemberList.aspx">Member <span class="badge badge-inverse">
-                                <%: Utility.GetMemberCount()%></span></a>
-                        </li>
-                        <li><a href="<%= Page.ResolveClientUrl("~/admin/") %>EmailList.aspx">Emails</a></li>
-                        <li><a target="_blank" href="http://rudrasofttech.com/vtracker/report/websitepublicstats/1">Visits</a></li>
-                        <%} %>
-                        <li class="dropdown">
-                            <a class=" dropdown-toggle" data-toggle="dropdown" href="#"><i class="icon-user"></i>
-                                Account
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="~/admin/default.aspx" runat="server"><%= Utility.SiteName %></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <% if (CurrentUser.UserType == (byte)MemberTypeType.Admin)
+                        { %>
+                    <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" id="navbarDropdown1" role="button" data-bs-toggle="dropdown" aria-expanded="false">Pages</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown1">
+                            <li><a class="dropdown-item" runat="server" href="~/admin/CustomPageList.aspx">List</a></li>
+                            <li><a class="dropdown-item" runat="server" href="~/admin/ManageCustomPage.aspx?mode=add">Create</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" runat="server" id="navbarDropdown7" role="button" data-bs-toggle="dropdown" aria-expanded="false">Books</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown7">
+                            <li><a class="dropdown-item" runat="server" href="~/admin/books.aspx">List</a></li>
+                            <li><a class="dropdown-item" runat="server" href="~/admin/searchhistory.aspx">Search History</a></li>
+                            <li><a class="dropdown-item" runat="server" href="~/admin/ManageBook.aspx">Add Book</a></li>
+                        </ul>
+                    </li>
+                    <%} %>
+                    <% if (CurrentUser.UserType == (byte)MemberTypeType.Admin)
+                        { %>
+                    <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" id="navbarDropdown2" role="button" data-bs-toggle="dropdown" aria-expanded="false">Stories</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown2">
+                            <li><a class="dropdown-item" runat="server" href="~/admin/default.aspx">List</a></li>
+                            <li><a class="dropdown-item" runat="server" href="~/admin/ManageArticle.aspx">Post Story</a></li>
+                            <li><a class="dropdown-item" runat="server" href="~/admin/TopStory.aspx">Top Story</a></li>
+                        </ul>
+                    </li>
+                    <% }
+                        else
+                        { %>
+                    <li class="nav-item"><a class="nav-link" href="<%= Page.ResolveClientUrl("~/admin/") %>default.aspx">My Stories</a></li>
+                    <li class="nav-item"><a class="nav-link" href="<%= Page.ResolveClientUrl("~/admin/") %>simpleedit.aspx">Post Story</a></li>
+                    <%} %>
+                    <% if (CurrentUser.UserType == (byte)MemberTypeType.Admin)
+                        { %>
+                    <li class="nav-item dropdown d-none">
+                        <a href="#" class="nav-link dropdown-toggle" id="navbarDropdown5" role="button" data-bs-toggle="dropdown" aria-expanded="false">Data Source <b class="caret"></b></a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown5">
+                            <li><a class="dropdown-item" href="<%= Page.ResolveClientUrl("~/admin/") %>CustomDataSourceList.aspx">List</a></li>
+                            <li><a class="dropdown-item" href="<%= Page.ResolveClientUrl("~/admin/") %>ManageCustomDataSource.aspx?mode=add">Add New</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" id="navbarDropdown6" role="button" data-bs-toggle="dropdown" aria-expanded="false">Website <b class="caret"></b></a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown6">
+                            <li><a class="dropdown-item" href="<%= Page.ResolveClientUrl("~/admin/") %>ManageSetting.aspx">Manage Settings</a></li>
+                            <li><a class="dropdown-item" href="<%= Page.ResolveClientUrl("~/admin/") %>CategoryList.aspx">Category List</a></li>
+                            <li><a class="dropdown-item" href="<%= Page.ResolveClientUrl("~/admin/") %>NewsletterDesign.aspx">Newsletter Design</a></li>
+                            <li><a class="dropdown-item" href="<%= Page.ResolveClientUrl("~/admin/") %>GenerateSitemap.aspx">Generate Sitemap</a></li>
+                        </ul>
+                    </li>
+                    <%} %>
+                    <li class="nav-item">
+                        <a class="nav-link" href="<%= Page.ResolveClientUrl("~/admin/") %>ManageDrive.aspx">Drive</a>
+                    </li>
+                    <% if (CurrentUser.UserType == (byte)MemberTypeType.Admin)
+                        { %>
+                    <li class="nav-item">
+                        <a class="nav-link" href="<%= Page.ResolveClientUrl("~/admin/") %>MemberList.aspx">Member <span class="badge bg-dark">
+                            <%: Utility.GetMemberCount()%></span></a>
+                    </li>
+                    <li class="nav-item"><a class="nav-link" href="<%= Page.ResolveClientUrl("~/admin/") %>EmailList.aspx">Emails</a></li>
+                    <li class="nav-item"><a class="nav-link" target="_blank" href="http://rudrasofttech.com/vtracker/report/websitepublicstats/1">Visits</a></li>
+                    <%} %>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" id="navbarDropdown4" role="button" data-bs-toggle="dropdown" aria-expanded="false" href="#"><i class="icon-user"></i>
+                            Account
                                 <span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="http://<%: Request.Url.Host %>/account/myaccount"><%: Page.User.Identity.Name %> Profile</a></li>
-                                <li class="divider"></li>
-                                <li><a href="<%= Page.ResolveClientUrl("~/admin/") %>logout.aspx">Sign Out</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </div>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown4">
+                            <li><a class="dropdown-item" href="http://<%: Request.Url.Host %>/account/myaccount"><%: Page.User.Identity.Name %> Profile</a></li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <li><a class="dropdown-item" href="<%= Page.ResolveClientUrl("~/admin/") %>logout.aspx">Sign Out</a></li>
+                        </ul>
+                    </li>
+                </ul>
             </div>
         </div>
-    </div>
-    <div class="container-fluid">
-        <div class="row-fluid">
-            <div class="span12">
-                <form id="form1" runat="server">
-                    <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
-                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-                    </asp:ContentPlaceHolder>
-                </form>
-            </div>
+    </nav>
+
+    <form id="form1" runat="server">
+        <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+        <div class="container-fluid">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
         </div>
-    </div>
+    </form>
+
+    <script src="//code.jquery.com/jquery-1.10.1.min.js" type="text/javascript"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 </body>
 </html>

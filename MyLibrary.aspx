@@ -27,7 +27,7 @@
             </form>
         </div>
     </div>
-    <div class="row row-cols-2 row-cols-md-6 g-4 mt-2">
+    <div class="row row-cols-2 row-cols-md-5 g-4 mt-2">
         <%
             using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
@@ -37,7 +37,7 @@
         <div class="col">
             <div class="card h-100 special border-0 bg-transparent">
                 <a href='../book/<%: Utility.Slugify(mb.Book.Title)%>-<%: mb.Book.ID %>' style="text-align: center;">
-                    <img src="<%: mb.Book.CoverPage %>" class="card-img-top" style="width: auto;" alt="" /></a>
+                    <img src="<%: mb.Book.CoverPage %>" class="card-img-top" style="width: auto; max-width:128px;" alt="" /></a>
                 <div class="card-body">
                     <%
                         ReadStatusType rst = (ReadStatusType)Enum.Parse(typeof(ReadStatusType), mb.ReadStatus.ToString());
