@@ -122,7 +122,7 @@ namespace Rockying.Models
                     m.LastLogon = DateTime.Now;
                     if (string.IsNullOrEmpty(m.UserName))
                     {
-                        m.UserName = Guid.NewGuid().ToString().Replace("-", "");
+                        m.UserName = m.Createdate.ToString("yyyyMMdd") + m.ID;
                     }
                     dc.SubmitChanges();
                     return m;

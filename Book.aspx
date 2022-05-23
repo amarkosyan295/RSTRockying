@@ -367,13 +367,13 @@
             context.fillStyle = '#495057';
             context.fillRect(10 + progress, txtHeight + 80, (canvas.width - 20) - progress, 10);
 
-            var readstartdate = new Date($("#startdatetxt").val());
+            //var readstartdate = new Date($("#startdatetxt").val());
 
-            var today = new Date();
+            //var today = new Date();
             //calculate time difference
-            var time_difference = today.getTime() - readstartdate.getTime();
+            //var time_difference = today.getTime() - readstartdate.getTime();
             //calculate days difference by dividing total milliseconds in a day
-            var days_difference = time_difference / (1000 * 60 * 60 * 24);
+            var days_difference = parseInt("<%: (MemberBook != null && MemberBook.ReadingStartDate.HasValue) ? DateTime.Now.Subtract(MemberBook.ReadingStartDate.Value).TotalDays : 0 %>", 10) //time_difference / (1000 * 60 * 60 * 24);
 
             var avgspeed = parseInt(parseInt($("#currentpagetxt").val(), 10) / days_difference, 10);
             context.fillStyle = '#ffffff';

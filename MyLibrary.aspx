@@ -30,14 +30,39 @@
     <div class="row row-cols-2 row-cols-md-5 g-4 mt-2">
         <%
             using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
-            {
-                foreach (MemberBook mb in dc.MemberBooks.Where(t => t.MemberID == CurrentUser.ID)
-                    .OrderByDescending(t => t.ID))
-                {%>
+            { %>
+        <%
+            foreach (MemberBook mb in dc.MemberBooks.Where(t => t.MemberID == CurrentUser.ID && t.ReadStatus == (byte)ReadStatusType.Reading)
+                .OrderByDescending(t => t.ID))
+            {%>
         <div class="col">
             <div class="card h-100 special border-0 bg-transparent">
                 <a href='../book/<%: Utility.Slugify(mb.Book.Title)%>-<%: mb.Book.ID %>' style="text-align: center;">
-                    <img src="<%: mb.Book.CoverPage %>" class="card-img-top" style="width: auto; max-width:128px;" alt="" /></a>
+                    <img src="<%: mb.Book.CoverPage %>" class="card-img-top" style="width: auto; max-width: 128px;" alt="" /></a>
+                <div class="card-body">
+                    <%
+                        var percentread = (int)(0.5f + ((100f * mb.CurrentPage) / mb.Book.PageCount));
+                    %>
+                    <div class="progress mt-1" style="height:5px;">
+                        <div class="progress-bar" role="progressbar" style='width: <%: percentread %>%;' aria-valuenow="<%:percentread %>" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <div class="text-center"><%: mb.CurrentPage %> read of <%: mb.Book.PageCount %> pages</div>
+                    <div class="text-center">
+                        <a href='../book/<%: Utility.Slugify(mb.Book.Title)%>-<%: mb.Book.ID %>' class="btn btn-primary btn-sm">Update Progress</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <%} %>
+
+        <%
+            foreach (MemberBook mb in dc.MemberBooks.Where(t => t.MemberID == CurrentUser.ID && t.ReadStatus != (byte)ReadStatusType.Reading)
+                .OrderByDescending(t => t.ID))
+            {%>
+        <div class="col">
+            <div class="card h-100 special border-0 bg-transparent">
+                <a href='../book/<%: Utility.Slugify(mb.Book.Title)%>-<%: mb.Book.ID %>' style="text-align: center;">
+                    <img src="<%: mb.Book.CoverPage %>" class="card-img-top" style="width: auto; max-width: 128px;" alt="" /></a>
                 <div class="card-body">
                     <%
                         ReadStatusType rst = (ReadStatusType)Enum.Parse(typeof(ReadStatusType), mb.ReadStatus.ToString());
@@ -70,22 +95,12 @@
                             <%} %>
                         </ul>
                     </div>
-                    <%}
-                        else
-                        { 
-                            var percentread = (int)(0.5f + ((100f * mb.CurrentPage) / mb.Book.PageCount));
-                            %>
-                        
-                        <div class="progress mt-1">
-                            <div class="progress-bar" role="progressbar" style='width:<%: percentread %>%;' aria-valuenow="<%:percentread %>" aria-valuemin="0" aria-valuemax="100"></div>
-                        </div>
-                        <div class="text-center"><%: mb.CurrentPage %> read of <%: mb.Book.PageCount %> pages</div>
-                    
-                    <%} %>
+                    <%}%>
                 </div>
             </div>
         </div>
-        <%}
+        <%} %>
+        <%
             }%>
     </div>
 
