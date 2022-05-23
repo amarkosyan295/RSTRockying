@@ -6,7 +6,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="Server">
     <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-5">
             <h1>Login</h1>
             <p>
                 Email and Password both are mandatory. If you want to preserve login please choose
@@ -30,16 +30,17 @@
                         Display="Dynamic" CssClass="text-danger" ValidationGroup="logingrp"
                         ErrorMessage="Required" SetFocusOnError="True"></asp:RequiredFieldValidator>
                 </div>
-                <div class="form-check mb-3">
-                    <asp:CheckBox ID="RememberCheckBox" CssClass="form-check-input" runat="server" Checked="true" />
+                <div class="form-check mb-2">
+                    <input class="form-check-input" type="checkbox" value="" runat="server" id="RememberCheckBox">
                     <label class="form-check-label" for="<%: RememberCheckBox.ClientID %>">
-                        Remember Me</label>
+                        Remember Me
+                    </label>
                 </div>
-                <div class="col-12">
+                <div class="mb-2">
                     <asp:Button ID="SubmitButton" class="btn btn-primary" ValidationGroup="logingrp"
                         runat="server" Text="Login" OnClick="SubmitButton_Click" />
-                    <a href="forgotpassword<%= !string.IsNullOrEmpty(Request.QueryString["returnurl"]) ? "?returnurl=" + Request.QueryString["returnurl"] : "" %>" class="btn btn-link float-end">Forgot Password?</a>
-                    <a href="register<%= !string.IsNullOrEmpty(Request.QueryString["returnurl"]) ? "?returnurl=" + Request.QueryString["returnurl"] : "" %>" class="btn btn-link float-end">Register for Free</a>
+                    <a href="forgotpassword<%= !string.IsNullOrEmpty(Request.QueryString["returnurl"]) ? "?returnurl=" + Request.QueryString["returnurl"] : "" %>" class="btn btn-link text-dark float-end">Forgot Password?</a>
+                    <a href="register<%= !string.IsNullOrEmpty(Request.QueryString["returnurl"]) ? "?returnurl=" + Request.QueryString["returnurl"] : "" %>" class="btn btn-link text-dark float-end">Register for Free</a>
                 </div>
             </form>
         </div>

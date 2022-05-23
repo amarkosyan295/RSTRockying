@@ -44,6 +44,7 @@
         routes.MapPageRoute("viewemail", "account/email/{id}", "~/account/email.aspx");
         routes.MapPageRoute("viewemailtrans", "account/email/{id}/{trans}", "~/account/email.aspx");
 
+        routes.MapPageRoute("StoriesPageRoute", "popular-stories", "~/stories.aspx");
         routes.MapPageRoute("BooksPageRoute", "popular-books", "~/books.aspx");
         routes.MapPageRoute("BookPageRoute", "book/{title}-{id}", "~/book.aspx");
         //Any Damn Thing Catch Here

@@ -6,6 +6,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="TopContent" runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="HeadContent" runat="Server">
+    
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="MainContent" runat="Server">
     <div class="row">
@@ -20,7 +21,7 @@
         </div>
     </div>
     <div class="row row-cols-2 row-cols-md-5 g-4 mt-2 mt-2">
-        <%foreach (PopularBook bm in PopularList)
+        <%foreach (PopularBook bm in PopularList.Values)
             { %>
         <%if (!string.IsNullOrEmpty(bm.CoverPage))
             {%>
@@ -29,13 +30,6 @@
                 <a href='../book/<%: Utility.Slugify(bm.Title)%>-<%= bm.ID %>' style="text-align: center;">
                     <img src="<%= bm.CoverPage %>" class="card-img-top" style="width: auto; max-width:130px;" alt="<%: bm.Title %>" /></a>
                 <div class="card-body">
-                    <h5 class="card-title d-none"><a href='../book/<%: Utility.Slugify(bm.Title)%>-<%= bm.ID %>' class="text-dark text-decoration-none"><%: bm.Title %></a></h5>
-                    <%if (!string.IsNullOrEmpty(bm.Author))
-                        {%>
-                    <p class="card-text d-none">
-                        written by <%: bm.Author %>
-                    </p>
-                    <%} %>
                     <%if (bm.ShelfCount > 1)
                         { %>
                     <span class="d-block badge bg-light text-dark text-center mb-1">on <%: bm.ShelfCount %> book shelves</span>
@@ -51,7 +45,6 @@
                             rst = (ReadStatusType)Enum.Parse(typeof(ReadStatusType), MemberBooks[bm.ID].ReadStatus.ToString());
                         }
                     %>
-
                     <div class="dropdown text-center">
                         <button class="btn btn-light btn-sm dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
                             <%if (!rst.HasValue)
@@ -98,5 +91,6 @@
     </div>
 </asp:Content>
 <asp:Content ID="Content4" ContentPlaceHolderID="BottomContent" runat="Server">
+    
 </asp:Content>
 

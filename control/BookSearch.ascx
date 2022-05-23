@@ -2,18 +2,37 @@
 <%@ Import Namespace="Rockying.Models" %>
 <div style="position: relative;">
     <div class="input-group mb-1">
-        <asp:UpdateProgress ID="UpdateProgress1" AssociatedUpdatePanelID="UpdatePanel1" DynamicLayout="true" DisplayAfter="1" runat="server">
+        
+        <button type="button" class="input-group-text" data-bs-toggle="modal" data-bs-target="#livestream_scanner"><i class="bi bi-camera-fill"></i>&nbsp;Scan</button>
+        <asp:TextBox ID="SearchKeywordTextBox" CssClass="form-control" placeholder="Search Book by Title or ISBN" MaxLength="300" runat="server"></asp:TextBox>
+        <asp:Button ID="SearchButton" CssClass="input-group-text" ValidationGroup="searchbookgrp" runat="server" OnClick="SearchButton_Click" Text="Search" />
+        
+    </div>
+    <div class="modal fade" id="livestream_scanner" tabindex="-1" aria-labelledby="scanISBNModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="scanISBNModalLabel">ISBN Barcode Scanner</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div id="interactive" class="viewport"></div>
+                    <div class="error"></div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <asp:RequiredFieldValidator ID="RequiredFieldValidator1" ValidationGroup="searchbookgrp" CssClass="text-danger" Display="Dynamic" ControlToValidate="SearchKeywordTextBox" runat="server" ErrorMessage="Missing Keywords"></asp:RequiredFieldValidator>
+    <asp:UpdateProgress ID="UpdateProgress1" AssociatedUpdatePanelID="UpdatePanel1" DynamicLayout="true" DisplayAfter="1" runat="server">
             <ProgressTemplate>
                 <div class="spinner-border m-1" role="status">
                     <span class="visually-hidden">Loading...</span>
                 </div>
             </ProgressTemplate>
         </asp:UpdateProgress>
-        <asp:TextBox ID="SearchKeywordTextBox" CssClass="form-control" placeholder="Search Book by Title or ISBN" MaxLength="300" runat="server"></asp:TextBox>
-        <asp:Button ID="SearchButton" CssClass="input-group-text" ValidationGroup="searchbookgrp" runat="server" Text="Search" OnClick="SearchButton_Click" />
-    </div>
-    <asp:RequiredFieldValidator ID="RequiredFieldValidator1" ValidationGroup="searchbookgrp" CssClass="text-danger" Display="Dynamic" ControlToValidate="SearchKeywordTextBox" runat="server" ErrorMessage="Missing Keywords"></asp:RequiredFieldValidator>
-
     <asp:UpdatePanel ID="UpdatePanel1" runat="server" UpdateMode="Conditional">
         <ContentTemplate>
             <asp:Repeater ID="SearchResultRepeater" runat="server" EnableViewState="false" OnItemDataBound="SearchResultRepeater_ItemDataBound">
@@ -64,4 +83,110 @@
         </Triggers>
     </asp:UpdatePanel>
 </div>
+<script type="text/javascript">
+        $(function () {
+            // Create the QuaggaJS config object for the live stream
+            var liveStreamConfig = {
+                inputStream: {
+                    type: "LiveStream",
+                    constraints: {
+                        width: { min: 640 },
+                        height: { min: 480 },
+                        aspectRatio: { min: 1, max: 2 },
+                        facingMode: "environment" // or "user" for the front camera
+                    }
+                },
+                locator: {
+                    patchSize: "medium",
+                    halfSample: true
+                },
+                numOfWorkers: (navigator.hardwareConcurrency ? navigator.hardwareConcurrency : 4),
+                decoder: {
+                    "readers": [
+                        { "format": "ean_reader", "config": {} }
+                    ]
+                },
+                locate: true
+            };
+            // The fallback to the file API requires a different inputStream option. 
+            // The rest is the same 
+            var fileConfig = $.extend(
+                {},
+                liveStreamConfig,
+                {
+                    inputStream: {
+                        size: 800
+                    }
+                }
+            );
 
+            var livestream_scanner = document.getElementById('livestream_scanner');
+            // Start the live stream scanner when the modal opens
+            livestream_scanner.addEventListener('shown.bs.modal', function (e) {
+                Quagga.init(
+                    liveStreamConfig,
+                    function (err) {
+                        if (err) {
+                            $('#livestream_scanner .modal-body .error').html('<div class="alert alert-danger"><strong><i class="fa fa-exclamation-triangle"></i> ' + err.name + '</strong>: ' + err.message + '</div>');
+                            Quagga.stop();
+                            return;
+                        }
+                        Quagga.start();
+                    }
+                );
+            });
+
+            // Make sure, QuaggaJS draws frames an lines around possible 
+            // barcodes on the live stream
+            Quagga.onProcessed(function (result) {
+                var drawingCtx = Quagga.canvas.ctx.overlay,
+                    drawingCanvas = Quagga.canvas.dom.overlay;
+
+                if (result) {
+                    if (result.boxes) {
+                        drawingCtx.clearRect(0, 0, parseInt(drawingCanvas.getAttribute("width")), parseInt(drawingCanvas.getAttribute("height")));
+                        result.boxes.filter(function (box) {
+                            return box !== result.box;
+                        }).forEach(function (box) {
+                            Quagga.ImageDebug.drawPath(box, { x: 0, y: 1 }, drawingCtx, { color: "green", lineWidth: 2 });
+                        });
+                    }
+
+                    if (result.box) {
+                        Quagga.ImageDebug.drawPath(result.box, { x: 0, y: 1 }, drawingCtx, { color: "#00F", lineWidth: 2 });
+                    }
+
+                    if (result.codeResult && result.codeResult.code) {
+                        Quagga.ImageDebug.drawPath(result.line, { x: 'x', y: 'y' }, drawingCtx, { color: 'red', lineWidth: 3 });
+                    }
+                }
+            });
+
+            // Once a barcode had been read successfully, stop quagga and 
+            // close the modal after a second to let the user notice where 
+            // the barcode had actually been found.
+            Quagga.onDetected(function (result) {
+                if (result.codeResult.code) {
+                    $('#<%: SearchKeywordTextBox.ClientID%>').val("isbn:" + result.codeResult.code);
+                    $('#<%: SearchButton.ClientID %>').click();
+                    Quagga.stop();
+                    setTimeout(function () { $('#livestream_scanner').modal('hide'); }, 400);
+                }
+            });
+
+            // Stop quagga in any case, when the modal is closed
+            $('#livestream_scanner').on('hide.bs.modal', function () {
+                if (Quagga) {
+                    Quagga.stop();
+                }
+            });
+
+            // Call Quagga.decodeSingle() for every file selected in the 
+            // file input
+            $("#livestream_scanner input:file").on("change", function (e) {
+                if (e.target.files && e.target.files.length) {
+                    Quagga.decodeSingle($.extend({}, fileConfig, { src: URL.createObjectURL(e.target.files[0]) }), function (result) { alert(result.codeResult.code); });
+                }
+            });
+        });
+</script>
