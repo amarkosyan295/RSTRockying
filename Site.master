@@ -66,8 +66,8 @@
     <div class="my-md-2 my-1 text-center">
         <%--<a class="btn btn-light text-dark" href="~/Thriller/index" runat="server">Thriller</a>
                     <a class="btn btn-light text-dark" href="~/Horror/index" runat="server">Horror</a>--%>
-        <a class="text-decoration-none mx-1 mx-md-2 text-dark" href="~/popular-stories" runat="server">Stories</a>
         <a class="text-decoration-none mx-1 mx-md-2 text-dark" href="~/popular-books" runat="server">Books</a>
+        <a class="text-decoration-none mx-1 mx-md-2 text-dark" href="~/popular-stories" runat="server">Stories</a>
         <%if (!Request.IsAuthenticated)
             { %>
         <a title="Log in" class="text-decoration-none mx-1 mx-md-2 text-dark" runat="server" href="~/account/login">Login</a>

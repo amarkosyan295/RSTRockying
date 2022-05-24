@@ -103,23 +103,13 @@ public partial class control_BookSearch : System.Web.UI.UserControl
                                 books.Add(bkfromdb);
                         }
                     }
+                    dc.SubmitChanges();
                 }
-
-                SearchHistory sh = new SearchHistory()
-                {
-                    Keywords = SearchKeywordTextBox.Text.Trim(),
-                    ResultCount = books.Distinct().Count(),
-                    Member = CurrentUser,
-                    SearchDate = DateTime.Now,
-                    SearchType = (int)SearchItemType.Book
-                };
-                dc.SearchHistories.InsertOnSubmit(sh);
-                dc.SubmitChanges();
                 SearchResultRepeater.DataSource = books.Distinct();
                 SearchResultRepeater.DataBind();
             }
 
-            //LibaryManager.SaveSearchHistory(SearchKeywordTextBox.Text.Trim(), books.Distinct().Count(), CurrentUser);
+            LibaryManager.SaveSearchHistory(SearchKeywordTextBox.Text.Trim(), books.Distinct().Count(), CurrentUser);
 
         }
     }

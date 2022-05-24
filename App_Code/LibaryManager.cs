@@ -98,7 +98,7 @@ namespace Rockying.Models
                 {
                     Keywords = keywords,
                     ResultCount = resultcount,
-                    Member = m,
+                    Member = null,
                     SearchDate = DateTime.Now,
                     SearchType = (int)SearchItemType.Book
                 };

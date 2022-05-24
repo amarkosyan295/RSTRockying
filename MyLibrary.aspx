@@ -41,7 +41,7 @@
         %>
         <div class="col">
             <div class="card h-100 special border-0 bg-transparent">
-                <a href='../book/<%: Utility.Slugify(mb.Book.Title)%>-<%: mb.Book.ID %>' style="text-align: center;">
+                <a href='../book/<%: Utility.Slugify(mb.Book.Title, "book")%>-<%: mb.Book.ID %>' style="text-align: center;">
                     <img src="<%: mb.Book.CoverPage %>" class="card-img-top" style="width: auto; max-width: 128px;" alt="" /></a>
                 <div class="card-body">
                     <%
@@ -52,7 +52,7 @@
                     </div>
                     <div class="text-center"><%: mb.CurrentPage %> read of <%: mb.Book.PageCount %> pages</div>
                     <div class="text-center">
-                        <a href='../book/<%: Utility.Slugify(mb.Book.Title)%>-<%: mb.Book.ID %>' class="btn btn-primary btn-sm">Update Progress</a>
+                        <a href='../book/<%: Utility.Slugify(mb.Book.Title, "book")%>-<%: mb.Book.ID %>' class="btn btn-primary btn-sm">Update Progress</a>
                     </div>
                 </div>
             </div>
@@ -67,7 +67,7 @@
         %>
         <div class="col">
             <div class="card h-100 special border-0 bg-transparent">
-                <a href='../book/<%: Utility.Slugify(mb.Book.Title)%>-<%: mb.Book.ID %>' style="text-align: center;">
+                <a href='../book/<%: Utility.Slugify(mb.Book.Title, "book")%>-<%: mb.Book.ID %>' style="text-align: center;">
                     <img src="<%: mb.Book.CoverPage %>" class="card-img-top" style="width: auto; max-width: 128px;" alt="" /></a>
                 <div class="card-body">
                     <%
