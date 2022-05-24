@@ -9,14 +9,17 @@ using System.Web.UI.WebControls;
 
 public partial class MyStories : MemberPage
 {
+    public List<Post> Stories { get; set; }
     protected void Page_Load(object sender, EventArgs e)
     {
+        Stories = new List<Post>();
         if (!Page.IsCallback && !Page.IsPostBack)
         {
             using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
-                StoryRepeater.DataSource = dc.Posts.Where(t => t.CreatedBy == CurrentUser.ID)
-                    .OrderByDescending(t => t.DateCreated);
+                Stories.AddRange(dc.Posts.Where(t => t.CreatedBy == CurrentUser.ID)
+                    .OrderByDescending(t => t.DateCreated));
+                StoryRepeater.DataSource = Stories;
                 StoryRepeater.DataBind();
             }
         }

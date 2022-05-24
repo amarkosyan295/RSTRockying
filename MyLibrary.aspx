@@ -11,7 +11,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js"></script>
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="MainContent" runat="Server">
-
+    <%
+        bool isempty = true;
+    %>
     <div class="row">
         <div class="col-md-6">
             <h3>My Library</h3>
@@ -34,7 +36,9 @@
         <%
             foreach (MemberBook mb in dc.MemberBooks.Where(t => t.MemberID == CurrentUser.ID && t.ReadStatus == (byte)ReadStatusType.Reading)
                 .OrderByDescending(t => t.ID))
-            {%>
+            {
+                isempty = false;
+        %>
         <div class="col">
             <div class="card h-100 special border-0 bg-transparent">
                 <a href='../book/<%: Utility.Slugify(mb.Book.Title)%>-<%: mb.Book.ID %>' style="text-align: center;">
@@ -43,7 +47,7 @@
                     <%
                         var percentread = (int)(0.5f + ((100f * mb.CurrentPage) / mb.Book.PageCount));
                     %>
-                    <div class="progress mt-1" style="height:5px;">
+                    <div class="progress mt-1" style="height: 5px;">
                         <div class="progress-bar" role="progressbar" style='width: <%: percentread %>%;' aria-valuenow="<%:percentread %>" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                     <div class="text-center"><%: mb.CurrentPage %> read of <%: mb.Book.PageCount %> pages</div>
@@ -58,7 +62,9 @@
         <%
             foreach (MemberBook mb in dc.MemberBooks.Where(t => t.MemberID == CurrentUser.ID && t.ReadStatus != (byte)ReadStatusType.Reading)
                 .OrderByDescending(t => t.ID))
-            {%>
+            {
+                isempty = false;
+        %>
         <div class="col">
             <div class="card h-100 special border-0 bg-transparent">
                 <a href='../book/<%: Utility.Slugify(mb.Book.Title)%>-<%: mb.Book.ID %>' style="text-align: center;">
@@ -103,7 +109,12 @@
         <%
             }%>
     </div>
-
+    <%if (isempty)
+        { %>
+    <p class="text-center m-2 my-5">
+        You have not added any books to your library, search your favourite books and add them to your library.
+    </p>
+    <%} %>
 </asp:Content>
 <asp:Content ID="Content4" ContentPlaceHolderID="BottomContent" runat="Server">
 </asp:Content>

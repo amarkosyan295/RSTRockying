@@ -74,7 +74,15 @@ namespace Rockying.Models
                 MemberBook mb = dc.MemberBooks.FirstOrDefault(t => t.BookID == b.ID && t.MemberID == m.ID && t.ReadStatus == (byte)ReadStatusType.Reading);
                 if (mb != null)
                 {
-                    mb.CurrentPage = pagecount;
+                    if (b.PageCount <= pagecount)
+                    {
+                        mb.ReadStatus = (byte)ReadStatusType.Read;
+                        mb.TimesRead += 1;
+                        mb.CurrentPage = 0;
+                        mb.ReadingStartDate = null;
+                    }
+                    else
+                        mb.CurrentPage = pagecount;
                     dc.SubmitChanges();
                     return true;
                 }
@@ -82,7 +90,8 @@ namespace Rockying.Models
             return false;
         }
 
-        public static void SaveSearchHistory(string keywords, int resultcount,  Member m = null) {
+        public static void SaveSearchHistory(string keywords, int resultcount, Member m = null)
+        {
             using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 SearchHistory sh = new SearchHistory()

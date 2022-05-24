@@ -16,7 +16,7 @@
                 { %>
             <img src="<%: MemberBook.Photo %>" id="coverpageimg" class="img-fluid" alt="<%: CurrentBook.Title %>" />
             <%}
-                else
+                else if (!string.IsNullOrEmpty(CurrentBook.CoverPage))
                 { %>
             <img id="coverpageimg" src="<%: CurrentBook.CoverPage %>" class="img-fluid" alt="<%: CurrentBook.Title %>" />
             <%} %>
@@ -70,7 +70,7 @@
                         <button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal" data-bs-target="#readingUpdateModal">Update Progress</button>
                     </div>
                     <div class="col">
-                        <button type="button" class="btn btn-secondary btn-sm" data-bs-toggle="modal" data-bs-target="#shareUpdateModal" >Share Update</button>
+                        <button type="button" class="btn btn-secondary btn-sm" data-bs-toggle="modal" data-bs-target="#shareUpdateModal">Share Update</button>
                     </div>
                 </div>
                 <div class="progress mt-2">
@@ -91,13 +91,14 @@
                                     <input type="hidden" name="returnurl" value="~/book/<%: Utility.Slugify(CurrentBook.Title) + "-" + CurrentBook.ID %>" />
                                     <div class="input-group mb-3">
                                         <span class="input-group-text">I have read</span>
-                                        <input value="<%: MemberBook.CurrentPage == null ? "0" : MemberBook.CurrentPage.ToString() %>" type="number" class="form-control" name="pagecount" min="0" aria-describedby="basic-addon2" max="10000" />
+                                        <input id="currentpagetext" value="<%: MemberBook.CurrentPage == null ? "0" : MemberBook.CurrentPage.ToString() %>" type="number" class="form-control" name="pagecount" min="0" aria-describedby="basic-addon2" max="<%: CurrentBook.PageCount %>" />
                                         <span class="input-group-text" id="basic-addon2">Pages</span>
                                     </div>
                                 </form>
                             </div>
                             <div class="modal-footer">
-                                <button type="button" class="btn btn-primary" onclick='$("#readingupdatefrm-<%: CurrentBook.ID %>").submit();'>Update</button>
+                                <button type="button" class="btn btn-primary mx-2" onclick='$("#readingupdatefrm-<%: CurrentBook.ID %>").submit();'>Update</button>
+                                <button type="button" class="btn btn-primary mx-2" onclick='$("#currentpagetext").val("<%: CurrentBook.PageCount %>");$("#readingupdatefrm-<%: CurrentBook.ID %>").submit();'>Book Complete</button>
                             </div>
                         </div>
                     </div>
@@ -386,7 +387,7 @@
             //    generateWithT1();
             //}
             //else if ($("#templaterd2").is(":checked")) {
-                generateWithT2();
+            generateWithT2();
             //}
 
             currentlyreading.currentpage = parseInt($("#currentpagetxt").val(), 10);

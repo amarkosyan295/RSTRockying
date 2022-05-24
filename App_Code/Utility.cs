@@ -299,12 +299,15 @@ namespace Rockying.Models
             return System.Text.Encoding.ASCII.GetString(bytes);
         }
 
-        public static string Slugify(string phrase)
+        public static string Slugify(string phrase, string emptyreplace = "" )
         {
             string str = RemoveAccent(phrase).ToLower();
             str = System.Text.RegularExpressions.Regex.Replace(str, @"[^a-z0-9/\s-]", ""); // Remove all non valid chars          
             str = System.Text.RegularExpressions.Regex.Replace(str, @"\s+", " ").Trim(); // convert multiple spaces into one space  
             str = System.Text.RegularExpressions.Regex.Replace(str, @"\s", "-"); // //Replace spaces by dashes
+            if (string.IsNullOrEmpty(str))
+                str = emptyreplace;
+            
             return str;
         }
 

@@ -8,14 +8,14 @@
 <asp:Content ID="Content3" ContentPlaceHolderID="MainContent" runat="Server">
     <form runat="server">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-6">
                 <h3>My Stories</h3>
             </div>
-            <div class="col-md-6 text-end">
+            <div class="col-6 text-end">
                 <asp:LinkButton ID="CreatePostBtn" runat="server" CausesValidation="false" CssClass="btn btn-primary" OnClick="CreatePostBtn_Click">Create Story</asp:LinkButton>
             </div>
         </div>
-        <div class="row row-cols-1 row-cols-md-4 g-4">
+        <div class="row row-cols-1 row-cols-md-4 g-4 my-2">
             <asp:Repeater ID="StoryRepeater" runat="server" OnItemCommand="StoryRepeater_ItemCommand">
                 <ItemTemplate>
                     <div class="col">
@@ -35,6 +35,12 @@
                 </ItemTemplate>
             </asp:Repeater>
         </div>
+        <%if (Stories.Count == 0)
+            {%>
+        <p class="text-center my-5">
+            You have not written any stories yet. Write some stories and they will appear here.
+        </p>
+        <%} %>
     </form>
 </asp:Content>
 <asp:Content ID="Content4" ContentPlaceHolderID="BottomContent" runat="Server">

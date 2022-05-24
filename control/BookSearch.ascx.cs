@@ -92,6 +92,7 @@ public partial class control_BookSearch : System.Web.UI.UserControl
                                 b.PublishDate = vi.publishedDate;
                             if (vi.publisher != null)
                                 b.Publisher = vi.publisher;
+                            b = SanitizeBookData(b);
                             var bkfromdb = dc.Books.FirstOrDefault(t => t.Title == b.Title || t.ISBN10 == b.ISBN10 || t.ISBN13 == b.ISBN13);
                             if (bkfromdb == null)
                             {
@@ -122,6 +123,22 @@ public partial class control_BookSearch : System.Web.UI.UserControl
 
         }
     }
+
+    private Book SanitizeBookData(Book b)
+    {
+        b.Title = b.Title.Length > 1000 ? b.Title.Substring(0, 999): b.Title;
+        b.Description = b.Description.Length > 3000 ? b.Description.Substring(0, 2999) : b.Description;
+        b.Author = b.Author.Length > 2000 ? b.Author.Substring(0, 1999) : b.Author;
+        b.ISBN10 = b.ISBN10.Length > 20 ? b.ISBN10.Substring(0, 19): b.ISBN10;
+        b.ISBN13 = b.ISBN13.Length > 20 ? b.ISBN13.Substring(0, 19): b.ISBN13;
+        b.PublishDate = b.PublishDate.Length > 50 ? b.PublishDate.Substring(0, 49) : b.PublishDate;
+        b.Publisher = b.Publisher.Length > 250 ? b.Publisher.Substring(0, 249):b.Publisher;
+        b.Categories = b.Categories.Length > 500 ? b.Categories.Substring(0, 499) : b.Categories;
+        b.Identifiers = b.Identifiers.Length > 2000 ? b.Identifiers.Substring(0, 1999) : b.Identifiers;
+
+        return b;
+    }
+
 
     protected void ClearSearchButton_Click(object sender, EventArgs e)
     {
