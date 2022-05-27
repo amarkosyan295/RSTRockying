@@ -13,7 +13,7 @@ public class UpdatePhoto : IHttpHandler, System.Web.SessionState.IRequiresSessio
     Book book = null;
     Member member = null;
     int bookid;
-    string returnurl = "~/mylibrary";
+    string returnurl = "~/mylibrary.aspx";
     public void ProcessRequest(HttpContext context)
     {
         context.Response.ContentType = "text/plain";
@@ -30,7 +30,7 @@ public class UpdatePhoto : IHttpHandler, System.Web.SessionState.IRequiresSessio
                 book = LibaryManager.GetBook(bookid);
         }
         else
-            context.Response.Redirect("~/mylibrary");
+            context.Response.Redirect("~/mylibrary.aspx");
 
         if (context.Request.IsAuthenticated)
         {

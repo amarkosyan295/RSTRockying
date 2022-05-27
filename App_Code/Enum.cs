@@ -1,5 +1,10 @@
 ﻿namespace Rockying.Models
 {
+    public enum BookReviewEmotionType
+    {
+        Like =1,
+        Dislike = 2
+    }
     public enum SearchItemType
     {
         Story = 1,

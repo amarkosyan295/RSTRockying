@@ -11,7 +11,7 @@ public class UpdateReadingProgress : IHttpHandler, System.Web.SessionState.IRequ
     Book book = null;
     Member member = null;
     int bookid;
-    string returnurl = "~/mylibrary";
+    string returnurl = "~/mylibrary.aspx";
     public void ProcessRequest(HttpContext context)
     {
         context.Response.ContentType = "text/plain";
@@ -27,7 +27,7 @@ public class UpdateReadingProgress : IHttpHandler, System.Web.SessionState.IRequ
                 book = LibaryManager.GetBook(bookid);
         }
         else
-            context.Response.Redirect("~/mylibrary");
+            context.Response.Redirect("~/mylibrary.aspx");
 
         if (context.Request.IsAuthenticated)
         {
@@ -36,7 +36,7 @@ public class UpdateReadingProgress : IHttpHandler, System.Web.SessionState.IRequ
             context.Response.Redirect(returnurl);
         }
         else
-            context.Response.Redirect("~/account/login?returnurl=~/book/" + Utility.Slugify(book.Title) + "-" + book.ID);
+            context.Response.Redirect("~/account/login?returnurl=~/book/" + Utility.Slugify(book.Title, "book") + "-" + book.ID);
     }
 
     public bool IsReusable

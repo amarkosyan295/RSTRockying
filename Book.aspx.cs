@@ -17,6 +17,9 @@ public partial class RockyingBook : BasePage
     public List<MemberBook> Reviews { get; set; }
     private int bookid;
     public int percentread;
+    public int LikeCount;
+    public int DislikeCount;
+    public BookReviewEmotionType Emotion;
     public MemberBook MemberBook { get; set; }
     protected void Page_Load(object sender, EventArgs e)
     {
@@ -29,6 +32,8 @@ public partial class RockyingBook : BasePage
 
                 if (CurrentBook != null)
                 {
+                    LikeCount = dc.MemberBooks.Count(t => t.BookID == bookid && t.Emotion == (byte)BookReviewEmotionType.Like);
+                    DislikeCount = dc.MemberBooks.Count(t => t.BookID == bookid && t.Emotion == (byte)BookReviewEmotionType.Dislike);
                     if (CurrentBook.CoverPage.ToLower().StartsWith("http://books.google.com"))
                     {
                         string ph = SaveImage(CurrentBook.CoverPage);
@@ -42,10 +47,15 @@ public partial class RockyingBook : BasePage
                     if (CurrentUser != null)
                     {
                         MemberBook = dc.MemberBooks.FirstOrDefault(t => t.BookID == bookid && t.MemberID == CurrentUser.ID);
-                        if (MemberBook != null && MemberBook.ReadStatus == (byte)ReadStatusType.Reading)
+                        if (MemberBook != null)
                         {
-                            MemberBook.CurrentPage = MemberBook.CurrentPage == null ? 0 : MemberBook.CurrentPage;
-                            percentread = (int)(0.5f + ((100f * MemberBook.CurrentPage) / CurrentBook.PageCount));
+                            Enum.TryParse<BookReviewEmotionType>(MemberBook.Emotion.ToString(), out Emotion);
+
+                            if (MemberBook.ReadStatus == (byte)ReadStatusType.Reading)
+                            {
+                                MemberBook.CurrentPage = MemberBook.CurrentPage == null ? 0 : MemberBook.CurrentPage;
+                                percentread = (int)(0.5f + ((100f * MemberBook.CurrentPage) / CurrentBook.PageCount));
+                            }
                         }
                     }
                 }
@@ -125,24 +135,6 @@ public partial class RockyingBook : BasePage
         }
     }
 
-    protected void ReadStatusBtn_Click(object sender, EventArgs e)
-    {
-        SaveBookToLibrary(ReadStatusType.Read);
-        Response.Redirect("~/book/" + Utility.Slugify(CurrentBook.Title) + "-" + CurrentBook.ID);
-    }
-
-    protected void ReadingStatusBtn_Click(object sender, EventArgs e)
-    {
-        SaveBookToLibrary(ReadStatusType.Reading);
-        Response.Redirect("~/book/" + Utility.Slugify(CurrentBook.Title) + "-" + CurrentBook.ID);
-    }
-
-    protected void WantReadBtn_Click(object sender, EventArgs e)
-    {
-        SaveBookToLibrary(ReadStatusType.WanttoRead);
-        Response.Redirect("~/book/" + Utility.Slugify(CurrentBook.Title) + "-" + CurrentBook.ID);
-    }
-
     protected void SaveReviewButton_Click(object sender, EventArgs e)
     {
         using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
@@ -155,7 +147,7 @@ public partial class RockyingBook : BasePage
                     BookID = bookid,
                     MemberID = CurrentUser.ID,
                     ReadStatus = (byte)ReadStatusType.Read,
-                    Review = ReviewTextBox.Text.Trim(),
+                    Review = ReviewTextBox.Text.Trim().Length > 3000 ? ReviewTextBox.Text.Trim().Substring(0, 2999) : ReviewTextBox.Text.Trim(),
                     Emotion = 0
                 };
                 dc.MemberBooks.InsertOnSubmit(MemberBook);

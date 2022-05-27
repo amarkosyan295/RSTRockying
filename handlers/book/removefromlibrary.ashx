@@ -5,12 +5,12 @@ using System.Web;
 using Rockying;
 using Rockying.Models;
 using System.Linq;
-public class RemoveFromLibrary : IHttpHandler {
+public class RemoveFromLibrary : IHttpHandler, System.Web.SessionState.IRequiresSessionState {
     
         Book book = null;
     Member member = null;
     int bookid;
-    string returnurl = "~/mylibrary";
+    string returnurl = "~/mylibrary.aspx";
     public void ProcessRequest (HttpContext context) {
             context.Response.ContentType = "text/plain";
         if (!context.Request.IsAuthenticated)
@@ -25,7 +25,7 @@ public class RemoveFromLibrary : IHttpHandler {
                 book = LibaryManager.GetBook(bookid);
         }
         else
-            context.Response.Redirect("~/mylibrary");
+            context.Response.Redirect("~/mylibrary.aspx");
 
         if (context.Request.IsAuthenticated)
         {

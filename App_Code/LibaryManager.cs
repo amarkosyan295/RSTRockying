@@ -90,6 +90,49 @@ namespace Rockying.Models
             return false;
         }
 
+        public static void SetEmotion(Book b, Member m, BookReviewEmotionType emotion)
+        {
+            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
+            {
+                MemberBook mb = dc.MemberBooks.FirstOrDefault(t => t.BookID == b.ID && t.MemberID == m.ID);
+                if (mb != null)
+                {
+                    mb.Emotion = (byte)emotion;
+
+                }
+                else
+                {
+                    mb = new MemberBook()
+                    {
+                        BookID = b.ID,
+                        Emotion = (byte)emotion,
+                        MemberID = m.ID,
+                        Photo = b.CoverPage,
+                        Review = string.Empty,
+                        ReadStatus = (byte)ReadStatusType.Read,
+                        TimesRead = 1
+                    };
+                    dc.MemberBooks.InsertOnSubmit(mb);
+                }
+                dc.SubmitChanges();
+            }
+        }
+
+        public static bool PostReview(Book b, Member m, string review)
+        {
+            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
+            {
+                MemberBook mb = dc.MemberBooks.FirstOrDefault(t => t.BookID == b.ID && t.MemberID == m.ID);
+                if (mb != null)
+                {
+                    mb.Review = review.Length > 3000 ? review.Substring(0, 2999) : review;
+                    dc.SubmitChanges();
+                    return true;
+                }
+            }
+            return false;
+        }
+
         public static void SaveSearchHistory(string keywords, int resultcount, Member m = null)
         {
             using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))

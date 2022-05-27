@@ -184,6 +184,10 @@
                 {%>
             <p><%: CurrentBook.PageCount %> Pages</p>
             <%} %>
+            <div class="my-2">
+                <a href="../handlers/book/emotion.ashx?bookid=<%: CurrentBook.ID %>&emotion=1"  class="btn me-4 <%: Emotion == BookReviewEmotionType.Like ? "btn-success" : "btn-outline-success" %>"><%= Emotion == BookReviewEmotionType.Like ? "<i class='bi bi-hand-thumbs-up-fill'></i>&nbsp;Liked" : "<i class='bi bi-hand-thumbs-up'></i>&nbsp;Like" %> <%: LikeCount > 0 ? LikeCount.ToString() : "" %></a>
+                <a href="../handlers/book/emotion.ashx?bookid=<%: CurrentBook.ID %>&emotion=2"  class="btn me-4 <%: Emotion == BookReviewEmotionType.Dislike ? "btn-dark" : "btn-outline-dark" %>"><%= Emotion == BookReviewEmotionType.Dislike ? "<i class='bi bi-hand-thumbs-down-fill'></i>&nbsp;Disliked" : "<i class='bi bi-hand-thumbs-down'></i>&nbsp;Dislike" %> <%: DislikeCount > 0 ? DislikeCount.ToString() : "" %></a>
+            </div>
         </div>
     </div>
     <p class="my-2"><%: CurrentBook.Description %></p>

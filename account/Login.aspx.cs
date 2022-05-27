@@ -26,21 +26,14 @@ public partial class Login : System.Web.UI.Page
                 FormsAuthentication.SetAuthCookie(EmailTextBox.Text.Trim(), RememberCheckBox.Checked);
                 Member m = MemberManager.UpdateLastLogon(EmailTextBox.Text.Trim());
                 if (!string.IsNullOrEmpty(Request.QueryString["returnurl"]))
-                {
                     Response.Redirect(Request.QueryString["returnurl"]);
-                }
+                
                 if (m.UserType == (byte)MemberTypeType.Admin)
-                {
                     Response.Redirect("~/admin/Default.aspx");
-                }
                 else if (m.UserType == (byte)MemberTypeType.Author || m.UserType == (byte)MemberTypeType.Member || m.UserType == (byte)MemberTypeType.Reader)
-                {
                     Response.Redirect("~/mystories.aspx");
-                }
                 else
-                {
                     Response.Redirect("~");
-                }
             }
             else
             {
@@ -60,6 +53,5 @@ public partial class Login : System.Web.UI.Page
             Trace.Write(ex.Message);
             Trace.Write(ex.StackTrace);
         }
-
     }
 }
