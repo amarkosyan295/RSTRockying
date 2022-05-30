@@ -9,7 +9,7 @@
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="MainContent" runat="Server">
     <div class="row row-cols-2 row-cols-md-5 g-4 mt-2 mt-2">
-        <%using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+        <%using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 var list = dc.Posts.Where(t => t.Status == (byte)PostStatusType.Publish).OrderByDescending(t => t.DateCreated).Take(10);
                 foreach (var p in list)

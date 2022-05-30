@@ -10,6 +10,8 @@ namespace Rockying.Models
 {
     public class Utility
     {
+
+        public static string PreserveCookie = "rockyingpreserve";
         public static string ContactEmail
         {
             get

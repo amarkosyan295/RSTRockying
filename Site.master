@@ -64,8 +64,6 @@
         <a href="https://www.rockying.com" class="text-dark" style="font-size: 2.5rem; font-weight: bold; text-decoration: none; font-family: Merriweather, 'Open Sans', sans-serif;"><%: Utility.SiteName %></a>
     </div>
     <div class="my-md-2 my-1 text-center">
-        <%--<a class="btn btn-light text-dark" href="~/Thriller/index" runat="server">Thriller</a>
-                    <a class="btn btn-light text-dark" href="~/Horror/index" runat="server">Horror</a>--%>
         <a class="text-decoration-none mx-1 mx-md-2 text-dark" href="~/popular-books" runat="server">Books</a>
         <a class="text-decoration-none mx-1 mx-md-2 text-dark" href="~/popular-stories" runat="server">Stories</a>
         <%if (!Request.IsAuthenticated)
@@ -82,7 +80,6 @@
                 <%= CurrentUser.MemberName %>
             </a>
             <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-
                 <li><a class="dropdown-item" runat="server" href="~/account/myaccount">My Account</a></li>
                 <li><a class="dropdown-item" runat="server" href="~/logout">Log out</a></li>
             </ul>
@@ -105,11 +102,6 @@
         <p class="text-center">
             <a href="//www.facebook.com/rockyingmag">
                 <img alt="Facebook" src="//www.rockying.com/bootstrap/img/icons/social_facebook_box_white_32.png" /></a>
-            <!--<a href="//www.twitter.com/rockyingmag" target="_blank">
-                            <img alt="twitter" src="//www.rockying.com/bootstrap/img/icons/social_twitter_box_white_32.png" /></a>
-
-            <a href="//www.rockying.com/rss">
-                <img alt="twitter" src="//www.rockying.com/bootstrap/img/icons/social_rss_box_white_32.png" /></a>-->
         </p>
         <p>
             <strong>© Rudra Softtech™ LLP, Owner of <%: Utility.SiteName %></strong>
@@ -120,7 +112,7 @@
         var vt_root = "//rudrasofttech.com/vtracker/";
         var vt_website_id = "1";
         var vt_wvri = "";
-        var VTInit = /** @class */ (function () {
+        var VTInit = (function () {
             function VTInit() {
             }
             VTInit.prototype.initialize = function () {
@@ -136,7 +128,6 @@
         _vtInit.initialize();
     </script>
     <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b07a3c59abc8fd5"></script>
-    <script type="text/javascript" src="//<%: Request.Url.Host %>/handlers/routine.ashx"></script>
     <%--<script type="text/javascript">
         //visit object
         var visit = {

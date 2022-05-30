@@ -58,19 +58,13 @@ namespace Rockying
     partial void InsertBook(Rockying.Models.Book instance);
     partial void UpdateBook(Rockying.Models.Book instance);
     partial void DeleteBook(Rockying.Models.Book instance);
-    partial void InsertMemberBook(Rockying.Models.MemberBook instance);
-    partial void UpdateMemberBook(Rockying.Models.MemberBook instance);
-    partial void DeleteMemberBook(Rockying.Models.MemberBook instance);
     partial void InsertSearchHistory(Rockying.Models.SearchHistory instance);
     partial void UpdateSearchHistory(Rockying.Models.SearchHistory instance);
     partial void DeleteSearchHistory(Rockying.Models.SearchHistory instance);
+    partial void InsertMemberBook(Rockying.Models.MemberBook instance);
+    partial void UpdateMemberBook(Rockying.Models.MemberBook instance);
+    partial void DeleteMemberBook(Rockying.Models.MemberBook instance);
     #endregion
-		
-		public RockyingDataClassesDataContext() : 
-				base(global::System.Configuration.ConfigurationManager.ConnectionStrings["RockyingConnectionString"].ConnectionString, mappingSource)
-		{
-			OnCreated();
-		}
 		
 		public RockyingDataClassesDataContext(string connection) : 
 				base(connection, mappingSource)
@@ -184,19 +178,19 @@ namespace Rockying
 			}
 		}
 		
-		public System.Data.Linq.Table<Rockying.Models.MemberBook> MemberBooks
-		{
-			get
-			{
-				return this.GetTable<Rockying.Models.MemberBook>();
-			}
-		}
-		
 		public System.Data.Linq.Table<Rockying.Models.SearchHistory> SearchHistories
 		{
 			get
 			{
 				return this.GetTable<Rockying.Models.SearchHistory>();
+			}
+		}
+		
+		public System.Data.Linq.Table<Rockying.Models.MemberBook> MemberBooks
+		{
+			get
+			{
+				return this.GetTable<Rockying.Models.MemberBook>();
 			}
 		}
 	}
@@ -1890,9 +1884,9 @@ namespace Rockying.Models
 		
 		private EntitySet<Post> _Posts1;
 		
-		private EntitySet<MemberBook> _MemberBooks;
-		
 		private EntitySet<SearchHistory> _SearchHistories;
+		
+		private EntitySet<MemberBook> _MemberBooks;
 		
 		private EntityRef<Member> _Member1;
 		
@@ -1960,8 +1954,8 @@ namespace Rockying.Models
 			this._CustomDataSources1 = new EntitySet<CustomDataSource>(new Action<CustomDataSource>(this.attach_CustomDataSources1), new Action<CustomDataSource>(this.detach_CustomDataSources1));
 			this._Posts = new EntitySet<Post>(new Action<Post>(this.attach_Posts), new Action<Post>(this.detach_Posts));
 			this._Posts1 = new EntitySet<Post>(new Action<Post>(this.attach_Posts1), new Action<Post>(this.detach_Posts1));
-			this._MemberBooks = new EntitySet<MemberBook>(new Action<MemberBook>(this.attach_MemberBooks), new Action<MemberBook>(this.detach_MemberBooks));
 			this._SearchHistories = new EntitySet<SearchHistory>(new Action<SearchHistory>(this.attach_SearchHistories), new Action<SearchHistory>(this.detach_SearchHistories));
+			this._MemberBooks = new EntitySet<MemberBook>(new Action<MemberBook>(this.attach_MemberBooks), new Action<MemberBook>(this.detach_MemberBooks));
 			this._Member1 = default(EntityRef<Member>);
 			OnCreated();
 		}
@@ -2560,19 +2554,6 @@ namespace Rockying.Models
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Member_MemberBook", Storage="_MemberBooks", ThisKey="ID", OtherKey="MemberID")]
-		public EntitySet<MemberBook> MemberBooks
-		{
-			get
-			{
-				return this._MemberBooks;
-			}
-			set
-			{
-				this._MemberBooks.Assign(value);
-			}
-		}
-		
 		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Member_SearchHistory", Storage="_SearchHistories", ThisKey="ID", OtherKey="MemberID")]
 		public EntitySet<SearchHistory> SearchHistories
 		{
@@ -2583,6 +2564,19 @@ namespace Rockying.Models
 			set
 			{
 				this._SearchHistories.Assign(value);
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Member_MemberBook1", Storage="_MemberBooks", ThisKey="ID", OtherKey="MemberID")]
+		public EntitySet<MemberBook> MemberBooks
+		{
+			get
+			{
+				return this._MemberBooks;
+			}
+			set
+			{
+				this._MemberBooks.Assign(value);
 			}
 		}
 		
@@ -2760,18 +2754,6 @@ namespace Rockying.Models
 			entity.Member1 = null;
 		}
 		
-		private void attach_MemberBooks(MemberBook entity)
-		{
-			this.SendPropertyChanging();
-			entity.Member = this;
-		}
-		
-		private void detach_MemberBooks(MemberBook entity)
-		{
-			this.SendPropertyChanging();
-			entity.Member = null;
-		}
-		
 		private void attach_SearchHistories(SearchHistory entity)
 		{
 			this.SendPropertyChanging();
@@ -2779,6 +2761,18 @@ namespace Rockying.Models
 		}
 		
 		private void detach_SearchHistories(SearchHistory entity)
+		{
+			this.SendPropertyChanging();
+			entity.Member = null;
+		}
+		
+		private void attach_MemberBooks(MemberBook entity)
+		{
+			this.SendPropertyChanging();
+			entity.Member = this;
+		}
+		
+		private void detach_MemberBooks(MemberBook entity)
 		{
 			this.SendPropertyChanging();
 			entity.Member = null;
@@ -4329,7 +4323,7 @@ namespace Rockying.Models
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Book_MemberBook", Storage="_MemberBooks", ThisKey="ID", OtherKey="BookID")]
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Book_MemberBook1", Storage="_MemberBooks", ThisKey="ID", OtherKey="BookID")]
 		public EntitySet<MemberBook> MemberBooks
 		{
 			get
@@ -4492,6 +4486,229 @@ namespace Rockying.Models
 		}
 	}
 	
+	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.SearchHistory")]
+	public partial class SearchHistory : INotifyPropertyChanging, INotifyPropertyChanged
+	{
+		
+		private static PropertyChangingEventArgs emptyChangingEventArgs = new PropertyChangingEventArgs(String.Empty);
+		
+		private long _ID;
+		
+		private int _SearchType;
+		
+		private string _Keywords;
+		
+		private System.DateTime _SearchDate;
+		
+		private int _ResultCount;
+		
+		private System.Nullable<long> _MemberID;
+		
+		private EntityRef<Member> _Member;
+		
+    #region Extensibility Method Definitions
+    partial void OnLoaded();
+    partial void OnValidate(System.Data.Linq.ChangeAction action);
+    partial void OnCreated();
+    partial void OnIDChanging(long value);
+    partial void OnIDChanged();
+    partial void OnSearchTypeChanging(int value);
+    partial void OnSearchTypeChanged();
+    partial void OnKeywordsChanging(string value);
+    partial void OnKeywordsChanged();
+    partial void OnSearchDateChanging(System.DateTime value);
+    partial void OnSearchDateChanged();
+    partial void OnResultCountChanging(int value);
+    partial void OnResultCountChanged();
+    partial void OnMemberIDChanging(System.Nullable<long> value);
+    partial void OnMemberIDChanged();
+    #endregion
+		
+		public SearchHistory()
+		{
+			this._Member = default(EntityRef<Member>);
+			OnCreated();
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ID", AutoSync=AutoSync.OnInsert, DbType="BigInt NOT NULL IDENTITY", IsPrimaryKey=true, IsDbGenerated=true)]
+		public long ID
+		{
+			get
+			{
+				return this._ID;
+			}
+			set
+			{
+				if ((this._ID != value))
+				{
+					this.OnIDChanging(value);
+					this.SendPropertyChanging();
+					this._ID = value;
+					this.SendPropertyChanged("ID");
+					this.OnIDChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_SearchType", DbType="Int NOT NULL")]
+		public int SearchType
+		{
+			get
+			{
+				return this._SearchType;
+			}
+			set
+			{
+				if ((this._SearchType != value))
+				{
+					this.OnSearchTypeChanging(value);
+					this.SendPropertyChanging();
+					this._SearchType = value;
+					this.SendPropertyChanged("SearchType");
+					this.OnSearchTypeChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Keywords", DbType="NVarChar(1000) NOT NULL", CanBeNull=false)]
+		public string Keywords
+		{
+			get
+			{
+				return this._Keywords;
+			}
+			set
+			{
+				if ((this._Keywords != value))
+				{
+					this.OnKeywordsChanging(value);
+					this.SendPropertyChanging();
+					this._Keywords = value;
+					this.SendPropertyChanged("Keywords");
+					this.OnKeywordsChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_SearchDate", DbType="DateTime NOT NULL")]
+		public System.DateTime SearchDate
+		{
+			get
+			{
+				return this._SearchDate;
+			}
+			set
+			{
+				if ((this._SearchDate != value))
+				{
+					this.OnSearchDateChanging(value);
+					this.SendPropertyChanging();
+					this._SearchDate = value;
+					this.SendPropertyChanged("SearchDate");
+					this.OnSearchDateChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ResultCount", DbType="Int NOT NULL")]
+		public int ResultCount
+		{
+			get
+			{
+				return this._ResultCount;
+			}
+			set
+			{
+				if ((this._ResultCount != value))
+				{
+					this.OnResultCountChanging(value);
+					this.SendPropertyChanging();
+					this._ResultCount = value;
+					this.SendPropertyChanged("ResultCount");
+					this.OnResultCountChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_MemberID", DbType="BigInt")]
+		public System.Nullable<long> MemberID
+		{
+			get
+			{
+				return this._MemberID;
+			}
+			set
+			{
+				if ((this._MemberID != value))
+				{
+					if (this._Member.HasLoadedOrAssignedValue)
+					{
+						throw new System.Data.Linq.ForeignKeyReferenceAlreadyHasValueException();
+					}
+					this.OnMemberIDChanging(value);
+					this.SendPropertyChanging();
+					this._MemberID = value;
+					this.SendPropertyChanged("MemberID");
+					this.OnMemberIDChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Member_SearchHistory", Storage="_Member", ThisKey="MemberID", OtherKey="ID", IsForeignKey=true)]
+		public Member Member
+		{
+			get
+			{
+				return this._Member.Entity;
+			}
+			set
+			{
+				Member previousValue = this._Member.Entity;
+				if (((previousValue != value) 
+							|| (this._Member.HasLoadedOrAssignedValue == false)))
+				{
+					this.SendPropertyChanging();
+					if ((previousValue != null))
+					{
+						this._Member.Entity = null;
+						previousValue.SearchHistories.Remove(this);
+					}
+					this._Member.Entity = value;
+					if ((value != null))
+					{
+						value.SearchHistories.Add(this);
+						this._MemberID = value.ID;
+					}
+					else
+					{
+						this._MemberID = default(Nullable<long>);
+					}
+					this.SendPropertyChanged("Member");
+				}
+			}
+		}
+		
+		public event PropertyChangingEventHandler PropertyChanging;
+		
+		public event PropertyChangedEventHandler PropertyChanged;
+		
+		protected virtual void SendPropertyChanging()
+		{
+			if ((this.PropertyChanging != null))
+			{
+				this.PropertyChanging(this, emptyChangingEventArgs);
+			}
+		}
+		
+		protected virtual void SendPropertyChanged(String propertyName)
+		{
+			if ((this.PropertyChanged != null))
+			{
+				this.PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
+			}
+		}
+	}
+	
 	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.MemberBook")]
 	public partial class MemberBook : INotifyPropertyChanging, INotifyPropertyChanged
 	{
@@ -4517,6 +4734,8 @@ namespace Rockying.Models
 		private System.Nullable<int> _TimesRead;
 		
 		private string _Photo;
+		
+		private System.Nullable<System.DateTime> _ReadingCompleteDate;
 		
 		private EntityRef<Book> _Book;
 		
@@ -4546,6 +4765,8 @@ namespace Rockying.Models
     partial void OnTimesReadChanged();
     partial void OnPhotoChanging(string value);
     partial void OnPhotoChanged();
+    partial void OnReadingCompleteDateChanging(System.Nullable<System.DateTime> value);
+    partial void OnReadingCompleteDateChanged();
     #endregion
 		
 		public MemberBook()
@@ -4763,7 +4984,27 @@ namespace Rockying.Models
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Book_MemberBook", Storage="_Book", ThisKey="BookID", OtherKey="ID", IsForeignKey=true)]
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ReadingCompleteDate", DbType="DateTime")]
+		public System.Nullable<System.DateTime> ReadingCompleteDate
+		{
+			get
+			{
+				return this._ReadingCompleteDate;
+			}
+			set
+			{
+				if ((this._ReadingCompleteDate != value))
+				{
+					this.OnReadingCompleteDateChanging(value);
+					this.SendPropertyChanging();
+					this._ReadingCompleteDate = value;
+					this.SendPropertyChanged("ReadingCompleteDate");
+					this.OnReadingCompleteDateChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Book_MemberBook1", Storage="_Book", ThisKey="BookID", OtherKey="ID", IsForeignKey=true)]
 		public Book Book
 		{
 			get
@@ -4797,7 +5038,7 @@ namespace Rockying.Models
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Member_MemberBook", Storage="_Member", ThisKey="MemberID", OtherKey="ID", IsForeignKey=true)]
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Member_MemberBook1", Storage="_Member", ThisKey="MemberID", OtherKey="ID", IsForeignKey=true)]
 		public Member Member
 		{
 			get
@@ -4825,229 +5066,6 @@ namespace Rockying.Models
 					else
 					{
 						this._MemberID = default(long);
-					}
-					this.SendPropertyChanged("Member");
-				}
-			}
-		}
-		
-		public event PropertyChangingEventHandler PropertyChanging;
-		
-		public event PropertyChangedEventHandler PropertyChanged;
-		
-		protected virtual void SendPropertyChanging()
-		{
-			if ((this.PropertyChanging != null))
-			{
-				this.PropertyChanging(this, emptyChangingEventArgs);
-			}
-		}
-		
-		protected virtual void SendPropertyChanged(String propertyName)
-		{
-			if ((this.PropertyChanged != null))
-			{
-				this.PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
-			}
-		}
-	}
-	
-	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.SearchHistory")]
-	public partial class SearchHistory : INotifyPropertyChanging, INotifyPropertyChanged
-	{
-		
-		private static PropertyChangingEventArgs emptyChangingEventArgs = new PropertyChangingEventArgs(String.Empty);
-		
-		private long _ID;
-		
-		private int _SearchType;
-		
-		private string _Keywords;
-		
-		private System.DateTime _SearchDate;
-		
-		private int _ResultCount;
-		
-		private System.Nullable<long> _MemberID;
-		
-		private EntityRef<Member> _Member;
-		
-    #region Extensibility Method Definitions
-    partial void OnLoaded();
-    partial void OnValidate(System.Data.Linq.ChangeAction action);
-    partial void OnCreated();
-    partial void OnIDChanging(long value);
-    partial void OnIDChanged();
-    partial void OnSearchTypeChanging(int value);
-    partial void OnSearchTypeChanged();
-    partial void OnKeywordsChanging(string value);
-    partial void OnKeywordsChanged();
-    partial void OnSearchDateChanging(System.DateTime value);
-    partial void OnSearchDateChanged();
-    partial void OnResultCountChanging(int value);
-    partial void OnResultCountChanged();
-    partial void OnMemberIDChanging(System.Nullable<long> value);
-    partial void OnMemberIDChanged();
-    #endregion
-		
-		public SearchHistory()
-		{
-			this._Member = default(EntityRef<Member>);
-			OnCreated();
-		}
-		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ID", AutoSync=AutoSync.OnInsert, DbType="BigInt NOT NULL IDENTITY", IsPrimaryKey=true, IsDbGenerated=true)]
-		public long ID
-		{
-			get
-			{
-				return this._ID;
-			}
-			set
-			{
-				if ((this._ID != value))
-				{
-					this.OnIDChanging(value);
-					this.SendPropertyChanging();
-					this._ID = value;
-					this.SendPropertyChanged("ID");
-					this.OnIDChanged();
-				}
-			}
-		}
-		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_SearchType", DbType="Int NOT NULL")]
-		public int SearchType
-		{
-			get
-			{
-				return this._SearchType;
-			}
-			set
-			{
-				if ((this._SearchType != value))
-				{
-					this.OnSearchTypeChanging(value);
-					this.SendPropertyChanging();
-					this._SearchType = value;
-					this.SendPropertyChanged("SearchType");
-					this.OnSearchTypeChanged();
-				}
-			}
-		}
-		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Keywords", DbType="NVarChar(1000) NOT NULL", CanBeNull=false)]
-		public string Keywords
-		{
-			get
-			{
-				return this._Keywords;
-			}
-			set
-			{
-				if ((this._Keywords != value))
-				{
-					this.OnKeywordsChanging(value);
-					this.SendPropertyChanging();
-					this._Keywords = value;
-					this.SendPropertyChanged("Keywords");
-					this.OnKeywordsChanged();
-				}
-			}
-		}
-		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_SearchDate", DbType="DateTime NOT NULL")]
-		public System.DateTime SearchDate
-		{
-			get
-			{
-				return this._SearchDate;
-			}
-			set
-			{
-				if ((this._SearchDate != value))
-				{
-					this.OnSearchDateChanging(value);
-					this.SendPropertyChanging();
-					this._SearchDate = value;
-					this.SendPropertyChanged("SearchDate");
-					this.OnSearchDateChanged();
-				}
-			}
-		}
-		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ResultCount", DbType="Int NOT NULL")]
-		public int ResultCount
-		{
-			get
-			{
-				return this._ResultCount;
-			}
-			set
-			{
-				if ((this._ResultCount != value))
-				{
-					this.OnResultCountChanging(value);
-					this.SendPropertyChanging();
-					this._ResultCount = value;
-					this.SendPropertyChanged("ResultCount");
-					this.OnResultCountChanged();
-				}
-			}
-		}
-		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_MemberID", DbType="BigInt")]
-		public System.Nullable<long> MemberID
-		{
-			get
-			{
-				return this._MemberID;
-			}
-			set
-			{
-				if ((this._MemberID != value))
-				{
-					if (this._Member.HasLoadedOrAssignedValue)
-					{
-						throw new System.Data.Linq.ForeignKeyReferenceAlreadyHasValueException();
-					}
-					this.OnMemberIDChanging(value);
-					this.SendPropertyChanging();
-					this._MemberID = value;
-					this.SendPropertyChanged("MemberID");
-					this.OnMemberIDChanged();
-				}
-			}
-		}
-		
-		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Member_SearchHistory", Storage="_Member", ThisKey="MemberID", OtherKey="ID", IsForeignKey=true)]
-		public Member Member
-		{
-			get
-			{
-				return this._Member.Entity;
-			}
-			set
-			{
-				Member previousValue = this._Member.Entity;
-				if (((previousValue != value) 
-							|| (this._Member.HasLoadedOrAssignedValue == false)))
-				{
-					this.SendPropertyChanging();
-					if ((previousValue != null))
-					{
-						this._Member.Entity = null;
-						previousValue.SearchHistories.Remove(this);
-					}
-					this._Member.Entity = value;
-					if ((value != null))
-					{
-						value.SearchHistories.Add(this);
-						this._MemberID = value.ID;
-					}
-					else
-					{
-						this._MemberID = default(Nullable<long>);
 					}
 					this.SendPropertyChanged("Member");
 				}

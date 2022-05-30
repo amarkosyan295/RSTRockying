@@ -31,7 +31,7 @@
                         ErrorMessage="Required" SetFocusOnError="True"></asp:RequiredFieldValidator>
                 </div>
                 <div class="form-check mb-2">
-                    <input class="form-check-input" type="checkbox" value="" runat="server" id="RememberCheckBox">
+                    <input class="form-check-input" type="checkbox" value="" checked="checked" runat="server" id="RememberCheckBox">
                     <label class="form-check-label" for="<%: RememberCheckBox.ClientID %>">
                         Remember Me
                     </label>

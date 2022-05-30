@@ -25,6 +25,14 @@ public partial class Login : System.Web.UI.Page
             {
                 FormsAuthentication.SetAuthCookie(EmailTextBox.Text.Trim(), RememberCheckBox.Checked);
                 Member m = MemberManager.UpdateLastLogon(EmailTextBox.Text.Trim());
+
+                if (RememberCheckBox.Checked)
+                {
+                    HttpCookie preserveCookie = new HttpCookie(Utility.PreserveCookie);
+                    preserveCookie.Value = EmailTextBox.Text.Trim();
+                    preserveCookie.Expires = DateTime.Now.AddMonths(3);
+                    Response.SetCookie(preserveCookie);
+                }
                 if (!string.IsNullOrEmpty(Request.QueryString["returnurl"]))
                     Response.Redirect(Request.QueryString["returnurl"]);
                 

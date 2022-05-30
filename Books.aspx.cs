@@ -19,7 +19,7 @@ public partial class Books : BasePage
     }
     protected void Page_Load(object sender, EventArgs e)
     {
-        using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+        using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
         {
             if (CurrentUser != null)
             {

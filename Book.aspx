@@ -89,16 +89,18 @@
                                 <form action="../handlers/book/updateprogress.ashx" id="readingupdatefrm-<%: CurrentBook.ID %>" method="post">
                                     <input type="hidden" name="bookid" value="<%:CurrentBook.ID %>" />
                                     <input type="hidden" name="returnurl" value="~/book/<%: Utility.Slugify(CurrentBook.Title) + "-" + CurrentBook.ID %>" />
-                                    <div class="input-group mb-3">
+                                    <div class="input-group mb-2">
                                         <span class="input-group-text">I have read</span>
                                         <input id="currentpagetext" value="<%: MemberBook.CurrentPage == null ? "0" : MemberBook.CurrentPage.ToString() %>" type="number" class="form-control" name="pagecount" min="0" aria-describedby="basic-addon2" max="<%: CurrentBook.PageCount %>" />
                                         <span class="input-group-text" id="basic-addon2">Pages</span>
                                     </div>
+                                    <div class="text-end">
+                                        <button type="button" class="btn btn-primary" onclick='$("#readingupdatefrm-<%: CurrentBook.ID %>").submit();'>Update Progress</button>
+                                    </div>
                                 </form>
                             </div>
                             <div class="modal-footer">
-                                <button type="button" class="btn btn-primary mx-2" onclick='$("#readingupdatefrm-<%: CurrentBook.ID %>").submit();'>Update</button>
-                                <button type="button" class="btn btn-primary mx-2" onclick='$("#currentpagetext").val("<%: CurrentBook.PageCount %>");$("#readingupdatefrm-<%: CurrentBook.ID %>").submit();'>Book Complete</button>
+                                <span>I you have read the book you can mark it complete as well.</span><button type="button" class="btn btn-secondary mx-2" onclick='$("#currentpagetext").val("<%: CurrentBook.PageCount %>");$("#readingupdatefrm-<%: CurrentBook.ID %>").submit();'>Mark Complete</button>
                             </div>
                         </div>
                     </div>
@@ -185,8 +187,8 @@
             <p><%: CurrentBook.PageCount %> Pages</p>
             <%} %>
             <div class="my-2">
-                <a href="../handlers/book/emotion.ashx?bookid=<%: CurrentBook.ID %>&emotion=1"  class="btn me-4 <%: Emotion == BookReviewEmotionType.Like ? "btn-success" : "btn-outline-success" %>"><%= Emotion == BookReviewEmotionType.Like ? "<i class='bi bi-hand-thumbs-up-fill'></i>&nbsp;Liked" : "<i class='bi bi-hand-thumbs-up'></i>&nbsp;Like" %> <%: LikeCount > 0 ? LikeCount.ToString() : "" %></a>
-                <a href="../handlers/book/emotion.ashx?bookid=<%: CurrentBook.ID %>&emotion=2"  class="btn me-4 <%: Emotion == BookReviewEmotionType.Dislike ? "btn-dark" : "btn-outline-dark" %>"><%= Emotion == BookReviewEmotionType.Dislike ? "<i class='bi bi-hand-thumbs-down-fill'></i>&nbsp;Disliked" : "<i class='bi bi-hand-thumbs-down'></i>&nbsp;Dislike" %> <%: DislikeCount > 0 ? DislikeCount.ToString() : "" %></a>
+                <a href="../handlers/book/emotion.ashx?bookid=<%: CurrentBook.ID %>&emotion=1" class="btn me-4 <%: Emotion == BookReviewEmotionType.Like ? "btn-success" : "btn-outline-success" %>"><%= Emotion == BookReviewEmotionType.Like ? "<i class='bi bi-hand-thumbs-up-fill'></i>&nbsp;Liked" : "<i class='bi bi-hand-thumbs-up'></i>&nbsp;Like" %> <%: LikeCount > 0 ? LikeCount.ToString() : "" %></a>
+                <a href="../handlers/book/emotion.ashx?bookid=<%: CurrentBook.ID %>&emotion=2" class="btn me-4 <%: Emotion == BookReviewEmotionType.Dislike ? "btn-dark" : "btn-outline-dark" %>"><%= Emotion == BookReviewEmotionType.Dislike ? "<i class='bi bi-hand-thumbs-down-fill'></i>&nbsp;Disliked" : "<i class='bi bi-hand-thumbs-down'></i>&nbsp;Dislike" %> <%: DislikeCount > 0 ? DislikeCount.ToString() : "" %></a>
             </div>
         </div>
     </div>

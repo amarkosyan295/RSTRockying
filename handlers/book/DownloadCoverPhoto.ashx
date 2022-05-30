@@ -7,6 +7,7 @@ using System.Linq;
 using System.Net;
 using System.IO;
 using System.Text;
+using Rockying.Models;
 
 public class DownloadCoverPhoto : IHttpHandler
 {
@@ -15,7 +16,7 @@ public class DownloadCoverPhoto : IHttpHandler
     {
         StringBuilder builder = new StringBuilder();
         context.Response.ContentType = "text/plain";
-        using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+        using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
         {
             foreach (var b in dc.Books.Where(t => t.CoverPage.StartsWith("http://books.google.com")).Take(1))
             {
@@ -26,7 +27,7 @@ public class DownloadCoverPhoto : IHttpHandler
 
                 string img = SaveImage(b.CoverPage);
                 if (!string.IsNullOrEmpty(img))
-                    b.CoverPage ="data:image/png;base64," + img;
+                    b.CoverPage = "data:image/png;base64," + img;
             }
             dc.SubmitChanges();
         }

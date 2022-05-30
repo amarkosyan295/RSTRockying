@@ -44,9 +44,7 @@ namespace Rockying.Models
                             TimesRead = 0
                         };
                         if (rs == ReadStatusType.Reading)
-                        {
                             mb.ReadingStartDate = DateTime.Now;
-                        }
                         dc.MemberBooks.InsertOnSubmit(mb);
                     }
                     else
@@ -78,8 +76,7 @@ namespace Rockying.Models
                     {
                         mb.ReadStatus = (byte)ReadStatusType.Read;
                         mb.TimesRead += 1;
-                        mb.CurrentPage = 0;
-                        mb.ReadingStartDate = null;
+                        mb.ReadingCompleteDate = DateTime.Now;
                     }
                     else
                         mb.CurrentPage = pagecount;
@@ -96,10 +93,7 @@ namespace Rockying.Models
             {
                 MemberBook mb = dc.MemberBooks.FirstOrDefault(t => t.BookID == b.ID && t.MemberID == m.ID);
                 if (mb != null)
-                {
                     mb.Emotion = (byte)emotion;
-
-                }
                 else
                 {
                     mb = new MemberBook()

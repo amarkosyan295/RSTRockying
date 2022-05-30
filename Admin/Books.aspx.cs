@@ -5,6 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using Rockying;
+using Rockying.Models;
 
 public partial class Admin_Books : AdminPage
 {
@@ -16,7 +17,7 @@ public partial class Admin_Books : AdminPage
 
     private void BindBooks(int pageindex)
     {
-        using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+        using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
         {
             var query = from t in dc.Books
                         where (KeywordTextBox.Text == "" || (t.Title.Contains(KeywordTextBox.Text.Trim()) || t.Author.Contains(KeywordTextBox.Text.Trim()) || t.ISBN13.Contains(KeywordTextBox.Text.Trim()) || t.ISBN10.Contains(KeywordTextBox.Text.Trim()) || t.Identifiers.Contains(KeywordTextBox.Text.Trim())))
@@ -39,7 +40,7 @@ public partial class Admin_Books : AdminPage
     {
         if (e.CommandName == "Remove")
         {
-            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext())
+            using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
             {
                 long bid = long.Parse(e.CommandArgument.ToString());
                 dc.MemberBooks.DeleteAllOnSubmit(dc.MemberBooks.Where(t => t.BookID == bid));

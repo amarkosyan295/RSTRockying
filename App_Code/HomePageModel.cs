@@ -9,12 +9,15 @@ namespace Rockying.Models
     {
         public List<Article> HeroList { get; set; }
         public List<Article> LatestList { get; set; }
+
+        public List<Book> PopularBooks { get; set; }
         
 
         public HomePageModel()
         {
             HeroList = new List<Article>();
             LatestList = new List<Article>();
+            PopularBooks = new List<Book>();
         }
     }
 }
