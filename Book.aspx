@@ -329,8 +329,6 @@
             context.fillText("<%: DateTime.Now.Year + " Goal"%>", textstart + 5, 200);
             context.font = '14px Arial';
             context.fillText($("#yeargoaltxt").val(), textstart + 5, 220);
-
-
         }
 
         function generateWithT2() {
@@ -374,11 +372,6 @@
             context.fillStyle = '#495057';
             context.fillRect(10 + progress, txtHeight + 80, (canvas.width - 20) - progress, 10);
 
-            //var readstartdate = new Date($("#startdatetxt").val());
-
-            //var today = new Date();
-            //calculate time difference
-            //var time_difference = today.getTime() - readstartdate.getTime();
             //calculate days difference by dividing total milliseconds in a day
             var days_difference = parseInt("<%: (MemberBook != null && MemberBook.ReadingStartDate.HasValue) ? DateTime.Now.Subtract(MemberBook.ReadingStartDate.Value).TotalDays : 0 %>", 10) //time_difference / (1000 * 60 * 60 * 24);
 

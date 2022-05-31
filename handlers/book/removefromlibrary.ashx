@@ -1,11 +1,9 @@
-﻿<%@ WebHandler Language="C#" Class="RemoveFromLibrary" %>
+﻿<%@ WebHandler Language="C#" Class="RemoveFromLibraryHandler" %>
 
-using System;
 using System.Web;
-using Rockying;
 using Rockying.Models;
-using System.Linq;
-public class RemoveFromLibrary : IHttpHandler, System.Web.SessionState.IRequiresSessionState {
+
+public class RemoveFromLibraryHandler : IHttpHandler, System.Web.SessionState.IRequiresSessionState {
     
         Book book = null;
     Member member = null;

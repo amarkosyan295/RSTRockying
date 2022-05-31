@@ -8,7 +8,6 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="TopContent" runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="HeadContent" runat="Server">
-    
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="MainContent" runat="Server">
     <%
@@ -29,20 +28,22 @@
             </form>
         </div>
     </div>
-    <div class="row row-cols-2 row-cols-md-5 g-4 mt-2">
+    <div class="my-1 text-center py-1 border">
+        <button type="button" class="btn btn-sm btn-dark" data-bs-toggle="modal" data-bs-target="#shareLibraryModal">Share Library Picture</button>
+    </div>
+    <div class="row row-cols-2 row-cols-md-5 g-4 my-2">
         <%
             using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
-            { %>
-        <%
-            foreach (MemberBook mb in dc.MemberBooks.Where(t => t.MemberID == CurrentUser.ID && t.ReadStatus == (byte)ReadStatusType.Reading)
-                .OrderByDescending(t => t.ID))
             {
-                isempty = false;
+                foreach (MemberBook mb in dc.MemberBooks.Where(t => t.MemberID == CurrentUser.ID && t.ReadStatus == (byte)ReadStatusType.Reading)
+                    .OrderByDescending(t => t.ID))
+                {
+                    isempty = false;
         %>
         <div class="col">
             <div class="card h-100 special border-0 bg-transparent">
                 <a href='../book/<%: Utility.Slugify(mb.Book.Title, "book")%>-<%: mb.Book.ID %>' style="text-align: center;">
-                    <img src="<%: mb.Book.CoverPage %>" class="card-img-top" style="width: auto; max-width: 128px;" alt="" /></a>
+                    <img src="<%: mb.Book.CoverPage %>" class="card-img-top bookphoto reading" style="width: auto; max-width: 128px;" alt="" /></a>
                 <div class="card-body">
                     <%
                         var percentread = (int)(0.5f + ((100f * mb.CurrentPage) / mb.Book.PageCount));
@@ -57,22 +58,18 @@
                 </div>
             </div>
         </div>
-        <%} %>
-
-        <%
+        <%}
             foreach (MemberBook mb in dc.MemberBooks.Where(t => t.MemberID == CurrentUser.ID && t.ReadStatus != (byte)ReadStatusType.Reading)
                 .OrderByDescending(t => t.ID))
             {
                 isempty = false;
+                ReadStatusType rst = (ReadStatusType)Enum.Parse(typeof(ReadStatusType), mb.ReadStatus.ToString());
         %>
         <div class="col">
             <div class="card h-100 special border-0 bg-transparent">
                 <a href='../book/<%: Utility.Slugify(mb.Book.Title, "book")%>-<%: mb.Book.ID %>' style="text-align: center;">
-                    <img src="<%: mb.Book.CoverPage %>" class="card-img-top" style="width: auto; max-width: 128px;" alt="" /></a>
+                    <img src="<%: mb.Book.CoverPage %>" class="card-img-top bookphoto <%= (rst == ReadStatusType.Read) ? "read" : "" %>" style="width: auto; max-width: 128px;" alt="" /></a>
                 <div class="card-body">
-                    <%
-                        ReadStatusType rst = (ReadStatusType)Enum.Parse(typeof(ReadStatusType), mb.ReadStatus.ToString());
-                    %>
                     <%if (rst != ReadStatusType.Reading)
                         { %>
                     <div class="dropdown text-center">
@@ -105,8 +102,7 @@
                 </div>
             </div>
         </div>
-        <%} %>
-        <%
+        <%}
             }%>
     </div>
     <%if (isempty)
@@ -114,9 +110,81 @@
     <p class="text-center m-2 my-5">
         You have not added any books to your library, search your favourite books and add them to your library.
     </p>
+    <%}
+        else
+        { %>
+    <div class="modal fade" id="shareLibraryModal" tabindex="-1" aria-labelledby="shareModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body text-center">
+                    <div class="d-none">
+                        <canvas id="librarycanvas" width="428" height="926" style="border: 1px solid #000;"></canvas>
+                    </div>
+                    <img id="libraryimg" src="" alt="" class="img-fluid" />
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" onclick="downloadImage()">Download</button>
+                </div>
+            </div>
+        </div>
+    </div>
     <%} %>
 </asp:Content>
 <asp:Content ID="Content4" ContentPlaceHolderID="BottomContent" runat="Server">
+    <script>
+        const canvas = document.getElementById('librarycanvas');
+        const context = canvas.getContext('2d');
+        function generateLibraryPhoto() {
+            var xOffset = 0, yOffset = 0;
+            var fwidth = 107;
+            $(".bookphoto").each(function (index) {
+                var bkimage = $(".bookphoto")[index];
+                var wrh = bkimage.width / bkimage.height;
+                newWidth = bkimage.width > fwidth ? fwidth : bkimage.width;
+                newHeight = newWidth / wrh;
+                if (newHeight > canvas.height) {
+                    newHeight = canvas.height;
+                    newWidth = newHeight * wrh;
+                }
+                context.drawImage(bkimage, xOffset, yOffset, newWidth, newHeight);
+                if ((index + 1) % 4 == 0) {
+                    yOffset += newHeight;
+                    xOffset = 0;
+                } else {
+                    xOffset += fwidth;
+                }
+
+                var txtHeight = canvas.height - 130;
+                context.globalAlpha = 0.5;
+                context.fillStyle = "#000000";
+                context.fillRect(0, 450, canvas.width, 130);
+                context.globalAlpha = 1;
+
+                context.font = '25px Verdana';
+                context.fillStyle = '#ffffff';
+                context.textAlign = 'center';
+                context.textBaseline = 'middle';
+                context.fillText("I have " + $(".bookphoto").length + " books in my library.", canvas.width / 2, 480);
+                context.font = '20px Verdana';
+                context.fillText("Reading " + $(".bookphoto.reading").length + " at present.", canvas.width / 2, 510);
+                context.fillText("Read " + $(".bookphoto.read").length + " till now.", canvas.width / 2, 540);
+            });
+
+            $("#libraryimg").attr("src", canvas.toDataURL("image/png"));
+        }
+        $(window).load(function () { generateLibraryPhoto(); });
+
+        function downloadImage() {
+            var anchor = document.createElement("a");
+            anchor.href = document.getElementById('canvas').toDataURL("image/png");
+            anchor.download = "mylibrary.png";
+            anchor.click();
+        }
+    </script>
 </asp:Content>
 
 
