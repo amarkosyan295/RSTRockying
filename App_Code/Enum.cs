@@ -1,5 +1,9 @@
 ﻿namespace Rockying.Models
 {
+    public enum NotificationType
+    {
+        NoReadingUpdate = 1
+    }
     public enum BookReviewEmotionType
     {
         Like =1,

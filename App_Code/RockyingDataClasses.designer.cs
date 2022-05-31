@@ -2567,7 +2567,7 @@ namespace Rockying.Models
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Member_MemberBook1", Storage="_MemberBooks", ThisKey="ID", OtherKey="MemberID")]
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Member_MemberBook", Storage="_MemberBooks", ThisKey="ID", OtherKey="MemberID")]
 		public EntitySet<MemberBook> MemberBooks
 		{
 			get
@@ -4323,7 +4323,7 @@ namespace Rockying.Models
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Book_MemberBook1", Storage="_MemberBooks", ThisKey="ID", OtherKey="BookID")]
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Book_MemberBook", Storage="_MemberBooks", ThisKey="ID", OtherKey="BookID")]
 		public EntitySet<MemberBook> MemberBooks
 		{
 			get
@@ -4735,7 +4735,7 @@ namespace Rockying.Models
 		
 		private string _Photo;
 		
-		private System.Nullable<System.DateTime> _ReadingCompleteDate;
+		private System.Nullable<System.DateTime> _ReadingUpdateDate;
 		
 		private EntityRef<Book> _Book;
 		
@@ -4765,8 +4765,8 @@ namespace Rockying.Models
     partial void OnTimesReadChanged();
     partial void OnPhotoChanging(string value);
     partial void OnPhotoChanged();
-    partial void OnReadingCompleteDateChanging(System.Nullable<System.DateTime> value);
-    partial void OnReadingCompleteDateChanged();
+    partial void OnReadingUpdateDateChanging(System.Nullable<System.DateTime> value);
+    partial void OnReadingUpdateDateChanged();
     #endregion
 		
 		public MemberBook()
@@ -4984,27 +4984,27 @@ namespace Rockying.Models
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ReadingCompleteDate", DbType="DateTime")]
-		public System.Nullable<System.DateTime> ReadingCompleteDate
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ReadingUpdateDate", DbType="DateTime")]
+		public System.Nullable<System.DateTime> ReadingUpdateDate
 		{
 			get
 			{
-				return this._ReadingCompleteDate;
+				return this._ReadingUpdateDate;
 			}
 			set
 			{
-				if ((this._ReadingCompleteDate != value))
+				if ((this._ReadingUpdateDate != value))
 				{
-					this.OnReadingCompleteDateChanging(value);
+					this.OnReadingUpdateDateChanging(value);
 					this.SendPropertyChanging();
-					this._ReadingCompleteDate = value;
-					this.SendPropertyChanged("ReadingCompleteDate");
-					this.OnReadingCompleteDateChanged();
+					this._ReadingUpdateDate = value;
+					this.SendPropertyChanged("ReadingUpdateDate");
+					this.OnReadingUpdateDateChanged();
 				}
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Book_MemberBook1", Storage="_Book", ThisKey="BookID", OtherKey="ID", IsForeignKey=true)]
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Book_MemberBook", Storage="_Book", ThisKey="BookID", OtherKey="ID", IsForeignKey=true)]
 		public Book Book
 		{
 			get
@@ -5038,7 +5038,7 @@ namespace Rockying.Models
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Member_MemberBook1", Storage="_Member", ThisKey="MemberID", OtherKey="ID", IsForeignKey=true)]
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Member_MemberBook", Storage="_Member", ThisKey="MemberID", OtherKey="ID", IsForeignKey=true)]
 		public Member Member
 		{
 			get

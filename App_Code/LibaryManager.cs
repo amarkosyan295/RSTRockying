@@ -76,10 +76,14 @@ namespace Rockying.Models
                     {
                         mb.ReadStatus = (byte)ReadStatusType.Read;
                         mb.TimesRead += 1;
-                        mb.ReadingCompleteDate = DateTime.Now;
+                        mb.CurrentPage = b.PageCount;
+                        mb.ReadingUpdateDate = DateTime.Now;
                     }
                     else
+                    {
                         mb.CurrentPage = pagecount;
+                        mb.ReadingUpdateDate = DateTime.Now;
+                    }
                     dc.SubmitChanges();
                     return true;
                 }

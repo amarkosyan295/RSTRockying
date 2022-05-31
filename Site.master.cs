@@ -13,9 +13,9 @@ public partial class SiteMaster : System.Web.UI.MasterPage
     public Member CurrentUser { get; set; }
     //private bool _noTemplate = false;
     //public bool NoTemplate { get { return _noTemplate; } set { _noTemplate = value; } }
-
-    protected void Page_Load(object sender, EventArgs e)
+    protected override void OnInit(EventArgs e)
     {
+        base.OnInit(e);
         if (Request.IsAuthenticated)
             CurrentUser = MemberManager.GetUser(Page.User.Identity.Name);
         else
@@ -27,5 +27,9 @@ public partial class SiteMaster : System.Web.UI.MasterPage
                     FormsAuthentication.SetAuthCookie(m.UserName, true);
             }
         }
+    }
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        
     }
 }

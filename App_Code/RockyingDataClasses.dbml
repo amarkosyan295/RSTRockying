@@ -109,7 +109,7 @@
       <Association Name="Member_Post" Member="Posts" ThisKey="ID" OtherKey="CreatedBy" Type="Post" />
       <Association Name="Member_Post1" Member="Posts1" ThisKey="ID" OtherKey="ModifiedBy" Type="Post" />
       <Association Name="Member_SearchHistory" Member="SearchHistories" ThisKey="ID" OtherKey="MemberID" Type="SearchHistory" />
-      <Association Name="Member_MemberBook1" Member="MemberBooks" ThisKey="ID" OtherKey="MemberID" Type="MemberBook" />
+      <Association Name="Member_MemberBook" Member="MemberBooks" ThisKey="ID" OtherKey="MemberID" Type="MemberBook" />
       <Association Name="Member_Member" Member="Member1" ThisKey="ModifiedBy" OtherKey="ID" Type="Member" IsForeignKey="true" />
     </Type>
   </Table>
@@ -181,7 +181,7 @@
       <Column Name="Categories" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
       <Column Name="GoogleData" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
       <Column Name="Identifiers" Type="System.String" DbType="NVarChar(2000)" CanBeNull="true" />
-      <Association Name="Book_MemberBook1" Member="MemberBooks" ThisKey="ID" OtherKey="BookID" Type="MemberBook" />
+      <Association Name="Book_MemberBook" Member="MemberBooks" ThisKey="ID" OtherKey="BookID" Type="MemberBook" />
     </Type>
   </Table>
   <Table Name="dbo.PopularBookView" Member="PopularBooks">
@@ -217,9 +217,9 @@
       <Column Name="CurrentPage" Type="System.Int32" DbType="Int" CanBeNull="true" />
       <Column Name="TimesRead" Type="System.Int32" DbType="Int" CanBeNull="true" />
       <Column Name="Photo" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
-      <Column Name="ReadingCompleteDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
-      <Association Name="Book_MemberBook1" Member="Book" ThisKey="BookID" OtherKey="ID" Type="Book" IsForeignKey="true" />
-      <Association Name="Member_MemberBook1" Member="Member" ThisKey="MemberID" OtherKey="ID" Type="Member" IsForeignKey="true" />
+      <Column Name="ReadingUpdateDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="Book_MemberBook" Member="Book" ThisKey="BookID" OtherKey="ID" Type="Book" IsForeignKey="true" />
+      <Association Name="Member_MemberBook" Member="Member" ThisKey="MemberID" OtherKey="ID" Type="Member" IsForeignKey="true" />
     </Type>
   </Table>
 </Database>

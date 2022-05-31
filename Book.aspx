@@ -67,7 +67,7 @@
             <div class="p-1 bg-light border my-2">
                 <div class="row my-1">
                     <div class="col">
-                        <button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal" data-bs-target="#readingUpdateModal">Update Progress</button>
+                        <button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal" data-bs-target="#readingUpdateModal" id="updateprogressbtn">Update Progress</button>
                     </div>
                     <div class="col">
                         <button type="button" class="btn btn-secondary btn-sm" data-bs-toggle="modal" data-bs-target="#shareUpdateModal">Share Update</button>
@@ -404,7 +404,13 @@
             //localStorage.setItem("currentlyreading", JSON.stringify(currentlyreading));
         }
 
-        $(document).ready(function () { createImage(); });
+        $(document).ready(function () {
+            var hash = window.location.hash;
+            if (hash === "#<%= Utility.UpdateReadingProgressHash%>") {
+                $("#updateprogressbtn").click();
+            }
+            createImage();
+        });
 
         function downloadImage() {
             var anchor = document.createElement("a");

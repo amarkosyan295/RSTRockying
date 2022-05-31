@@ -12,6 +12,7 @@ namespace Rockying.Models
     {
 
         public static string PreserveCookie = "rockyingpreserve";
+        public static string UpdateReadingProgressHash = "updateprogress";
         public static string ContactEmail
         {
             get

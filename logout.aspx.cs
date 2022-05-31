@@ -12,6 +12,7 @@ public partial class logout : System.Web.UI.Page
     protected void Page_Load(object sender, EventArgs e)
     {
         FormsAuthentication.SignOut();
+        Response.Cookies.Remove(Utility.PreserveCookie);
         Response.Redirect("~");
     }
 }
