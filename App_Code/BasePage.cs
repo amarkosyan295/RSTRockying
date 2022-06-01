@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.Web.Security;
 using Rockying.Models;
 
 namespace Rockying
@@ -20,6 +21,13 @@ namespace Rockying
             string name = string.Empty, email = string.Empty;
             long memberid = 0;
             base.OnInit(e);
+            if (Request.Cookies[Utility.PreserveCookie] != null)
+            {
+                CurrentUser = MemberManager.GetUser(Request.Cookies[Utility.PreserveCookie].Value);
+                if (CurrentUser != null)
+                    FormsAuthentication.SetAuthCookie(CurrentUser.UserName, true);
+            }
+
             if (!Request.IsAuthenticated)
             {
                 CurrentUser = null;

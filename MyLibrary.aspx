@@ -28,9 +28,7 @@
             </form>
         </div>
     </div>
-    <div class="my-1 text-center py-1 border">
-        <button type="button" class="btn btn-sm btn-dark" data-bs-toggle="modal" data-bs-target="#shareLibraryModal">Share Library Picture</button>
-    </div>
+    
     <div class="row row-cols-2 row-cols-md-5 g-4 my-2">
         <%
             using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
@@ -112,12 +110,14 @@
     </p>
     <%}
         else
-        { %>
+        { %> 
+    <div class=" text-center py-2 border fixed-bottom bg-light">
+        <button type="button" class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#shareLibraryModal">Share Library Picture</button>
+    </div>
     <div class="modal fade" id="shareLibraryModal" tabindex="-1" aria-labelledby="shareModalLabel" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body text-center">
@@ -141,8 +141,21 @@
         function generateLibraryPhoto() {
             var xOffset = 0, yOffset = 0;
             var fwidth = 107;
-            $(".bookphoto").each(function (index) {
-                var bkimage = $(".bookphoto")[index];
+            var arr = [];
+            var arr2 = [];
+            
+            for (var i = 0;i < $(".bookphoto").length; i++)
+                arr.push(i);
+            for (var i = 0; i < 24; i++) {
+                var randomindex = Math.floor( Math.random() * (arr.length - 1));
+                arr2.push(arr[randomindex]);
+                arr.splice(randomindex, 1);
+                if (i >= ($(".bookphoto").length - 1))
+                    break;
+            }
+
+            for (var index = 0; index < arr2.length; index++) {
+                var bkimage = $(".bookphoto")[arr2[index]];
                 var wrh = bkimage.width / bkimage.height;
                 newWidth = bkimage.width > fwidth ? fwidth : bkimage.width;
                 newHeight = newWidth / wrh;
@@ -158,21 +171,26 @@
                     xOffset += fwidth;
                 }
 
-                var txtHeight = canvas.height - 130;
                 context.globalAlpha = 0.5;
                 context.fillStyle = "#000000";
-                context.fillRect(0, 450, canvas.width, 130);
-                context.globalAlpha = 1;
+                context.fillRect(0, 450, canvas.width, 40);
+                context.fillStyle = "#0d6efd";
+                context.fillRect(0, 490, canvas.width, 40);
+                context.fillStyle = "#198754";
+                context.fillRect(0, 530, canvas.width, 40);
 
+                context.globalAlpha = 1;
                 context.font = '25px Verdana';
                 context.fillStyle = '#ffffff';
                 context.textAlign = 'center';
                 context.textBaseline = 'middle';
-                context.fillText("I have " + $(".bookphoto").length + " books in my library.", canvas.width / 2, 480);
+                context.fillText($(".bookphoto").length + " Books In My Library", canvas.width / 2, 470);
+
                 context.font = '20px Verdana';
-                context.fillText("Reading " + $(".bookphoto.reading").length + " at present.", canvas.width / 2, 510);
-                context.fillText("Read " + $(".bookphoto.read").length + " till now.", canvas.width / 2, 540);
-            });
+                context.fillText("Reading " + $(".bookphoto.reading").length + " At Present", canvas.width / 2, 510);
+
+                context.fillText("Read " + $(".bookphoto.read").length + " Till Now", canvas.width / 2, 550);
+            }
 
             $("#libraryimg").attr("src", canvas.toDataURL("image/png"));
         }

@@ -18,18 +18,7 @@ public partial class SiteMaster : System.Web.UI.MasterPage
         base.OnInit(e);
         if (Request.IsAuthenticated)
             CurrentUser = MemberManager.GetUser(Page.User.Identity.Name);
-        else
-        {
-            if (Request.Cookies[Utility.PreserveCookie] != null)
-            {
-                Member m = MemberManager.GetUser(Request.Cookies[Utility.PreserveCookie].Value);
-                if (m != null)
-                    FormsAuthentication.SetAuthCookie(m.UserName, true);
-            }
-        }
-    }
-    protected void Page_Load(object sender, EventArgs e)
-    {
         
     }
+    
 }

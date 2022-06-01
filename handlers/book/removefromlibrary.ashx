@@ -1,16 +1,19 @@
 ﻿<%@ WebHandler Language="C#" Class="RemoveFromLibraryHandler" %>
 
 using System.Web;
+
 using Rockying.Models;
 
-public class RemoveFromLibraryHandler : IHttpHandler, System.Web.SessionState.IRequiresSessionState {
-    
-        Book book = null;
+public class RemoveFromLibraryHandler : IHttpHandler, System.Web.SessionState.IRequiresSessionState
+{
+
+    Book book = null;
     Member member = null;
     int bookid;
     string returnurl = "~/mylibrary.aspx";
-    public void ProcessRequest (HttpContext context) {
-            context.Response.ContentType = "text/plain";
+    public void ProcessRequest(HttpContext context)
+    {
+        context.Response.ContentType = "text/plain";
         if (!context.Request.IsAuthenticated)
             returnurl = "~/books";
 
@@ -32,11 +35,13 @@ public class RemoveFromLibraryHandler : IHttpHandler, System.Web.SessionState.IR
             context.Response.Redirect(returnurl);
         }
         else
-            context.Response.Redirect("~/account/login?returnurl=~/book/" + Utility.Slugify(book.Title) + "-" + book.ID);   
+            context.Response.Redirect("~/account/login?returnurl=~/book/" + Utility.Slugify(book.Title) + "-" + book.ID);
     }
- 
-    public bool IsReusable {
-        get {
+
+    public bool IsReusable
+    {
+        get
+        {
             return false;
         }
     }
