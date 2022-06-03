@@ -66,7 +66,7 @@
     <div class="my-md-2 my-1 text-center">
         <a class="text-decoration-none mx-1 mx-md-2 text-dark" href="~/popular-books" runat="server">Books</a>
         <a class="text-decoration-none mx-1 mx-md-2 text-dark" href="~/popular-stories" runat="server">Stories</a>
-        <%if (!Request.IsAuthenticated)
+        <%if (CurrentUser == null)
             { %>
         <a title="Log in" class="text-decoration-none mx-1 mx-md-2 text-dark" runat="server" href="~/account/login">Login</a>
         <a title="Sign up" class="text-decoration-none mx-1 mx-md-2 text-dark" runat="server" href="~/account/register">Signup</a>

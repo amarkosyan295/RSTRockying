@@ -13,12 +13,16 @@ public partial class SiteMaster : System.Web.UI.MasterPage
     public Member CurrentUser { get; set; }
     //private bool _noTemplate = false;
     //public bool NoTemplate { get { return _noTemplate; } set { _noTemplate = value; } }
-    protected override void OnInit(EventArgs e)
-    {
-        base.OnInit(e);
-        if (Request.IsAuthenticated)
-            CurrentUser = MemberManager.GetUser(Page.User.Identity.Name);
-        
-    }
     
+
+
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        if (Request.Cookies[Utility.PreserveCookie] != null)
+            CurrentUser = MemberManager.GetUser(Request.Cookies[Utility.PreserveCookie].Value);
+
+        if (Request.IsAuthenticated && CurrentUser == null)
+            CurrentUser = MemberManager.GetUser(Page.User.Identity.Name);
+
+    }
 }
