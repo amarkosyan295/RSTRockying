@@ -112,7 +112,8 @@
         else
         { %> 
     <div class=" text-center py-2 border fixed-bottom bg-light">
-        <button type="button" class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#shareLibraryModal">Share Library Picture</button>
+        <button type="button" class="btn btn-secondary me-2" data-bs-toggle="modal" data-bs-target="#shareLibraryModal">Library Picture</button>
+        <button type="button" class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#shareBooksReadModal">Books Read Picture</button>
     </div>
     <div class="modal fade" id="shareLibraryModal" tabindex="-1" aria-labelledby="shareModalLabel" aria-hidden="true">
         <div class="modal-dialog">
@@ -132,22 +133,43 @@
             </div>
         </div>
     </div>
+    <div class="modal fade" id="shareBooksReadModal" tabindex="-1" aria-labelledby="shareBooksReadModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body text-center">
+                    <div class="d-none">
+                        <canvas id="booksreadcanvas" width="428" height="926"></canvas>
+                    </div>
+                    <img id="booksreadimg" src="" alt="" class="img-fluid" />
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" onclick="downloadBooksReadImage()">Download</button>
+                </div>
+            </div>
+        </div>
+    </div>
     <%} %>
-</asp:Content>
-<asp:Content ID="Content4" ContentPlaceHolderID="BottomContent" runat="Server">
+    <%if (!isempty)
+        { %>
     <script>
         const canvas = document.getElementById('librarycanvas');
+        const canvas2 = document.getElementById('booksreadcanvas');
         const context = canvas.getContext('2d');
+        const context2 = canvas2.getContext('2d');
+
         function generateLibraryPhoto() {
             var xOffset = 0, yOffset = 0;
             var fwidth = 107;
             var arr = [];
             var arr2 = [];
-            
-            for (var i = 0;i < $(".bookphoto").length; i++)
+
+            for (var i = 0; i < $(".bookphoto").length; i++)
                 arr.push(i);
             for (var i = 0; i < 24; i++) {
-                var randomindex = Math.floor( Math.random() * (arr.length - 1));
+                var randomindex = Math.floor(Math.random() * (arr.length - 1));
                 arr2.push(arr[randomindex]);
                 arr.splice(randomindex, 1);
                 if (i >= ($(".bookphoto").length - 1))
@@ -194,15 +216,74 @@
 
             $("#libraryimg").attr("src", canvas.toDataURL("image/png"));
         }
-        $(window).load(function () { generateLibraryPhoto(); });
+
+        function generateBooksReadPhoto() {
+            var xOffset = 0, yOffset = 0;
+            var fwidth = 107;
+            var arr = [];
+            var arr2 = [];
+
+            for (var i = 0; i < $(".bookphoto.read").length; i++)
+                arr.push(i);
+            for (var i = 0; i < 24; i++) {
+                var randomindex = Math.floor(Math.random() * (arr.length - 1));
+                arr2.push(arr[randomindex]);
+                arr.splice(randomindex, 1);
+                if (i >= ($(".bookphoto.read").length - 1))
+                    break;
+            }
+
+            for (var index = 0; index < arr2.length; index++) {
+                var bkimage = $(".bookphoto.read")[arr2[index]];
+                var wrh = bkimage.width / bkimage.height;
+                newWidth = bkimage.width > fwidth ? fwidth : bkimage.width;
+                newHeight = newWidth / wrh;
+                if (newHeight > canvas.height) {
+                    newHeight = canvas.height;
+                    newWidth = newHeight * wrh;
+                }
+                context2.drawImage(bkimage, xOffset, yOffset, newWidth, newHeight);
+                if ((index + 1) % 4 == 0) {
+                    yOffset += newHeight;
+                    xOffset = 0;
+                } else {
+                    xOffset += fwidth;
+                }
+
+                context2.globalAlpha = 0.5;
+                context2.fillStyle = "#000000";
+                context2.fillRect(0, 450, canvas.width, 40);
+
+                context2.globalAlpha = 1;
+                context2.font = '25px Verdana';
+                context2.fillStyle = '#ffffff';
+                context2.textAlign = 'center';
+                context2.textBaseline = 'middle';
+                context2.fillText("Read " + $(".bookphoto.read").length + " Books Till Now", canvas.width / 2, 470);
+            }
+
+            $("#booksreadimg").attr("src", canvas2.toDataURL("image/png"));
+        }
+        $(window).load(function () { generateLibraryPhoto(); generateBooksReadPhoto(); });
 
         function downloadImage() {
             var anchor = document.createElement("a");
-            anchor.href = document.getElementById('canvas').toDataURL("image/png");
+            anchor.href = document.getElementById('librarycanvas').toDataURL("image/png");
             anchor.download = "mylibrary.png";
             anchor.click();
         }
+
+        function downloadBooksReadImage() {
+            var anchor = document.createElement("a");
+            anchor.href = document.getElementById('booksreadcanvas').toDataURL("image/png");
+            anchor.download = "booksread.png";
+            anchor.click();
+        }
     </script>
+    <%} %>
+</asp:Content>
+<asp:Content ID="Content4" ContentPlaceHolderID="BottomContent" runat="Server">
+    
 </asp:Content>
 
 

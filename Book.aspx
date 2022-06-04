@@ -65,13 +65,8 @@
                 else if (MemberBook != null && MemberBook.ReadStatus == (byte)ReadStatusType.Reading)
                 {%>
             <div class="p-1 bg-light border my-2">
-                <div class="row my-1">
-                    <div class="col">
-                        <button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal" data-bs-target="#readingUpdateModal" id="updateprogressbtn">Update Progress</button>
-                    </div>
-                    <div class="col">
-                        <button type="button" class="btn btn-secondary btn-sm" data-bs-toggle="modal" data-bs-target="#shareUpdateModal">Share Update</button>
-                    </div>
+                <div class="text-center my-1">
+                    <button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal" data-bs-target="#readingUpdateModal" id="updateprogressbtn">Update Progress</button>
                 </div>
                 <div class="progress mt-2">
                     <div class="progress-bar" role="progressbar" style='<%: "width:" + percentread + "%;" %>' aria-valuenow="<%:percentread %>" aria-valuemin="0" aria-valuemax="100"></div>
@@ -100,34 +95,14 @@
                                 </form>
                             </div>
                             <div class="modal-footer">
-                                <span>I you have read the book you can mark it complete as well.</span><button type="button" class="btn btn-secondary mx-2" onclick='$("#currentpagetext").val("<%: CurrentBook.PageCount %>");$("#readingupdatefrm-<%: CurrentBook.ID %>").submit();'>Mark Complete</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="modal fade" id="shareUpdateModal" tabindex="-1" aria-labelledby="shareModalLabel" aria-hidden="true">
-                    <div class="modal-dialog">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <h5 class="modal-title" id="shareModalLabel">Share Reading Progress</h5>
-                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                            </div>
-                            <div class="modal-body text-center">
-                                <div id="bookcont" class="my-2 d-none">
-                                    <input type="hidden" id="currentpagetxt" value="<%: MemberBook.CurrentPage %>" />
-                                    <input type="hidden" id="startdatetxt" value="<%: MemberBook.ReadingStartDate.Value.ToString("yyyy-MM-dd") %>" />
-                                    <input type="hidden" id="pagecounttxt" value="<%:CurrentBook.PageCount %>" />
-                                    <canvas id="canvas" width="400" height="400"></canvas>
-                                </div>
-                                <img id="readingstatsimg" src="" alt="" class="img-fluid" />
-                            </div>
-                            <div class="modal-footer">
-                                <button type="button" class="btn btn-primary" onclick="downloadImage()">Download</button>
+                                <span>I you have read the book you can mark it complete as well.</span>
+                                <button type="button" class="btn btn-secondary mx-2" onclick='$("#currentpagetext").val("<%: CurrentBook.PageCount %>");$("#readingupdatefrm-<%: CurrentBook.ID %>").submit();'>Mark Complete</button>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+
             <%}
                 else if (MemberBook != null && MemberBook.ReadStatus == (byte)ReadStatusType.WanttoRead)
                 {%>
@@ -220,6 +195,61 @@
             </Columns>
         </asp:GridView>
     </form>
+    <%if (MemberBook != null && MemberBook.ReadStatus == (byte)ReadStatusType.Reading)
+        {%>
+    <div class="p-2 border fixed-bottom text-center bg-light">
+        <button type="button" class="btn btn-secondary mx-2" data-bs-toggle="modal" data-bs-target="#shareUpdateModal">Share Progress</button>
+        <button type="button" class="btn btn-secondary mx-2" data-bs-toggle="modal" data-bs-target="#shareQouteModal">Share Qoute</button>
+    </div>
+    <div class="modal fade" id="shareUpdateModal" tabindex="-1" aria-labelledby="shareModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="shareModalLabel">Share Reading Progress</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body text-center">
+                    <div id="bookcont" class="my-2 d-none">
+                        <input type="hidden" id="currentpagetxt" value="<%: MemberBook.CurrentPage %>" />
+                        <input type="hidden" id="startdatetxt" value="<%: MemberBook.ReadingStartDate.Value.ToString("yyyy-MM-dd") %>" />
+                        <input type="hidden" id="pagecounttxt" value="<%:CurrentBook.PageCount %>" />
+                        <canvas id="canvas" width="400" height="400"></canvas>
+                    </div>
+                    <img id="readingstatsimg" src="" alt="" class="img-fluid" />
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" onclick="downloadImage()">Download</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="shareQouteModal" tabindex="-1" aria-labelledby="shareQouteModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="shareQouteModalLabel">Share Qoute</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body text-center">
+                    <div class="input-group mb-1">
+                        <span type="button" class="input-group-text">Font Size</span>
+                        <input type="number" class="form-control" id="fontsizetxt" value="30" min="10" max="50" />
+                    </div>
+                    <div class="input-group">
+                        <textarea class="form-control" aria-label="With textarea" id="qoutetxt"></textarea>
+                        <button type="button" class="input-group-text" onclick="generateQoute();">Generate Photo</button>
+                    </div>
+                    
+                    <div class="d-none">
+                        <canvas id="qoutecanvas" width="360" height="640"></canvas>
+                    </div>
+                    <img id="qouteimg" src="" alt="" class="img-fluid" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <%} %>
     <%}
         else
         { %>
@@ -227,26 +257,18 @@
     <%} %>
 </asp:Content>
 <asp:Content ID="Content4" ContentPlaceHolderID="BottomContent" runat="Server">
-    <script>
+    
+    <script type="text/javascript" src="<%= Page.ResolveClientUrl("~/bootstrap/js/fabric.min.js") %>"></script>
+    <script type="text/javascript">
+        var qoutecanvas = new fabric.Canvas('qoutecanvas');
         const canvas = document.getElementById('canvas');
         const context = canvas.getContext('2d');
         var reader = new FileReader();
         var bkimage = document.getElementById("coverpageimg");
         var newHeight = 0, newWidth = 0;
-        //var imgWidth = 0, imgHeight = 0;
-        //var imageLoader = document.getElementById('bookpicfile');
-        //imageLoader.addEventListener('change', handleImage, false);
         var currentlyreading = { image: '', totalpages: 1, currentpage: 1, readingstartdate: null, yeargoal: '' };
 
-        //function handleImage(e) {
-        //    reader = new FileReader();
-        //    reader.onload = function (event) {
-        //        bkimage = new Image();
-        //        bkimage.src = event.target.result;
-        //    }
-        //    reader.readAsDataURL(e.target.files[0]);
-        //}
-
+        
         function generateWithT1() {
             $("#canvas").attr("width", "500").attr("height", "500");
             $("#canvas").width(500);
@@ -379,6 +401,49 @@
             context.fillStyle = '#ffffff';
             context.font = '18px Arial';
             context.fillText("I read " + avgspeed + " pages per day :)", canvas.width / 2, txtHeight + 110);
+        }
+
+        function generateQoute() {
+            var canvaswidth = 360, canvasheight = 640;
+            var wrh = bkimage.width / bkimage.height;
+            newWidth = bkimage.width > canvaswidth ? canvaswidth : bkimage.width;
+            newHeight = newWidth / wrh;
+            if (newHeight > canvasheight) {
+                newHeight = canvasheight;
+                newWidth = newHeight * wrh;
+            }
+            //var xOffset = newWidth < canvaswidth ? ((canvaswidth - newWidth) / 2) : 0;
+            //var yOffset = newHeight < canvasheight ? ((canvasheight - newHeight) / 2) : 0;
+            qoutecanvas.clear();
+            var image = new fabric.Image(bkimage);
+            image.set({
+                angle: 0,
+                padding: 0,
+                cornersize: 0,
+                height: newHeight,
+                width: newWidth,
+            });
+            qoutecanvas.centerObject(image);
+            qoutecanvas.add(image);
+            var textbox = new fabric.Textbox('"' + $("#qoutetxt").val() + '"', {
+                fontSize: parseInt($("#fontsizetxt").val(), 10),
+                width: canvaswidth - 10,
+                textAlign: 'center',
+                fill: "#ffffff"
+            });
+
+            var rect = new fabric.Rect({
+                fill: 'rgba(0,0,0,0.5)',
+                width: canvaswidth - 10,
+                height: textbox.height + 10
+            });
+            
+            qoutecanvas.centerObject(textbox);
+            qoutecanvas.centerObject(rect);
+            qoutecanvas.add(rect);
+            qoutecanvas.add(textbox);
+            qoutecanvas.renderAll();
+            $("#qouteimg").attr("src", qoutecanvas.toDataURL("image/png"));
         }
 
         function createImage() {
