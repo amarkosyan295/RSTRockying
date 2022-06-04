@@ -412,8 +412,6 @@
                 newHeight = canvasheight;
                 newWidth = newHeight * wrh;
             }
-            //var xOffset = newWidth < canvaswidth ? ((canvaswidth - newWidth) / 2) : 0;
-            //var yOffset = newHeight < canvasheight ? ((canvasheight - newHeight) / 2) : 0;
             qoutecanvas.clear();
             var image = new fabric.Image(bkimage);
             image.set({
@@ -431,13 +429,11 @@
                 textAlign: 'center',
                 fill: "#ffffff"
             });
-
             var rect = new fabric.Rect({
                 fill: 'rgba(0,0,0,0.5)',
                 width: canvaswidth - 10,
                 height: textbox.height + 10
             });
-            
             qoutecanvas.centerObject(textbox);
             qoutecanvas.centerObject(rect);
             qoutecanvas.add(rect);
@@ -447,19 +443,13 @@
         }
 
         function createImage() {
-            //if ($("#templaterd1").is(":checked")) {
             //    generateWithT1();
-            //}
-            //else if ($("#templaterd2").is(":checked")) {
             generateWithT2();
-            //}
-
             currentlyreading.currentpage = parseInt($("#currentpagetxt").val(), 10);
             currentlyreading.readingstartdate = $("#startdatetxt").val();
             currentlyreading.totalpages = parseInt($("#pagecounttxt").val(), 10);
             currentlyreading.yeargoal = $("#yeargoaltxt").val();
             $("#readingstatsimg").attr("src", canvas.toDataURL("image/png"));
-            //localStorage.setItem("currentlyreading", JSON.stringify(currentlyreading));
         }
 
         $(document).ready(function () {
