@@ -2,6 +2,7 @@
     CodeFile="custompage.aspx.cs" Inherits="custompage" %>
 
 <%@ MasterType VirtualPath="~/Site.master" %>
+<%@ Import Namespace="Rockying" %>
 <%@ Import Namespace="Rockying.Models" %>
 
 <asp:Content ID="Content3" ContentPlaceHolderID="TopContent" runat="server">
@@ -31,6 +32,36 @@
         else
         { %>
     <div class="row row-cols-1 row-cols-md-4 g-4">
+        <%
+            if (CurrentUser != null)
+            {
+                using (RockyingDataClassesDataContext dc = new RockyingDataClassesDataContext(Utility.ConnectionString))
+                {
+                    foreach (MemberBook mb in dc.MemberBooks.Where(t => t.MemberID == CurrentUser.ID && t.ReadStatus == (byte)ReadStatusType.Reading)
+                        .OrderByDescending(t => t.ID))
+                    {
+        %>
+        <div class="col">
+            <div class="card h-100 special border-0 bg-transparent">
+                <a href='book/<%: Utility.Slugify(mb.Book.Title, "book")%>-<%: mb.Book.ID %>' style="text-align: center;">
+                    <img src="<%: mb.Book.CoverPage %>" class="card-img-top bookphoto reading" style="width: auto; max-width: 128px;" alt="" /></a>
+                <div class="card-body">
+                    <%
+                        var percentread = (int)(0.5f + ((100f * mb.CurrentPage) / mb.Book.PageCount));
+                    %>
+                    <div class="progress mt-1" style="height: 5px;">
+                        <div class="progress-bar" role="progressbar" style='width: <%: percentread %>%;' aria-valuenow="<%:percentread %>" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <div class="text-center"><%: mb.CurrentPage %> read of <%: mb.Book.PageCount %> pages</div>
+                    <div class="text-center">
+                        <a href='book/<%: Utility.Slugify(mb.Book.Title, "book")%>-<%: mb.Book.ID %>#<%= Utility.UpdateReadingProgressHash %>' class="btn btn-primary btn-sm">Update Progress</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <%}
+                }
+            }%>
         <%foreach (Article item in HPM.HeroList)
             { %>
         <div class="col">
@@ -45,7 +76,7 @@
                     <h5 class="card-title"><a href="/a/<%= item.URL %>" class="text-decoration-none text-dark">
                         <%: item.Title %>
                     </a></h5>
-                    <p class="card-text"><%:item.CategoryName %> story written by <%:item.WriterName %></p>
+                    <p class="card-text"><a href="<%= item.CategoryUrlName %>/index"><%:item.CategoryName %></a> story written by <a href="member/<%: item.CreatedByUserName %>"><%:item.WriterName %></a></p>
                     <p class="card-text"><%:item.OGDescription %></p>
                 </div>
             </div>
@@ -55,7 +86,7 @@
     <div class="jumbotron well">
         <h1>Rockying</h1>
         <p class="lead">Write on any topic of your choice, build an audience.</p>
-        <a class="btn btn-large btn-success" href="//www.rockying.com/account/register">Write for us</a>
+        <a class="btn btn-large btn-success" href="<%= Page.ResolveUrl("~/account/register") %>">Write for us</a>
     </div>
     <% } %>
 </asp:Content>

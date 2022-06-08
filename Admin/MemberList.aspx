@@ -37,6 +37,7 @@
                 runat="server" Style="margin-left: 25px;" />
             <asp:Button ID="btnActiveEmail" CausesValidation="false" CssClass="btn" Text="Send Activation Email"
                 runat="server" Style="margin-left: 10px;" OnClick="btnActiveEmail_Click" />
+            <asp:Button Visible="false" ID="GenerateUserNameButton" runat="server" Text="Generate UserName" CausesValidation="false" CssClass="btn btn-secondary" OnClick="GenerateUserNameButton_Click" />
         </div>
     </div>
     <div class="table-responsive">

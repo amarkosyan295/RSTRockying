@@ -74,7 +74,7 @@ public partial class Admin_MemberList : AdminPage
                 MemberGridView.DataBind();
             }
         }
-        catch(Exception ex)
+        catch (Exception ex)
         {
             Trace.Write("Unable to fetch member records.");
             Trace.Write(ex.Message);
@@ -148,12 +148,29 @@ public partial class Admin_MemberList : AdminPage
                 using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext(Utility.ConnectionString))
                 {
                     var m = db.Members.SingleOrDefault(t => t.ID == Emp_ID);
-                    if(m != null)
+                    if (m != null)
                     {
                         EmailManager.SendActivationEmail(m.Email, m.MemberName, m.Password);
                     }
                 }
             }
+        }
+    }
+
+    protected void GenerateUserNameButton_Click(object sender, EventArgs e)
+    {
+        using (RockyingDataClassesDataContext db = new RockyingDataClassesDataContext(Utility.ConnectionString))
+        {
+            Random r = new Random(0);
+            var query = from t in db.Members select t;
+            foreach(var m in query)
+            {
+                if (string.IsNullOrEmpty(m.UserName))
+                {
+                    m.UserName = m.Createdate.AddDays(r.Next(60)).ToString("yyyyMMdd") + m.ID;
+                }
+            }
+            db.SubmitChanges();
         }
     }
 }

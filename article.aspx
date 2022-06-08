@@ -82,7 +82,7 @@
                 <%: PPM.Item.Title%>
             </h1>
             <p class="smalltxt" style="color: #333333;">
-                Written By <%: PPM.Item.WriterName%>, 
+                Written By <a href="../member/<%: PPM.ArticleCreator.UserName %>"><%: PPM.Item.WriterName%></a>, 
                 <%if (PPM.ArticleCategory == null)
                     { %>
                 <%: PPM.Item.CategoryName%> Story
@@ -260,12 +260,12 @@
             <div class="card h-100">
                 <%if (!string.IsNullOrEmpty(p.OGImage))
                     { %>
-                <a href="//<%: Request.Url.Port != 80 ? Request.Url.Host + ":" + Request.Url.Port : Request.Url.Host %>/a/<%= p.URL %>">
+                <a href="<%= Page.ResolveClientUrl("~/a/" + p.URL) %>">
                     <img src="<%: p.OGImage %>" class="card-img-top" alt="" />
                 </a>
                 <%} %>
                 <div class="card-body">
-                    <h5 class="card-title"><a href="//<%: Request.Url.Port != 80 ? Request.Url.Host + ":" + Request.Url.Port : Request.Url.Host %>/a/<%= p.URL %>" class="text-decoration-none text-dark">
+                    <h5 class="card-title"><a href="<%= Page.ResolveClientUrl("~/a/" + p.URL) %>" class="text-decoration-none text-dark">
                         <%: p.Title %>
                     </a></h5>
                     <p class="card-text"><%:p.OGDescription %></p>
@@ -313,20 +313,7 @@
             }
         }
 
-        function postRating(val) {
-            $.post("//www.rockying.com/handlers/rating.ashx",
-                { star: val, post: parseInt("<%= PPM.Item.ID.ToString()%>", 10), comment: '', ip: visit.ip, visitid: visit.id, action: "add" },
-                function () { }).done(function () {
-                    RatingAction.status = "success";
-                    for (i = 1; i <= 5; i++) {
-                        $("#btn" + i + "star > span.fa.fa-star").removeClass("checked");
-                    }
-
-                    for (i = 1; i <= val; i++) {
-                        $("#btn" + i + "star > span.fa.fa-star").addClass("checked");
-                    }
-                });
-        }
+        
 
 
         function TakeAction() {

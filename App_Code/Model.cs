@@ -19,11 +19,13 @@ namespace Rockying.Models
         public DateTime? DateModified { get; set; }
         public long CreatedBy { get; set; }
         public string CreatedByName { get; set; }
+        public string CreatedByUserName { get; set; }
         public long? ModifiedBy { get; set; }
         public string ModifiedByName { get; set; }
         public int Category { get; set; }
         public string Tag { get; set; }
         public string CategoryName { get; set; }
+        public string CategoryUrlName { get; set; }
         public PostStatusType Status { get; set; }
         public string Description { get; set; }
         public string Text { get; set; }

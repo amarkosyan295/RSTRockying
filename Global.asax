@@ -30,7 +30,6 @@
         routes.MapPageRoute("ArticleRoute", "a/{*pagename}", "~/article.aspx");
         routes.MapPageRoute("PhotoRoute", "p/{id}", "~/photo.aspx");
 
-
         //Account Related URL
         routes.MapPageRoute("LoginPage", "account/login", "~/account/login.aspx");
         routes.MapPageRoute("DrivePage", "account/drive/{*folderpath}", "~/account/viewdrive.aspx");
@@ -43,6 +42,8 @@
         routes.MapPageRoute("unsubscribe", "account/unsubscribe", "~/account/unsubscribe.aspx");
         routes.MapPageRoute("viewemail", "account/email/{id}", "~/account/email.aspx");
         routes.MapPageRoute("viewemailtrans", "account/email/{id}/{trans}", "~/account/email.aspx");
+
+        routes.MapPageRoute("RockyingUser", "member/{username}", "~/RUser.aspx");
 
         routes.MapPageRoute("StoriesPageRoute", "popular-stories", "~/stories.aspx");
         routes.MapPageRoute("BooksPageRoute", "popular-books", "~/books.aspx");
