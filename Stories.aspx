@@ -27,7 +27,7 @@
                     <h5 class="card-title"><a href="../a/<%= p.URL %>" class="text-decoration-none text-dark">
                         <%: p.Title %>
                     </a></h5>
-                    <p class="card-text"><a href="../<%= p.Category1.UrlName %>/index"><%:p.Category1.Name %></a> story written by <a href="../member/<%:p.Member1.UserName %>"><%:p.WriterName %></a></p>
+                    <p class="card-text"><a href="../<%= p.Category1.UrlName %>/index"><%:p.Category1.Name %></a> story written by <a href="../member/<%:p.Member.UserName %>"><%:p.WriterName %></a></p>
                     <p class="card-text"><%:p.OGDescription %></p>
                 </div>
             </div>

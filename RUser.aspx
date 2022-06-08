@@ -1,4 +1,5 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="RUser.aspx.cs" Inherits="RUser" %>
+
 <%@ Import Namespace="Rockying" %>
 <%@ Import Namespace="Rockying.Models" %>
 <%@ Import Namespace="System.Linq" %>
@@ -15,7 +16,7 @@
         {
             var stories = dc.Posts.Where(t => t.Status == (byte)PostStatusType.Publish && t.CreatedBy == Member.ID);
     %>
-    <h4 class="mt-2"><%: Member.MemberName %>'s Stories</h4>
+    <h4 class="my-2"><%: Member.MemberName %>'s Stories</h4>
     <div class="row row-cols-1 row-cols-md-4 g-4">
         <%foreach (var item in stories)
             { %>
@@ -38,10 +39,15 @@
         </div>
         <%} %>
     </div>
-    <%
-        var library = dc.MemberBooks.Where(t => t.MemberID == t.Member.ID);
+    <%if (stories.Count() == 0)
+        { %>
+    <p class="m-2 text-center">
+        <%: Member.MemberName %> has not written any stories.
+    </p>
+    <%}
+        var library = dc.MemberBooks.Where(t => t.MemberID == Member.ID);
     %>
-    <h4 class="mt-2"><%: Member.MemberName %>'s Library</h4>
+    <h4 class="my-2"><%: Member.MemberName %>'s Library</h4>
     <div class="row row-cols-2 row-cols-md-6 g-2">
         <%foreach (MemberBook mb in library)
             { %>
@@ -53,8 +59,14 @@
         </div>
         <%} %>
     </div>
-    <%} %>
-    <%} %>
+    <%if (library.Count() == 0)
+        { %>
+    <p class="m-2 text-center">
+        <%: Member.MemberName %> does not have any book in library.
+    </p>
+    <%}
+        }
+    } %>
 </asp:Content>
 <asp:Content ID="Content4" ContentPlaceHolderID="BottomContent" runat="Server">
 </asp:Content>
