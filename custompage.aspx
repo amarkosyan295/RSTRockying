@@ -55,6 +55,10 @@
                     <div class="text-center"><%: mb.CurrentPage %> read of <%: mb.Book.PageCount %> pages</div>
                     <div class="text-center">
                         <a href='book/<%: Utility.Slugify(mb.Book.Title, "book")%>-<%: mb.Book.ID %>#<%= Utility.UpdateReadingProgressHash %>' class="btn btn-primary btn-sm">Update Progress</a>
+                        <div class="text-center mt-3">
+                        <a href='book/<%: Utility.Slugify(mb.Book.Title, "book")%>-<%: mb.Book.ID %>#<%= Utility.ShareProgressHash %>' class="btn btn-secondary btn-sm me-2">Share Progress</a>
+                            <a href='book/<%: Utility.Slugify(mb.Book.Title, "book")%>-<%: mb.Book.ID %>#<%= Utility.ShareQouteHash %>' class="btn btn-secondary btn-sm">Share Qoute</a>
+                            </div>
                     </div>
                 </div>
             </div>
