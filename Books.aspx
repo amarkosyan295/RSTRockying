@@ -43,7 +43,7 @@
                     </div>
                     <div class="text-center"><%: mb.CurrentPage %> read of <%: mb.Book.PageCount %> pages</div>
                     <div class="text-center">
-                        <a href='../book/<%: Utility.Slugify(mb.Book.Title)%>-<%: mb.Book.ID %>' class="btn btn-primary btn-sm">Update Progress</a>
+                        <a href='../book/<%: Utility.Slugify(mb.Book.Title)%>-<%: mb.Book.ID %>#<%= Utility.UpdateReadingProgressHash %>' class="btn btn-primary btn-sm">Update Progress</a>
                     </div>
                 </div>
             </div>
