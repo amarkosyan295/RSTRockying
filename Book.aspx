@@ -197,8 +197,35 @@
     <%if (MemberBook != null && MemberBook.ReadStatus == (byte)ReadStatusType.Reading)
         {%>
     <div class="p-2 border fixed-bottom text-center bg-light">
-        <button type="button" class="btn btn-secondary mx-2" data-bs-toggle="modal" data-bs-target="#shareUpdateModal" id="shareprogressbtn">Share Progress</button>
-        <button type="button" class="btn btn-secondary mx-2" data-bs-toggle="modal" data-bs-target="#shareQouteModal" id="shareqoutebtn">Share Qoute</button>
+        <div class="btn-group dropup mx-2">
+            <button type="button" class="btn btn-secondary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                Share Progress
+            </button>
+            <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#" data-bs-toggle="modal" data-bs-target="#shareUpdateModal" id="shareprogressbtn">Portrait</a></li>
+                <li><a class="dropdown-item" href="#" data-bs-toggle="modal" data-bs-target="#shareSquareUpdateModal" >Square</a></li>
+            </ul>
+        </div>
+        <button type="button" class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#shareQouteModal" id="shareqoutebtn">Share Qoute</button>
+    </div>
+    <div class="modal fade" id="shareSquareUpdateModal" tabindex="-1" aria-labelledby="shareSquareModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="shareSquareModalLabel">Share Reading Progress</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body text-center">
+                    <div id="bookcont2" class="my-2 d-none">
+                        <canvas id="canvas2" width="400" height="400"></canvas>
+                    </div>
+                    <img id="readingstatssquareimg" src="" alt="" class="img-fluid" />
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" onclick="downloadImage('canvas2')">Download</button>
+                </div>
+            </div>
+        </div>
     </div>
     <div class="modal fade" id="shareUpdateModal" tabindex="-1" aria-labelledby="shareModalLabel" aria-hidden="true">
         <div class="modal-dialog">
@@ -217,7 +244,7 @@
                     <img id="readingstatsimg" src="" alt="" class="img-fluid" />
                 </div>
                 <div class="modal-footer">
-                    <button type="button" class="btn btn-primary" onclick="downloadImage()">Download</button>
+                    <button type="button" class="btn btn-primary" onclick="downloadImage('canvas')">Download</button>
                 </div>
             </div>
         </div>
@@ -239,7 +266,7 @@
                         <textarea class="form-control" aria-label="With textarea" id="qoutetxt"></textarea>
                         <button type="button" class="input-group-text" onclick="generateQoute();">Generate Photo</button>
                     </div>
-                    
+
                     <div class="d-none">
                         <canvas id="qoutecanvas" width="360" height="640"></canvas>
                     </div>
@@ -256,23 +283,25 @@
     <%} %>
 </asp:Content>
 <asp:Content ID="Content4" ContentPlaceHolderID="BottomContent" runat="Server">
-    
+
     <script type="text/javascript" src="<%= Page.ResolveClientUrl("~/bootstrap/js/fabric.min.js") %>"></script>
     <script type="text/javascript">
         var qoutecanvas = new fabric.Canvas('qoutecanvas');
         const canvas = document.getElementById('canvas');
+        const canvas2 = document.getElementById('canvas2');
         const context = canvas.getContext('2d');
+        const context2 = canvas2.getContext('2d');
         var reader = new FileReader();
         var bkimage = document.getElementById("coverpageimg");
         var newHeight = 0, newWidth = 0;
         var currentlyreading = { image: '', totalpages: 1, currentpage: 1, readingstartdate: null, yeargoal: '' };
 
-        
+
         function generateWithT1() {
-            $("#canvas").attr("width", "500").attr("height", "500");
-            $("#canvas").width(500);
-            $("#canvas").height(500);
-            var textstart = canvas.width / 2;
+            $("#canvas2").attr("width", "500").attr("height", "500");
+            $("#canvas2").width(500);
+            $("#canvas2").height(500);
+            var textstart = canvas2.width / 2;
             //var image = new Image();
             //image.onload = function () {
             //    var wrh = image.width / image.height;
@@ -291,35 +320,35 @@
             //image.src = reader.result;
 
             var wrh = bkimage.width / bkimage.height;
-            newWidth = canvas.width / 2; //bkimage.width >  canvas.width ? canvas.width : bkimage.width;
+            newWidth = canvas2.width / 2; //bkimage.width >  canvas.width ? canvas.width : bkimage.width;
             newHeight = newWidth / wrh;
-            if (newHeight > canvas.height) {
-                newHeight = canvas.height;
+            if (newHeight > canvas2.height) {
+                newHeight = canvas2.height;
                 newWidth = newHeight * wrh;
             }
-            context.drawImage(bkimage, 0, 0, newWidth, newHeight);
-            context.clearRect(canvas.width / 2, 0, canvas.width, canvas.height);
-            context.fillStyle = '#ffffff';
-            context.fillRect(canvas.width / 2, 0, canvas.width, newHeight);
-            context.font = '18px Arial';
-            context.fillStyle = '#212529';
-            context.textAlign = 'left';
+            context2.drawImage(bkimage, 0, 0, newWidth, newHeight);
+            context2.clearRect(canvas2.width / 2, 0, canvas2.width, canvas2.height);
+            context2.fillStyle = '#ffffff';
+            context2.fillRect(canvas2.width / 2, 0, canvas2.width, newHeight);
+            context2.font = '18px Arial';
+            context2.fillStyle = '#212529';
+            context2.textAlign = 'left';
             //context.textBaseline = 'middle';
-            context.fillText("Reading Now", textstart + 5, 20);
+            context2.fillText("Reading Now", textstart + 5, 20);
 
             var x = textstart + 5;
             var y = 50;
-            context.font = '14px Arial';
-            context.fillStyle = "#6c757d";
-            context.fillText($("#currentpagetxt").val() + " of " + $("#pagecounttxt").val() + " Pages Read", x, y);
+            context2.font = '14px Arial';
+            context2.fillStyle = "#6c757d";
+            context2.fillText($("#currentpagetxt").val() + " of " + $("#pagecounttxt").val() + " Pages Read", x, y);
 
             var percentage = (parseInt($("#currentpagetxt").val(), 10) / parseInt($("#pagecounttxt").val(), 10)) * 100;
-            var progress = (percentage * (canvas.width / 2) - 20) / 100;
+            var progress = (percentage * (canvas2.width / 2) - 20) / 100;
 
-            context.fillStyle = '#007bff';
-            context.fillRect(textstart + 5, 60, progress, 15);
-            context.fillStyle = '#e9ecef';
-            context.fillRect(textstart + 5 + progress, 60, ((canvas.width / 2) - 20) - progress, 15);
+            context2.fillStyle = '#007bff';
+            context2.fillRect(textstart + 5, 60, progress, 15);
+            context2.fillStyle = '#e9ecef';
+            context2.fillRect(textstart + 5 + progress, 60, ((canvas2.width / 2) - 20) - progress, 15);
 
             var readstartdate = new Date($("#startdatetxt").val());
 
@@ -331,25 +360,21 @@
             var days_difference = time_difference / (1000 * 60 * 60 * 24);
 
             var avgspeed = parseInt(parseInt($("#currentpagetxt").val(), 10) / days_difference, 10);
-            context.fillStyle = '#212529';
-            context.font = 'bold 14px Arial';
-            context.fillText("Speed", textstart + 5, 100);
-            context.fillStyle = "#6c757d";
-            context.font = '14px Arial';
-            context.fillText(avgspeed + " pages read per day", textstart + 5, 120);
+            context2.fillStyle = '#212529';
+            context2.font = 'bold 14px Arial';
+            context2.fillText("Speed", textstart + 5, 100);
+            context2.fillStyle = "#6c757d";
+            context2.font = '14px Arial';
+            context2.fillText(avgspeed + " pages read per day", textstart + 5, 120);
 
             var pagesleft = parseInt($("#pagecounttxt").val(), 10) - parseInt($("#currentpagetxt").val(), 10);
             var tentativecmp = new Date(Date.now());
             tentativecmp.setDate(tentativecmp.getDate() + (pagesleft / avgspeed))
-            context.fillStyle = '#17a2b8';
-            context.fillText(tentativecmp.toDateString(), textstart + 5, 150);
-            context.fillText(" तक आप इसे पढ़ लेंगे।", textstart + 5, 170);
+            context2.fillStyle = '#17a2b8';
+            context2.fillText(tentativecmp.toDateString(), textstart + 5, 150);
+            context2.fillText(" तक आप इसे पढ़ लेंगे।", textstart + 5, 170);
 
-            context.fillStyle = "#6c757d";
-            context.font = 'bold 14px Arial';
-            context.fillText("<%: DateTime.Now.Year + " Goal"%>", textstart + 5, 200);
-            context.font = '14px Arial';
-            context.fillText($("#yeargoaltxt").val(), textstart + 5, 220);
+            
         }
 
         function generateWithT2() {
@@ -386,7 +411,7 @@
             context.fillRect(0, canvas.height - 160, canvas.width, 160);
             context.globalAlpha = 1.0;
 
-            
+
             context.font = '25px Verdana';
             context.fillStyle = '#ffffff';
             context.textAlign = 'center';
@@ -456,7 +481,7 @@
             $("#qouteimg").attr("src", qoutecanvas.toDataURL("image/png"));
         }
 
-        function createImage() {
+        function createImagePortrait() {
             //    generateWithT1();
             generateWithT2();
             currentlyreading.currentpage = parseInt($("#currentpagetxt").val(), 10);
@@ -466,8 +491,18 @@
             $("#readingstatsimg").attr("src", canvas.toDataURL("image/png"));
         }
 
+        function createImageSquare() {
+            generateWithT1();
+            currentlyreading.currentpage = parseInt($("#currentpagetxt").val(), 10);
+            currentlyreading.readingstartdate = $("#startdatetxt").val();
+            currentlyreading.totalpages = parseInt($("#pagecounttxt").val(), 10);
+            currentlyreading.yeargoal = $("#yeargoaltxt").val();
+            $("#readingstatssquareimg").attr("src", canvas2.toDataURL("image/png"));
+        }
+
         $(document).ready(function () {
-            createImage();
+            createImagePortrait();
+            createImageSquare();
             var hash = window.location.hash;
             if (hash === "#<%= Utility.UpdateReadingProgressHash%>") {
                 $("#updateprogressbtn").click();
@@ -480,9 +515,9 @@
             }
         });
 
-        function downloadImage() {
+        function downloadImage(id) {
             var anchor = document.createElement("a");
-            anchor.href = document.getElementById('canvas').toDataURL("image/png");
+            anchor.href = document.getElementById(id).toDataURL("image/png");
             anchor.download = "readingstats-" + $("#currentpagetxt").val() + ".png";
             anchor.click();
         }
