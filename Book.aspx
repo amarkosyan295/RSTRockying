@@ -198,7 +198,7 @@
         {%>
     <div class="p-2 border fixed-bottom text-center bg-light">
         <div class="btn-group dropup mx-2">
-            <button type="button" class="btn btn-secondary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+            <button type="button" class="btn btn-secondary btn-lg dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
                 Share Progress
             </button>
             <ul class="dropdown-menu">
@@ -206,7 +206,7 @@
                 <li><a class="dropdown-item" href="#" data-bs-toggle="modal" data-bs-target="#shareSquareUpdateModal" >Square</a></li>
             </ul>
         </div>
-        <button type="button" class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#shareQouteModal" id="shareqoutebtn">Share Qoute</button>
+        <button type="button" class="btn btn-secondary btn-lg" data-bs-toggle="modal" data-bs-target="#shareQouteModal" id="shareqoutebtn">Share Qoute</button>
     </div>
     <div class="modal fade" id="shareSquareUpdateModal" tabindex="-1" aria-labelledby="shareSquareModalLabel" aria-hidden="true">
         <div class="modal-dialog">

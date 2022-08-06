@@ -1,0 +1,40 @@
+{
+  "name": "Rockying",
+  "short_name": "Rockying",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "description": "Discover the fun of reading.",
+  "icons": [
+    {
+      "src": "bootstrap/img/icon48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "bootstrap/img/icon72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "bootstrap/img/icon92.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "bootstrap/img/icon144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "bootstrap/img/icon168.png",
+      "sizes": "168x168",
+      "type": "image/png"
+    },
+    {
+      "src": "bootstrap/img/icon192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
