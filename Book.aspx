@@ -518,7 +518,7 @@
         function downloadImage(id) {
             var anchor = document.createElement("a");
             anchor.href = document.getElementById(id).toDataURL("image/png");
-            anchor.download = "readingstats-" + $("#currentpagetxt").val() + ".png";
+            anchor.download = "readingstats-<%= CurrentBook.ID %>-" + $("#currentpagetxt").val() + ".png";
             anchor.click();
         }
     </script>
