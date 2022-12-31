@@ -10,10 +10,12 @@ using System.Web.UI.WebControls;
 public partial class MyLibrary : MemberPage
 {
     public List<MemberBook> MemberBooks = new List<MemberBook>();
+    public decimal PagesReadThisYear { get; set; }
     protected override void OnInit(EventArgs e)
     {
         base.OnInit(e);
         BookSearch2.CurrentUser = CurrentUser;
+
     }
 
     protected void Page_Load(object sender, EventArgs e)
@@ -27,6 +29,10 @@ public partial class MyLibrary : MemberPage
         {
             MemberBooks.AddRange(dc.MemberBooks.Where(t => t.MemberID == CurrentUser.ID)
                 .OrderByDescending(t => t.ID));
+
+            var pages = dc.MemberBooks.Where(t => t.ReadingStartDate.HasValue && t.ReadingStartDate.Value.Year == DateTime.Now.Year && t.MemberID == CurrentUser.ID).Sum(t => t.CurrentPage);
+            if (pages.HasValue)
+                PagesReadThisYear = pages.Value / 365;
 
         }
     }

@@ -41,7 +41,7 @@
         <div class="col">
             <div class="card h-100 special border-0 bg-transparent">
                 <a href='../book/<%: Utility.Slugify(mb.Book.Title, "book")%>-<%: mb.Book.ID %>' style="text-align: center;">
-                    <img src="<%: mb.Book.CoverPage %>" class="card-img-top bookphoto reading" style="width: auto; max-width: 128px;" alt="" /></a>
+                    <img src="<%: mb.Book.CoverPage %>" class="card-img-top bookphoto reading <%: mb.ReadingStartDate.HasValue ? "readingstart-" + mb.ReadingStartDate.Value.Year : "" %>" style="width: auto; max-width: 128px;" alt="" /></a>
                 <div class="card-body">
                     <%
                         var percentread = (int)(0.5f + ((100f * mb.CurrentPage) / mb.Book.PageCount));
@@ -66,7 +66,7 @@
         <div class="col">
             <div class="card h-100 special border-0 bg-transparent">
                 <a href='../book/<%: Utility.Slugify(mb.Book.Title, "book")%>-<%: mb.Book.ID %>' style="text-align: center;">
-                    <img src="<%: mb.Book.CoverPage %>" class="card-img-top bookphoto <%= (rst == ReadStatusType.Read) ? "read" : "" %>" style="width: auto; max-width: 128px;" alt="" /></a>
+                    <img src="<%: mb.Book.CoverPage %>" class="card-img-top bookphoto <%= (rst == ReadStatusType.Read) ? "read" : "" %> <%: mb.ReadingStartDate.HasValue ? "readingstart-" + mb.ReadingStartDate.Value.Year : "" %>" style="width: auto; max-width: 128px;" alt="" /></a>
                 <div class="card-body">
                     <%if (rst != ReadStatusType.Reading)
                         { %>
@@ -113,7 +113,8 @@
         { %> 
     <div class=" text-center py-2 border fixed-bottom bg-light">
         <button type="button" class="btn btn-secondary me-2" data-bs-toggle="modal" data-bs-target="#shareLibraryModal">Library Picture</button>
-        <button type="button" class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#shareBooksReadModal">Books Read Picture</button>
+        <button type="button" class="btn btn-secondary me-2" data-bs-toggle="modal" data-bs-target="#shareBooksReadModal">Books Read Picture</button>
+        <button type="button" class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#shareBooksReadYearModal">Books Read Picture (This Year)</button>
     </div>
     <div class="modal fade" id="shareLibraryModal" tabindex="-1" aria-labelledby="shareModalLabel" aria-hidden="true">
         <div class="modal-dialog">
@@ -151,14 +152,34 @@
             </div>
         </div>
     </div>
+    <div class="modal fade" id="shareBooksReadYearModal" tabindex="-1" aria-labelledby="shareBooksReadYearModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body text-center">
+                    <div class="d-none">
+                        <canvas id="booksreadyearcanvas" width="428" height="926"></canvas>
+                    </div>
+                    <img id="booksreadimgyear" src="" alt="" class="img-fluid" />
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" onclick="downloadBooksReadYearImage()">Download</button>
+                </div>
+            </div>
+        </div>
+    </div>
     <%} %>
     <%if (!isempty)
         { %>
     <script>
         const canvas = document.getElementById('librarycanvas');
         const canvas2 = document.getElementById('booksreadcanvas');
+        const canvas3 = document.getElementById('booksreadyearcanvas');
         const context = canvas.getContext('2d');
         const context2 = canvas2.getContext('2d');
+        const context3 = canvas3.getContext('2d');
 
         function generateLibraryPhoto() {
             var xOffset = 0, yOffset = 0;
@@ -229,10 +250,10 @@
         }
 
         function generateBooksReadPhoto() {
-            var xOffset = 0, yOffset = 0;
-            var fwidth = 107;
-            var arr = [];
-            var arr2 = [];
+            let xOffset = 0, yOffset = 0;
+            let fwidth = 107;
+            let arr = [];
+            let arr2 = [];
 
             for (var i = 0; i < $(".bookphoto.read").length; i++)
                 arr.push(i);
@@ -286,7 +307,79 @@
 
             $("#booksreadimg").attr("src", canvas2.toDataURL("image/png"));
         }
-        $(window).load(function () { generateLibraryPhoto(); generateBooksReadPhoto(); });
+
+        function generateBooksReadYearPhoto() {
+            let xOffset = 0, yOffset = 0;
+            let fwidth = 107;
+            //let arr = [];
+            //let arr2 = [];
+            let selector = ".readingstart-<%: DateTime.Now.Year%>";
+            //for (let i = 0; i < $(selector).length; i++) {
+            //    arr.push(i);
+            //    arr2.push(i);
+            //}
+            //for (let i = 0; i < 24; i++) {
+            //    let randomindex = Math.floor(Math.random() * (arr.length - 1));
+            //    arr2.push(arr[randomindex]);
+            //    arr.splice(randomindex, 1);
+            //    if (i >= ($(selector).length - 1))
+            //        break;
+            //}
+
+            for (var index = 0; index < $(selector).length; index++) {
+                var bkimage = $(selector)[index];
+                var wrh = bkimage.width / bkimage.height;
+                newWidth = bkimage.width > fwidth ? fwidth : bkimage.width;
+                newHeight = newWidth / wrh;
+                if (newHeight > canvas.height) {
+                    newHeight = canvas.height;
+                    newWidth = newHeight * wrh;
+                }
+                context3.drawImage(bkimage, xOffset, yOffset, newWidth, newHeight);
+                if ((index + 1) % 4 == 0) {
+                    yOffset += newHeight;
+                    xOffset = 0;
+                } else {
+                    xOffset += fwidth;
+                }
+
+                context3.globalAlpha = 0.5;
+                context3.fillStyle = "#000000";
+                context3.fillRect(0, 450, canvas3.width, 40);
+
+                context3.globalAlpha = 1;
+                context3.font = '16px Verdana';
+                context3.fillStyle = '#ffffff';
+                context3.textAlign = 'center';
+                context3.textBaseline = 'middle';
+                context3.fillText("Read " + $(selector).length + " Books in <%: DateTime.Now.Year %>, <%: PagesReadThisYear %> pages per day.", canvas3.width / 2, 470);
+
+                //context3.globalAlpha = 0.5;
+                //context3.fillStyle = "#000000";
+                //context3.fillRect(0, 0, canvas3.width, 25);
+                //context3.globalAlpha = 1.0;
+
+                //context3.font = '13px Verdana';
+                //context3.fillStyle = '#ffffff';
+                //context3.textAlign = 'center';
+                //context3.textBaseline = 'middle';
+                //context3.fillText("Generated by https://www.rockying.com", canvas3.width / 2, 12);
+            }
+
+            $("#booksreadimgyear").attr("src", canvas3.toDataURL("image/png"));
+        }
+
+        $(window).load(function () {
+            try {
+                generateLibraryPhoto();
+            } catch (err) { console.log(err); }
+            try {
+                generateBooksReadPhoto();
+            } catch (err2) { console.log(err2); }
+            try {
+                generateBooksReadYearPhoto();
+            } catch (err3) { console.log(err3); }
+        });
 
         function downloadImage() {
             var anchor = document.createElement("a");
@@ -299,6 +392,13 @@
             var anchor = document.createElement("a");
             anchor.href = document.getElementById('booksreadcanvas').toDataURL("image/png");
             anchor.download = "booksread.png";
+            anchor.click();
+        }
+
+        function downloadBooksReadYearImage() {
+            var anchor = document.createElement("a");
+            anchor.href = document.getElementById('booksreadyearcanvas').toDataURL("image/png");
+            anchor.download = "booksread-<%: DateTime.Now.Year%>.png";
             anchor.click();
         }
     </script>
