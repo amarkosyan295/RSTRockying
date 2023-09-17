@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31424.327
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RSTRockying", ".", "{A6B1C991-A263-4123-97F6-76D5DE1A3037}"
 	ProjectSection(WebsiteProperties) = preProject
@@ -26,10 +26,13 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{A6B1C991-A263-4123-97F6-76D5DE1A3037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A6B1C991-A263-4123-97F6-76D5DE1A3037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B1C991-A263-4123-97F6-76D5DE1A3037}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B1C991-A263-4123-97F6-76D5DE1A3037}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

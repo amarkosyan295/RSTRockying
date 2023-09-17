@@ -135,6 +135,7 @@ namespace Rockying.Models
             }
         }
 
+
         public static string TrimStartHTTP(string url)
         {
             return url.TrimStart("http:".ToCharArray());

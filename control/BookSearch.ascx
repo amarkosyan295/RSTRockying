@@ -27,15 +27,16 @@
     <asp:UpdateProgress ID="UpdateProgress1" AssociatedUpdatePanelID="UpdatePanel1" DisplayAfter="10" runat="server">
         <ProgressTemplate>
             <div class="progress m-1" style="height: 5px;">
-                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%"></div>
+                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%"></div>
             </div>
         </ProgressTemplate>
     </asp:UpdateProgress>
     <asp:UpdatePanel ID="UpdatePanel1" runat="server" UpdateMode="Conditional" ChildrenAsTriggers="true" RenderMode="Block">
         <ContentTemplate>
-            <asp:Repeater ID="SearchResultRepeater" runat="server" EnableViewState="false" OnItemDataBound="SearchResultRepeater_ItemDataBound">
-                <HeaderTemplate>
-                    <div style="position: absolute; top: 40px; z-index: 10; width: 100%" class="bg-light p-2 border">
+            <div style="position: absolute; top: 40px; z-index: 10; width: 100%" class="bg-light p-2 border">
+                <asp:Repeater ID="SearchResultRepeater" runat="server" EnableViewState="false" OnItemDataBound="SearchResultRepeater_ItemDataBound">
+                    <HeaderTemplate>
+
                         <div class="row mt-2">
                             <div class="col-6">
                                 <h5>Search Results</h5>
@@ -45,36 +46,42 @@
                             </div>
                         </div>
                         <div class="p-1" style="max-height: 500px; overflow-y: auto;">
-                </HeaderTemplate>
-                <ItemTemplate>
-                    <div class="card special m-1 border-bottom">
-                        <div class="row g-0">
-                            <div class="col-mb-2 col-3">
-                                <a runat="server" href='<%# "~/book/" + Utility.Slugify(Eval("Title").ToString(), "book")  + "-" + Eval("ID") %>'>
-                                    <img src="<%# Eval("CoverPage") %>" class="card-img-top" alt="" /></a>
-                            </div>
-                            <div class="col-mb-10 col-9">
-                                <div class="card-body">
-                                    <h5 class="card-title "><a runat="server" class="text-dark text-decoration-none" href='<%# "~/book/" + Utility.Slugify(Eval("Title").ToString(), "book") + "-" + Eval("ID") %>'><%# Eval("Title") %></a></h5>
-                                    <p class="card-text">
-                                        <asp:Literal ID="AuthorLt" Mode="PassThrough" runat="server" Text='<%# Eval("Author") %>'></asp:Literal>
-                                    </p>
-                                    <p class="card-text">
-                                        Publisher: <%# Eval("Publisher") %>
-                                    </p>
-                                    <p class="card-text">
-                                        <%# Eval("PageCount") %> Pages
-                                    </p>
+                    </HeaderTemplate>
+                    <ItemTemplate>
+                        <div class="card special m-1 border-bottom">
+                            <div class="row g-0">
+                                <div class="col-mb-2 col-3">
+                                    <a runat="server" href='<%# "~/book/" + Utility.Slugify(Eval("Title").ToString(), "book")  + "-" + Eval("ID") %>'>
+                                        <img src="<%# Eval("CoverPage") %>" class="card-img-top" alt="" /></a>
+                                </div>
+                                <div class="col-mb-10 col-9">
+                                    <div class="card-body">
+                                        <h5 class="card-title "><a runat="server" class="text-dark text-decoration-none" href='<%# "~/book/" + Utility.Slugify(Eval("Title").ToString(), "book") + "-" + Eval("ID") %>'><%# Eval("Title") %></a></h5>
+                                        <p class="card-text">
+                                            <asp:Literal ID="AuthorLt" Mode="PassThrough" runat="server" Text='<%# Eval("Author") %>'></asp:Literal>
+                                        </p>
+                                        <p class="card-text">
+                                            Publisher: <%# Eval("Publisher") %>
+                                        </p>
+                                        <p class="card-text">
+                                            <%# Eval("PageCount") %> Pages
+                                        </p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </ItemTemplate>
-                <FooterTemplate>
-                    </div>
+                    </ItemTemplate>
+                    <FooterTemplate>
                         </div>
-                </FooterTemplate>
-            </asp:Repeater>
+                        
+                    </FooterTemplate>
+                </asp:Repeater>
+                <asp:PlaceHolder ID="BookSearchEmpty" Visible="false" runat="server">
+                    <p class="text-center p-2">
+                        No books found.
+                    </p>
+                </asp:PlaceHolder>
+            </div>
         </ContentTemplate>
         <Triggers>
             <asp:AsyncPostBackTrigger ControlID="SearchButton" EventName="Click" />
@@ -166,25 +173,25 @@
         Quagga.onDetected(function (result) {
             if (result.codeResult.code) {
                 $('#<%: SearchKeywordTextBox.ClientID%>').val("isbn:" + result.codeResult.code);
-                    $('#<%: SearchButton.ClientID %>').click();
-                    Quagga.stop();
-                    setTimeout(function () { $('#livestream_scanner').modal('hide'); }, 400);
-                }
-            });
-
-            // Stop quagga in any case, when the modal is closed
-            $('#livestream_scanner').on('hide.bs.modal', function () {
-                if (Quagga) {
-                    Quagga.stop();
-                }
-            });
-
-            // Call Quagga.decodeSingle() for every file selected in the 
-            // file input
-            $("#livestream_scanner input:file").on("change", function (e) {
-                if (e.target.files && e.target.files.length) {
-                    Quagga.decodeSingle($.extend({}, fileConfig, { src: URL.createObjectURL(e.target.files[0]) }), function (result) { alert(result.codeResult.code); });
-                }
-            });
+                $('#<%: SearchButton.ClientID %>').click();
+                Quagga.stop();
+                setTimeout(function () { $('#livestream_scanner').modal('hide'); }, 400);
+            }
         });
+
+        // Stop quagga in any case, when the modal is closed
+        $('#livestream_scanner').on('hide.bs.modal', function () {
+            if (Quagga) {
+                Quagga.stop();
+            }
+        });
+
+        // Call Quagga.decodeSingle() for every file selected in the 
+        // file input
+        $("#livestream_scanner input:file").on("change", function (e) {
+            if (e.target.files && e.target.files.length) {
+                Quagga.decodeSingle($.extend({}, fileConfig, { src: URL.createObjectURL(e.target.files[0]) }), function (result) { alert(result.codeResult.code); });
+            }
+        });
+    });
 </script>

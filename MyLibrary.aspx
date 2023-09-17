@@ -68,6 +68,7 @@
                 <a href='../book/<%: Utility.Slugify(mb.Book.Title, "book")%>-<%: mb.Book.ID %>' style="text-align: center;">
                     <img src="<%: mb.Book.CoverPage %>" class="card-img-top bookphoto <%= (rst == ReadStatusType.Read) ? "read" : "" %> <%: mb.ReadingStartDate.HasValue ? "readingstart-" + mb.ReadingStartDate.Value.Year : "" %>" style="width: auto; max-width: 128px;" alt="" /></a>
                 <div class="card-body">
+                    <div class="card-title"><%: mb.Book.Title%></div>
                     <%if (rst != ReadStatusType.Reading)
                         { %>
                     <div class="dropdown text-center">
